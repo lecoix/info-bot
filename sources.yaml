@@ -1,0 +1,89 @@
+# 信息源配置
+#
+# type:     rss | api | web | rate
+# category: rate | tech | politics | other  （影响推送分组与排序）
+# enabled:  默认 true
+# max_items: 单源单次最多取多少条（默认 10）
+
+sources:
+  # ========== 💱 汇率 ==========
+  - name: 澳元兑人民币 (AUD/CNY)
+    type: rate
+    category: rate
+    url: https://api.frankfurter.dev/v1/latest
+    base: AUD
+    target: CNY
+    max_items: 1
+
+  # ========== 💻 科技要闻 ==========
+  - name: 少数派
+    type: rss
+    category: tech
+    url: https://sspai.com/feed
+    max_items: 5
+
+  - name: 36氪 - 最新文章
+    type: rss
+    category: tech
+    url: https://www.36kr.com/feed
+    max_items: 5
+
+  - name: 爱范儿
+    type: rss
+    category: tech
+    url: https://www.ifanr.com/feed
+    max_items: 3
+    enabled: false  # 国内站，境外访问可能失败，按需打开
+
+  - name: The Verge
+    type: rss
+    category: tech
+    url: https://www.theverge.com/rss/index.xml
+    max_items: 4
+
+  - name: Hacker News Front Page
+    type: web
+    category: tech
+    url: https://news.ycombinator.com/
+    item_selector: "tr.athing"
+    title_selector: "span.titleline > a"
+    link_selector: "span.titleline > a"
+    link_attr: href
+    max_items: 5
+
+  # ========== 🌐 时事政治 ==========
+  - name: BBC 中文 - 头条
+    type: rss
+    category: politics
+    url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
+    max_items: 5
+
+  - name: BBC World News
+    type: rss
+    category: politics
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    max_items: 4
+
+  - name: The Guardian - World
+    type: rss
+    category: politics
+    url: https://www.theguardian.com/world/rss
+    max_items: 4
+
+  - name: Al Jazeera English
+    type: rss
+    category: politics
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    max_items: 3
+    enabled: false  # 噪音多按需开
+
+# 全局设置
+settings:
+  # 单次运行最多推送条数（避免微信刷屏）
+  max_push_per_run: 35
+  # 单条 summary 文字长度上限
+  max_content_length: 200
+  # 是否对每条内容生成 AI 摘要（需要配置 LLM_API_KEY）
+  enable_summary: false
+  # 推送标题前缀
+  title_prefix: "[InfoBot]"
