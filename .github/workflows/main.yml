@@ -2,8 +2,9 @@ name: info-bot crawler
 
 on:
   schedule:
-    # 每 30 分钟跑一次。GitHub 最短粒度是 5 分钟，且高峰期可能有延迟。
-    - cron: "*/30 * * * *"
+    # 北京时间每天 08:00 跑一次（UTC 00:00）。
+    # GitHub Actions 的 schedule 可能有几分钟延迟，属于正常现象。
+    - cron: "0 0 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
