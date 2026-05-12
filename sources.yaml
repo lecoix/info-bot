@@ -1,0 +1,52 @@
+# 信息源配置
+# type 可选值: rss / api / web
+# enabled 默认 true，可临时关闭某条源
+# max_items 限制本次最多取多少条（默认 10），避免首次跑刷屏
+
+sources:
+  # ========== RSS ==========
+  - name: 阮一峰的网络日志
+    type: rss
+    url: https://www.ruanyifeng.com/blog/atom.xml
+    max_items: 5
+
+  - name: 少数派
+    type: rss
+    url: https://sspai.com/feed
+    max_items: 5
+
+  - name: 月光博客
+    type: rss
+    url: https://www.williamlong.info/rss.xml
+    max_items: 5
+    enabled: false
+
+  # ========== JSON API ==========
+  - name: V2EX 最热
+    type: api
+    url: https://www.v2ex.com/api/topics/hot.json
+    title_field: title
+    url_field: url
+    summary_field: content_rendered
+    max_items: 10
+
+  # ========== 网页爬虫 (BeautifulSoup) ==========
+  - name: HackerNews 首页
+    type: web
+    url: https://news.ycombinator.com/
+    item_selector: "tr.athing"
+    title_selector: "span.titleline > a"
+    link_selector: "span.titleline > a"
+    link_attr: href
+    max_items: 10
+
+# 全局设置
+settings:
+  # 单次运行最多推送条数（避免微信刷屏）
+  max_push_per_run: 20
+  # 单条推送 HTML 内容长度上限
+  max_content_length: 800
+  # 是否对每条内容生成 AI 摘要（需要配置 LLM_API_KEY）
+  enable_summary: false
+  # 推送标题前缀
+  title_prefix: "[InfoBot]"
