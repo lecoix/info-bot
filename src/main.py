@@ -31,7 +31,10 @@ def collect_all(config) -> list[Item]:
             continue
         try:
             items = list(collect_source(src))
-            log.info("source %s -> %d items", src.name, len(items))
+            for it in items:
+                if it.category == "other":
+                    it.category = src.category
+            log.info("source %s [%s] -> %d items", src.name, src.category, len(items))
             out.extend(items)
         except Exception as e:
             log.exception("source %s failed: %s", src.name, e)

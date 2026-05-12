@@ -5,12 +5,13 @@ from typing import Iterable
 
 from ..config import SourceConfig
 from ..models import Item
-from . import api, rss, web
+from . import api, rate, rss, web
 
 _DISPATCH = {
     "rss": rss.collect,
     "api": api.collect,
     "web": web.collect,
+    "rate": rate.collect,
 }
 
 

@@ -16,6 +16,7 @@ class SourceConfig:
     url: str
     enabled: bool = True
     max_items: int = 10
+    category: str = "other"
     extra: dict[str, Any] = field(default_factory=dict)
 
 
@@ -39,7 +40,7 @@ class AppConfig:
     dry_run: bool = False
 
 
-_KNOWN_KEYS = {"name", "type", "url", "enabled", "max_items"}
+_KNOWN_KEYS = {"name", "type", "url", "enabled", "max_items", "category"}
 
 
 def _load_dotenv(path: Path) -> None:
@@ -75,6 +76,7 @@ def load_config(root: Path | None = None) -> AppConfig:
                 url=raw["url"],
                 enabled=raw.get("enabled", True),
                 max_items=raw.get("max_items", 10),
+                category=raw.get("category", "other"),
                 extra=extra,
             )
         )

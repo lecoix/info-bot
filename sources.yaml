@@ -1,51 +1,88 @@
 # 信息源配置
-# type 可选值: rss / api / web
-# enabled 默认 true，可临时关闭某条源
-# max_items 限制本次最多取多少条（默认 10），避免首次跑刷屏
+#
+# type:     rss | api | web | rate
+# category: rate | tech | politics | other  （影响推送分组与排序）
+# enabled:  默认 true
+# max_items: 单源单次最多取多少条（默认 10）
 
 sources:
-  # ========== RSS ==========
-  - name: 阮一峰的网络日志
-    type: rss
-    url: https://www.ruanyifeng.com/blog/atom.xml
-    max_items: 5
+  # ========== 💱 汇率 ==========
+  - name: 澳元兑人民币 (AUD/CNY)
+    type: rate
+    category: rate
+    url: https://api.frankfurter.dev/v1/latest
+    base: AUD
+    target: CNY
+    max_items: 1
 
+  # ========== 💻 科技要闻 ==========
   - name: 少数派
     type: rss
+    category: tech
     url: https://sspai.com/feed
     max_items: 5
 
-  - name: 月光博客
+  - name: 36氪 - 最新文章
     type: rss
-    url: https://www.williamlong.info/rss.xml
+    category: tech
+    url: https://www.36kr.com/feed
     max_items: 5
-    enabled: false
 
-  # ========== JSON API ==========
-  - name: V2EX 最热
-    type: api
-    url: https://www.v2ex.com/api/topics/hot.json
-    title_field: title
-    url_field: url
-    summary_field: content_rendered
-    max_items: 10
+  - name: 爱范儿
+    type: rss
+    category: tech
+    url: https://www.ifanr.com/feed
+    max_items: 3
+    enabled: false  # 国内站，境外访问可能失败，按需打开
 
-  # ========== 网页爬虫 (BeautifulSoup) ==========
-  - name: HackerNews 首页
+  - name: The Verge
+    type: rss
+    category: tech
+    url: https://www.theverge.com/rss/index.xml
+    max_items: 4
+
+  - name: Hacker News Front Page
     type: web
+    category: tech
     url: https://news.ycombinator.com/
     item_selector: "tr.athing"
     title_selector: "span.titleline > a"
     link_selector: "span.titleline > a"
     link_attr: href
-    max_items: 10
+    max_items: 5
+
+  # ========== 🌐 时事政治 ==========
+  - name: BBC 中文 - 头条
+    type: rss
+    category: politics
+    url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
+    max_items: 5
+
+  - name: BBC World News
+    type: rss
+    category: politics
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    max_items: 4
+
+  - name: The Guardian - World
+    type: rss
+    category: politics
+    url: https://www.theguardian.com/world/rss
+    max_items: 4
+
+  - name: Al Jazeera English
+    type: rss
+    category: politics
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    max_items: 3
+    enabled: false  # 噪音多按需开
 
 # 全局设置
 settings:
   # 单次运行最多推送条数（避免微信刷屏）
-  max_push_per_run: 20
-  # 单条推送 HTML 内容长度上限
-  max_content_length: 800
+  max_push_per_run: 35
+  # 单条 summary 文字长度上限
+  max_content_length: 200
   # 是否对每条内容生成 AI 摘要（需要配置 LLM_API_KEY）
   enable_summary: false
   # 推送标题前缀

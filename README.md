@@ -1,14 +1,15 @@
 # info-bot
 
-定时上网收集信息并推送到个人微信的机器人。基于 **Python + GitHub Actions + WxPusher** 搭建，零服务器成本。
+定时收集每日信息并推送到个人微信的「晨报机器人」。基于 **Python + GitHub Actions + WxPusher** 搭建，零服务器成本。
 
 ## 功能特性
 
-- 支持 RSS / JSON API / 普通 HTML 网页三类信息源
+- 默认每天早上 8:00（北京时间）发送一份分类晨报
+- 三大板块：**💱 今日汇率** / **💻 科技要闻** / **🌐 时事政治**
+- 支持 RSS / JSON API / 普通 HTML 网页 / 汇率 API 四类信息源
 - 基于 URL 哈希自动去重，状态文件 commit 回仓库实现持久化
-- 支持可选的 LLM 摘要（DeepSeek / 通义 / OpenAI 兼容接口）
+- 可选 LLM 摘要（DeepSeek / 通义 / OpenAI 兼容接口）
 - WxPusher 推送到个人微信，单日 1000 条免费额度
-- GitHub Actions Cron 定时触发，30 分钟一次，免费
 
 ## 快速开始
 
@@ -49,27 +50,51 @@ python -m src.main
 
 ## 自定义信息源
 
-编辑 [sources.yaml](sources.yaml)，支持三种类型：
+编辑 [sources.yaml](sources.yaml)，每条 source 用 `category` 决定推送时归到哪个板块：
+
+| category | 板块 |
+| --- | --- |
+| `rate` | 💱 今日汇率 |
+| `tech` | 💻 科技要闻 |
+| `politics` | 🌐 时事政治 |
+| `other` | 📰 其他 |
+
+四种 source `type`：
 
 ```yaml
 sources:
-  - name: 阮一峰的网络日志
-    type: rss
-    url: https://www.ruanyifeng.com/blog/atom.xml
+  # 汇率（欧洲央行参考汇率，工作日更新）
+  - name: 澳元兑人民币 (AUD/CNY)
+    type: rate
+    category: rate
+    url: https://api.frankfurter.dev/v1/latest
+    base: AUD
+    target: CNY
 
+  # 标准 RSS / Atom
+  - name: 少数派
+    type: rss
+    category: tech
+    url: https://sspai.com/feed
+    max_items: 5
+
+  # JSON API（数组型响应，按 *_field 提取字段）
   - name: V2EX 最热
     type: api
+    category: tech
     url: https://www.v2ex.com/api/topics/hot.json
-    title_field: title              # JSON 字段映射
+    title_field: title
     url_field: url
-    summary_field: content
+    summary_field: content_rendered
 
+  # 静态 HTML 网页（CSS 选择器）
   - name: HackerNews
     type: web
+    category: tech
     url: https://news.ycombinator.com/
-    item_selector: tr.athing         # CSS 选择器
-    title_selector: span.titleline > a
-    link_selector: span.titleline > a
+    item_selector: "tr.athing"
+    title_selector: "span.titleline > a"
+    link_selector: "span.titleline > a"
     link_attr: href
 ```
 
@@ -99,13 +124,15 @@ info-bot/
 
 | 想调整 | 改这里 |
 | --- | --- |
-| 推送太频繁 / 太少 | `.github/workflows/crawler.yml` 里的 `cron` 表达式 |
-| 单次推送条数过多导致刷屏 | `sources.yaml` 的 `settings.max_push_per_run`（默认 20） |
+| 推送时间 | `.github/workflows/crawler.yml` 的 cron（默认 `0 0 * * *` = 北京时间 08:00） |
+| 想一天两次 | cron 写 `0 0,12 * * *`（北京 08:00 + 20:00） |
 | 某个源噪音太大 | 把对应 source 的 `enabled: false`，或调小它的 `max_items` |
-| 标题里加分类前缀 | `settings.title_prefix` |
-| 觉得每条文字太长 | `settings.max_content_length`（默认 800） |
+| 单次推送条数过多 | `sources.yaml` 的 `settings.max_push_per_run`（默认 35） |
+| 觉得每条 summary 太长 | `settings.max_content_length`（默认 200） |
+| 想换汇率币种 | 在汇率 source 里改 `base` 和 `target`（ISO 4217 三字母代码） |
+| 新增分类板块 | 在 [src/pusher.py](src/pusher.py) 的 `CATEGORY_META` 里加一项 |
 | 想开启 AI 摘要 | 1. 在 Secrets 设置 `LLM_API_KEY` 2. `settings.enable_summary: true` |
-| 想换 LLM 提供商 | Secrets / Variables 里改 `LLM_BASE_URL` 和 `LLM_MODEL`（任何 OpenAI 兼容接口即可） |
+| 想换 LLM 提供商 | Secrets / Variables 里改 `LLM_BASE_URL` 和 `LLM_MODEL`（OpenAI 兼容协议即可） |
 | 摘要模板不满意 | 编辑 [src/summarizer.py](src/summarizer.py) 里的 `PROMPT` |
 | 新增信息源 | 在 [sources.yaml](sources.yaml) 追加一条 source 配置 |
 | 状态文件越积越大 | 已自动按 first_seen 截断到最近 5000 条，可改 [src/dedup.py](src/dedup.py) 里的 `MAX_ENTRIES` |

@@ -15,6 +15,7 @@ class Item:
     title: str
     url: str
     summary: str = ""
+    category: str = "other"
     published_at: Optional[datetime] = None
     fetched_at: datetime = field(default_factory=lambda: datetime.now(timezone.utc))
 
@@ -30,6 +31,7 @@ class Item:
             "title": self.title,
             "url": self.url,
             "summary": self.summary,
+            "category": self.category,
             "published_at": self.published_at.isoformat() if self.published_at else None,
             "fetched_at": self.fetched_at.isoformat(),
             "fingerprint": self.fingerprint,
