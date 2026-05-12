@@ -10,6 +10,7 @@
 - 基于 URL 哈希自动去重，状态文件 commit 回仓库实现持久化
 - 可选 LLM 摘要（DeepSeek / 通义 / OpenAI 兼容接口）
 - WxPusher 推送到个人微信，单日 1000 条免费额度
+- **可选 GitHub Pages Dashboard**：浏览器收藏一个 URL，随时查看最近 7 天的全部内容（自动暗色主题、分类 tab、响应式）
 
 ## 快速开始
 
@@ -41,12 +42,27 @@ python -m src.main
 ### 3. 部署到 GitHub Actions
 
 1. 把仓库推到 GitHub
-2. 进入 Repo Settings → Secrets and variables → Actions，新增 Secrets：
+2. 进入 Repo Settings → Secrets and variables → Actions，新增 Repository Secrets：
    - `WXPUSHER_APP_TOKEN`
    - `WXPUSHER_UIDS`
    - `LLM_API_KEY`（可选）
-3. 进入 Actions 标签页启用 workflow，可手动触发一次测试
-4. 之后默认每 30 分钟自动跑一次
+3. Repo Settings → Actions → General → Workflow permissions 改为 **Read and write permissions**
+4. 进入 Actions 标签页启用 workflow，可手动触发一次测试
+5. 之后每天北京时间 08:00 自动跑
+
+### 4. 启用 GitHub Pages 浏览器 Dashboard（推荐）
+
+让你在浏览器收藏一个 URL，随时查看晨报内容（电脑/手机通用）：
+
+1. 跑过至少一次 workflow（让 `docs/index.html` 被 commit 回仓库）
+2. Repo Settings → **Pages**
+3. **Source** 选 `Deploy from a branch`
+4. **Branch** 选 `main`，目录选 **`/docs`**，点 Save
+5. 等 1～2 分钟，页面顶部会显示你的 Dashboard URL：
+   ```
+   https://<你的用户名>.github.io/<仓库名>/
+   ```
+6. 浏览器收藏，每天打开即看。每跑一次 workflow 数据自动刷新
 
 ## 自定义信息源
 
@@ -105,14 +121,21 @@ info-bot/
 ├── .github/workflows/crawler.yml   定时任务
 ├── sources.yaml                    信息源配置
 ├── state/seen.json                 去重状态（自动提交）
+├── docs/                           GitHub Pages 网页 Dashboard
+│   ├── index.html                  渲染好的页面（自动更新）
+│   ├── items.json                  最近 7 天的历史数据
+│   └── .nojekyll                   禁用 Jekyll 处理
 ├── src/
 │   ├── main.py                     入口
 │   ├── config.py                   配置加载
 │   ├── models.py                   数据模型
+│   ├── dashboard.py                Dashboard 历史库 + HTML 生成
+│   ├── templates/dashboard.html    页面模板
 │   ├── collectors/
 │   │   ├── rss.py
 │   │   ├── api.py
-│   │   └── web.py
+│   │   ├── web.py
+│   │   └── rate.py                 汇率采集器
 │   ├── dedup.py
 │   ├── summarizer.py               AI 摘要
 │   └── pusher.py                   WxPusher 推送
@@ -136,6 +159,8 @@ info-bot/
 | 摘要模板不满意 | 编辑 [src/summarizer.py](src/summarizer.py) 里的 `PROMPT` |
 | 新增信息源 | 在 [sources.yaml](sources.yaml) 追加一条 source 配置 |
 | 状态文件越积越大 | 已自动按 first_seen 截断到最近 5000 条，可改 [src/dedup.py](src/dedup.py) 里的 `MAX_ENTRIES` |
+| Dashboard 想保留更长历史 | 改 [src/dashboard.py](src/dashboard.py) 里的 `HISTORY_DAYS`（默认 7 天）和 `MAX_ITEMS`（默认 300） |
+| Dashboard 想调整外观/排版 | 改 [src/templates/dashboard.html](src/templates/dashboard.html)（含 CSS + JS，单文件） |
 
 ## 注意事项
 

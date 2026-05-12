@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>InfoBot · 信息晨报</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📨%3C/text%3E%3C/svg%3E">
+<style>
+  :root {
+    --bg: #ffffff;
+    --bg-card: #f7f9fc;
+    --bg-hover: #eef2f7;
+    --fg: #1f2328;
+    --fg-muted: #656d76;
+    --fg-subtle: #8b949e;
+    --border: #d0d7de;
+    --accent: #0969da;
+    --accent-rate: #f0ad4e;
+    --accent-tech: #4a90e2;
+    --accent-politics: #9b59b6;
+    --accent-other: #888;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117;
+      --bg-card: #161b22;
+      --bg-hover: #1f242c;
+      --fg: #e6edf3;
+      --fg-muted: #9198a1;
+      --fg-subtle: #6e7681;
+      --border: #30363d;
+      --accent: #4493f8;
+    }
+  }
+  [data-theme="dark"] {
+    --bg: #0d1117; --bg-card: #161b22; --bg-hover: #1f242c;
+    --fg: #e6edf3; --fg-muted: #9198a1; --fg-subtle: #6e7681;
+    --border: #30363d; --accent: #4493f8;
+  }
+  [data-theme="light"] {
+    --bg: #ffffff; --bg-card: #f7f9fc; --bg-hover: #eef2f7;
+    --fg: #1f2328; --fg-muted: #656d76; --fg-subtle: #8b949e;
+    --border: #d0d7de; --accent: #0969da;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+      "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: var(--bg); color: var(--fg);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 20px;
+    display: flex; align-items: center; gap: 12px;
+    backdrop-filter: blur(8px);
+  }
+  header h1 { margin: 0; font-size: 18px; font-weight: 600; }
+  header .meta { color: var(--fg-muted); font-size: 13px; flex: 1; }
+  header button {
+    background: var(--bg-card); border: 1px solid var(--border);
+    color: var(--fg); padding: 6px 12px; border-radius: 6px;
+    cursor: pointer; font-size: 13px;
+  }
+  header button:hover { background: var(--bg-hover); }
+  main { max-width: 900px; margin: 0 auto; padding: 20px; }
+
+  .tabs {
+    display: flex; gap: 4px; margin-bottom: 20px;
+    border-bottom: 1px solid var(--border);
+    overflow-x: auto;
+  }
+  .tab {
+    background: none; border: none; color: var(--fg-muted);
+    padding: 10px 14px; cursor: pointer; font-size: 14px;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+  }
+  .tab:hover { color: var(--fg); }
+  .tab.active { color: var(--fg); border-bottom-color: var(--accent); font-weight: 500; }
+  .tab .count {
+    display: inline-block; margin-left: 4px;
+    background: var(--bg-card); color: var(--fg-subtle);
+    font-size: 11px; padding: 1px 6px; border-radius: 10px;
+  }
+
+  .category-section { margin-bottom: 32px; }
+  .category-header {
+    display: flex; align-items: center; gap: 8px;
+    margin-bottom: 12px; font-size: 15px; font-weight: 600;
+    color: var(--fg-muted);
+  }
+  .category-header .accent-bar {
+    width: 4px; height: 18px; border-radius: 2px;
+  }
+
+  .item {
+    padding: 12px 14px; margin-bottom: 8px;
+    background: var(--bg-card); border-radius: 8px;
+    border-left: 3px solid transparent;
+    transition: background 0.15s;
+  }
+  .item:hover { background: var(--bg-hover); }
+  .item[data-cat="rate"] { border-left-color: var(--accent-rate); }
+  .item[data-cat="tech"] { border-left-color: var(--accent-tech); }
+  .item[data-cat="politics"] { border-left-color: var(--accent-politics); }
+  .item[data-cat="other"] { border-left-color: var(--accent-other); }
+  .item-source {
+    font-size: 12px; color: var(--fg-subtle);
+    display: flex; gap: 8px; align-items: center;
+    margin-bottom: 4px;
+  }
+  .item-source .dot { color: var(--fg-subtle); }
+  .item-title { font-size: 15px; font-weight: 500; margin: 4px 0; }
+  .item-title a { color: var(--fg); text-decoration: none; }
+  .item-title a:hover { color: var(--accent); text-decoration: underline; }
+  .item-summary {
+    color: var(--fg-muted); font-size: 13px;
+    margin-top: 6px; line-height: 1.5;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+  .item-summary img { display: none; }
+
+  .empty { text-align: center; color: var(--fg-subtle); padding: 60px 0; }
+
+  footer {
+    text-align: center; padding: 24px; color: var(--fg-subtle);
+    font-size: 12px; border-top: 1px solid var(--border);
+    margin-top: 40px;
+  }
+  footer a { color: var(--fg-muted); }
+
+  @media (max-width: 600px) {
+    header { padding: 10px 12px; }
+    header h1 { font-size: 16px; }
+    header .meta { font-size: 12px; }
+    main { padding: 12px; }
+    .item { padding: 10px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>📨 InfoBot</h1>
+  <div class="meta">最后更新：<span id="updated-at">—</span></div>
+  <button id="theme-toggle" title="切换主题">🌓</button>
+</header>
+
+<main>
+  <div class="tabs" id="tabs"></div>
+  <div id="content"></div>
+  <div class="empty" id="empty" style="display:none;">暂无内容，等待下一次抓取…</div>
+</main>
+
+<footer>
+  数据每天北京时间 08:00 自动更新 · <a href="https://github.com/" target="_blank">GitHub</a>
+</footer>
+
+<script id="data-blob" type="application/json">{"updated_at": "2026-05-12T08:58:54.710383+00:00", "items": []}</script>
+<script>
+(function() {
+  const DATA = JSON.parse(document.getElementById("data-blob").textContent || "{}");
+  const items = DATA.items || [];
+  const updatedAt = DATA.updated_at || "";
+
+  const CATEGORIES = [
+    { id: "all", label: "全部" },
+    { id: "rate", label: "💱 汇率" },
+    { id: "tech", label: "💻 科技" },
+    { id: "politics", label: "🌐 政治" },
+    { id: "other", label: "📰 其他" }
+  ];
+  const ACCENT = {
+    rate: "var(--accent-rate)", tech: "var(--accent-tech)",
+    politics: "var(--accent-politics)", other: "var(--accent-other)"
+  };
+
+  const updatedEl = document.getElementById("updated-at");
+  if (updatedAt) {
+    const d = new Date(updatedAt);
+    updatedEl.textContent = d.toLocaleString("zh-CN", { hour12: false });
+  }
+
+  function countByCat(cat) {
+    return cat === "all" ? items.length : items.filter(i => (i.category || "other") === cat).length;
+  }
+
+  const tabsEl = document.getElementById("tabs");
+  let activeTab = "all";
+
+  function renderTabs() {
+    tabsEl.innerHTML = "";
+    CATEGORIES.forEach(c => {
+      const n = countByCat(c.id);
+      if (c.id !== "all" && n === 0) return;
+      const btn = document.createElement("button");
+      btn.className = "tab" + (c.id === activeTab ? " active" : "");
+      btn.innerHTML = `${c.label}<span class="count">${n}</span>`;
+      btn.onclick = () => { activeTab = c.id; renderTabs(); renderContent(); };
+      tabsEl.appendChild(btn);
+    });
+  }
+
+  function escapeHtml(s) {
+    return (s || "").replace(/[&<>"']/g, c => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    })[c]);
+  }
+  function stripHtml(s) { return (s || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim(); }
+
+  function formatDate(iso) {
+    if (!iso) return "";
+    try {
+      const d = new Date(iso);
+      const now = new Date();
+      const diff = (now - d) / 1000;
+      if (diff < 60) return "刚刚";
+      if (diff < 3600) return Math.floor(diff / 60) + " 分钟前";
+      if (diff < 86400) return Math.floor(diff / 3600) + " 小时前";
+      if (diff < 86400 * 7) return Math.floor(diff / 86400) + " 天前";
+      return d.toLocaleDateString("zh-CN");
+    } catch (e) { return ""; }
+  }
+
+  function renderItem(it) {
+    const cat = it.category || "other";
+    const summary = stripHtml(it.summary || "").slice(0, 240);
+    return `<div class="item" data-cat="${escapeHtml(cat)}">
+      <div class="item-source">
+        <span>${escapeHtml(it.source || "")}</span>
+        <span class="dot">·</span>
+        <span>${escapeHtml(formatDate(it.fetched_at))}</span>
+      </div>
+      <div class="item-title">
+        <a href="${escapeHtml(it.url || "#")}" target="_blank" rel="noopener">${escapeHtml(it.title || "")}</a>
+      </div>
+      ${summary ? `<div class="item-summary">${escapeHtml(summary)}</div>` : ""}
+    </div>`;
+  }
+
+  function renderContent() {
+    const contentEl = document.getElementById("content");
+    const emptyEl = document.getElementById("empty");
+    const shown = activeTab === "all"
+      ? items
+      : items.filter(i => (i.category || "other") === activeTab);
+    if (shown.length === 0) {
+      contentEl.innerHTML = "";
+      emptyEl.style.display = "block";
+      return;
+    }
+    emptyEl.style.display = "none";
+
+    if (activeTab !== "all") {
+      contentEl.innerHTML = shown.map(renderItem).join("");
+      return;
+    }
+    const groups = {};
+    shown.forEach(it => {
+      const c = it.category || "other";
+      (groups[c] ||= []).push(it);
+    });
+    const order = ["rate", "tech", "politics", "other"];
+    contentEl.innerHTML = order
+      .filter(c => groups[c])
+      .map(c => {
+        const meta = CATEGORIES.find(x => x.id === c) || { label: c };
+        return `<section class="category-section">
+          <div class="category-header">
+            <span class="accent-bar" style="background:${ACCENT[c]}"></span>
+            <span>${meta.label}</span>
+            <span style="color:var(--fg-subtle);font-weight:400;">(${groups[c].length})</span>
+          </div>
+          ${groups[c].map(renderItem).join("")}
+        </section>`;
+      }).join("");
+  }
+
+  const themeBtn = document.getElementById("theme-toggle");
+  themeBtn.onclick = () => {
+    const cur = document.documentElement.getAttribute("data-theme");
+    const next = cur === "dark" ? "light" : (cur === "light" ? "" : "dark");
+    if (next) {
+      document.documentElement.setAttribute("data-theme", next);
+      localStorage.setItem("infobot-theme", next);
+    } else {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.removeItem("infobot-theme");
+    }
+  };
+  const saved = localStorage.getItem("infobot-theme");
+  if (saved) document.documentElement.setAttribute("data-theme", saved);
+
+  renderTabs();
+  renderContent();
+})();
+</script>
+</body>
+</html>
