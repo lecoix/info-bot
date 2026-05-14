@@ -1,18 +1,43 @@
 {
+  "015180f3cf44d2e8": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Scorched Earth 2000 – Web"
+  },
   "021a59e3220d41a1": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "少数派",
     "title": "社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验"
+  },
+  "0310ee603346872c": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC World News",
+    "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial"
+  },
+  "11afd6e6c4692218": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "黃仁勳馬斯克等十餘位美國公司高管隨特朗普訪華"
   },
   "1487dd2c92ac1eca": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "The Verge",
     "title": "Sony’s new Xperia phone gets an overdue redesign"
   },
+  "17ad342ab00b8953": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍"
+  },
   "1cabe284b824ce86": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "少数派",
     "title": "派早报：Google 发布多项 Android 功能更新、腾讯收购喜马拉雅获批等"
+  },
+  "1f6b2c983d2d5368": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "The Guardian - World",
+    "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown"
   },
   "2545b093aebb9b91": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
@@ -44,6 +69,11 @@
     "source": "少数派",
     "title": "Google 提前给 Android 办了场发布会，但主角依然不是 Android"
   },
+  "3e420c02130ee9b3": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "独家对谈｜林琳：一位耶鲁MBA裸辞转行卖保险之后"
+  },
   "40e358b82a9c7421": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "少数派",
@@ -59,6 +89,11 @@
     "source": "The Verge",
     "title": "Meta won’t let you block its AI account on Threads"
   },
+  "44a0daab73953fd7": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "特朗普時隔九年再度訪華，中國年輕一代的「美國夢」在褪色嗎？"
+  },
   "4e9bcb35b49293b1": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "36氪 - 最新文章",
@@ -69,20 +104,45 @@
     "source": "36氪 - 最新文章",
     "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构"
   },
+  "55538322309813e0": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫"
+  },
   "5730d4b4b1b492cd": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "Hacker News Front Page",
     "title": "My graduation cap runs Rust"
+  },
+  "61152e45fd166d59": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "少数派",
+    "title": "App+1 | 把笔记软件「装进」浏览器：SilverBullet.md"
   },
   "64a4d8b2e908cbd1": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "The Verge",
     "title": "Sam Altman was winning on the stand, but it might not be enough"
   },
+  "64a4f63d56266eee": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "The Verge",
+    "title": "AMD&#8217;s best CPU tech for gamers is coming to workstations too"
+  },
+  "6af4af8023b3e274": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC World News",
+    "title": "Woman isolating on British island in South Pacific after hantavirus contact"
+  },
   "6d3de632a00b841d": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "The Guardian - World",
     "title": "Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa"
+  },
+  "6e919c33bc61e36f": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "一名美國公民在紐約運作中國海外「秘密警察站」而被定罪"
   },
   "6fe77279d7a17e50": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
@@ -99,6 +159,11 @@
     "source": "Hacker News Front Page",
     "title": "Restore full BambuNetwork support for Bambu Lab printers"
   },
+  "775a8a03eebb4ba8": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "The Verge",
+    "title": "YouTube is courting creators — and sponsors — with streaming shows"
+  },
   "77bdf0f36e3aed4f": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "BBC World News",
@@ -109,15 +174,55 @@
     "source": "BBC 中文 - 头条",
     "title": "世界銀行前行長表示：中國應停止囤積糧食、化肥"
   },
+  "884221fa113a0a1d": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司"
+  },
+  "90224bb2e6a44cc8": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "Hacker News Front Page",
+    "title": "A History of IDEs at Google"
+  },
+  "90a43f18dc16290c": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features"
+  },
   "916d9535b1cb6e11": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "BBC 中文 - 头条",
     "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？"
   },
+  "97aba0bb6e2de527": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "The Guardian - World",
+    "title": "Remains of second US soldier who went missing during military exercises in Morocco have been recovered"
+  },
+  "996fb4fa89053818": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC World News",
+    "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi"
+  },
+  "9d66cc2e6dd6f973": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "少数派",
+    "title": "派早报：索尼推出 Xperia 1 VIII 手机及 Alpha 7R VI 相机等"
+  },
   "a28764a16b78c2ac": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "Hacker News Front Page",
     "title": "Starship V3"
+  },
+  "a3deee7e6b5ae242": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC World News",
+    "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation"
+  },
+  "a77262e12b10d8a5": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥"
   },
   "ab2aa599a1c76dab": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
@@ -128,6 +233,11 @@
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "BBC World News",
     "title": "A decade on, Trump returns to a stronger and more assertive China"
+  },
+  "ae10af8199c5f351": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "The Verge",
+    "title": "Trump administration defends right to ban content moderation experts from US"
   },
   "ae1b2cfe0bb59da1": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
@@ -149,10 +259,35 @@
     "source": "36氪 - 最新文章",
     "title": "8点1氪丨宇树发布载人变形机甲，定价390万起；微信确认不会开发已读、访客功能；国内航线燃油附加费将再上调"
   },
+  "bf3157bf1c80bacd": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "2026 AI最佳场景渗透案例重磅揭晓"
+  },
+  "c3c8e646e7791964": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "澳元兑人民币 (AUD/CNY)",
+    "title": "1 AUD = 4.9236 CNY ↑+0.37%"
+  },
+  "daf42e813c6f9679": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "特朗普再度訪華，直面更強勢崛起的中國"
+  },
   "e1739cedc6f9ead7": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "Hacker News Front Page",
     "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model"
+  },
+  "e69109eec30ec6b5": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "少数派",
+    "title": "佳明本能 Instinct 3 太阳能版评测：我的智能手表终章"
+  },
+  "e85a44a8ec183d29": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "The Verge",
+    "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs"
   },
   "ea1e1950f49cbaf2": {
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
@@ -163,5 +298,15 @@
     "first_seen": "2026-05-13T04:05:24.676390+00:00",
     "source": "BBC 中文 - 头条",
     "title": "被控充當中國代理人，美國加州阿卡迪亞市長認罪辭職"
+  },
+  "f44f8f959fcbc675": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Setting up a free *.city.state.us locality domain (2025)"
+  },
+  "fed720a1b05ead7a": {
+    "first_seen": "2026-05-14T04:04:25.227840+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Cisco Workforce Reductions"
   }
 }
