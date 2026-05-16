@@ -2,9 +2,11 @@
 from __future__ import annotations
 
 import logging
+import os
 import sys
 from pathlib import Path
 
+from . import dashboard
 from .collectors import collect_source
 from .config import load_config
 from .dedup import SeenStore
@@ -54,6 +56,15 @@ def main() -> int:
 
     raw_items = collect_all(config)
     log.info("collected %d items total", len(raw_items))
+
+    # Dashboard 比 dedup 宽松：所有采集结果都进历史，独立于推送状态
+    try:
+        dashboard.update(raw_items)
+    except Exception as e:
+        log.exception("dashboard update failed: %s", e)
+        # 线上静默失败会导致 docs 永远不提交、Pages 永远空白；CI 里直接失败便于排查
+        if os.environ.get("GITHUB_ACTIONS", "").lower() == "true":
+            raise
 
     store = SeenStore()
     new_items = store.filter_new(raw_items)

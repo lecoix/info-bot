@@ -27,6 +27,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # 需要完整历史才能可靠地向同一分支 push（默认 shallow 有时会导致奇怪行为）
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -49,10 +52,32 @@ jobs:
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
         run: python -m src.main
 
-      - name: Commit state
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(state): update seen.json [skip ci]"
-          file_pattern: "state/seen.json"
-          commit_user_name: info-bot
-          commit_user_email: info-bot@users.noreply.github.com
+      - name: Verify dashboard files were written
+        run: |
+          test -f docs/items.json
+          test -f docs/index.html
+          python - << 'PY'
+          import json
+          from pathlib import Path
+          p = Path("docs/items.json")
+          data = json.loads(p.read_text(encoding="utf-8"))
+          assert data.get("updated_at"), "docs/items.json missing updated_at — dashboard did not run correctly"
+          print("dashboard ok:", data["updated_at"], "count=", data.get("count"))
+          PY
+
+      # 不用 git-auto-commit-action：其 file_pattern 在部分环境下只对第一个路径生效，
+      # 会导致仓库里永远只有 seen.json 更新、docs/items.json 仍是占位空 updated_at。
+      - name: Commit state & dashboard
+        run: |
+          set -eux
+          git config user.name "info-bot"
+          git config user.email "info-bot@users.noreply.github.com"
+          git add state/seen.json docs/items.json docs/index.html
+          if [ -f docs/.nojekyll ]; then git add docs/.nojekyll; fi
+          git status -sb
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore: update state & dashboard [skip ci]"
+          git push
