@@ -1,4 +1,9 @@
 {
+  "04107987b00a2aa5": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "The Guardian - World",
+    "title": "Belgian ex-diplomat dies before standing trial over 1961 murder of Congolese leader"
+  },
   "059af37ce65b2e8b": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "BBC World News",
@@ -23,6 +28,11 @@
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "BBC 中文 - 头条",
     "title": "科學家如何反擊佔領城市下水道的「脂肪山」"
+  },
+  "10d33c1430e45398": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "少数派",
+    "title": "四天三夜，用小长假的时间体验青海湖小环线"
   },
   "11b5b6f0eacc352b": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -49,6 +59,11 @@
     "source": "The Verge",
     "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck"
   },
+  "193a70bc81ef24ba": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC World News",
+    "title": "Selling children to survive: Afghan fathers forced to make impossible choices"
+  },
   "1a6692b4fcd6de0f": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "Hacker News Front Page",
@@ -68,6 +83,11 @@
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "Hacker News Front Page",
     "title": "GenCAD"
+  },
+  "21822bb3948b8b53": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "少数派",
+    "title": "派早报：红魔发布红魔 11S Pro 系列手机等"
   },
   "22675cc102c0e038": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -99,20 +119,55 @@
     "source": "Hacker News Front Page",
     "title": "Hosting a website on an 8-bit microcontroller"
   },
+  "2f999c11ad2e25f0": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "The Verge",
+    "title": "Volvo teases a new affordable EV to replace discontinued EX30"
+  },
+  "33df5b01b3a83877": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "秘密警察與政治宣傳：在美國監視僑民的中國特工"
+  },
+  "36b60c44ad4f9a0e": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "The Verge",
+    "title": "Musk v. Altman proved that AI is led by the wrong people"
+  },
   "387b0a34695748ca": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "36氪 - 最新文章",
     "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元"
+  },
+  "3a65131ceed08f1c": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销"
   },
   "3bc0683d6411643c": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "少数派",
     "title": "本周看什么 | 最近值得一看的 8 部作品"
   },
+  "4e11732fd189ed3d": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "The Guardian - World",
+    "title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts"
+  },
+  "501cd11b0988cb29": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "剛果民主共和國的伊波拉疫情有多令人擔憂？"
+  },
   "51cb385bd98310e6": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "Hacker News Front Page",
     "title": "A nicer voltmeter clock"
+  },
+  "5446aa300f00d56d": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC World News",
+    "title": "Trump says he called off new Iran attack at request of Gulf states"
   },
   "55a2202c90f72574": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -128,6 +183,11 @@
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "少数派",
     "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年"
+  },
+  "6a6512a985a67c15": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Click (2016)"
   },
   "6c185535c109199b": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -159,6 +219,16 @@
     "source": "BBC World News",
     "title": "How worrying is the Ebola outbreak in DR Congo?"
   },
+  "75aeca30806947da": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目"
+  },
+  "7708d4e1b8241c35": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Anthropic acquires Stainless"
+  },
   "77345dd4d8266db4": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "BBC World News",
@@ -174,6 +244,26 @@
     "source": "36氪 - 最新文章",
     "title": "理想出牌：全新L9上市，45.98万元起｜最前线"
   },
+  "8b573beaa372698f": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV"
+  },
+  "931ed9858fc6edcc": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家"
+  },
+  "95066fad36c730b1": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生"
+  },
+  "986302343336151c": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "The Verge",
+    "title": "LG will release the first 1000Hz, 1080p gaming monitor this year"
+  },
   "9aab2324f433fd07": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "少数派",
@@ -184,15 +274,35 @@
     "source": "BBC 中文 - 头条",
     "title": "《臺灣漫遊錄》入圍布克獎：楊双子筆下的台灣美食與殖民記憶"
   },
+  "a2d87f6b47053a78": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions"
+  },
+  "a2df7e5c165481c6": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "澳元兑人民币 (AUD/CNY)",
+    "title": "1 AUD = 4.8726 CNY ↑+0.07%"
+  },
   "a6f260c5a0faf5c8": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "The Verge",
     "title": "Oddity is masterfully tense horror from the director of Hokum"
   },
+  "a7ad95b10cf386c9": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "FIFA世界盃2026：美加墨賽場的草地，是科學家數十年的心血"
+  },
   "a7cc115dd5c95ff6": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "BBC World News",
     "title": "Man drives car into pedestrians in Italy, injuring eight"
+  },
+  "ac357ab192bcbfe9": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "The Guardian - World",
+    "title": "‘It’s heartbreaking’: panic in eastern DRC over return of Ebola"
   },
   "b00c70929c5e966f": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -204,10 +314,25 @@
     "source": "BBC 中文 - 头条",
     "title": "特朗普訪華結果分析：美國盯著3B，中國盯著3T，誰佔了上風？"
   },
+  "b507e4d7852372be": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "The Verge",
+    "title": "PlayStation exclusives aren&#8217;t coming to PC anymore"
+  },
   "b5dc170640c62b84": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "少数派",
     "title": "为什么我觉得好的东西，媒体评测却给了低分？"
+  },
+  "b7ef5fd49150ff5e": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "少数派",
+    "title": "打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试"
+  },
+  "b82aa7875128b661": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发"
   },
   "bd40f441c9cb1c42": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -224,10 +349,20 @@
     "source": "36氪 - 最新文章",
     "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断"
   },
+  "c8b25367024db836": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp"
+  },
   "cf4d43e87a3505f7": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "Hacker News Front Page",
     "title": "Zerostack – A Unix-inspired coding agent written in pure Rust"
+  },
+  "cf51d221cc7fe987": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC World News",
+    "title": "At least 100 dead in Ebola outbreak in DR Congo, official says"
   },
   "d188bb3834174a12": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -254,6 +389,11 @@
     "source": "The Verge",
     "title": "Revamped Siri will reportedly offer auto-deleting chats"
   },
+  "e237d0553b16c900": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "少数派",
+    "title": "派评 | 近期值得关注的 App"
+  },
   "e2f1549fdb5e1991": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "Hacker News Front Page",
@@ -269,6 +409,11 @@
     "source": "BBC 中文 - 头条",
     "title": "特朗普與習近平舉行峰會數小時後，告誡台灣不要宣布獨立"
   },
+  "ecbebbfb7e095587": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "普京訪華：中俄關係現在有多緊密"
+  },
   "f2b662e9bd2c7d94": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "少数派",
@@ -279,10 +424,20 @@
     "source": "36氪 - 最新文章",
     "title": "又诞生一位千亿女富豪"
   },
+  "f7ff7a4fcae96590": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "賴清德：台灣不會挑釁，也不會放棄主權"
+  },
   "f8c8cc2523e144d0": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "少数派",
     "title": "[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看"
+  },
+  "f9a1126f1e51a6e7": {
+    "first_seen": "2026-05-19T02:50:14.467125+00:00",
+    "source": "BBC World News",
+    "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque"
   },
   "fdac59a9c7755145": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
