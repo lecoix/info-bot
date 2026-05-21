@@ -1,4 +1,9 @@
 {
+  "03477fde0dcb6c00": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "The Verge",
+    "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale"
+  },
   "04107987b00a2aa5": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "The Guardian - World",
@@ -18,6 +23,21 @@
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "澳元兑人民币 (AUD/CNY)",
     "title": "1 AUD = 4.8690 CNY ↓-0.89%"
+  },
+  "089da0f1694509d9": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "《中俄睦鄰友好合作條約》繼續生效  專家指普京仍謀求與中美三分天下"
+  },
+  "08d92a2a97ce5268": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "少数派",
+    "title": "自动补全生僻字，让 Kindle 从底层告别小方块"
+  },
+  "0a9e72cc64d162f9": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录"
   },
   "0ae8c7e76390eac6": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -48,6 +68,16 @@
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "BBC 中文 - 头条",
     "title": "MAGA運動中的中國批評者如何看待特朗普的北京之行"
+  },
+  "1458ef0ea423fd71": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "從「定義台獨」到「有所收斂」的演說：賴清德如何論述台灣主權？"
+  },
+  "14a9803f5321bc24": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "独家对谈｜谢文博：银发，孤独，一个中日观察者的十八年"
   },
   "150205854f445f1f": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -89,6 +119,16 @@
     "source": "BBC 中文 - 头条",
     "title": "民主剛果再爆發伊波拉疫情，WHO列國際公共衛生緊急事件"
   },
+  "1cca615177836770": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "The Verge",
+    "title": "SpaceX just filed for what could be the biggest IPO ever"
+  },
+  "1d6d4753038eb57e": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "Hacker News Front Page",
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension"
+  },
   "1dd8e57b48155700": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "36氪 - 最新文章",
@@ -113,6 +153,11 @@
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "36氪 - 最新文章",
     "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元"
+  },
+  "268751f4fde4a012": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "Hacker News Front Page",
+    "title": "DOS Zone"
   },
   "27cf1f67a905271b": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
@@ -224,6 +269,11 @@
     "source": "BBC 中文 - 头条",
     "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」"
   },
+  "561f0ce88a436fec": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "The Verge",
+    "title": "I’ve tested the latest Switch 2 controllers, and this one is the best"
+  },
   "5a11bfbbe499fd2c": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "The Verge",
@@ -233,6 +283,11 @@
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "少数派",
     "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年"
+  },
+  "5f5f9f550b9978a0": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects"
   },
   "5fd851a75e4f0435": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -294,6 +349,11 @@
     "source": "BBC World News",
     "title": "How worrying is the Ebola outbreak in DR Congo?"
   },
+  "751b0b53907ca40d": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "网易520发布会：质量为先，狙击细分赛道"
+  },
   "75aeca30806947da": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "36氪 - 最新文章",
@@ -308,6 +368,16 @@
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "BBC World News",
     "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war"
+  },
+  "7a58573a0e809aa8": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "谷歌時隔十餘年再度推出智慧眼鏡  私隱問題仍受關注"
+  },
+  "7ce59c68bed99f58": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "The Verge",
+    "title": "‘Solve all diseases,’ you say?"
   },
   "7f86bca0ee4c1130": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -329,6 +399,21 @@
     "source": "36氪 - 最新文章",
     "title": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉"
   },
+  "8c4aff487199f548": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC World News",
+    "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal"
+  },
+  "8c945e7742dd2c06": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "少数派",
+    "title": "4 月音乐精选：听这 8 张美妙的专辑迎接夏天"
+  },
+  "8ff9fb92488c98a4": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "少数派",
+    "title": "派早报：iQOO 15T 正式发布、小鹏 GX 上市等"
+  },
   "931ed9858fc6edcc": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "36氪 - 最新文章",
@@ -343,6 +428,11 @@
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "The Verge",
     "title": "LG will release the first 1000Hz, 1080p gaming monitor this year"
+  },
+  "9903597976374477": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Show HN: I reverse engineered Apple's video wallpapers"
   },
   "99435d47fb263b0c": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -459,6 +549,16 @@
     "source": "Hacker News Front Page",
     "title": "Google changes its search box"
   },
+  "bf40d911137c5353": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "Hacker News Front Page",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry"
+  },
+  "bfc86ab286fe109c": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC World News",
+    "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists"
+  },
   "c36be0dc5e1263b5": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "BBC 中文 - 头条",
@@ -468,6 +568,11 @@
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "36氪 - 最新文章",
     "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断"
+  },
+  "c59ddcf043cfa4e8": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "The Guardian - World",
+    "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment"
   },
   "c619ab51f4852c49": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -479,10 +584,25 @@
     "source": "The Verge",
     "title": "Wear OS 7 will keep track of deliveries and sports scores on your wrist"
   },
+  "c71ac2ff4a4468db": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "16款产品入选，2026「焦点」产品计划618特别版重磅发布"
+  },
   "c8b25367024db836": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "Hacker News Front Page",
     "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp"
+  },
+  "c9c9f13e4b03077b": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC World News",
+    "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes"
+  },
+  "ce49110f9f50aae4": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "日本由來已久的花粉過敏，源頭竟是1950年代的一項政策？"
   },
   "cf4d43e87a3505f7": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -509,6 +629,11 @@
     "source": "36氪 - 最新文章",
     "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出"
   },
+  "dd964d8bb61a516b": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "少数派",
+    "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验"
+  },
   "dece57dce22d6c60": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "BBC World News",
@@ -529,6 +654,11 @@
     "source": "Hacker News Front Page",
     "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation"
   },
+  "e66240c12f5232c5": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "澳元兑人民币 (AUD/CNY)",
+    "title": "1 AUD = 4.8499 CNY ↑+0.12%"
+  },
   "e76ea613258ea2be": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "The Verge",
@@ -548,6 +678,11 @@
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "少数派",
     "title": "YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？"
+  },
+  "f041c88fdb05728d": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”"
   },
   "f2b662e9bd2c7d94": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
@@ -584,6 +719,11 @@
     "source": "少数派",
     "title": "线下活动｜听完这首，不再 Emo：Leon x 少数派萨克斯音乐奏享会"
   },
+  "fc5af373696839e7": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "特朗普前腳離開，普京後腳抵京：兩場訪問背後的中國外交密碼"
+  },
   "fd138f9b5f52bdc8": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "BBC World News",
@@ -598,5 +738,10 @@
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "BBC 中文 - 头条",
     "title": "解讀「中美建設性戰略穩定關係」：習近平新詞反映兩國關係現實境遇"
+  },
+  "ff647adf65535256": {
+    "first_seen": "2026-05-21T02:53:37.250481+00:00",
+    "source": "BBC World News",
+    "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns"
   }
 }

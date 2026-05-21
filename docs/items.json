@@ -1,7 +1,297 @@
 {
-  "updated_at": "2026-05-20T02:50:26.597637+00:00",
-  "count": 120,
+  "updated_at": "2026-05-21T02:53:34.480549+00:00",
+  "count": 149,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
+      "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
+      "summary": "<p>Dr Peter Stafford’s wife and four children are also being monitored for symptoms amid Ebola outbreak in Congo</p><p>An American doctor who contracted Ebola in the Democratic Republic of the Congo has been flown to Germany for treatment, along with his wife and four children, as the World Health Organization warned of the “scale and speed” of the outbreak.</p><p>Authorities have reported at least 134 suspected deaths and more than 500 cases of the hemorrhagic Bundibugyo virus, which has no approved treatments or vaccines. The outbreak, which has spread into urban areas, has been declared a public health emergency requiring international response.</p> <a href=\"https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-05-20T12:28:43+00:00",
+      "fetched_at": "2026-05-21T02:53:34.477501+00:00",
+      "fingerprint": "c59ddcf043cfa4e8"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
+      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
+      "category": "politics",
+      "published_at": "2026-05-20T23:47:01+00:00",
+      "fetched_at": "2026-05-21T02:53:34.294350+00:00",
+      "fingerprint": "ff647adf65535256"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+      "category": "politics",
+      "published_at": "2026-05-20T23:28:28+00:00",
+      "fetched_at": "2026-05-21T02:53:34.294345+00:00",
+      "fingerprint": "bfc86ab286fe109c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
+      "category": "politics",
+      "published_at": "2026-05-20T16:34:40+00:00",
+      "fetched_at": "2026-05-21T02:53:34.294339+00:00",
+      "fingerprint": "8c4aff487199f548"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+      "category": "politics",
+      "published_at": "2026-05-20T23:28:07+00:00",
+      "fetched_at": "2026-05-21T02:53:34.294328+00:00",
+      "fingerprint": "c9c9f13e4b03077b"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "谷歌時隔十餘年再度推出智慧眼鏡  私隱問題仍受關注",
+      "url": "https://www.bbc.com/zhongwen/articles/cr7pjvl52j4o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "智慧眼鏡有潛力整合谷歌現有的多項服務，例如谷歌地圖和語音功能。",
+      "category": "politics",
+      "published_at": "2026-05-21T01:05:51+00:00",
+      "fetched_at": "2026-05-21T02:53:34.233395+00:00",
+      "fingerprint": "7a58573a0e809aa8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "日本由來已久的花粉過敏，源頭竟是1950年代的一項政策？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y7v82q4ylo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "日本在在70年前作出的一項決策——大規模重植日本森林，但僅限種兩種樹——如今正反過來困擾著這個國家。",
+      "category": "politics",
+      "published_at": "2026-05-21T01:03:04+00:00",
+      "fetched_at": "2026-05-21T02:53:34.233389+00:00",
+      "fingerprint": "ce49110f9f50aae4"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "特朗普前腳離開，普京後腳抵京：兩場訪問背後的中國外交密碼",
+      "url": "https://www.bbc.com/zhongwen/articles/c8d80qm6jllo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "習近平如何用兩場截然不同的接待，展示中國在中美俄之間的新角色？",
+      "category": "politics",
+      "published_at": "2026-05-20T09:16:10+00:00",
+      "fetched_at": "2026-05-21T02:53:34.233384+00:00",
+      "fingerprint": "fc5af373696839e7"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "《中俄睦鄰友好合作條約》繼續生效  專家指普京仍謀求與中美三分天下",
+      "url": "https://www.bbc.com/zhongwen/articles/cy0270093ego/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "習近平和普京當天下午簽署兩國關於進一步加強全面戰略協作、深化睦鄰友好合作的聯合聲明，見證簽署經貿、教育、科技等領域20項合作文件。",
+      "category": "politics",
+      "published_at": "2026-05-20T08:39:03+00:00",
+      "fetched_at": "2026-05-21T02:53:34.233377+00:00",
+      "fingerprint": "089da0f1694509d9"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "從「定義台獨」到「有所收斂」的演說：賴清德如何論述台灣主權？",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g04lk8x2eo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "特朗普訪華後的言論引發「台獨」爭議，賴清德近日多次回應相關議題。有專家對BBC中文分析，賴清德的主權論述本質上延續蔡英文路線，但其作風和直白的語言表述，往往給人具挑釁性的觀感，難以擺脫「麻煩製造者」形象。",
+      "category": "politics",
+      "published_at": "2026-05-20T11:37:02+00:00",
+      "fetched_at": "2026-05-21T02:53:34.233367+00:00",
+      "fingerprint": "1458ef0ea423fd71"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-21T02:53:33.797514+00:00",
+      "fingerprint": "5f5f9f550b9978a0"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "DOS Zone",
+      "url": "https://dos.zone/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-21T02:53:33.797406+00:00",
+      "fingerprint": "268751f4fde4a012"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: I reverse engineered Apple's video wallpapers",
+      "url": "https://github.com/kageroumado/phosphene",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-21T02:53:33.797267+00:00",
+      "fingerprint": "9903597976374477"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-21T02:53:33.797150+00:00",
+      "fingerprint": "1d6d4753038eb57e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-21T02:53:33.797016+00:00",
+      "fingerprint": "bf40d911137c5353"
+    },
+    {
+      "source": "The Verge",
+      "title": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+      "summary": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the console’s only wireless controller with a 3.5mm headphone jack for private listening, not to mention great-feeling [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-05-20T18:14:38+00:00",
+      "fetched_at": "2026-05-21T02:53:33.470295+00:00",
+      "fingerprint": "561f0ce88a436fec"
+    },
+    {
+      "source": "The Verge",
+      "title": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
+      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-05-20T20:00:00+00:00",
+      "fetched_at": "2026-05-21T02:53:33.470289+00:00",
+      "fingerprint": "03477fde0dcb6c00"
+    },
+    {
+      "source": "The Verge",
+      "title": "‘Solve all diseases,’ you say?",
+      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage. You can expect our next issue at its usual time [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-05-20T21:06:35+00:00",
+      "fetched_at": "2026-05-21T02:53:33.470283+00:00",
+      "fingerprint": "7ce59c68bed99f58"
+    },
+    {
+      "source": "The Verge",
+      "title": "SpaceX just filed for what could be the biggest IPO ever",
+      "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
+      "summary": "Elon Musk's final frontier is officially open for business now that SpaceX has formally filed its S-1 prospectus with the SEC. That kicks off what could be the largest initial public offering ever when it lists on the Nasdaq stock exchange with the ticker SPCX. SpaceX generated $18.67 billion in revenue in 2025, driven largely [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-05-20T21:29:05+00:00",
+      "fetched_at": "2026-05-21T02:53:33.470272+00:00",
+      "fingerprint": "1cca615177836770"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
+      "url": "https://36kr.com/p/3816942423000196?f=rss",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3817119265457027\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>新加坡加码人工智能布局，英伟达将落地本地研发中心</strong></a></p>\n  <p>全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817185914520710\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选</strong></a></p>\n  <p>36氪获悉，《2026福布斯中国人工智能科技企业TOP 50》正式揭晓，中关村科金成功入选，是榜单中唯一的“企业级AI平台及应用公司”。据IDC最新报告，中关村科金位列中国大模型平台私有化市场份额第四；在2026年一季度应用类大模型项目公开中标数排名前五。公司服务行业客户超3000家，覆盖金融、政务、汽车、消费零售、企业出海等领域。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817261602161540\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮</strong></a></p>\n  <p>三星电子的劳资谈判再度宣告破裂，明天起将举行大罢工。威刚董事长陈立白表示，倘若罢工时长拉长，或将进一步冲击全球DRAM与NAND Flash供货，推动行业价格上行。陈立白称，当前三大存储原厂2026年绝大部分产能早已提前订满售出，不少客户已经开始洽谈2027年及更长期的供货合约。（财联社）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817256828585089\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>云迹科技获全球首个千台级亲子场景智能体订单</strong></a></p>\n  <p>36氪获悉，云迹科技近日与深圳中亿集团达成战略合作，旗下UP“小马”骑乘机器人签下千台采购订单。这是全球首个最大规模的亲子公共服务场景机器人智能体订单。亲子场景通过扫码骑乘直接面向C端收费，云迹UP系列产品采用“通用底盘+功能上舱”模块化设计，同一底盘可横跨酒店、商超、亲子等场景，大幅降低跨场景复制成本。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817247552210053\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>新交所与中国银行签署新版战略合作备忘录</strong></a></p>\n  <p>36氪获悉，5月19日，新加坡交易所集团（简称“新交所”）与中国银行股份有限公司（简称“中国银行”）签署战略合作备忘录，进一步深化双方长期合作关系。此次深化合作将支持有国际化发展需求的中国企业在新交所首次上市或二次上市，包括来自上海证券交易所和深圳证券交易所的中国企业。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817224182825862\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>中芯国际、华虹集团等成立电子材料国际供应链中心，注册资本2亿</strong></a></p>\n  <p>36氪获悉，天眼查App显示，5月20日，上海电子材料国际供应链中心有限公司成立，法定代表人为顾春林，注册资本2亿人民币，经营范围包括互联网销售、电子专用材料销售、电子元器件批发、电子元器件零售等，由中芯国际控股有限公司、华虹集团旗下上海华虹投资发展有限公司、上海华谊控股集团有限公司、上海泓明数智科技有限公司、上海化学工业区企业发展有限公司共同持股。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817109218575489\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>地瓜机器人与千寻智能达成战略合作</strong></a></p>\n  <p>36氪获悉，5月20日，地瓜机器人与千寻智能宣布达成战略合作。双方已完成开源VLA模型Spirit v1.5与旭日S600旗舰大算力芯片的深度适配，联合打造高性能、可量产的软硬一体化解决方案。Spirit v1.5是国内首个综合性能超越国际标杆Pi0.5的开源VLA基础模型；旭日S600具备560TOPS（INT8）AI算力，可满足大模型端侧高效推理需求。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817267547538564\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>微软与Proximus NXT合作，推出主权云解决方案</strong></a></p>\n  <p>5月20日，微软与Proximus NXT宣布达成战略合作新里程碑，共同为比利时和卢森堡的公共及私营机构开发和部署主权云解决方案。该方案的核心是基于Azure Local的断网运行模式，它允许组织运行可临时或永久与公有云断开的自主云环境，同时保留Azure核心服务，以应对医疗、金融和公共行政等领域对数据主权、合规和业务连续性的高要求。目前，Proximus NXT已在比利时埃韦勒建立测试实验室。（界面</p>\n  <h2><strong>新产品：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3817118508713092\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>圆周率智能发布 iMLite AI（悟境）端侧实时决策引擎</strong></a></p>\n  <p>36氪获悉，今日，圆周率智能正式发布 iMLite AI（悟境）端侧实时决策引擎，聚焦户外智能硬件，覆盖户外、运动、出行三大场景。据了解，iMLite AI引擎实现100%离线独立运行、低功耗硬件适配、本地实时决策，构建“人+空间+行为”端侧决策逻辑。目前，iMLite AI已在50万+真实设备稳定部署，服务数十家B端客户。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817110991799169\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>飞猪推出酒店商家智能助理</strong></a></p>\n  <p>36氪获悉，5月20日，飞猪正式推出酒店商家智能助理，向平台上所有酒店免费开放。商家智能助理“上岗”后，一句话即可指挥AI批量调房态、改库存、录发票。它还能进行实时数据分析，向酒店提出科学的价格和库存管理策略参考；发现入住全流程中的服务关键点，帮助酒店优化服务，入住前主动关怀、离店后经营口碑。</p>\n  <h2>今日观点：</h2>\n  <p><a href=\"https://36kr.com/newsflashes/3817323036853377\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>郑栅洁：深入整治“内卷式”竞争，积极扩大有效益的投资</strong></a></p>\n  <p>36氪获悉，5月20日，国家发展改革委主任郑栅洁主持召开民营企业座谈会，围绕当前经济形势、有关行业运行新特点新变化新趋势以及宏观政策在微观层面落实情况，听取意见建议。郑栅洁表示，国家发展改革委将深入贯彻党中央、国务院决策部署，全面落实“十五五”规划《纲要》各项任务，用好用足宏观政策，推动科技自立自强、产业链自主可控，深入整治“内卷式”竞争，积极扩大有效益的投资，完善民营企业参与国家重大项目建设长效机制，不断增强经济发展内生动力。</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3817201857823618\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>欧盟就落实欧美贸易协议实施方案达成临时协议</strong></a></p>\n  <p>欧洲议会国际贸易委员会20日发布声明称，欧洲议会与欧盟成员国当天在法国斯特拉斯堡就落实欧盟-美国贸易协议达成临时协议。根据临时协议，欧盟对美国工业品以及部分农产品、海产品给予关税优惠的相关规定，将于2029年12月31日到期，除非双方决定延长。欧盟同时将设立“保障机制”。如果美国商品进口激增并对欧盟工业或农业造成严重冲击，欧盟委员会可启动调查，并暂停相关优惠措施。在钢铁和铝产品问题上，如果美国到2026年底仍对欧盟钢铁及铝衍生产品维持高于15%的关税，欧盟委员会可暂停部分关税优惠政策。根据程序，欧洲议会国际贸易委员会预计将于6月2日举行特别会议审议相关文本，欧洲议会全会预计于6月中旬进行表决。（央视新闻）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817320878424964\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>外交部：中方决定将对俄罗斯免签政策延长至2027年12月31日</strong></a></p>\n  <p>今天（5月20日），外交部发言人郭嘉昆主持例行记者会。总台央视记者问，普京总统访华期间，中俄双方在便利人员往来领域取得了什么新的成果？郭嘉昆表示，为持续便利中俄人员往来，中方决定将对俄罗斯免签政策延长至2027年12月31日。俄罗斯持普通护照人员来华经商、旅游观光、探亲访友、交流访问，过境不超过30天，可免办签证入境。（央视新闻）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3817221248844930\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>国际能源署：2026年全球近三成新车将为电动车</strong></a></p>\n  <p>国际能源署5月20日发布的《2026全球电动车展望》报告称，在能源危机背景下，各国政府与消费者正加速转向电动车，预计2026年全球电动车销量将达到2300万辆，占全球新车销量近30%。报告显示，2025年全球电动车销量同比增长20%，首次突破2000万辆，占全球新车销量的四分之一。（央视新闻）</p>",
+      "category": "tech",
+      "published_at": "2026-05-20T11:40:36+00:00",
+      "fetched_at": "2026-05-21T02:53:33.259878+00:00",
+      "fingerprint": "0a9e72cc64d162f9"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "网易520发布会：质量为先，狙击细分赛道",
+      "url": "https://36kr.com/p/3817849322964098?f=rss",
+      "summary": "<p>5月20日，2026年『网易游戏520线上发布会』正式举办，公布了40余款游戏及IP的最新动态。其中，520发布会上公布的部分重要新品如下：&nbsp;</p>\n  <p><strong>《遗忘之海》</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_8e885520a01d4db7984894a1cdaed9ec@6202862_oswg1086653oswg1080oswg606_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《遗忘之海》</p>\n  <p>本次发布会上，《遗忘之海》官宣将于5月22日开启三测前瞻直播，并于28日正式开启测试。&nbsp;</p>\n  <p>目前来看，《遗忘之海》应该是网易游戏最受期待的新品之一。它出自《第五人格》开发团队Joker工作室，此前已经推出过两次测试，网易高层也不止一次展现过对这款产品的重视。&nbsp;</p>\n  <p>从已有内容看，《遗忘之海》最独特的地方莫过于Joker工作室对游戏市场的一些独到理解——这点早在他们做《第五人格》时就可见一斑。如若没有意外，今年Q3《遗忘之海》正式上线后，市场将会迎来新一轮的产品玩法思考。&nbsp;</p>\n  <p><strong>《万民长歌：三国》</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_2d5500352be046de93dfac635014d564@6202862_oswg1125342oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《万民长歌：三国》</p>\n  <p>这款产品的出现其实让人颇感意外。&nbsp;</p>\n  <p>发布会前7天，沉寂近1年的《万民长歌：三国》突然“复活”，并每天更新一段场景美术展示，让不少人对产品的动态感到好奇。&nbsp;</p>\n  <p>针对国内单机行业回暖趋势，过去两年头部厂商都陆续开始围绕自家大IP做了些布局，《万民长歌：三国》便是其中之一。&nbsp;</p>\n  <p>这款产品曾被人猜测为“率土2”，是由《率土之滨》研发团队打造的单机策略游戏。它于2024年10月首曝，并在2025年4月推出了首测测试。单就呈现出的内容而言，《万民长歌：三国》彼时尽管未曾展现全貌，但明显已经有了不错的完成度，Steam上的口碑也还算不错。&nbsp;</p>\n  <p>令人意外的是，去年6月，《万民长歌：三国》项目停止研发，团队成员或转岗或离职，此后该产品更换团队后才逐步重启。&nbsp;</p>\n  <p><strong>《山海奇旅》</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_1331386c7d874bf081694c75b1821227@6202862_oswg634802oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《山海奇旅》</p>\n  <p>《山海奇旅》是一款浮岛建设主题的生活模拟类游戏。它首曝于2024年8月，此后一直没有太多动静。相比之下，网易旗下首曝更晚的《星绘友晴天》目前已经推出了PC端先行版。此次《山海奇旅》登上发布会，想必项目在6月份会有新的进度。&nbsp;</p>\n  <p>考虑到该赛道今年腾网米都有相应布局，想必将会展开一场生活类产品的较量。&nbsp;</p>\n  <p>与过去相比，网易游戏的精品化趋势已经相当明显。</p>\n  <p>基于过去十数年的积累，《阴阳师》《梦幻西游》《永劫无间》《逆水寒》《第五人格》《蛋仔派对》《率土之滨》《倩女幽魂》《一梦江湖》等老产品和IP持续稳定迭代，承载着网易游戏的基本盘。他们紧随时代步伐，不断推出契合主流玩法的新内容。</p>\n  <p>同时，网易游戏的新品也分成了两大趋势：一个是基于老IP/老牌工作室衍生而出的新可能，如由率土衍生的《万民长歌：三国》，从《战意》中脱胎而出的《战意：三国》，以及由《第五人格》开发团队创作的《遗忘之海》。</p>\n  <p>另一个则是契合时代主流，探索新趋势和可能性的产品，比较标志性的就是都市题材二游《无限大》——完美世界《异环》的成绩，也已经证明了这条赛道的巨大潜力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_5d0777a8b89849f0989f2fe2713d5d8c@6202862_oswg888800oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《无限大》</p>\n  <p>而《星绘友晴天》《山海奇旅》也注定会与腾讯《粒粒的小人国》、米哈游《星布谷地》分庭抗礼，真正挖掘出这条赛道仍未被已有产品覆盖的潜力。</p>\n  <p>最重要的是，比起网易以前的强调大范围覆盖的量，这些产品明显在质层面更胜一筹。这些新品未来都不乏成为爆品的可能。</p>\n  <p>此外，比较值得一提的是网易对AI的态度与应用。时至2026年，各家对AI技术的探索都到了一个相对饱和的阶段，并且能够将其熟练地应用在产品玩法的各个领域。</p>\n  <p>比如《万民长歌：三国》的PV就更像是“手搓+AI”的集合体，观感基本还可以，不存在明显的割裂感。</p>\n  <p>而《率土之滨》的短片就像是一段AI漫剧，走轻松幽默路线，但在搞怪之余，他们的短片完成度其实也相当高，少有较为明显的幻觉。此前，《率土之滨》玩家就曾“率土百特曼”加入《率土》“星推计划”，通过手搓游戏AI漫剧，单月收入突破五万。</p>\n  <p>可以说，对于如今的游戏大厂来说，使用AI已是必须坚决执行的战略了。&nbsp;</p>\n  <p>网易在AI领域的布局可以追溯到十余年前的网络安全相关业务，随后伏羲实验室以及AI Lab的成立，也是公司开始大力发展AI技术的标志性事件。&nbsp;</p>\n  <p>AI作为底层基础设施，不仅能为游戏产品的开发降本增效，也带来了AI NPC互动、AI捏脸新型交互体验。除了自有业务以外，网易还在积极与外部AI厂商合作，尝试将更多模态的AIGC应用到游戏当中，例如他们与 AI 3D大模型公司 VAST合作，将Tripo AI 3D大模型技术引入《蛋仔派对》的UGC创作系统，降低创作门槛并推动玩法创新 。</p>\n  <p>当然，使用AI批量生产内容也可能持续引发用户对质量的焦虑，但行业趋势已然如此。</p>\n  <p>从发布会过程来看，网易并不是不避讳这件事，只是AI的潮水正在席卷整个游戏行业，越来越多的中小型工作室已经通过AI证明了技术价值。不想在下一个时代被追赶甚至超越，就一定要在此时积极拥抱未来。</p>\n  <p>于各大游戏厂商而言，现在最合适的选择或许就是把手工制作与AI开发推向两个不同的应用路径——在抽象、搞怪的创意内容上更加下功夫，做出玩家认为“AI无法代替”的内容。</p>\n  <p>同时，持续强化AI生产能力，尽快将其内容质量打造到前沿水平，保证实际应用后，能够完美到不让玩家产生抵触。</p>\n  <p>本文首发<a href=\"https://mp.weixin.qq.com/s/SclgmIZ6r8jXezvNtKu-cQ\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪游戏”</a>。</p>",
+      "category": "tech",
+      "published_at": "2026-05-20T23:00:40+00:00",
+      "fetched_at": "2026-05-21T02:53:33.259873+00:00",
+      "fingerprint": "751b0b53907ca40d"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”",
+      "url": "https://36kr.com/p/3818280989443202?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>俄罗斯将延长对中国公民的免签制度</p>\n  <p>张雪首度谈及签约德比斯原因</p>\n  <p>微信再度开放520大额红包，限时1天&nbsp;</p>\n  <p>罗欣药业回应阿奇霉素劣药事件</p>\n  <p>段永平最新持仓公布</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>英伟达：第一财季净利润583亿美元，同比增长211%</strong></p>\n  <p>36氪获悉，英伟达发布2027财年第一季度财报，财报显示，英伟达第一财季营收816.2亿美元，同比增长85%；净利润583.2亿美元，同比增长211%。</p>\n  <p><strong>谷歌CEO：Gemini月活跃用户达9亿</strong></p>\n  <p>谷歌CEO皮查伊在2026年I/O开发者大会上表示，Gemini AI应用的月活跃用户在过去一年中增长了一倍多，达到9亿人次，日请求量增长超过7倍。他补充称，公司目前每月处理超过3.2千兆个AI token，较一年前的4,800万亿增长约7倍，也远高于2024年5月的9.7万亿水平。皮查伊表示，Gemini的快速增长推动了Alphabet今年股价上涨25%，并使公司进一步巩固其在全球人工智能研究领域的领先地位。（财联社）</p>\n  <p><strong>寿司郎回应“盘子10抽10脏”</strong></p>\n  <p>针对“杭州一门店被查盘子10抽10脏”一事，5月20日，寿司郎相关负责人向南都湾财社记者表示，公司对此事非常重视，已经按照政府监管部门要求整改完毕。</p>\n  <p>据此前报道，杭州一家寿司郎门店因无证销售冷加工糕点、专间管理多次违规，且餐具清洗消毒不到位，被处以罚没款共计6万余元的行政处罚。据行政处罚决定书记录，2026年1月5日，执法人员到店检查时发现，在刺身专区，用于盛装成品刺身的铝盘存在大量水渍及食物残渣。执法人员现场抽查了10只铝盘，这10只铝盘均存在上述问题。一个月后，因接到消费者投诉举报，执法人员于2月5日再次上门复查。在现场抽查的10件待使用餐具中，仍有6件表面留有饭粒残渣，未洗净。（南方都市报、第一财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>商务部：中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机</strong></p>\n  <p>36氪获悉，商务部美大司负责人解读中美经贸磋商初步成果，按照中美元首达成的重要共识，中国航空根据自身航空运输发展需要，将按照商业化原则引进200架波音飞机。同时，美方将为中方提供充足的发动机、零部件供应保障。</p>\n  <p><strong>三星电子工会推迟罢工</strong></p>\n  <p>据央视新闻，当地时间20日深夜，当天下午再度重启的三星电子劳资谈判结束，双方签署劳资协议暂定方案。三星电子工会一方表示，原定于21日开始进行的大罢工暂缓，工会内部将针对劳资谈判协议暂定方案进行投票，后续行动将视投票结果决定。</p>\n  <p>另据报道，三星电子暂定薪资协议将加薪6.2%，DX（设备体验）部门员工每人将获得价值600万韩元的股票。三星电子工会将于5月23日至28日就暂定薪资协议进行投票。韩国劳动部长表示，三星电子工会与三星在利润分配上达成共识。三星电子劳资双方此前就2026年薪资问题进行了多轮谈判，但双方始终未能彻底解决分歧。（第一财经、央视新闻）</p>\n  <p><strong>豆包客服回应“顾客用豆包预约餐厅”：无法帮用户预订</strong></p>\n  <p>5月19日，江苏镇江一家鱼庄店在平台上的差评被网友截图传播。写下该差评的用户表示，其通过“正规渠道”预约了该店5月3日18:30的2人餐，预约信息明确，渠道反馈预约成功。该用户称，其到店前多次拨打门店电话但未接通，按预约信息到店后被店员告知“你找豆包预约那你找豆包啊”。对此豆包官方客服回应称，平台暂不支持通过该应用进行实际餐厅预约，且因对话属用户隐私，无法代为向第三方传递信息。部分用户因电话预约困难或存在社交焦虑，转而依赖AI完成全流程服务，误将模拟信息视为有效凭证。（潇湘晨报）</p>\n  <p><strong>俄罗斯将延长对中国公民的免签制度</strong></p>\n  <p>据CCTV国际时讯消息，据塔斯社报道，俄罗斯总统新闻秘书佩斯科夫今天（5月20日）在北京接受采访时表示，俄罗斯将延长对中国公民的免签制度。此前报道：5月20日，外交部发言人郭嘉昆主持例行记者会。总台央视记者提问，普京总统访华期间，中俄双方在便利人员往来领域取得了什么新的成果？郭嘉昆表示，为持续便利中俄人员往来，中方决定将对俄罗斯免签政策延长至2027年12月31日。俄罗斯持普通护照人员来华经商、旅游观光、探亲访友、交流访问，过境不超过30天，可免办签证入境。（CCTV国际时讯）</p>\n  <p><strong>罗欣药业回应阿奇霉素劣药事件</strong></p>\n  <p>5月20日早间，罗欣药业公告，解释其控股子公司生产销售的注射用阿奇霉素，被山东省药品监督管理局判定为“劣药”，并处以罚没款相关事件。</p>\n  <p>罗欣药业表示，经公司自查，生产及留样环节均符合规范，推测问题可能源于流通储运环节受极端高温影响。整改及内部处理措施方面，罗欣药业指出，即日起停止生产和商业化该产品，已生产库存全部报废处理。对相关管理人员严厉问责，质量负责人被辞退，山东罗欣总经理被降两级处分，并相应调整薪酬。此外，严控储运质量并健全长效机制。</p>\n  <p>据此前报道，5月18日，山东省药监局发布的行政处罚信息显示，罗欣药业因生产销售不符合国家药品标准的注射用阿奇霉素，被处以没收药品609支、没收违法所得6.8万元并处罚款180万元，罚没款合计186.84万元。（每日经济新闻）</p>\n  <p><strong>思迈特软件发布企业级Agent BI白泽</strong></p>\n  <p>5月20日，思迈特软件正式发布SmartBI白泽V5，主打自主进化、安全可信，直击企业AI应用不敢用、没大用、难落地等痛点。这款业内首创AgentBI产品，采用指标体系+多智能体双轮驱动架构，拥有全链路智能数据分析能力，可打造从智能问数到决策交付的完整闭环，核心场景准确率达 99.9%。现已在金融、制造、央国企等大型企业规模化落地并兑现业务价值。</p>\n  <p><strong>爱尔眼科：已补缴税款3.48亿元、滞纳金1.76亿元</strong></p>\n  <p>爱尔眼科公告，公司根据国家税收法律法规的相关要求，对涉税事项开展了自查。经自查，公司需补缴税款3.48亿元、滞纳金1.76亿元。截至本公告披露日，公司已将上述税款及滞纳金缴纳完毕。根据自查情况，公司需增加2025年度企业所得税汇算清缴纳税申报金额人民币2.32亿元。（财联社）</p>\n  <p><strong>美股三大指数集体收涨，ARM涨超15%</strong></p>\n  <p>36氪获悉，5月20日收盘，美股三大指数集体上涨，道指涨1.31%，纳指涨1.54%，标普500指数涨1.08%。大型科技股集体上涨，苹果涨超1%，创历史收盘新高；ARM涨超15%，AMD涨超8%，英特尔涨超7%，特斯拉涨超3%，亚马逊涨超2%，英伟达涨超1%，谷歌、微软、Meta小幅上涨；热门中概股涨跌不一，小马智行涨超5%，网易涨超2%，小鹏集团、老虎证券涨超1%；哔哩哔哩跌超8%，蔚来跌超2%，百度、名创优品跌超1%。</p>\n  <p><strong>张雪首度谈及签约德比斯原因：他赛道经验丰富，还能清晰反馈赛车存在的问题</strong></p>\n  <p>近日，张雪机车车队在捷克站拿下双冠后，首次公开聊到签约车手德比斯的缘由。谈及选择他的理由，张雪表示：德比斯赛道经验十分丰富，各类赛道都有实战经历。他最突出的优势在于，骑行中一旦察觉到车辆状态不佳，能够条理清晰地把问题反馈给技师与工程师，这类精准反馈正是调校团队最需要的，便于快速完成车辆调校优化。（南方都市报）</p>\n  <p><strong>华谊兄弟被列为失信被执行人</strong></p>\n  <p>昔日 “中国影视娱乐第一股” 华谊兄弟（华谊300027.SZ）近日因60万案款成老赖。据天眼查法律诉讼信息显示，5月19日，ST华谊因有履行能力而拒不履行生效法律文书确定义务，被北京市朝阳区人民法院列为失信被执行人（老赖）。生效法律文书确定的义务显示，被执行人向申请执行人应支付本息暂计60.84万元。此外，该公司及其法定代表人王忠军因此案被限制高消费。本次涉案申请执行人为京凯力咨询顾问（北京）有限公司，涉案本息合计60.84 万元，公司履行状态为全部未履行。今年4月，法院已就此案对华谊兄弟执行60万元款项。（澎湃新闻）</p>\n  <p><strong>微信再度开放520大额红包，限时1天&nbsp;</strong></p>\n  <p>5月20日，记者查询发现，微信再度限时开放520元大额红包，限时1天。据了解，每逢2月14日、七夕、5月20日等特殊日期，微信都会开放520元红包，该传统至今已有10年。（潇湘晨报）</p>\n  <p><strong>西部材料管理层回应SpaceX“供货”传闻&nbsp;</strong></p>\n  <p>因传言为SpaceX供应火箭发动机核心材料而备受市场关注的稀有金属复合材料龙头西部材料（002149.SZ）近日召开了2025年度股东会。5月12日，该股盘中最高触及78.87元/股，为上市以来的股价高点。</p>\n  <p>股东会上，西部材料管理层表示，目前公司钛材、高端合金等产品确实在对接海外商业航天产业链，做一些产品供应，但最终产品流向与具体终端客户身份、合作订单规模、合作金额均无法对外披露。（界面新闻）</p>\n  <p><strong>段永平最新持仓：清仓阿里、新进特斯拉，加仓英伟达、拼多多等&nbsp;</strong></p>\n  <p>近日，著名投资人段永平管理的H&amp;H International Investment向美国SEC提交了2026年一季度13F持仓报告。数据显示，截至3月31日，该机构持仓总市值达200.04亿美元（约合人民币1362亿元），较2025年底的174.89亿美元增长14.4%，持仓数量从14只增至19只，整体呈现“核心仓位加固、新兴赛道布局”的鲜明特征。</p>\n  <p>在本次调仓中，段永平已彻底清空阿里巴巴持仓，同时清仓光刻机巨头阿斯麦及AI算力云服务商CRWV，完成对非核心资产的集中出清。（界面新闻）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_510d1dfc795c41f584f35fdf944bade8@5667365_oswg345589oswg1080oswg892_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">段永平最新持仓</p>\n  <p><strong>巨力索具连续三天跌停，杨子家族累计套现28亿&nbsp;</strong></p>\n  <p>5月20日，巨力索具（002342.SZ）延续前两日的跌停走势，开盘后被封死跌停板。截至上午收盘，该公司已经打开了跌停板，报14.95元/股，股价下跌了5.02%。5月18日，巨力索具开盘即一字跌停，全天换手率仅0.77%，成交额1.28亿元，收盘报17.49元/股；5月19日，公司股价再次一字跌停，报15.74元/股。截至目前，公司总市值缩水至151.1亿元。（界面新闻）</p>\n  <p><strong>电信运营商服务新规整治文字游戏，不使用“0元”“免费”等表述&nbsp;</strong></p>\n  <p>近日，国家市场监督管理总局正式对外发布《电信和互联网服务 基础电信企业网上营业厅服务规范》（GB/T 47484—2026）国家标准。</p>\n  <p>在信息透明方面，标准立足网上营业厅业务推广宣传内容的真实准确、完整清晰，提出应醒目地在同一页面明示业务的资费标准、服务内容、适用范围、使用规则、优惠政策、在网期限、退订方式、违约责任、限制性条件等重点事项，不使用“0元”“免费”“不限量”“永久”等易引发用户误解的表述，不通过折叠、隐蔽、模糊等形式隐瞒或淡化限制性条件。（界面新闻）</p>\n  <p><strong>苹果硬件负责人Srouji启动重大重组，加速未来设备开发</strong></p>\n  <p>苹果首席硬件官Johny Srouji近日对硬件开发部门进行重大管理层重组，旨在加快未来设备的研发进程并实现自研芯片与产品团队的更紧密整合。Srouji正在调整产品设计团队的管理架构。该职能的管辖权将从Kate Bergeron移交给其长期副手Shelly Goldberg和Dave Pakula。Goldberg此前负责Mac产品设计，Pakula领导Apple Watch、iPad和AirPods产品设计，今后他们将共同监督所有苹果产品的设计工作。Richard Dinh将继续领导iPhone产品设计。（新浪财经）</p>\n  <p><strong>SpaceX据悉打算在美国IPO过后30天收购初创公司Cursor</strong></p>\n  <p>据知知情人士透露，SpaceX预计将在其正式挂牌上市（IPO）满30 天后，推进对人工智能编程初创公司Cursor的收购案。这笔潜在交易将强力注能SpaceX的AI自动化编程实力。如果这笔交易最终未能达成，马斯克的SpaceX将需要向Cursor支付高达100亿美元的现金巨额反向分手费。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>OpenAI据悉拟在几周内提交IPO文件，计划于秋季上市</strong></p>\n  <p>5月21日消息，据报道，OpenAI正准备在未来几周内提交首次公开募股（IPO）文件，并计划在秋季某个时候上市。高盛和摩根士丹利正协助这家ChatGPT开发商最快于22日秘密提交IPO文件，但具体时间仍不确定。OpenAI在一份声明中表示，公司会定期评估一系列战略选择，“重点仍然是执行”。有消息称，IPO对该公司估值可能高达约1万亿美元。（界面新闻）</p>\n  <p><strong>SpaceX公开提交纳斯达克IPO文件，股票代码为SPCX</strong></p>\n  <p>SpaceX向美国证券交易委员会（SEC）提交S-1注册声明，SpaceX将在纳斯达克上市，股票代码为SPCX。承销商包括高盛、摩根士丹利、美国银行证券、花旗、摩根大通证券。SpaceX将发行两类普通股，A类普通股（每股将拥有1票投票权）和B类普通股（每股将拥有10票投票权）。马斯克的投票权合计为85.1%，拥有12.3%的A类股份和93.6%的B类股份。SEC文件显示，SpaceX第一季度收入46.94亿美元，运营亏损19.43亿美元；第一季度人工智能部门收入为8.18亿美元；一季度调整后EBITDA为11.3亿美元。2025年营收113.9亿美元，运营净利润44.2亿美元。（财联社）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI创始成员Karpathy表示他已加入Anthropic。</strong></p>\n  <p>Karpathy是OpenAI创始成员之一，曾担任特斯拉AI和Autopilot相关负责人，也是斯坦福深度学习课程CS231n的核心推动者之一，在AI圈里被称为 “卡神”。（财联社）&nbsp;</p>\n  <p><strong>OpenAI宣布在新加坡设立人工智能实验室，并投入超过3亿新元&nbsp;</strong></p>\n  <p>OpenAI与新加坡签署谅解备忘录，宣布在新加坡设立一个人工智能实验室，并投入超过3亿新元（约合2.34亿美元），这是OpenAI首次在美国以外设立此类实验室。（财联社）</p>\n  <p><strong>对标Claude Code，DeepSeek新业务招人了</strong></p>\n  <p>5月20日，一则消息在AI圈里传开，DeepSeek内部正在组建一个新的Harness团队，方向是代码智能体产品，内部对标Anthropic旗下的智能体编程工具Claude Code。第一财经记者在DeepSeek官网看到，目前界面已上线Agent Harness产品经理和Agent Harness研发工程师两个新的岗位。官网并未直接提及这一桌面端Agent产品的具体类型，但在产品经理的岗位描述中，要求求职者深度使用过Claude Code、Cowork、Codex、Cursor、OpenCode、GitHub Copilot、Manus、OpenClaw、Hermes 等类似产品。这其中几乎包揽了行业目前最热门的几款编程工具以及智能体应用。另一个更直接的信息来自DeepSeek资深研究员陈德里，他在社交媒体发帖招人，标题直接表明“来DeepSeek从零做Code Harness”，正文提到“对标Claude Code，做DeepSeek Code Harness”。（第一财经）</p>\n  <p><strong>OpenAI推出“保障容量”服务：提供长期算力访问承诺 非主站</strong></p>\n  <p>当地时间5月19日，OpenAI宣布推出一项名为“保障容量”的新服务，旨在为客户最重要的产品、智能体以及客户工作流提供长期的算力访问保障。该服务允许客户选择为期1至3年的承诺期限，折扣力度将根据年度承诺额度的增加而提高。参与该服务的客户将根据其支出水平获得确定的算力访问权限，并可在OpenAI的各款产品组合中扣减该承诺额度。（界面新闻）</p>\n  <p><strong>新加坡加码人工智能布局，英伟达将落地本地研发中心</strong></p>\n  <p>全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经）</p>\n  <p><strong>阿里发布新一代千问旗舰模型Qwen3.7-Max</strong></p>\n  <p>36氪获悉，5月20日，阿里巴巴发布全新一代千问旗舰模型Qwen3.7-Max，在三方机构Arena全球大模型盲测总榜中，Qwen3.7-Max位列国产模型第一。千问3.7面向当下智能体（Agent）全新设计，实现了编程、推理等核心能力的持续突破，甚至可全自主完成35小时的超长程智能体复杂任务：在一个全新的芯片平台上，Qwen3.7-Max通过自主编程和超1000次工具调用，实现了一个关键内核的自我进化，推理速度较原版本提升10倍。</p>\n  <h2>投融资</h2>\n  <p><strong>“贝塔无限”连续完成种子轮、种子+轮数亿元融资</strong></p>\n  <p>36氪获悉，近日，聚焦消费级通用具身智能的企业“贝塔无限 Beta Infinity”宣布，公司已先后完成种子轮、种子+轮数亿元融资。种子轮由洪泰基金、正景基金、银杏谷资本、水木清华校友种子基金、粤科金融等投资机构联合投资，种子+轮由世纪华通参与的盛趣泰和基金与和利资本联合领投，毅达资本、南山战新投等机构跟投，义柏资本担任财务顾问。两轮资金将主要用于核心技术研发、产品试制等。</p>\n  <p><strong>“趋境科技”完成数亿元Pre-A轮融资</strong></p>\n  <p>36氪获悉，近日，AI Token生产服务商“趋境科技”（Approaching.AI）宣布完成数亿元 Pre-A 轮融资。本轮融资由星连资本与华控科技联合领投，弘晖资本、天壕能源、尚势资本、天津仁爱弘盛、杭州福成等机构跟投，老股东高瓴创投（GL Ventures）持续加注。</p>\n  <p><strong>美国鹰牌CEO加持的初创公司最新融资跻身独角兽行列</strong></p>\n  <p>美国鹰牌（American Eagle）CEO杰伊・肖滕斯坦因投资的初创公司Radar完成最新一轮融资，估值突破10亿美元，成功晋升独角兽企业。该公司主营零售防损与库存管理技术，合作客户包括美国鹰牌及盖璞旗下老海军（Old Navy）。（新浪财经）</p>\n  <h2>酷产品</h2>\n  <p><strong>苹果重新上架448元iPhone握把支架，二手平台曾溢价超80%&nbsp;</strong></p>\n  <p>5月20日，苹果中国官网更新上架了一款曾引发抢购热潮的iPhone配件。这款名为Hikawa Grip &amp; Stand的握把兼支架，售价448元，提供橙色、蓝色和岩石色三种配色的MagSafe配件，目前显示三种颜色均有现货。</p>\n  <p>Hikawa Grip &amp; Stand最早于2025年11月推出。当时，苹果为纪念公司在无障碍设计领域深耕40周年，特别推出了这款产品。由于是限量发售，在去年上线后，这款配件就很快售罄，随后陷入长期缺货状态，致这款配件逐渐成为“绝版”藏品。售罄后，该配件在二手交易平台上价格曾一路飙升，溢价幅度超过80%。（界面新闻）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_20362502ef8b42e4b303627884f8e817@5667365_oswg128480oswg600oswg600_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">iPhone握把支架</p>\n  <h2>AI图谱</h2>\n  <p><strong>AI图谱，带你解读最新最快的AI资讯。接入龙虾服务打造AI助手“灵思超级助手”，以ClawPro为企业级统一管控底座，传播大脑重写媒体工作流。</strong></p>\n  <p><strong>AI图谱，带你解读最新最快的AI资讯。一年省10亿，Gemini3.5发布</strong></p>\n  <p><strong>整理</strong>｜开心&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-05-20T23:59:19+00:00",
+      "fetched_at": "2026-05-21T02:53:33.259867+00:00",
+      "fingerprint": "f041c88fdb05728d"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "独家对谈｜谢文博：银发，孤独，一个中日观察者的十八年",
+      "url": "https://36kr.com/p/3816060007751430?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260519/v2_6d96d60c78e44e8ca29920fa2ea9f945@5509299_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：公众号「职场Bonus」（ID：ZhiChangHongLi）</p>\n  <p><strong>“上百次往返，看透存量时代的生存法则。”</strong></p>\n  <p>谢文博，四川人，聊起他从老家到上海再到日本求学的经历，他说喜欢“把自己放在跳起来才够得着的环境里”。</p>\n  <p>在上海交大材料工程读研二那年，他作为访问学者公派赴日富士施乐做研发。拿到Offer后，三年啃下五篇专利，他发现日本企业有一套\"能把普通人管理出好成果\"的门道。</p>\n  <p>2008年，他回国和合伙人一起创办咫尺研学。此后十八年，往返中日上百次，从阿里、京东到万科，他领着各行业的管理者一次次赴日，像外科医生般剖解日式管理的肌理。中国地产商们曾扎堆奔赴日本养老产业，他却看透：养老的本质不是盖楼，而是运营。</p>\n  <p>从实验室到对接中日两国企业的机会翻译者，这条路他走得扎实，也看得通透：日本经验的价值，从来不是照搬，而是在成熟市场找参考，从本土需求找痛点。</p>\n  <p>&nbsp;</p>\n  <p><strong>麻吉有三思，专注为你找到风口里的个人职业坐标👇🏻</strong></p>\n  <p>&nbsp;</p>\n  <p>以下为访谈实录，部分措辞经《职场Bonus》编辑调整。</p>\n  <blockquote>\n   <p>日式管理：三年产出五篇专利 ╱ 一</p>\n   <p>银发与孤独：太阳底下无新事 ╱ 二</p>\n   <p>中国未来5-10年，这些机会值得关注 ╱&nbsp;三</p>\n   <p>从成熟市场找参考，从本土需求找痛点&nbsp;╱&nbsp;四</p>\n  </blockquote>\n  <p>&nbsp;</p>\n  <h2><strong>日式管理：三年产出五篇专利</strong></h2>\n  <p><strong>麻吉：从四川老家到上海交大，还被公派去日本，你是是天生的学霸吗？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>我很多时候运气很好。当然能进交大本来学习能力肯定不差，但进入交大发现周围都是十分优秀的人。我有一个非常重要的经验，就是人尤其在年轻成长的时候，要始终尝试把自己放在一个，需要跳着才能够到的环境里边，你才会被环境带着成长。</p>\n  <p><strong>麻吉：你觉得2005年的日本和上海，发展差距大概有多大？日本的过去20年对我们有什么参考意义？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>当时的差距大概是20年。2005年的东京，城市风貌、基础设施、社会治理已经非常成熟，之后二十年变化不大；而上海在这二十年里飞速发展，才逐渐追上。</p>\n  <p>日本的经历告诉我们，经济高速增长后会进入存量阶段，企业竞争从规模扩张转向精细化运营，这正是现在中国企业面临的现状。</p>\n  <p>比如日本企业的管理逻辑：把工作拆解成可复制的方法论，既需要人发挥灵活性，又不依赖个体，这种模式特别适合中国中小企业从“野蛮生长”转向“稳健发展”。</p>\n  <p><strong>麻吉：你在富士施乐做研发时，最深的感受是什么？日本企业对于人才的管理有什么不同？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>人会被管理的很\"舒服\"，最震撼的是可控的产出。当时公司要求正式员工每年产出两篇专利，而我刚刚研究生毕业，觉得这种要求非常非常不可思议，但靠着公司的方法论，最后真的完成了，而且当时做到了三年产出五篇专利。</p>\n  <p>这背后是日本企业既需要人，又不会依赖某一个人的机制。他们不会像德国企业那样追求无人工厂，而是打造一套机制或者说是方法论，让普通人也能稳定输出高质量成果。</p>\n  <p>中国企业尤其是中小企业，往往过度依赖核心员工，一旦人员变动就影响业务，日本的这套机制化思维值得借鉴。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260519/v2_c6fa4b1439544d818e5cc2c424d386c5@5509299_oswg63621oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：公众号「职场Bonus」（ID：ZhiChangHongLi）</p>\n  <p>&nbsp;</p>\n  <h2><strong>银发与孤独：太阳底下无新事</strong></h2>\n  <p><strong>麻吉：十年前中国地产企业扎堆去日本考察养老，为什么大多失败了？现在的机会在哪里？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>当时开发商的误区是把养老当成地产项目，觉得修一栋楼就是养老院，但日本的养老院本质是运营服务，而不是地产。</p>\n  <p>日本的养老院几乎没有自己买地盖楼的，都是租物业做运营，核心靠“介护险”支撑，这是日本的强制性保险，覆盖护理服务费用，而中国目前还没有这样的保险体系。</p>\n  <p>现在的机会分两类：一是失能、半失能老人的居家养老服务，比如上门送餐、护理、康复训练，中国有成熟的互联网基础设施，能降低服务成本；二是健康老人的精神消费，这部分完全可以商业化。</p>\n  <p>现在的60后、70后物质需求已满足，有时间、有储蓄，需要全新的产品和服务，比如老年教育、兴趣社群、文化旅游，这是目前中国市场的机会。</p>\n  <p><strong>麻吉：日本的银发经济有哪些成熟的案例可以参考？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>日本的配餐服务特别成熟，针对老年人的咀嚼、营养需求做定制，采用订阅制模式，按月配送，既稳定又能控制成本。中国的外卖体系虽然发达，但缺乏针对老年人的专业化配餐。</p>\n  <p>另外，日本的茑屋书店本质是老年人社区活动中心，为有钱有追求的老年人提供社交与精神消费场景，这种“空间+内容+社交”的模式，中国完全可以借鉴。</p>\n  <p><strong>麻吉：现在中国年轻人的“低欲望”、“活人微死”，和日本的第四消费时代有什么相似之处？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>太阳底下没有新鲜事，中国现在的情况在日本基本都发生过。</p>\n  <p>日本年轻人的低欲望，源于他们出生在经济稳定、物质丰裕的时代，没有经历过匮乏，对物质没有强烈渴求；同时人口萎缩，竞争压力小，缺乏奋斗的动力，再也没有机会去体验在时代快速发展下个人成功的感受了。</p>\n  <p>中国年轻人的情况类似，经济增速放缓，竞争加剧，机会相对减少，自然会出现“躺平”“、低欲望”的状态。</p>\n  <p>但差异也很明显：中国市场足够大，发展不均衡，依然有很多市场机会，比如下沉市场的消费升级、银发经济的细分赛道，这是日本当年没有的优势。年轻人与其陷入焦虑，不如主动寻找细分机会，通过多元化创收。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260519/v2_94504882f25e453e9a0d573af048d2ca@5509299_oswg78415oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：公众号「职场Bonus」（ID：ZhiChangHongLi）</p>\n  <p>&nbsp;</p>\n  <p><strong>中国未来5-10年，这些机会值得关注</strong></p>\n  <p><strong>麻吉：你觉得未来5-10年，中国和“银发”相关的赛道里，哪些机会一定会爆发？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>银发经济肯定是大方向，但不能笼统说“做养老”，得拆成细分需求。</p>\n  <p>首先是健康老人的精神消费赛道，这是目前最容易落地的。现在60后、70后退休了，房贷还清了，子女独立了，有时间也有储蓄，但市场上没有为他们设计的产品。</p>\n  <p>比如老年教育，不是教广场舞、太极拳，而是教英语、绘画、短视频剪辑，这些能满足他们“自我提升”的需求；还有定制旅游，不是走马观花的跟团游，而是慢节奏的文化游。</p>\n  <p><strong>麻吉：那针对失能、半失能老人的赛道呢？这部分好像更重，需要政策支持。</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>这部分确实需要政策兜底，但商业机会也存在，比如居家养老的上门服务。日本有成熟的上门护理、上门配餐体系，中国完全可以借鉴，但要结合我们的优势，比如用互联网平台整合护理人员，按订单分配，降低成本。</p>\n  <p>现在很多大保险公司已经在布局，但真正做精细化运营的还少，这是机会。</p>\n  <p><strong>麻吉：聊聊跨境机会吧，很多人好奇去日本工作的可能性，现在日本的职业缺口有哪些？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>日本现在劳动力严重短缺，最新的应届毕业生就业率是99%，只要想工作，基本都能找到。</p>\n  <p>不过要注意，想在日本长期发展，最好先去留学，从当地大学毕业再就业，比直接从国内过去容易；如果是短期工作，通过正规中介找技术派遣岗位也可行，但要甄别中介的可靠性。</p>\n  <p>另外，日本的自由职业者模式也值得关注，比如做中日翻译、跨境内容创作，时间灵活，收入也不低，适合不想被固定工作束缚的年轻人。</p>\n  <p><strong>麻吉：现在职场越来越多元化，日本的自由职业、兼职模式，对中国年轻人有什么参考？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>日本一些年轻人大学毕业后不找正式工作，而是打短工，上午在便利店，下午在餐馆，收入不一定比正式员工低，攒够钱就去旅游，没钱了再打工。</p>\n  <p>这种模式在中国也在兴起，年轻人下班后跑滴滴、送外卖，其实是很好的尝试——不仅能增加收入，还能接触社会。</p>\n  <p>未来职场不会再有固定的路径，多元化就业会成为常态，关键是保持学习能力和适应力。</p>\n  <p><strong>麻吉：你们作为跨国的商业咨询，招聘人才时最看重什么？有没有什么禁忌？</strong></p>\n  <p><strong>&nbsp;谢文博&nbsp;：</strong>首先是日语能力，这是跨境咨询的基础；其次是对中日两国的认知洞察，我们关注的重点是有没有带着思考去观察当地社会；最后是价值观一致，这比能力更重要。</p>\n  <p>我们的核心价值观是“自律、互助、勤勉”，自律不是指运动，而是自己制定的目标能自己完成。</p>\n  <p>我们验证过不太适配的有两种人：</p>\n  <p>一是过于aggressive的，我们服务的都是成功企业家，服务过程中需要低调务实，太强势的人很难相处；</p>\n  <p>二是只懂翻译的纯语言专业者，我们需要的是语言和商业洞察的复合型人才，要能把日本企业的逻辑用中国企业家听懂的方式转述，而不是逐字翻译。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260519/v2_09223042d595412781f1e001384212a5@5509299_oswg42623oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：公众号「职场Bonus」（ID：ZhiChangHongLi）</p>\n  <p>&nbsp;</p>\n  <h2>从成熟市场找参考，从本土需求找痛点</h2>\n  <p>日本市场的价值不在于照搬模式，而在于借鉴其底层逻辑。无论是企业管理的机制化、银发经济的细分运营，还是孤独经济的需求洞察，都是如此。</p>\n  <p>中国市场有自己的优势，庞大的人口基数、完善的互联网基础设施以及不均衡发展带来的差异化机会。</p>\n  <p>无论是创业者还是职场人，关注孤独经济与银发经济，核心要抓住人的需求：健康老人需要精神满足，失能老人需要便捷护理，年轻人需要轻量化社交。这些需求不会因���济周期而消失，反而会随着社会发展愈发强烈。</p>\n  <p>正如谢文博所说：“中国是对年轻人特别有利的国家，市场大、机会多，关键是要学会从成熟市场找参考，从本土需求找痛点。”</p>\n  <p>往返日本百余次的他，始终相信“太阳底下没有新鲜事”，但把成熟经验与本土需求结合，就能创造新的价值。</p>\n  <p>撰文&nbsp;<strong>|&nbsp;麻吉、李浩霆</strong></p>\n  <p>图文排版&nbsp;<strong>|&nbsp;段春燕</strong></p>\n  <p>配图&nbsp;<strong>|&nbsp;受访者提供</strong></p>",
+      "category": "tech",
+      "published_at": "2026-05-21T00:17:32+00:00",
+      "fetched_at": "2026-05-21T02:53:33.259859+00:00",
+      "fingerprint": "14a9803f5321bc24"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "16款产品入选，2026「焦点」产品计划618特别版重磅发布",
+      "url": "https://36kr.com/p/3818418722734977?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_437f9bcce45e40b982c5af2f09befa2d@5679941_oswg1290936oswg1080oswg8776_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_d55110c461cd44118e8c37c9ed812d8b@5679941_oswg1433576oswg1080oswg9453_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260521/v2_8f1096ec1bae41d3a53dd4fa1c3da1ae@5679941_oswg1260952oswg1080oswg9796_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>本期16款产品中，有没有你心目中的焦点产品呢？</p>",
+      "category": "tech",
+      "published_at": "2026-05-21T02:42:43+00:00",
+      "fetched_at": "2026-05-21T02:53:33.259844+00:00",
+      "fingerprint": "c71ac2ff4a4468db"
+    },
+    {
+      "source": "少数派",
+      "title": "自动补全生僻字，让 Kindle 从底层告别小方块",
+      "url": "https://sspai.com/post/109625",
+      "summary": "本文将分享如何修改 Kindle 底层的 upstart 配置，实现开机自动挂载花园明朝（HanaMin）字体。这不仅能修复字典弹窗，更能让古籍正文中所有生僻字完美显示，达成全系统视觉统一。<a href=\"https://sspai.com/post/109625\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-05-20T03:00:00+00:00",
+      "fetched_at": "2026-05-21T02:53:30.515819+00:00",
+      "fingerprint": "08d92a2a97ce5268"
+    },
+    {
+      "source": "少数派",
+      "title": "4 月音乐精选：听这 8 张美妙的专辑迎接夏天",
+      "url": "https://sspai.com/post/109418",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/109418\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-05-20T07:05:04+00:00",
+      "fetched_at": "2026-05-21T02:53:30.515813+00:00",
+      "fingerprint": "8c945e7742dd2c06"
+    },
+    {
+      "source": "少数派",
+      "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验",
+      "url": "https://sspai.com/post/109869",
+      "summary": "ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。<a href=\"https://sspai.com/post/109869\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-05-20T09:04:05+00:00",
+      "fetched_at": "2026-05-21T02:53:30.515807+00:00",
+      "fingerprint": "dd964d8bb61a516b"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：iQOO 15T 正式发布、小鹏 GX 上市等",
+      "url": "https://sspai.com/post/109976",
+      "summary": "Apple 公布 App Store 2025 反欺诈报告、微软发布 Azure Linux 4.0、战马工作室同时公开两款新作等。<a href=\"https://sspai.com/post/109976\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-05-21T00:36:46+00:00",
+      "fetched_at": "2026-05-21T02:53:30.515796+00:00",
+      "fingerprint": "8ff9fb92488c98a4"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.8499 CNY ↑+0.12%",
+      "url": "https://www.frankfurter.app/2026-05-20?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-05-20</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.8499 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0060 (+0.12%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-05-21T02:53:29.253189+00:00",
+      "fingerprint": "e66240c12f5232c5"
+    },
     {
       "source": "The Guardian - World",
       "title": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
