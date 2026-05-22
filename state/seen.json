@@ -1,4 +1,9 @@
 {
+  "003ae3b5cb47eac2": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "BBC World News",
+    "title": "'No means no': Greenlanders protest against Trump outside new US consulate"
+  },
   "03477fde0dcb6c00": {
     "first_seen": "2026-05-21T02:53:37.250481+00:00",
     "source": "The Verge",
@@ -49,6 +54,11 @@
     "source": "BBC 中文 - 头条",
     "title": "科學家如何反擊佔領城市下水道的「脂肪山」"
   },
+  "0e6c997ea4746715": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》"
+  },
   "10d33c1430e45398": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "少数派",
@@ -69,6 +79,21 @@
     "source": "BBC 中文 - 头条",
     "title": "MAGA運動中的中國批評者如何看待特朗普的北京之行"
   },
+  "12e22e43c68156e6": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "少数派",
+    "title": "新玩意 242｜少数派的编辑们最近买了啥？"
+  },
+  "138b93fe56d76fde": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "「闹剧场」阿球：一个同济土木生转行，想把喜剧变成可批量复制的科学｜独家对谈"
+  },
+  "142b256fd6d1cb0b": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Project Hail Mary – Stellar Navigation Chart"
+  },
   "1458ef0ea423fd71": {
     "first_seen": "2026-05-21T02:53:37.250481+00:00",
     "source": "BBC 中文 - 头条",
@@ -83,6 +108,16 @@
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "The Guardian - World",
     "title": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces"
+  },
+  "150774b766d50522": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "未來「正被推入黑暗」：從緬甸到委內瑞拉，民間如何抵抗官方網絡封鎖"
+  },
+  "160f211a4557b598": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Was my $48K GPU server worth it?"
   },
   "1732a92bc7fb8c20": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -159,6 +194,11 @@
     "source": "Hacker News Front Page",
     "title": "DOS Zone"
   },
+  "2746db35188e6ff7": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "BBC World News",
+    "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'"
+  },
   "27cf1f67a905271b": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "Hacker News Front Page",
@@ -168,6 +208,11 @@
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "少数派",
     "title": "社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意"
+  },
+  "2a3120671a3bdcb8": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "The Guardian - World",
+    "title": "Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’"
   },
   "2bcc07705b91da0b": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
@@ -234,6 +279,16 @@
     "source": "BBC World News",
     "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero"
   },
+  "41c83ec293ad6f7a": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "The Verge",
+    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI"
+  },
+  "49e71850c6abd5bc": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "The Verge",
+    "title": "Anker’s new earbuds have the best call quality I’ve ever heard"
+  },
   "4a92a42437e97178": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "少数派",
@@ -243,6 +298,11 @@
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "The Guardian - World",
     "title": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts"
+  },
+  "4f0d65a1a735243d": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "The Verge",
+    "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction"
   },
   "501cd11b0988cb29": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
@@ -279,6 +339,11 @@
     "source": "The Verge",
     "title": "Snap, YouTube, and TikTok settle suit over harm to students"
   },
+  "5cfe4a87e51413b0": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "少数派",
+    "title": "派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等"
+  },
   "5e7ab878a30685c3": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "少数派",
@@ -298,6 +363,11 @@
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "Hacker News Front Page",
     "title": "I’ve built a virtual museum with nearly every operating system you can think of"
+  },
+  "616660b287e1093d": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "The Guardian - World",
+    "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say"
   },
   "64d3b9098e0ecad8": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -369,6 +439,11 @@
     "source": "BBC World News",
     "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war"
   },
+  "78f411ae4c2e9a10": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Using Kagi Search with Low Vision"
+  },
   "7a58573a0e809aa8": {
     "first_seen": "2026-05-21T02:53:37.250481+00:00",
     "source": "BBC 中文 - 头条",
@@ -383,6 +458,11 @@
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "The Guardian - World",
     "title": "Mali’s forces target rebel alliance in junta’s fight to keep power"
+  },
+  "80397d0584a92a09": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "美國起訴古巴前領導人勞爾・卡斯特羅涉犯謀殺罪"
   },
   "89659d6923a854cd": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -424,6 +504,11 @@
     "source": "36氪 - 最新文章",
     "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生"
   },
+  "95c9c4f672db8955": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会"
+  },
   "986302343336151c": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "The Verge",
@@ -444,6 +529,11 @@
     "source": "少数派",
     "title": "快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验"
   },
+  "9ca2b5c75dc6a1cf": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "少数派",
+    "title": "iOS 里的这些实用辅助功能，每个人都可能用得上"
+  },
   "a1c60ee1c287129e": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "BBC 中文 - 头条",
@@ -463,6 +553,11 @@
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "36氪 - 最新文章",
     "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万"
+  },
+  "a5cc122e597dd9eb": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额"
   },
   "a6f260c5a0faf5c8": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
@@ -488,6 +583,11 @@
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "BBC 中文 - 头条",
     "title": "特朗普稱因波斯灣國家請求，取消對伊朗新一波攻擊"
+  },
+  "ab6ac81837c22f2c": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "The Guardian - World",
+    "title": "Macron says France must address issue of reparations for its role in slave trade"
   },
   "abf0f0d3c66b3596": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -524,10 +624,20 @@
     "source": "少数派",
     "title": "为什么我觉得好的东西，媒体评测却给了低分？"
   },
+  "b5ddd273572c8057": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "Hacker News Front Page",
+    "title": "It is time to build a new internet"
+  },
   "b6560a3dbe91c622": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "The Guardian - World",
     "title": "WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC"
+  },
+  "b742dda6f7888969": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "BBC俄羅斯編輯：普京享受了習近平的中式歡迎，卻沒把輸油管合同帶回家"
   },
   "b7ef5fd49150ff5e": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
@@ -538,6 +648,11 @@
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "36氪 - 最新文章",
     "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发"
+  },
+  "b9fa4252d1fb63e2": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "BBC World News",
+    "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro"
   },
   "bd40f441c9cb1c42": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -578,6 +693,11 @@
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "BBC 中文 - 头条",
     "title": "中俄關係：真正維繫兩國關係的是什麼？"
+  },
+  "c61bab870c468d57": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "The Verge",
+    "title": "States ask judge to break up Live Nation-Ticketmaster"
   },
   "c6f5e3867ee8c5f3": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -634,6 +754,11 @@
     "source": "少数派",
     "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验"
   },
+  "ddc06ef05f23e287": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "BBC World News",
+    "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo"
+  },
   "dece57dce22d6c60": {
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "BBC World News",
@@ -643,6 +768,11 @@
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "The Verge",
     "title": "Revamped Siri will reportedly offer auto-deleting chats"
+  },
+  "e09344ee5ffd414e": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "少数派",
+    "title": "少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启"
   },
   "e237d0553b16c900": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
@@ -669,6 +799,11 @@
     "source": "BBC 中文 - 头条",
     "title": "特朗普與習近平舉行峰會數小時後，告誡台灣不要宣布獨立"
   },
+  "ec01d4e85b73bc7e": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "澳元兑人民币 (AUD/CNY)",
+    "title": "1 AUD = 4.8485 CNY ↓-0.03%"
+  },
   "ecbebbfb7e095587": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "BBC 中文 - 头条",
@@ -678,6 +813,16 @@
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "少数派",
     "title": "YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？"
+  },
+  "eec1bd5cdabc90d3": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD"
+  },
+  "ef2e76940ebd05b2": {
+    "first_seen": "2026-05-22T02:53:46.134276+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "8点1氪丨“拉勾网”被曝主动申请破产；特斯拉Model S和X正式停产退役；三星内存工人，奖金或达280万元"
   },
   "f041c88fdb05728d": {
     "first_seen": "2026-05-21T02:53:37.250481+00:00",
