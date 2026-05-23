@@ -1,7 +1,277 @@
 {
-  "updated_at": "2026-05-22T02:53:43.896526+00:00",
-  "count": 178,
+  "updated_at": "2026-05-23T02:38:43.705860+00:00",
+  "count": 205,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
+      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
+      "summary": "<p>Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede responders</p><p>The Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization said on Friday, revising its threat assessment upwards.</p><p>The outbreak is spreading rapidly, WHO leaders said, with almost 750 suspected cases and 177 suspected deaths, up from 246 cases and 65 deaths when it was first reported a week earlier.</p> <a href=\"https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-05-22T15:47:31+00:00",
+      "fetched_at": "2026-05-23T02:38:43.701068+00:00",
+      "fingerprint": "db3ffd8be52c2cd6"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Ebola risk raised to 'very high' in DR Congo",
+      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
+      "category": "politics",
+      "published_at": "2026-05-22T16:23:08+00:00",
+      "fetched_at": "2026-05-23T02:38:43.290382+00:00",
+      "fingerprint": "26bedbc5aa0042b7"
+    },
+    {
+      "source": "BBC World News",
+      "title": "SpaceX launches massive Starship V3 rocket on test flight",
+      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+      "summary": "The first attempted launch on Thursday was postponed due to a malfunctioning hydraulic pin in the launch tower.",
+      "category": "politics",
+      "published_at": "2026-05-23T01:32:46+00:00",
+      "fetched_at": "2026-05-23T02:38:43.290376+00:00",
+      "fingerprint": "dfafdf15c179b514"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+      "category": "politics",
+      "published_at": "2026-05-22T15:18:30+00:00",
+      "fetched_at": "2026-05-23T02:38:43.290369+00:00",
+      "fingerprint": "5269284e1dfd371c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
+      "category": "politics",
+      "published_at": "2026-05-22T19:40:14+00:00",
+      "fetched_at": "2026-05-23T02:38:43.290358+00:00",
+      "fingerprint": "2d82191560c1bec6"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「我愛世界盃，但價格實在太離譜」：門票價暴漲五倍，球迷什麼反應？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2p1d71833o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "2026年美加墨世界盃的昂貴票價受到批評。BBC比較本屆賽事與往屆世界盃的票價差異，並訪問來自全球各地的球迷，了解他們對看球成本大幅上升如何反應。",
+      "category": "politics",
+      "published_at": "2026-05-22T08:00:44+00:00",
+      "fetched_at": "2026-05-23T02:38:43.197582+00:00",
+      "fingerprint": "b0994d89b5b4c979"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "法航與空中巴士被裁定須為2009年空難過失殺人負責",
+      "url": "https://www.bbc.com/zhongwen/articles/clyp8zq1zrlo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "法國法院裁定，這些公司對造成 228 人死亡的空難負有責任。",
+      "category": "politics",
+      "published_at": "2026-05-22T05:05:04+00:00",
+      "fetched_at": "2026-05-23T02:38:43.197575+00:00",
+      "fingerprint": "b2d6d11642920003"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "分析：美中新建貿易、投資委員會，能否為關稅戰「加裝防撞欄」？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "對特朗普來說，委員會不只是一個組織名稱，更像是一種工作方式。它意味著可以繞開現有國際機制，另起爐灶，重新設定規則。和平委員會可以繞開聯合國，去處理加沙問題；美中的貿易和投資委員會，則可以繞開WTO，去處理中美之間的爭議。",
+      "category": "politics",
+      "published_at": "2026-05-22T08:52:03+00:00",
+      "fetched_at": "2026-05-23T02:38:43.197569+00:00",
+      "fingerprint": "502ee340d9a2ac18"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國起訴卡斯特羅後，古巴局勢的三種可能",
+      "url": "https://www.bbc.com/zhongwen/articles/c1k2gm0xx31o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "特朗普政府一直對古巴的共產政權施加巨大經濟壓力。",
+      "category": "politics",
+      "published_at": "2026-05-22T04:46:19+00:00",
+      "fetched_at": "2026-05-23T02:38:43.197558+00:00",
+      "fingerprint": "1b2386eb25441712"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Blood Pumping Mechanism of the Hoof",
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-23T02:38:42.487836+00:00",
+      "fingerprint": "b4c1c54225465191"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Sleep research led to a new sleep apnea drug",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-23T02:38:42.487705+00:00",
+      "fingerprint": "0f54279bd744d88d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-23T02:38:42.487568+00:00",
+      "fingerprint": "9d44573c198f670a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-23T02:38:42.487456+00:00",
+      "fingerprint": "09b36c1f1b76256a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-05-23T02:38:42.487323+00:00",
+      "fingerprint": "5eed93bc540d0f20"
+    },
+    {
+      "source": "The Verge",
+      "title": "Elon, stop trying to make Grok happen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+      "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-05-22T17:17:06+00:00",
+      "fetched_at": "2026-05-23T02:38:42.238272+00:00",
+      "fingerprint": "495c12e9c67ecd07"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
+      "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
+      "summary": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. Rather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google search, Forum [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-05-22T17:27:08+00:00",
+      "fetched_at": "2026-05-23T02:38:42.238266+00:00",
+      "fingerprint": "be743e01210354e0"
+    },
+    {
+      "source": "The Verge",
+      "title": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
+      "url": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
+      "summary": "With Memorial day weekend kicking off the travel season, we’re seeing a lot of deals pop up on travel gadgets, from portable power banks to noise-canceling headphones. One of the best right now is Twelve South’s AirFly Pro 2 Bluetooth adapter, which lets you use your wireless headphones with in-flight entertainment systems so you can [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-05-22T18:00:00+00:00",
+      "fetched_at": "2026-05-23T02:38:42.238260+00:00",
+      "fingerprint": "25bb1026db1fdc18"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-05-22T20:39:54+00:00",
+      "fetched_at": "2026-05-23T02:38:42.238247+00:00",
+      "fingerprint": "c99a512455e52549"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪",
+      "url": "https://36kr.com/p/3816943010071427?f=rss",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3820248974102913\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲</strong></a></p>\n  <p>投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&amp;I控股（Seven &amp; i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预测，7&amp;I控股国内便利店业务在本财年的营业利润将达到2270亿日元，且在下一财年有望继续增长4.8%。（新浪财经）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820222856237189\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>雅诗兰黛与Puig终止合并谈判，组建美妆巨头计划作罢</strong></a></p>\n  <p>美国美妆巨头雅诗兰黛已终止与西班牙竞品Puig的合并谈判，这笔交易原本有望打造一家市值近400亿美元的美妆时尚行业巨头。雅诗兰黛周四表示，双方已终止此次并购磋商，Puig也证实谈判宣告结束。（新浪财经）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820213271941509\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车</strong></a></p>\n  <p>5月22日，优步与印度跨国巨头JSW集团签署合作谅解备忘录，双方将共同研发并推广专为印度网约车市场定制的电动汽车解决方案。此次合作旨在通过提供符合当地运营环境、成本效益及性能预期的电动车型，加速优步在印度各出行服务类别中的电动化转型。（界面）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820094833103237\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>千曙科技与重庆数字交通产业集团达成战略合作</strong></a></p>\n  <p>36氪获悉，5月21-24日，中国西部国际投资贸易洽谈会举办期间，千曙科技与重庆数字交通产业集团正式达成战略合作。双方将基于千曙L4级自动驾驶技术与重庆数字交通在成渝区域“智行走廊”和“氢”“电”走廊的公路智能化基础设施，协同开展自动驾驶典型货运示范路线应用。</p>\n  <h2><strong>投融资：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3820238599672199\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>“无尽方舟”完成数千万种子轮融资</strong></a></p>\n  <p>36氪获悉，AI驱动的生物科技制药公司“无尽方舟”宣布完成数千万种子轮融资，由Monolith砺思资本领投。无尽方舟科技由牛津博士生赵思邈创立，致力于通过跨物种AI模型研发长寿药物，探索能实现器官功能改善的疗法。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820052713984137\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资</strong></a></p>\n  <p>Figure创始人Brett Adcock旗下的AI初创公司Hark宣布完成7亿美元A轮融资，估值达60亿美元。本轮融资由Parkway Venture Capital领投，英伟达、AMD Ventures、Intel Capital等参投。资金将用于扩展GPU基础设施，加速未来AI模型的开发，以及设计和构建下一代AI硬件。（财联社）</p>\n  <h2><strong>新产品：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3820211771838848\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>零点有数联合中国人寿推出“真AI宠”宠物保险科技平台</strong></a></p>\n  <p>36氪获悉，近日，零点有数正式宣布将公司核心战略全面聚焦于AIKC战略（垂直知识智能），将垂直业务的知识模型、数据模型、流程模型整合形成完整知识体系。同时，零点有数与中国人寿财产保险签署战略合作协议，联合推出“真AI宠”宠物保险科技平台。目前，零点有数AIKC已在新消费、公共服务等领域落地。</p>\n  <h2>今日观点：</h2>\n  <p><a href=\"https://36kr.com/newsflashes/3820068335652998\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>金赛药业金磊：未来AI将颠覆传统制药逻辑</strong></a></p>\n  <p>36氪获悉，5月21日，J.P. Morgan全球中国峰会上，长春高新总经理、金赛药业创始人、首席科学家金磊表示，未来AI将颠覆传统制药逻辑。据介绍，在耐药菌裂解酶技术平台上，通过AI深度赋能，金赛已设计出一系列极具创新性的裂解酶，能有效克服耐药性、杀菌活性强且耐药几率极低。目前，用于细菌性阴道炎（BV）的产品GenSci142已进入I期临床。依托AI能力的系统推进，金赛取得了早研周期缩短50%、工艺优化成本降低三分之一、管理成本三年下降30%的成效。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820003914059904\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>野村预计美联储今年将维持利率不变</strong></a></p>\n  <p>野村证券周五表示，目前预计美联储2026年将维持利率不变，通胀走高且美联储官员降息意愿下降，短期降息可能性随之降低。野村证券在一份报告中指出：“即将上任的美联储主席凯文·沃什可能仍然有意愿放松货币政策，但近期的数据和美联储官员的表态让我们怀疑他能否说服联邦公开市场委员会（FOMC）的大多数成员同意降息。”（新浪财经）</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3820249661526149\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>神舟二十三号发射在即，各系统准备就绪</strong></a></p>\n  <p>今天（5月22日），神舟二十三号载人飞船发射任务组织全区合练。目前，发射任务各系统已完成相关功能检查，并做好发射前各项准备工作。（央视新闻）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820244213895561\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>国务院发文推行常住地提供基本公共服务，提升均等化水平</strong></a></p>\n  <p>为推行常住地提供基本公共服务，促进基本公共服务均等化水平明显提升，有力支撑深入实施以人为本的新型城镇化战略，国务院日前印发《关于推行常住地提供基本公共服务的实施意见》（以下简称《意见》）。《意见》强调，由常住地提供基本公共服务，促进未落户常住人口与户籍人口同等享有基本公共服务，有利于满足人民日益增长的美好生活需要，对提升城镇化质量、释放国内需求潜力、构建新发展格局具有重要意义。（央视新闻）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820231868797318\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>马来西亚拟采购海外资源，保障能源供应维持至年底</strong></a></p>\n  <p>马来西亚副总理兼能源及水务转型部部长法迪拉22日表示，在全球能源危机冲击产供链并推高能源成本背景下，马来西亚政府正积极采取措施，包括从海外寻求能源供应补充来源，以确保国家能源供应维持至今年12月。（财联社）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820217821417602\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>马来西亚6月1日起推社交媒体监管新政：限制16岁以下用户使用</strong></a></p>\n  <p>马来西亚通信监管机构22日表示，将从6月1日起推出新措施，减少青少年在网络平台上接触有害内容。马来西亚通信与多媒体委员会在一份声明中指出，新规将要求网络服务提供商设置保护机制，限制16岁以下用户注册及拥有账户，并强化平台的内容治理。（财联社）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3820015969439876\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>2025年韩国化妆品贸易顺差首次超过100亿美元</strong></a></p>\n  <p>韩国政府周五公布的数据显示，2025年韩国化妆品贸易顺差首次突破100亿美元，这对韩妆产业而言是一个重要的里程碑。韩国食品药品安全部在一份新闻稿中表示，去年化妆品贸易顺差增长13.5%，达到101亿美元。韩国于2012年首次实现化妆品贸易顺差，规模为9000万美元，此后这一数字迅速增长，从2022年的66亿美元增至2023年的71亿美元，并在2024年达到89亿美元。（新浪财经）</p>",
+      "category": "tech",
+      "published_at": "2026-05-22T12:02:33+00:00",
+      "fetched_at": "2026-05-23T02:38:42.043195+00:00",
+      "fingerprint": "76771b8ab1b6c92c"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "新鲜零食品牌「金粒门」加速全国化：粤鄂6店同装｜最前线",
+      "url": "https://36kr.com/p/3808777731464966?f=rss",
+      "summary": "<p>新鲜零食品牌争相竞逐新市场。</p>\n  <p>36氪获悉，新鲜零食品牌「金粒门」近期密集落地全国布局，正式开启跨区域快速发展阶段。<strong>近日，金粒门华南首店、湖北首批合计6家门店已经进场装修。与此同时，金粒门华东首店将于5月29日正式入驻南京新街口IFCX，持续布局长三角核心市场。</strong></p>\n  <p>金粒门相关负责人表示，金粒门将持续加码门店布局，年内将全力推进拓店计划，让更多消费者体验到新鲜短保零食产品与服务。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260522/v2_262e3efc1713407dbc75496e7136a9fd@5748245_oswg200802oswg1265oswg846_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">金粒门华南首店位于深圳龙岗布吉万象汇负一层</p>\n  <p>据悉，金粒门早期从板栗、炒货相关业态起步，后转向“现制现售、短保新鲜”的新鲜零食模型。</p>\n  <p>如今，作为“新鲜零食”热潮里的代表性品牌，金粒门以“短保现制、新鲜健康”为核心定位，形成了以麻辣鲜食（保质期48小时）、现制奶茶、原液鲜果茶等为特色品类的品牌心智。此外，金粒门也依托“基地直采+中央厨房+门店现制”的完善供应链体系，实现从原料采摘到终端销售的全链条控鲜。</p>\n  <p>华创食饮的一份新鲜零食调研报告显示，调研的金粒门门店约有SKU 139个，覆盖水果、饮品、烘焙等六大品类，且几乎全为自有非标品，其中1-5天的短保高频消费品类占比达46.1%，预计销售额占比超过60%。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260522/v2_8fd2c2cd1f2c41c196a000f379263a99@5748245_oswg333819oswg1265oswg849_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">金粒门门店</p>\n  <p><strong>目前，金粒门已拥有超20家直营门店，以湖南为大本营，在各大核心商圈密集布局。</strong>金粒门本就诞生于长沙，辣味鲜食、酱板鸭、魔芋丝、鸭锁骨等湖湘口味构成了部分爆品基础。但从湖南走向南京、无锡、深圳、武汉乃至更广泛市场时，这些 SKU 是否仍然具备同样的复购能力，并不确定。区域爆品能否变成全国爆品，是金粒门必须回答的第一道题。</p>",
+      "category": "tech",
+      "published_at": "2026-05-22T12:12:08+00:00",
+      "fetched_at": "2026-05-23T02:38:42.043189+00:00",
+      "fingerprint": "db342f220460c740"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”",
+      "url": "https://36kr.com/p/3821177784881541?f=rss",
+      "summary": "<h2 label=\"一级标题\"><span>今日热点导览</span></h2>\n  <ul class=\" list-paddingleft-2\">\n   <li><p>曝泡泡玛特8.8亿买楼：不予置评</p></li>\n   <li><p>雷军透露小米YU7临时降价</p></li>\n   <li><p>教育部拟同意设置34所新大学</p></li>\n   <li><p>腾讯承诺不再与相关版权方达成或变相达成版权独家授权合同</p></li>\n   <li><p>特朗普凯旋门方案获批</p></li>\n  </ul>\n  <h2 label=\"一级标题\">TOP 3大新闻</h2>\n  <p><strong>永辉超市向王健林等追债超36亿元</strong></p>\n  <p>5月21日，永辉超市发布公告称，公司于近日收到法院出具的《受理案件通知书》。永辉超市与大连御锦贸易有限公司（以下简称大连御锦）、王健林、孙喜双、大连一方集团有限公司（以下简称一方集团）仲裁裁决一案，上海国际经济贸易仲裁委员会作出的裁决文书已发生法律效力。经公司向法院申请执行，法院出具了《受理案件通知书》，决定立案执行。涉案金额为剩余股份转让价款36.39亿元及相关违约金、律师费、仲裁费等其他费用。</p>\n  <p>36氪获悉，天眼查App显示，王健林名下关联40余家企业，其中10家处于存续或者迁出状态，其余企业已注销或被吊销。风险信息显示，王健林现存多条股权冻结信息。（中国证券报、36氪）</p>\n  <p><strong>《柳叶刀》：全球近12亿人有精神障碍，相较1990年人数增长了95.5%</strong></p>\n  <p>英国杂志《柳叶刀》5月21日刊载研究报告显示，2023年全球有近12亿人有精神障碍，相较1990年人数增长了95.5%。研究人员发现，从1990年到2023年，全球范围内，12种精神障碍的患者都有增加。其中，焦虑症和抑郁症患者增多最为显著，相比1990年分别增长了158%和131%。（央视新闻）</p>\n  <p><strong>微信回应“只能撤回2分钟内消息”&nbsp;</strong></p>\n  <p>5月22日，微信官方账号“微信派”发文解释了微信消息撤回功能的设计逻辑。文中明确，不同类型消息的撤回时限不同：文字、语音、图片、视频等消息可在发送后2分钟内撤回；而Word、Excel、PPT、PDF等文件类消息的撤回时限则为小时。</p>\n  <p>微信团队解释称，2分钟的设计依据是，对方大概率尚未读完消息，撤回相当于“重新说”，不会打断聊天节奏；而超过2分钟对方通常已阅读甚至回复，此时撤回反而增加尴尬。文件类消息之所以享有更长时限，是因为接收方查看文件天然存在“时差”——可能正在开会或通勤中，3小时能提供足够的缓冲。</p>\n  <p>值得注意的是，如果撤回不限时，发送者就能随意篡改聊天记录。借钱记录、工作安排、商务承诺，谁都可以说删就删。（凤凰网科技）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>多家山姆货架现熟食残渣和空瓶子等，客服回应</strong></p>\n  <p>近期，山东济南、青岛两家新开业的山姆会员商店内，接连出现顾客未结账就地食用商品，食用残渣、空瓶随意丢弃在卖场货架区域的现象。相关现场画面在网络平台传播，引发公众关注。5月22日，界面新闻向山姆客服了解针对上述行为是否有相应的管理措施，对方表示，相关情况会进行记录，也会反馈给相关部门。此次疑似出现不文明消费现象的两家门店，均于2026年5月正式开业。两家门店开业期间客流处于高位，多款网红熟食、饮品商品受到消费者追捧，开业初期门店日常接待客流量显著高于常规时段水平。（界面新闻）</p>\n  <p><strong>曝泡泡玛特8.8亿买楼，官方回应：不予置评</strong></p>\n  <p>5月22日，近日有消息称，“泡泡玛特以8.8亿元购入北京太古坊二期（原颐堤港二期）整栋写字楼，建筑面积约4.4万m²，地上16层，或将作为总部大厦。”针对上述传闻，泡泡玛特官方不予置评。（东方财经）</p>\n  <p><strong>雷军透露小米YU7临时降价</strong></p>\n  <p>在5月21日举办的小米汽车新品发布会上，按照官方现场公布的最新信息，小米YU7标准版起售价为23.35万元，零百加速5.90秒，最大马力320PS，最高时速220km/h。发布会后接受媒体群访时，雷军透露，小米YU7标准版23.35万的起售价是顶着非常大的成本压力敲定的，最开始的定价方案原本是23.99万元，团队挤了很多内部供应链和运营环节的利润，就是为了让用户实实在在感受到小米的诚意。（新浪科技、快科技）</p>\n  <p><strong>京东618将用AI数字人打造全网首档AI购物直播晚会</strong></p>\n  <p>36氪获悉，京东宣布将于6月1日晚8点推出全网首档A购物直播晚会《京东618·赛博联欢会》。据了解，晚会用京东JoyStreamer多模态数字人生成能力，重现美猴王、海尔兄弟、大头儿子、卡皮巴拉小黄豚等经典IP，以AI数字人形象演绎童年经典。</p>\n  <p><strong>Spotify和环球音乐达成合作：允许订阅用户创作AI翻唱作品</strong></p>\n  <p>5月22日消息，Spotify和环球音乐集团达成了一项合作，将允许用户使用人工智能创作翻唱歌曲和混音。外媒称，预计这项功能将以付费服务形式推出。订阅Spotify Premium的用户可以对参与授权计划的艺人歌曲进行混音，并创作AI翻唱作品。Spotify表示，除了现有的版税收入外，这项新功能还能为艺人和词曲作者创造额外的收入来源。Spotify联席CEO Alex Norström表示，Spotify的强项是解决音乐领域的难题，而粉丝制作的翻唱和混音将是下一步的发展方向。（环球网科技）</p>\n  <p><strong>香港证监会要求：提高开户标准</strong></p>\n  <p>香港证监会今天发出通函，列明在开立帐户及维持客户关系时应实施的监控措施。该通函是在证监会对12家证券经纪行的开户作业手法进行检视后发出的。有关检视识别出多项重大缺失，包括开户文件的尽职审查不足，在开户过程中接受可疑或伪造文件，及在管理与海外中介人的跨境代理关系方面的弱点。证监会对客户帐户有可能遭不当使用来进行可疑或不法交易，及因而加剧的洗钱及恐怖分子资金筹集风险，深表关注。证监会要求所有持牌法团在切实可行的情况下尽快进行内部核查，以侦测是否有任何可疑或伪造文件曾被接受用来开立帐户。（财联社）</p>\n  <p><strong>教育部拟同意设置34所新大学</strong></p>\n  <p>5月21日，教育部网站发布《关于拟同意设置本科高等学校的公示》称，根据《中华人民共和国高等教育法》《普通高等学校设置暂行条例》《普通本科学校设置暂行规定》《本科层次职业学校设置标准（试行）》等有关规定，经教育部党组会议审议，拟同意设置常州信息职业技术大学等34所学校，现予公示。公示时间为2026年5月21日至5月27日。公示信息显示，34所新大学中，22所为职业本科。2019年，国家开展本科层次职业教育试点，打破了职业教育专科学历的“天花板”。近年来，职业本科学校队伍日益壮大。（第一财经）</p>\n  <p><strong>腾讯承诺不再与相关版权方达成或变相达成版权独家授权合同</strong></p>\n  <p>36氪获悉，腾讯控股有限公司、腾讯音乐娱乐集团发布公告，国家市场监督管理总局于2026年5月11日发布《关于附加限制性条件批准腾讯控股有限公司收购喜马拉雅公司股权案反垄断审查决定的公告》（以下简称“《决定》”）。根据《决定》所附《附加限制性条件承诺方案》（以下简称“《承诺方案》”）要求，公司承诺不再与《承诺方案》中定义的版权方（以下简称“相关版权方”）达成或变相达成版权独家授权合同，并将��《承诺方案》规定期限内解除现有各种形式的独家授权合同。<br /></p>\n  <p><strong>证监会拟对富途罚款18.5亿，老虎证券罚没4.112亿</strong></p>\n  <p>据“证监会发布”微信公众号22日消息，近日，证监会依法对Tiger Brokers (NZ) Limited（以下简称老虎）、富途证券国际（香港）有限公司（以下简称富途）、长桥证券（香港）有限公司（以下简称长桥）境内外相关主体在境内非法经营证券业务等行为立案调查并作出行政处罚事先告知。</p>\n  <p>5月22日晚间，富途证券母公司富途控股发布公告称，公司收到了中国证券管理委员会及其深圳分局（合称“CSRC”）的调查通知及行政罚款预通知函，拟对公司罚款18.5亿元人民币（约合2.71亿美元）。对富途创始人兼首席执行官李华处以个人罚款125万元（约合183575美元）。老虎证券5月22日公告称，北京证监局对公司的相关子公司处以合计约人民币3.081亿元的行政罚款，并没收合计约人民币1.031亿元的违法所得。合计罚没金额为4.112亿元。（澎湃新闻）</p>\n  <p><strong>IMAX或考虑出售，正与多个潜在买家接洽</strong></p>\n  <p>据报道，连锁影院运营商IMAX正在考虑出售，并已与多家娱乐公司进行接洽，目前该过程尚处于早期阶段，不能确保达成交易。（财联社）</p>\n  <p><strong>英伟达最新财报取消游戏业务分类，统一并入边缘计算</strong></p>\n  <p>据科技媒体TweakTown报道，英伟达在最新财报中，将原本独立统计的游戏业务收入并入“边缘计算”分类，总额64亿美元（约合435.97亿元人民币）。这一变化表明，虽然GeForce产品线仍在继续更新，但游戏业务已不再是公司的核心增长引擎。（财联社）</p>\n  <p><strong>特朗普的凯旋门方案获批</strong></p>\n  <p>美国美术委员会当地时间5月21日批准了美国联邦政府提交的、拟在首都华盛顿特区建造类似“凯旋门”式建筑的设计方案。这是该项目推进过程中的关键一步。该委员会由美国总统特朗普亲自挑选的人员组成。委员会主席称：“这座建筑很美。”据了解，该方案较今年4月提交的版本略有修改，取消了底座的四头狮子雕像。（CCTV国际时讯）</p>\n  <p><strong>三星电子工会就临时薪资协议启动投票</strong></p>\n  <p>韩国三星电子工会22日开始就一项临时薪资协议进行电子投票。按计划，电子投票将持续至5月27日上午10时，预计约8.9万名工会成员参与。若参与投票人数超过全部成员半数，且多数投票者支持协议，协议将正式生效；否则劳资双方需重新展开谈判。（新华社）</p>\n  <p><strong>AMD首席执行官称未来几年CPU需求将持续增长</strong></p>\n  <p>AMD首席执行官苏姿丰5月22日表示，中央处理器（CPU）市场增长速度比“我们任何人一年前的预测都要快”，并且在未来几年将继续扩张。未来五年，AMD预计CPU市场每年将增长超过35%，“而这正是我们非常强大的领域，”苏姿丰在台北的一次活动上表示。（新浪财经）</p>\n  <p>澳洲法官严厉批评特斯拉集体诉讼案处理方式，警告将面临“非常糟糕的局面”</p>\n  <p>在一起涉及约1万名澳大利亚特斯拉车主的集体诉讼案中，澳大利亚联邦法院法官汤姆·索利对特斯拉在证据开示程序中的表现提出严厉批评，质疑该公司是否认真对待司法程序。该诉讼由布里斯班律师事务所JGA Saddler提起，指控特斯拉在“幽灵刹车”、电池续航里程和自动驾驶能力方面误导澳大利亚消费者。在长达八个月的取证过程中，特斯拉仅提交了约2000份文件，而原告律师表示，需要大量工程软件、车载系统及投诉记录等相关文件才能让专家充分审查指控。（新浪财经）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Gemini改为按算力计费引投诉，谷歌补偿：将Pro和Ultra用户额度永久提高三倍</strong></p>\n  <p>5月22日，财经网科技消息，在2026年I/O开发者大会期间，谷歌宣布于5月17日开始调整Gemini配额算法，将原先“每日提示词次数”调整为“按算力计费”，引发诸多网友和用户投诉。</p>\n  <p>根据官方公告内容，Gemini过去主要按每天提示词次数计算使用量，新规则改为按算力消耗核算，同时把请求复杂度、调用功能以及聊天历史长度都纳入配额计算。</p>\n  <p>伴随着舆论发酵，谷歌Antigravity团队的VarunMohan公开说明情况，并表示针对当前Pro和Ultra付费用户，已重置Gemini本周配额，后续额度将永久提高3倍。</p>\n  <p><strong>星巴克在北美全线叫停AI库存盘点工具</strong></p>\n  <p>在北美门店全线推广仅九个月后，星巴克本周正式关停了该款用于自动化库存盘点的人工智能工具。此前了解到，这款AI工具在实际操作中频频算错数量，导致库存管理错漏百出。该工具曾是首席执行官Brian Niccol旨在解决产品频繁缺货这一核心顽疾的标志性举措，他此前一直痛批缺货严重拖累了公司业绩。（新浪财经）</p>\n  <p><strong>Anthropic正与微软商谈使用其AI芯片</strong></p>\n  <p>据报道，Anthropic正与微软商谈租用搭载微软自主设计的AI服务器芯片的服务器。（界面新闻）</p>\n  <p>微软和安永将联合投资超10亿美元，帮助客户启动重大AI项目</p>\n  <p>科技巨头微软公司正与咨询公司安永联手，计划投入超过10亿美元协助客户启动重大AI项目。安永全球咨询业务副主席Errol Gardner在接受采访时表示，这项计划旨在帮助企业将AI项目从试点阶段发展为大规模项目，届时客户能“真正获得投资回报”。（新浪财经）</p>\n  <h2>上市进行时</h2>\n  <p><strong>硅基智能更新招股书</strong></p>\n  <p>36氪获悉，港交所文件显示，南京硅基智能科技集团股份有限公司向港交所提交上市申请书，联席保荐人为招银国际、星展国际。</p>\n  <p><strong>Ōura智能戒指制造商秘密递交美国IPO申请</strong></p>\n  <p>智能戒指制造商Ōura于5月21日宣布，已向美国证券交易委员会秘密提交了首次公开发行的S-1注册声明草案，交易代码尚未公布。高盛和摩根大通将担任此次IPO的主承销商。（新浪财经）</p>\n  <p><strong>东芯股份：筹划发行H股股票并在香港联交所主板上市</strong></p>\n  <p>36氪获悉，东芯股份公告，公司拟发行境外上市股份（H股）并在香港联交所主板挂牌上市。截至目前，公司正积极与相关中介机构就本次发行上市的相关工作进行商讨。</p>\n  <p><strong>北京首钢朗泽科技股份有限公司通过港交所上市聆讯</strong></p>\n  <p>36氪获悉，港交所文件显示，北京首钢朗泽科技股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆讯。</p>\n  <h2>大公司财报</h2>\n  <p><strong>联想集团：第四财季收入216亿美元，同比增长27%</strong></p>\n  <p>36氪获悉，联想集团公告，2025/26年财政年度，集团全年收入同比增长20%，创831亿美元新高。剔除一次性重组费用、认股权证的非现金公允值收益、可换股债券的名义利息及其他非现金项目的影响后，经调整权益持有人应占溢利同比增长42%至20亿美元。于第四财季，收入达到216亿美元的历史新高，同比增长27%，创下过去五年来最高增速。人工智能相关收入同比增长84%，占集团总收入的38%。<br /></p>\n  <p><strong>Information：OpenAI第一季度营收约为57亿美元</strong></p>\n  <p>The Information援引两位未具名知情人士报道，OpenAI第一季度营收约为57亿美元。报道称，OpenAI的编码助手Codex，以及企业销售增长和ChatGPT广告测试，共同推动了第一季度营收增长。（新浪财经）</p>\n  <p><strong>拉夫劳伦在华市场表现亮眼，营收大幅攀升</strong></p>\n  <p>受中国市场强劲增长拉动，拉夫劳伦第四财季净利润1.516亿美元，营收同比上涨17%至19.8亿美元。市场数据机构法克赛特统计显示，公司调整后每股收益为2.80美元，超出市场2.55美元的预期值。（新浪财经）</p>\n  <p><strong>Take-Two第四财季净预定15.8亿美元，高于市场预期</strong></p>\n  <p>Take-Two第四财季净预定15.8亿美元，分析师预期15.7亿美元。公司预计2027财年净预定80亿-82亿美元，分析师预期91.1亿美元。公司预计第一财季净预定13.2亿-13.7亿美元，分析师预期15.7亿美元。（财联社）</p>\n  <p><strong>Workday一季度营收25.4亿美元，高于市场预期</strong></p>\n  <p>Workday一季度营收25.4亿美元，分析师预期25.2亿美元。维持全年订阅营收预期在99.3亿-99.5亿美元不变。公司预计二季度订阅营收24.6亿美元，分析师预期24.56美元。（财联社）</p>\n  <h2>投融资</h2>\n  <p><strong>英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资</strong></p>\n  <p>Figure创始人Brett Adcock旗下的AI初创公司Hark宣布完成7亿美元A轮融资，估值达60亿美元。本轮融资由Parkway Venture Capital领投，英伟达、AMD Ventures、Intel Capital等参投。资金将用于扩展GPU基础设施，加速未来AI模型的开发，以及设计和构建下一代AI硬件。（财联社）</p>\n  <p><strong>“无尽方舟”完成数千万种子轮融资</strong></p>\n  <p>36氪获悉，AI驱动的生物科技制药公司“无尽方舟”宣布完成数千万种子轮融资，由Monolith砺思资本领投。无尽方舟科技由牛津博士生赵思邈创立，致力于通过跨物种AI模型研发长寿药物，探索能实现器官功能改善的疗法。</p>\n  <p><strong>Kalshi Inc.融资2亿美元，估值维持在220亿美元</strong></p>\n  <p>据报道，Kalshi Inc.融资2亿美元，估值维持在220亿美元。（财联社）<br /></p>\n  <p><strong>“中科沌序”完成数千万天使轮融资</strong></p>\n  <p>北京中科沌序科技有限公司宣布完成数千万规模的天使轮融资。本次融资由首程资本领投，钧犀资本、顺禧基金跟投，获多元资本类型追捧。中科沌序脱胎于人工智能“国家队”中国科学院自动化所，以Collective AGI（群体通用人工智能）为使命，既布局未来无人社会广阔场景，又有当下低空安全产品落地的AI公司，致力于打破AI行业“远景美好、落地艰难”困境，实现“技术+商业”双轨并行。</p>\n  <h2>酷产品</h2>\n  <p><strong>炬坤机器人发布全球首款工业级五指灵巧手</strong></p>\n  <p>36氪获悉，炬坤机器人近日发布全球首款工业五指灵巧手Torch-hand1，专为工业场景打造，可适配多种复杂场景作业需求。</p>\n  <p><strong>博坦发布全新旗舰无人机ATOM 3</strong></p>\n  <p>36氪获悉，近日，博坦（Potensic）正式发布ATOM系列全新旗舰无人机ATOM 3。据了解，ATOM 3定位为249g全场景航拍无人机，搭载1/1.3英寸大底传感器，可实现4K 60fps HDR、最长续航50分钟、16公里图传距离，拥有AI跟随2.0。支持4米以内低空跟随、AI夜景模式、一键短片等智能功能，可搭配PTD 2带屏遥控器，目前已在国内全平台正式开售。</p>\n  <p><strong>整理</strong>｜Kris</p>",
+      "category": "tech",
+      "published_at": "2026-05-23T01:13:16+00:00",
+      "fetched_at": "2026-05-23T02:38:42.043182+00:00",
+      "fingerprint": "c360f237e8da40ae"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "千禧年流行的老式漂亮饭，居然翻红了",
+      "url": "https://36kr.com/p/3821213026570627?f=rss",
+      "summary": "<p>过去这几年，餐饮行业的新店越开越多，淘汰速度也越来越快。<strong>精致餐饮仍在发展，但人们愿意为摆盘和氛围买单的冲动在减弱，转而开始寻求一种体面而高性价比的社交空间。</strong></p>\n  <p>在这样的节奏中，上岛咖啡、米萝咖啡、老树咖啡、良木缘、绿茵阁、豪享来等颇具年代感的老式咖啡餐吧，又开始悄悄爬上了年轻人的打卡清单。</p>\n  <p>二三十年前，它们是城市里最洋气的餐厅，菜单上写着影视剧男女主角才会点的黑椒牛排意面和卡布奇诺咖啡。隔壁桌是商务人士谈生意，或是时髦情侣在约会，小朋友则眼巴巴地等着大人给自己点上一碗香蕉船。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_1faf4d215a7e46f785068a4d095a4289@6076018_oswg211979oswg1080oswg1619_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2001年10月30日，杭州萧山机场的上岛咖啡连锁店。（图/视觉中国）</p>\n  <p>当我们开始习惯生活中出现的各种网红餐厅与精品咖啡店时，老牌咖啡餐吧就不再是“高档”首选。<strong>但热爱“老派约会”的年轻人，永远对它们情有独钟</strong>。</p>\n  <h2><strong>老式咖啡厅</strong></h2>\n  <h2><strong>多少人的童年顶流？</strong></h2>\n  <p>以前想要到老式咖啡餐吧吃顿饭，得软磨硬泡好久，考了第一名、过生日或者爸妈实在拗不过了自己，才能走进它们的大门。</p>\n  <p>那时，老式咖啡餐吧代表着一种独特的仪式感，进门前深吸一口气，就能踏入一个和日常完全不同的世界。</p>\n  <p>餐厅里播着爵士乐，每桌都是暗红或墨绿色的皮革沙发卡座，座位旁边是半人高的绿植。头顶的水晶吊灯，灯光恰到好处地照着墙上看不懂的插画，营造出一种当时难得一见的“优雅”氛围。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_df4bba79e3fc4777873d5f140d480c53@6076018_oswg171303oswg1080oswg1439_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">甜品香蕉船，多少孩子的童年回忆。（图/图虫创意）</p>\n  <p>食物则是这段回忆的重中之重，那块如今看来肉质平平的牛排端上来时总是让人充满期待，自己第一次模仿大人的样子使用刀叉时的局促与新奇至今难忘。</p>\n  <p>冰淇淋永远装在细长的杯子里，表面是巧克力酱和奶油，顶上还要插一片威化饼干或者一颗鲜红的樱桃。吃到最后，甚至想不顾形象地端起杯子，把杯底融化的甜水一饮而尽。</p>\n  <p><strong>在那个生活方式不算丰富的年代，很多家庭把老式咖啡餐吧当成周末的固定据点。</strong>大人们点一杯咖啡就开始谈天说地，讲一些小孩们听不懂的“大事”。孩子们则窝在卡座里翻那些看不太懂的杂志、报纸，一边嘬着奶昔，把吸管咬得很扁，一边许下“宏愿”：长大后要自己花钱来这里，想点什么就点什么，想坐多久就坐多久。</p>\n  <p>多年之后，老式咖��餐吧也不再是城市中的潮流地标。它们从商场最显眼的位置，缩进了临街商铺的二楼、巷子的拐角，却在不经意间重新捕获了新一代年轻人的目光，成为新晋“宝藏小店”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_300cb14276464345a88278ea0a6ad07b@6076018_oswg354080oswg1080oswg1794_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">上岛咖啡成了梦核风拍照打卡点。（图/小红书截图）</p>\n  <h2><strong>老式咖啡餐吧</strong></h2>\n  <h2><strong>正在被重新选择</strong></h2>\n  <p>过去，成都良木缘咖啡厅里厚重的木质家具上繁复的雕花、略显昏黄的灯光，被戏称为“欧式贵族风”。在很长一段时间里，约几个朋友一起去良木缘写作业、喝下午茶，是小孩们“奢侈”的课余活动。</p>\n  <p>如今，良木缘的装修融入了更现代的设计，整体环境变得更加明亮、舒适，且不同门店有着差异化设计。<strong>邻近大学的门店甚至推出了专门的自习区域，咖啡还可以续杯。</strong>曾经那个“有钱孩子才能去”的咖啡厅，以一种更日常的姿态，重新进入了人们的视野。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_c6fa1041dd4440e38515cae32849bd20@6076018_oswg148489oswg1080oswg910_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“有钱孩子才能去”的咖啡厅，如今已经转型。（图/网页截图）</p>\n  <p>同样发生变化的，还有上岛咖啡。上岛品牌初到大陆时，凭借“有腔调”的调性，成为了都市白领和商务人士洽谈业务、享受闲暇的首选之地。在巅峰时期，上岛咖啡及其衍生品牌在全国的门店数量一度达到惊人的3000家。</p>\n  <p>近些年许多上岛咖啡已经逐渐关店，但现存的店里，菜品变得越来越“接地气”了。<strong>除了牛排、意面和咖啡外，菜单上还赫然出现了农家土鸡、芥末鸭掌、毛血旺甚至水煮鱼。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_792f1cecf7bc4f8db287eb2032c35e93@6076018_oswg134419oswg1080oswg900_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">到上岛咖啡吃川菜……还是太超前了。（图/网页截图）</p>\n  <p>小时候觉得高攀不起的地方，加入了中餐fushion后，反而透着一股莫名的亲切感。它不再是精英的专属，而变成了一个谁都可以进来歇歇脚的地方。</p>\n  <p>还有一部分人重新走进老式咖啡餐吧时，是为了找回熟悉的记忆，那些与店名、菜单乃至装潢牢牢绑定的幸福瞬间。</p>\n  <p>来自厦门、主打平价牛排的豪享来，用牛排搭配铁板意面、一个煎得恰到好处的荷包蛋，再淋上浓郁的黑胡椒酱，甚至还会附送一小杯红酒。<strong>一套“组合拳”下来，豪享来不知完成了多少孩子的西餐启蒙。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_7118ef2dd08a484eaa379c1de9ea0d86@6076018_oswg534550oswg1080oswg1784_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">老式咖啡餐吧的记忆，长大后依然“刻骨铭心”。（图/网页截图）</p>\n  <p>如今重新走进店门，那熟悉的铁板嗞嗞声，那杯甜得发腻的红茶，足以将人瞬间拉回那个无忧无虑的人生阶段。</p>\n  <p>同样是在西餐对于大多数国人而言还算是贵价舶来品的年代，许多人在广州绿茵阁里喝到了人生的第一杯咖啡，第一次知道西冷和肉眼的区别，也会亲切地称呼它为“渌亲脚”。</p>\n  <p>30多年后的今天，那些在绿茵阁里拍拖恋爱，如今为人父母的广州人，仍然会带着孩子们重新回到这里，点一桌忌廉汤、肉眼扒、意粉和甜品。对老顾客而言，这里是青春记忆的载体；对年轻人来说，这种未经刻意做旧的复古感，又构成了一种独特的吸引力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_5fad27b0bfc14d8e826b2a8a46535b4c@6076018_oswg139174oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">绿茵阁咖啡厅。（图/IC Photo）</p>\n  <p><strong>承载着一代人记忆的老式咖啡餐吧，在时代的洪流中走出了截然不同的命运轨迹。</strong>而那群在老式咖啡餐吧陪伴下长大的孩子们，总会在不同时期重新选择它们，哪怕只是为了圆自己一个童年梦想。</p>\n  <h2><strong>老式咖啡餐吧</strong></h2>\n  <h2><strong>接住了多少装松弛的年轻人</strong></h2>\n  <p>这两年社交平台上流行一个词叫“漂亮饭”，特指去那些摆盘精美、色调高级、让人忍不住拍照的餐厅吃饭。菜品味道未必惊艳，但一顿饭下来，手机相册一定已经“吃饱”了。</p>\n  <p>如果二三十年前社交媒体与摄影技术同样流行，那么这些老式咖啡餐吧一定会成为当时的“漂亮饭”顶流。但如今，被融合餐厅昂贵的价格和五花八门的“主理人规则”劝退的年轻人，反而在这些餐吧中真的松弛了下来。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_5001aea38e2f43368eeba6bc4a3ed070@6076018_oswg84306oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">喝腻了贵价特调咖啡的年轻人，逐渐发现了老式咖啡餐吧的好。（图/视觉中国）</p>\n  <p>无他，20多元一杯美式咖啡，五六十元的牛排套餐，和许多网红店相比便宜一截。你可以穿着拖鞋窝在卡座里，点上一桌小时候不敢奢望的美食，好好款待童年的自己。</p>\n  <p>拍摄需求也不会被落下，复古的木楼梯、深绿色卡座和水晶吊灯，随便一拍就有千禧年的复古味道。</p>\n  <p>不过，年轻人走进老式咖啡餐吧，也不只是为了拍照或者怀旧。从诞生那天起，老式咖啡餐吧就具备了一种奇特的包容性。它们不只是咖啡店，还是第一批本土化的西餐厅，让许多人以相对融合、友好的方式初次体验了大洋彼岸的新奇生活。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260523/v2_f2c307caf733422b821769166db738fe@6076018_oswg1166922oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">每个人的心中都有自己怀念的老式咖啡餐吧。（图/图虫创意）</p>\n  <p>如今大家见惯了各种场面，早就没了当年的拘谨。老式咖啡餐吧也褪去了“高级”的滤镜，它从不试图掩盖自己的陈旧，而是乐于成为人们精彩生活中的背景板。</p>\n  <p>但至少在每个人心中最爱的老式咖啡餐吧里，我们仍然被允许怀念童年的香蕉船，怀念那个曾经无忧无虑的自己。</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/kO8s2CfQDs02eStHU7izQA\" rel=\"noopener noreferrer\" target=\"_blank\">“新周刊”</a>，作者：牧羊，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-05-23T01:41:23+00:00",
+      "fetched_at": "2026-05-23T02:38:42.043174+00:00",
+      "fingerprint": "18f0c1b386836328"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+      "url": "https://36kr.com/p/3819979202253189?f=rss",
+      "summary": "<p>作者｜梁键强</p>\n  <p>编辑｜王毓婵</p>\n  <p><strong>一句话介绍</strong></p>\n  <p>Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。</p>\n  <p>招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别和组织决策。</p>\n  <p>支撑这三款产品的是Moka AI工坊，它相当于底层能力平台，可以让企业用业务语言描述需求，具有快速响应、个性化定制和安全上线等能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260522/v2_8ab1f7fe263942ccbfe7a3ca7f8be638@5385021_oswg510777oswg4195oswg1679_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：Moka</p>\n  <p><strong>团队介绍</strong></p>\n  <p>Moka联合创始人兼CEO李国兴，本科阶段获得上海交大和密歇根大学计算机双学位，后取得斯坦福大学计算机硕士学位。曾任职于Facebook和智能数据监控公司SignalFx。2015年回国创办Moka，并带领公司从招聘管理系统起步，逐步将AI Agent引入招聘、人事和组织管理等HR场景。</p>\n  <p><strong>融资进展</strong></p>\n  <p>此前已完成老虎环球基金领投的C轮一亿美元融资。总融资规模近1.5亿美元。</p>\n  <p><strong>产品及业务</strong></p>\n  <p>去年，脉脉高聘人才智库发布的《2025年度人才迁徙报告》显示，2025年1月至10月，新经济行业人才供需比升至2.23，意味着平均2.23名求职者竞争1个岗位，求职端竞争进一步加剧。</p>\n  <p>企业端的用人需求也在回暖。报告显示，自2025年6月起，新经济行业每月新发岗位量均超过去年同期，其中AI岗位量单月增长11倍，出海相关岗位新增16.99%。</p>\n  <p>一边是人才竞争压力加剧，一边是岗位需求回升，企业面对的人才匹配问题也变得更复杂。对 HR 来说，工作不只是更快找到合适候选人，还包括理解业务战略背后的用人需求，并持续处理员工沟通、人才保留和组织调整等问题。</p>\n  <p>Moka联合创始人兼CEO李国兴指出，当前HR的工作长期被大量事务性流程占据，真正能投入人才战略、组织设计和员工沟通上的时间并不多。</p>\n  <p>面对更高频、更复杂的人才流动和管理需求，AI工具有了进入招聘、人事和人才管理场景的空间。</p>\n  <p>这次发布的招聘Eva、人事Eva和BPEva产品，分别对应招聘、人事和人才管理三个核心场景。李国兴希望通过这三款产品，把一部分重复、琐碎、流程化的工作交给AI，让HR回到更高价值的组织工作中。</p>\n  <p>招聘Eva主要面向招聘流程。它不仅负责简历筛选、面试纪要这类任务，还贯穿了简历理解、候选人搜索、初筛、约面、面试反馈和Offer推进等环节。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260522/v2_386bd14c86d4419d9272933414568ad2@5385021_oswg4317745oswg4752oswg3168_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：Moka</p>\n  <p>在招聘场景中，Eva的特长在于记忆和校准能力。很多企业的岗位招聘并不是一次性需求，而是长期持续进行。招聘Eva能够在这个过程中不断理解企业的用人偏好、岗位画像和判断标准，并根据候选人初筛、面试结果等反馈动态调整。</p>\n  <p>比如，当某些候选人在初筛阶段被淘汰，或在面试后被认为不合适，这些信息都可以反过来帮助Eva校准岗位画像，逐渐理解企业、部门甚至个人的偏好。</p>\n  <p>招聘Eva还具备“面试教练”的功能。在视频面试中，它可以实时读取面试内容，给面试官提供追问建议，并在面试结束后生成面试纪要和面试质量报告。</p>\n  <p>人事Eva面向更高频、更重复的人事事务，主要处理数据报表、日常事务流程、员工咨询等工作，包括员工入职后的信息录入，假期、考勤、薪资数据校验，排班生成，流程自动化，以及数据巡检等。李国兴称，人事Eva可承接HR 70%-80%的重复性事务工作。</p>\n  <p>BPEva面向的是人才管理和组织决策。相比招聘Eva和人事Eva，它处理的不是具体流程，而是更善于“理解人的需求”。Moka希望通过BPEva构建动态人才画像，帮助企业识别员工能力、岗位匹配和潜在发展风险。</p>\n  <p>传统人才管理多依赖季度、半年或年度盘点，周期较长，也容易滞后。BPEva的作用，是在授权前提下读取会议纪要、文档等数据，动态更新员工画像，帮助HR及时发现员工状态变化、岗位匹配和潜在流失风险。</p>\n  <p>三款Eva的底层能力来自Moka AI工坊。它可以承接不同企业的个性化需求，将业务语言转化为具体能力配置，并通过沙盒预演、存档和回滚等功能，减少上线后的不确定性。</p>\n  <p>在Moka看来，对企业用户来说，未来使用HR系统的方式可能会发生变化。过去是人在系统里操作流程，之后则可能更多变成在熟悉的办公软件里，直接和Eva对话、派发任务、接收提醒等。</p>\n  <p><strong>Founder思考</strong></p>\n  <ul>\n   <li><strong>AI接手流程性工作后，HR的价值会更多回到人和组织本身</strong></li>\n  </ul>\n  <p>AI HR的出现，会给HR的工作方式带来直接变化。过去，HR很大一部分时间被招聘推进、入离职流程、员工沟通、人事数据、BP事务等日常工作占据。虽然企业经常讨论人才战略和组织建设，但在实际工作中，HR很难真正把大量时间投入到这些更高价值的事情上。</p>\n  <p>当事务性工作被AI分担后，未来HR的角色会更偏向两类工作。</p>\n  <p>第一是成为信任的建立者。员工愿不愿意表达真实想法、沟通自身状态，本质上依赖人与人之间的信任，这仍然很难完全交给AI。</p>\n  <p>第二是成为人才和组织的架构师。比如根据公司业务方向、战略重点和组织现状，判断人才结构是否合理、组织是否需要调整等。这类涉及方向判断和组织设计的决策，仍然需要HR负责人和管理层共同完成。</p>\n  <ul>\n   <li><strong>招聘、人事和BP，是HR Agent最容易落地的三类场景</strong></li>\n  </ul>\n  <p>从过往经验、产品能力来看，招聘、人事和BP是最容易被AI Agent切入、也最有落地价值的方向。</p>\n  <p>招聘是多数企业长期存在的需求，流程也相对繁琐。一个企业里，HR团队中人数最多的往往是招聘团队。招聘不仅涉及简历筛选，还包括岗位需求理解、候选人搜索、约面、面试反馈和Offer推进。</p>\n  <p>过去这些环节需要HR人工串联，而Agent的价值在于，它可以把这些分散任务连接起来，推动流程继续往前走。</p>\n  <p>人事事务则是另一类适合Agent介入的场景。它的特点是高频、重复、细节多，而且不能出错。比如假期、考勤、薪资、排班、入离职流程、员工咨询等。对HR来说，这类工作占用时间，但很难体现其价值。</p>\n  <p>虽然每家企业规则不同，但一旦规则进入系统，AI就可以根据配置，协助处理这些问题，节省HR的时间。</p>\n  <p>BP对应的是人才和组织问题，这也是CEO和HR一号位更关心的部分。它不像招聘和人事那样更侧重于处理流程，而是试图回答“人和岗位是否匹配”“员工是否有发展风险”“组织里哪些人需要被看见”等问题。</p>\n  <ul>\n   <li><strong>AI HR让员工价值更容易被客观评价，也更容易被看见</strong></li>\n  </ul>\n  <p>员工能力成长、协作表现、学习能力、岗位匹配情况，都会在日常工作中留下痕迹。如果这些信息能够被线上化、结构化，并被AI读取，员工的亮点就可能更早被发现。</p>\n  <p>过去，员工表现往往高度依赖管理者的主观评价。如果领导了解某个人、认可某个人，他的贡献可能更容易被看见；如果员工不擅长表达，或者与直接管理者风格不匹配，也可能在组织中被埋没。</p>\n  <p>如果AI能在授权前提下读取更多客观工作数据，比如文档、会议纪要、项目进展、绩效结果、代码、CRM记录等，它就有机会从更多维度识别员工的真实贡献。这样一来，组织对人的判断就不只依赖某一次汇报、某个领导的评价，或者短期的人才盘点。</p>\n  <p>对一部分员工来说，他们甚至可能愿意开放更多工作数据，让AI帮助组织看到自己的真实价值。但数据合规开放的核心前提，仍然是明确授权范围与使用边界。</p>\n  <ul>\n   <li><strong>AI Agent会削弱岗位边界，也会提高对“超级个体”的需求</strong></li>\n  </ul>\n  <p>AI HR Agent出现后，企业对人的需求也会发生变化。过去组织更强调明确分工，比如技术负责技术，产品负责产品，运营负责运营。但在AI工具普及后，很多专业技能的获取门槛正在下降，岗位之间的边界也会变得更模糊。</p>\n  <p>未来更被需要的，可能是借助AI完成端到端工作的“超级个体”。比如技术人员不只是会写代码，也要有产品意识和用户意识；产品经理不只是写需求文档，也要理解技术，并能够使用AI Coding工具搭建demo。</p>\n  <p>AI让一些具体技能变得更容易调用，因此人的判断力、品味和跨领域理解能力反而更重要。</p>\n  <p>这类人通常有几个特点：对周边领域有一定理解，善于使用AI，愿意用AI完成过去自己不会的工作，同时具备判断标准和审美能力。</p>\n  <ul>\n   <li><strong>AI原生组织的关键，不只是上线新的AI工具，还在于重塑协作方式</strong></li>\n  </ul>\n  <p>AI原生组织有一个判断公式：AI人才密度×AI组织协同深度。前者指组织里有多少人是真正会用AI的人，后者指组织能在多大程度上让AI参与协同工作。两者结合，共同构成企业组织的竞争力。</p>\n  <p>所谓AI人才密度，指的是员工遇到问题时，会不会首先思考这件事能不能用AI完成，而不是沿用过去的经验和惯性。</p>\n  <p>越是工作经验丰富的人，有时越容易被过去的工作方式束缚。比如原本擅长Excel分析的人，可能仍然习惯自己搭表、写公式、做分析，而不是直接把原始数据交给AI，让AI按照目标完成分析。</p>\n  <p>AI组织协同深度，则要求组织把更多信息线上化、结构化，让AI可读、可调用。比如会议纪要、文档、项目进展、业务数据等，如果都停留在线下沟通或个人经验里，AI很难真正参与组织运转。只有当关键工作被记录、沉淀，并允许AI提建议甚至直接执行，Agent才能真正进入组织流程。</p>\n  <p>在内部实践中，AI对工作方式的影响已经开始显现。比如产品经理可以在没有技术同学帮助的情况下，用AI搭建demo；技术同学也不再严格区分前端、后端、算法，而是借助AI Coding工具完成更完整的任务闭环。团队成员更像“超级个体”，组织层级也会被压缩。</p>\n  <p>不过，全员AI化的难点并不只是工具，而是组织惯性和人的工作习惯。AI团队专项试点推行的阻力更小，因为被抽调进来的成员本身对新工具和新产品更兴奋。但要让全公司都改变原来的工作方式，就需要持续对抗惯性。</p>\n  <p>类似变化说明，AI原生组织的难点不只是引入新的AI工具，而在于组织是否有能力打破惯性，重新设计工作流程。</p>",
+      "category": "tech",
+      "published_at": "2026-05-23T02:00:00+00:00",
+      "fetched_at": "2026-05-23T02:38:42.043156+00:00",
+      "fingerprint": "a48bb5feb9e93950"
+    },
+    {
+      "source": "少数派",
+      "title": "Maptoposter Online：把你爱的城市画成艺术海报",
+      "url": "https://sspai.com/post/109287",
+      "summary": "如果你喜欢城市地图、旅行纪念、桌面壁纸、打印海报，或者只是想看看一座城市的路网长什么样，可以试试这个工具。<a href=\"https://sspai.com/post/109287\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-05-22T03:03:50+00:00",
+      "fetched_at": "2026-05-23T02:38:40.494280+00:00",
+      "fingerprint": "02778fa9d72efa05"
+    },
+    {
+      "source": "少数派",
+      "title": "浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」",
+      "url": "https://sspai.com/post/110044",
+      "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？<a href=\"https://sspai.com/post/110044\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-05-22T07:37:11+00:00",
+      "fetched_at": "2026-05-23T02:38:40.494272+00:00",
+      "fingerprint": "7ae718e386910466"
+    },
+    {
+      "source": "少数派",
+      "title": "本周看什么 | 最近值得一看的 7 部作品",
+      "url": "https://sspai.com/post/110046",
+      "summary": "📅本周新预告《死神千年血战篇-祸进谭-》正式预告5月19日，TV动画《死神千年血战篇-祸进谭-》发布了正式预告，第1-3集将于6月21日在日本影院先行上映，7月开始播出。田口智久担任总导演，村田光执导 ...<a href=\"https://sspai.com/post/110046\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-05-22T10:12:14+00:00",
+      "fetched_at": "2026-05-23T02:38:40.494260+00:00",
+      "fingerprint": "10d65d7a1f89399f"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.8389 CNY ↓-0.20%",
+      "url": "https://www.frankfurter.app/2026-05-22?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-05-22</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.8389 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0096 (-0.20%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-05-23T02:38:39.377786+00:00",
+      "fingerprint": "9dab332adc7111a9"
+    },
     {
       "source": "The Guardian - World",
       "title": "US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say",
