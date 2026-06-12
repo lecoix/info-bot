@@ -1,7 +1,297 @@
 {
-  "updated_at": "2026-06-11T03:32:06.417537+00:00",
-  "count": 213,
+  "updated_at": "2026-06-12T03:32:03.163118+00:00",
+  "count": 185,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "London council seizes social housing flat rented by Sierra Leone first lady",
+      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
+      "summary": "<p>Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in Freetown</p><p>A social housing flat rented by Sierra Leone’s first lady has been seized by a London council.</p><p>Southwark council confirmed it had repossessed the two-bedroom home in Walworth previously occupied by Fatima Jabbe-Bio, whose tenancy was reported by <a href=\"https://www.thetimes.com/uk/london/article/sierra-leones-first-lady-rents-a-council-flat-in-south-london-8htp25xs3\">the Times</a> last year.</p> <a href=\"https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-06-11T15:19:15+00:00",
+      "fetched_at": "2026-06-12T03:32:03.158394+00:00",
+      "fingerprint": "39978f1906ab8d08"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks.",
+      "category": "politics",
+      "published_at": "2026-06-11T16:25:17+00:00",
+      "fetched_at": "2026-06-12T03:32:02.908918+00:00",
+      "fingerprint": "4f3e1e17dd26c501"
+    },
+    {
+      "source": "BBC World News",
+      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
+      "category": "politics",
+      "published_at": "2026-06-11T23:41:14+00:00",
+      "fetched_at": "2026-06-12T03:32:02.908912+00:00",
+      "fingerprint": "58d8a0ce4d48ccd8"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Deadly Sudan drone strike targets funeral procession",
+      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
+      "category": "politics",
+      "published_at": "2026-06-11T15:57:04+00:00",
+      "fetched_at": "2026-06-12T03:32:02.908906+00:00",
+      "fingerprint": "e8f6c1965c21b132"
+    },
+    {
+      "source": "BBC World News",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+      "category": "politics",
+      "published_at": "2026-06-11T13:26:24+00:00",
+      "fetched_at": "2026-06-12T03:32:02.908897+00:00",
+      "fingerprint": "d4cc1d71215cca29"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「我感覺更輕鬆，更開放」：誰說老年人不宜做心理治療",
+      "url": "https://www.bbc.com/zhongwen/articles/c892v4lq32wo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "精神分析學創始人佛洛伊德曾認為超過40或50歲後，心理治療效果會下降。但有學者指出，事實上「研究顯示情況正好相反」。",
+      "category": "politics",
+      "published_at": "2026-06-11T23:37:01+00:00",
+      "fetched_at": "2026-06-12T03:32:02.631312+00:00",
+      "fingerprint": "96bccf779205903a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "泰國當局判處兩維吾爾人死刑　BBC記者回憶當年的曼谷四面佛爆炸案",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yz48282n4o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "2015年造成20人死亡、120人受傷的泰國曼谷四面佛爆炸案一審判刑，當年遇難者中包括七名中國大陸與香港居民。",
+      "category": "politics",
+      "published_at": "2026-06-12T02:18:52+00:00",
+      "fetched_at": "2026-06-12T03:32:02.631300+00:00",
+      "fingerprint": "2eeaaf5ad7f27f3d"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "香港反修例示威七週年：政府推出「正向教育」活動，當年被捕的年輕人會買賬嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c3629p9n6ejo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "香港保安局推出的「特別項目」，保安局局長鄧炳強稱，是為未被檢控的人士提供「更生機會」。",
+      "category": "politics",
+      "published_at": "2026-06-12T01:57:36+00:00",
+      "fetched_at": "2026-06-12T03:32:02.631294+00:00",
+      "fingerprint": "093480dec3abfe2a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "世界盃墨西哥揭幕：夏奇拉熱鬧開唱，場外數百人抗議",
+      "url": "https://www.bbc.com/zhongwen/articles/c1eyljze87xo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "在墨西哥城的開幕典禮星光雲集，然而阿茲特克體育場周邊也出現警方與抗議者之間的零星衝突。",
+      "category": "politics",
+      "published_at": "2026-06-12T02:06:59+00:00",
+      "fetched_at": "2026-06-12T03:32:02.631285+00:00",
+      "fingerprint": "1ceac042a93c1280"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-12T03:32:01.918389+00:00",
+      "fingerprint": "c04622986975d086"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-12T03:32:01.918265+00:00",
+      "fingerprint": "4c865ecc35927b1e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-12T03:32:01.918124+00:00",
+      "fingerprint": "7863add78999a9a1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-12T03:32:01.917988+00:00",
+      "fingerprint": "7874061062f9fdca"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-12T03:32:01.917836+00:00",
+      "fingerprint": "736ae26790cbe561"
+    },
+    {
+      "source": "The Verge",
+      "title": "Roborock&#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
+      "summary": "Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That&#8217;s especially true today. It’s down to just $269.99 ($280 off) at Wellbots when you apply promo code NEW10, which matches its all-time low and is the best price [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-11T17:42:29+00:00",
+      "fetched_at": "2026-06-12T03:32:01.639230+00:00",
+      "fingerprint": "5fa52bfd5bfc7bca"
+    },
+    {
+      "source": "The Verge",
+      "title": "Blink’s six-piece outdoor camera kit is a great deal under $200",
+      "url": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale",
+      "summary": "You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99. The bundle includes a Blink Battery Doorbell 2K+, five Blink Outdoor 2K+ cameras, and a Blink Sync Module Core. The doorbell is typically [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-11T18:04:43+00:00",
+      "fetched_at": "2026-06-12T03:32:01.639224+00:00",
+      "fingerprint": "9561060f119ad18c"
+    },
+    {
+      "source": "The Verge",
+      "title": "Logitech’s awesome MX Master 3S mouse drops to under $100",
+      "url": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
+      "summary": "The platform-agnostic Logitech MX Master 3S wireless mouse is discounted to $89.99 at Amazon ($30 off), matching the best price we’ve seen so far this year. While it may look like a somewhat ordinary mouse, it has a unique second scroll wheel near the left thumb that’s surprisingly useful for horizontal scrolling in spreadsheets. You [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-11T20:00:00+00:00",
+      "fetched_at": "2026-06-12T03:32:01.639218+00:00",
+      "fingerprint": "129c8dc5cef3c9c6"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
+      "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+      "summary": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and controls on the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-11T22:06:32+00:00",
+      "fetched_at": "2026-06-12T03:32:01.639209+00:00",
+      "fingerprint": "6ec888266e2c0bb1"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。</p>\n  <p>这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺乏面向普通消费者的量产产品。</p>\n  <p>坦途科技此次选择的“地效贴水飞行”形态，旨在通过技术手段降低个人飞行的准入和操作门槛。</p>\n  <p>在产品设计上，WaveFly 5X采用双串翼式布局与航空级碳纤维机身。由于其基于地效原理运行，飞行高度保持在距水面30至80厘米的低空，能够直接在开阔水面起降，无需专用跑道、机场和繁琐的飞行审批。在性能参数方面，该飞行器最高时速为85公里，最大载重140公斤，续航里程达80公里。机身搭载模块化快换电池，单次续航最长为70分钟。</p>\n  <p>对于非专业用户而言，WaveFly 5X的核心在于安全和操控的轻量化。由于近水飞行的地效特性，产品规避了传统航空器高空坠落的风险；同时，整机仪表盘被大幅精简，全流程操控被集成在单手摇杆上，用户无需考取专业航空驾照，经过短期培训即可上手。发布会现场，坦途科技已与美澳等地区合作伙伴签署了首批代理意向书。</p>\n  <p>水上飞行器的研发并非孤立进���。自2021年创立以来，坦途科技已在两轮短交通领域积累了近500项专利申报。其电动滑板车业务已在全球60多个国家和地区铺开，已搭建了通勤、越野、旗舰三大产品序列。滑板车研发中所积累的电池、电机和电控等工程经验，后续被系统性地复用到了智能电助力自行车产品线上，推出了面向城市通勤的高性能Speed&nbsp;Pedelec SP01和越野玩乐的Storm X Pro。</p>\n  <p>通过滑板车和E-bike的技术外溢，坦途科技正在将产品线向更广泛的户外出行周边渗透。除两轮工具外，其展出的硬件还包括搭载UWB跟随技术的Birdie系列高尔夫球包车、E-WAGON 4X-LITE电动露营车，以及辅助行走的机械外骨骼装备。</p>\n  <p>随着WaveFly 5X的正式亮相，坦途科技（NAVEE）实现了地面与水域、短途通勤与户外探索的场景融合。这款消费级产品的推出，在一定程度上回应了低空经济从概念走向实际落地的行业命题，也反映出该品牌推动智能户外出行从工具属性向生活方式演进的全球化产品企图。</p>",
+      "category": "tech",
+      "published_at": "2026-06-11T07:53:52+00:00",
+      "fetched_at": "2026-06-12T03:32:01.482300+00:00",
+      "fingerprint": "9e7212167e6bcb94"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "url": "https://36kr.com/p/3848564910036229?f=rss",
+      "summary": "<p>两个月后，<strong>ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。</strong></p>\n  <p>作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。</p>\n  <p><strong>作为ChinaJoy Vision Future 前沿科技展区的战略合作伙伴，以及ChinaJoy AI未来生态大会的战略合作伙伴，36氪游戏与ChinaJoy 联合打造「ChinaJoy Vision Future 前沿科技展区 × 36氪直播间」，将一线报道的质感和信息密度直接带给观众。</strong></p>\n  <p>过去三年，科技对数字娱乐的改造速度超过了所有人的预期，AI从实验室概念变成了行业标配的生产工具，具身智能、新一代消费电子不断打开新的想象空间，整个赛道每天都有新公司、新产品、新模式冒出来，很多变化都发生在一线，只看线上通稿你根本摸不到真实的行业温度。</p>\n  <p>而变化也正在发生：刚刚结束的谷歌I/O大会上，谷歌发布Gemini Omni世界模型，直接把目标瞄准了\"生成符合物理规则的游戏开放世界内容\"；全球最大UGC游戏平台Roblox今年开放全平台AI生成工具后，目前平台超过三成的新增用户内容已经由AI生成。科技对数字娱乐的改造，早就不是概念，已经落到了每天的生产环节里。</p>\n  <p>36氪游戏从一开始就定位于「科技+数字娱乐」的交叉赛道，我们长期关注技术给游戏、数字娱乐、消费电子带来的真实改变，从AI生成内容进入游戏开发，到具身智能在娱乐场景落地，每一个新趋势出现的时候，我们都第一时间在一线报道。</p>\n  <p>这一次，<strong>36氪与ChinaJoy Vision Future前沿科技展区深度合作</strong>，将直播间直接搬到展区现场。<strong>7月31日到8月2日，我们将邀请18组嘉宾坐到镜头前，面对面聊聊科技到底给数字娱乐带来了哪些真变化。</strong></p>\n  <h3><strong>我们聊什么？聚焦「科技+数字娱乐」真问题</strong></h3>\n  <p>这次我们不聊空话，只聊一线真问题，核心话题覆盖：</p>\n  <ul>\n   <li><strong>AI+游戏</strong>：AI生成内容真的改变开发流程了吗？中小团队能靠AI追上大厂吗？世界模型能给开放世界开发降本多少？</li>\n   <li><strong>具身智能×数字娱乐</strong>：消费级具身智能产品离普通人还有多远？机器人能走进娱乐消费场景吗？</li>\n   <li><strong>新一代消费电子</strong>：AI眼镜、VR/AR这些新产品，真的能重构娱乐体验吗？</li>\n   <li><strong>新内容新商业模式</strong>：AI短剧、AI直播、AIGC营销，这些新方向真的跑出可持续的商业模式了吗？</li>\n  </ul>\n  <p>所有对谈都来自一线从业者，我们请来创业者、技术带头人、行业操盘手，坐到镜头前聊真实进展、踩过的坑、接下来的机会，给你呈现最鲜活的行业趋势。</p>\n  <p>目前我们正在定向邀请一批行业头部嘉宾和领先项目，现在还留出少量席位，面向优秀创业者、前沿项目和关注「科技+数字娱乐」领域的合作伙伴开放。</p>\n  <p><strong>如果你正在科技+数字娱乐赛道探索，认同我们对行业的判断，想在ChinaJoy Vision Future前沿科技展区现场面对全国行业观众分享你的产品、思考和判断，欢迎联系我们对接直播间席位。</strong></p>\n  <p><strong>同时，ChinaJoy Vision Future前沿科技展区展位正在火热招商中。</strong>&nbsp;展区聚焦AI、具身智能、新一代消费电子等前沿科技在数字娱乐领域的创新应用，是ChinaJoy最具科技含量的核心展区之一。欢迎科技企业、创新项目入驻前沿科技展区，与36氪直播间形成线上线下联动曝光。</p>\n  <p>我们欢迎所有符合主题的项目：不管你是AI游戏创业团队，还是做具身智能消费电子，或是在数字娱乐科技方向有新探索，都可以对接。</p>\n  <h2><strong>写在最后</strong></h2>\n  <p>这几年科技+数字娱乐的变化太快了，很多真实的行业趋势都在一线现场，藏在从业者面对面的聊天里，而不是PPT上。</p>\n  <p><strong>ChinaJoy Vision Future前沿科技展区 × 36氪直播间</strong>，就是想把这些一线的思考直接带给你——三天18场对谈，和18组真正在干的从业者聊聊，给你呈现科技+数字娱乐最真实的现在和未来。</p>\n  <p>2026年7月31日-8月2日，上海新国际博览中心E6馆ChinaJoy Vision Future前沿科技展区，我们直播间见。</p>\n  <h4><strong>对接联系方式：</strong></h4>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260611/v2_6423823d96fa4b769f925beeeb209c8a@16519798_oswg100259oswg818oswg1215_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码了解</p>\n  <p><strong>或发送资料至邮箱：guopengchao@36kr.com</strong></p>",
+      "category": "tech",
+      "published_at": "2026-06-11T09:24:11+00:00",
+      "fetched_at": "2026-06-12T03:32:01.482294+00:00",
+      "fingerprint": "d0a6f60d541129d6"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3848492224681223\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官</strong></a></p>\n  <p>7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（François Provost）汇报。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3848022152401920\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>通用或停止将磷酸铁锂电池用于电动汽车</strong></a></p>\n  <p>通用汽车电池技术负责人表示，该公司可能会放弃使用低成本的铁基电池技术，而许多汽车制造商正在使用这种技术来降低电动汽车的成本。这家底特律汽车制造商此前曾表示，计划开发磷酸铁锂（LFP）电池，用于未来的电动汽车车型，并计划于2027年底在田纳西州一家合资工厂开始生产这种电池。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3848509811250435\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录</strong></a></p>\n  <p>数据显示，全球两大预测市场平台（Polymarket和Kalshi）针对本届世界杯冠军归属的事件合约成交额，已超过了20亿美元。这使得该事件有望刷新单项预测市场合约的成交纪录。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3848456795542785\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>百万Token只要几块钱，算力价格还在往下降</strong></a></p>\n  <p>在一家算力超市了解到，他们目前提供两种类型产品，一种是针对算力的产品，一种是针对大模型Token的产品，两种产品采用不同的计费模式。负责人介绍：“算力租赁的产品，一张卡一小时是一种计费方式。第二种是包年包月，就是按Token计费，根据不同的模型，一般都是以百万Token为单位，百万Token大概是几块钱。按照现在的趋势来看，价格还在往下降。”据悉，这个算力超市的算力来自多个渠道，用户选好产品，超市负责匹配、调度和交付。此外，这家算力超市的负责人表示，目前他们服务的用户80%都是中小企业，覆盖了教科文、电商、人工智能、机器人、具身智能等多个传统和新兴行业。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3848443731612929\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争</strong></a></p>\n  <p>为从竞争对手Anthropic手中争夺客户，OpenAI正考虑大幅下调面向用户的收费标准。据知情人士透露，该公司计划大幅下调代币计费单价——代币是人工智能企业核算产品费用的计量单位。此举意在应对Anthropic预计也会推出的降价举措。目前，企业高管已开始对高昂的AI使用成本感到抵触。OpenAI首席执行官山姆・奥尔特曼在近期一场活动中坦言，成本问题已成为一大难题。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3848307627136005\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>极兔回应被立案调查：高度重视，全面整改</strong></a></p>\n  <p>关于国家邮政局依法对极兔速递有限公司立案调查一事，极兔回应：极兔速递中国区高度重视，诚恳接受，坚决服从、全力配合主管部门依法依规开展的各项调查工作。极兔方面强调，安全生产是企业不可逾越的红线。极兔中国对照关于安全生产的重要指示深刻反思，深感作为品牌总部，在对使用“极兔速递”商标、字号、快递运单经营的部分企业落实安全保障统一管理责任方面存在差距和不足，教训深刻。对此，极兔中国诚恳接受监督。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3848228866544903\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>速卖通欧美拉5国上线官方配送服务</strong></a></p>\n  <p>36氪获悉，阿里旗下跨境电商平台速卖通AliExpress近期在美国、波兰、法国、西班牙、墨西哥五国上线官方本地配送服务，覆盖欧洲、北美、拉美三大经济圈。据了解，商家加入后，可依托海外仓实现更稳定、更低成本的\"本地发货、本地配送\"。</p>\n  <h2><strong>新产品：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3848340680414467\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>影石发布全球首款8K徕卡双摄云台相机 Luna Ultra</strong></a></p>\n  <p>6月10日，智能影像品牌影石Insta360正式推出行业首款旗舰双摄云台相机Luna Ultra，3999元起售。据介绍，Luna Ultra是影石与徕卡联合研发的8K旗舰影像云台相机，首次将双徕卡Summicron光学镜头、8K杜比视界、专业级10bit I-Log融为一体，达成1-12倍黄金5焦段覆盖，覆盖旅行、日常Vlog、专业影像记录等多种场景。多个电商平台数据显示，该产品上架几分钟内即宣告售罄。</p>\n  <h2><strong>投融资：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3848442560599301\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>德国机器人公司Neura Robotics完成14亿美元融资，获亚马逊、英伟达等多方支持</strong></a></p>\n  <p>6月10日，德国机器人公司Neura Robotics宣布完成创纪录的C轮融资，本轮总规模最高可达14亿美元，旨在加速构建全球领先的物理人工智能平台。此轮融资获得了亚马逊、英伟达和欧洲投资银行等多方支持。</p>\n  <h2><strong>今日观点：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3848497553609735\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>贵州茅台董事长陈华：价格不能出现大起大落，大家不传谣、不信谣</strong></a></p>\n  <p>6月11日下午，贵州茅台2025年度股东会在茅台会议中心召开，来自全国千余名茅台股东、机构投资者与分析师齐聚茅台镇。针对茅台酒价格问题，茅台集团董事长陈华表示，将随行就市，相对平稳，价格不能出现大起大落，供需适配、量价平衡。目前，茅台酒价格调整社会高度关注，公司对此高度保密，网上流传有各种信息，大家不传谣、不信谣。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3848387791099141\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>特朗普：很快将与顶尖的人工智能公司高管会面，讨论如何回馈公众</strong></a></p>\n  <p>美国总统特朗普周三再次表示，希望顶尖的人工智能公司同意回馈公众，暗示美国政府可能持有这些公司的股份。特朗普称，自己很快将与行业顶尖的12或15名高管会面，讨论如何回馈公众，公众将因此变得非常富有，他认为行业高管们会同意这样做，且这一做法将非常受欢迎。上周五，特朗普首次公开表示，希望与人工智能公司会面，讨论让美国政府持有其公司股份的可能性，这些股份带来的收益未来可以分配给美国公众。</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3848134762697730\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折</strong></a></p>\n  <p>今天起儿童旅客可购买铁路旅游计次票，并享受儿童优惠票政策，亲子、家庭���游出行更加便捷实惠。此次推出的儿童旅游计次票是在既有成人旅游计次票基础上优化升级的服务产品。2023年6月开始实行的铁路旅游计次票产品，主要面向成人旅客发售，按照“1次购买、分段乘坐、15天有效”的模式运行，购票人可在指定的车站间自主选择2至10段行程出行，每段行程单次、单向、指定席别，票价均享受不同幅度的折扣优惠，最低为同径路同席别各车次平均执行票价的8.5折。</p>",
+      "category": "tech",
+      "published_at": "2026-06-11T11:00:00+00:00",
+      "fetched_at": "2026-06-12T03:32:01.482287+00:00",
+      "fingerprint": "25ffa464361ef3e3"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争</li>\n   <li>全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录</li>\n   <li>SK海力士设备供应商要求涨价</li>\n   <li>端午前机票价格跳水</li>\n   <li>SpaceX上市前夕，美股太空股提前狂欢</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>SpaceX上市在即，马斯克或成全球首位万亿富翁</strong></p>\n  <p>据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SPCX。根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元，募资总额达750亿美元。SpaceX此次IPO募资规模是沙特阿美2019年创下的294亿美元上市纪录的逾两倍。声明显示，SpaceX还授予承销银行超额配售权，可按发行价额外购买8330万股股票。若该权利全部行使，IPO融资规模将增至约860亿美元。若按135美元定价，叠加特斯拉约15%持股及其他资产，马斯克身价突破1万亿美元，成为全球首位万亿富豪。（新浪财经、三言科技）</p>\n  <p><strong>钉钉换帅，92年技术极客陈宇森接任钉钉CEO</strong></p>\n  <p>36氪获悉，6月11日，阿里巴巴宣布钉钉管理层调整：陈航卸任钉钉CEO，92年技术极客陈宇森接棒。接任钉钉CEO后，陈宇森成为阿里巴巴最年轻的事业部CEO。陈宇森生于1992年，是年少成名的技术极客，也是技术型连续创业者，入选福布斯亚洲“30 Under 30“榜单。他曾在国内外顶级计算机赛事中屡获冠军，22岁时创办的网络安全公司长亭科技被阿里云收购。他2025年在阿里云内部创业，带领研发了AI Agent产品MuleRun。</p>\n  <p><strong>比尔·盖茨国会作证，称被爱泼斯坦用婚外情施压</strong></p>\n  <p>美东时间6月10日，前世界首富、微软公司联合创始人比尔·盖茨结束了在国会众议院监督与政府改革委员会的闭门听证会。作证期间，议员们主要询问了两人的交往细节、财务往来，以及盖茨是否知晓对方的犯罪行为。盖茨否认参与爱泼斯坦的非法行为，重申后悔认识他，并再次为曾与爱泼斯坦互动向盖茨基金会员工致歉。盖茨在个人网站上公布了当天的证词。盖茨强调，期间爱泼斯坦暗示知晓自己的几段婚外情，并以此向自己施压，重新取得联系。爱泼斯坦希望借助与盖茨的交往来接触美国政商高层，搭建自身的权力关系网络。（中国新闻周刊）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争</strong></p>\n  <p>为从竞争对手Anthropic手中争夺客户，OpenAI正考虑大幅下调面向用户的收费标准。据知情人士透露，该公司计划大幅下调代币计费单价——代币是人工智能企业核算产品费用的计量单位。此举意在应对Anthropic预计也会推出的降价举措。目前，企业高管已开始对高昂的AI使用成本感到抵触。OpenAI首席执行官山姆·奥尔特曼在近期一场活动中坦言，成本问题已成为一大难题。（新浪财经）</p>\n  <p><strong>Anthropic CEO再次“喊话”警惕AI风险</strong></p>\n  <p>北京时间6月11日，Anthropic CEO达里奥·阿莫迪再次围绕AI安全发声。阿莫迪认为AI发展远超政策流程设计时应承载的速度，并在《人工智能指数政策》中表示，四年间，AI模型进步巨大，预估随着计算能力的不断提升，AI通用认知能力将呈指数级增长。但相比AI发展速度，政策，尤其是立法，推进得极为缓慢。阿莫迪表示，政府握有重大权力，但通常情况下不宜仓促行使。但这种时间尺度上的错配可能造成：在国会耗时数年方能采取行动的周期内，AI已从一个有趣的玩具演变为一个汇聚天才的国度。（第一财经）</p>\n  <p><strong>阿里云Meoo CLI发布，本地AI编程项目可直接部署上线</strong></p>\n  <p>36氪获悉，阿里云Meoo（秒悟）推出开源命令行工具Meoo CLl.安装后，Claude Code、Codex、Cursor等本地AI编程助手可通过该工具调用云端能力，完成数据库接入、用户登录、文件存储及项目发布，将本地项目推进到线上可用状态。</p>\n  <p><strong>谷歌推出DiffusionGemma开源模型</strong></p>\n  <p>谷歌当地时间6月10日发布实验性开源模型DiffusionGemma，采用文本扩散架构，在专用GPU上文本生成速度较传统自回归大语言模型最高提升4倍，模型以Apache 2.0许可证发布。谷歌称，DiffusionGemma定位为面向研究者和开发者的实验性模型，整体输出质量低于标准Gemma4，生产环境仍建议使用后者。该模型的速度优势主要体现于本地及低并发推理场景，在高并发云端部署中优势有限。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>SpaceX约400名持股员工身价或达1亿美元</strong></p>\n  <p>据财联社消息，6月11日，航空科技和人工智能公司SpaceX即将在周五IPO，而据此前报道，该公司的认购需求超过发行规模的四倍，总认购规模突破2500亿美元，远超计划的750亿美元募资目标。火爆的IPO也让持有SpaceX股票的员工满怀期待。SpaceX拥有2.2万名员工以及数百名已经离职的前员工，其中包括工程师和发射场的蓝领工人。据旧金山投资平台Hill.com的分析，SpaceX的4400多名现任和离任员工有望在IPO中成为百万富翁。其中，约有400人预计将获得1亿美元或以上的财富。Hill.com创始人兼首席执行官Andrew Benson指出，大多数IPO中通常只有创始人才能成为亿万富翁。而此次SpaceX推动400人身家达到1亿美元的门槛实属罕见，说明该公司正在创造巨额财富。（财联社）</p>\n  <p><strong>全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录</strong></p>\n  <p>数据显示，全球两大预测市场平台（Polymarket和Kalshi）针对本届世界杯冠军归属的事件合约成交额，已超过了20亿美元。这使得该事件有望刷新单项预测市场合约的成交纪录。（财联社）</p>\n  <p><strong>李书福卸任极氪董事长</strong></p>\n  <p>天眼查App显示，近日，浙江极氪智能科技有限公司发生工商变更，李书福卸任董事长，安聪慧卸任法定代表人，由淦家阅接任法定代表人。该公司成立于2021年7月，注册资本130亿人民币，经营范围包括数据处理服务、数据处理和存储支持服务、互联网数据服务、大数据服务等，由Zeekr Technology Limited全资持股。（证券时报）</p>\n  <p><strong>SK海力士设备供应商要求涨价</strong></p>\n  <p>据媒体消息称，近期SK海力士多家设备一级供应商提出涨价要求，供货价格涨幅在3%-4%。而SK海力士已要求这些供应���提交依据材料，以评估调价申请。业内人士指出，比较常见的是原材料和零部件供应商因成本波动较大而进行涨价谈判，但连设备厂也提出涨价要求则较为少见。（财联社）</p>\n  <p><strong>豆包手机硬件负责人林夕离职，曾任职于华为</strong></p>\n  <p>6月11日，据科创板日报消息，字节跳动AI硬件核心团队Ocean旗下、豆包手机硬件产品负责人林夕已于近日离职。这也是字节自2024年启动AI手机项目以来，首位出走的核心硬件管理人员。界面新闻就此向字节跳动方面求证，截至发稿，暂未有回应。公开信息显示，加入字节之前，林夕曾在华为终端长期任职，主要担任Pura X阔折叠手机硬件产品负责人。Pura X是华为首款“阔折叠”旗舰手机，也是全球首款量产16:10阔型内屏折叠屏。该产品于去年3月发布，起售价7499元，首销48小时预订量达120万台，首周激活量近10万台。（科创板日报）</p>\n  <p><strong>LABUBU亮相2026世界杯开幕式</strong></p>\n  <p>北京时间6月12日，2026美加墨世界杯开幕式正式开启，泡泡玛特麾下IP LABUBU登场，作为赛事特邀嘉宾，亮相世界级体育舞台。开幕式现场，两只身着球衣的LABUBU首度现身世界杯，以萌趣热血的球迷姿态亮相，也让中国原创IP登上国际赛场。泡泡玛特THE MONSTERS与FIFA世界杯联名系列已正式开售。（第一财经）</p>\n  <p><strong>7家涉火车票销售第三方平台被约谈</strong></p>\n  <p>6月11日，市场监管总局会同中央网信办、国家铁路局，依法约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家等7家第三方平台企业，针对其不当宣传“候补帮抢”及付费选座业务、不当诱导用户“买长乘短”或“买短乘长”、不当收集和使用平台用户个人信息等不规范经营问题。（央视新闻）</p>\n  <p><strong>丰巢回应“取件得先看广告”</strong></p>\n  <p>近日，有多地市民反映称，“在丰巢快递柜取件时，会频繁弹出广告并跳转至其他平台”，引发网友持续讨论。6月10日，丰巢方面向南都N视频记者表示，“丰巢App内已提供‘广告展示’关闭选项，并于近期优化了相关界面，目前丰巢正与可能跳转广告的相关平台进行沟通。”（南方都市报）</p>\n  <p><strong>iOS 27打破15年肌肉记忆，通知下滑手势让位Siri AI</strong></p>\n  <p>据IT之家6月11日消息，iOS27、iPadOS 27系统中，苹果公司调整通知中心操作手势，打破了iPhone和iPad用户15年来的肌肉记忆。自苹果公司于2011年推出iOS 5以来，用户从屏幕顶部中央向下滑动，即可查看按照时间顺序排列的各应用通知。不过在iOS 27系统中，苹果启用Siri AI后，用户从屏幕顶部中央向下滑动，会唤出全新的Siri AI体验。不过通知中心并未消失，用户从左上角向下滑动即可访问。上一次苹果对手势做如此大的调整，是在iPhone X时代将控制中心从底部上滑改为右上角下滑。苹果随后在所有设备上统一了这一交互方式。如今轮到通知中心被重新定位。（IT之家）</p>\n  <p><strong>美团、淘宝闪购、京东外卖集体签约，建立“黑名单”共享机制</strong></p>\n  <p>36氪获悉，6月11日，广东省市场监管局举办网络餐饮平台自律公约和协同共治协议签署活动。活动中，在广东省市场监管局有关负责人的见证下，美团、淘宝闪购、京东外卖三家网络餐饮平台共同签署了《广东省网络餐饮行业高质量发展与食品安全自律公约》。公约全文共五章二十一条，紧扣《网络餐饮服务经营者落实食品安全主体责任监督管理规定》(国家市场监管总局第123号令)核心要求，围绕平台主体责任、入网餐饮商户管理、配送人员关怀、社会共治等方面作出明确约定，首次提出建立跨平台“黑名单”共享机制，对严重违法商户实施跨平台联合约束，实现“一处违法、全网受限”。</p>\n  <p><strong>理想法务部：就某公司利用AI批量生成不实内容一事，已报案</strong></p>\n  <p>6月11日，理想汽车法务部发文：近日，我司就江西某文化传媒公司利用AI工具批量生成涉理想汽车不实内容一事，正式向公安机关报案。相关执法部门已依法调查处置，涉事机构就上述行为公开道歉。近年来，针对我司旗下系列产品、品牌及用户的恶意诋毁、造谣行为持续发生，这些不法行为以批量捏造、散布涉理想车主的不实内容为主要方式，系统性污名化用户群体，并借此损害公司品牌声誉。我们将客观的批评监督与恶意的造谣诋毁严格区分开来。前者我们谦卑倾听，后者我们坚定回击。当违法者开始借助AI工具批量传播虚假信息，我们毫不犹豫拿起的是法律武器。（第一财经）</p>\n  <p><strong>端午前机票价格跳水</strong></p>\n  <p>随着端午节和暑假临近，民航运输再次步入旺季。近日，在深圳机场，已经有不少旅客提前出行，错峰出游。有旅客告诉央视财经记者，从沈阳坐飞机旅游，返程不是节假日的话，每张机票能便宜1000元。端午节前一周，从深圳飞往杭州、贵阳、海口、武汉等地均只需200多元，只有7月均价的一半甚至三分之一，一些飞往北方地区的长航线机票价格更划算。在线旅游平台统计数据显示，截至目前，端午前（6.1-6.15）错峰游机票预订量同比去年节前增长了19.6%。（央视财经）</p>\n  <p><strong>现货黄金跌破4100美元大关，创年内新低，多家品牌金饰价格较昨日下跌近40元/克</strong></p>\n  <p>6月11日，黄金白银再次大跌。亚市早盘现货黄金一路走低，日内最低跌超1%，下探到4023.1美元/盎司，创至2025年11月以来的新低。COMEX黄金期货最低跌超过2%，下探到4046.2美元/盎司。现货白银早盘最低下探到62.002美元/盎司，距离今年3月的低点60.85美元/盎司仅一步之遥。6月11日国内黄金饰品价格对比显示，多家品牌金饰价格较昨日下跌近40元/克，普遍报1236-1240元/克;周大福报价1238元/克，周生生报价1240元/克，老庙黄金报价1238元/克。（界面新闻）</p>\n  <p><strong>欧洲央行宣布加息25个基点</strong></p>\n  <p>当地时间6月11日，欧洲央行宣布将欧元区三大关键利率分别上调25个基点，欧元区存款机制利率、主要再融资利率和边际借贷利率分别为2.25%、2.40%和2.65%。本月初，欧盟统计局公布的初步数据显示，欧元区5月消费者价格指数(CPI)同比上涨3.2%，创下自2023年9月以来的最高水平。欧元区能源价格同比涨幅连续两个月超过10%。分析认为，在中东冲突引发能源价格上涨、导致欧元区通胀压力再度抬头的背景下，欧洲央行希望在成本冲击进一步扩散至整体经济之前，通过加息遏制通胀。（央视财经）</p>\n  <p><strong>安克创新CEO称充电宝大概率过几年就死了</strong></p>\n  <p>近日，安克创新创始人阳萌在一次访谈中表示，充电宝不但不会变成千亿级品类产品，甚至有可能过几年就会消失。阳萌以MP3、磁带机、CD机类比称电子产品从大家开始买它到不买它，中间的跨度也就10年。公开资料显示，安克创新成立于2011年，旗下拥有Anker、Soundcore、eufy等品牌，曾凭借充电宝等产品打开海外市场，被称为“充电宝一哥”。2025年，公司营收305.14亿元，同比增长23.49%。其中，充电储能类业务实现收入154.02亿元，占总营收约一半，传统充电宝已不再是其核心收入来源。（界面新闻）</p>\n  <p><strong>于东来称胖东来员工不值这么多钱，出去就完蛋</strong></p>\n  <p>6月10日，于东来在胖东来内部会上表示，公司30年来一直用超越员工期望的薪酬激发热情，但也容易产生“溺爱”。他说，员工其实不值那么多钱，高薪会导致认知偏差，让人真以为自己值这个价。在胖东来内会感到骄傲幸福，但一旦离开就会“完蛋”。他坦言，自己过于包容，反而害了家庭和企业。（界面新闻）</p>\n  <p><strong>A股市场又一次迎来“世界杯魔咒”的讨论窗口</strong></p>\n  <p>按照赛程，本届世界杯将于6月11日至7月19日在美国、加拿大、墨西哥三国举行，48支球队参赛、104场比赛、39天赛期，均创世界杯历史新高。由于多数赛事对应北京时间凌晨至上午时段，因此也被多家券商纳入赛事经济观察范围。但券商给出的共同判断并不激进：世界杯窗口确实存在一定交易热度下降和阶段性弱势特征，但所谓“世界杯魔咒”并不是稳定有效的择时规律。相比盯着指数涨跌，市场更应回到当下的资金环境、产业主线和中报验证窗口。换言之，世界杯可以带来情绪扰动和消费主题，但很难改变A股原本的运行逻辑。（财联社）</p>\n  <p><strong>SpaceX上市前夕，美股太空股提前狂欢</strong></p>\n  <p>6月11日，美股太空股夜盘集体上扬。DXYZ涨超8%，Rocket Lab（RKLB.US）、AST SpaceMobile（ASTS.US）、Redwire（RDW.US）、Intuitive Machines（LUNR.US）均涨超2%。消息面上，特斯拉（TSLA.US）CEO马斯克旗下SpaceX将在在当地时间6月12日登陆纳斯达克挂牌上市，SpaceX已吸引超过2500亿美元的投资需求，远超其计划筹集的750亿美元规模。此次IPO超额认购率已达到3.5至4倍，有望成为有史以来规模第一的IPO。（财闻）</p>\n  <p><strong>国家邮政局依法对极兔速递有限公司立案调查</strong></p>\n  <p>今年以来，使用“极免速递\"商标、字号、快递运单经营快递业务的企业多发生产安全事故，场所内多次被检查发现生产安全事故隐患。极免速递有限公司对极免速递相关企业安全生产管理缺位，未按规定实行安全保障统一管理，国家邮政局依法对极免速递有限公司进行立案调查。</p>\n  <p>对此，极兔回应记者称：极兔速递中国区高度重视，诚恳接受，坚决服从、全力配合主管部门依法依规开展的各项调查工作。（央视新闻、21世纪经济新闻）</p>\n  <p><strong>微信聊天可以“合并发图”了</strong></p>\n  <p>6月11日，据微信派消息，微信聊天可以“合并发图”了。现在发送3张及以上的图片、视频时能看到“发送后合并展示”。发出去的图片支持展开或收起，点一下即可切换形态，此外还可以一键保存“合并展示”的全部内容，或转发给其他朋友。（界面新闻）</p>\n  <p><strong>经销商回应路虎揽胜极光L价格暴跌至17万多：属实</strong></p>\n  <p>近日，有消息称，路虎揽胜极光L价格暴跌，目前部分终端市场成交价格下探至17.98万元甚至更低，与42.98万元起的官方指导价相比，跌幅接近六成。6月11日，界面新闻就揽胜极光L降价一事，致电北京捷豹路虎四惠门店，相关工作人员表示，“SE配置的裸车，全款18.5万元；综合优惠的话，裸车可以降至17万多”。北京中进捷旺汽车销售服务公司的工作人员也对界面新闻表示，裸车SE目前18.5万元，HSE配置是23万元，“到店的话，会有相应的活动，最终价格更有优势”。（界面新闻）</p>\n  <p><strong>美股三大指数集体收涨，大型科技股多数上涨</strong></p>\n  <p>36氪获悉，6月11日收盘，美股三大指数集体上涨，纳指涨2.54%，标普500指数涨1.75%，道指涨1.86%。大型科技股多数上涨，Arm涨超11%，英特尔涨超9%，特斯拉涨超4%，英伟达涨超2%，亚马逊、苹果涨超1%，谷歌小幅上涨；甲骨文跌超8%，微软跌超1%，奈飞、Meta小幅下跌。热门中概股涨跌不一，富途控股涨超2%，哔哩哔哩涨超1%，蔚来、理想汽车小幅上涨；小鹏集团跌超2%，阿里巴巴、京东、百度跌超1%。</p>\n  <h2>投融资</h2>\n  <p><strong>德国机器人公司Neura Robotics完成14亿美元融资，获亚马逊、英伟达等多方支持</strong></p>\n  <p>6月10日，德国机器人公司Neura Robotics宣布完成创纪录的C轮融资，本轮总规模最高可达14亿美元，旨在加速构建全球领先的物理人工智能平台。此轮融资获得了亚马逊、英伟达和欧洲投资银行等多方支持。（界面新闻）</p>\n  <h2>酷产品</h2>\n  <p><strong>追觅Eclix俞雷：即将推出一款没有APP的AI手机</strong></p>\n  <p>6月10日，界面新闻独家获悉，追觅生态品牌Eclix团队已与国内头部大模型厂商达成深度合作，预计将于2026年9月发布第一代AI手机，双十一前上市。该产品主打高端，定价5000元以上，目前核心团队研发已接近完成，即将进入整机测试阶段。Eclix手机团队由前金立集团副总裁俞雷组建，俞雷于2026年3月正式入职MOVA，任手机和AI硬件业务负责人。（界面新闻）</p>\n  <p><strong>智元推出灵犀X2 EDU(人人造)版本，面向科教实训等丰富场景</strong></p>\n  <p>36氪获悉，6月10日，智元推出灵犀X2 EDU(人人造)版本，面向科研教育、工程实训、机器人赛事开发等多元场景，聚焦设备拆装实训与软件二次开发。据介绍，灵犀X2 EDU(人人造)版本在硬件设计上强调可拆装、可扩展与可二次开发。</p>\n  <p><strong>整理</strong>｜王倚轩</p>",
+      "category": "tech",
+      "published_at": "2026-06-12T00:04:29+00:00",
+      "fetched_at": "2026-06-12T03:32:01.482279+00:00",
+      "fingerprint": "de0b1529f967068e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
+      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，连云港力普司船舶科技有限公司（下称“力普司LiiPuS”）近期连续完成种子轮及天使轮融资，总额达数千万元。其中，种子轮由江苏金桥基金独家投资，天使轮由云时资本独家投资。本轮资金将主要用于高端船舶综合电力推进系统及产品的样机测试、持续改进及小批量交付，加速国产高端推进系统在港口拖轮、海工船、豪华游艇等场景的规模化应用。</p>\n  <p>力普司2025年7月成立于连云港，聚焦大型船舶综合电力推进系统的研发、设计与生产，产品覆盖领先一代的L型永磁全回转推进器、永磁吊舱推进器、破冰型全回转推进器等全矩阵系列，全系列产品采用标准化、模块化的设计和制造理念，具有尺寸小、重量轻、功率密度大、可靠性高等优点。</p>\n  <p>公司创始人李祥彪曾先后任职于苏船、南高精、瓦锡兰及斯凯孚，推进器经验近20年，熟悉国内外同类产品的技术路线、制造工艺、质量水平等，深知国内用户痛点，中国产品与欧洲产品仍有不小的质量差距，力普司有望解决行业痛点，缩小与国际品牌之间的差距。</p>\n  <p>硬氪了解到，永磁推进器因结构紧凑、效率高、操控灵活，被视为当前最高效的船舶推进方案。但在大功率、高质量要求的细分市场，瓦锡兰、康世伯、肖特尔等国际品牌长期占据垄断地位，国产替代空间巨大。</p>\n  <p>此外，随着中国向造船强国转变，核心装备国产化率逐渐提高，同时，减碳与电动化趋势推动港口拖轮、海工船、内河船等场景加速淘汰旧船、新造高效环保船舶，永磁推进器作为电动化动力系统的关键部件，需求明确且持续走强。</p>\n  <p>目前，公司已完成0.5-5MW L型永磁全回转推进器、0.2-2MW永磁吊舱推进器、2-10MW破冰型全回转推进器等产品的系列化开发，并在江苏连云港、南通和广东江门布局批量生产交付基地。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260612/v2_09f8dfd5591b4aaabfbe35a980c43a41@6221844_oswg196747oswg794oswg381_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">力普司相关产品（图源/企业）</p>\n  <p>成立半年时，力普司累计在手订单已超过5000万元，重点覆盖港口拖轮、海工船及豪华游艇三大领域。公司预计今年实现1亿元的小目标，未来每年保持2-3倍增长。</p>\n  <p>李祥彪告诉硬氪，未来公司产品还将推进智能化方向，为船舶提供AI辅助驾驶控制软件与算法，实现船舶智能航行与智能控制。预计智能化相关功能将在今年完成研发测试，明年开始推广使用。</p>\n  <p><strong>以下为硬氪与李祥彪的对话节选：</strong></p>\n  <p><strong>硬氪：推进器领域国际巨头垄断已久，力普司的差异化优势具体体现在哪些方面？</strong></p>\n  <p><strong>李祥彪：</strong>我们研发生产的产品是领先国内一代的产品，质量和可靠性与欧洲品牌相当。L型永磁全回转推进器和永磁吊舱推进器均采用了电机和推进器融合设计的理念，电机扭矩曲线和螺旋桨扭矩曲线采用耦合计算，提高了机桨匹配性和推进效率。</p>\n  <p><strong>硬氪：民企会面临国企或研究所带来的较大竞争压力吗？</strong></p>\n  <p><strong>李祥彪：</strong>目前没有直接竞争关系，我们的产品定位、设计理念、制造工艺都有所不同，船厂方面，他们主要负责船舶建造，核心设备如推进器、电机、电控系统很多由民营企业提供。我们的客户主要是港口拖轮、海工船、豪华游艇领域，这些领域对产品质量和性能要求极高，目前仍严重依赖进口，市场需求非常强烈。</p>\n  <p><strong>硬氪：目前公司面临较大的挑战是什么？</strong></p>\n  <p><strong>李祥彪：</strong>我们目前最大挑战还不是接多少订单，而是满足高端装备精密制造的产能准备。我们成立不到一年，产能布局还没完全铺开，还不能大规模接单——接多了不能按时、按高质量标准交付会很麻烦。今年下半年的重点是产业规划布局和船级社资质认证。我们规划了连云港、南通、江门三个制造基地，27年产能交付能力会从现在的20-30台提升到150台左右。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>云时资本：</strong>力普司由来自国际超一流厂商的成建制团队构成，创始人具备极为领先的创新观念和工程实践能力，在船舶大功率推进器领域有着丰富的经验。全球船舶电动化和智能化趋势显著，中国作为造船大国在其中引领，海洋产业也是十五五规划重中之重。非常看好力普司未来的发展潜力，期待公司成为下一代船舶软硬件系统的重要支柱。</p>\n  <p><strong>江苏金桥基金：</strong>力普司拥有一支真正懂产品、懂市场、懂制造的成建制团队，创始人李祥彪近20年的国际头部企业实战经验，使得公司在高端船舶推进系统领域具备了与欧洲品牌直接对标的能力。其产品在功率密度、效率、可靠性上达到国际一流水平，同时凭借显著的成本和交付周期优势，精准切中港口拖轮、海工船、豪华游艇等场景的国产替代痛点。</p>\n  <p>全球船舶电动化、智能化浪潮叠加海洋产业被纳入“十五五”规划重点方向，力普司有望成为下一代船舶综合电力推进系统的核心支柱。我们坚定看好公司的长期成长性。</p>",
+      "category": "tech",
+      "published_at": "2026-06-12T01:34:28+00:00",
+      "fetched_at": "2026-06-12T03:32:01.482264+00:00",
+      "fingerprint": "12ca07f7eb8b557e"
+    },
+    {
+      "source": "少数派",
+      "title": "苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点",
+      "url": "https://sspai.com/post/75419",
+      "summary": "当它突然出现在生命里时，你就知道了该如何面对；当它出现在身边人身上，你也知道该如何帮助她们步入这个全新的人生阶段。<a href=\"https://sspai.com/post/75419\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-11T03:41:47+00:00",
+      "fetched_at": "2026-06-12T03:31:59.004193+00:00",
+      "fingerprint": "135ded71693b3aa3"
+    },
+    {
+      "source": "少数派",
+      "title": "5月音乐推荐：不可错过的9张惊喜专辑",
+      "url": "https://sspai.com/post/110670",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/110670\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-11T06:58:32+00:00",
+      "fetched_at": "2026-06-12T03:31:59.004187+00:00",
+      "fingerprint": "42184d79f60895bd"
+    },
+    {
+      "source": "少数派",
+      "title": "618 相机存储卡选购全攻略（2026）",
+      "url": "https://sspai.com/post/110334",
+      "summary": "希望这篇攻略，能帮各位摄影玩家精准避坑，在今年 618 选到适配自己设备、稳定耐用、性价比拉满的存储卡。<a href=\"https://sspai.com/post/110334\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-11T09:30:00+00:00",
+      "fetched_at": "2026-06-12T03:31:59.004181+00:00",
+      "fingerprint": "98b106426d836927"
+    },
+    {
+      "source": "少数派",
+      "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
+      "url": "https://sspai.com/prime/story/home-made-beverages-1",
+      "summary": "前言其实开始喝咖啡以后，就对各种饮品的制作自然而然的来了兴趣，经过几年的积累，略有心得，感觉可以拿来跟大家分享一下。这次的主题家庭饮品DIY。通过简单的设备、物料以及简单的制作方法，教大家如何在家做饮 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-1\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "category": "tech",
+      "published_at": "2026-06-11T09:31:55+00:00",
+      "fetched_at": "2026-06-12T03:31:59.004174+00:00",
+      "fingerprint": "60a19215748e2322"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等",
+      "url": "https://sspai.com/post/110975",
+      "summary": "文石发布第二代 BOOX Go 6，小米发布 AI 编程助手 MiMo Code 等。<a href=\"https://sspai.com/post/110975\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-12T00:13:10+00:00",
+      "fetched_at": "2026-06-12T03:31:59.004163+00:00",
+      "fingerprint": "b992fddabc775fd0"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7426 CNY ↓-0.14%",
+      "url": "https://www.frankfurter.app/2026-06-11?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-06-11</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7426 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0066 (-0.14%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-06-12T03:31:57.688244+00:00",
+      "fingerprint": "27104774dcbdeeea"
+    },
     {
       "source": "The Guardian - World",
       "title": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
@@ -1561,576 +1851,6 @@
       "published_at": null,
       "fetched_at": "2026-06-06T02:45:09.202993+00:00",
       "fingerprint": "730daff5c420778c"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
-      "url": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
-      "summary": "<p>Islamic State-linked militia blamed for raids in North Kivu as governor says three patients with disease fled clinics</p><p>Rebel attacks around a town that is one of the centres of the Ebola outbreak in the Democratic Republic of the Congo have left more than 30 people dead over the past few days, complicating the response to the disease.</p><p>At least 10 people were massacred in raids on three villages around the city of Beni, in North Kivu, in the early hours of Wednesday morning.</p> <a href=\"https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-06-04T04:00:25+00:00",
-      "fetched_at": "2026-06-05T02:58:20.561433+00:00",
-      "fingerprint": "b52dd21626f15721"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
-      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-      "summary": "<p>Violence flares before protests on Thursday over president’s decision to remain in office after his term expired</p><p>Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Mogadishu, damaging property and forcing some civilians to flee.</p><p>In the runup to the fighting, which started on Wednesday afternoon, opposition leaders embedded with militias set up positions in their clan strongholds the city.</p> <a href=\"https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-06-04T11:52:13+00:00",
-      "fetched_at": "2026-06-05T02:58:20.561426+00:00",
-      "fingerprint": "d9543ee7bc96c63e"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
-      "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
-      "summary": "<p>Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers</p><p>Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and treatment centre in Kenya, as the union for workers with the US Centers for Disease Control and Prevention (CDC) calls for Americans exposed to Ebola to be brought home for treatment.</p><p>Soon after the US revealed it was setting up a field hospital in Kenya for the Ebola quarantine and treatment of Americans, the Kenyan high court blocked the order – but the Kenyan and US governments moved forward anyway, with the first American responders reportedly landing at the Laikipia airbase on Saturday.</p> <a href=\"https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-06-04T12:30:06+00:00",
-      "fetched_at": "2026-06-05T02:58:20.561416+00:00",
-      "fingerprint": "62a026c3f5111fe9"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
-      "category": "politics",
-      "published_at": "2026-06-04T21:34:49+00:00",
-      "fetched_at": "2026-06-05T02:58:20.147897+00:00",
-      "fingerprint": "b176ad15e110c98a"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-      "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
-      "category": "politics",
-      "published_at": "2026-06-04T14:46:36+00:00",
-      "fetched_at": "2026-06-05T02:58:20.147892+00:00",
-      "fingerprint": "8431ee188df6bde9"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "category": "politics",
-      "published_at": "2026-06-05T01:44:16+00:00",
-      "fetched_at": "2026-06-05T02:58:20.147886+00:00",
-      "fingerprint": "d32c8cffeafbc5f4"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-      "category": "politics",
-      "published_at": "2026-06-04T23:32:35+00:00",
-      "fetched_at": "2026-06-05T02:58:20.147876+00:00",
-      "fingerprint": "a88227148ab16067"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "世界盃攻略：48隊賽制、分組與奪冠熱門一次掌握",
-      "url": "https://www.bbc.com/zhongwen/articles/c0q2jvpenj8o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "48強集結！史上最龐大的世界盃即將開幕，這篇簡易攻略助你一次看清美加墨賽事的賽制、分組、奪冠熱鬧以及可能的「黑馬」球隊。",
-      "category": "politics",
-      "published_at": "2026-06-05T00:10:27+00:00",
-      "fetched_at": "2026-06-05T02:58:20.001195+00:00",
-      "fingerprint": "22383c0f2bbd6c1a"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "先下手為強：南海島礁爭奪的新現實",
-      "url": "https://www.bbc.com/zhongwen/articles/c78q2gwxp90o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "多年來，越南一直目睹中國透過造地來支持其廣泛的領土主張，如今，越南也開始在南海建造一些礁石來鞏固其主張。菲律賓也正在進行類似的做法，只是規模較小。",
-      "category": "politics",
-      "published_at": "2026-06-04T05:57:07+00:00",
-      "fetched_at": "2026-06-05T02:58:20.001189+00:00",
-      "fingerprint": "c4440caa4259848a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-05T02:58:19.491555+00:00",
-      "fingerprint": "bca98e8d36aa0655"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-05T02:58:19.491430+00:00",
-      "fingerprint": "c489e6fb5febf2ab"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-05T02:58:19.491274+00:00",
-      "fingerprint": "ffb79fe518b6ac2d"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-05T02:58:19.491137+00:00",
-      "fingerprint": "65dba9eb134c4369"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-05T02:58:19.490985+00:00",
-      "fingerprint": "239872c2d7db6282"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google is letting social media stars customize their search result page",
-      "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
-      "summary": "Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be available to most people or organizations; Google is limiting it to people with at least 100,000 YouTube subscribers, 100,000 followers on Instagram or X, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-04T18:32:23+00:00",
-      "fetched_at": "2026-06-05T02:58:19.248965+00:00",
-      "fingerprint": "73480bfddc8da34f"
-    },
-    {
-      "source": "The Verge",
-      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-04T18:38:04+00:00",
-      "fetched_at": "2026-06-05T02:58:19.248959+00:00",
-      "fingerprint": "6e256504bb959723"
-    },
-    {
-      "source": "The Verge",
-      "title": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
-      "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
-      "summary": "DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cut and Wired, went viral earlier this year with a mermaid-themed cyberdeck she made inside an old purse. She has since [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-04T20:07:31+00:00",
-      "fetched_at": "2026-06-05T02:58:19.248952+00:00",
-      "fingerprint": "dbc87d9206bdad28"
-    },
-    {
-      "source": "The Verge",
-      "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
-      "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
-      "summary": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited for players to try your titles on the new Steam hardware once they [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-04T22:48:53+00:00",
-      "fetched_at": "2026-06-05T02:58:19.248942+00:00",
-      "fingerprint": "3eb8a19c5b7ddc2a"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉",
-      "url": "https://36kr.com/p/3839505332161026?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>微信正与手机厂商合作推出Agent-to-Agent助手能力</li>\n   <li>擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万</li>\n   <li>腾讯客服回应与华为、小米等合作</li>\n   <li>神农旅游集团就国道收费进行道歉</li>\n   <li>苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>分析师曝苹果Vision Pro产品线被移除，2027年推AI眼镜</strong></p>\n  <p>知名苹果分析师郭明錤发布最新供应链调查称，苹果已正式从其XR头显与智能眼镜路线图中移除Vision Pro系列后续产品，资源全面转向更具大众市场潜力的AI眼镜品类。据悉，这一重大战略调整已获苹果下一任CEO约翰·特努斯批准。</p>\n  <p>郭明錤表示，他大约一年前整理的苹果眼镜路线图“已不再是有效的参考”，目前路线图上仅剩两款智能眼镜产品处于活跃开发状态。其中，配备光学波导显示屏的AR/XR智能眼镜已推迟至2029年发布；而不含显示屏、类似Ray-Ban Meta的无显示屏AI眼镜仍按计划于2027年出货。</p>\n  <p>值得注意的是，彭博社记者马克·古尔曼的爆料与郭明錤存在出入。古尔曼此前透露，苹果仍在研发一款更轻薄的头显产品（或命名为“Vision Air”），预计2028年末或2029年亮相，但该品类在那之前将处于“冻结状态”。两人对苹果头显路线的不同判断，或将在下周WWDC开发者大会上得到验证。（IT之家）</p>\n  <p><strong>黄仁勋将首次亮相综艺，由人气喜剧演员刘在石主持</strong></p>\n  <p>6月5日晚，黄仁勋预计将在首尔圣水洞的一家烤肉店，与SK集团会长崔泰源、LG集团会长具光谟（Koo Kwang-mo）以及Naver董事长李海珍（Lee Hae-jin）聚餐会谈。</p>\n  <p>有预测认为，在此次会面中，包括AI半导体议题在内的扩大在机器人技术和物理智能领域合作方案，有可能成为核心议题。</p>\n  <p>在此次访韩期间，黄仁勋还将做客韩国知名脱口秀节目《You Quiz on the Block》。这是韩国收视率最高的脱口秀节目之一，由人气喜剧演员刘在石主持。微软联合创始人比尔·盖茨去年8月访韩时就曾做客这档节目。（第一财经）</p>\n  <p><strong>粉笔CEO张小龙就骂人大学生“活该找不到工作”道歉</strong></p>\n  <p>6月4日，粉笔科技发文：“致中国人民大学师生的道歉信。我是张小龙。在昨日于中国人民大学哲学院的演讲活动中，我因个人言行失当，中途离场并发表不当言论，给在场师生造成了困扰，也破坏了正常的交流氛围。对此，我向所有老师和同学郑重道歉。”</p>\n  <p>此前，粉笔CEO张小龙在中国人民大学哲学院的演讲活动中辱骂学生引发热议。一份网传的现场录音显示，张小龙表示自己没有很多钱，但肯定比现场大部分同学是多一点的，上个月刚把8000万的现金都用来买股票了，挣了5300万。</p>\n  <p>不过，该内容没能引发在场学生共鸣，台下反馈平淡。随着现场互动冷清，张小龙发言风格逐步转变，先后出现“来炫富”等挑衅表述，后续更是高频使用不雅用语，当众辱骂在场学生，包含多类侮辱性词汇，还出现“活该找不到工作”“未来只能进去混日子”等争议言论，发言结束后愤然离场。（新浪科技、鞭牛士）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>英伟达据悉收购初创公司Kumo AI</strong></p>\n  <p>据报道，英伟达已收购成立四年的小型初创公司Kumo AI，后者致力于开发基础模型，旨在做出精准的商业预测。知情人士称，Kumo的三位联合创始人Vanja Josifovski、Hema Raghavan和Jure Leskovec已于上月加入英伟达。（界面新闻）</p>\n  <p><strong>2026年字节AI的四个关键命题：世界模型、Seedance、Coding，以及豆包商业化</strong></p>\n  <p>36氪从多个信源处独家获悉，2026年，字节AI有四个重要的命题：加大对世界模型训练的投入，年底前，模型性能达到现阶段世界模型全球SOTA（最佳）Google Genie 3的水平；视频模型继续保持领先地位，探索“动态生成”等新方向；进一步打好Coding的地基，做好Coding的Dogfooding（数据回流、评测，形成飞轮），提升Agent能力；豆包强化商业化能力，重点场景是“办公”。</p>\n  <p><strong>英国监管机构给谷歌AI搜索“立新规”</strong></p>\n  <p>英国竞争与市场管理局6月3日说，已勒令美国谷歌公司整改其人工智能（AI）搜索服务，允许英国网站运营商和出版商退出谷歌“AI概览”模式，以免其内容和链接被谷歌搜索自动抓取。（新华社）</p>\n  <p><strong>微信正与手机厂商合作推出Agent-to-Agent助手能力</strong></p>\n  <p>微信正在与华为、荣耀、小米、OPPO、vivo等手机厂商合作推出A2A（Agent-to-Agent）助手能力，可通过手机语音助理发起微信的音视频通话，或向好友发送消息。目前，荣耀部分机型已经支持该功能，把YOYO智能体和微信更新到最新版本，即可唤醒YOYO直接语音下达指令，比如语音发微信消息、拨打微信语音、视频通话。（财联社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>报告指出：2030年AI耗水量够13亿人用一年</strong></p>\n  <p>联合国大学水、环境与健康研究所周三发布题为《人工智能能耗的环境成本：碳、水和土地足迹》的报告，对人工智能基础设施产生的碳足迹、水足迹和土地足迹进行了量化分析。报告指出，到2030年，全球数据中心用电需求预计将达到945太瓦时，其相关用水量将相当于13亿人一年的基本生活用水需求，而土地占用面积将超过14500平方公里。（网易新闻）</p>\n  <p><strong>中文在线：AI短剧成为第一大Token消耗场景</strong></p>\n  <p>6月3日，中文在线披露的数据显示，AI短剧已成为第一大Token消耗场景。中文在线在机构交流中称：“在国内所有Token消耗份额中，AI短剧与视频生成高居首位，占比达55%；其次是电商与营销(如直播带货、广告营销等)，占比24%；而此前因Vibe Coding(氛围编程)流行而被寄予厚望的软件开发领域，在Claude等编程能力的推进下也仅占15%。AI短剧与视频生��的Token消耗量已达到软件开发的两倍以上，成为整个Token经济学中绝对的第一大核心消耗场景。”（21财经）</p>\n  <p><strong>高盛预计SpaceX到2030年将“烧掉”3500亿美元现金</strong></p>\n  <p>高盛预计SpaceX到2030年将“烧掉”3500亿美元现金，资本支出的80%将用于人工智能。（财联社）</p>\n  <p><strong>苹果：全球App Store生态系统规模达1.4万亿美元</strong></p>\n  <p>苹果公司宣布，根据分析集团（Analysis Group）经济学家的一项最新研究，2025年全球App Store生态系统促成的开发者计费与销售额超过1.4万亿美元，创下历史新高。（界面新闻）</p>\n  <p><strong>门店教唆车主无牌夜骑，张雪直播间回应：立即关店</strong></p>\n  <p>6月3日，在张雪机车直播间连线中，有用户向张雪本人反应，其在河北承德张雪门店购买的820RR车型因合格证丢失，导致无法上牌上保险，门店却教唆他“晚上偷着骑，交警追不上”。对此张雪在直播中表示，“这种店留着祸害用户，直接关店。”</p>\n  <p>4日，记者联系到当事摩友王先生，3月12日，820RR未正式售卖前，他就在张雪机车承德门店交了3000元定金。3月21日车辆正式对外发售，他抢到1869号，等到6月1日晚上才提车。但没想到门店将车辆合格证丢失，导致无法给车上牌上保险，也无法上路。提车次日，他在与门店沟通车辆合格证情况时，发生上述情形。王先生向记者表示，“张雪的办事速度确实快，现在车辆合格证已经发出来了，想要的补偿是希望张总在车上签个名。”（界面新闻、极目新闻）</p>\n  <p><strong>SpaceX已启动IPO路演，预计每股价格为135美元</strong></p>\n  <p>SpaceX已启动首次公开募股（IPO）路演，拟向公众发行555555555股A类普通股。散户投资者将能够以与大型机构相同的价格参与，预计SpaceX每股价格为135美元。拟授予承销商30天期权，可额外购买最多83333333股A类普通股。已申请将其A类普通股在纳斯达克全球精选市场和纳斯达克德克萨斯上市，股票代码为“SPCX”。高盛、摩根士丹利、美银证券、花旗、摩根大通、巴克莱及其他公司将担任本次发行的账簿管理人。（财联社）</p>\n  <p><strong>擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万</strong></p>\n  <p>记者获悉，近日，北京市朝阳区人民法院就泡泡玛特诉奈雪的茶不正当竞争纠纷案作出一审判决，认定深圳市品道餐饮管理有限公司（奈雪的茶所属公司）构成不正当竞争，判令其赔偿北京泡泡玛特文化创意有限公司经济损失30万元及维权合理开支2万元。双方均未上诉，判决现已生效。</p>\n  <p>记者了解到，本案起因于2025年9月。2025年9月，奈雪的茶在旗下门店、微信公众号及小程序推出一波主题营销活动，将多款茶饮命名为“米布布”，宣传图文使用了“LABUBU（拉布布）”美术形象，并打出“喝米布布抽LABUBU”“布布们集合！免费喝布布，抽LABUBU！”“MIBUBU带上布布免费喝布布”等宣传用语。随后，泡泡玛特诉称，奈雪的茶未经许可，擅自使用与“LABUBU”相同或近似的标识进行商业推广，容易使相关公众误认为双方存在商业合作关系，构成不正当竞争。（北京日报）</p>\n  <p><strong>孙正义失去亚洲首富头衔，2日刚重登亚洲首富</strong></p>\n  <p>福布斯实时富豪榜4日数据显示，软银集团创始人兼CEO孙正义单日个人财富缩水13%，个人净资产一日蒸发132亿美元，最新身价回落至871亿美元，排名滑落至印度富豪安巴尼、阿达尼之后。与此同时，软银集团（SBG）股价于近三日内累计跌超17%，截至发稿报7414日元，总市值约42.35万亿日元，为存储巨头铠侠所超越，失去“日本市值第一”的席位。6月2日，孙正义时隔十余年再度登顶亚洲首富宝座。（新浪科技）</p>\n  <p><strong>小红书启动金融专业号治理专项行动，处置非法诱导跨境投资等违规内容</strong></p>\n  <p>小红书从6月3日起，对金融领域认证专业号开展专项治理行动。依据相关法律法规及平台规则，金融类认证仅向持有合规牌照的机构发放，平台认证专业号的昵称命名须与认证主体实际业务范围严格匹配，不得以虚假、误导性信息获取认证标识。近一周，小红书已经处置1500余个违规金融专业号，并将持续、全面加固对公验证校验机制，展开专项针对存量账号的常态化巡查及处置。</p>\n  <p>工作人员介绍，5月以来，小红书平台共处置涉金融领域违规及无金融相关资质营销账号3.1万个，包括针对非法诱导跨境投资问题，共处置非法诱导跨境投资等违规笔记539条、评论146条；针对外资投行研报低价倒卖行为，共处置相关违规笔记141篇，冻结相关商品132件。此外，平台还处理涉嫌黄金金融营销宣传信息、境外平台境内展业宣传等涉嫌违规信息130余条。（证券时报）</p>\n  <p><strong>腾讯客服回应与华为、小米等合作</strong></p>\n  <p>有报道称，微信正在与华为、荣耀、小米等多家手机厂商合作推出A2A（Agent-to-Agent）助手能力，可通过手机语音助理发起微信的音视频通话，或向好友发送消息。</p>\n  <p>对此，腾讯客服表示，微信正在与华为、小米、荣耀、OPPO等手机厂商合作推出A2A助手能力。目前已有多家厂商完成接入，“您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提供更便捷的使用体验。”（北京日报）</p>\n  <p><strong>特斯拉修改FSD购买协议：新增“需人��监督”条款，并限制车主查阅原始合同</strong></p>\n  <p>据Electrek报道，特斯拉修改了FSD购买协议，在协议中新增了车主当初购买产品时原本不存在的“需人工监督”相关条款；此外，部分车主的原始协议文档已彻底无法查看。</p>\n  <p>Electrek已向多名车主核实了该问题。涉事合同签署时间集中在2016年至2024年初，彼时特斯拉售卖的套件标注为“全自动驾驶功能”，协议中没有任何“需人工监督”的表述，暗含车辆可实现无监督自动驾驶的承诺。（IT之家）</p>\n  <p><strong>黄仁勋一句话让Marvell市值暴涨620亿</strong></p>\n  <p>6月2日，在COMPUTEX 2026（台北国际电脑展）上，英伟达CEO黄仁勋和Marvell的CEO马特·墨菲同台对谈。在对话中，黄仁勋盛赞Marvell在AI基建供应链中的价值，称Marvell注定将成为“下一家万亿美元公司”。</p>\n  <p>黄仁勋解释道，Marvell的高速光电连接技术和网络芯片对数据中心至关重要，因为在数据中心里，计算任务会分散到成千上万颗相互连接的芯片上，而这些芯片需要快速共享数据。他还表示，未来5到10年，行业仍将使用大量的铜缆，同时使用海量的光器件。</p>\n  <p>2日当天，Marvell股价大涨32.52%收于每股290.79美元，创下公司自2000年以来最大单日涨幅，总市值2543.8亿美元，一日增长超过620亿美元。今年以来，公司股价涨幅已达到惊人的225.30%。（澎湃新闻）</p>\n  <p><strong>神农旅游集团就国道收费进行道歉</strong></p>\n  <p>据中国交通广播此前报道，多位听众播反映，湖北神农架林区存在涉及违规封堵省道收费、限制社会车辆通行等情况。</p>\n  <p>6月3日，湖北神农旅游投资集团有限公司发布关于神农顶景区过境车辆通行的说明：近期，我们关注到网络上关于G347国道（神农顶段）车辆通行受限的相关报道，对此我们诚恳表示歉意，对过境车辆实行全天候无条件自由通行。同时，我们将积极接受社会各界监督，全力配合相关部门开展调查核实。（新华网财经）</p>\n  <p><strong>OpenAI首席财务官谈公司AI设备：今年年底前将正式发布</strong></p>\n  <p>OpenAI首席财务官Sarah Friar日前在受访时透露，已经亲自体验过OpenAI的AI设备。她表示到“今年年底之前”OpenAI将正式发布这款产品。此前，OpenAI曾在一份文件中表示，预计最早也要到2027年2月才会开始发货。（财联社）</p>\n  <p><strong>国家发改委：自4日24时起，国内汽、柴油（标准品）价格每吨分别下调525元、505元</strong></p>\n  <p>36氪获悉，据国家发改委消息，根据国际市场油价变化情况，自4日24时起，国内汽、柴油（标准品）价格每吨分别下调525元、505元。</p>\n  <p><strong>美国火星大气探测器MAVEN任务终结</strong></p>\n  <p>美国航空航天局3日宣布，在火星轨道已运行超过11年的探测器“火星大气与挥发物演化任务”（MAVEN）正式结束。MAVEN探测器于2013年11月发射升空，2014年9月进入火星轨道，原计划任务期一年，此后持续运行并多次延长任务。该探测器2025年12月6日最后一次与地面通信后失联，已无法继续正常运行。美国航空航天局当时表示，MAVEN在绕过火星背面后未能恢复信号。（新华社）</p>\n  <p><strong>美国原油库存连续六周下降</strong></p>\n  <p>据美国方面消息，美国能源信息局3日公布的数据显示，由于原油出口量增加并且炼油厂接近满负荷运转、持续消耗原油库存，美国原油库存已连续六周下降。数据显示，截至5月29日，美国的商业石油库存规模和战略石油储备规模较一周前相比，分别减少了约800万桶。报道指出，这一数字远高于分析家此前预测的降幅。（央视新闻）</p>\n  <p><strong>分析师：韩本土企业债发行有望下半年回暖，韩国央行年内将两次加息</strong></p>\n  <p>韩亚证券信用分析师Sang-man Kim表示，受韩国央行加息预期影响，短期融资渠道性价比下降，韩国上半年低迷的本土企业债发行规模或将在下半年回暖。 Sang-man Kim于周四发布研报称，上半年地缘风险叠加收益率上行，投融资双方均规避长期限企业债券。韩亚证券预判韩国央行年内将两次加息，2027年初再加一次息。不过本轮发债回暖或难以持久，发债主体将集中于高信用评级企业。（新浪财经）</p>\n  <p><strong>优步人力部门裁员近四分之一，CEO称“此番调整势在必行”</strong></p>\n  <p>在新任总裁吉尔・黑泽尔贝克主导的组织精简改革下，优步人力部门裁员23%，涉及招聘、人事全条线员工。CEO达拉・科斯罗萨西在内网备忘录中写道：“为最大化人力团队效能、释放公司未来发展潜力，本次组织调整必不可少。”本次被裁岗位集中在招聘与人力资源板块。优步未披露具体裁员人数，但企业发言人表示，本次裁减人员占公司3.4万名总员工的比例远低于1%。（新浪财经）</p>\n  <p><strong>现代汽车与英伟达商讨在韩设立人工智能研发中心</strong></p>\n  <p>韩国经济日报援引匿名政府及业内人士消息：现代汽车联合韩国政府正与英伟达就落地韩国人工智能技术中心进入最终磋商阶段，新万金成为选址首选。该研发中心将是英伟达级别顶尖的研发基地，这类高规格基地目前仅布局在新加坡、中国台湾等少数地区；英伟达去年10月已与现代汽车签署谅解备忘录，约定供应GPU芯片并共建AI研发中心。（新浪财经）</p>\n  <p><strong>SpaceX获德州税收优惠，Terafab芯片项目获推进</strong></p>\n  <p>SpaceX为其提议的Terafab半导体制造项目获得了得克萨斯州格里姆斯县的税收减免，该设施在完全建成后的预计成本至少为550亿美元，甚至可能高达1190亿美元。（新浪财经）</p>\n  <h2>上市进行时</h2>\n  <p><strong>思特威：向特定对象发行股票的注册申请获中国证监会同意批复</strong></p>\n  <p>36氪获悉，思特威公告，公司于近日收到中国证券监督管理委员会出具的《关于同意思特威（上海）电子科技股份有限公司向特定对象发行股票注册的批复》，同意公司向特定对象发行股票的注册申请。</p>\n  <p><strong>Anthropic选定摩根士丹利和高盛牵头IPO，最快10月上市</strong></p>\n  <p>人工智能公司Anthropic已选定摩根士丹利和高盛集团担任其首次公开募股的主承销商，摩根大通也将参与此次交易。据知情人士透露，这家旗下拥有Claude聊天机器人的AI巨头正考虑最快于今年10月上市，并已秘密向美国证券交易委员会提交了IPO注册声明。（新浪财经）</p>\n  <h2>投融资</h2>\n  <p><strong>Quobly完成1.15亿欧元A轮融资</strong></p>\n  <p>法国量子计算公司Quobly宣布完成1.15亿欧元A轮融资，旨在加速其硅基量子计算机的产业化进程，并计划于2026年底前将首款商用产品推向市场。本轮融资由Bpifrance、SEALSQ和意法半导体领投，欧洲创新理事会、Blast、ALIAD以及现有投资者Innovacom参与投资。（界面新闻）</p>\n  <p><strong>“星灿智能”获力合科创千万级天使+轮投资</strong></p>\n  <p>近日，家庭具身智能企业“星灿智能”（XCANBOT）完成千万级天使+轮战略融资，由A股科创平台力合科创投资。至此，公司已获山东亚华电子、浙江亚特、力合科创三大上市产业资本投资。团队核心成员来自头部自动驾驶企业，核心产品为自研XcanBrain具身大模型与5D全域空间感知系统。区别于传统机器人远程遥控、单视角采集存在盲区、数据固化滞后的短板，星灿依托实景无盲区数据闭环实现模型持续自进化。其双赛道产品已完成市场验证，在手订单破亿元，即将规模化量产。</p>\n  <h2>酷产品</h2>\n  <p><strong>苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出</strong></p>\n  <p>知名苹果分析师郭明錤近日发布最新供应链调查，大幅调整了苹果头戴式产品的路线图。据悉，即将接任苹果CEO的约翰·特努斯已批准了一项重大战略调整，取消Vision Pro后续产品的开发，将资源集中于更具大众市场潜力的智能眼镜品类。根据郭明錤公布的最新路线图，苹果目前仅有两款智能眼镜产品处于活跃开发状态。其中，配备光学波导显示屏的AR/XR智能眼镜已推迟至2029年发布；而不含显示屏、类似Ray-Ban Meta的AI眼镜仍按计划于2027年出货。（新浪财经）</p>\n  <p><strong>iPhone 18 Pro系列将首发苹果第二代灵动岛</strong></p>\n  <p>据博主爆料，今年下半年登场的iPhone 18 Pro系列将首发苹果第二代灵动岛，正面挖孔的宽度由上代的20.76mm调整到13.49mm，整体宽度直接缩减了35%，这也让iPhone 18 Pro成为苹果有史以来屏占比最高的智能手机。（快科技）</p>\n  <p><strong>整理</strong>｜徐嘉彤</p>",
-      "category": "tech",
-      "published_at": "2026-06-04T23:46:55+00:00",
-      "fetched_at": "2026-06-05T02:58:18.994177+00:00",
-      "fingerprint": "c02c3363d15fcd3a"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
-      "url": "https://36kr.com/p/3835460873385348?f=rss",
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。</p>\n  <p>百曜科技是36氪持续追踪报道的企业（<a href=\"https://36kr.com/p/3519810822249601\" rel=\"noopener noreferrer\" target=\"_blank\">附链接</a>），公司创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院的科研资源，自2023年起开始构建AI虚拟细胞基础大模型，以实现细胞行为和状态变化的精准分析及预测，并持续推进AIVC模型升级和产业化落地实践。</p>\n  <p>2026年来，AI制药赛道的融资热情持续高涨，且行业关注点正逐步从早期的分子筛选单点突破，逐步转向更深层的细胞级生命系统建模和动态模拟。与聚焦于分子构型优化的AI药物发现不同，AIVC的价值可覆盖药物开发全生命周期：从疾病机制解析、靶点发现、候选药物虚拟筛选、临床前药效与毒性预测，到临床患者分层，其核心突破在于将AI建模层级从“分子”提升至“细胞”，直接模拟生命系统对外界干预的动态响应。</p>\n  <p>AIVC基于海量单细胞多组学数据进行训练，通过学习细胞状态转换规律、基因调控网络以及跨尺度因果关系，构建能够表征细胞行为和命运演化的基础模型（Foundation Model）。研究人员只需输入细胞初始状态（如诱导多能干细胞、免疫细胞或肿瘤细胞）以及特定扰动条件（如药物作用、基因编辑或环境变化），模型即可预测细胞未来的状态转变，包括增殖、分化、衰老、凋亡及疾病进展等关键生物学过程。</p>\n  <p>这种能力使科研人员能够在数字环境中预先开展大规模虚拟实验，优先筛选出最具成功概率的研究假设，再通过湿实验进行精准验证。由此，研发流程从传统的“实验驱动”逐步转变为“模型驱动”，有望显著降低研发成本、缩短开发周期，并提升药物研发的整体成功率。</p>\n  <p>从产业发展趋势看，AIVC正在从单纯的研发工具演变为生命科学领域的新型基础设施。正如大语言模型重塑了信息处理方式，AIVC有望成为理解、预测和设计生命系统的核心平台，为下一代药物研发、细胞治疗和合成生物学提供底层能力支撑。得益于此，ARK Invest曾在《Big Ideas》报告中发表观点称，虚拟细胞将是“未来AI+生命科学最具有颠覆性的领域之一”。</p>\n  <p>当前，一级市场的资金流向在慢慢验证这个判断。百曜科技创始团队表示，本轮融资获得国家级国有资本运营平台、市场化科技与医疗资本的认可，将帮助公司快速完成全新一代基础模型和扰动模型，落地自产数据集平台建设与独家数据集合作。在确保AIVC核心能力的基础上，率先探索产业应用场景，布局先进细胞治疗和“AIDD plus AIVC”,加速“模型-数据-场景”的产业链闭环。</p>\n  <p>据悉，早在2023年9月，创始团队就已发布知识增强多物种细胞大模型GeneCompass，并作为封面文章发表于《Cell Research》。该模型是拥有过亿单细胞数据量、知识嵌入的通用虚拟细胞基座模型；2025年，团队进一步升级发布CellGraphCompass模型，将图结构算法和先验知识系统化应用于虚拟细胞建模。同年，基于基础模型构建的扰动模型帮助创始团队在全球虚拟细胞挑战赛中获得预赛全球第一，决赛全能榜单全球第二的成绩。</p>\n  <p>此外，百曜科技在数据方面也有大量沉淀。除依托创始团队经4年积累的全球大规模AI-ready公共数据集用以训练基础模型之外，团队还将在近期落地自产数据集技术，收集适配AIVC模型训练的高质量时间连续性扰动数据集，并开展大规模临床数据合作自产数据集项目。</p>\n  <p>应用层面，百曜科技已与海内外合作伙伴在模型部署、细胞治疗管线联合研发、早期靶点发现及临床样本精准分层等场景推进落地。</p>\n  <p><strong>投资人观点：</strong></p>\n  <p>中国国新相关负责人表示，国新基金长期关注兼具硬核技术壁垒与国家战略价值的创新赛道。AI虚拟细胞技术作为生物医药产业的底层基础设施，深度契合国家'十五五'规划中人工智能+行动的战略部署。我们看好百曜团队在该领域的深厚技术积淀与持续创新能力，期待公司持续以AI驱动生命科学研究范式变革，释放长期价值。作为国新基金的首个天使轮投资项目，我们将倾力支持百曜科技打通“模型研发-场景验证-产业落地”全链条通道，为我国构建自主可控的AI制药技术体系提供关键支撑。</p>\n  <p>财务顾问明德资本合伙人胡茗译表示，AI虚拟细胞是新一代生成式人工智能模型在生命科学领域中的重大突破，将让学届与产业界拥有更全局、更精准、更高效的手段，来模拟药物分子与人体复杂生命系统在虚拟世界的交互，这会在当下全球医药行业对AI普遍广泛接受的基础上，迸发出更底层也更强大的商业机会。很高兴看到百曜获得国家队基金与专业医疗与科技基金的鼎力支持，持续构建数据基础设施并引领模型的不断突破。</p>\n  <p>财务顾问点石资本合伙人黄峻表示，虚拟细胞代表着AI for Life Science领域最富想象空间的前沿方向。百曜是国内极少数从native底层架构出发、自主构建细胞基础模型的团队，进度超前。依托中科院深厚的科研积淀，以国际顶级期刊成果和全球赛事验证实力，百曜兼具深厚的数据资产壁垒与领先的原创算法能力。我们坚信，它将成长为这一赛道的领跑者。</p>",
-      "category": "tech",
-      "published_at": "2026-06-05T00:30:00+00:00",
-      "fetched_at": "2026-06-05T02:58:18.994171+00:00",
-      "fingerprint": "727902c8d245c56e"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "为什么库里没有选择安踏？",
-      "url": "https://36kr.com/p/3836116289877385?f=rss",
-      "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <p>2026年6月2日，NBA现役金州勇士队球星斯蒂芬·库里（Stephen Curry）在其个人社交媒体上宣布，个人品牌“库里品牌”（Curry Brand）将与李宁正式签约。</p>\n  <p>ESPN援引知情人士称，这份合同有效期长达十年，内容涵盖篮球产品、运动休闲服饰、库里以个人品牌签约运动员的权利，以及完整的高尔夫球杆产品线，合同具体金额未披露。</p>\n  <p>李宁由此成为库里自2025年11月结束与安德玛（Under Armour）十二年合作之后的新东家。值得注意的是，在李宁之前，安踏也曾与库里方面有过接触，也有一度达成合作的传言，但最终未能成型。有媒体推测，除了报价之外，真正让天平倾向李宁的是后者愿意给出的自主权，这是一个比金额更难复制的筹码。</p>\n  <p><strong>这其实非常符合库里“不选主流品牌”的一贯逻辑。</strong>十三年前，库里没有与耐克续约，转投了当时还是运动品牌“新秀”的安德玛（Under Armour）。一个被反复讲述的版本是：耐克旗下明星众多，在那场著名的提案会上，对方读错了库里的名字，PPT里还留着别家球员的痕迹，让他觉得自己未被足够重视。安德玛“捡了漏”，并把这段往事当作品牌叙事，讲了许多年。</p>\n  <p>起初，库里也只是安德玛的签约球员。2020年11月，他在安德玛体系内获得了自己的同名子品牌“Curry Brand”，此后推出了从Curry 8到Curry 13的多代签名鞋，在成都开出首家品牌单店，并签下了以德阿隆·福克斯（De'Aaron Fox）为代表的代言球员。</p>\n  <p>更关键之处在于，当库里在2025年与安德玛分手时，他把这个独立品牌一并带走了。根据双方协议，库里保留了Curry Brand的全部商标与知识产权，并可自由寻找新的零售伙伴；安德玛则将这次分离纳入一项总额最高约2.55亿美元的重组计划之中。</p>\n  <p><strong>传统运动品牌签约明星，本质上是购买流量和影响力。而李宁签下库里，本质上是要拿出公司的供应链与研发资源，去为一个并不属于自己的独立品牌“做嫁衣”。</strong>而且在未来某一天，这份资产同样可能被再次打包带走。这样一份看上去并不对等的条约，显然不是人人都愿意接受的。</p>\n  <p>库里对签名产品的深度参与，进一步放大了这种“为他人作嫁”的属性。两年前的专访中，库里时曾对36氪谈及Curry 12的研发过程。从最初的二维草图，到三维建模，再到最终样品，库里都会深度介入。</p>\n  <p><strong>“如果我说我不喜欢某个设计，他们就需要重新调整。”</strong>库里当时表示。这意味着，任何与Curry Brand合作的企业，不仅要投入资源，更需要让渡相当程度的话语权。</p>\n  <p>过去几年，为应对增长压力，安德玛持续推进组织精简和成本控制。虽然品牌曾为Curry Brand在成都落地独立门店，但后续投入力度明显趋于谨慎。对于希望进一步扩张个人品牌版图的库里而言，这显然难以满足需求。</p>\n  <p>回到交易本身。按照库里不走寻常路的签约方式，决赛圈里的李宁显然是愿意给出更多筹码的那一个。</p>\n  <p>安踏早已不缺NBA球星。它在2014年从耐克手中签下克莱·汤普森，KT系列已出到第十代，是现役NBA球员与中国品牌合作时间最长的签名鞋系列；2023年又签下凯里·欧文（Kyrie Irving），为其打造KAI系列，并任命他为首席创意官。算上戈登·海沃德等人，安踏签约的NBA球员已逾十名，是签约NBA球员最多的中国品牌。</p>\n  <p>对于安踏而言，库里无疑是极具价值的资产，但并非不可替代。对库里来说，加入安踏，意味着他不会是这里唯一的当家球星，资源必然被摊薄；而安踏的KAI、KT系列也已积累起自己的销量与受众，在海外市场亦有渠道基础——库里的到来，更像是锦上添花，而非雪中送炭。</p>\n  <p>自2019年德维恩·韦德（Dwyane Wade）退役后，李宁在NBA赛场长期缺少具有全球影响力的头部代言人。其篮球资源更多集中于CBA体系和国内市场。将库里纳入版图之后，Curry Brand可以享受李宁篮球资源几乎全部的投入；更重要的是，库里保留了为Curry Brand签约球员的权利——这是一项分量极重的条件，而它显然更可能在一个“别无选择”的伙伴那里得到满足。</p>\n  <p>可能的资源冲突还不止于篮球。Curry Brand的版图除篮球外还覆盖高尔夫——接近职业生涯尾声的库里，最大的爱好之一正是高尔夫。而安踏此前已通过FILA、迪桑特在高尔夫品类上深度布局，一旦签约，库里品牌的高尔夫产品线几乎注定与集团内部品牌正面相撞。而在李宁这边，这片市场几乎是空白。</p>\n  <p>对于长期希望提升海外影响力的李宁而言，这几乎是一条此前并不存在的路径。李宁与库里在签约美国顶尖大学及高中体育明星方面，拥有一个近乎空白的广阔市场——甚至可能达成一些覆盖整个学校的赞助协议，这对李宁来说意义重大。</p>\n  <p>财务数字也印证了双方对这一纸合同需求的不对称。</p>\n  <p>2025年，安踏体育营收达802.2亿元，同比增长13.3%；若计入控股的亚玛芬体育，集团总收入早在2024年便已突破千亿。它旗下握有始祖鸟、萨洛蒙、威尔胜等一众品牌，迪桑特、可隆等“其他品牌”全年保持高速扩张。安踏在中国运动鞋服市场的份额约为23%，稳居第一，全球跻身前三。对这样一家“手握多牌、业绩向上”的公司而言，库里不过是众多选项中的一个。</p>\n  <p>李宁则是另一番光景。2025年，李宁营收295.98亿元，同比增长3.2%，创历史新高，净利润29.36亿元，净利率9.9%——稳健，但增速温和，体量不及安踏体育的四成。在它的牌面里，库里几乎是唯一一张能即刻撬动全球篮球叙事的王牌。</p>\n  <p>换句话说，李宁对库里的需求，远远大过库里对李宁的需求——而这恰恰是库里理想中的签约对象。实际上，此次合作消息由库里本人发布，而非行业惯例中的品牌方口径，也非双方共同宣布，这已充分证明此次合作的天平倾向了库里。</p>\n  <p>不难发现，库里本人对Curry Brand的野心，一如当年乔丹对Jordan Brand。问题是，李宁能否把库里塑造成下一个乔丹，仍有待时间检验。目前看来，至少存在两重障碍。</p>\n  <p>其一，是其商业模式的不可复制。耐克与乔丹在1984年开创了史无前例的球星提成模式：每卖出一双乔丹鞋，乔丹本人都能从中抽成。各方估算这一比例约为5%（也有更保守的4%一说），仅2024年就为乔丹带来约3亿美元收入。Jordan Brand的营收已从2018年的约28亿美元，增长到2024年的约70亿美元，占耐克总营收的13.6%——它实际上已是一个寄生于耐克体内的独立品牌（这一说法也经过了耐克内部人士的确认）。这套模式至今没有被任何运动品牌复制，连耐克自己也没有再签下“第二个乔丹”。或许，耐克也正是为了不再让渡更多的品牌主导权。</p>\n  <p>其二，是篮球生意本身的回报率今非昔比。即便横空出世一位类似乔丹的明星，也几乎不可能复刻当年Jordan Brand的辉煌。李宁要面对的，是一个正步入缓慢增长期的运动品类。如何把库里，连同他那个会“做嫁衣”、且随时可能被带走的独立品牌真正转化为品牌的增长引擎，而非一笔昂贵的营销开支，或许才是这桩十年合约最终的考验。</p>\n  <p>如果成功，这将成为中国运动品牌全球化进程中的标志性案例；如果失败，它也会成为行业重新审视“超级球星+独立品牌”模式的一次昂贵试验。</p>",
-      "category": "tech",
-      "published_at": "2026-06-05T00:49:39+00:00",
-      "fetched_at": "2026-06-05T02:58:18.994164+00:00",
-      "fingerprint": "c087f36a2ce16829"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
-      "url": "https://36kr.com/p/3838835333253385?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括<strong>智谱、阶跃星辰、商汤科技。</strong>此外，<strong>华勤、上汽恒旭</strong>等产业投资方持续加注<strong>。</strong></p>\n  <p><strong>「原力灵机」</strong>是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO<strong>唐文斌</strong>创立，团队核心创始成员为旷视科技原班人马。</p>\n  <p>有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”；</p>\n  <p>另外，算上A+轮独家领投的<strong>阿里</strong>，这也是具身智能赛道罕见同时聚齐国内四家大模型厂商——此前，智谱仅通过Z基金小范围投资具身智能领域，阶跃星辰则几乎未出手具身智能。</p>\n  <p>而这一集体动作也释放出一个信号，当<strong>大模型竞争的主战从Token向Action转移</strong>，拥有物理世界交互能力的具身模型，已成为模型公司们锚定的下一片高地。</p>\n  <p>伴随着此次融资，唐文斌也在兵合一处，着手整合机器人资产。</p>\n  <p><strong>硬氪独家获悉，「原力灵机」近期通过股权并购方式，完成了与「Atomix」（原力聚合）物流机器人的合并，</strong>剑指具身智能的大规模落地与全球化扩张。</p>\n  <p>「<strong>Atomix</strong>」的业务基因最早可以追溯到2016年——彼时，唐文斌在旷视科技内部主导智慧物流与机器人调度业务（河图系统），主推多形态物流机器人解决方案。</p>\n  <p>直到2024年7月，随着旷视业务变化，唐文斌将物流机器人业务从旷视体系剥离独立，并成立「<strong>Atomix</strong>」。</p>\n  <p>经过几年的探索，「<strong>Atomix</strong>」的托盘四向车销量已达全球第二，累计服务项目超过500个，客户包括优衣库、蜜雪冰城、宁德时代等，<strong>公司年营收近十亿</strong>。</p>\n  <p>随着具身智能硬件供应链趋近成熟，行业已经逼近那堵必须逾越高墙：具身大脑。相比语言模型进化路径的清晰，具身智能模型当下甚至找不到低成本、海量且高质量的数据，遑论找到收敛的训练范式。可以说，整个行业都在混沌之中摸索。</p>\n  <p>这种情况下，<strong>本体、大脑、数据的整合，或许成为具身赛道的新常态&nbsp;</strong>。</p>\n  <p>一直以来，具身智能行业的理想状态是打造真正的数据飞轮。而实际情况是，行业正处于“数据死结”状态——模型需要真实场景里的错误数据来推进进化，而若没有好模型的武装，机器人无法进场景，也就无法采集真实的数据。</p>\n  <p>因此，有消息人士称，两家公司的合并，本质上是闭环模型与场景，打开数据死结。</p>\n  <p>正如唐文斌此前在采访中提到，Picking（抓取）正是具身智能时代的“原子任务”——Picking之于具身智能，正如Coding之于大模型，而「<strong>Atomix</strong>」正像是一台连续运转的Picking数据发动机。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_ca53593da2bd49cfa7683019c3e61d37@1199336245_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">「原力灵机」机器人 做早餐 （图源/企业）&nbsp;</p>\n  <p>据了解，在未来，<strong>「Atomix」在超20个国家、500多个项目里跑出来的真实数据，将直接成为「原力灵机」模型训练的燃料；而「原力灵机」所训练的具身智能模型，也将快速实现跟「Atomix」现有机器人进行协同作业。</strong></p>\n  <p>这一构想或许并非空中楼阁，而是建立在一定的技术底座之上。在此之前，「原力灵机」已经推出了通用具身大模型“DM0”。</p>\n  <p>唐文斌此前接受采访时提到，在数据层面，「原力灵机」已完成了业内首次“三类数据大融合”——将互联网语义、智能驾驶物理规则、机器人实操数据进行混合训练，提升数据的规模与质量。</p>\n  <p>而这种跨域混合训练的方式，使得“DM0”跳出了对特定硬件参数的依赖，像一位经验丰富的“老司机”，在海量异构数据中抽象出了通用的物理规律，并且能够无视硬件差异，在多种不同构型的机器人本体间迁移，实现通用的操作逻辑。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_2973303acc0647c283f75291a74610fe@1199336245_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">「原力灵机」机器人 在调酒 （图源/企业）&nbsp;</p>\n  <p>更关键的是，「原力灵机」���试图将大模型的“思维链推理”延伸至物理空间——这也使得，“DM0”仅用2.4B的小参数规模，就实现了突破亚毫米级的精细操作，在长程连续任务中的成功率大幅提升。</p>\n  <p>通过一系列组合拳，“DM0”正试图打破传统具身模型数据单一、换机即瘫、参数臃肿的痛点。</p>\n  <p>此次合并、融资后，中国的具身智能行业正迎来一位强劲玩家。更重要的是，这也提示行业正进入下一个阶段——寻找到具身模型的scaling law。</p>\n  <p>这绝非仅靠堆砌机器人本体就能逾越的险隘。</p>\n  <p>就在本周，媒体披露字节跳动正重金招募具身智能技术负责人，目标直指头部创业公司的核心技术骨干；与此同时，海外具身智能明星企业Skild AI也刚完成了对Zebra（斑马技术）机器人自动化业务的并购。</p>\n  <p>海内外巨头的动向如出一辙——随着本体制造商、数据资产方、模型研发者、场景运营方开始加速聚拢，行业正式进入深水区。</p>\n  <p><strong>首页图源｜网络</strong></p>\n  <p><strong>排版｜范馨雅</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_34c2c70747ed4937b47ab288bf42e177@1199336245_oswg53536oswg1080oswg337_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">欢迎交流</p>",
-      "category": "tech",
-      "published_at": "2026-06-05T01:00:00+00:00",
-      "fetched_at": "2026-06-05T02:58:18.994156+00:00",
-      "fingerprint": "f6dcd6fa0f414f58"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
-      "url": "https://36kr.com/p/3839600052898054?f=rss",
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。</p>\n  <p>毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的研发与生产。</p>\n  <p>毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰是线控转向新国标修订的联合牵头人，在集度汽车任职期间作为企业方核心代表，全程深度参与了标准的制定工作，履历完整覆盖上汽、蔚来、华为、集度所代表的传统转型、新势力崛起、科技赋能及前沿探索等产业关键发展阶段。其核心团队在集度时期开发的线控转向系统已完成超5万公里自动驾驶实测，是国内唯一具备该实测里程的团队。</p>\n  <p>硬氪了解到，线控转向（Steering-By-Wire, SBW）彻底取消了方向盘与转向机构之间的机械连接，完全依赖电信号控制。作为L3级以上高阶自动驾驶的“神经中枢”，其响应速度、操控精度和布局灵活性远超传统电动助力转向系统（EPS）。</p>\n  <p>随着2025年工信部L3级自动驾驶认证正式落地，以及新版《汽车转向系基本要求》国标于2025年12月发布、2026年7月正式实施（不再强制要求机械连接），线控转向的法规与市场窗口期已全面打开。</p>\n  <p>多家市场研究机构与行业专家向硬氪表示，2026年将是线控转向的爆发元年。据业内分析预测，2026年线控转向在新车中的渗透率有望达到5%，而到2030年这一数字将攀升至30%以上。目前，蔚来ET9、理想L9、小鹏GX等旗舰车型已明确搭载线控转向系统，行业正处于大规模量产前夕。</p>\n  <p>与大多数创业公司直接挑战总成不同，毫秒智控采取了更为务实的商业化路径。秉持着“由点及面”的渐进式策略，公司当前正重点推进“智控模组（PPK）”——即线控转向和R-EPS（齿条式电动助力转向）系统中技术壁垒最高的电机电控单元的量产进程。</p>\n  <p>未来，公司将依托成熟的技术优势，加速布局和释放从关键部件到转向系统总成的全栈产品势能，稳步构建规模化量产与交付的能力，持续深化与核心产业伙伴的供应链协同。</p>\n  <p>商业化层面，公司已切入北美新能源头部车企的供应链体系，并高质量完成了首个项目的开发与交付。今年以来，公司已建立起与主流车企的合作通道，核心业务进展顺利，正全力保障各项交付任务的执行。</p>\n  <p><strong>以下为硬氪与李杰的对话节选：</strong></p>\n  <p><strong>硬氪：线控转向的技术难点究竟在哪里？国内大部分厂商与国际巨头的差距主要体现在哪些环节？</strong></p>\n  <p><strong>李杰：</strong>线控转向最难的不是单个部件，而是“冗余”和“功能安全”的系统级设计。它要求双电机、双电源、双通信、双软件架构，任何一个环节出问题都要有备份。国内很多厂商能做小负载的C-EPS和DP-EPS，但一上到R-EPS和线控转向这种高负载、高安全等级的产品，就卡住了。</p>\n  <p>目前，差距主要体现在两个层面：一是对功能安全（ASIL-D）的理解和工程落地能力；二是缺乏足够的自动驾驶实测数据来迭代算法。</p>\n  <p><strong>硬氪：成本是线控转向大规模普及的障碍之一。目前系统成本相比传统转向高出约30%，这个差距如何缩小？</strong></p>\n  <p><strong>李杰：</strong>目前一套线控转向系统的成本相较于传统EPS确实仍保持着约30%左右的溢价水平。不过，其降本路径已非常明确：一是规模化，当渗透率从5%提升到30%，上游芯片、电机等核心部件的采购成本会大幅下降；二是国产替代，目前冗余主控芯片、角度传感器等仍依赖进口，国产化后成本有望得到显著优化；三是技术迭代，我们下一代PPK模组会集成更多功能，减少外围器件。</p>\n  <p>我们判断，随着上述降本路径的逐步实现，线控转向的成本溢价将在2028年左右收窄至行业可大规模普及的区间，届时大规模普及将真正到来。</p>\n  <p><strong>硬氪：主机厂自研转向系统正在成为一种趋势，你们如何看待来自客户自研的竞争？</strong></p>\n  <p><strong>李杰：</strong>自研和非自研的争论在汽车行业一直存在。我的判断是：只有年销量达到300万辆以上的巨头，自研的经济账才能算得过来。因为转向系统是典型的规模效应行业，研发投入巨大，但单品利润很薄。对于绝大多数主机厂而言，外采仍然是最优解。而且，即便是自研的主机厂，它们在电控单元（PPK）这种高门槛的核心部件上，依然需要外部供应商的支持。这就是我们的机会——我们不做整车，只做最难的模块，服务于所有玩家。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>松禾创智基金执行事务合伙人、松禾资本管理合伙人汪洋：</strong>我们持续看好线控转向在智能汽车与自动驾驶阶段中的关键地位。随着相关法规落地与整车电子电气架构升级，转向系统作为底盘域实现“上下解耦”的核心环节，毫秒智控围绕线控转向系统构建全栈自研能力，在产品定义、整车协同开发与测试验证方面形成体系化能力，尤其在冗余架构设计与量产落地层面具备实践基础，体现出对技术路径与产业节奏的深刻理解。我们选择在其产品验证与导入推进阶段进行支持，是基于技术路线可行性、国产化配套能力与整车需求匹配度的综合判断。期待公司在与主机厂、自动驾驶企业协同深化中，逐步实现规模化应用，成为线控转向国产化进程中的重要参与者。</p>\n  <p><strong>苏高新融晟表示：</strong>苏高新融晟长期布局智能制造等硬科技产业链，线控转向是自动驾驶的核心技术基石，是L3及以上自动驾驶不可或缺的基础能力之一。毫秒智控创始团队成建制来自于知名汽车OEM和头部Tier1底盘零部件企业，在线控转向领域不断深根厚植，覆盖系统开发、硬件和软件开发，具备冗余R-EPS和SBW的全栈自研经验，也是国内稀缺的线控转向研发时间久、产品成熟度高、做到量产车型测试且通过数万公里实车验证的完整团队。我们坚定的看好毫秒智控团队在线控转向领域的技术实力和量产经验，本次合作将助力毫秒智控加速技术迭代和产能扩张，助力智能汽车产业的发展。</p>\n  <p><strong>厚雪资本表示：</strong>作为毫秒智控核心投资人，我们十分看好企业长期发展价值。线控转向SBW是高阶智能驾驶落地的核心关键，更是制约L4级自动驾驶规模化普及的重要瓶颈，产业刚需与战略价值凸显。公司聚焦SBW、REPS及核心电控Power Pack研发制造，核心团队汇聚博世、华域、上汽、华为、蔚来、极越等行业资深人才，还深度参与行业国标制定，技术底蕴深厚。创业一年来，以李杰为首的创始团队顺利完成身份蜕变，从资深技术产品负责人快速成长为兼具经营思维与商业视野的优秀创业者，综合能力迭代迅速。企业近期接连完成两轮融资，获得市场广泛认可，后续也将借助资本力量加快产品验证与市场拓展，依托扎实技术实力与成熟团队优势，有望在智能底盘国产化浪潮中稳步突围，成为国内线控转向赛道极具潜力的中坚力量。</p>",
-      "category": "tech",
-      "published_at": "2026-06-05T01:23:23+00:00",
-      "fetched_at": "2026-06-05T02:58:18.994141+00:00",
-      "fingerprint": "4954e5a7a502f61e"
-    },
-    {
-      "source": "少数派",
-      "title": "比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署",
-      "url": "https://sspai.com/post/110126",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/110126\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-04T03:02:55+00:00",
-      "fetched_at": "2026-06-05T02:58:17.267729+00:00",
-      "fingerprint": "40afe0360d606557"
-    },
-    {
-      "source": "少数派",
-      "title": "它不会是下一场新冠：简单了解汉坦病毒",
-      "url": "https://sspai.com/post/110717",
-      "summary": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。<a href=\"https://sspai.com/post/110717\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-04T07:00:00+00:00",
-      "fetched_at": "2026-06-05T02:58:17.267722+00:00",
-      "fingerprint": "1c78d5f5c11452a4"
-    },
-    {
-      "source": "少数派",
-      "title": "新玩意 243｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/110736",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/110736\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-04T11:15:27+00:00",
-      "fetched_at": "2026-06-05T02:58:17.267715+00:00",
-      "fingerprint": "7c0e0d02d95b5958"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等",
-      "url": "https://sspai.com/post/110754",
-      "summary": "Apple、Google 联合推出 Eclipsa Video HDR 开源标准等。<a href=\"https://sspai.com/post/110754\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-05T00:52:50+00:00",
-      "fetched_at": "2026-06-05T02:58:17.267703+00:00",
-      "fingerprint": "38aa0b09ad0d32c6"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.8382 CNY ↓-0.20%",
-      "url": "https://www.frankfurter.app/2026-06-04?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-06-04</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.8382 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0095 (-0.20%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-06-05T02:58:16.200718+00:00",
-      "fingerprint": "3ae6d594507c6538"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-      "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
-      "summary": "<p>Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’  but that the response was catching up</p><p>The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organization said, giving the virus “a big head start”.</p><p>Dr Tedros Adhanom Ghebreyesus also said the response was being hindered by blanket travel restrictions and highlighted high levels of community mistrust and low levels of contact tracing as key concerns.</p> <a href=\"https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-06-03T17:29:55+00:00",
-      "fetched_at": "2026-06-04T03:36:13.061082+00:00",
-      "fingerprint": "29a6bf2b729064be"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Grab what you can while you can: The new reality in the South China Sea",
-      "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
-      "summary": "After years of watching China create land to back its expansive claims, others are doing the same.",
-      "category": "politics",
-      "published_at": "2026-06-03T22:00:21+00:00",
-      "fetched_at": "2026-06-04T03:36:12.906855+00:00",
-      "fingerprint": "1693dd816f5118f1"
-    },
-    {
-      "source": "BBC World News",
-      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
-      "category": "politics",
-      "published_at": "2026-06-03T20:28:01+00:00",
-      "fetched_at": "2026-06-04T03:36:12.906850+00:00",
-      "fingerprint": "2a46a23a48fb6639"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US House votes to halt Iran war, in rebuke to Trump",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
-      "category": "politics",
-      "published_at": "2026-06-04T02:24:08+00:00",
-      "fetched_at": "2026-06-04T03:36:12.906843+00:00",
-      "fingerprint": "1e73604291a5bb98"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says.",
-      "category": "politics",
-      "published_at": "2026-06-04T00:16:44+00:00",
-      "fetched_at": "2026-06-04T03:36:12.906833+00:00",
-      "fingerprint": "d71e209093b7be52"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「飛去高雄看演唱會比上班快」：亞洲追星族如何改造高雄？",
-      "url": "https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "高雄市政府串聯官方與民間單位，在演唱會期間用主題燈光、捷運廣播、夜市券等，營造出整體的「城市應援」。這座曾以港口和重工業聞名的台灣南部城市，正逐漸轉型為亞洲歌迷心中的新興「演唱會之都」，但其經濟效益有多廣泛、能延續多久？",
-      "category": "politics",
-      "published_at": "2026-06-03T10:57:10+00:00",
-      "fetched_at": "2026-06-04T03:36:12.689336+00:00",
-      "fingerprint": "328c68004c5a3410"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "兩岸跨境器官買賣鏈：台灣名醫涉非法仲介病人赴中國換肝換腎遭廢照",
-      "url": "https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "台灣一宗非法器官移植案件，揭露兩岸近20年來持續不斷的跨境器官買賣鏈。案件涉及台灣肝臟名醫陳堯俐，與中國多名醫療人員合作，長期仲介台灣病患到中國醫院接受器官移植，每宗病例收取數十萬至數百萬元新台幣的仲介費。",
-      "category": "politics",
-      "published_at": "2026-06-03T11:52:24+00:00",
-      "fetched_at": "2026-06-04T03:36:12.689330+00:00",
-      "fingerprint": "31410634b03973d6"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "英國軍情五處警告：中國間諜正利用招募網站鎖定政府工作人員",
-      "url": "https://www.bbc.com/zhongwen/articles/cj3pkgrzrd8o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "軍情五處警告說，臥底特工冒充虛假的招募人員，試圖識別有用的目標。",
-      "category": "politics",
-      "published_at": "2026-06-04T02:52:47+00:00",
-      "fetched_at": "2026-06-04T03:36:12.689324+00:00",
-      "fingerprint": "17bc3a646cbd7b05"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "香港「在家分娩」父母跨國虐兒疑雲：我們目前所知多少",
-      "url": "https://www.bbc.com/zhongwen/articles/c8d8v0v81l1o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一對香港父母在為兒子申領出生證過程中涉嫌虐待兒童被捕，兩人事前在網上披露因次女撫養權問題與瑞典當局交涉內容引起網民關注。",
-      "category": "politics",
-      "published_at": "2026-06-04T01:20:05+00:00",
-      "fetched_at": "2026-06-04T03:36:12.689304+00:00",
-      "fingerprint": "11d9ef059ce470c2"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中國「八九」民運37週年：在傳承和記憶斷層間掙扎的「六四二代」",
-      "url": "https://www.bbc.com/zhongwen/articles/c8099evp0jmo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "六四事件37年後，當年親歷者的下一代都各自長大成人，這些年間，他們經歷了什麼？",
-      "category": "politics",
-      "published_at": "2026-06-04T00:26:18+00:00",
-      "fetched_at": "2026-06-04T03:36:12.689294+00:00",
-      "fingerprint": "8b4cba9988ff31a6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "\"They're made out of weights\"",
-      "url": "https://maxleiter.com/blog/weights",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-04T03:36:12.497058+00:00",
-      "fingerprint": "fc6895e7df27a97c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-04T03:36:12.496957+00:00",
-      "fingerprint": "e1c9c67e96c1248e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-04T03:36:12.496832+00:00",
-      "fingerprint": "f8f90f054d51a289"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-04T03:36:12.496719+00:00",
-      "fingerprint": "706b87cc25ba83fa"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
-      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-04T03:36:12.496590+00:00",
-      "fingerprint": "027e0ee3b70e9ff5"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
-      "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
-      "summary": "Just in case you were wondering, Nvidia's RTX Spark isn't supposed to be a one-off. The company is not just flirting with becoming the fifth high-profile vendor of consumer laptop chips to see if people bite. At Computex 2026 in Taipei, Nvidia CEO Jensen Huang confirmed at least two additional generations of RTX Spark are [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-03T20:03:50+00:00",
-      "fetched_at": "2026-06-04T03:36:12.152797+00:00",
-      "fingerprint": "bee0855b022a05d4"
-    },
-    {
-      "source": "The Verge",
-      "title": "WiiM expands its whole-home ecosystem with a new soundbar",
-      "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
-      "summary": "WiiM, the audio company that's challenged the idea that audiophile-level performance requires a small loan, is expanding its whole-home ecosystem with the WiiM Bar, which releases in July. Much like its other speakers and audio components, the WiiM Bar supports a bunch of streaming options and expandability at an affordable price - in this case, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-03T21:12:51+00:00",
-      "fetched_at": "2026-06-04T03:36:12.152791+00:00",
-      "fingerprint": "2a628bb87b1676b7"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple is bringing age verification to Texas this week",
-      "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
-      "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it proceeds. People in Texas who are creating a [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-03T21:49:51+00:00",
-      "fetched_at": "2026-06-04T03:36:12.152785+00:00",
-      "fingerprint": "2b7c0788ab027ccc"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
-      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
-      "summary": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measures to comply with these requirements [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-04T00:04:04+00:00",
-      "fetched_at": "2026-06-04T03:36:12.152774+00:00",
-      "fingerprint": "9563d3473f381eb8"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
-      "url": "https://36kr.com/p/3837330582008963?f=rss",
-      "summary": "<h2>大公司：</h2>\n  <p><strong>瑞典AI初创公司Lovable与Google Cloud扩大多年期合作</strong></p>\n  <p>据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面）</p>\n  <p><strong>美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元</strong></p>\n  <p>美银分析师Vivek Arya团队更新了英伟达研报。该机构测算2027财年下半年Vera CPU销售额有望达200亿美元；下一财年产品年化营收规模将突破500亿美元，英伟达有望跻身全球头部服务器CPU供应商。（新浪财经）</p>\n  <p><strong>段永平在泡泡玛特持股比例升至6.04%</strong></p>\n  <p>36氪获悉，据港交所权益披露，段永平在泡泡玛特H股的持股比例于5月28日从5.69%升至6.04%。</p>\n  <p><strong>兖矿能源：拟164.15亿元收购控股股东旗下新能源集团及山能售电100%股权</strong></p>\n  <p>36氪获悉，兖矿能源公告，公司拟以现金164.15亿元收购控股股东山能集团旗下新能源集团100%股权及山能售电100%股权。本次交易旨在通过注入优质电力资产，快速壮大电力业务规模，育强新兴产业，同时切实减少公司与控股股东在电力业务板块的同业竞争，进一步规范公司治理。</p>\n  <p><strong>曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券</strong></p>\n  <p>36氪获悉，曲美家居公告，公司境外三级子公司Ekornes QM Holding AS拟发行总额不超过9亿挪威克朗（含9亿挪威克朗或等值外币）的境外债券，期限不超过3年（含3年）。</p>\n  <p><strong>知乎：2026年Q1经调整净利润1716万元，同比增147.2%</strong></p>\n  <p>36氪获悉，知乎发布2026年第一季度业绩报告。报告显示，知乎第一季度营收6.52亿元，环比增长1.3%；经调整净利润为1716万元，同比增长147.2%，环比实现扭亏。其中付费内容及IP运营收入4.02亿元，环比增长15.8%，在总营收中占比61.7%；营销服务收入1.91亿元，占比达29.4%；其它收入5780万元，占比为8.9%。截至第一季度末，知乎现金及现金等价物、定期存款及短期投资合计44.9亿元。</p>\n  <p><strong>亚马逊Prime会员落地南非，月费不足4美元</strong></p>\n  <p>电商公司亚马逊公司于周三宣布，在南非正式上线付费Prime会员服务，会员每月资费59南非兰特（折合3.61美元）、年费399兰特，可享受极速配送及影音内容权益。（新浪财经）</p>\n  <p><strong>宝丰能源：聘任柳怀宝为公司副总裁</strong></p>\n  <p>36氪获悉，宝丰能源公告，公司于2026年6月2日召开第五届董事会第三次会议，审议通过了《关于聘任公司高级管理人员的议案》，同意聘任柳怀宝为公司副总裁，任期自本次董事会会议审议通过之日起至2026年12月31日。</p>\n  <h2>投融资：</h2>\n  <p><strong>“光联芯科”完成近5亿元A轮融资</strong></p>\n  <p>36氪获悉，“光联芯科”近日完成A轮近5亿元融资，公司估值和累计融资规模刷新行业初创公司纪录。本轮由高榕创投、联想创投、基石资本联合领投，普洛斯隐山资本、仁爱资本、芯禾资本等一线产业资本以及裴振华等企业家个人跟投；君联资本、红杉中国、高瓴创投、真知创投、尚势资本等老股东超额追投。</p>\n  <h2>新产品：</h2>\n  <p><strong>千问宣布向第三方Agent、Skill全面开放，肯德基瑞幸蜜雪冰城东航将首批接入</strong></p>\n  <p>36氪获悉，千问App宣布将向第三方Agent、Skill全面开放，所有企业均可在千问运营自己的品牌Agent。目前，瑞幸、肯德基、蜜雪冰城、东方航空等首批企业正在千问进行Agent服务测试，并将陆续上线。</p>\n  <h2>今日观点：</h2>\n  <p><strong>上海：有序推进政务领域人工智能应用，促进城市治理现代化水平不断优化提升</strong></p>\n  <p>36氪获悉，上海市政务智能工作推进会6月2日上午举行。上海市委副书记、市长龚正指出，要按照市委部署，加强系统化谋划、体系性推进，加快形成本地区、本部门、本单位的“施工图”和“时间表”，以点带面、推动政务智能工作各项任务落地落实。要加强工作协同，进一步打通数据链、业务链、责任链，大力推动算力共用、语料关联、链智融合，形成更多具有引领性、示范性、带动性的政务智能成果以及相关产业发展成果。</p>\n  <h2>其他值得关注的新闻：</h2>\n  <p><strong>乘联分会：5月1-31日全国乘用车新能源市场零售97.4万辆，同比去年同期下降5%</strong></p>\n  <p>36氪获悉，乘联分会数据显示，5月1-31日，全国乘用车新能源市场零售97.4万辆，同比去年同期下降5%，较上月同期增长15%，今年以来累计零售373.2万辆，同比下降14%；5月1-31日，全国乘用车厂商新能源批发136.5万辆，同比去年同期增长12%，较上月同期增长11%，今年以来累计批发531.8万辆，同比增长2%。</p>\n  <p><strong>日本政府通过超3万亿日元补充预算案</strong></p>\n  <p>日本政府6月3日在临时内阁会议上通过2026财年补充预算案。该预算案已于当天提交众议院全体会议审议，政府计划推动该预算案5日在国会通过。根据该预算案，补充预算总额约3.11万亿日元（1美元约合160日元），将用于电力和燃气补贴、延续汽油价格补贴以及通过地方政府向液化石油气用户提供补贴等。其中，2.5万亿日元为“应对中东局势预备费”，主要用于继续实施汽油价格补贴政策。（新华社）</p>\n  <p><strong>现货白银向下跌破74美元/盎司</strong></p>\n  <p>36氪获悉，现货白银向下跌破74美元/盎司，日内下跌1.49%。</p>",
-      "category": "tech",
-      "published_at": "2026-06-03T15:01:21+00:00",
-      "fetched_at": "2026-06-04T03:36:11.998100+00:00",
-      "fingerprint": "9b6ea37320152cfb"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "url": "https://36kr.com/p/3838091144464644?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>名创优品称会员买单仅限潮玩商品</li>\n   <li>谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型</li>\n   <li>Meta在全球范围扩大青少年内容管控</li>\n   <li>多家银行下架3年期5年期定期存款</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>A股第4只两千元股诞生，联讯仪器盘中股价冲破2000元</strong></p>\n  <p>6月3日，联讯仪器盘中股价冲破2000元，最高达2047.88元。公司总市值超2000亿元。数据显示，自A股1990年12月19日开市以来，最高价曾突破2000元的股票屈指可数，仅有中安科、贵州茅台、云赛智联3只。这3只股票的上涨动因各异，长期市场表现也大相径庭。与A股史上前3只最高价曾触及2000元的股票相比，联讯仪器的硬科技成色鲜明。公司是全球少数、国内极少数量产供应400G/800G/1.6T光速光模块核心测试仪器的厂商，并已逐步在半导体测试设备领域形成“第二增长曲线”。（上海证券报）</p>\n  <p><strong>问界回应浙江台州M9事故</strong></p>\n  <p>6月3日，问界用户服务发布关于浙江省台州市车辆事故的说明：2026年6月3日，一辆问界M9在浙江省台州市泽国镇发生事故，未造成人员伤亡。事故发生后，我们第一时间与用户取得联系，提供必要协助。</p>\n  <p>经现场确认，事故为车辆行驶过程中，撞击前车掉落的大块金属部件，造成强物理冲击并持续拖行一段时间后导致起火，目前火已扑灭。经初步调查，事发前车辆三电系统状态正常，且未见车辆其它自身异常，事故非车辆自身原因导致。（新浪汽车）</p>\n  <p><strong>马斯克个人财富将突破万亿美元，目前身家约为8350亿美元</strong></p>\n  <p>据《福布斯》，埃隆·马斯克5月身家增加530亿美元，在十大富豪中增幅排名第三。目前其身家约为8350亿美元。旗下电动汽车巨头特斯拉上月股价上涨14%，但真正吸引投资者目光的是火箭与卫星业务公司SpaceX。该公司上月提交上市文件，有望缔造史上规模最大的首次公开募股（IPO）。据悉，SpaceX目标估值1.8万亿美元，略低于最初预期，但足以打破沙特阿美2019年创下的纪录，并有望推动马斯克个人身家突破万亿。预计股票最早会在6月12日开始交易，这意味着2026年6月可能成为全球诞生首位万亿富豪的月份。（新浪财经）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>DeepSeek计划在首轮融资中募资约70亿美元</strong></p>\n  <p>知情人士透露，DeepSeek计划在首轮融资中募资约70亿美元，这家人工智能初创企业估值将达到最高590亿美元。腾讯和宁德时代将成为DeepSeek最大的外部投资者；网易和京东也计划参与投资。（新浪财经）</p>\n  <p><strong>微软宣布面向新型AI设备推出“Project Solara”平台</strong></p>\n  <p>微软宣布面向新型AI设备推出“Project Solara”平台。芯片将运行AI Agent而非应用，并直接与云计算数据中心通信。（界面新闻）</p>\n  <p><strong>Anthropic拓展其AI网络安全项目</strong></p>\n  <p>Anthropic正著手拓展其网络安全项目，向新一批企业开放其Claude Mythos Preview的访问权限，以协助他们排查软件漏洞。（新浪财经）</p>\n  <p><strong>Kimi发布桌面端产品Kimi Work，定位通用型本地Agent</strong></p>\n  <p>36氪获悉，今日，Kimi发布桌面端产品Kimi Work，是一款面向知识工作者的通用型本地Agent，可以在电脑上拆解任务、调用工具、使用浏览器、创建和整理文件夹，并完成文档、表格、PPT等工作产物的交付。Kimi Work由Kimi Code深度参与开发，支持13小时连续编码、300个子Agent并行协作及4000余次自主工具调用。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型</strong></p>\n  <p>谷歌官网当地时间6月2日发布新闻稿宣布一系列当月更新的新功能，其中提及，谷歌宣布安卓Quick Share（快速分享）兼容苹果AirDrop（隔空投送）功能，可跨平台互传，现已适配更多设备。已经提供Quick Share功能的国产品牌机型包括小米17T Pro、荣耀Magic V6、OPPO Find X9等。（财联社）</p>\n  <p><strong>31条中日航线5月取消全部航班</strong></p>\n  <p>航班管家DAST最新统计显示，5月共有31条中日航线取消全部航班，比4月取消数量有所增加。整个5月中国大陆赴日本共有1592个航班取消。（第一财经）</p>\n  <p><strong>多家银行下架3年期5年期定期存款</strong></p>\n  <p>民营银行加速下架三年期、五年期存款产品并下调利率，以应对净息差持续收窄压力，降低高成本负债。多家银行已暂停销售或显示“售罄”，利率普遍下调至1.9%—2.1%区间。（21世纪经济报道）</p>\n  <p><strong>名创优品称会员买单仅限潮玩商品</strong></p>\n  <p>近日，有消费者吐槽，名创优品不是会员不能买单&nbsp;。消费者称，自己在名创优品结账时被要求出示会员证明，如果不是会员就不能买单。记者针对该情况询问名创优品客服，对方表示，目前购买潮玩类商品需要会员，其他商品无需出示会员结账，“盲盒、搪胶毛绒公仔目前仅对名创优品会员开放购买，注册会员后即可正常下单，其他品类商品不受影响。”（中国新闻网）</p>\n  <p><strong>莲花CEO称超过1.8吨就是“菜车”</strong></p>\n  <p>莲花跑车CEO冯擎峰近日在接受媒体采访时，提到跑车的车重问题，并给出了1.8吨的分水岭。</p>\n  <p>他表示，不管它马力多大，哪怕是2000匹马力，只要重量超过1.8吨，就是菜车。“我们也看到一些竞争对手，甚至于跑车做到了两吨，不可思议，说明它对跑车是没有理解的。”</p>\n  <p>此前，他还曾在采访中表示，不受控制的马力一文不值，马力大不代表就是性能车，受控的马力才叫性能车。电动化时代以后，马力容易获得了，往往容易忽视操控性。（新浪科技）</p>\n  <p><strong>腾讯AI产业应用大会在即，即将发布系列智能体应用新品</strong></p>\n  <p>36氪获悉，据腾讯云官号账号信息，腾讯2026AI产业应用大会即将在北京举办。作为腾讯年度最重要的AI产品发布平台，此次将发布系列智能体应用新品，并将公布infra等基础设施升级新进展。与此同时，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生将于腾讯AI首席科学家姚顺雨同台对话，解读AI下半场腾讯在AI赛道的最新布局和思考。</p>\n  <p><strong>Meta在全球范围扩大青少年内容管控</strong></p>\n  <p>Meta周二披露，正对旗下Instagram、脸书、Messenger全球青少年账号扩容内容管控设置，保障未成年用户获取适配其年龄段的使用体验；当下各大社交平台因儿童身心健康与安全问题正面临日趋严苛的监管审视。（新浪财经）</p>\n  <p><strong>印度央行否认出售黄金的报道</strong></p>\n  <p>印度央行在声明中称，关于印度央行出售黄金的报道并不属实。截至目前，实物黄金储备仍为880.52吨，没有变化。此前有分析认为，印度央行可能为保护外汇储备而出售黄金。（财联社）</p>\n  <p><strong>马斯克关联空壳公司在休斯顿郊外购地，550亿美元芯片厂或落地于此</strong></p>\n  <p>与马斯克有关联的一���空壳公司最近几周在美国休斯敦郊外一处乡村地区购置物业，表明这位亿万富豪可能在为一座计划中的550亿美元芯片厂Terafab敲定选址。Terafab项目由SpaceX、特斯拉和xAI联合推动，旨在为人工智能和机器人项目提供芯片支持，总投资最高可达1190亿美元。根据土地登记记录，这家名为“WIT Tech LLC”的公司已在格莱姆斯县购入至少6块地皮，总面积超过6000英亩（相当于近10平方英里），交易金额尚未披露。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>星源材质通过港交所上市聆讯</strong></p>\n  <p>36氪获悉，港交所文件显示，深圳市星源材质科技股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆讯。</p>\n  <p><strong>安克创新向港交所提交上市申请</strong></p>\n  <p>36氪获悉，6月3日，港交所文件显示，安克创新科技股份有限公司向港交所提交上市申请书，联席保荐人为中金公司、高盛、摩根大通。</p>\n  <p><strong>普渡机器人CEO称公司正在为香港上市做准备</strong></p>\n  <p>日经新闻报道称，普渡机器人创始人和首席执行官张涛接受采访时表示，公司正在为香港上市做准备。（新浪财经）</p>\n  <p><strong>机器人公司帕西尼据悉正考虑在香港上市</strong></p>\n  <p>机器人公司帕西尼据悉正考虑在香港上市。（���浪财经）</p>\n  <h2>大公司财报</h2>\n  <p><strong>知乎：2026年Q1经调整净利润1716万元，同比增147.2%</strong></p>\n  <p>36氪获悉，知乎发布2026年第一季度业绩报告。报告显示，知乎第一季度营收6.52亿元，环比增长1.3%；经调整净利润为1716万元，同比增长147.2%，环比实现扭亏。其中付费内容及IP运营收入4.02亿元，环比增长15.8%，在总营收中占比61.7%；营销服务收入1.91亿元，占比达29.4%。截至第一季度末，知乎现金及现金等价物、定期存款及短期投资合计44.9亿元。</p>\n  <h2>投融资</h2>\n  <p><strong>SpaceX敲定IPO发行价，拟募资750亿美元、估值有望接近1.77万亿美元</strong></p>\n  <p>SpaceX当地时间6月3日向美国证监会提交的文件显示，该公司计划以每股135美元的价格推介约5.556亿股，计划募资750亿美元。按这一价格并根据文件中列明的流通股数计算，SpaceX市值将接近1.77万亿美元。（界面新闻）</p>\n  <p><strong>快手旗下可灵AI正进行融资：投前估值180亿美元，计划2027年赴港上市</strong></p>\n  <p>据报道，快手旗下视频生成业务可灵AI正在进行分拆以来的首轮融资，投前估值为180亿美元。这也是可灵AI的Pre-IPO轮融资。据了解到，可灵AI目前内部按照2027年年初能够递交港股上市申报材料推进相关工作。（IPO早知道）</p>\n  <p><strong>“星尘智能”完成超10亿B轮融资</strong></p>\n  <p>36氪获悉，绳驱AI机器人公司“星尘智能”（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某上市企业及国科投资等老股东持续追投。</p>\n  <p><strong>“旷行科技”完成数千万元Pre-A轮融资</strong></p>\n  <p>36氪获悉，高危作业领域具身智能公司“旷行科技”近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。</p>\n  <p><strong>“千寻智能”获15亿元A+轮融资</strong></p>\n  <p>36氪获悉，据千寻智能消息，“千寻智能”获15亿元A+轮融资，股东包含一线美元基金、大型产业投资方以及国资基金，老股东持续加码。本轮所融资金，将聚焦三大核心方向投入使用：新一代具身智能基座模型持续研发迭代、全球化真实数据基础设施体系建设、多行业场景规模化商业落地推进。</p>\n  <h2>酷产品</h2>\n  <p><strong>苹果Vision Pro新专利曝光，未来可模块化更换配件</strong></p>\n  <p>近日，科技媒体 Appleinsider 发布博文，报道称苹果获批一项新专利，在配合 Vision Pro 头显使用时，Apple Pencil 通过触觉反馈传递虚拟物体的摩擦、纹理和粗糙感。 （IT之家）</p>\n  <p><strong>宇树回应与英伟达合作机器人：下半年新产品亮相</strong></p>\n  <p>日前，英伟达首席执行官黄仁勋宣布，英伟达已与宇树科技合作，推出新一代人形机器人参考设计“H2+”。围绕前述广泛关注的话题，宇树科技工作人员表示，新的“H2+”机器人基于英伟达的算力平台研发，会比之前机器人的算力水平更好，新产品将于今年下半年亮相。（中新网）</p>\n  <p><strong>整理</strong>｜徐嘉彤&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-06-03T23:53:43+00:00",
-      "fetched_at": "2026-06-04T03:36:11.998094+00:00",
-      "fingerprint": "a91dc75a7d425da2"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
-      "url": "https://36kr.com/p/3837650456430851?f=rss",
-      "summary": "<p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，微型高性能电机企业指尖智擎近期完成数千万元Pre-A轮融资，由深创投领投，天启资本与卓源亚洲跟投。资金将主要用于新一代微型轴向磁通电机的量产爬坡、空心杯电机产线建设及全球头部客户的供应链交付保障。多维资本担任本轮独家财务顾问。</p>\n  <p>指尖智擎成立于2024年8月，公司主打产品包括微型轴向磁通关节模组与空心杯电机，核心应用场景覆盖灵巧手、消费级机器人、轻型机械臂及医疗设备等领域。公司创始人张杨拥有12年电机行业经验，曾就职于美的、威孚高科、图达通等企业。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_538618f320a445f080c6900287a5e6ab@6221844_oswg339620oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">φ16mm微型关节模组（图源/企业）</p>\n  <p>目前，人形机器人灵巧手的主流技术路径存在精度、自由度、扭矩密度及成本方面的明显短板，行业长期面临“小型化、高性能、低成本”难以兼得的难题。</p>\n  <p>指尖智擎的采用自研微型轴向磁通电机+PCB绕组+摆线减速器的组合。公司产品最小外径16毫米，最大30毫米，走小型化的差异路线。以16mm规格为例，电机最大连续转矩大于7.8mNm，电驱总成最大连续转矩可达0.10-0.31Nm，传动效率80%-88%。</p>\n  <p>在技术路线上，公司有三个核心特点：一是采用轴向磁通电机，区别于传统径向磁通结构；二是电机全部采用PCB绕组工艺，避开特微型电机绕线困难的桎梏，大幅提升精度及一致性；三是减速器采用摆线方案，兼顾成本及可靠性。</p>\n  <p>张杨表示：“我们切入市场较晚，所以必须另辟蹊径，做差异化、小型化，同时技术路线要有前瞻性，才能保证后面不会被淘汰。”</p>\n  <p>指尖智擎目前微型关节模组产品线已经基本搭建完成，已有4个标准品尺寸以及多个定制开发项目在研，其空心杯电机产品线也将在今年内陆续补全。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_cc34291750304e46bee88985c80cc626@6221844_oswg502136oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">φ4mm和φ5mm特微型空心杯电机（图源/企业）</p>\n  <p>目前，公司团队规模超100人，在苏州工业园区拥有约9000平方米的研发中心与工厂，具备年产10万台微型关节模组的生产能力，三季度年产能可达20万台。</p>\n  <p>在商业化方面，公司已取得实质性进展。目前灵巧手相关客户占公司营收约60%-70%，公司已与多家头部客户签订协议并推进深度合作，其中已与两家头部公司敲定战略开发合作。</p>\n  <p><strong>以下为硬氪与张杨的对话节选：</strong></p>\n  <p><strong>硬氪：市面上也有其他公司在做轴向磁通电机、PCB绕组或摆线减速器，指尖智擎的核心差异在哪里？</strong></p>\n  <p><strong>张杨：</strong>从2024年底我们开始推这个方案之后，市场上确实有不少公司在跟进，但他们做的都是比较大的产品，而且也没有看到成熟的产业化落地。哪怕有厂家也在做轴向磁通电机、摆线减速器、PCB绕组方案，但他们都没有把这些技术结合在一起做微型化。我们的核心差异和最大优势就是微型化，这就是我们最大的护城河。</p>\n  <p><strong>硬氪：你们怎么看待灵巧手目前的可靠性问题？</strong></p>\n  <p><strong>张杨：</strong>现在行业里宣传手的寿命都是按百万次算，但换算一下，如果一秒钟开合一次，200万次也就200多个小时，连家用电器的可靠性标准都达不到，而且这是空载，如果带载寿命缩减到可能只有十分之一。我们目前在积极推进可靠性测试验证提升，从材料、结构、工艺多个维度去优化。相比行业内其他方案，我们在这方面的优势已经比较明显了。手要真正在工业和家庭场景落地，可靠性的提升是亟待解决的。</p>\n  <p><strong>硬氪：你们不自己做整机，那未来还有哪些想象空间？</strong></p>\n  <p><strong>张杨：</strong>我们定位很清晰，就是做“卖铲子的人”。零部件公司也可以成为伟大的公司。本质上，指尖智擎的定位是一家微型电机公司，下游应用场景不只是灵巧手或者是机器人，微型电机本身是一个非常大的市场，覆盖消费电子、医疗、工业自动化等多个行业，场景非常广，我们已经有一些很有前景的其他项目在做了。</p>\n  <p>我们不会去干下游的事，把自己做成微型高性能电机领域的标杆企业就够了，市场和估值空间已经很大了。不是不能做，而是没必要。况且很多客户担心我们做下游，不是聪明的打法。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>本轮融资领投方深创投表示：</strong>“具身智能是未来十年最确定的科技浪潮之一。我们发现，指尖智擎不仅是技术上的‘无人区’开拓者，更是量产上的‘实干家’。其将半导体工艺引入电机制造的思路极具颠覆性，团队既精通电磁场技术，又深谙供应链管理，我们坚定看好指尖智擎成为机器人微型关节模组领域的核心动力引擎。”</p>\n  <p><strong>天启资本与卓源亚洲认为：</strong>指尖智擎精准卡位微型执行器这一产业链核心瓶颈，其独创的PCB轴向磁通技术路线不仅打破了海外技术垄断，更具备了稀缺的规模化量产能力。在具身智能从“实验室”走向“生产线”的爆发前夜，指尖智擎无疑占据了极具战略价值的生态位。</p>",
-      "category": "tech",
-      "published_at": "2026-06-04T01:30:00+00:00",
-      "fetched_at": "2026-06-04T03:36:11.998087+00:00",
-      "fingerprint": "1b6dbfae3ffc9d6b"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
-      "url": "https://36kr.com/p/3837269482091656?f=rss",
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，戴盟机器人近日完成亿元A轮融资，由汇川技术旗下产业基金汇川产投与中国电信联合投资。资金将用于进一步打造超大规模含物理交互信息数据集，加速物理世界模型研发、并驱动真实物理场景下的数据飞轮与商业闭环。</p>\n  <p>戴盟机器人于2023年正式运营，核心团队长期聚焦机器人灵巧操作与物理交互智能领域。联合创始人兼首席科学家王煜教授曾任港科大机器人研究院创始院长，他所提出的“具身技能”与“技能克隆”等概念，是戴盟机器人核心技术路线的重要组成部分。创始人兼CEO段江哗博士及主要技术负责人，均来自港科大机器人研究院核心团队，具备10年操作智能Know-how。首席AI科学家原玮浩曾为阿里通义实验室多模态研究专家，拥有将世界模型迁移至机器人物理操作的前沿经验。</p>\n  <p>具身智能热度持续走高的当下，行业逻辑正在发生深刻切换。赛道发展沿着一条清晰的脉络演进：从早期机器人行走与运动控制能力的比拼，到差异化算法架构路线与“具身大脑”的探索，每轮热点轮动都为其突破积累了关键基础。</p>\n  <p>随着人形落地从舞台演示走向实景作业，整机精细化实操门槛持续抬升，能否采集高质量物理交互数据，已经成为行业落地的关键分水岭。</p>\n  <p>在主流的纯视觉感知方案中，传感器仅能捕捉物体外观，无法识别软硬、摩擦系数、受力形变等物理特征，难以支撑机器人预判物体变化。相较之下，融合触觉的物理交互数据，可完整记录瞬时受力、材料属性等关键参数，在模型规模化训练中沉淀物理常识、加速收敛，帮助机器人建立物理因果认知，落地各类精细作业。</p>\n  <p>戴盟的做法是从物理交互数据的采集和标注切入，逐步搭建起覆盖感知、操作、学习的完整技术链路，进而构建能为机器人提供物理常识的世界模型。</p>\n  <p>在认知层面，其模型可以实现视觉与触觉模态的对齐，使机器人能够从图像中推断物体的物理属性，也能从触感中反推物体形态；进入执行阶段，借助高响应频率的触觉反馈，帮助设备在接触发生的毫秒级时间内完成感知、判断与动作修正，形成闭环控制。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260603/v2_4ba21fa16c334f4f9da385d4fae9d9a5@6022551_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">以物理直觉实现串葡萄、放置鸡蛋等精细操作（图源/企业）</p>\n  <p>“机器人要能干活，对物理世界因果的理解和基于真实接触的反馈必不可少。”戴盟机器人CEO段江哗告诉硬氪，一个能跑酷、能翻跟头的机器人，如果它没办法以恰到好处的力度拿起一块海绵擦拭物体，其应用价值将大打折扣。“视觉属于非接触的远端信号，它能告诉你物体在哪里，却无法告诉你接触时，为什么海绵会产生形变，而触觉，正是那个接触瞬间的‘手感’，是判断物理因果、实现精细操作的关键。”</p>\n  <p>但仅有技术和模型还不够。如何以数据闭环与专业评测标准驱动物理世界模型持续迭代，是当前业界面临的另一大挑战。段江哗向硬氪指出，“触觉数据荒的本质在于，视觉的数据表征方式已经相对统一，而触觉没有标准，也缺乏大规模、多模态的真实采集体系。”</p>\n  <p>为解决这一难题，戴盟自建了“外发式”具身数据采集网络，与传统依赖定点实验室、遥操作采集的模式不同，“外发式”采集网络通过将中心化实验室分散，实行分布式社会化采集，可以有效实现场景的真实性、采集效率的质变和边际成本的递减。</p>\n  <p>2026年4月，戴盟机器人已联合包括谷歌DeepMind等数十家海内外头部机构，发布全球最大规模的含触觉全模态物理世界数据集Daimon-Infinity，其中包含了纹理、软硬、力学等接触信息，并开源1万小时供行业免费使用；在数据集基础上，还建立了一套系统化的评测标准，于6月推出支持“真实数据训练+仿真器训练”两种模式、面向物理交互能力的含触觉全模态Benchmark体系RobOmni。</p>\n  <p>人类婴儿通过触摸来认识世界，发展智力。对于即将从工厂走进家庭的机器人而言，这一课也同样无法跳过。在解决了“看得见”和“走得稳”之后，“摸得准”正成为具身智能通往物理世界的最后，也最关键的“一公里”。而戴盟机器人，正试图在这场关于“手感”的技术进程中，定义自己的标准。</p>\n  <p>人类婴儿通过触摸来认识世界，发展智力。对于即将从工厂走进家庭的机器人而言，这一课也同样无法跳过。在解决了“看得见”和“走得稳”之后，“摸得准”正成为具身智能通往物理世界的最后，也最关键的“一公里”。戴盟向硬氪透露，其视触觉传感器出货量目前已居全球第一。它正试图在这场关于“手感”的技术进程中，定义自己的标准。</p>\n  <p><strong>以下为硬氪与戴盟机器人CEO段江哗的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：从感知到执行，具身智能要跨越从“看懂”到“干活”的鸿沟。戴盟的物理世界模型是如何处理视触觉模态融合与底层控制的？在面对复杂操作任务时，这套架构能帮助机器人完成哪些之前做不到的事？</strong></p>\n  <p><strong>段江哗：</strong>我们的模型推理的是物理因果。在模型结构上，我们把物理接触拆成了两层，分别是认知层和执行层。</p>\n  <p>认知层做的事是让视觉和触觉在同一语义空间里双向映射，<strong>这类似于人类的通感。</strong>你看到一颗草莓，不用捏下去就知道草莓会有颗粒感；当你掏钥匙开门，钥匙插进门锁的那一刻，手会挡住视线，在看不到钥匙和锁孔接触状态的情况下，人类会依靠直觉和手感完成操作——有没有插进去、有没有卡住、要不要转一下？我们希望机器人也能做到这件事。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260603/v2_88839848d20a49048347085d1742c11e@6022551_oswg3349491oswg1866oswg1050_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">戴盟机器人用夹爪抓取鸡蛋（图源/企业）</p>\n  <p>执行层有两套机制在同时运行。一套是百赫兹级的高频触觉伺服，类似脊髓反射，不经过上层推理，物体刚开始产生滑移趋势的那一刻，补偿动作就已经发出了，视觉帧还没切换过来。<strong>这好比你在洗碗时，手里沾满洗洁精的盘子刚有一点点滑脱的迹象，你不需要用眼睛去盯着确认，手指就会立刻本能地收紧捏住盘子。</strong></p>\n  <p>另一套是物理世界推理，模型会持续预测未来几步的操作状态，在失误真正发生之前提前给出修正策略。<strong>这好比你单手提着一个水壶往杯子里倒水，随着水流出，壶底的重心在持续变化，你的大脑会根据水的流速，持续预测下一秒壶的重量分布，提前并且平滑地调整手腕的倾斜角度，确保水流自始至终倒得平稳。</strong></p>\n  <p>这两套机制分别对应毫秒级反应和多步前瞻，时间尺度不同，但在同一个任务里协同工作。这是我们相比纯视觉操作模型最重要的结构差异。</p>\n  <p><strong>硬氪：戴盟最近还陆续发布了数据集和面向机器人物理交互能力的Benchmark，这跟你们在做的物理世界模型有什么联系？</strong></p>\n  <p><strong>段江哗：</strong>数据集是燃料，物理世界模型是引擎，Benchmark 是转速表。</p>\n  <p>传统的数据集，不管是视觉的还是仿真的，记录的是“像素变化”或者“轨迹”。但要让机器人理解物理世界，光有这些远远不够。比如一个物体是软的还是硬的？表面是光滑的还是粗糙的？抓握时正压力多大、切向力多大、有没有滑移趋势？这些都属于物理属性信息。Daimon-Infinity数据集中所采集的压力、形变、纹理、刚度、滑移趋势……加起来有十几种模态。</p>\n  <p>最大的难度，不是单独采集某一种模态，而是要把这十几种触觉模态，跟视觉图像、跟动作指令，在毫秒级的时空维度上严格对齐。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260603/v2_d7d3708541eb4c90a5e66a636c31aa6b@6022551_oswg4059125oswg3148oswg1508_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">戴盟机器人实现自主穿葡萄任务（图源/企业）</p>\n  <p>举个例子，机器人手指碰到物体的那一刻，触觉传感器要记录下接触点的压力分布、纹理信息，同时摄像头要记录下这一刻的画面，控制系统要记录下这一刻的关节角度和力矩。<strong>这三者必须在时间上精确到毫秒级同步，否则模型难以学到到正确的因果逻辑。</strong></p>\n  <p>数据有了，模型有了，下一个问题随之而来——怎么判断模型是否真的学到了物理因果？这就是戴盟推出RobOmni的意义。</p>\n  <p>具身领域现有基准评测往往侧重视觉感知模态，重点关注机器人的泛化抓取和长序列规划任务，针对触觉感知模态，接触精细操作的评估标准还没有完善。</p>\n  <p>行业仍然缺乏围绕触觉感知与灵巧操作的标准化评测基准，不同模型与数据之间缺乏统一标准，触觉能力难以量化，模型泛化能力也难以被系统性验证。</p>\n  <p>我们注意到，一些侧重仿真和 Sim2Real 领域的团队，近期也开始引入视触觉融合评估，这恰恰说明整个产业前沿正在达成共识——让机器人真正理解世界并与世界交互，纯视觉是不够的，触觉是绕不过去的。<strong>RobOmni正填补了这一缺口，为物理交互能力提供标准化、可比较、可复现、可扩展的验证入口。</strong></p>\n  <p>没有尺子，就无法度量进步，没有标准，行业就无法形成合力，所以我们要先造一把尺子，再丈量世界。</p>\n  <h4><strong>投资方评论：</strong></h4>\n  <p><strong>汇川产投相关负责人</strong>表示，具身智能要想实现真实场景作业的跨代跃迁，触觉感知补齐物理因果逻辑是必经之路。戴盟机器人是业内极少数从物理因果逻辑出发，以海量视触觉数据驱动，推动物理世界模型在精细操作场景落地的企业，汇川技术长期深耕工业自动化与智能机器人领域，深知多模态感知对精细操作场景的战略价值。未来期待基于汇川的场景与产业认知，与戴盟共同构建具身智能时代的触觉神经网络。</p>\n  <p><strong>中国电信投资公司相关负责人</strong>表示，具身智能想要实现大规模商业化落地，既离不开云端大模型算力的持续迭代升级，也高度依托高精度物理感知能力与多模态数据体系作为支撑。戴盟机器人在视触觉感知赛道深耕积淀，已构建起稳固的核心技术壁垒。作为数字中国建设的中坚力量，中国电信正全力落地 “云改数转智惠” 战略。未来，我们期待与戴盟机器人深度携手，联合打造可落地、可复制的具身智能行业解决方案，共建赋能新质生产力发展的新型数字基础设施，助力加速具身产业高质量发展，实现生态共赢。</p>",
-      "category": "tech",
-      "published_at": "2026-06-04T01:30:00+00:00",
-      "fetched_at": "2026-06-04T03:36:11.998078+00:00",
-      "fingerprint": "f31b4d1f0163b701"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "李宁需要库里，但库里更需要李宁",
-      "url": "https://36kr.com/p/3838185031305474?f=rss",
-      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子</p>\n  <p><strong>编辑 |&nbsp;</strong>张帆&nbsp;</p>\n  <p>一条消息让体育圈炸了锅。</p>\n  <p>6月2日，NBA球星斯蒂芬·库里与中国运动品牌李宁，签下了一为期十年的代言。双方均未披露具体金额，但业内口径相当统一：这是一份总价超过4亿美元（约合27亿元人民币）的超级合同。</p>\n  <p>据多方信息，库里每年保底可获3000万美元的代言费，还能从其个人品牌Curry Brand的销售中得到提成，外加李宁的流通股股权激励。这套“高保底+销售分成+股权”的组合模式，完全对标耐克当年给迈克尔·乔丹的待遇。</p>\n  <p>库里的江湖地位毋庸置疑：他是“NBA历史上最具革命性影响的球员之一”，控卫历史第二，是“小球时代”的奠基人。</p>\n  <p>今年4月，《今日美国》评选“NBA历史25大巨星”，库里排名第四，紧随乔丹、詹姆斯、科比之后。在更多专业体育媒体的排名中，库里多在第十到第十三位。从实力、流量到市场好感度，库里拥有体育品牌渴望的一切。</p>\n  <p><strong>但股价反应却颇为玩味。</strong></p>\n  <p>消息公布当天，李宁盘中高开超7%，涨势只维持了半天。截至6月2日收盘，股价收跌0.79%。紧接着的6月3日，李宁收报17.99港元，两日累计下跌2.07%，股价接近年内最低水平。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_2b3bac6fd08040368f965bd788b233d1@394564713_oswg50881oswg1071oswg567_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来自Wind</p>\n  <p>运动品牌的球星代言价值主要有两种——</p>\n  <p>一是“战力带货”，即靠球星在赛场上的表现直接拉动销售，38岁、濒临退役的库里具有“不确定性”。其二是IP的整体价值，乔丹在退役后，个人品牌依旧大卖，但这需要漫长的时间投入与沉没成本。</p>\n  <p>从这些层面看，李宁此刻签约库里，已错失了这一天才球员的“战力巅峰”期，资本市场也相对厌恶长周期带来的风险。<strong>关键在于，李宁这笔钱花得到底值不值？</strong></p>\n  <p>2013年，李宁和耐克都有意签约库里。当时的库里不过是个刚打出点名气的年轻人，右脚的伤病也让品牌们犹豫。正是此时，安德玛诚意邀约，双方最终以每年400万到500万美元的价格达成合作。后面的故事，堪称体育营销的教科书。</p>\n  <p>随着库里身价飙升，安德玛的篮球业务狂飙突进。2015年，库里一代签名鞋“Curry 1”创下1.6亿美元销售额，安德玛篮球鞋销量当年激增350%，公司整体营收也从2013年的23.3亿美元跃升至40亿美元。<strong>从消费心智看，库里与安德玛的绑定仍然牢固。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_578072eb573645518a7d7d61cf9d2d9c@394564713_oswg91827oswg957oswg627_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片截自官方微博</p>\n  <p>2025年11月，库里与安德玛的合作到期，李宁再度迎来了出手机会。</p>\n  <p><strong>美国著名体育记者沙姆斯·查拉尼亚（Shams Charania）在社交媒体称：“我们之前看到库里穿过不同的鞋，最终让他感觉最舒服的，是德维恩·韦德与吉米·巴特勒的签名鞋款。”</strong></p>\n  <p>这两大产品皆来自李宁。</p>\n  <p>2018年，李宁与即将退役的韦德签下终身合约，为其创立子品牌“韦德之道”（Way of Wade），成为公司运作最成熟、最成功的案例之一。与韦德的合作模式不同，李宁对巴特勒的市场策略更偏职业化，双方共同推出的Jimmy Butler 1代、2代，主打高端实战性能。</p>\n  <p>然而，让库里放弃其他更优渥报价、选择李宁的原因，不仅有队友的推荐。</p>\n  <p>在查拉尼亚补充的表述中，李宁和安踏是最后争夺库里的两个品牌，李宁“后来居上”的原因在于“其给库里的是一种多样化的投资组合，不是一对一的直接签约”。</p>\n  <p>李宁提供的资料也显示，其与库里将共同运营品牌Curry Brand，产品涵盖篮球鞋、高尔夫用品以及运动生活。<strong>双方将以品牌共建为基础，共同探索李宁品牌与库里品牌全球化发展的更多可能。未来，还会推出独立的Curry Brand门店。</strong></p>\n  <p><strong>这些安排都指向一个方向：李宁想让Curry Brand成为下一个Air Jordan。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_7c9a71630f54411cb9911cdbc0ed2b0d@394564713_oswg1221924oswg1266oswg1475_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪根据公开数据不完全统计</p>\n  <p>在中国运动市场，李宁的地位毋庸置疑。其创始人知名运动员的身份，让这一品牌拥有强大的号召力与国民感知力。</p>\n  <p><strong>但没人能复刻Air Jordan的传奇。</strong></p>\n  <p><strong>业内普遍的感知是，Air Jordan的成功既有耐克的孤注一掷，也叠加了“电视霸权时代”以及全球篮球市场高速增长的红利。反观当下，年轻人对篮球赛事的狂热，已不复往昔。</strong></p>\n  <p>从收视数据上看，NBA的困境已经相当明显。2025年，NBA总决赛第一场的电视收视率总数不到1100万，相较于2023年下降了5%。有报道称，2025年NBA总决赛第二场全球观众仅860万人次观看，创下自2007年以来最低纪录。</p>\n  <p>如果说收视率的下降更多来自短视频媒体碎片式的传播分流，体育品牌的财报数据则能更直观地反映出行业下滑的态势。</p>\n  <p>2025年财报显示，李宁篮球品类的流水同比下降19%。这背后既有篮球运动整体处于低迷的现状，也有公司在过去两三年的主动调控。</p>\n  <p>财报会上，李宁集团执行董事、联席CEO钱炜也明确表示，“我们认为保持这样的投入和市场领先占位，也许在篮球品类回暖之前，能够继续快速扩大市场份额”<strong>“篮球品类对于李宁十分重要、万分重要，越是这样的市场环境，我们越是要坚持把品类深耕。”另有内部人士告诉36氪，与库里的签约，被李宁公司内部视作全球化的关键落子。</strong></p>\n  <p>但这份逆势出手的信心，至少在短期内难以在报表上兑现。</p>\n  <p>摩根大通指出，构建一个成熟品牌矩阵至少需要15到18个月，而合同带来的摊销成本和研发支出从2026年就已开始产生。不过摩根大通也认为影响可控，预测李宁今年广告和促销的费用将占总销售额的12%。近年来，这一数据基本控制在9%左右。</p>\n  <p>截至发稿前，包括摩根大通、中金在内的诸多机构，仍给于李宁增持或买入评级。</p>\n  <p>李宁这场“迟来的豪赌”，对标的或许从不是库里剩余的职业生命，而是中国篮球市场乃至全球篮球文化的下一个十年。唯一的问题是，投资者有没有足够的耐心。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260604/v2_2379c9ec57b9453fa40b39c0dae841c4@394564713_oswg68085oswg901oswg518_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">关注获取更多资讯</p>",
-      "category": "tech",
-      "published_at": "2026-06-04T02:39:36+00:00",
-      "fetched_at": "2026-06-04T03:36:11.998061+00:00",
-      "fingerprint": "95cf0df91c6d047c"
-    },
-    {
-      "source": "少数派",
-      "title": "App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio",
-      "url": "https://sspai.com/post/110059",
-      "summary": "既不用安装客户端，也不用学习剪辑，Mockup Studio 帮你轻松制作产品演示视频。<a href=\"https://sspai.com/post/110059\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-03T03:19:02+00:00",
-      "fetched_at": "2026-06-04T03:36:10.115703+00:00",
-      "fingerprint": "050b8fe18607e96a"
-    },
-    {
-      "source": "少数派",
-      "title": "让原生体验「接地气」：Pixel Text 与「原点系列」工具集",
-      "url": "https://sspai.com/post/110458",
-      "summary": "「原点系列」希望能在那些真正影响使用的地方做一些细致的修补，这个名字也代表着我对工具应用的一点执念。一个工具最好有清楚的边界，知道自己要解决什么，也知道自己不应该做什么。<a href=\"https://sspai.com/post/110458\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-06-04T03:36:10.115697+00:00",
-      "fingerprint": "573285c993180715"
-    },
-    {
-      "source": "少数派",
-      "title": "小车车里的大世界：车模收藏入坑指南",
-      "url": "https://sspai.com/post/110114",
-      "summary": "从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只是玩具，也是一种能放在桌面上的汽车梦。<a href=\"https://sspai.com/post/110114\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-03T09:00:00+00:00",
-      "fetched_at": "2026-06-04T03:36:10.115690+00:00",
-      "fingerprint": "552b0268f7de951a"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
-      "url": "https://sspai.com/post/110698",
-      "summary": "OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。<a href=\"https://sspai.com/post/110698\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-04T00:36:32+00:00",
-      "fetched_at": "2026-06-04T03:36:10.115678+00:00",
-      "fingerprint": "9b1236f01302808c"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.8477 CNY ↓-0.18%",
-      "url": "https://www.frankfurter.app/2026-06-03?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-06-03</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.8477 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0088 (-0.18%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-06-04T03:36:08.665860+00:00",
-      "fingerprint": "d6c7f1f89f2d581a"
     }
   ]
 }
