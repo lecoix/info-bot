@@ -1,4 +1,9 @@
 {
+  "001317287cdd9d97": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "Hacker News Front Page",
+    "title": "US Government directive to suspend access to Fable 5 and Mythos 5"
+  },
   "003ae3b5cb47eac2": {
     "first_seen": "2026-05-22T02:53:46.134276+00:00",
     "source": "BBC World News",
@@ -73,6 +78,11 @@
     "first_seen": "2026-06-04T03:36:15.119539+00:00",
     "source": "少数派",
     "title": "App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio"
+  },
+  "0525423c9c1ef9c8": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "從經濟學角度看，這是最離譜的一屆世界盃"
   },
   "059af37ce65b2e8b": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
@@ -183,6 +193,11 @@
     "first_seen": "2026-05-18T02:53:29.173621+00:00",
     "source": "BBC 中文 - 头条",
     "title": "科學家如何反擊佔領城市下水道的「脂肪山」"
+  },
+  "0db7a2aedb800152": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Renault: Electric motors with no rare earths"
   },
   "0e31ef2dfc5d8a9d": {
     "first_seen": "2026-06-02T03:33:40.756504+00:00",
@@ -429,6 +444,11 @@
     "source": "Hacker News Front Page",
     "title": "Upcoming breaking changes for npm v12"
   },
+  "1a124fc9f4a7572b": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "The Verge",
+    "title": "Siri is good now??"
+  },
   "1a3d806a851eb6a3": {
     "first_seen": "2026-06-09T02:44:13.319452+00:00",
     "source": "少数派",
@@ -644,6 +664,11 @@
     "source": "Hacker News Front Page",
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency"
   },
+  "26f04deac62bbda8": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "Hacker News Front Page",
+    "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5"
+  },
   "27104774dcbdeeea": {
     "first_seen": "2026-06-12T03:32:07.711422+00:00",
     "source": "澳元兑人民币 (AUD/CNY)",
@@ -853,6 +878,11 @@
     "first_seen": "2026-05-25T02:59:08.846781+00:00",
     "source": "The Verge",
     "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day"
+  },
+  "377df49961d2edfe": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "The Verge",
+    "title": "Valve just imported 13 tons of VR headsets in one day"
   },
   "37fcd5770f8803cd": {
     "first_seen": "2026-06-02T03:33:40.756504+00:00",
@@ -1284,6 +1314,11 @@
     "source": "BBC World News",
     "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests"
   },
+  "593643d0b780530c": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "特朗普稱伊朗停戰協議接近完成，德黑蘭稱未有定案"
+  },
   "59a48a39cac95376": {
     "first_seen": "2026-05-25T02:59:08.846781+00:00",
     "source": "Hacker News Front Page",
@@ -1463,6 +1498,16 @@
     "first_seen": "2026-06-09T02:44:13.319452+00:00",
     "source": "The Verge",
     "title": "Apple’s Screen Time updates are too little, too late"
+  },
+  "670284bd114ab361": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "澳元兑人民币 (AUD/CNY)",
+    "title": "1 AUD = 4.7573 CNY ↑+0.31%"
+  },
+  "6759c72f41be88ed": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "BBC World News",
+    "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM"
   },
   "678ba305487f720a": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -1719,6 +1764,16 @@
     "source": "Hacker News Front Page",
     "title": "Using Kagi Search with Low Vision"
   },
+  "7910487719beb023": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "BBC World News",
+    "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut"
+  },
+  "7951834d79930bf7": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中"
+  },
   "7971729b314c86be": {
     "first_seen": "2026-06-06T02:45:16.695266+00:00",
     "source": "36氪 - 最新文章",
@@ -1799,6 +1854,11 @@
     "source": "The Guardian - World",
     "title": "Mali’s forces target rebel alliance in junta’s fight to keep power"
   },
+  "7fff60842aff5b45": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "The Verge",
+    "title": "The world’s first trillionaire is a killer"
+  },
   "800b842b25f4d176": {
     "first_seen": "2026-06-07T03:28:31.384207+00:00",
     "source": "BBC World News",
@@ -1818,6 +1878,11 @@
     "first_seen": "2026-05-27T02:58:22.057271+00:00",
     "source": "Hacker News Front Page",
     "title": "Cloudflare Flagship"
+  },
+  "81122a35696eee98": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Open Source AI Must Win"
   },
   "816afc3ab238c4c8": {
     "first_seen": "2026-05-28T02:45:19.382932+00:00",
@@ -1854,6 +1919,11 @@
     "source": "36氪 - 最新文章",
     "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发"
   },
+  "85a8a7cbd0f7b013": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "「沒想過他們這麼有錢」：台灣民間網站揭露多名立委、議員持股上億元"
+  },
   "85af697e6685d16a": {
     "first_seen": "2026-06-09T02:44:13.319452+00:00",
     "source": "BBC 中文 - 头条",
@@ -1878,6 +1948,11 @@
     "first_seen": "2026-06-01T03:36:39.628438+00:00",
     "source": "BBC World News",
     "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival"
+  },
+  "87c83f9dbd83833c": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖"
   },
   "886e05ecfe83c310": {
     "first_seen": "2026-05-29T02:48:45.372909+00:00",
@@ -1968,6 +2043,11 @@
     "first_seen": "2026-05-26T02:46:57.448592+00:00",
     "source": "Hacker News Front Page",
     "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)"
+  },
+  "919fd6157ff02963": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”"
   },
   "922a4400f5804ed1": {
     "first_seen": "2026-06-07T03:28:31.384207+00:00",
@@ -2063,6 +2143,11 @@
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "The Verge",
     "title": "LG will release the first 1000Hz, 1080p gaming monitor this year"
+  },
+  "98687d60943b5869": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "重慶虐狗風波：上百人集會抗議被清場，中國立法反虐待動物有多難？"
   },
   "9875ca820ae9a079": {
     "first_seen": "2026-06-06T02:45:16.695266+00:00",
@@ -2384,10 +2469,20 @@
     "source": "BBC 中文 - 头条",
     "title": "特朗普稱因波斯灣國家請求，取消對伊朗新一波攻擊"
   },
+  "aaf5aaf1ffab8133": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "BBC World News",
+    "title": "French town buries murdered child as questions mount over police failings"
+  },
   "ab6ac81837c22f2c": {
     "first_seen": "2026-05-22T02:53:46.134276+00:00",
     "source": "The Guardian - World",
     "title": "Macron says France must address issue of reparations for its role in slave trade"
+  },
+  "ab6f9ed0f64c521f": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "少数派",
+    "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点"
   },
   "abf0f0d3c66b3596": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -2534,6 +2629,11 @@
     "source": "Hacker News Front Page",
     "title": "It is time to build a new internet"
   },
+  "b60e25b59abda56e": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "少数派",
+    "title": "本周看什么 | 最近值得一看的 10 部作品"
+  },
   "b6560a3dbe91c622": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
     "source": "The Guardian - World",
@@ -2603,6 +2703,16 @@
     "first_seen": "2026-06-08T03:34:09.641731+00:00",
     "source": "The Verge",
     "title": "The 7 biggest storylines from Summer Game Fest 2026"
+  },
+  "bb3b00d68de46eca": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "少数派",
+    "title": "把 AI 装进口袋，然后把它忘掉：\nYoooClaw C·ONE 智能硬件一个月使用体验"
+  },
+  "bba2eafb4452a7f5": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍"
   },
   "bc3a11740e76d9e6": {
     "first_seen": "2026-06-06T02:45:16.695266+00:00",
@@ -2749,6 +2859,11 @@
     "source": "BBC 中文 - 头条",
     "title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄?"
   },
+  "c436788f12c6bd10": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "The Verge",
+    "title": "Nothing CEO says phone prices are going to keep going up"
+  },
   "c4440caa4259848a": {
     "first_seen": "2026-06-05T02:58:23.173124+00:00",
     "source": "BBC 中文 - 头条",
@@ -2763,6 +2878,11 @@
     "first_seen": "2026-06-07T03:28:31.384207+00:00",
     "source": "The Verge",
     "title": "The first Story-Rich showcase was packed with narrative-driven games"
+  },
+  "c51308ffc96a08ec": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "BBC World News",
+    "title": "Deal to end fighting would lead to Hormuz reopening, Iran says"
   },
   "c59cd404bf4a0b91": {
     "first_seen": "2026-06-08T03:34:09.641731+00:00",
@@ -2798,6 +2918,11 @@
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "Hacker News Front Page",
     "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp"
+  },
+  "c8fc360edff6e943": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite"
   },
   "c988336cfd82142b": {
     "first_seen": "2026-06-02T03:33:40.756504+00:00",
@@ -3214,6 +3339,11 @@
     "source": "36氪 - 最新文章",
     "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖"
   },
+  "ebf1f52f50bcf284": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "少数派",
+    "title": "WWDC 26 发布会上，Apple 没告诉你的那些事"
+  },
   "ec01d4e85b73bc7e": {
     "first_seen": "2026-05-22T02:53:46.134276+00:00",
     "source": "澳元兑人民币 (AUD/CNY)",
@@ -3393,6 +3523,11 @@
     "first_seen": "2026-06-08T03:34:09.641731+00:00",
     "source": "BBC 中文 - 头条",
     "title": "「鮮血凝成的友誼」：中國與朝鮮愛恨交織的關係"
+  },
+  "fb03bcd6764938f0": {
+    "first_seen": "2026-06-13T02:56:58.864115+00:00",
+    "source": "Hacker News Front Page",
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers"
   },
   "fb5ac42330348230": {
     "first_seen": "2026-06-02T03:33:40.756504+00:00",
