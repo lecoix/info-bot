@@ -1,7 +1,217 @@
 {
-  "updated_at": "2026-06-13T02:56:55.924015+00:00",
-  "count": 182,
+  "updated_at": "2026-06-14T03:34:55.218382+00:00",
+  "count": 187,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+      "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
+      "category": "politics",
+      "published_at": "2026-06-13T22:17:08+00:00",
+      "fetched_at": "2026-06-14T03:34:54.866149+00:00",
+      "fingerprint": "c27caf17ca49b3d5"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Nigerian author accuses hospital of stalling review into her son's death",
+      "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+      "category": "politics",
+      "published_at": "2026-06-14T01:08:20+00:00",
+      "fetched_at": "2026-06-14T03:34:54.866144+00:00",
+      "fingerprint": "6c04c9f8ae9cd3bf"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+      "category": "politics",
+      "published_at": "2026-06-13T11:47:42+00:00",
+      "fetched_at": "2026-06-14T03:34:54.866139+00:00",
+      "fingerprint": "a9603746d5729ff0"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+      "category": "politics",
+      "published_at": "2026-06-13T18:39:26+00:00",
+      "fetched_at": "2026-06-14T03:34:54.866128+00:00",
+      "fingerprint": "777939417310bcf8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "世界盃2026：足球會否終於「征服美國」，還是反過來？",
+      "url": "https://www.bbc.com/zhongwen/articles/cz6vlevx5qno/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "足球在美國日漸普及，背後受多元球迷群體和數碼增長推動，長期佔據主導地位的美國女子足球隊也扮演核心角色。不過，關於參與門檻和身份認同的問題仍然存在。",
+      "category": "politics",
+      "published_at": "2026-06-13T07:00:04+00:00",
+      "fetched_at": "2026-06-14T03:34:54.781544+00:00",
+      "fingerprint": "961bd5ecb14f666a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "厄爾尼諾：多國科學家宣佈新一輪酷熱天氣正在到來",
+      "url": "https://www.bbc.com/zhongwen/articles/cly0ne5y8x5o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國機構宣佈，熱帶太平洋目前正出現厄爾尼諾現象，近幾個月海面溫度已急劇上升。許多預測顯示，這次事件最終可能形成所謂的「超級」厄爾尼諾現象，甚至可能是有紀錄以來最強之一。",
+      "category": "politics",
+      "published_at": "2026-06-14T03:12:29+00:00",
+      "fetched_at": "2026-06-14T03:34:54.781512+00:00",
+      "fingerprint": "aa5ab2e56bfcc8b1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-14T03:34:54.354522+00:00",
+      "fingerprint": "188c9b7d0fe7468b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-14T03:34:54.354399+00:00",
+      "fingerprint": "edd51c7262a457d9"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-14T03:34:54.354273+00:00",
+      "fingerprint": "f631f0bc3a4a209c"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-14T03:34:54.354154+00:00",
+      "fingerprint": "829c770a3d05c26f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
+      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-14T03:34:54.354021+00:00",
+      "fingerprint": "a42b7bc2acc308ba"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. A new report from The Information suggests that Microsoft has [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-13T16:29:47+00:00",
+      "fetched_at": "2026-06-14T03:34:54.187561+00:00",
+      "fingerprint": "15a4a63b4182ebc9"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+      "summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-13T18:37:21+00:00",
+      "fetched_at": "2026-06-14T03:34:54.187555+00:00",
+      "fingerprint": "c967cdae1eed2444"
+    },
+    {
+      "source": "The Verge",
+      "title": "X-Men ’97 has what Master of the Universe is missing",
+      "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+      "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutants into an apocalyptic future. [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-13T20:00:00+00:00",
+      "fetched_at": "2026-06-14T03:34:54.187550+00:00",
+      "fingerprint": "f9f0de4f13c36e94"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-13T21:39:26+00:00",
+      "fetched_at": "2026-06-14T03:34:54.187540+00:00",
+      "fingerprint": "c8120a3f312c3589"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+      "url": "https://36kr.com/p/3851073239372809?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_92aaa336bcb4400e8d6697c9d789b56c@5579416_oswg209725oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">飞向宇宙、浩瀚无垠</p>\n  <p><strong>作者｜曹思颀</strong></p>\n  <p><strong>编辑｜靖宇</strong></p>\n  <p>6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。</p>\n  <p>在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」</p>\n  <p>这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 750 亿美元；开盘即涨，盘中一度冲过 176 美元，市值短暂站上 2 万亿美元。</p>\n  <p>从 2002 年因为买不到火箭而被迫创业，到如今完成人类商业史上最��的 IPO，这 24 年的旅程里，有大量反直觉、反共识的故事。</p>\n  <p>这家公司名义上造火箭，但火箭业务并不赚钱；它最出圈的成就是回收火箭，但撑起估值的是另外两个故事——星链，和刚刚写进招股书的「太空算力」。</p>\n  <p>我们整理了其中 15 个最具代表性的小故事，希望可以帮助你建立起对 SpaceX 更全面的了解。</p>\n  <h2><strong>1. SpaceX 的起点，来自一位商业新贵的「公关行为」</strong></h2>\n  <p>2001 年，刚从 PayPal 套现的马斯克想自掏腰包做一个叫「火星绿洲」的舆论工程：花一两千万美元一个迷你温室送上火星，拍下绿色植物长在红色土地上的照片，以此让国会增加给 NASA 的预算。</p>\n  <p>但他被运费卡住了。欧洲火箭太贵，三赴莫斯科买退役洲际导弹又被当成外行打发。</p>\n  <p>在后来的多次公开演讲以及媒体采访中，马斯克表示，受挫之后他认为卡住人类通往火星的既非公众意愿，也非国会预算，而是火箭的价格本身。于是「帮 NASA 募捐」变成了「自己把火箭做便宜」。</p>\n  <p>2002 年，SpaceX 正式成立。</p>\n  <h2><strong>2. 前六年，这家公司一直在「失败」</strong></h2>\n  <p>2002 到 2008 年，Falcon 1 前三次发射全部失败。</p>\n  <p>那个年代，造火箭的 know-how 全部锁在国家航天体制内。SpaceX 既买不到图纸，也雇不到人。马斯克后来自述时调侃说：他出任公司的首席工程师是因为「优秀的人都不愿意来」。</p>\n  <p>更残酷的是火箭的物理属性：它无法在地面上充分调试，唯一的学习方式就是发射、炸掉、再来。「三连败」是一家公司用实弹自学航天的学费——只是这份学费按千万美元计价，而马斯克的钱只够交四次。</p>\n  <h2><strong>3. 第四发成功，开启了「商业航天」时代</strong></h2>\n  <p>2008 年 9 月 28 日，Falcon 1 第四次发射成功——人类第一枚由私人资金研发的液体燃料火箭进入地球轨道。</p>\n  <p>在此之前，「航天」默认是国家的游戏：花钱的是政府，干活的是体制。</p>\n  <p>三个月后，NASA 把 16 亿美元的国际空间站货运合同（CRS）交给了这家刚刚死里逃生的公司。「商业航天」作为一个行业，这一天才算正式出生。</p>\n  <h2><strong>4. 商业航天的新玩法</strong></h2>\n  <p>传统航天采购是「成本加成」（cost-plus）：承包商花多少报多少，政府再加一笔利润——花得越多，赚得越多，没有任何人有动力省钱。</p>\n  <p>NASA 在商业货运项目（COTS/CRS）里给 SpaceX 的是固定价合同：一口价，省下的都是你的，超支的自己扛。这个看似枯燥的采购条款，才是商业航天真正的制度起点，它第一次让「把火箭做便宜」变成一门有利可图的生意。</p>\n  <p>SpaceX 后来贯穿始终的成本执念，一半是天性，一半是这纸合同逼出来的。</p>\n  <h2><strong>5. 可回收技术：让甲方心甘情愿地为「不靠谱的技术」掏钱</strong></h2>\n  <p>2015 年 12 月 21 日，Falcon 9（猎鹰 9 号）一级火箭第一次成功降落回地面——距公司成立整整 13 年。</p>\n  <p>在此之前，SpaceX 对回收的执念经历过漫长的试验和失败：2010 年 Falcon 9 头两次飞行， 就尝试过用降落伞回收一级火箭——火箭还没来得及开伞， 就在重返大气层时解体了。2013 年起改用反推动力方案， 此后两年多， 先后近十次尝试：有的在海面上硬摔， 有的在驳船甲板上爆炸、倾倒， 没有一枚完整地回来。</p>\n  <p>但这些试验几乎都不是自费专项测试， 而是搭在客户的付费发射上——同一枚火箭， 既执行任务， 又做实验。客户的载荷在前半程送入轨道， 钱货两讫；送完货的一级火箭， 按行业惯例本就是扔进大海的垃圾，SpaceX 拿它顺路练降落。</p>\n  <p>马斯克的「算盘」是：炸了， 炸的是垃圾；成了， 航天史改写。所以，其实是 SpaceX 用 NASA 的订单作为奖学金， 免费读完了「可回收」这个学位。如今 Falcon 9 任务成功率约 99.4%，2025年，Falcon 9系列共发射165次，其中助推器回收仅失手3次。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_543a3bf284e9409198b85d7f2b6a5f11@5579416_oswg873458oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">猎鹰9号火箭进行商业发射 | 图片来源：SpaceX</p>\n  <h2><strong>6. 今天的 SpaceX：星链（StarLink）赚钱养 AI</strong></h2>\n  <p>招股书显示，2025 年 SpaceX 总营收 187 亿美元，净亏损 49 亿美元。</p>\n  <p>但按分部拆开，故事完全不同：星链所在的连接业务一年贡献约 44 亿美元经营利润，是全公司唯一盈利的板块；火箭所在的太空业务小亏约 6.6 亿——主要因为往星舰研发砸了约 30 亿美元。</p>\n  <p>真正的大窟窿是并表进来的 xAI：一年经营亏损约 64 亿美元，一家就吞掉星链的全部利润还不够。</p>\n  <p>换句话说，如果只看「老 SpaceX」（火箭＋星链），它已经是一家赚钱的公司；让它重新「亏损」的，恰恰是它为下一个故事买入的 AI。</p>\n  <h2><strong>7. 星链是马斯克为可回收火箭提前布局的「内部甲方」</strong></h2>\n  <p>2015 年 1 月，马斯克公开宣布星链计划（StarLink），它是 SpaceX 用成千上万颗低轨小卫星组成的「天上的宽带网」， 向地面用户卖上网服务——尤其是海上、荒野、偏远地区这些光纤和基站够不到的地方。</p>\n  <p>同年 12 月，Falcon 9 才第一次成功着陆。也就是说，在「便宜的火箭」被证明之前，「便宜火箭的客户」已经内部立项了。</p>\n  <p>这不是巧合，是同一道算术题的两半：全球火箭发射市场一年只有五六十亿美元，且过去十年没有太大变化。所以便宜的运力放到这个市场里根本吃不饱；反过来，要给全球铺一张几千上万颗卫星的网，没有便宜的运力，账根本算不过来。</p>\n  <h2><strong>8. 星舰还没成功，它的「买方市场」已经换过一轮了</strong></h2>\n  <p>同样提前下注的故事发生在下一代重型火箭星舰（Starship）上。</p>\n  <p>2014 年，SpaceX 在得州博卡奇卡为星舰基地奠基——那一年，Falcon 9 连一次回收都还没成功。上一代未落地，下一代已动工。</p>\n  <p>更值得注意的是甲方的变迁：星舰最初的叙事是「人」——火星移民、太空旅行，马斯克讲了很多年；而太空算力概念兴起后，星舰的头号甲方悄然换成了「数据中心」。</p>\n  <p>逻辑没变：猎鹰 9 配约 20 吨级近地轨道运力，甲方是星链；星舰规划运力 100—150 吨（近地轨道、规划值），游客消耗不了这么大的运力，但太空数据中心需要的设备也许可以。</p>\n  <p>火箭每大一号，马斯克就得给它们「创造」一个商业层面更大的甲方。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_aa5f9d67052e4c56bbc0ac1413f12246@5579416_oswg608949oswg1080oswg588_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">星舰V3首次升空，一共搭载了33台猛禽V3助推器 | 图片来源：SpaceX</p>\n  <h2><strong>9.「筷子夹火箭」</strong></h2>\n  <p>2024 年 10 月 13 日， 星舰第五次试飞， 发射塔上两条机械臂在半空中夹住了缓缓下落的助推器， 全网刷屏。</p>\n  <p>此前，猎鹰 9 证明了火箭能「收回来」， 也能「再飞」——但每次回来要出海打捞、返厂翻修， 周期以周计， 本质上还是「修好再用」。而星舰要的是另一件事：像飞机一样， 落地、检查、加注、再起飞。</p>\n  <p>着陆腿是死重， 占运力；落在远处就要运输。让助推器直接回到发射塔的怀里， 意味着它落下来的地方就是它再次起飞的地方——中间环节被压到极限， 周转目标从「周」变成「小时」。</p>\n  <p>所谓「筷子夹火箭」，实际是指出了 SpaceX 眼中火箭的终极形态：从能回收， 到「航班化运行」。</p>\n  <h2><strong>10. 未必需要「国产星链」，但一定需要「国产运力」</strong></h2>\n  <p>「中国版 StarLink」是个流行叙事，但有个常被忽略的事实：星链解的是「地面基站够不到」的题——海上、荒野、地广人稀之处；而中国恰恰拥有全球覆盖最强的地面通信网络，星链式服务在国内的体感天然有限。</p>\n  <p>真正的命题在另一层：卫星不止通信一种用途——遥感、导航、未来的太空算力，每一样都需要把大量的东西便宜地、高频地送上天。</p>\n  <p>换句话说，中国可以不复制星链这个「产品」，但绕不开星链背后那个「运力」。对对中国商业航天而言，「要不要一张天上的网」并不是最核心的那个问题，「有没有织网的手」才是。</p>\n  <h2><strong>11. 打破「永不 IPO」的 flag</strong></h2>\n  <p>SpaceX 曾是硅谷最坚定的「永不 IPO」公司。马斯克的公开理由是，资本市场的短期主义和火星这种超长期目标不兼容。</p>\n  <p>转折发生在去年四季度：星链的用户增长和单用户收入都看得到天花板，而「太空算力」这个新故事的资本开支，大到只有公开市场才接得住。</p>\n  <p>招股书披露，仅 2026 年一季度，AI 业务的资本开支就超过了太空和连接两个板块之和。</p>\n  <p>所以，上市不是终点庆典，而是下一轮豪赌的融资动作。</p>\n  <h2><strong>12. 太空算力是「共识」，细节还是未知数</strong></h2>\n  <p>太空算力的概念虽然新，但却是科技行业在过去半年迅速达成的超级共识，几乎没有人再公开唱反调。</p>\n  <p>但往下追问一层，所有技术细节似乎都没有共同的答案：</p>\n  <p>太空数据中心长什么样？没有公开的产品定义。它算什么数据、数据从哪来？也没人知道。</p>\n  <p>借 AI 行业经典的三要素说——算法在地面狂奔，但「数据」和「算力部署」在太空语境下都还是空白。预训练还是推理？两者对供电、散热、组网的要求完全不同，对应的卫星设计也完全不同。一个被万亿资金定价的方向，连产品形态都还没收敛。</p>\n  <p>当然，如果换个角度看，这恰恰意味着牌桌上还有大量空座还没占。</p>\n  <h2><strong>13. 硅谷为「太空算力」掏出了真金白银</strong></h2>\n  <p>硅谷各大超级巨头对太空算力的支持，没有只停留在嘴上。</p>\n  <p>马斯克通过一次涉及万亿级资产的公司重组，合并了 SpaceX 和 xAI 两家公司。招股书写明，最早 2028 年部署在轨数据中心。</p>\n  <p>谷歌立项「捕日者计划」（Project Suncatcher）：发表技术论文、计划发射两颗搭载自研 TPU 的原型卫星，并在和 SpaceX 洽谈发射合同。</p>\n  <p>贝索斯的蓝色起源 2026 年 3 月向美国联邦通信委员会递交了 51600 颗数据中心卫星的「日出计划」申请。</p>\n  <p>前谷歌 CEO 施密特 2025 年收购火箭公司 Relativity Space，公开目的就是把数据中心送上轨道。</p>\n  <p>英伟达参投的 Starcloud，已于 2025 年 11 月把一块 H100 芯片送入轨道并完成在轨模型训练。</p>\n  <p>买公司、并资产、递牌照、发卫星——大家的基建竞赛已经开工。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_2f062e129bd34d5191bf67ab7c07e80c@5579416_oswg627233oswg1080oswg605_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">硅谷初创公司 Starcloud 2025 年 11 月搭载 NVIDIA H100 GPU 入轨 | 图片来源：Starcloud</p>\n  <h2><strong>14. 冰冷的成本账</strong></h2>\n  <p>有航天工程师做过公开测算：建一个 1 吉瓦的轨道数据中心（约 4300 颗卫星、含五年运营），总成本超过 500 亿美元——约为地面同等规模的三倍。</p>\n  <p>要把这笔账翻过来，业内普遍的测算是入轨成本须压到每公斤约 200 美元以内，而今天 Falcon 9 对应的发射成本（请注意，「发射成本」和「入轨成本」并不完全相同）在每公斤约 2000—3000 美元。两者相差至少一个数量级。</p>\n  <p>这个数量级，需要星舰这样的二级可回收重型火箭来补课降成本。所以太空算力的时间表，是和星舰的进展深度绑定的。故事的真假，最终要用焊枪和发射台来验。</p>\n  <h2><strong>15. 更大的故事</strong></h2>\n  <p>回看 SpaceX 的成长史，它用一个买不到便宜火箭的客户，被逼成了乙方；然后又造出了自己的甲方（星链）；现在它为下一代火箭预订了一个更大的甲方（太空算力）。</p>\n  <p>过去 24 年里， 它把火箭可回收技术和星链这两个兑现前没人相信的故事变成了现实。今天，太空算力这张还没兑现的期票，以约 1.75 万亿美元的目标估值出现在了公开市场。</p>\n  <p>这次的故事比之前更大， 票价也更贵。</p>\n  <p>在我们的最新一期播客节目里，极客公园创始人张鹏进一步讲述了 2014 年马斯克第一次来华两人畅聊商业航天的逸事，太空算力投资人翟光龙则深入分析了太空算力对整个科技行业带来的影响和机会，欢迎扫码收听。</p>\n  <p>*头图来源：SpaceX</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/lpTceYXQoxlhbhPOBLBhSA\" rel=\"noopener noreferrer\" target=\"_blank\">“极客公园”</a>，作者：曹思颀，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-06-13T04:08:19+00:00",
+      "fetched_at": "2026-06-14T03:34:54.026229+00:00",
+      "fingerprint": "898f3bc090847a5e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "“宁王系”，排队 IPO",
+      "url": "https://36kr.com/p/3851106394117383?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_58350c4bd51f4d4996cf27cd413e3d9a@5579416_oswg103747oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">越来越多CVC在路上</p>\n  <p>作者 |&nbsp;冯晓亭&nbsp;</p>\n  <p>&nbsp;编辑 | 吾人&nbsp;</p>\n  <p>来源 |&nbsp;融中财经&nbsp;</p>\n  <p>宁德时代，又出手了。</p>\n  <p>近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”）认购中恒科技投资新增注册资本。</p>\n  <p>中恒电气表示，自《战略投资合作框架协议》签署后，各方基于框架协议达成的基本合意，共同推动有关中恒科技投资增资、公司与宁德时代形成战略业务合作关系等具体事宜的洽谈、磋商工作，目前相关工作仍在有序推进中。</p>\n  <p>值得一提的是，这并非宁德时代今年在资本市场首次出手。</p>\n  <p>公开数据显示，今年以来，宁德时代宣布入股的上市公司还有富临精工、赛力斯旗下的赛豆科技、世纪互联等。除此之外，今年3月，天眼查工商信息显示，博裕新智新产（宁波）股权投资合伙企业（有限合伙）发生工商变更，新增十余家投资方，其中便有宁德时代的身影；4月，宁德时代发布公告，拟设立全资子公司“时代资源集团”，后者定位为公司新能源矿产领域的专业投资运营与管理平台……凡此种种，不胜枚举。</p>\n  <p>且从宁德时代出手项目所涉猎的赛道来看，与自己的动力电池主业几乎没有直接关联。由此可见，现市值超万亿元的“宁王”从产业链协同投资，正转向更广阔的生态圈布局，未来也将有越来越多的“宁王系”企业推开二级市场大门。</p>\n  <p>而跨界进行投资布局的宁德时代并非孤例。放眼望去，越来越多产业龙头正做出相似的战略选择。在传统股权投资机构募资困难、退出遇阻的背景下，以产业龙头为核心的CVC，正逐渐成为中国创新资本市场不可忽视的一支力量。</p>\n  <h2><strong>41亿元，宁王入股中恒电气</strong></h2>\n  <p>这笔交易，前后历时两个月时间。</p>\n  <p>早在今年4月，中恒电气发布公告称，公司控股股东中恒科技投资拟接受宁德时代对其进行增资。拟议增资完成后，中恒科技投资控股股东朱国锭和包晓茹，以及宁德时代分别持有中恒科技投资35.70%股权和15.30%股权、49.00%股权。受此利好消息影响，公告发布次日开盘，中恒电气一字涨停。</p>\n  <p>谈及下一步规划，中恒电气在公告中表示，“各方发挥各自在相关领域的核心竞争力和资源优势，促进宁德时代与中恒电气围绕绿色ICT基础设施、交通电动化、新型电力系统（算电协同）等领域开展相关业务及战略合作，整合资源禀赋，赋能公司发展。”</p>\n  <p>要了解双方为何跨界联手，得先从认识中恒电气说起。</p>\n  <p>作为一家专注于零碳智能社会建设的数字能源公司，中恒电气深耕高压直流技术路线。公司主营业务涵盖数据中心与站点能源、数字电网与综合能源服务等领域，是数据中心HVDC（高压直流）供电技术方案的行业先行者，核心产品包括数据中心HVDC直流供配电、预制化Panama电力模组、通信电源系统、电力操作电源系统等，目前已广泛应用于互联网、第三方colo、智算中心、超算中心、通信运营商、金融政企等数据中心场景。</p>\n  <p>虽然名声不显，但国内HVDC行业集中度高，主要有中恒电气、维谛技术等，其中中恒电气凭借客户壁垒与技术优势成市占率第一企业，头部效应有望延续。</p>\n  <p>目前，AIDC（人工智能数据中心）投资进入高速扩张周期，数据中心供配电市场广阔。全球主要云厂商资本开支已进入放量期，以亚马逊、微软、谷歌、Meta为代表的海外头部云厂商单季度资本开支总额均在持续攀升，增长显著。资本开支的增量主要投向AI基础设施，驱动AIDC投资进入高速扩张周期。供配电系统作为AIDC的底层支撑，其投资规模与云厂商资本开支增长呈强正相关，变压器、HVDC、UPS、开关柜等关键设备需求将同步增长。</p>\n  <p>与此同时，随着AI大模型的训练与推理需求快速扩张，数据中心的用电量和供电稳定性要求也在同步攀升，配储也相应成为刚需。配储这个场景，恰恰是宁德时代的主场。</p>\n  <p>双方联手后，可协同解决AI智算中心绿电适配、峰谷调节等核心痛点，共同打造从绿电生产到储能、高效供电、算力消耗的全链路解决方案。简单说，宁德时代的储能系统可以跟着中恒的HVDC，顺着数据中心的渠道，进入一座又一座机房。在此之前，宁德时代便和商汤科技合作，在上海落地了临港智算中心（AIDC），共同建设了一套规模为17.888MW的储能系统，成为算电协同跑通的标杆项目之一。</p>\n  <p>至于宁德时代和中恒电气交易达成后会擦出怎样的火花，我们不妨拭目以待。</p>\n  <h2><strong>“宁王系”，遍布资本市场</strong></h2>\n  <p>跨界入股上市公司，对宁德时代而言并非新鲜事。</p>\n  <p>今年以来，宁德时代便以“股权投资+业务合作”的战略投资模式，直接或间接入股多家上市公司。1月，宁德时代和富临精工合作，双方意在加强在新能源产业的深度合作，同时在新兴产业领域构建务实合作格局，实现更深层次的资源整合与战略合作；5月，美股上市公司世纪互联发布公告表示，宁德时代关联公司PJ Millennium，以9.42亿美元（约合64亿元人民币）收购了该公司约6.5亿股A类普通股，有望成为该公司的第一大股东……</p>\n  <p>入股上市公司仅是宁德时代投资版图的冰山一角，在投资圈内，它早已是CVC领域的“老手”，于水面之下构筑起了一座横跨产业链上下游的庞大投资帝国。</p>\n  <p>企查查数据显示，宁德时代对外投资了158家企业，间接持股企业数量更是数以万计，<strong>通过投资，宁德时代的触手深入锂电原材料、整车、新能源、航空航天、具身智能等多个前沿赛道。直投项目中，先导智能、奇瑞汽车、首航新能、极氪汽车、日联科技、微导纳米等项目已成功IPO。</strong>与此同时，还有大批“宁王系”项目，站在二级市场门外，等待IPO。</p>\n  <p>与此同时，晨道资本、一村资本、恒旭资本、博裕资本、高瓴创投、国策投资、中金资本、普洛斯隐山资本、溥泉资本等多家投资机构的背后，都有宁德时代的身影。</p>\n  <p>其中，溥泉资本由宁德时代CVC“宁德时代新能源产业投资有限公司”持股，是后者的核心产业投资平台。据了解，溥泉资本旗下时代泽远基金历经多轮扩募，目前规模已百亿元，聚焦新能源、新能源汽车产业链、储能、机器人、高端制造、半导体芯片六大核心方向。截至目前，基金已落地近30个优质项目，累计投资金额近60亿元，单个项目平均投资额超2亿元。</p>\n  <p>团队充分发挥产业资本优势，以大比例、低成本方式入局，深度赋能产业链上下游企业。依托宁德时代深厚的产业协同能力，溥泉资本打造了特色化产投模式：一方面深度布局硅碳负极、电池管理系统、能源管理系统等锂电配套企业；另一方面发力通用机器人、智能机械手、自动驾驶矿车等高端制造领域。目前多个被投企业已启动上市申报工作，不少项目即将登陆港股、A股，投资成果丰硕。与此同时，机构同步推进并购基金、早期科技基金、海外美元基金布局，构建起多层次、全周期的投资体系，全面覆盖资源并购、早期科创、成熟项目投资等多个领域。</p>\n  <p>在溥泉资本投资项目中，独角兽银河通用机器人近日可谓风光无两，于今年3月正式宣布完成新一轮25亿元融资。值得关注的是，本次融资也是大基金通过国家人工智能产业投资基金首次出手投资具身智能赛道企业。</p>\n  <p>在宁德时代做LP这条路上，最新一幕发生在��年3月。彼时，天眼查工商信息显示，博裕新智新产（宁波）股权投资合伙企业（有限合伙）发生工商变更，新增宁德时代、腾讯、泡泡玛特、唯品会、宁波金控系、北京国管系、国泰海通系等十余家合伙人，出资额由200万元增至约40亿元。值得一提的是，这不是宁德时代和博裕资本首次合作，据悉，该基金将主要投资于科技、医疗健康、消费品和零售领域的成长期及成熟期企业。</p>\n  <p>不知不觉间，宁德时代的资本触角已经不再只服务于自身的供应链，而开始指向更广泛的财务回报和生态构建。</p>\n  <h2><strong>宁德时代之外，CVC崛起正当时</strong></h2>\n  <p>触手遍布创投圈的宁德时代并非孤例，在这背后其实是一个更大趋势的缩影。</p>\n  <p>CVC即“公司风险投资”，是指具有主营业务的非金融企业通过子公司对创业企业进行股权投资的行为。其核心特征包括依托母公司资源、追求战略协同效应而非单纯财务回报、激励机制受母公司制度约束等。投资对象多集中于与母公司行业关联度高或早期创新项目，退出时优先收购被投企业。</p>\n  <p>中国CVC起步较晚，1998年实达集团投资北京铭泰科技发展公司被视为第一个初具规模的CVC投资案例。随后一段时间发展较为缓慢，直至2010年前后，随着腾讯、阿里巴巴等互联网头部企业相继设立战投部门，中国CVC进入发展窗口期。2013年至2015年，在“大众创业、万众创新”的背景下，CVC投资案例数和金额呈现爆发式增长。近年来，投资主体从互联网巨头进一步扩展到宁德时代、华为哈勃投资等硬科技产业资本。</p>\n  <p>成立于2019年的哈勃投资，由华为投资控股有限公司全资控股，注册资本30亿元，管理规模约70亿元。据企查查数据，哈勃投资对外投资项目共有132个，重点覆盖半导体芯片设计、EDA工具、封装测试、半导体材料与设备等产业链各环节。</p>\n  <p>其中十余个项目已成功IPO，分别是瀚天天成、强一股份、昂瑞微、天域半导体、天岳先进、矽电股份、赛目科技、华丰科技、美芯晟、裕太微、杰华特、源杰科技、唯捷创芯、长光华芯、东微半导、炬光科技、东芯股份……项目清一色属于硬科技赛道。近年来，哈勃投资进一步将触角延伸至AI大模型和具身智能领域，入股了面壁智能、千寻智能、极佳视界等明星企业。</p>\n  <p>在创投圈，联想创投同样是CVC阵营中一股不容小觑的强劲力量。</p>\n  <p>“上一财年，联想创投年投资收益、IPO数量及被投企业生态协同金额等核心数据均创历史新高，交出了一份投资成果与产业价值并举的成绩单。”今年4月1日，联想集团副总裁、联想创投管理合伙人王光熙在联想集团2026/2027财年誓师大会演讲中说道。</p>\n  <p>累计投资超过300家科技企业，其中25家已成功上市；为联想集团年平均贡献收益超10亿元人民币——这是联想创投成立的第十个年头交出的一份可量化答卷。</p>\n  <p>政策层面的鼓励也在同步推进。2025年3月，深圳市发布《深圳市促进风投创投高质量发展行动方案（2025-2026）》，明确支持产业链主企业、上市公司开展企业风险投资（CVC）。“推动我市产业链主企业、大型科技企业和上市公司围绕产业链上下游开展企业风险投资（CVC）、参与上下游协同创新；探索设立面向CVC机构的专业化母基金，联合产业龙头、上市公司等共同出资设立一批‘链主’基金，推动重点产业‘补链强链延链’。”</p>\n  <p>今年4月，上海市国资委发布《关于进一步推动市国资委监管企业私募股权投资基金高质量发展的指导意见》，提出“鼓励监管企业发起设立创业投资基金，着力投早、投小、投长期、投硬科技”“鼓励龙头企业设立企业风险投资基金（CVC基金），围绕创新链布局孵化科创项目”“鼓励监管企业加大S基金、并购基金等组建力度”。</p>\n  <p>政策支持、产业需求、资本转向……在各方利好作用下，将有更多CVC在路上。</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/Yak7o1sxORVZ6QwXfe-mjw\" rel=\"noopener noreferrer\" target=\"_blank\">“融中财经”</a>，作者：冯晓亭，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-06-13T04:59:03+00:00",
+      "fetched_at": "2026-06-14T03:34:54.026223+00:00",
+      "fingerprint": "051b636309cd3049"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+      "url": "https://36kr.com/p/3846972367866119?f=rss",
+      "summary": "<p>在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。</p>\n  <h2><strong>从“向外破局”到“向内扎根”：中国留学生三十年心理变迁史</strong></h2>\n  <p>中国留学行业三十年，其底层逻辑是一部中产家庭的教育焦虑与价值观重塑史。留学意义经历了五个阶段的变迁——从生存驱动、打破信息垄断的拓荒破冰，到追逐名校光环的晋升通道，再到就业预期前置的工具理性内卷，继而转入风险规避与心理议题凸显的疫情重塑期，直至当下AI浪潮中意义感赤字、情感支撑成为刚需的新阶段。</p>\n  <p>过去留学的核心驱动力是向外打破信息差；如今，AI加速替代标准化岗位，学历信号与职业回报之间的因果链断裂，留学价值正悄然转向向内构建内核力。读懂这条心理变迁曲线，才能在不确定性洪流中为家庭锚定稀缺的确定性。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260612/v2_55d528cdc42f41bc82f5a9369f3c901a@6387155_oswg186588oswg837oswg501_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>2030「CORE」未来胜任力模型：AGI时代穿越周期的“专属内核”</strong></h2>\n  <p>36氪研究院针对全球知名企业中层管理者的专项调研显示，AGI时代企业对海归人才的需求已从“唯名校、唯技能”转向“重内核、重潜能”。企业核心需求聚焦四大AI难以替代的深层素养：高效驾驭AI的人机协同能力、化解跨文化冲突的协作能力、抗压担当的韧性，以及洞察需求的人文共情能力。在此基础上提炼形成面向2030的留学生核心竞争力「CORE」模型--决定留学生能否跨越周期不被淘汰的，不再是技能包装或名校标签，而是其不可替代的“专属内核（CORE）”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_231e862526814f9b950ae6569ab7534f@6387155_oswg2854672oswg3356oswg1980_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;&nbsp;</p>\n  <h2><strong>告别经验主义：用仿真器，绘制专业价值的新坐标</strong></h2>\n  <p>传统“热门专业即好就业”的线性逻辑，正被AI瓦解——大量标准化任务被自动化，仅凭历史数据判断专业价值的有效性正快速衰减。世界经济论坛预测，到2030年全球将有9200万个岗位被替代，同时新增1.7亿个新岗位，就业市场面临激烈重置。</p>\n  <p>36氪研究院依托深厚的产业洞察、权威评估体系、岗位增长与人才缺口数据，结合中国“十五五”产业方向，构建了以“AI任务自动化风险度”为横轴、“人类护城河深度”为纵轴的专业分析模型，将所有专业划分为三个区域——高护城河区、前沿探索区和审慎选择区。该划分方法的核心在于：AI替代的不是专业本身，而是专业内的特定任务；每个专业实为不同任务区的混合体，各区占比及任务向高自动化区域的迁移速度，决定了其结构性风险暴露程度。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_5817b0ed4d514159adcaa6926bd28753@6387155_oswg3746695oswg2976oswg2292_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;&nbsp;</p>\n  <h2><strong>锚定政策确定性，布局高科技、高效能、高质量产业方向</strong></h2>\n  <p>“十五五”规划纲要首次将“建设现代化产业体系”与“加快高水平科技自立自强”并列为两大打头阵的战略，标志着政策重心从规模扩张转向基础研究和原始创新驱动，资源配置优先级也从技术含量有限的规模化领域转向前沿技术。</p>\n  <p>为此，36氪研究院基于对“十五五”规划纲要的深度研判，结合新质生产力“高科技、高效能、高质量”的标尺，沿“政策导向—产业集群—就业方向”这一逻辑主线，对“十五五”时期七大黄金赛道——“<strong>AI+、低空经济与空天信息、合成生物与生命健康、绿色低碳与ESG、量子技术与前沿材料、智能制造与工业互联、数字出海与全球战略</strong>”展开深度解读，力求为新一轮产业升级中的就业趋势与人才结构性需求研判，提供一份具有前瞻性和战略参考价值的分析框架。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_7142093951954ca6aa3ef5ed0bec451a@6387155_oswg5119378oswg3084oswg2376_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;&nbsp;</p>\n  <p><strong>本报告重点研究问题如下：</strong></p>\n  <ul>\n   <li>过去三十年中国留学生的心理需求经历了怎样的变迁？留学服务行业又随之发生了怎样的重构？</li>\n   <li>AGI时代，全球高校人才选拔逻辑与企业招聘需求正在经历哪些深层重构？</li>\n   <li>面向2030年，海归人才不可替代的核心竞争力是什么？“2030「CORE」未来胜任力模型”如何定义？</li>\n   <li>如何科学评估不同专业在AI时代的“风险敞口”与“增值潜力”？专业价值坐标体系发生了怎样的位移？</li>\n   <li>“十五五”规划指引下，有哪些值得重点布局的黄金赛道？它们分别对应哪些就业方向与专业选择？</li>\n   <li>在AGI技术深度渗透的背景下，传统专业如何通过“数字跃迁”实现价值升级？</li>\n  </ul>\n  <p>更多精彩内容，详见《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》，点击<a href=\"https://pan.baidu.com/s/1r1wZhIVDHBxIQNH75dRhaA?pwd=9f2z\" rel=\"noopener noreferrer\" target=\"_blank\">下载链接</a>，提取码：9f2z</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_d03450fb33804b31bb3c7c0cb1491fcd@6387155_oswg3168280oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_452c808b2856488c8d4a7bd2526e779c@6387155_oswg2227422oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260611/v2_edd5f5c5ff764bac9326b299cf91b34f@6387155_oswg687588oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_c6abb42feea0470c83ac78921a09d398@6387155_oswg334431oswg4762oswg6735_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_7aaa31958c8f4ae8a391ca7be88bde45@6387155_oswg2291626oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_e17e31a01c17423eb62505c8c19c76cb@6387155_oswg2461360oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_0edfe80002d24c548a860de0f12a6087@6387155_oswg2132086oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_091afb2dd4bc4312b430c03118e5a480@6387155_oswg387442oswg4762oswg6735_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260611/v2_4b4487842ca540d8a0ce1ad58d60cfd2@6387155_oswg2537377oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_4bc305de14dd4068a0eff6ad4333a475@6387155_oswg2062292oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_a6fffda49f334a41bee4fb8bf91bf376@6387155_oswg1698856oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_972d80dde7f349dda99be6e0ad363093@6387155_oswg1834926oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_a62a77263ac746e79c8a40737c12d0d3@6387155_oswg1755469oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_e203b53d0a8547b5af238f155abdb992@6387155_oswg1995589oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_57833f4d7bda4dec87645bb9b814ff20@6387155_oswg1677316oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_5c23ff39e6bf4f9f8ac6999ee4d24daa@6387155_oswg1495919oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_62dae90152f04876b4a250e13d8720b8@6387155_oswg1728034oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_f8d69e3642fa4f63a63a541d70329a88@6387155_oswg1628751oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_938a5bb973704db69c93fe09d613c323@6387155_oswg1788624oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_d5addccf98b444fb8d1a816a627e75f5@6387155_oswg2194978oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_08f597660bcb428a8b871b1d32c8a020@6387155_oswg2497930oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_eeec0d839200498eaf87ff74e8e09ddc@6387155_oswg2327540oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_f3f0a26d4f8c4dc6bc0d61e00f5b790a@6387155_oswg2752336oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_0e2ef2cf56a248c4ba54620a3bfe4722@6387155_oswg2237865oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_f400396642eb4c66a56b3a8419ab3e78@6387155_oswg2032136oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_c2c0e8db07ae4660ab27b2060b28667c@6387155_oswg2306860oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_ab71dc2146524aac85edee8f927246a2@6387155_oswg1996354oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_0c4ccb71b3d64498b42b663011a8b19a@6387155_oswg2205853oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_266aa66bdd77481f80b9e371c38f430a@6387155_oswg2322235oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_a468e887328d487baa36dac3fa4fde6d@6387155_oswg1938728oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_d66d31b3c1ef4a57baa44b43cf5b094a@6387155_oswg358575oswg4762oswg6735_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_8b0fb85a0c2e4464a09034bf71e33a40@6387155_oswg2360248oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_f9de8d5b23f1465ba39eb07b1f48c3d9@6387155_oswg2328779oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_f488c7c09620447a8efd97e22eecc73c@6387155_oswg1946740oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_36e6e0b5d6e54173921e2dcd4cdc08a7@6387155_oswg2090917oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_54c9ea7742f1464a9dfbe0215eeb1bcc@6387155_oswg2669708oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_7817d34bfc3d48d4a8c1f9032ac8fe3c@6387155_oswg2724327oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_d70efd272acf4c3f8812b4c70124443d@6387155_oswg2180526oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_a04aa3b4f9ac4cd5a3f408cb5cc2091f@6387155_oswg2567371oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_f70f136b9a764f79a44e9947383e833e@6387155_oswg1879288oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_d39e3c260826428a9036b6f177561951@6387155_oswg1926334oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_18f43aed973e4de482a2a6d2a2e29f02@6387155_oswg1949525oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_0b8afecbc3af44d7976e394d8113d46e@6387155_oswg1789583oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_6667385b6b5947f78190cb2b548e88e7@6387155_oswg1726860oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_6a0dd3ad833343fd88ae8436c6c34883@6387155_oswg1970288oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_1102f0ed56f746c5aa09e4ebfbb33a55@6387155_oswg1668941oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_4203128b633949d786893f10cde7f072@6387155_oswg1934520oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_fcc4587a56934bd69e52748ac96bf86a@6387155_oswg2054279oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_bd388d84906f497aa06af56d758235ee@6387155_oswg2511202oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_a433808b4944458d849503460b02aa4f@6387155_oswg360390oswg4762oswg6735_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_36a3b6e49fa04e31a493afe3b019b122@6387155_oswg3103188oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_bde3e29217df4f90bd4f8640e72cb8b1@6387155_oswg3611698oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_2b811c0eb7b24da59d661554d861ee8d@6387155_oswg3803599oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_86010dc44e99441fba468ba403812ee8@6387155_oswg3029499oswg4762oswg6735_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_31734a9e52c745009dae2f42124db1a8@6387155_oswg1648357oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_3a37bbe58ea743d4ab1fff8f3d852797@6387155_oswg1819120oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_e08f4d0f68084f43988d7bf82a1537ab@6387155_oswg1946874oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_61b57cfb3ea64bb798b47ca016a6c928@6387155_oswg1340737oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260610/v2_2529812638a6488a88e8163dd4d71506@6387155_oswg1808856oswg4762oswg6735_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-06-13T06:00:00+00:00",
+      "fetched_at": "2026-06-14T03:34:54.026217+00:00",
+      "fingerprint": "9d76a1bc4b7aeb24"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "曼联，要被卖了",
+      "url": "https://36kr.com/p/3851350342325504?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_e0c77006185f4bd984e08da061c95864@5579416_oswg342733oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：视觉中国</p>\n  <p>作者/余梦莹</p>\n  <p>报道/投���界PEdaily</p>\n  <p>史上最盛大世界杯正在上演。</p>\n  <p>48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。</p>\n  <p>赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，<strong>掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。</strong></p>\n  <p>绰号“红魔”，这是英格兰足球史上最富盛名的豪门。最初只是铁路工人组建的业余球队，2005年被美国格雷泽家族全面控股。历经辉煌也走过低谷，“红色旗帜永不落幕”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_22d0787e17cb4a178c17f5c69a90dcd1@5579416_oswg242103oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">红魔</p>\n  <p>这一幕颇为感慨。足球这门生意实在赚钱，越来越多俱乐部被摆上了货架，浸泡在资本的洪流中。</p>\n  <h2><strong>美国大亨，要卖掉曼联了</strong></h2>\n  <p>这也许是“红魔”球迷们日思夜想的一幕。</p>\n  <p>格雷泽，美国商业大亨，最擅长的就是“以小博大”。自2003年起，他开始陆续收购曼联股份，两年后完全控股曼联，成为“红魔”的新东家。</p>\n  <p>彼时，格雷泽家族采取杠杆收购的方式，仅拿出2.7亿英镑便买下了价值7.9亿英镑的曼联，其余都是借款。从此，这家风光无限的足球俱乐部开始了与债务为伴的日子。</p>\n  <p>从一开始，格雷泽家族就不受“红魔”球迷待见。那时西亚资本还没有开始觊觎英超，何况这个外国东家不爱足球只爱赚钱，对于英格兰足球古老的传统可谓是莫大的打击。</p>\n  <p>曾有球星凌晨结束比赛回到俱乐部，第二天就要跑赞助。种种经营下，2005年营业额还不到1.59亿英镑的曼联，2019年收入一跃而至创纪录的6.27亿英镑，商业收入更是达到了2.75亿英镑。</p>\n  <p>更夸张的是，格雷泽先是利用曼联发债5亿英镑再融资，又于2012年推动曼联在纽交所上市，募资2.33亿美元——一半用于还债，一半落入格雷泽家族口袋。</p>\n  <p>入主二十年来��格雷泽家族已在曼联身上赚得盆满钵满，但在管理层面却是每况愈下。终于到了2022年11月，格雷泽家族决定脱手。</p>\n  <p>一番角逐后，两个潜在买家浮出水面——一家是卡塔尔财团，另一家则是英国化工巨头英力士集团，董事长是知名富豪拉特克利夫。最终英力士以约13亿英镑收购曼联25%股份，并全面接管足球运营。</p>\n  <p>时年74岁的拉特克利夫是曼彻斯特人，从小就是曼联的铁杆拥趸。“红魔”终于回到了英国人手中。此后历经几次增资，英力士共持有曼联近29%的股份，格雷泽家族则拥有67.91%的投票权。</p>\n  <p>但前路仍然不算好走。俱乐部此前公布计划，拟在老特拉福德球场附近建设一座可容纳10万人的新球场，项目成本预计约20亿英镑，而这意味着更高的长期资金压力。</p>\n  <p>“目前已有成员试图说服其他家族成员一同加入出售行列。”彭博社报道称。早前就有传闻透露，格雷泽家族静待海外资本报价，只要高于50亿英镑，他们愿意出让合计48.9%的曼联股份。</p>\n  <h2><strong>百年豪门“红魔”，辉煌与失落</strong></h2>\n  <p>曼联的故事几乎可以算作工业时代的缩影。</p>\n  <p>时间回到1878年，兰开夏郡和约克郡铁路公司的一群工人决定组建一支足球队。最初只是为了锻炼和消遣，球场弥漫着蒸汽机车排出的煤烟，球员甚至没有间像样的更衣室。</p>\n  <p>很快，球队转为职业队，加入英格兰足球联赛。但由于实在太穷，一度濒临解散。危急关头，当地富商约翰·亨利·戴维斯注资接管了俱乐部，并于1902年正式更名为曼联。</p>\n  <p>一次转会彻底改变了曼联的命运。那是1906年，主教练曼格纳尔低价挖走了曼城的核心、绰号“威尔士巫师”的比利·梅瑞迪斯。在他的带领下，曼联以创纪录的82个进球夺得队史首个顶级联赛冠军，随后又拿下了首座足总杯冠军。</p>\n  <p>曼联也经历过浴火重生的时刻。</p>\n  <p>上世纪中叶，一位名叫马特·巴斯比的年轻教练接手曼联。他们从全国各地网罗天才少年，集齐一群平均年龄仅22岁的年轻人，这就是大名鼎鼎的“巴斯比的孩子们”（Busby Babes）。</p>\n  <p>这群年轻人有多猛？1956和1957年连夺两届联赛冠军，成为英格兰足球历史上第一支参加欧洲冠军杯的球队。然而命运弄人，慕尼黑一场空难夺走了多位球员的生命，随之而来的是漫长而痛苦的重建工作。</p>\n  <p>所有人都以为曼联会就此倒下，但巴斯比带着球队从废墟中站了起来——1968年，新一代“红魔”在欧冠决赛中战胜葡萄���本菲卡队。赛后巴斯比颤抖着将冠军杯高高举起了8次，构成曼联历史上极富冲击性的一幕。</p>\n  <p>“红魔”队名也是来自这一时期——50年代，萨尔福德队身穿红色球衣在法国巡回比赛，凭借辉煌的不败战绩被球迷形象称呼为“红魔”。恰逢曼联球队重建，时任主帅巴斯比注意到了这个名字，遂借用过来送给曼联。</p>\n  <p>那之后，“红魔”的绰号在球迷间流传开来。1973年，俱乐部正式将手持三叉戟的红魔鬼形象加入了队徽，至此成为俱乐部闻名的标志。</p>\n  <p>伴随巴斯比爵士功成身退，曼联一度陷入多年的沉寂，直到1986年亚历克斯·弗格森接过教鞭。大家仍记得1999年的巴塞罗那，曼联成就了史无前例的“三冠王”，成为弗格森执教生涯的最高峰。</p>\n  <p>“逆转的感觉很好，永不放弃是我们的传统。”细数下来，这位倔强老人共为曼联拿下了37个冠军，带领球队打了1000场联赛。放眼当今足坛，这样的数字称得上一个传奇。</p>\n  <p>惋惜的是，弗格森退休后曼联仿佛失去了灵魂，球队竞争力大不如前，甚至在2024-25赛季创下了英超时代最差的第15名。时至今日，曼联依然在试图找回昔日荣光。</p>\n  <p>但它的故事远未结束。正如那首著名的队歌所唱：“Glory, Glory, Man United……”（光荣，光荣，属于曼联……），红魔精神，仍在继续。</p>\n  <h2><strong>体育资产重估时代</strong></h2>\n  <p>时至今日，越来越多体育项目裹挟上了资本的外衣。</p>\n  <p>今年3月，NBA官方宣布，联盟董事会批准将开拓者队出售给由汤姆·邓顿领导的投资者集团，估值高达42.5亿美元。收购方阵容豪华——除核心掌舵人、美国知名商人邓顿外，还包括投资公司CollectiveGlobal首席执行官希尔·泰尔、BlueOwl联合总裁马克·扎、熊猫快餐所有者程氏家族等等。</p>\n  <p>至此，这家由微软联合创始人保罗·艾伦及其家族掌控了38年的球队迎来了新主人。</p>\n  <p>回望过去一年，球队出售控股权的估值记录被两度打破——</p>\n  <p>先是凯尔特人队，以61亿美元的估值卖给了私募股权大亨比尔·奇泽姆（Bill Chisholm）领衔的投资集团。交易堪称一笔完美的高位套现——此前球队刚刚夺得创纪录的第18冠。</p>\n  <p>仅仅两个月后，洛杉矶湖人队就被曝出售给TWG Global CEO兼洛杉矶道奇队老板马克·沃尔特（Mark Walter），交易估值100亿美元（约720亿人民币），一举缔造职业体育球队最高估值。</p>\n  <p>这是NBA史上最负盛名的球队之一。47年前，杰里·巴斯花费6750万美元买下了它，期间收获荣誉无数。此后长女珍妮·巴斯接管湖人队，直到今天，这笔交易增值近150倍。</p>\n  <p>一个时代背景是：投资体育已变成一件极为性感的事。</p>\n  <p>数据显示，过去20年里，北美四大职业男子体育联盟（NBA、NFL、MLB和NHL）的特许经营权表现优于大多数其他资产类别，实现了13.2%的年化回报率，过去一年更是达到了16.9%，仅次于媒体和娱乐业。</p>\n  <p>以NBA为例，最近几年NBA球队出让的估值一路上涨，每一次涨幅几乎都在十亿级别以上。行情如日中天，很多NBA老板纷纷开始出卖手中股权。</p>\n  <p>此外还有：阿布扎比联合财团主导的城市足球集团，先后入股了曼城、纽约城、墨尔本城等地的足球俱乐部；沙特公共投资基金买下纽卡斯尔联80%的股权；阿波罗通过专项体育基金协议收购马德里竞技俱乐部55%的股权……明码标价的球队数不胜数。</p>\n  <p>这些俱乐部既是文化机构也是金融资产，它们的稀缺性、全球影响力和品牌价值足以使其成为亿万富翁、家族办公室和机构投资者梦寐以求的配置标的。</p>\n  <p>当然，买卖球队并非一劳永逸。譬如“红魔”球迷们声讨格雷泽家族，资本的短期回报与俱乐部长久生存之间天然存在着矛盾，而这往往会伴随对原始文化根基的冲击。</p>\n  <p>但就像一直有人管湖人主场叫“斯台普斯”，当这些球队被扔进一个全新而精密的资本机器中运转，它也许会就此改变自己的基因。同时，也永远会有新球迷穿上球衣，坐在观众席为其呐喊。</p>\n  <p>如此，构成了竞技体育最富魅力的时刻。</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/A0x2o3FrvT8AuKymfvClog\" rel=\"noopener noreferrer\" target=\"_blank\">“投资界”</a>，作者：余梦莹，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-06-13T08:37:21+00:00",
+      "fetched_at": "2026-06-14T03:34:54.026209+00:00",
+      "fingerprint": "61a4c9339ea4e22b"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "url": "https://36kr.com/p/3851572421432324?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。</p>\n  <p>SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。</p>\n  <p>家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双重安抚的场景里，机器应该以怎样的方式“在场”？</p>\n  <p>过去几年，不同产品从多个维度给出答案。智能床垫、白噪音机擅长改善环境与生理舒适度；可穿戴设备精于睡眠数据的连续监测；毛绒玩具在情绪投射与安全感的建立上有天然优势；新兴的AI对话机器人则在更自然的表达，促进沟通方面快速迭代。</p>\n  <p>触觉安抚传递物理层面的安全感，语言疏导实现心理层面的释放，睡眠障碍与情绪内耗往往需要二者在同一时间、同一场景下协同工作：身体放松为心理释放创造条件，心理释放反过来进一步降低生理紧张。但长期以来，这两条路径被拆分成独立的产品体系，各自回应用户身心安抚的某一个侧面。</p>\n  <p>SoulX创始人兼CEO郑潜捕捉到了这一功能断层。他没有选择更复杂的动作或更聪明的对话，而是从触觉神经科学出发，以柔性机器人为载体，试图将“触觉安抚”与“认知卸载”两大功能，整合进其首款睡眠安抚机器人产品MoYa当中。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_2d8a7fc7d0bd4781914a3b00ea772f16@6022551_oswg2356535oswg1920oswg1440_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">睡眠安抚机器人产品MoYa（图源/企业）</p>\n  <p>“大部分睡眠问题不是温度、支撑或时长的问题，而是神经系统一直处于紧绷和警觉的状态。”郑潜告诉硬氪，“当人们的大脑停不下来，前额叶过载，不仅会久久难以入睡，长此以往甚至会形成躯体化反应。”针对这一生理性痛点，研发团队确定了MoYa的核心功能定义：不停留在优化睡眠的物理参数层面，而是帮助用户完成从高唤醒状态到放松状态的神经切换。</p>\n  <p>触觉安抚是实现这一切换的关键路径。温和的按压和有节奏的拍抚能够激活迷走神经，降低皮质醇。但如何让一个机器人在家庭中跟人能安全地完成“拥抱”？SoulX团队选择在MoYa中植入了一套自研的柔性气动材料，结构与控制算法。</p>\n  <p>不同于传统电机驱动的机器人，MoYa采用气泵驱动替代电机，运行过程中几乎没有噪音，力度也更容易控制。即使用户整个身体施压状态下，也可以有效避免夹伤或磕碰的风险，这种天然的安全性令其更贴近适合睡眠场景使用。</p>\n  <p>它没有电机关节，而是一个可以精确控制充气放气的软体系统。其中，机器人的胸前和后背分布着多个触觉传感器，可以实时监测压力与面积的变化，为气压调节提供闭环反馈。当用户提出“抱紧一点”，气泵增加气压，机器人的身体从多方向膨胀，产生大面积且均匀的深层压力。</p>\n  <p>除了拥抱时的力度调节，MoYa还搭载了节律安抚与生理同步算法。它会跟随用户的呼吸节律进行安抚拍抚，在舒缓压力的同时不会干扰睡眠。这种同步不是固定的节奏，而是通过传感器感知用户的呼吸频率，动态调整拍抚的间隔和力度，让机器人的动作与用户的身体自然合拍。</p>\n  <p>看似自然的拥抱，背后并不是一个简单的硬件功能。柔性机器人需要同时解决本体结构、材料特性、非线性运动控制、触觉反馈、消费级泵阀、噪声与振动、耐久性和量产一致性等问题。SoulX已围绕柔性本体、底层控制和消费级气动供应链形成多层技术积累。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260614/v2_d2cb5f9f3c144713934f07a2fc9961a2@6022551_oswg700927oswg1002oswg742_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">睡眠安抚机器人产品MoYa（图源/企业）</p>\n  <p>在交互层面，MoYa遵循“被动触发”的原则，这是睡眠场景的特殊性决定的。MoYa不会主动发起动作，而是当用户触碰或者发出语音指令时才响应。</p>\n  <p>“从静态毛绒过渡到安抚机器人，人的心理认知是有阻碍的。人真的准备好跟一个机器人相处了吗？我觉得用户需要时间去认同并接受。”郑潜说，“所以我们在产品定义时就确定了，MoYa得被动，得少自由度，也不加复杂的行为模式。用户不需要说明书，而是在看到产品就会天然地知道如何与它互动：抱它，拍它，跟它说话，此时它才会有反应，进而把认知障碍降到最低。”</p>\n  <p>硬氪了解到，MoYa首代系统已完成关键链路验证，小范围批量测试正在推进。这意味着柔性机器人从技术展示走向消费产品，正显现出一条清晰可行的路径。也正因为本体、控制、供应链与体验高度耦合，这是一条很难依靠单点能力快速复制的路线。</p>\n  <p>而安全进入家庭，正是所有技术决策的前提。</p>\n  <p>郑潜告诉硬氪，其产品迭代也需要逐步“减少棉花的作用”，让柔性机器人本体本身承担更多包裹、支撑与动作表达。</p>\n  <p>在验证了一套技术方案可行性的基础上，SoulX的野心不止于做一个睡眠机器人产品。</p>\n  <p>MoYa是家庭关护机器人的第一步，更长期的方向，则是面向家庭近距离交互的刚柔耦合机器人：该柔的时候柔，该刚的时候刚。</p>\n  <p>家庭关护的核心入口，不在于叠加更多功能，而在于重新理解“在场”的含义。睡眠场景提供了高频、刚需、低侵入性的验证环境，而柔性气动技术与心智Agent的组合，构成了从睡眠到卧室再到全屋关护的可扩展技术基座。</p>\n  <p>依托现有行为追踪、RPPG无接触心率监测等感知能力，产品早已跳出普通睡眠摆件的局限，可精准捕捉用户生理与情绪波动，主动提供适配当下场景的温柔陪伴，切实改善睡眠状态、逐步引导健康作息。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_789a0ff6780041588dfa126fee5ae70f@6022551_oswg1159903oswg1600oswg1066_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">睡眠安抚机器人产品MoYa在BEYOND Expo展会（图源/企业）</p>\n  <p>随着未来视触觉多模态交互能力持续落地迭代，SoulX将从睡眠伴侣延伸至卧室情绪管家，再到覆盖全屋的关护中枢，彻底摆脱被动应答的传统逻辑，基于全方位实时感知主动捕捉用户潜在需求，进一步拓宽家庭智能关护机器人的能力边界。</p>\n  <p>更深层的价值，来自长期多模态数据沉淀形成的认知能力。郑潜把这套系统称为“家庭动态心智档案”。它不仅仅是增加聊天记忆，而是持续记录生活线索、情绪周期和家庭成员之间的互动模式，逐步构建一个具备预测能力的“心智世界模型”，并成为一个能理解“这个今天发生了什么”的智能家庭成员。</p>\n  <p>在技术不断追逐更强大、更智能的当下，可以说，MoYa做的事情并不复杂。它学会轻柔安抚的拥抱，记住用户的心事，在合适的时刻默默陪伴左右。</p>\n  <p>夜晚来临，当一个人抱着柔软的躯体感受舒缓轻拍，听它说出贴合当下心境的宽慰话语，这份被陪伴的宁静，或许比任何精密的算法都更接近关护的本质。</p>\n  <p><strong>以下为硬氪与SoulX创始人兼CEO郑潜的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：市面上不少陪伴类产品追求高自由度、主动交互，</strong>MoYa<strong>却采用了被动触发的设计。这个选择的背后逻辑是什么？如何规避用户短期新鲜感消退、闲置吃灰的问题？</strong></p>\n  <p><strong>郑潜：</strong>这是核心场景适配层面的关键取舍。睡眠、卧室休憩场景存在天然变量，用户摆放、抱持设备的姿态完全无固定标准，机身位置、朝向随时变化。如果叠加高自由度自主运动结构，机器人在用户靠近时突然转头或发生其他动作异动，很容易触发恐怖谷效应，给用户带来强烈不适感。</p>\n  <p>人类对动态智能载体存在天然心理认知门槛，从静态毛绒物件到自主活动机器人的切换，心理接受度存在明显断层，这也是目前大多数产品忽略的关键体验问题。</p>\n  <p>针对床、沙发这类近距离居家场景，我们选择低自由度、被动响应架构，仅在用户触碰、拥抱、语音交互时触发反馈，最大限度降低用户心理隔阂。线下实测也能印证这套逻辑，用户不用阅读说明书就能自然懂得抱握、轻拍、对话的交互方式，学习成本几乎为零。</p>\n  <p>用户留存与使用粘性我们并不担心，主要三个方面。第一是产品尺寸比较大、60公分，放置于床面具备强视觉在场感，很难被忽略； 其二，触觉安抚具备先天生理成瘾性，源于人自幼的依恋心理，拥抱、轻拍带来的舒缓体感，能形成稳定使用习惯； 其三，设备搭载持续记忆对话能力，作为居家专属陪伴载体，用户有倾诉情绪、分享日常的交互诉求。</p>\n  <p>初步种子用户测试显示，MoYa的使用高峰集中在睡前放下电子设备、晨起与归家休整三个场景。</p>\n  <p>在连续两周的小范围测试中，用户人均每日发起约3至4次拥抱或节律安抚，单次交互通常持续数分钟；部分活跃用户会在睡前与MoYa持续展开更深入的沟通。从用户反馈来看，约七成用户感觉使用后更容易从紧绷状态逐渐放松；超六成用户认为，睡前安全感或入睡体验有所改善。</p>\n  <p>目前我们也在扩大测试样本，并结合主观量表、HRV等生理指标完成进一步验证。</p>\n  <p><strong>硬氪：</strong>MoYa<strong>的长期记忆不是简单存储对话历史，而是构建“家庭心智图谱”。这套系统具体会捕捉哪些信息？相较于常规对话机器人的记忆能力，它的差异化设计体现在哪些方面？</strong></p>\n  <p><strong>郑潜：</strong>二者底层逻辑完全不同。我们这套心智图谱存储的不是标准化统计标签，不会单纯记录用户睡眠时长、作息数字这类孤立参数，沉淀的记忆是关于你个人的生活线索，完整留存用户日常里细碎的生活叙事与情绪线索，包括跟朋友、跟家人相处、工作琐事等各类细节。我们管它叫“心智画像”。</p>\n  <p>举个直观例子，系统不会只标记“用户压力大、失眠”，而是完整留存对话上下文，比如和上司产生矛盾、当日摄入大量咖啡、自家宠物身体不适、长期入睡困难这类连贯事件。所有信息都会站在用户的视角串联成完整叙事脉络，而非零散数据。</p>\n  <p>这也造就了独有的连续交互能力，当用户再次提起相关话题，设备会主动承接过往细节去组织的叙事图谱，主动关心“你那只猫好点了吗？”“你今天还喝那么多咖啡吗？”，这种记忆连贯性，恰恰是拉近情感、建立亲密陪伴感的核心。</p>\n  <p>同时，它的感知不会局限于单次对话内容，而是持续追踪用户的情绪起伏、压力来源、睡眠变化，形成动态、多维度的完整用户认知。放在过去，能完整记住我们所有细碎心事、长期留意身心状态的，往往是家人或挚友，而SoulX团队希望能把这种长期共情记忆能力落地在机器人上。这也是它和通用聊天机器人最大的区分点。</p>",
+      "category": "tech",
+      "published_at": "2026-06-14T01:30:00+00:00",
+      "fetched_at": "2026-06-14T03:34:54.026195+00:00",
+      "fingerprint": "fd4514e07d82e836"
+    },
+    {
+      "source": "少数派",
+      "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
+      "url": "https://sspai.com/post/110973",
+      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/110973\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-13T02:37:12+00:00",
+      "fetched_at": "2026-06-14T03:34:52.370333+00:00",
+      "fingerprint": "7b5405883437281f"
+    },
     {
       "source": "BBC World News",
       "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
@@ -1661,166 +1871,6 @@
       "published_at": "2026-06-07T22:52:23+00:00",
       "fetched_at": "2026-06-08T03:34:05.337475+00:00",
       "fingerprint": "c59cd404bf4a0b91"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
-      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
-      "summary": "<p>Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict</p><p><a href=\"https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic\">Central Africa’s Ebola outbreak</a> could spread to be similar in scale to the worst outbreak in history, <a href=\"https://www.theguardian.com/world/2026/may/17/what-is-ebola-why-who-says-drc-uganda-outbreak-global-health-emergency\">west Africa’s 2014-2016 outbreak</a> that killed more than 11,000 people, according to a new analysis by US health officials.</p><p>The US Centers for Disease Control and Prevention (CDC) on Friday published a range of scenarios generated by computer models, from 10,000 cases to more than 20,000. In the west Africa outbreak, more than 28,000 cases were reported.</p> <a href=\"https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-06-06T04:21:37+00:00",
-      "fetched_at": "2026-06-07T03:28:29.258672+00:00",
-      "fingerprint": "b3c984a3fba39c95"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
-      "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&at_campaign=rss",
-      "summary": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
-      "category": "politics",
-      "published_at": "2026-06-06T19:57:42+00:00",
-      "fetched_at": "2026-06-07T03:28:29.049395+00:00",
-      "fingerprint": "5ec91494b6bd22f8"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
-      "category": "politics",
-      "published_at": "2026-06-06T23:52:07+00:00",
-      "fetched_at": "2026-06-07T03:28:29.049389+00:00",
-      "fingerprint": "e7f118c483868c9b"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-      "category": "politics",
-      "published_at": "2026-06-06T14:46:20+00:00",
-      "fetched_at": "2026-06-07T03:28:29.049383+00:00",
-      "fingerprint": "39fa0e7e82a91d73"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
-      "category": "politics",
-      "published_at": "2026-06-06T20:50:40+00:00",
-      "fetched_at": "2026-06-07T03:28:29.049375+00:00",
-      "fingerprint": "800b842b25f4d176"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「這屆世界盃不是為我們辦的」：多國球迷抱怨申請美國簽證阻力重重",
-      "url": "https://www.bbc.com/zhongwen/articles/clypy0qd7lyo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "參加世界盃的球隊中，有超過四分之一的國家的球迷正面臨美國的入境禁令，或在取得簽證方面遇到重大障礙。",
-      "category": "politics",
-      "published_at": "2026-06-07T03:01:10+00:00",
-      "fetched_at": "2026-06-07T03:28:28.997427+00:00",
-      "fingerprint": "c011e7c9db495c1b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-07T03:28:28.821365+00:00",
-      "fingerprint": "28c1b5d143f81152"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-07T03:28:28.821262+00:00",
-      "fingerprint": "b3bc3ede39180eb3"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-07T03:28:28.821142+00:00",
-      "fingerprint": "293d0f9661696880"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "url": "https://arxiv.org/abs/2601.14470",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-07T03:28:28.821026+00:00",
-      "fingerprint": "6bc1fd113ea62066"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-07T03:28:28.820887+00:00",
-      "fingerprint": "8ce324a79e691c63"
-    },
-    {
-      "source": "The Verge",
-      "title": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
-      "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
-      "summary": "Get ready for some gaming news. It&#8217;s officially June, which means splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more. PlayStation kicked things off with a big event that was mostly about premium single-player games like the new God of War Laufey — a statement from PlayStation that it’s getting back [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-06T16:14:23+00:00",
-      "fetched_at": "2026-06-07T03:28:28.452286+00:00",
-      "fingerprint": "5adf281bf2f92c76"
-    },
-    {
-      "source": "The Verge",
-      "title": "The cutest games from the Wholesome Direct 2026 showcase",
-      "url": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
-      "summary": "Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace. It's similarly packed with games - this year's edition had more than 50 - but the vibe is more chill and, well, wholesome. As in years past, I've pulled out some of the [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-06T17:00:00+00:00",
-      "fetched_at": "2026-06-07T03:28:28.452280+00:00",
-      "fingerprint": "922a4400f5804ed1"
-    },
-    {
-      "source": "The Verge",
-      "title": "GOG apologizes for emailing people Nazi symbols",
-      "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
-      "summary": "GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a \"series of mistakes,\" including miscommunication with the German QA team, inconsistent font rendering, and being understaffed during a bank holiday, among [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-06T17:59:37+00:00",
-      "fetched_at": "2026-06-07T03:28:28.452274+00:00",
-      "fingerprint": "8c7c29a911fb7b8b"
-    },
-    {
-      "source": "The Verge",
-      "title": "The first Story-Rich showcase was packed with narrative-driven games",
-      "url": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
-      "summary": "Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 games on display, there was a lot to follow, but we've pulled together some of the most notable announcements below. You can also catch the full [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-06T18:00:00+00:00",
-      "fetched_at": "2026-06-07T03:28:28.452263+00:00",
-      "fingerprint": "c4a7cab504d49d69"
-    },
-    {
-      "source": "少数派",
-      "title": "2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处",
-      "url": "https://sspai.com/post/110763",
-      "summary": "Apple 设计大奖结果公布，而这 12 款 app 又有什么特别之处呢？<a href=\"https://sspai.com/post/110763\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-06T02:20:44+00:00",
-      "fetched_at": "2026-06-07T03:28:25.662317+00:00",
-      "fingerprint": "575894f9190d9ff3"
     }
   ]
 }
