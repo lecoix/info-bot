@@ -1,7 +1,237 @@
 {
-  "updated_at": "2026-06-14T03:34:55.218382+00:00",
-  "count": 187,
+  "updated_at": "2026-06-15T03:44:38.676063+00:00",
+  "count": 189,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Swiss voters reject 10 million population cap",
+      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
+      "category": "politics",
+      "published_at": "2026-06-14T18:23:52+00:00",
+      "fetched_at": "2026-06-15T03:44:38.393435+00:00",
+      "fingerprint": "366ce5ed13b4645b"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+      "category": "politics",
+      "published_at": "2026-06-15T03:17:36+00:00",
+      "fetched_at": "2026-06-15T03:44:38.393429+00:00",
+      "fingerprint": "17d1265157798ab9"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
+      "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
+      "category": "politics",
+      "published_at": "2026-06-15T01:37:47+00:00",
+      "fetched_at": "2026-06-15T03:44:38.393423+00:00",
+      "fingerprint": "21b2fa8363574bd3"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump heralds Iran deal but questions - and risks - remain",
+      "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "summary": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
+      "category": "politics",
+      "published_at": "2026-06-15T02:41:25+00:00",
+      "fetched_at": "2026-06-15T03:44:38.393414+00:00",
+      "fingerprint": "09ab8a72c0d1019a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "瑞士將公投決定是否將人口上限設為一千萬",
+      "url": "https://www.bbc.com/zhongwen/articles/c20ypd51d74o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "一個國家是否可以為其人口設定固定上限？",
+      "category": "politics",
+      "published_at": "2026-06-14T08:01:55+00:00",
+      "fetched_at": "2026-06-15T03:44:38.203241+00:00",
+      "fingerprint": "4f17eca5c41e3d85"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "特朗普和伊朗談判的核心：核問題如何解決？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yz648ej42o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "如果協議最終簽署，外界很可能會將其與2015年由奧巴馬政府及多國共同談判達成的伊朗核協議相比較。特朗普第一任期內退出該協議。",
+      "category": "politics",
+      "published_at": "2026-06-14T04:44:07+00:00",
+      "fetched_at": "2026-06-15T03:44:38.203230+00:00",
+      "fingerprint": "2b29b9c90f7aad74"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國與伊朗宣布達成協議結束軍事行動，特朗普稱「讓石油流動起來！」",
+      "url": "https://www.bbc.com/zhongwen/articles/c992nyg2kp3o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國與伊朗已經達成一項和平協議，這份協議將於週五在瑞士正式簽署，協議的具體內容仍在逐步公布。",
+      "category": "politics",
+      "published_at": "2026-06-15T03:34:13+00:00",
+      "fetched_at": "2026-06-15T03:44:38.203221+00:00",
+      "fingerprint": "1ef7d77d0f94d542"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Bitsy",
+      "url": "https://bitsy.org/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-15T03:44:37.424262+00:00",
+      "fingerprint": "d8d953a8724574b4"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-15T03:44:37.424130+00:00",
+      "fingerprint": "ac4a47ff57147b7d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Even More Batteries Included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-15T03:44:37.423981+00:00",
+      "fingerprint": "335552b080a21db6"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Write for One Person",
+      "url": "https://wizardzines.com/comics/write-for-one-person/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-15T03:44:37.423834+00:00",
+      "fingerprint": "7e1d15109f623752"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-15T03:44:37.423663+00:00",
+      "fingerprint": "396c4b7434e14780"
+    },
+    {
+      "source": "The Verge",
+      "title": "How to watch most of the World Cup matches with free trials",
+      "url": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale",
+      "summary": "Hoping to catch some World Cup matches while spending as little money as possible? You have a few options for finding a few days of free streaming, although you may choose to eventually pony up some money. That, or get creative by combining multiple offers to make it through the whole tournament. We found a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-14T16:00:00+00:00",
+      "fetched_at": "2026-06-15T03:44:37.116116+00:00",
+      "fingerprint": "b4d97725a3e0c3d1"
+    },
+    {
+      "source": "The Verge",
+      "title": "Conclave is the sound of a NYC summer block party",
+      "url": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
+      "summary": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety of reasons, I was in a very bad place mentally. And to make matters worse, it was brutally hot. I was depressed, angry with the world, sunburned, and soaked through with sweat. But as [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-14T16:30:00+00:00",
+      "fetched_at": "2026-06-15T03:44:37.116111+00:00",
+      "fingerprint": "6d8999f71a62b4a3"
+    },
+    {
+      "source": "The Verge",
+      "title": "China may have accessed Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-14T18:27:55+00:00",
+      "fetched_at": "2026-06-15T03:44:37.116104+00:00",
+      "fingerprint": "8c98ce05aeeaf918"
+    },
+    {
+      "source": "The Verge",
+      "title": "The FBI built a small town to simulate cyberattacks",
+      "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+      "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses. It's a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-14T20:35:41+00:00",
+      "fetched_at": "2026-06-15T03:44:37.116095+00:00",
+      "fingerprint": "85d95390afebab6e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+      "url": "https://36kr.com/p/3850942780838912?f=rss",
+      "summary": "<p><span style=\"letter-spacing: 0px;\">文｜贺哲馨</span></p>\n  <p><span style=\"letter-spacing: 0px;\">编辑｜乔芊</span></p>\n  <p><span style=\"letter-spacing: 0px;\">36氪独家获悉，瑞典快时尚巨头H&amp;M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。</span><br /></p>\n  <p>大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。</p>\n  <p>除大中华区外，亚太事业部还管辖东南亚（总部吉隆坡）、东北亚（东京）、印度（班加罗尔）、澳大利亚和新西兰（悉尼）四个销售市场，事业部总部仍设于上海。</p>\n  <p>伴随降级而来的是编制收缩。36氪了解到，大中华区本地团队此轮裁员40余人，约为原有规模的四分之一。</p>\n  <p>这场调整大约始于半年前，东南亚和东亚市场变动幅度最大。5月中旬，马来西亚媒体Malay Mail率先曝光H&amp;M东南亚总部从新加坡迁往吉隆坡的消息：原东亚区域256人编制中78个岗位被裁撤，约占区域支持人员的30%，绝大部分裁员发生在新加坡办公室。</p>\n  <p>该报道还援引内部记录称，H&amp;M大约每年都会实施一次类似的区域化或结构性调整。<strong>多位员工亦向36氪表示，此次大中华区降级为销售市场，意味着其不再被视为独立的重点业务单元，“未来有可能按照业务表现被划入不同区域管辖”。</strong>另据36氪了解，北美区的架构调整因当地工会阻力已持续近三年，至今尚未完成。</p>\n  <p>调整背后，是现任CEO Daniel Ervér推行两年有余的转型尚未兑现增长。2024年1月，Ervér接替闪电去职的Helena Helmersson出任集团CEO，提出在维持价格水位的同时让H&amp;M品牌重新“时尚化”的愿景——H&amp;M品牌贡献了集团绝大部分收入，其疲软正是公司长期低迷的症结。他随后精简管理层级、压缩供应商数量、将更多产能从中国和孟加拉迁往摩洛哥与埃及，并加大面向年轻消费者的营销投入。</p>\n  <p>这些动作带来了利润率的修复：2025财年集团营业利润率升至8.1%，为2018年以来最高，但距离管理层多年悬置的10%目标仍有距离；同期本币口径销售仅增长2%，按瑞典克朗计反而下滑3%。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260613/v2_6f504d0d765a47529357e42e722392a4@5922386_oswg188658oswg2238oswg1456_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">H&amp;M集团2020-2025财年的销售和利润表现 来源：H&amp;M财报</p>\n  <p>“Ervér任内的利润率提升令人印象深刻，但我仍看不到增长，”芬兰奥兰兹银行（Alandsbanken）北欧股票主管Lars Soderfjell向彭博社表示，“真正的问题是，H&amp;M对其核心客群——15至30岁的女性——是否还具有吸引力？”</p>\n  <p>中国内地市场同样可以用疲软形容。</p>\n  <p>H&amp;M内地门店已从2019年巅峰期的500余家收缩至约300家。为寻求增量，品牌于2024年10月入驻拼多多、成为首个登陆该平台的国际时尚品牌，并于同年11月开出抖音旗舰店。但36氪了解到，抖音渠道表现始终平平，拼多多则因平台补贴力度较大表现“稍佳”。</p>\n  <p>副牌阵营中，COS与ARKET表现尚可，&amp; Other Stories持续承压：该品牌2019年进入内地市场并开设天猫旗舰店，2021年9月在上海环贸iapm开出中国首家线下门店，2025年4月关闭北京三里屯太古里门店后。36氪获悉，目前&amp; Other Stories的内地线下业务已全面关闭。</p>\n  <p>资本市场上还流传着另一种猜测：公司似乎并不急于推升股价，以便创始家族低价完成私有化。彭博社此前多次报道Persson家族持续增持，按彭博亿万富豪指数口径，这个净资产约234亿美元的家族目前已掌握公司超过86%的投票权，外界关于H&amp;M最终退市的猜测随之升温。自2015年市值峰值以来，H&amp;M市值已蒸发约一半；全球范围内，H&amp;M品牌门店较2019年峰值减少了832家。</p>\n  <p>对这家曾经的瑞典市值之王而言，洲级架构、市场降级与一轮接一轮的裁员，都是同一道命题的注脚：利润率可以靠收缩修复，增长却还没有找到可行的路。</p>",
+      "category": "tech",
+      "published_at": "2026-06-14T05:38:42+00:00",
+      "fetched_at": "2026-06-15T03:44:36.972816+00:00",
+      "fingerprint": "81a429cf39da88a3"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+      "url": "https://36kr.com/p/3853670570743040?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀</li>\n   <li>A股10家退市公司波及超25万股民</li>\n   <li>SK海力士去年新增员工超2000人</li>\n   <li>H&amp;M重组全球架构，大中华区降级</li>\n   <li>世界杯期间英格兰队装备遭窃，大部分已被追回</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单</strong></p>\n  <p>据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon Musk， Human Ponzi Scheme”，称世界首富埃隆·马斯克是庞氏骗局。</p>\n  <p>克鲁格曼认为，SpaceX的IPO完全建立在“庞氏骗局”之上，散户之所以会投资SpaceX，并不是因为他们认真评估了该公司的商业价值，而是一味地相信“马斯克是天才”。然而，这场资本游戏，可不是散户能玩到最后的。</p>\n  <p>克鲁格曼认为：“埃隆·马斯克这场庞大的真人版庞氏骗局，终将崩塌。传统庞氏骗局仅坑害自愿参与的投资者，但这一次，支撑马斯克骗局的资金，很大一部分将来自普通美国民众——他们实质上是被“强制入局”。</p>\n  <p>目前，约52%的共同基金资产投向指数基金或指数挂钩基金，超过50%的美国家庭持有共同基金。马斯克与华尔街的勾结，以及外界普遍认为特朗普政府为其撑腰的认知，将导致绝大多数普通投资者身不由己地卷入其中，沦为马斯克资本帝国的‘燃料’。”（环球市场播报）</p>\n  <p><strong>美国禁止全球外籍人士访问Anthropic最新模型</strong></p>\n  <p>特朗普政府禁止境外政府、企业及个人使用Anthropic旗下最先进的人工智能模型。此举意味着美国进一步将尖端人工智能系统视作国家安全核心资产，相关管控再度升级。（新浪财经）</p>\n  <p><strong>人形机器人U1收获超3800台预售订单，仅限成人购买</strong></p>\n  <p>上线10天，主打情感陪伴的人形机器人U1为优必选收获超3800台预售订单，对应的定金总额逾千万元。男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买。</p>\n  <p>结合电商平台的商品介绍，U1系列共有男女两款机型，其中男款身高183厘米、重42公斤；女款身高168厘米、重35.2公斤，两款机型均支持Wi-Fi连接、单次充电续航时长为2小时至4小时、无“3C”认证；搭载88个高自由度运动关节；配备“养成系”情感大模型、本地加密存储记忆、支持多维度外观定制、已开启IP合作。业内：需注意伦理隐患。（红星新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>蚂蚁集团被曝正秘密测试AI版支付宝</strong></p>\n  <p>6月14日下午，媒体曝蚂蚁集团正秘密测试AI版支付宝，新版本颠覆原有用户交互，可一键切入原生AI界面，实现从服务到资金管理的智能化。消息称，新版本上线时间未定。蚂蚁集团拒绝评论。（新浪财经）</p>\n  <p><strong>德国数字化部长疑用AI写公文遭质疑</strong></p>\n  <p>德国数字化和国家现代化部长卡斯滕·维尔德贝格尔因疑使用人工智能（AI）工具完成演讲稿等多份公文，眼下遭到德国媒体和公众质疑。</p>\n  <p>据德国《时代》周报13日报道，基于专门检测AI生成内容的软件进行的分析，多篇署名维尔德贝格尔的演讲稿和评论文章似乎主要由AI生成。报道说，以维尔德贝格尔的名义发表在德国主要报纸上的文章，以及多篇议会演讲，都显示出大量由AI辅助的迹象；其2024年在美国智库大西洋理事会发表的一篇演讲据信完全由AI生成。</p>\n  <p>不过，一些专家指出，此类检测软件并不完全可信。数字化和国家现代化部一名发言人向德新社证实，维尔德贝格尔将AI作为辅助工作工具使用，称这一做法缘于“他坚信德国必须迅速学会以既高效又审慎的方式使用人工智能。这适用于经济、公共部门和政治领域”。（环球时报）</p>\n  <p><strong>加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀</strong></p>\n  <p>一名加拿大母亲近日在美国法院起诉人工智能企业OpenAI及其首席执行官山姆・奥特曼，指控聊天机器人ChatGPT诱导其女儿走向自杀。近期已有多起诉讼指责该公司未能管控用户与聊天机器人之间的危险对话，本案是最新一例。</p>\n  <p>这起诉��提交至旧金山州法院。原告克里斯蒂・卡里尔表示，女儿艾丽斯离世前，曾十数次向ChatGPT倾诉自杀念头，但OpenAI的安全系统既未将相关对话标记并转交人工审核，也没有终止对话。OpenAI方面称，公司对模型进行过专项训练，当用户流露自残、自杀倾向时，模型会引导其寻求帮助，并对接现实中的救助资源。</p>\n  <p>OpenAI发言人德鲁・普萨泰里表示：“这起悲剧令人痛心，我们向所有受此事影响的人致以慰问。目前我们正在审阅这份诉状，诉状中提及的相关对话发生在旧版本ChatGPT上，该版本现已停止使用。”（中国新闻网）</p>\n  <p><strong>摩尔线程：完成MiniMax M3大模型适配</strong></p>\n  <p>36氪获悉，6月12日，MiniMax新一代原生多模态旗舰模型M3正式开源。同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000已完成对该模型的Day-0极速适配。据介绍，摩尔线程已具备覆盖前沿模型“适配—部署—优化”的完整工程能力，帮助开发者以更快响应、更稳运行、更低迁移成本接入最新模型，加速大模型创新落地与规模化应用。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>A股10家退市公司波及超25万股民</strong></p>\n  <p>2026年以来，A股公司退市力度空前，仅半年就有超过20家公司锁定退市，其中财务类退市占比超过六成。在这批退市公司中，财务造假性质最为恶劣，部分公司的退市源于业绩预告的剧烈变脸。</p>\n  <p>据索赔区间内峰值股东户数统计，10家退市公司合计波及投资者超过25万户。 （21世纪经济报道）</p>\n  <p><strong>迪卡侬回应劣质货泛滥：建议从官方店铺购入</strong></p>\n  <p>据报道，大量消费者反馈买到迪卡侬劣质产品，电商平台上大量商家在商品标题或页面中标注“迪小侬”等近似字样，刻意模仿官方品牌，误导消费者以为是迪卡侬官方店铺，且涉事货物究竟是否为假货仍有待进一步检测。</p>\n  <p>记者致电迪卡侬官方咨询此事，接线客服表示，除官方旗舰店外，迪卡侬未对任何店铺和第三方授权，建议消费者认准官方旗舰店购入。针对不少网友疑惑的官方能否提供质量检测以供买到假货的消费者用于售后沟通，该客服表示，目前官方无法提供检测服务，建议消费者直接与卖家或者平台沟通处理。此外，该客服还透露，目前迪卡侬方也关注到了对应的事情，同时建议消费者后续在正规店铺购买，官方会全力售后。（蓝鲸新闻）</p>\n  <p><strong>阿里巴巴：“周靖人辞职”纯属谣言</strong></p>\n  <p>14日，阿里巴巴集团回复界面新闻询问称：“周靖人辞职”纯属谣言，“我们注意到近几日有人在网络上组织扩散该谣言，也呼吁大家不要传播不实信息。”（界面新闻）</p>\n  <p><strong>山姆客服回应极速达买到临期商品：可以在订单中备注“不要临期”</strong></p>\n  <p>近期，在网络社交平台上，不少消费者发帖维权，直指山姆极速达送来临期产品的情况。5月10日下午，江苏消费者刘女士（化名）通过“极速达”下单了一份蔬菜沙拉。收到货后，她下意识地看了一眼保质期——生产日期5月7日，保质期至5月11日。也就是说，距离过期仅剩不到24小时。“我花680元办的卓越会员，买的东西比菜市场还贵，结果山姆一声不吭地就把临期菜塞给我。”刘女士在社交媒体上愤怒发帖。客服回应：“我们公司制度就是这样上架的，如果你不想要临期的，你需要在订单里备注‘不要临期’。”</p>\n  <p>类似的情况并非个例，不少消费者也分享着自己在山姆极速达下单时，买到临期产品的经历。（海报新闻）</p>\n  <p><strong>SK海力士去年新增员工超2000人</strong></p>\n  <p>业内消息人士近日透露，受全球人工智能热潮推动，存储芯片需求激增，SK海力士去年新增员工超2000人。 在韩国整体就业市场放缓的大背景下，此次扩招尤为引人注目。 数据显示，截至2025年底，SK海力士员工总数达34549人，较上年增加2159人。 同期，三星电子旗下负责芯片业务的设备解决方案部门员工数量为78064人，较上年的78699人略有减少。 截至去年年底，两家科技巨头的芯片相关从业人员总计112613人，同比增加1554人。（财联社）</p>\n  <p><strong>H&amp;M重组全球架构，大中华区降级</strong></p>\n  <p>36氪独家获悉，瑞典快时尚巨头H&amp;M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。</p>\n  <p><strong>A股投资者已超2.5亿，比上年增加5.86%</strong></p>\n  <p>中国证券登记结算有限责任公司6月12日发布了2025年年度报告。报告显示，2025年全年新增投资者1386.95万，其中新增自然人投资者1382.84万。2025年期末投资者数为25067.29万，比上年增加5.86%。</p>\n  <p>中国结算解释称，期末投资者数量指持有未注销、未休眠的A股、B股账户的一码通账户数量。截至2025年末，中国结算登记存管的沪深证券交易所的证券总市值为137.80万亿元、北京证券交易所的证券总市值为8694.42亿元、全国股份转让系统的证券总市值为19780.21亿元。其中，沪深A股总市值107.84万亿元，B股总市值1114.09亿元。</p>\n  <p>从中国结算公布的过往数据来看，近十年来，A股每年新增的投资者数量均超过1000万，高峰时期超过2000万。（券商中国）</p>\n  <p><strong>“木头姐”买入逾4亿美元SpaceX股票</strong></p>\n  <p>“木头姐”旗下ARK方舟基金于6月12日（周五）公布了当日交易记录，显示出了投资策略的重大转变。最引人注目的操作是，旗下多只ETF合计买入3,291,184股SpaceX的股票，交易总额高达444,309,840美元，表明该基金对太空技术领域的兴趣日益浓厚。与此同时，方舟大幅减持AMD，通过ARKQ、ARKW和ARKX三只ETF共卖出80,536股，交易总值为39,337,809美元，延续了对AMD持仓的削减趋势。（新浪财经）</p>\n  <p><strong>SpaceX业务呈现“一极盈利、两极亏损”格局</strong></p>\n  <p>SpaceX上市首个交易日，进入市场流通的股份仅占总股本的4.2%，筹码供不应求，认购热情高涨，股价短期冲高并不意外。但公司市销率已超过112倍，远超特斯拉的15倍和芯片巨头英伟达的近20倍。简单来讲，SpaceX的业务呈现“一极盈利、两极亏损”的格局。星链是当之无愧的“现金牛”。</p>\n  <p>据招股书披露，这项卫星互联网业务去年营收达113.9亿美元，占SpaceX总营收的61%，截至2025年底已服务超1000万用户。火箭发射业务凭借复用技术在全球商业火箭发射市场占据约80%份额，但去年仍亏损6.57亿美元，且星舰若要实现载人登陆火星，仍需大量资金投入、推动技术迭代。xAI及未来的太空算力业务则被视为“烧钱黑洞”。根据招股说明书，SpaceX自2002年成立以来累计亏损达413亿美元。（央视财经）</p>\n  <p><strong>中国裁判傅明首次亮相世界杯</strong></p>\n  <p>世界杯D组首轮，澳大利亚对阵土耳其。本场比赛，中国裁判傅明担任VAR辅助裁判，迎来个人执法生涯的世界杯首秀，这也是本届世界杯中国裁判的执法首秀。本届世界杯，中国有三名裁判员马宁、傅明、周飞入围裁判员名单，分别是以主裁、VAR裁判和助理裁判的身份入围。（北京日报）</p>\n  <p><strong>世界杯期间英格兰队装备遭窃，大部分已被追回</strong></p>\n  <p>正在参加美加墨世界杯的英格兰队日前在美国堪萨斯城遭遇意外，运输球队训练装备的车辆遭遇盗窃，包括一些球鞋和足球在内的部分球队装备被偷走。英国方面消息称，截至当地时间6月13日，英格兰队失窃的大部分装备已被追回。（新京报）</p>\n  <p><strong>美司法部批准派拉蒙收购华纳兄弟探索，称该交易不会损害竞争</strong></p>\n  <p>当地时间6月12日，美国司法部反垄断部门已批准派拉蒙天舞影业以1110亿美元收购华纳兄弟探索公司。反垄断部门在声明中表示，已完成对派拉蒙与华纳兄弟探索拟议合并的分析，并根据调查所得证据判定，该交易不太可能对竞争或美国消费者造成损害，具体涉及以下领域：(1) 订阅视频点播服务；(2) 线性电视；(3) 制片厂的电影开发、制作或院线发行。（界面新闻）</p>\n  <p><strong>印度政府出台汽柴油限购措施</strong></p>\n  <p>印度媒体12日报道，印度政府出台一项为期90天的汽油和柴油限购措施，禁止货运公司等机构用户在面向个人用户的加油站购买汽油和柴油，同时对普通消费者每日柴油购买量设限，以防止囤积和倒卖燃油加剧供应紧张。（新华社）</p>\n  <p><strong>专家：日本央行或上调利率以抑制通胀</strong></p>\n  <p>据日本方面消息，日本央行可能在本月15日到16日召开的货币政策会议上，将政策利率从目前的0.75%上调至1.0%。日本东短研究公司总裁加藤出认为，加息将给中小企业和普通日本家庭的生活带来压力，对于日元汇率的影响有待进一步观察。如果继续维持过低利率，恐怕会进一步助长通胀。日本央行判断，即便只是小幅度，也应把利率上调一些。随着日本银行持续加息，确实有可能出现一些有住房贷款的家庭以及部分中小企业感到越来越大的压力，但是从整体平衡来看，利率不得不上调。（央视新闻）</p>\n  <h2>上市进行时</h2>\n  <p><strong>上海独角兽冲刺“脑机接口第一股”</strong></p>\n  <p>国内脑机接口头部企业博睿康IPO迎来重要节点。6月11日，上交所官网显示，博睿康技术（上海）股份有限公司（以下简称“博睿康”）科创板IPO审核状态变更为已受理。公司拟募资25亿元，主要用于脑机接口研发项目、脑机接口产业化建设项目以及补充流动资金。红杉恒辰、上海国资背景的国孚领航、浦东创投现身本次发行前的前十名股东名单。</p>\n  <p>当前，A股市场虽然聚集了不少脑机接口概念股，但尚无主营业务聚焦脑机接口的上市公司。在此背景下，博睿康被视为“脑机接口第一股”的有力竞争者。（上证报）</p>\n  <p><strong>三星电气：已向香港联交所递交H股发行上市申请</strong></p>\n  <p>6月14日，三星电气发布公告，宁波三星医疗电气股份有限公司已于2026年6月12日向香港联合交易所有限公司递交了发行境外股份（H股）并在香港联交所主板挂牌上市的申请，并于同日在香港联交所网站刊登了本次发行上市的申请资料。</p>\n  <p>该申请资料为公司按照香港证监会及香港联交所的要求编制和刊发，为草拟版本，其所载资料可能会适时作出更新和变动。</p>\n  <p>公司本次发行上市尚需取得中国证券监督管理委员会、香港证监会和香港联交所等相关政府机构、监管机构、证券交易所的批准、核准或备案，并综合考虑市场情况以及其他因素方可实施，尚存在不确定性。（界面新闻）</p>\n  <h2>酷产品</h2>\n  <p><strong>新型有机分子实现超窄带发光</strong></p>\n  <p>日本京都大学研究团队开发出一种新型有机发光分子，在无需激光强激发的情况下，实现了接近单色光的超窄带发光，突破了长期以来“自发辐射必然产生宽光谱”的传统认知，为开发具有更高色彩纯度的新一代有机发光二极管（OLED）提供了全新设计思路，有望提升OLED色彩纯度。相关研究发表于新一期《自然》。（科技日报）</p>\n  <p><strong>整理</strong>｜何雨婷</p>",
+      "category": "tech",
+      "published_at": "2026-06-14T23:57:48+00:00",
+      "fetched_at": "2026-06-15T03:44:36.972811+00:00",
+      "fingerprint": "0c8cd320d1856a8f"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
+      "url": "https://36kr.com/p/3853252135654660?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。</p>\n  <p>据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。</p>\n  <p>洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公司已研发出电控内变速器、电机内置变速器（MEGS）、机械自动内变速器、智能车锁等产品。</p>\n  <p>变速器产品主要被用于出行产品中。智能电动出行厂商也是洛梵狄的主要用户。</p>\n  <p>以Ebike为例，过去三年，全球Ebike市场经历着漫长的去库存过程中。从全球市场数据来看，2024年Ebike全球市场规模已突破618.9亿美元，预计2030年将达1136.4亿美元，年复合增长率保持在10.3%。</p>\n  <p>洛梵狄CFO燕普认为，以欧洲市场为例，欧洲不少EBike存量用户是在2018年以后购买的车。按照一辆车8到10年的使用寿命计算，预计在两三年内，第一批存量用户的换车潮将集中释放，全球EBike市场有望进入下一轮显著的增长期。</p>\n  <p>Ebike核心零部件市场过去被博世、禧玛诺等巨头垄断，导致Ebike产品同质化严重，使得整车品牌商有需求用电子内变速器变做差异化技术。而当前欧洲高端Ebike市场内变速器渗透率超40%，70%的大众Ebike市场因电子内变价格过高完全空白。</p>\n  <p>此外，博世、八方、安乃达等主流电机厂均在推出更大扭矩的电机系统，加速了Ebieke对大功率电机的应用，而传统的变速系统却遇到物理限制。</p>\n  <p>目前，变速器巨头禧玛诺的主流内变速器额定扭矩仅为85Nm，被中高端车型广泛采用的enviolo HD，其输入扭矩上限也仅为100Nm。在大功率电机的输出下，传统变速器处于超载状态，极易损毁。</p>\n  <p>硬氪了解到，洛梵狄凭借自研的UHT超大扭矩专利技术，将智能内变速器的输入扭矩上限提升至200Nm。相较于市面上99%仍在使用手动机械变速器的现状，洛梵狄实现全线智能电子自动变速。该系统能够通过电机、力矩和速度传感器，结合AI算法精准协调人力与电力输出配比，并在毫米级内自动换到最合适骑手和地形的档位，实现上坡自动降档，同时能提升整车续航里程达30%。</p>\n  <p>市场合作方面，洛梵狄的技术实力已逐步获得全球整车厂的量产验证。目前，已有多个海外知名Ebike品牌开始量产使用洛梵狄内变速产品的Ebike型号。</p>\n  <p><strong>CFO对谈：</strong></p>\n  <p><strong>硬氪：在禧玛诺、博世等巨头垄断数十年的零部件行业，它们也开始下场做电子内变速器，在这种情况下洛梵狄的优势是什么</strong></p>\n  <p><strong>燕普：</strong>这本质上不是技术能不能理解的问题，而是中西方完全不同的产品迭代与商业生存哲学所决定的。</p>\n  <p>像博世、禧玛诺这类欧美日的老牌巨头，其做事的底层逻辑是“长周期研发，并靠长生命周期收回高利润”。禧玛诺现在的很多内变速器还是20年前的产品，没有作任何技术改动，他们习惯一个新产品花5年论证和研发，一旦上市，就要持续卖10年、20年来赚取丰厚的利润，其主动更替模具、高频升级的周期非常缓慢。</p>\n  <p>但中国公司是大挑战者属性的逻辑。我们更在乎通过技术迭新尽快占领市场，不指望靠一代产品卖十几年来躺着赚钱。中国企业是在品质和稳定性的基础之上快速迭代，在设计之初就敢于尝试并不断优化。我认为只要我们的技术在快速迭代，而且还有快速迭代的可能性，海外公司就都不足为惧。</p>\n  <p><strong>硬氪：车厂的决策周期一般需要2到3年，你刚提到洛梵狄业务现在爆发增速很快，为什么是是这个时间点？</strong></p>\n  <p><strong>燕普：</strong>我们的变速器业务前年到去年增长了5倍，去年到今年预期还能再增长5倍，明年估计还能翻3倍。</p>\n  <p>这种爆发看似突然，其实经历了一个漫长的用户验证周期。因为B端客户测试很长，我们现在大批量量产的客户，其实在两三年前就已经在对接和测试。当时我们没有出过大批量的产品，所以虽然客户很感兴趣但也很审慎，在同步做大量的实车测试。</p>\n  <p>同时，我们的核心竞争力在于满足了三个要素的叠加：更高的性价比、更强的抗扭性能（200Nm）、以及电控自动变速带来的智能化骑行体验。</p>\n  <p>在供给端，同时满足这三点的智能变速器在市面上几乎是空白。</p>",
+      "category": "tech",
+      "published_at": "2026-06-15T01:30:46+00:00",
+      "fetched_at": "2026-06-15T03:44:36.972804+00:00",
+      "fingerprint": "ca6ed582c98e6268"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎、淡马锡押注",
+      "url": "https://36kr.com/p/3853011900142848?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方出资。</p>\n  <p>另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资「世航智能」，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。</p>\n  <p>「世航智能」创始人兼CEO陈晓博为1989年出生的哈尔滨工程大学校友，长期深耕水下机器人领域，在28岁时获得国防科技进步一等奖，是该奖项最年轻获奖者，并主导研发全国首台商用水下清洗机器人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260614/v2_f973153f6576424fb06765e4acbc200e@1199336245_oswg177265oswg1080oswg975_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>「世航智能」方面向硬氪透露，本轮融资将主要用于核心技术研发、全球化市场拓展及产业链生态建设，进一步推动海洋机器人在复杂水下场景中的规模化应用。</p>\n  <p>与工厂、仓储等相对标准化环境不同，<strong>海洋长期被视为机器人应用中难度最高的场景之一。</strong></p>\n  <p>在水下环境中，机器人需要同时面对低光照、高浑浊度、复杂洋流、通信受限、高压、腐蚀等多重挑战。这意味着，海洋机器人不仅要具备稳定的机械结构和运动控制能力，还要在复杂环境中完成感知、判断和自主作业。</p>\n  <p>在过去，大量水下作业仍高度依赖专业潜水员和大型装备完成，存在成本高、风险大、效率受限等问题。</p>\n  <p>据「世航智能」介绍，其长期围绕海洋机器人底层能力进行自主研发，核心技术覆盖动力、控制、传感、导航、密封和布放等六大核心系统。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260614/v2_2c0c8e98a9724489971601cded7b6da8@1199336245_oswg630410oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>据了解，「世航智能」的机器人已具备0米至10000米全海深、全自由度作业能力，可在水下三维空间实现前进、后退、横移、翻滚等复杂动作，并支持自主导航、多机器人协同作业等功能。截至目前，「世航智能」的机器人已在<strong>船舶清洗、水下安保、海洋风电、海洋牧场、海底巡检</strong>等场景实现应用落地。</p>\n  <p>公司方面透露，仅2026年上半年，<strong>「世航智能」获得订单金额已超过10亿元。</strong></p>\n  <p>其中，「世航智能」旗下的“虎鲸机器人”已在招商轮船、中远散货等头部航运企业投入应用，并已经累计完成超千艘大型船舶养护作业，此前还牵头制定中国首个《水下清洗机器人操作规程》标准，获得2025年度中国航海学会科学技术进步一等奖。</p>\n  <p>在商业化布局之外「世航智能」也持续布局核心技术。今年4月，「世航智能」发布了<strong>海洋具身大模型“沧穹 CEORION”——</strong>与传统水下机器人依赖人工遥控或预设程序不同，沧穹试图让机器人具备感知、理解和自主执行能力。</p>\n  <p>「世航智能」创始人兼CEO陈晓博告诉硬氪，“沧穹 CEORION”采用统一端到端架构，将环境感知、任务理解和动作生成集成在同一个模型中，并结合真实作业数据与仿真数据进行训练。目前，“沧穹 CEORION”已基于百万小时级商业作业数据，构建了一个海洋世界模型，并通过真实任务持续迭代优化。</p>\n  <p>这意味着，搭载“沧穹 CEORION”的海洋机器人已经无需针对不同任务切换多个模型，即可覆盖<strong>巡检、检测、清洗、抓取、切割、焊接、勘探、搜救、应急等12大类水下作业场景。</strong></p>\n  <p>其中，在仿真测试中，<strong>“沧穹 CEORION”的任务成功率超过90%</strong>、精细控制定位抓取成功率超过90%——达到专业潜水操作员的操控水平。另外，面对从未见过的海域环境、水质条件、光照变化以及不同机器人平台，“沧穹 CEORION”的<strong>模型零样本适应能力超过70%。</strong></p>\n  <p>此外，海洋场景与陆地场景最大的区别还在于推理困难——视觉信息往往受到海水浑浊、光线衰减以及悬浮颗粒物影响。因此，模型需要同时融合多种感知信息，并具备复杂的物理推理能力，才能完成作业决策。</p>\n  <p>而在“沧穹 CEORION”的大模型架构中，「世航智能」将物理推理模块内置，使得模型能够在动作执行前预判潜在风险并优化决策，将碰撞事故率降低80%——这意味着，即便在弱通信甚至无通信环境下，机器人仍可自主完成任务规划与执行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260614/v2_556b0b8f262a4dbc9b7702b5aa90d09f@1199336245_oswg1332297oswg1080oswg855_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>今年上半年，世航智能还入选新加坡海事及港务管理局国家水下船体检测与清洗计划，成为该国家级项目核心技术合作伙伴。</p>\n  <p>这些落地进展意味着，海洋机器人正在从单点项目验证走向规模化应用，而真实作业场景不仅为企业带来订单收入，也持续沉淀高价值作业数据，推动机器人能力在“作业—数据—模型”的循环中不断提升。</p>\n  <p>「世航智能」创始人兼CEO陈晓博告诉硬氪，公司将继续围绕海洋机器人核心技术、海洋具身智能模型和全球化应用场景进行投入，推动海洋机器人在更多高风险、高难度、高价值水下作业中实现应用落地。</p>\n  <p><strong>首页图源｜企业供图</strong></p>\n  <p><strong>排版｜范馨雅</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260614/v2_5260128d5c014f619077e7bf7143e241@1199336245_oswg53536oswg1080oswg337_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">欢迎交流</p>",
+      "category": "tech",
+      "published_at": "2026-06-15T01:50:00+00:00",
+      "fetched_at": "2026-06-15T03:44:36.972796+00:00",
+      "fingerprint": "2193c2611dc4b392"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "url": "https://36kr.com/p/3853016586359817?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。</p>\n  <p>行业的目光转向背后是切实的焦虑。</p>\n  <p>一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。</p>\n  <p>也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。</p>\n  <p>另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。</p>\n  <p>只是，当资本、技术专家、产业资源都倾注于此，世界模型到底如何上岸，人们没有答案。</p>\n  <p>在智源研究院院长王仲远看来，眼下全球围绕世界模型的探索，正被撕扯成四条截然不同的分岔路——</p>\n  <p>第一类是以<strong>语言为中心</strong>的世界模型，包括VLM、VLA，模型在文本空间中预测下一个词，学到的是语言描述的世界，并不能理解背后的物理后果；</p>\n  <p>第二类是以<strong>像素为中心</strong>的世界模型，像Sora和Seedance等视频生成类模型，在视觉空间中学习视频或图像，学到的是像素描述的世界；</p>\n  <p>第三类是以<strong>三维结构为中心</strong>的世界模型，包括3D重建以及李飞飞团队的World Labs Marble模型，不过模型重建3D空间不等于理解世界，几何结构也不代表物理状态；</p>\n  <p>第四类是<strong>以视觉表征为中心</strong>的世界模型，比如杨立昆的JEPA系列模型，预测的是视觉表征的压缩，但视觉嵌入演化不等于物理规律演化。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260614/v2_6b6ae97189f24037a81f6d6d4aba4219@1199336245_oswg141618oswg1080oswg1620_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">智源研究院院长王仲远（图源/企业）</p>\n  <p>作为一家非营利性科研机构<strong>，</strong>北京智源人工智能研究院同样也是目前国内世界模型领域的中坚力量。</p>\n  <p>不同的是，智源研究院目前尝试的确是第五个分类——以语言和视觉为中心，<strong>融合进统一的「潜空间表征」</strong>：<strong>所有模态被压缩进同一个潜空间（latent space）仲，再由不同的\"解码器”（Decoder），按需还原成不同输出形态。</strong></p>\n  <p>举个例子，这个“潜空间”就像给机器人大脑准备了一张<strong>“万能草稿纸”，</strong>不管是看到的视频画面、听到的文字指令，统统先在“纸”上压缩成一种只有AI能懂的“密语笔记”，等需要时，机器人将会根据同一份笔记，<strong>画</strong>出接下来的场景，<strong>演</strong>出机器人的动作，或者<strong>算</strong>出物体的位置和力度。</p>\n  <p>在迈向世界模型进的前几年，智源研究院在AI上的动作，就像是一部层层递进的\"连续剧\",一步步构建从数字世界走向物理世界的通用基座——</p>\n  <p>从早年的\"悟道\"大模型，智源研究院将国内大模型叙事从0推到公共视野，再到逐渐把竞争点引导向原生多模态统一架构（包括悟界·Emu3/悟界·Emu3.5），此后，智源研究院明确提出要向“下一状态预测（NSP）”跃迁，并将这套逻辑接入悟·Physis和悟界·RoboBrain Orca的可部署系统中。</p>\n  <p>在这段期间，智谱AI、月之暗面、面壁智能、银河通用等多家行业头部企业的核心创始人唐杰、杨植麟、刘知远、王鹤等，也都均在智源开展过相关领域研究。</p>\n  <p>尽管世界模型热得滚烫，王仲远却对这股热潮保持着难得的冷静。他认为，<strong>世界模型大概处在深度学习的2012年前后</strong>——彼时，数据孤岛严重、路线未定、Benchmark还在打架，ChatGPT时刻尚未到来。</p>\n  <p>在他看来，世界模型接下来的硬仗，在于几个维度的综合比拼。</p>\n  <p>首先，模型不能只生成看起来<strong>真实但不符合真实物理规律的画面</strong>，比如只是生成“会飞上天的猪”，还要具备长时序一致性，不能不是几秒钟的视频，而是连续变化的状态。</p>\n  <p>其次，<strong>世界模型必须进行因果逻辑推断</strong>，需要理解动作和结果之间的关系，比如，要明白盖盖子和没盖子的杯子同时掉落时，会发生什么。最后，世界模型需要作为基座模型应用到多种场景，而<strong>不是只服务某个Demo或单一任务。</strong></p>\n  <p>落到应用侧，在他看来，世界模型的价值会在两大大方向兑现，除了用于突破具身智能的卡点，服务于机器人领域之外，世界模型还可以广泛应用于严肃工业、物理仿真、科学研究等真实物理场景。</p>\n  <p>“我们期待未来世界模型能成为真正的机器人大脑，世界模型解决了现在VLA、VLM解决不了的问题，提供了泛化、长程、复杂任务和主动探索能力。<strong>但这会是一个长期过程，可能需要三年甚至更长时间。”</strong>王仲远表示。</p>\n  <p><strong>近期，王仲远与硬氪等媒体聊了聊对世界模型的看法、以及世界模型与具身智能的衔接点，以下是采访实录（略经摘编）：</strong></p>\n  <h3><strong>世界模型四条分岔路</strong></h3>\n  <p><strong>硬氪：为什么今年智源大会重点谈“世界模型”，它和过去的大模型路线是什么关系？</strong></p>\n  <p><strong>王仲远：</strong>我们不是突然提出世界模型这个概念。早在2024年智源大会上，我们就对人工智能的发展路径做过预判：大语言模型之后，会进入原生统一多模态，再进入物理世界与硬件结合，进一步走向微观世界的AI for Science，最终通向物理AGI。</p>\n  <p>今年智源大会有两大主题，一个是世界模型，一个是智能体。智能体现在非常热，尤其是AI Coding已经进入蓬勃爆发阶段；<strong>世界模型则是我们认为人工智能从数字世界进入物理世界时必须面对的下一代基座模型问题。</strong></p>\n  <p><strong>硬氪：当前世界模型有哪几条技术路线？</strong></p>\n  <p><strong>王仲远：</strong>现在主流的有四条路：</p>\n  <p><strong>以语言为中心路线</strong>（如Gemini3）：能感知多模态数据，通过语言思考并描述下一状态，具备规划决策能力。</p>\n  <p><strong>以像素为中心路线（如Sora）：</strong>适合视频生成，但不懂物理因果；</p>\n  <p><strong>以三维结构为中心路线</strong>（如李飞飞World Labs的Marble）：瞄准元宇宙、游戏等数字世界仿真；</p>\n  <p><strong>以视觉表征为中心路线</strong>（如LeCun的V-JEPA系列）：预测的是视觉表征的压缩，但视觉嵌入演化不等于物理规律演化。</p>\n  <p><strong>硬氪：智源的世界模型可以归类于什么路线里？</strong></p>\n  <p><strong>王仲远：</strong>我们更倾向于在潜空间中学习世界知识，也就是Latent Relation，尝试把世界知识真正压缩到隐空间中，再通过不同Decoder输出Language、Action和Vision。</p>\n  <p>智源选择尝试以语言为中心的分类和以视觉表征为中心的分类可能的融合，原因很简单，世界模型不仅要“看懂”物理世界，更要“理解”并“决策”。比如人类看到半杯水被打翻，大脑会自动预判“水流方向、地面材质对流速的影响”——这种能力需要将视觉信号与语言推理深度融合，而不是只生成画面。</p>\n  <p>我也认同LeCun对“大语言模型局限性”的判断，但我并不认为语言模型不重要，语言是人类知识的载体，放弃语言等于放弃了人类积累的物理常识。</p>\n  <p><strong>硬氪：现在很多公司把视频生成模型称为世界模型，你怎么看？</strong></p>\n  <p><strong>王仲远：</strong>我非常明确地认为，视频生成不等于世界模型。现在世界模型这个词被广泛使用，很大程度上是因为OpenAI发布Sora时用了“World Simulator”的表述。</p>\n  <p>世界模拟器用于描述视频生成还算相对准确，但视频生成模型本身并不等同于世界模型。今年很流行的World Action Model，把视频和Action拼接起来，也不能完全代表真正意义上的世界模型。</p>\n  <p>在我看来，<strong>真正的世界模型应该是面向真实物理世界的下一代基座模型</strong>。它不是单纯生成一段看起来很逼真的视频，而是要<strong>理解真实物理世界的状态变化、动作因果、长时间序列一致性和泛化能力。</strong></p>\n  <p>语言模型时代的核心是Next Token Prediction，也就是预测下一个词元。而世界模型时代的核心应该是Next Physical State Prediction，预测下一个物理状态。</p>\n  <p>语言模型可以用Prompt激发能力，世界模型则需要用State激发能力。语言模型更多是被动观察，世界模型必须主动交互。语言模型可以是单模态或多模态，世界模型必须走向全模态。</p>\n  <p><strong>硬氪：一个真正面向物理世界的世界基座模型，需要具备什么能力？</strong></p>\n  <p><strong>王仲远：</strong>我认为至少需要几个能力。</p>\n  <p>第一，要<strong>物理正确</strong>，光学折射、重力、流体、物体运动都要符合真实物理规律。视频生成模型可能生成一群在天上飞的猪，但物理世界不会这样运行。如果机器人装上一个不能区分真实和虚幻的“大脑”，它可能误以为自己是钢铁侠，这会带来严重风险。</p>\n  <p>第二，要有<strong>动作因果可溯。</strong>模型不能只知道画面变化，还要知道Action会导致什么结果。比如，一瓶水有没有盖盖子，当人类看到它快掉落时，自然会预判不同后果，世界模型需要把这种动作与后果之间的关系学进去。</p>\n  <p>第三，要有<strong>长时间序列一致性</strong>。很多视频生成模型可以生成5秒、10秒甚至1分钟的视频，但并不代表它真正理解时间。如果给一个瓶子加水，旁边有一个时钟，镜头移开再移回来，模型要知道现实中确实经过了10秒或20秒，而不是随意生成一个看似合理的画面。</p>\n  <p>第四，要有<strong>通用泛化能力</strong>。世界基座模型必须能应用在多个下游场景，就像大语言模型可以用于很多任务一样。它不能只是一个特定场景的工具，而要能服务具身、物理仿真、科学预测等多种任务。</p>\n  <h3><strong>世界模型或成为真正的机器人大脑</strong></h3>\n  <p><strong>硬氪：当前具身智能最大的问题是什么？</strong></p>\n  <p><strong>王仲远：我认为具身智能还处在非常早期。</strong>现在的具身模型多数还是单场景、被动任务执行者。它们可以在特定工厂、特定任务、特定数据下工作，比如看到包裹就执行抓取、分拣、放置。这类场景中，VLA或者更简单的模型都可能有效。</p>\n  <p>但问题在于，它们很难泛化。真实物理世界是复杂的，有时间、空间、物理规律，也有人类创造的各种工具和环境变化。机器人如果只是被动执行指令，靠一个场景一个场景解决问题，就很难真正大规模落地。</p>\n  <p>我认为，世界模型和具身智能是相互呼应的。具身智能暴露了当前模型在物理世界中的短板，世界模型则试图补上这个短板。</p>\n  <p><strong>硬氪：现在也有一些论调称，“VLA已死”，世界模型是不是具身智能的必要路线，两者的关系是什么？</strong></p>\n  <p><strong>王仲远：</strong>我的判断是：<strong>VLA是当下，世界模型是未来。</strong></p>\n  <p><strong>VLA当然有用，而且有很大用处。</strong>它可以促进机器人在特定场景落地，甚至有些特定场景不一定需要更复杂的世界模型，只要看到包裹就执行动作，搜集特定数据就可以完成任务。</p>\n  <p>但VLA有局限，比如泛化性不足，其次是长程任务、复杂场景和空间物理规律理解能力不足。再者，VLA模型往往比较大，部署响应速度和Latency较高，不一定能满足真实物理世界中高频动作执行的要求。世界模型要解决的是更底层的问题。</p>\n  <p><strong>硬氪：世界模型对机器人执行任务的帮助，能否举一个具体的例子？</strong></p>\n  <p><strong>王仲远：</strong>世界模型不应该只是生成数据，也不只是生成视频。它更重要的能力是基于当前Context和状态，预测未来可能发生的状态，并据此做出当下最优决策。</p>\n  <p>可以用一个比喻来理解，有点像《奇异博士》看到不同未来，然���选择最优结果。机器人面对真实环境时，也需要类似能力。它要理解当前环境，预测不同动作会带来什么后果，再选择最合适的动作。</p>\n  <p>比如机器人在酒店或家庭环境中，看到一个门、一只手势、一个声音指令、一个房间状态，它需要结合历史记忆和当前Context做出判断：是关厨房的门，还是关房间的门，还是采取其他动作。这不是简单的图像识别，也不是简单的语言指令执行，而是复杂推理后的物理决策。</p>\n  <p>这就是我们说的世界模型要指挥Agent物理实体执行Action。执行之后，还要继续采集反馈，评估任务是否完成，并进入下一轮状态预测和决策。</p>\n  <p><strong>硬氪：世界模型最终是否会成为真正的机器人大脑？</strong></p>\n  <p><strong>王仲远：</strong>这是我们的期待。我们希望未来的世界模型能够在具身场景下真机部署，解决VLA、VLM和传统动作执行无法解决的问题。机器人需要有泛化能力、长程任务能力、复杂推理能力、主动探索能力。它不仅要能看懂世界，还要能理解动作后果，规划未来状态，指挥机器人执行动作，并根据反馈修正决策。</p>\n  <p>这件事不会短期完成。<strong>世界模型是一个长期过程，瞄准的不是短期落地应用，而是下一个人工智能时代的核心能力。</strong>短期内，具身机器人会先在具体场景中落地，采集数据，形成闭环；长期看，世界模型有机会成为真正意义上的机器人大脑。</p>\n  <p><strong>硬氪：世界模型现在最难突破的技术难点是什么？</strong></p>\n  <p><strong>王仲远：一个核心难点是数据，尤其是真实物理世界的数据。</strong></p>\n  <p>大语言模型的爆发依赖互联网数据。世界模型要进入物理世界，也需要足够多、足够高质量的真实物理数据。现在真实世界数据仍然非常缺乏，而且是散落的孤岛，没有形成足够充足、可复用、可训练的数据体系。</p>\n  <p>视频数据是目前最容易Scale Up（规模化）的数据，因为它海量存在，也确实包含大量真实物理世界的信息。但问题在于，现在科研技术还没有充分挖掘视频数据里的物理信息。</p>\n  <p>除了视频，我们还需要真实交互数据、异构感知数据、动作轨迹数据、人类指令数据、机器人执行反馈数据。具身机器人在真实工厂、酒店、家庭等场景中工作时，会产生大量有价值的数据，这些数据闭环可能会加速世界基座模型的训练和爆发。</p>\n  <p><strong>硬氪：如果真实物理世界数据不足，是否可以依靠仿真数据？</strong></p>\n  <p><strong>王仲远：</strong>仿真数据有必要，能弥补真实数据采集不足，但我对完全依赖仿真数据构建更强模型是有疑虑的。因为仿真数据本身是人类构造的，它的精准度不一定足够，如果用不够精准的海量数据训练模型，能不能构建出真正理解物理世界的模型？这是需要验证的。</p>\n  <p>未来可能会像语言模型训练中的数据配比一样，把互联网数据、视频数据、仿真数据、真实机器人数据、科学数据等，放在一起训练世界基座模型。</p>\n  <p>但不同数据如何配比，现在还没有标准答案，数据质量和配比会直接决定模型能力，这很大程度上仍然依赖研究员的判断、实验和下游任务验证。最直观的验证方式就是具身智能，模型真正部署到机器人上，能不能在训练数据之外完成任务，能不能在复杂场景中做出合理决策，这些会成为判断数据和模型能力的重要标准。</p>\n  <p><strong>硬氪：如果世界模型还很早期，具身智能短期如何落地？</strong></p>\n  <p><strong>王仲远：</strong>短期内，具身智能会沿途下蛋，也就是先解决具体场景问题，比如工厂分拣、打包、贴纸、放充电器、合上盖子，或者酒店服务等To B场景。</p>\n  <p>这些场景本身有商业价值，也能在落地过程中采集数据。机器人在真实场景中干活，会产生人类指令、人类交互、动作轨迹、任务结果等数据，这些数据反过来会帮助未来世界基座模型训练。</p>\n  <p>所以我们不能等所有数据都Ready之后再探索技术路径，技术要先行，产品和系统会跟上。就像深度学习、Transformer、大语言模型的发展一样，技术路径往往早于产品爆发。</p>\n  <h3><strong>世界模型尚未到GPT时刻</strong></h3>\n  <p><strong>硬氪：世界模型最可能率先落地在哪些场景？</strong></p>\n  <p><strong>王仲远：</strong>具身智能肯定是最重要的应用场景之一，除此之外，世界模型也可以用于物理仿真、科学实验、AI for Science等场景。</p>\n  <p>现在的很多模型无法解决这些真实场景中的问题，归根结底，我们希望有一个面向真实物理世界的基座模型，帮助人工智能更好地感知、理解物理世界，并具备推理和决策能力。</p>\n  <p><strong>硬氪：如果类比大语言模型的发展阶段，世界模型现在处于什么阶段？</strong></p>\n  <p><strong>王仲远：</strong>我认为<strong>世界模型和具身智能大概处在2012年的时期。</strong>那个时候深度学习刚刚兴起，从2012年到2018年，再到2022年底ChatGPT发布，大语言模型真正爆发走了大约十年。现在世界模型还没有到GPT时代，因为数据非常缺乏，技术路线也没有完全收敛。</p>\n  <p>但人工智能演化速度越来越快，世界模型可能三年到五年，随着视频数据进一步被挖掘，具身机器人不断在真实场景落地，真实物理世界数据不断累积，世界模型会更快进入爆发阶段。</p>\n  <p><strong>硬氪：大语言模型时代，中美通常被认为有六到十二个月差距。世界模型时代，中国和海外是否还有差距？</strong></p>\n  <p><strong>王仲远：</strong>大语言模型早期，我们更多是在跟随。世界模型是世界上最前沿的研究方向，概念、路线、模型形态都还没有完全收敛。我觉得世界模型没有差距，大家站在同一起跑线。</p>\n  <p><strong>硬氪：未来世界模型的竞争会集中在哪些方面？</strong></p>\n  <p><strong>王仲远：</strong>现在大家都说自己在做世界模型，但很多所谓世界模型其实是工具，或者是解决特定场景的模型，并不一定是通用世界基座模型。未来真正关键的竞争点，我认为包括几个方面：</p>\n  <p>第一，能否具备真实物理可验证能力。模型不能只生成看起来真实的画面，而要符合真实物理规律。</p>\n  <p>第二，能否具备长时序一致性。真实世界不是几秒钟的视频，而是连续变化的状态。</p>\n  <p>第三，能否进行因果逻辑推断。模型需要理解动作和结果之间的关系。</p>\n  <p>第四，能否作为基座模型，用不同数据微调后应用到多种场景，而不是只服务一个Demo或一个垂直任务。</p>\n  <p>我认为世界模型最后一定需要通过系统和产品来证明。只有当它能在机器人、物理仿真、科学实验等真实任务中体现价值，行业才会逐渐收敛对世界模型的定义和路线判断。</p>\n  <p><strong>硬氪：过去大模型积累的基础设施能否复用？世界模型对算力等等，有什么新的要求吗？</strong></p>\n  <p><strong>王仲远：</strong>我比较乐观地认为，现有的大模型算力基础设施、训练框架、数据工具链都可以在很大程度上复用。悟界Emu3.5当时强调的一个理念，就是采用类似大语言模型的架构，并证明它能够Scale Up。</p>\n  <p>到了世界模型阶段，依然需要处理声音、图像、动作轨迹、语言等各种模态，这些在多模态和具身领域已经有基础。但是，新的挑战在于Action和State怎么采集、怎么表达、怎么训练。世界模型会带来新的需求，但基础设施并不是完全从零开始。</p>\n  <p><strong>首页图源｜企业供图</strong></p>\n  <p><strong>排版｜范馨雅</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260614/v2_bd5bb37ddcec4546b3f03a30d3e5a65e@1199336245_oswg53536oswg1080oswg337_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">end</p>\n  <p>&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-06-15T01:50:00+00:00",
+      "fetched_at": "2026-06-15T03:44:36.972781+00:00",
+      "fingerprint": "2c6dbd992e1e5235"
+    },
+    {
+      "source": "少数派",
+      "title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
+      "url": "https://sspai.com/post/110761",
+      "summary": "一代上的好几处优势这次依然保持得不错。<a href=\"https://sspai.com/post/110761\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-14T03:00:00+00:00",
+      "fetched_at": "2026-06-15T03:44:35.231086+00:00",
+      "fingerprint": "2cfe43a39aea8dc9"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
+      "url": "https://sspai.com/post/111045",
+      "summary": "<p>Fable 5 和 Mythos 5 模型因美国商务部禁令下线</p><p>SpaceX 挂牌，市值达 2.1 万亿美元</p><p>《广告引证内容执法指南》出台</p><p>华为推出 HarmonyOS 7</p><p>英伟达开始接受中国客户下单 Vera CPU</p><p>大疆与影石在美互诉专利侵权</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/111045\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-14T23:09:35+00:00",
+      "fetched_at": "2026-06-15T03:44:35.231076+00:00",
+      "fingerprint": "d70f93da6886126e"
+    },
     {
       "source": "BBC World News",
       "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
@@ -1661,216 +1891,6 @@
       "published_at": null,
       "fetched_at": "2026-06-09T02:44:06.050623+00:00",
       "fingerprint": "f1c7979319c067b4"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
-      "category": "politics",
-      "published_at": "2026-06-07T19:55:49+00:00",
-      "fetched_at": "2026-06-08T03:34:07.725199+00:00",
-      "fingerprint": "4cbddfa0fa4e9c88"
-    },
-    {
-      "source": "BBC World News",
-      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-      "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
-      "category": "politics",
-      "published_at": "2026-06-07T23:00:27+00:00",
-      "fetched_at": "2026-06-08T03:34:07.725194+00:00",
-      "fingerprint": "a8ce41ae4db1e6e1"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Zelensky's close European allies set out five conditions for peace talks",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran.",
-      "category": "politics",
-      "published_at": "2026-06-07T21:39:43+00:00",
-      "fetched_at": "2026-06-08T03:34:07.725188+00:00",
-      "fingerprint": "e56c51b677ad16f7"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says the attacks on the Lebanese capital were ordered  \"in response to Hezbollah's firing at Israeli territory\".",
-      "category": "politics",
-      "published_at": "2026-06-07T20:56:09+00:00",
-      "fetched_at": "2026-06-08T03:34:07.725180+00:00",
-      "fingerprint": "04d154e459a9c483"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美伊在波斯灣地區互相打擊，停火協議再受考驗",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gyz94jrw6o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美國軍方襲擊伊朗無人機和雷達站，德黑蘭方面則表示已襲擊了位於科威特和巴林的美國基地。",
-      "category": "politics",
-      "published_at": "2026-06-07T04:53:38+00:00",
-      "fetched_at": "2026-06-08T03:34:07.677826+00:00",
-      "fingerprint": "f8a6502991750a62"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「幼態臉」、「精靈耳」與「天鵝頸」 台灣人為何開始到上海「跨境醫美」?",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2187dxwk4o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "受小紅書、抖音審美影響，台灣年輕人紛紛直奔上海跨境醫美。台灣網紅或求診者砸數百萬台幣改造。從「幼態臉」到「天鵝頸」，中國式少女風的醫美風讓一些人趨之若鶩，但背後風險與資訊落差也引發關注。",
-      "category": "politics",
-      "published_at": "2026-06-08T00:20:32+00:00",
-      "fetched_at": "2026-06-08T03:34:07.677815+00:00",
-      "fingerprint": "fa57c70028a97f1e"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「鮮血凝成的友誼」：中國與朝鮮愛恨交織的關係",
-      "url": "https://www.bbc.com/zhongwen/articles/czrxg2d17m0o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "在「習金峰會」上，朝鮮領導人金正恩手握著新的籌碼。",
-      "category": "politics",
-      "published_at": "2026-06-07T12:54:31+00:00",
-      "fetched_at": "2026-06-08T03:34:07.677809+00:00",
-      "fingerprint": "faa8a8f8f5b5b98c"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中國房地產巨頭退潮途中  國資如何對待當年的政府「包稅人」",
-      "url": "https://www.bbc.com/zhongwen/articles/cx21j3x28zpo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "中國房地產巨頭退場途中大多有國有資本的參與。有的被「國資乾爹」接管，有的被「國資清算人」拆解，有的被「國資站台者」敷衍。一隻看不見的手，似乎正在按照一套清晰的優先級，逐一處置過去的「包稅人」。",
-      "category": "politics",
-      "published_at": "2026-06-07T13:13:21+00:00",
-      "fetched_at": "2026-06-08T03:34:07.677799+00:00",
-      "fingerprint": "959070f1af6c6b2f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-08T03:34:07.385286+00:00",
-      "fingerprint": "a41e99d31fde317a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-08T03:34:07.385156+00:00",
-      "fingerprint": "b68f855df18b7ef7"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-08T03:34:07.385012+00:00",
-      "fingerprint": "006ab1d596cf63ef"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-08T03:34:07.384871+00:00",
-      "fingerprint": "a6de46374fce4eef"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-08T03:34:07.384722+00:00",
-      "fingerprint": "6f35518b53fedcd2"
-    },
-    {
-      "source": "The Verge",
-      "title": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
-      "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
-      "summary": "Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th-anniversary console takes design cues from the original Xbox console, with both the console and controller featuring a translucent green design. \"For the first time, we're bringing a translucent design to Xbox Series X, drawing inspiration from [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-07T17:45:48+00:00",
-      "fetched_at": "2026-06-08T03:34:07.273530+00:00",
-      "fingerprint": "647c1cc77588c7ea"
-    },
-    {
-      "source": "The Verge",
-      "title": "Persona 6 exists, and that’s all we know",
-      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
-      "summary": "This year's Summer Game Fest turned out to be a good one for fans of Japanese RPGs. First, the conclusion of the Final Fantasy VII remake trilogy was announced at SGF Live, and now we have the long-awaited return of the Persona series. Atlus confirmed Persona 6 exists with a brief teaser, but aside from [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-07T18:00:41+00:00",
-      "fetched_at": "2026-06-08T03:34:07.273507+00:00",
-      "fingerprint": "b890714d054cea96"
-    },
-    {
-      "source": "The Verge",
-      "title": "The 7 biggest storylines from Summer Game Fest 2026",
-      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
-      "summary": "The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic. The nearly week-long event came at a challenging time for the games industry, and for the most part the big keynotes were used as a chance to show some strength through major announcements, while largely ignoring pesky details like hardware [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-07T18:45:33+00:00",
-      "fetched_at": "2026-06-08T03:34:07.273501+00:00",
-      "fingerprint": "ba26df4293c3295d"
-    },
-    {
-      "source": "The Verge",
-      "title": "NASA will wear high-tech Prada long johns to the Moon",
-      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
-      "summary": "We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that astronauts will wear underneath it when Artemis IV returns humans to the Moon in 2028. The LCVG is the all-important base layer that will keep the crew [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-07T22:16:41+00:00",
-      "fetched_at": "2026-06-08T03:34:07.273491+00:00",
-      "fingerprint": "f57744106ad23b85"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
-      "url": "https://36kr.com/p/3843764238174729?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <p>AI等机器网络请求量首超人类</p>\n  <p>瑞幸咖啡回应拿铁去冰仅半杯</p>\n  <p>宗馥莉自有品牌KELLYONE回归</p>\n  <p>多家低成本航空公司对登机箱登机收费</p>\n  <p>黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>八家上市公司集中公告“补税”&nbsp;</strong></p>\n  <p>6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中，苹果中国最大授权经销商爱施德（002416.SZ）一家补缴3.08亿元，占八家总额的近八成，该公司披露，仅滞纳金就达1.23亿元。对部分公司而言，这笔补缴金额已接近甚至超过去年一整年的利润。如电子材料企业宏昌电子（603002.SH）需补缴4041.91万元，而公司2025年全年归母净利润为3537.17万元。</p>\n  <p>八家公司公告的核心表述一致——均已全部缴纳完毕，均不涉及行政处罚，均引用《企业会计准则第28号》认定不属于前期会计差错、不追溯调整前期财务数据，补缴金额均计入2026年度当期损益。但逐份比对可以发现，八家公司的补缴金额差距悬殊，启动自查的原因也不尽相同。（财经社）</p>\n  <p><strong>OpenAI正准备对ChatGPT进行上线以来最大幅度升级</strong></p>\n  <p>OpenAI正准备对ChatGPT进行上线以来最大幅度升级，此次升级也引爆了人工智能热潮。这家估值8500亿美元的集团计划在今年上市前寻找新的增长引擎。该公司打算将这款聊天机器人转型为“超级应用”，整合编程工具与人工智能智能体，新增多款高管认为能带来更高收入的产品。据十多位现任及前任员工透露，这些调整是OpenAI整体重组计划的一部分。这家总部位于旧金山的公司正调配资源，全力争取高利润企业客户，并与竞争对手Anthropic展开更激烈的竞争。此次调整将提升OpenAI编程产品Codex的地位并增加资源投入，反映出公司内部日益坚定的共识：人工智能的未来并非回答问题的聊天机器人，而是能为用户执行任务的智能体。（新浪财经）</p>\n  <p><strong>高考新增AI监考员：考试过程中，一旦AI识别出考生或监考员有异常行为，监控系统会自动截取异常行为前后的录像片段，供审核员进一步确认&nbsp;</strong></p>\n  <p>6月7日，2026高考第1天。高考期间，各地运用智能巡查系统和智能安检门等科技手段，严防作弊。在北京市第二中学考点，考场贴出纪律提示，明确禁止携带智能眼镜进入考点；在广东广州，各考点重点增强了安检门对智能眼镜等隐蔽式穿戴设备的识别能力。AI智能巡查系统也在多地考场投入使用。考试过程中，一旦AI识别出考生或监考员有异常行为，监控系统会自动截取异常行为前后的录像片段，供审核员进一步确认。（央视新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>京东与腾讯就AI Agent将达成重要合作</strong></p>\n  <p>6月7日晚间消息，京东与腾讯将围绕AI Agent展开深度合作。依托京东的商品供应链、履约服务能力及腾讯的生态入口优势，双方将共同打造跨场景的智能化服务新范式，推动AI Agent从单点应用走向生态协同。（新浪科技）</p>\n  <p><strong>多家供给方下调算力价格，算力普惠再提速</strong></p>\n  <p>随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）</p>\n  <p><strong>OpenAI芯片元老“002号员工”转投Anthropic</strong></p>\n  <p>OpenAI自研芯片项目的“002号员工”Clive Chan在X平台发文宣布，自己已离开OpenAI，并于本周正式加入Anthropic。这一消息迅速引发业界广泛关注，被视为AI领域大模型竞争从模型、产品层面向芯片和算力基础设施层延伸的又一信号。Chan的履历令人瞩目，曾在OpenAI、特斯拉、谷歌、SpaceX等多家明星公司工作或实习，长期深耕AI基础设施。他于2021年毕业于加拿大滑铁卢大学，毕业后加入特斯拉Autopilot深度学习基础设施团队，在近三年时间里负责GPU优化、集群调度、数据中心软件及训练基础设施等工作。2024年1月，Chan正式加入OpenAI，担任技术团队成员，参与自研AI芯片项目建设。（新浪财经）</p>\n  <p><strong>AI等机器网络请求量首超人类</strong></p>\n  <p>全球最大的互联网托管服务商之一——云网络安全服务公司发布的最新数据显示，在其托管网站收到的网络访问请求中，约57.4%来自人工智能和自动化程序，42.6%来自人类用户。该公司称，这是互联网历史上来自人类的网络访问请求数量首次被机器超越。(央视新闻)</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>小米机器人或将亮相小米17T发布会</strong></p>\n  <p>卢伟冰发布视频，探班小米17T发布会主讲人TJ的彩排，还送上保温杯和润喉糖。视频中出现了小米机器人的手臂，他们还一起碰拳加油，疑似小米机器人也将在发布会中亮相。（新浪财经）</p>\n  <p><strong>国际金价跌破4400美元/盎司关口，金饰克价一夜大降近40元</strong></p>\n  <p>当地时间6月5日，国际金价明显回调，跌破4400美元/盎司关口。受国际金价下行影响，国内品牌金饰价格同步回落。6月6日，周大福足金饰品价格报1323元/克，相较于5日1360元/克下跌37元；周生生报1315元/克，相较于5日1354元/克下跌39元；老凤祥报1316元/克，相较于5日1352元/克下跌36元，整体回落至2025年底水平附近。（央视财经）</p>\n  <p><strong>SpaceX IPO已获得2倍认购资金</strong></p>\n  <p>据两名知情人士6月5日透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额度，实际获配数量将在定价环节敲定。（第一财经）</p>\n  <p><strong>年内32款燃油车降价</strong></p>\n  <p>乘联分会秘书长崔东树提供的最新数据显示，2026年1~5月，共有32款常规燃油车出现降价，较去年同期增加13款。纵观整个市场，今年1~5月降价规模为77款，较同期少4款。这意味着，常规燃油车降价车型数量整体占比超过40%且增速加快，带动大盘整体向下。从月度走势看，燃油车的降价节奏也有所加快。2026年5月全市场共有20款车型降价，较去年同期增加7款。其中纯燃油车型7款，较同期多5款；插混车型7款，较同期多4款。从降价力度看，常规燃油车的价格下调幅度同样处于高位。今年5月，常规燃油车新车降价车型均价为16.6万元，平均降价金额为2.5万元，降价幅度达到14.9%。今年前5月，总体乘用车市场新车降价车型均价24.1万元，降价力度算术平均达到3.2万元，降价力度13.1%。（第一财经）</p>\n  <p><strong>瑞幸咖啡回应拿铁去冰仅半杯</strong></p>\n  <p>6月6日，“瑞幸去冰不补液”一事引发消费者热议。有消费者反映，在瑞幸咖啡下单超大杯拿铁并选择“去冰”后，到手饮品仅勉强过半杯，店员解释称“公司标准配方固定，去冰不补液”。针对这一情况瑞幸咖啡方面回应称，已关注到近期关于产品“去冰”的相关讨论，公司对此高度重视。（新京报）</p>\n  <p><strong>宗馥莉自有品牌KELLYONE回归</strong></p>\n  <p>宗馥莉自有品牌KELLYONE悄然回归。KELLYONE近日推出新品果汁汽水—果然啵啵，售价每瓶为3元起，分为柠檬味、西柚味两种口味，销售区域暂限定于江浙沪。目前该产品已经上架叮咚买菜等平台，不过娃哈哈相关旗舰店并未上线该产品。KELLYONE是宗馥莉主导下宏胜饮料集团的自有品牌，“Kelly”为宗馥莉英文名，该品牌于2025年“娃哈哈风波”前后已停摆。近日，KELLYONE推出新品“果然啵啵”果汁汽水，也宣告着品牌重启。（财联社）</p>\n  <p><strong>多家低成本航空公司对登机箱登机收费</strong></p>\n  <p>近期，不少民航旅客反映自己携带20英寸“登机箱”乘坐飞机，却在登机口被拦，航空公司要求支付相应的行李费用才能把行李箱带上飞机，而且不同的航空公司执行的标准还不一样。记者搜索发现，旅客反映的情况主要集中在春秋、祥鹏、首都航空等低成本航空公司。业内人士介绍，目前中国航空公司大致分为全服务航空公司和低成本航空公司。所谓全服务航空公司，就是在票价里含有很多的服务项目。比如比较大的免费行李额、飞机上的免费餐食，以及航班延误后安排免费住宿等。而低成本航空公司则票价相对更低，但是行李、餐食等服务需要单独付费。行李差异化服务并非国内首创，在欧美市场不少航司也在推行，为不需要这些服务的旅客提供更加低廉的票价。同时专家也提醒，航空公司方面有义务做好相关的信息告知，而旅客在购票时也应该多注意航空公司的相关提示。此外，记者还尝试在多家主流在线旅游预订平台上搜索机票信息，搜索到的信息基本都有显示该价格所对应舱位的行李标准。部分平台显示有超限行李的收费标准，为旅客提供行李额的购买链接。（央视财经）</p>\n  <p><strong>富途老虎长桥之后，未被“点名”的华盛证券也将清理内地业务</strong></p>\n  <p>继富途、老虎、长桥之后，又一家跨境券商宣布清理内地存量业务。华盛证券于6月6日上午向客户发布的通知称，自北京时间6月15日起，华盛证券将对存量投资者账户在中国内地的服务进行相应调整：一是在中国内地交易服务：暂停股票等所有品种的新开仓、加仓交易，仅支持卖出、平仓操作；二是在中国内地资金划转服务：暂停资金及证券转入，转出功能保持正常。通知显示，此次调整是为落实2年集中整治期的行业监管要求，推动跨境证券业务规范发展，并强调本次调整不影响为存量投资者在境外提供服务，也不影响全体客户现有资产安全，客户可正常查询账户、持有及卖出已有持仓。这也意味着，除5月22日被中国证监会直接“点名”的3家券商外，部分中小券商也将开启存量非法业务整治。6月2日以来，老虎、长桥、富途已陆续发出相关通知，宣布自6月12日起对存量投资者在中国内地的服务进行调整。（第一财经）</p>\n  <p><strong>字节跳动：没有造车或推出汽车品牌的计划</strong></p>\n  <p>6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大模型、智能座舱等技术服务，帮助合作伙伴提升车载智能交互体验。（每日经济新闻）</p>\n  <p><strong>网传比亚迪自研人形机器人代号“尧舜禹”、年内自用2万台，比亚迪否认</strong></p>\n  <p>日前，比亚迪自研人形机器人的消息引发广泛关注。网传其自研人形机器人代号“尧舜禹”，计划于2026年在内部部署2万台。对此，记者向比亚迪方面求证，对方表示：“‘比亚迪人形机器人代号尧舜禹’‘第七代原型机在深圳和长沙工厂实地测试’‘约150台上岗，目标年内自用2万台’等消息均不属实。”(每日经济新闻)</p>\n  <p><strong>百度成立数字人创新业务部</strong></p>\n  <p>36氪获悉，日前，百度MEG进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。此前5月13日Create 2026百度AI开发者大会上，百度正式宣布旗下数字人品牌慧播星升级为百度一镜，推出全球首个全场景多智能体数字人平台——集数字人直播、数字人视频、实时互动数字人于一体，并发布百度一镜海外版。截至2025年底，百度一镜数字人主播数已突破10万，服务30+行业。</p>\n  <p><strong>2026年度电影总票房已突破160亿元</strong></p>\n  <p>据网络平台数据，截至目前，2026年度电影总票房已突破160亿元。《飞驰人生3》《给阿嬷的情书》《镖人》暂列前三位。其中，影片《给阿嬷的情书》票房已超15.87亿元（含预售），并将于6月18日在中国香港、中国澳门、新加坡、马来西亚、文莱上映。同时，2026年暑期档已全面开启，目前已有超60部影片锁定暑期档，涵盖历史、科幻、青春、动画等多元类型，共同点燃夏日的光影热情。(央视财经)</p>\n  <p><strong>派瑞股份：公司股票被实施其他风险警示，6月9日起简称变更为“ST派瑞”</strong></p>\n  <p>派瑞股份公告称，公司收到证监会陕西监管局下发的《行政处罚事先告知书》，因公司2024年年度报告和2025年半年度报告存在虚假记载，根据相关规定，公司股票交易将被实施其他风险警示。公司股票自2026年6月8日开市起停牌一天，将于6月9日开市起复牌，股票简称由“派瑞股份”变更为“ST派瑞”，日涨跌幅限制仍为20%。公司已对相关财务报表进行会计差错更正，并启动财务内控专项提升行动。（财联社）</p>\n  <p><strong>优必选：优世界超仿生人形机器人首发预订单量累计超2110台</strong></p>\n  <p>6月7日，优必选科技宣布，旗下消费级人形机器人品牌优世界超仿生人形机器人首发预订单量6天累计达2110+台。（界面新闻）</p>\n  <p><strong>英伟达与SK海力士宣布多年期技术合作，共同开发下一代AI内存</strong></p>\n  <p>英伟达与SK海力士6月8日宣布建立多年期技术合作伙伴关系，围绕全球AI工厂建设所需的下一代内存展开联合研发，并将AI技术应用于半导体芯片设计与制造。根据协议，SK海力士将为英伟达Vera Rubin AI超级计算机、Vera CPU、RTX Spark PC及Jetson Thor机器人计算平台协同开发专用内存，由此进入英伟达正在开拓的AI基础设施、个人AI及物理AI等新市场。在半导体制造领域，SK海力士将采用英伟达CUDA-X库及PhysicsNeMo框架加速芯片仿真和光刻计算工作流；同时借助英伟达Omniverse和cuOpt构建晶圆厂数字孪生，推动工厂自主化运营。（界面新闻）</p>\n  <p><strong>科技“老登”重上AI牌桌，AI产业演进趋势重新定价</strong></p>\n  <p>近期，以戴尔、联想集团为代表的公司“老树发新芽”，不少传统公司正重回行情与投资的“C位”，并频频现身权益类基金的核心重仓名单。有分析指出，科技“老登”重上AI牌桌，这绝非一次简单的高低切炒作，而是机构投资者在深思熟虑后，对AI产业演进趋势的重新定价。多位公募基金人士表示，随着AI建设需求向更多细分领域深度转移，科技投资正逐步从主题驱动转向业绩驱动。在这个去伪存真的过程中，拥有坚实基本面兑现能力、能切实受益于产业生态重塑的“老面孔”，正迎来中长期估值体系的系统性抬升。（证券时报）</p>\n  <p><strong>京东方A回应存储涨价对显示行业的影响</strong></p>\n  <p>关于“存储涨价对显示行业的影响”的问题，京东方A在机构调研时表示，受存储涨价对消费电子冲击的影响，根据咨询机构预计，终端厂商与面板厂商在部分产品类别将承受一定压力。分产品类别来看，对笔记本电脑和智能手机终端需求有可能产生一定程度的影响；综合考虑TV面积需求增长等因素，对电视终端需求影响有限。（华尔街见闻）</p>\n  <p><strong>韩国投资者持续买入中国硬科技</strong></p>\n  <p>近期，韩国投资者正持续加码布局中国硬科技资产。数据显示，过去1个月，寒武纪、麦格米特、机器人ETF华夏、宁德时代等成为最受韩国投资者青睐的A股投资标的，AI芯片龙头寒武纪更是获得近2000万美元净买入。此外，多只在美上市的海外中国科技ETF也迎来资金显著净流入。多家外资机构认为，中国科技领域兼具高增长空间与估值优势，在全球资产配置中具备稀缺投资价值，海外资金正加速捕捉中国科技产业发展红利。 (上海证券报)</p>\n  <p><strong>黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案</strong></p>\n  <p>据报道，英伟达首席执行官（CEO）黄仁勋7日在首尔江南区的网吧先后会见韩国游戏公司KRAFTON创始人兼董事长蔣柄圭和游戏开发商NCSOFT代表金泽辰。据悉，当天黄仁勋和蔣柄圭可能就物理AI等人形机器人，以及基于英伟达近期发布的首款AI笔记本电脑系列“RTX Spark”的游戏领域合作等进行讨论。KRAFTON长期与英伟达合作研发AI功能，并将其融入游戏之中。通过游戏结成的合作关系还推动了双方有关物理AI合作的讨论。KRAFTON主要高管去年4月访问英伟达位于美国加州的总部，同黄仁勋就包括机器人在内的新一代技术合作方向进行了探讨。在结束与KRAFTON高管的会面后，黄仁勋移步附近的另一家网吧，同金泽辰以及NCSOFT高层会面。黄仁勋还同金泽辰“闪现”网络直播，就游戏产业和AI技术的发展方向等交换意见。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>华恒生物：香港联交所审议公司发行H股并在主板挂牌上市申请</strong></p>\n  <p>6月7日，华恒生物发布公告，公司正在进行申请发行境外上市股份（H股）并在香港联合交易所有限公司主板挂牌上市的相关工作。香港联交所上市委员会于2026年6月4日举行上市聆讯，审议公司本次发行上市的申请。公司本次发行上市的保荐人已于2026年6月5日收到香港联交所向其发出的信函，其中指出香港联交所上市委员会已审阅公司的上市申请，但该信函不构成正式的上市批准，香港联交所仍有对公司的上市申请提出进一步意见的权力。（界面新闻）</p>\n  <p><strong>沪士电子、曦华科技递表港交所</strong></p>\n  <p>据港交所文件，6月5日，沪士电子股份有限公司向港交所提交上市申请书，联席保荐人为中金公司、汇丰；深圳曦华科技股份有限公司向港交所提交上市申请书，独家保荐人为农银国际。（界面新闻）</p>\n  <p><strong>AI时代年轻人生存小调查</strong></p>\n  <p>过去两年，AI真正进入我们的工作体系，有人因此效率提升，有人重学技能，也有人第一次感受到个人能力可能随时被重新定价。越来越多人开始认真学习AI、订阅会员、囤大量Prompt……但这些投入真的让人更有安全感吗？扫码参与我们的“AI时代年轻人生存小调查”，分享你在AI浪潮下的真实处境与选择。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260608/v2_907f94c79e2447fbb6b0a0cdce1aeb9d@5667365_oswg20685oswg421oswg389_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI时代年轻人生存小调查</p>\n  <p><strong>整理</strong>｜娃娃菜&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-06-08T00:01:39+00:00",
-      "fetched_at": "2026-06-08T03:34:07.059844+00:00",
-      "fingerprint": "c3e0fc63840344eb"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
-      "url": "https://36kr.com/p/3841459663030532?f=rss",
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。</p>\n  <p>华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任GE医疗全球科研中心中国区负责人，并连续创立创新科技及医疗公司，在医疗影像、AI、脑机接口与产业转化方面拥有深厚积累。</p>\n  <p>公司核心团队汇聚了来自清华大学、上海交通大学、帝国理工等海内外高校的人才，覆盖神经科学、声学、医学影像、人工智能等多个方向，兼具研发与产业经验，熟悉医疗器械从原理样机、工程样机、临床验证到注册转化的完整路径。</p>\n  <p>据了解，<strong>华超神控团队在创业前已就超声脑机接口技术方向的产业确定性达成共识</strong>，属于“先有团队、目标、技术积累和临床判断，再走向创业和融资”。</p>\n  <p>被这批资深“老炮儿”集体看好的超声脑机接口技术，是当前脑机接口赛道中的热门细分方向，已经吸引了OpenAI创始人Sam Altman、Coinbase联合创始人Fred Ehrsam等硅谷科技派亲自下场创业；在国内，相关企业和科研团队也在密集布局，有说法认为，国内超声脑机几乎与海外站在同一起跑线，技术差距“不到1.5年”。</p>\n  <p>超声脑机接口之所以“火爆”，要回到脑机接口技术本身：大脑被称为人类认知的\"最后疆域\",也是未来科技领域最难攻克的堡垒之一。传统脑机接口解决方案以侵入式/半侵入式或非侵入式为主，前者要开颅，后者使用的经颅磁电刺激等方法虽更安全，但空间分辨率有限，难以作用于深脑区。</p>\n  <p><strong>那么，人类能否在不打开颅骨的前提下，无创而精准地修复大脑?</strong></p>\n  <p>这正是华超神控想要达成的目标：将原本“只能依靠外科手术才能触及的深部脑区,变成一次无创、可逆、可在门诊完成的精准调控”。</p>\n  <p>因此，与传统方案不同，华超神控选择了低强度聚焦超声（tFUS/LIFU）这一技术路径，因为超声是目前少数兼具“无创、深部可达和高时空分辨率潜力的物理通路”。经颅磁刺激仅能作用于约2cm的浅层皮层，而低强度聚焦超声可以无创穿透颅骨，深入脑内数厘米，精准触及那些决定运动、情绪、疼痛与成瘾的关键深部核团。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260606/v2_461d2f7a83764e1490959fe24e2a75f8@5930287_oswg256291oswg1344oswg768_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：华超神控</p>\n  <p>这个过程中，最重要的是精度。人的颅骨厚度、密度、曲率存在显著个体差异，超声穿过颅骨时会发生相位畸变、能量衰减与焦点偏移。因此，如果缺乏有效的相位校正，理论靶点与实际声场焦点就可能出现偏差，影响刺激有效率与临床可重复性。</p>\n  <p>华超神控通过自研的经颅相位校正算法，对颅骨造成的声场畸变进行快速补偿，将经颅聚焦精度收敛至最低1.5mm，这相当于在数厘米深处实现毫米级精准调控。</p>\n  <p>“这种经颅相位校正能力，是tFUS技术从实验室研究走向可验证疗效、可复制操作和准商业化设备的核心门槛之一。”李昕认为。据介绍，目前，华超神控这套自研经颅相位校正算法可在极短时间内完成个体化校准，也是国内少数具备该能力、且即将迈向商业化的超声脑机设备。</p>\n  <p>此外，华超神控的另一大技术壁垒，在于其AI闭环神经调控平台。公司并非要做一台单一的刺激设备，而是打造“读取—理解—调控—反馈—再优化”的闭环系统。一方面，通过多模态神经信号采集，并配合高精度声学反馈AI算法进行实时剂量反馈；另一方面，以AI算法识别脑状态、生成个体化刺激方案，动态调整调控策略。这相当于打通了“解码”与“调控”能力：用AI实时读取、解析神经活动，以低强度聚焦超声精准干预，再依托双模态监测构成完整闭环，在毫秒级尺度上动态校准靶点与剂量。</p>\n  <p>对于患者来说，这种看起来精深、复杂的技术带给自己的直接获益是什么？打个比方，以往，一位帕金森PD患者如果想缓解症状，特定情况的患者往往需要接受有创植入式的脑深部电刺激(DBS)；现在，依托无创的超声脑机接口调控技术刺激特定的核团区域，或许也能达到相近的效果，重获体面的生活。</p>\n  <p>现阶段，华超神控已与多所高校、三甲医院及临床专家团队建立深度合作，推进底层声学技术、神经调控机制、多模态数据采集、临床方案设计与真实世界验证等方面的实践，<strong>围绕疼痛、成瘾、神经重塑等方向共同设计研究路径、验证临床价值，推动超声脑机接口技术从科研样机开发走向准临床应用</strong>。</p>\n  <p>李昕相信：\"脑机接口真正实现产业化，需同时满足三个条件，即底层技术具备可验证的物理与生理机制；设备具备工程化，标准化和可复制能力，以及足够清晰的产品路径，使其能在真实应用场景中持续得到验证。\"</p>\n  <p><strong>投资人观点：</strong></p>\n  <p>经纬创投表示，相较于传统植入式方案，低强度聚焦超声（LIFU）技术在刺激深度及空间分辨率上兼具优势，并实现了无创刺激，极大地拓宽了从临床治疗到消费健康的边界。公司核心团队在底层算法与换能器工艺上具备极强的技术壁垒，其产品不仅在学术端具备先发优势，更在泛医疗AI及神经康复领域展现出极强的工程化落地能力。我们期待与公司并肩，共同定义脑科学领域的“下一个十年”。</p>\n  <p>德联资本表示，经颅聚焦超声作为近年来新兴的无创神经调控手段，具备深度大、精度高、靶点可靠等特点，最大程度弥补现有传统经颅电、经颅磁的不足，可扩展性强，应用潜力巨大。华超神控是国内罕有的可实现全产业链自研的平台型企业，具备声学相关硬件、算法研发，高集成度医疗器械开发、注册等多种核心能力，以及全周期实战经验。我们看好并相信公司，未来凭借AI+超声一体化解决方案，实现从科研到临床、从院内到消费的全流程产品落地，推动行业发展的同时，造福患者及广大人群。</p>\n  <p>道远资本表示，大脑是人体最重要的器官，人类对于大脑的探索尚处于早期，脑科学是道远资本看好并持续布局的核心领域之一。超声脑机接口和神经调控是国际国内研究热点，拥有深部可及、安全精准等优势，已经从实验室开始走进临床并持续探索不同适应症和应用场景，华超神控团队在超声脑机接口和神经调控方向深耕多年，积累深厚，执行力强，我们对公司未来的发展充满信心，期待能为更多患者和广大人群带来更好的超声解决方案。</p>\n  <p>循光资本表示，超声脑机接口是当前非侵入式神经调控领域最具临床可及性与平台化潜力的技术路径之一，而真正能将这条路走通的团队，在全球范围内屈指可数。华超神控的核心优势，不仅在于这支团队对\"超声+闭环+AI\"这一神经科学前景方向的准确判断和技术积累，更在于其极为罕见的产业化凝聚力——先有共识，再有创业。循光资本将持续与华超神控并肩前行，期待公司在神经科学这片广袤蓝海中迸发出真正的爆发力。</p>",
-      "category": "tech",
-      "published_at": "2026-06-08T00:30:00+00:00",
-      "fetched_at": "2026-06-08T03:34:07.059829+00:00",
-      "fingerprint": "31122b0a2693e03f"
-    },
-    {
-      "source": "少数派",
-      "title": "接住来自空间站的信号：如何用手台接收 SSTV？",
-      "url": "https://sspai.com/post/110108",
-      "summary": "它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。<a href=\"https://sspai.com/post/110108\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-07T08:34:12+00:00",
-      "fetched_at": "2026-06-08T03:34:05.337486+00:00",
-      "fingerprint": "70de63b8130138f0"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：乘用车越造越重，12 年增重近 400 公斤",
-      "url": "https://sspai.com/post/110847",
-      "summary": "<p>乘用车越造越重，12 年增重近 400 公斤</p><p>iFixit 拆解华强北山寨苹果产品</p><p>Cloudflare 收购 Vite 背后公司</p><p>rsync 疑因 AI 参与维护出现 bug，引发争议</p><p>OpenAI 与美国政府商讨捐赠股权</p><p>美国平均上路车龄达到 13 年</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/110847\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-07T22:52:23+00:00",
-      "fetched_at": "2026-06-08T03:34:05.337475+00:00",
-      "fingerprint": "c59cd404bf4a0b91"
     }
   ]
 }
