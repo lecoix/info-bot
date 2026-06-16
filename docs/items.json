@@ -1,7 +1,297 @@
 {
-  "updated_at": "2026-06-15T03:44:38.676063+00:00",
-  "count": 189,
+  "updated_at": "2026-06-16T03:38:57.187055+00:00",
+  "count": 188,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Violent attacks on schools, pupils and staff around the world up by 40%, says study",
+      "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
+      "summary": "<p>Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA says</p><p>Attacks on education globally have surged by 40% with more than 8,556 recorded incidents and 10,600 students and staff killed, injured, abducted, arrested or otherwise harmed in 2024 and 2025, according to new research.</p><p>Attacks were reported in 83 countries, with the highest incidences recorded in Colombia, the Democratic Republic of the Congo, Ethiopia, Haiti, Palestine and Ukraine.</p> <a href=\"https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-06-15T04:00:01+00:00",
+      "fetched_at": "2026-06-16T03:38:57.182331+00:00",
+      "fingerprint": "322e8fdbb2f3f930"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
+      "url": "https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies",
+      "summary": "<p>The accomplished musician, who recorded over 70 albums in his career, died peacefully in Germany after a short illness</p><p>The South African jazz composer and pianist Abdullah Ibrahim has died at the age of 91.</p><p>His family announced his death in a statement released on Monday.</p> <a href=\"https://www.theguardian.com/music/2026/jun/15/pianist-abdullah-ibrahim-dies\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-06-15T17:03:14+00:00",
+      "fetched_at": "2026-06-16T03:38:57.182320+00:00",
+      "fingerprint": "9583270cab72046d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Norwegian crown princess's son found guilty of two counts of rape",
+      "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+      "category": "politics",
+      "published_at": "2026-06-15T17:10:30+00:00",
+      "fetched_at": "2026-06-16T03:38:56.884012+00:00",
+      "fingerprint": "15604f4d152fba9d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
+      "url": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The claims also prompted a response from UK media regulator Ofcom, who called them \"deeply concerning\".",
+      "category": "politics",
+      "published_at": "2026-06-15T23:40:31+00:00",
+      "fetched_at": "2026-06-16T03:38:56.884007+00:00",
+      "fingerprint": "08c73a19533d53ec"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+      "category": "politics",
+      "published_at": "2026-06-15T14:26:28+00:00",
+      "fetched_at": "2026-06-16T03:38:56.884001+00:00",
+      "fingerprint": "db2c653212c90867"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "category": "politics",
+      "published_at": "2026-06-16T00:03:56+00:00",
+      "fetched_at": "2026-06-16T03:38:56.883992+00:00",
+      "fingerprint": "0f191ad0a4b7fe78"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "日本能否成為今屆世界盃的黑馬？",
+      "url": "https://www.bbc.com/zhongwen/articles/cgev1q0gq2do/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "日本有望成為2026年世界盃的驚喜之師之一。外界越來越相信，他們已準備好走得比以往任何一屆都更遠。",
+      "category": "politics",
+      "published_at": "2026-06-15T11:32:07+00:00",
+      "fetched_at": "2026-06-16T03:38:56.768319+00:00",
+      "fingerprint": "ad8c362cc151b740"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "英國與日本簽署總值180億英鎊的投資協議",
+      "url": "https://www.bbc.com/zhongwen/articles/cq51zg720g8o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "唐寧街表示，日本企業將在英國基礎設施和離岸風電領域投入數十億英鎊。",
+      "category": "politics",
+      "published_at": "2026-06-15T05:32:00+00:00",
+      "fetched_at": "2026-06-16T03:38:56.768314+00:00",
+      "fingerprint": "c6521e37e900d373"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "首登世界盃零封西班牙，佛得角40歲門神創歷史",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8q9qdgwlno/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "首次晉身世界盃的佛得角爆冷逼和奪冠熱門西班牙，40歲門將在社交媒體上的追蹤者瞬間暴漲。",
+      "category": "politics",
+      "published_at": "2026-06-16T03:23:20+00:00",
+      "fetched_at": "2026-06-16T03:38:56.768308+00:00",
+      "fingerprint": "35b6a7c1e71d2a49"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "白宮冷待、統戰部同框：鄭麗文15天訪美行程帶回了什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/c2lyj7024wwo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "外界原本預計鄭麗文有機會進入白宮艾森豪大樓，與美國國家安全會議官員會面。但媒體在大樓出入口等候多時，並未見鄭麗文現身，被指遭美方「冷處理」。",
+      "category": "politics",
+      "published_at": "2026-06-15T11:34:44+00:00",
+      "fetched_at": "2026-06-16T03:38:56.768292+00:00",
+      "fingerprint": "ddaa66c892f6fcb5"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+      "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-16T03:38:56.220332+00:00",
+      "fingerprint": "ed6d0083681a0d99"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-16T03:38:56.220220+00:00",
+      "fingerprint": "1274e97d0c78092f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-16T03:38:56.220095+00:00",
+      "fingerprint": "1055589186c95a99"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-16T03:38:56.219979+00:00",
+      "fingerprint": "0d3e3a9e1a510431"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-16T03:38:56.219850+00:00",
+      "fingerprint": "189d895984561b52"
+    },
+    {
+      "source": "The Verge",
+      "title": "Fox wants to take over your TV — and the tech inside it",
+      "url": "https://www.theverge.com/streaming/950116/fox-roku-takeover",
+      "summary": "Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it's acquiring Roku, the streaming middleman that serves as a portal for viewers to hop into services like Netflix, Disney Plus, Hulu, and more. The $22 billion deal may not change Roku's familiar purple interface, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-15T20:04:29+00:00",
+      "fetched_at": "2026-06-16T03:38:55.994335+00:00",
+      "fingerprint": "35e1f5ba73ce012b"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox is closing down Hellblade creator Ninja Theory",
+      "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+      "summary": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure comes as \"several\" Xbox studios at Microsoft, including Compulsion Games and Double Fine, are in [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-15T21:13:35+00:00",
+      "fetched_at": "2026-06-16T03:38:55.994330+00:00",
+      "fingerprint": "630e60e2f25817fe"
+    },
+    {
+      "source": "The Verge",
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-15T21:15:08+00:00",
+      "fetched_at": "2026-06-16T03:38:55.994323+00:00",
+      "fingerprint": "fb4772aafa138c02"
+    },
+    {
+      "source": "The Verge",
+      "title": "Inside the fight over Claude Mythos 5",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-16T03:00:00+00:00",
+      "fetched_at": "2026-06-16T03:38:55.994313+00:00",
+      "fingerprint": "a38794b78fcd9833"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+      "url": "https://36kr.com/p/3854243718550528?f=rss",
+      "summary": "<p>6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。&nbsp;</p>\n  <p>此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已经落定，但比奖项本身更值得被看见的，是<strong>这些作品背后一批年轻开发者正在关注什么，又试图用代码回答什么。</strong></p>\n  <p>翻开参赛作品的名单，我们意外地发现，这其中很多的开发者都还是在校学生，没有成熟公司的资源，没有完整的商业团队，甚至可能没有充足的开发经验。但在这场比赛里，<strong>他们把自己的生活观察、专业背景和兴趣经验变成了一个个可运行的产品。</strong></p>\n  <p><strong>这些作品构成了这场创新赛值得被观察的一面：年轻开发者不再只是追逐抽象的技术命题，而是在用代码回应自己的生活。</strong></p>\n  <p>这群年轻人是如何在生活中发现问题并用代码编写出解决方案的？一群还在校园里的年轻人，又是如何在36小时极限开发里，把脑海中的灵感变成真正可运行的作品？当鸿蒙生态把AI能力、多端协同和开发工具开放给更多中小开发者，创新的门槛会不会被重新改写？&nbsp;</p>\n  <p>带着这些问题，后浪研究所访谈了其中几位年轻开发者，和他们聊了聊这段与众不同的开发经历。&nbsp;</p>\n  <h3><strong>对话活态文明，把壁画搬进手机里</strong></h3>\n  <p>谢荷第一次觉得壁画离自己很近，是在河南的一次线下飞天表演。</p>\n  <p>在那之前，壁画对她来说更像是藏在遥远石窟的一场梦。即便是在短视频泛滥的当下，她随时可以看到那些壁画上衣裙缈缈的人物一闪而过的画面，但屏幕内外的距离，却也让谢荷在感受历史文化的同时有了强烈的距离感。</p>\n  <p>直到那次表演，敦煌壁画中的飞天人物被搬到现实场景中，原本静止在墙上的形象变成了跃动在她眼前的景象，她和壁画之间的距离好像消失了。</p>\n  <p>那么，<strong>如果不是每个人都有时间、预算和机会立刻去一趟敦煌，那能不能先用一部手机，打开一扇通往壁画世界的门呢？</strong></p>\n  <p>这个念头，最终落在了谢荷和她的两位队友身上。他们来自郑州轻工业大学——一个主打多学科交叉的团队，三个人分别来自计算机、物联网和生物工程专业。从大一起，他们就在工作室里接触鸿蒙，攒下了一年多的开发基础。“壁行·时空”就这样立项了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_8c51fbd51a9a48d98cc8ed892604559c@15222052_oswg679000oswg1080oswg606_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">谢荷参赛，华为官方供图</p>\n  <p>他们想做的不是一个普通的“滑动图片+语音讲解”应用，而是能让用户像走进真实空间一样，移动、靠近、调整视角，在行走中看见壁画里的人物、场景和故事。<strong>在他们看来，传统文化不该只停留在\"被观看\"的位置，它也可以变成一种“可步入、可对话、可参与修复\"的活态文明。</strong></p>\n  <p>但要把这个设想做出来，远比想象中难。最大的拦路虎是3D建模：模型过大、加载卡顿、视角异常、场景错位……状况层出不穷。项目从去年10月立项，光是底层引擎他们就推翻重来了三次，反复摸索之后，他们最终选择结合鸿蒙的3D图形能力与Unity引擎“双驱动”，才让壁画稳稳地“立”了起来。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_0c806ca8c2cc4a2995344e19c398e905@15222052_oswg612232oswg1080oswg528_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">壁行·时空App界面，受访者供图</p>\n  <p><strong>而能让这群资源有限的学生走到这一步，谢荷说，他们是鸿蒙生态实实在在的受益者。</strong>最直接的帮助就是工具链。“有些软件你学的时候，第一步就卡死在环境安装上了。”而鸿蒙的工具链如今下载安装包，点一下就能完成，不需要反复配置路径，让初学者能顺利迈出第一步。</p>\n  <p>其次是AI的辅助，借助鸿蒙的AI辅助开发工具，无论是报错排查、接口查找还是实现思路的梳理，都能得到提示。在谢荷看来，这正是过去和现在最大的不同：早些年学开发，得先系统啃完一大堆理论，才敢动手写第一个页面；而AI能快速帮你理清学习路径、精炼需求，“它大大加速了我们的成长”。</p>\n  <p><strong>鸿蒙让这群年轻的开发者看见了另一种可能。</strong>去年，他们做过一款叫“视野通达”的手语翻译应用并成功上架。在运营过程中，他们还参与了鸿蒙应用开发者激励计划，收到了大学期间的第一笔收入。对学生开发者来说，这种反馈很直接：原来自己写出来的东西，不只是停留在作业和比赛文档里——它可以上架，可以被人使用，甚至能带来真实的回报，成为下一次继续开发的底气。</p>\n  <p><strong>就是在这样一次又一次的尝试中，谢荷和她的伙伴们通过鸿蒙生态收获的不仅仅是两款成功的作品，更是持续开发的激情和推进文化探索与年轻人深度链接的可能。</strong></p>\n  <h3><strong>看见每一次动作，让AI成为运动搭子</strong></h3>\n  <p>比起谢荷团队着眼于壁画的遥远视野，蓝峰对年轻人需求的洞察更加贴近日常。</p>\n  <p>当下，健身已经成了年轻人离不开的话题和习惯，越来越多人开始走进健身房。<strong>但并不是每个人都能顺利适应健身房里多样的设备，蓝峰就是无所适从的其中之一。</strong></p>\n  <p>正在太原工业学院读大二的蓝峰是个马拉松爱好者，后来为了增加力量训练，他第一次走进健身房，面对各式各样的器械，问题也随之而来：一台器械摆在面前，不同厂商使用方法不同，标签也写的不明确；想用AI拍照识别，但搜图工具又认不准。网上能搜到一堆训练计划，但除了教练和健身搭子，没人能随时指正你的动作是否规范。</p>\n  <p>这对健身小白太不友好了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_870a0d3824f44a6d9308a66db47280a0@15222052_oswg167406oswg949oswg1510_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">蓝峰参加马拉松比赛，受访者供图</p>\n  <p>他把市面上的运动健康软件挨个试了一遍，它们能帮你排计划、记卡路里，或者推荐一些无器械健身的动作，但无一例外的是没办法指导用户在健身房沉浸式的训练。换句话说，<strong>在蓝峰眼中，“没有一款软件真正赋能运动这个过程本身。”而这句话，成了“Arua AI健身教练”的出发点。</strong></p>\n  <p>蓝峰想做的，是让AI融入到运动中来，帮助小白识别器械、观察并纠正动作。</p>\n  <p>作为独立开发者，蓝峰既没有团队也没有现成的大规模数据，每个动作对应的骨骼点状态、识别器械需要的样本、跑步姿态的反馈数据，都得他一个人完成。</p>\n  <p><strong>而支持他把项目推进下来的，是鸿蒙生态。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_bd90855536484b75a5952a8449bf811c@15222052_oswg408552oswg1080oswg605_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">蓝峰参赛，华为官方供图</p>\n  <p>鸿蒙的骨骼点检测功能，让AI第一次有机会“看见”用户的动作，而不只是生成一段冰冷的建议。这正是他最初决定动手的那块拼图。</p>\n  <p>给他更大助益的是鸿蒙在AI上的扩展能力。“和AI相关的扩展，鸿蒙确实比其他厂商做得好一些。”在他看来，华为的推送、小艺以及智能体扩展，让应用未来有可能更主动地参与训练：不需要等待App打开才响应，而是训练前提醒、训练中反馈、训练后复盘。AI不再被动等指令，而是能主动调用工具、解决问题。</p>\n  <p>这也是Arua和普通健身App最不一样的地方。蓝峰想解决的核心问题，其实是大部分普通年轻人的健身焦虑——空有一份计划，到了健身房却无从下手，请私教太贵，自己摸索又容易受伤。Arua填补的恰好是这部分需求。</p>\n  <p><strong>蓝峰单枪匹马，在鸿蒙生态的助力下一步步搭建起这个年轻人的AI运动搭子，在这个过程中，鸿蒙的价值并不仅仅是技术支持，而是把挡在个人开发者面前的门槛降低，让他们有更充分的空间创造属于他们一个人的可能性。</strong></p>\n  <h3><strong>唤醒传统纹样，让非遗走进日常设计</strong></h3>\n  <p>除了文化探索和健身管理，鸿蒙创新赛中还有年轻人关注着非遗传承。</p>\n  <p>前段时间，中国国际消费品博览会上，广西壮族自治区主席韦韬花580元购买了一款蓝色凤蝶纹样壮锦手提包，现场扫码付款的视频迅速传播。随后“壮锦包”的相关话题在抖音播放量超过8000万次，“壮锦”话题播放量超过5.5亿次。</p>\n  <p>传统纹样就这样通过短视频闯进了吴忧的视野里。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_4afde96ababa4388a11e8c63f2400133@15222052_oswg104909oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">吴忧和队友参赛，华为官方供图</p>\n  <p>在无锡工艺职业技术学院读大二的吴忧学的是视觉传达，平时就会经常接触到各种各样的视觉元素。她发现年轻人日常能看到、能使用的视觉元素更多的都是外来IP，它们简单、直接、传播效率高，很容易变成手机壳、帆布包、贴纸和各种周边。</p>\n  <p><strong>但传统纹样不同。每一个款式背后都有来源，有工艺，也有历史，如果没有宣传，根本没人会注意到它们的美丽和精致。</strong></p>\n  <p>吴忧和队友王迹想做“纹渊”，起点就在这里。它不只是一个非遗科普App，而是能将传统纹样从“被介绍的对象”，变成普通人和设计者都可以拿来使用的素材。一个没有设计基础的大学生，可以用它做一个首饰、包装、文创产品的初稿；一个设计师，也可以借它快速获得灵感，把传统纹样放进更现代的使用场景里。</p>\n  <p>把这个想法做成产品，难点并不在于“展示纹样”，而在于怎么让它真正可用。用户选中一个纹样之后，如何把它放到具体产品上，如何生成相应的3D效果，如何让设计结果能够继续被编辑和使用，才是纹渊需要解决的问题。团队在开发中最难的地方，也正是这个从纹样到产品效果的转化过程。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_69d89dfd91864e0ba0dbcd48b0074516@15222052_oswg1074199oswg1080oswg675_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">纹渊App设计方案，受访者供图</p>\n  <p><strong>鸿蒙提供的支持，逐渐在这个环节显现出来。</strong>团队查到开发文档中关于3D高斯建模的能力后，用了几天时间尝试把它接进项目，解决纹样和产品模型结合的问题。对纹渊来说，这不是一个用来“炫技”的功能，而是让传统纹样从二维图案走向实际产品预览的一个支点。</p>\n  <p><strong>另一个重要能力，是一次开发、多端部署。</strong>吴忧深知，大部分设计从业者会在电脑上处理设计素材，所以，只开发手机端应用是远远不够的。而鸿蒙的这项能力让这个学生团队不必为不同设备重新搭几套系统，而是能够专注精力优化产品本身，把多端部署的工作交给鸿蒙。</p>\n  <p>当然，AI对开发和创作门槛的降低也对吴忧帮助不小。吴忧说，如果没有AI参与，工作效率至少会减半。鸿蒙开发文档里的AI问答、开发工具中的AI助手，以及社区里已有的问题和答案，大大提���了他们在开发过程中的效率。</p>\n  <p>未来，她还希望可以接入小艺智能体，让用户根据自己的需求，对纹样做二次创作，再应用到具体产品上。</p>\n  <p><strong>依托鸿蒙生态的支持，吴忧把传统纹样带入了更多年轻人的视野里，让这些美丽精致的非遗文化不再仅仅停留在书本上，而是有了二创和落地成为产品的可能。</strong>这不仅是在实现年轻开发者的梦想，也是在为非遗传承打开一扇窗。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_93bd9a37d3f8409c9a542f31a0ad6d87@15222052_oswg351oswg1080oswg43_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>从文化探索、到健康管理、再到非遗传承，它们指向的领域不同，但底层逻辑是相似的：这些年轻开发者并不是站在一个遥远的技术视角上发明需求，而是先作为用户，感受到生活里的某个缺口，再试图用代码将其补齐。</p>\n  <p>这也是HarmonyOS创新赛极客赛道真正值得被看见的地方。</p>\n  <p><strong>在这场比赛里，20支团队比拼的不只是代码速度，而是能不能把一个具体的生活观察，转化成真正可运行、可体验、可继续生长的作品。</strong>对年轻开发者和中小开发者来说，这样的赛场提供了一种少见的机会：他们不必先成为成熟公司的团队，也不必等到拥有足够完整的资源配置，才开始验证自己的想法。</p>\n  <p>鸿蒙生态在其中扮演的角色，并不仅仅是一个开发平台，更是让中小开发者创意落地的舞台。系统级AI能力、一次开发多端部署、AI Coding、开发文档、社区反馈和赛事活动，共同构成了一条从想法到Demo、从作品到展示的路径。<strong>复杂创新不再只属于大组织，小团队也有机会在同一个生态里完成表达。</strong></p>\n  <p>这也正是鸿蒙创新赛的价值所在。它不是把开发者关进一个封闭的技术命题里，而是让他们把自己的兴趣、专业、生活经验和系统能力连接起来。技术不再只是课本里的知识点，也不是企业发布会上的参数，而是可以被年轻人拿来解决真实问题的工具。</p>\n  <p>而在极客赛道之外，这种机会还在继续向更广泛的高校学生打开。</p>\n  <p>2026HDC，面向全国高校学生的鸿蒙高校创新赛正式开赛，并首次进入“全国普通高校大学生竞赛排行榜”。这意味着，它不只是一场面向少数技术高手的开发比赛，也成为高校学生可以认真投入的一段创新经历。对于学生来说，国赛背书、前沿技术、专家指导和项目经验，都会变成简历、作品集和面试中可以被讲述的内容。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_62283613c97541ba862b192d85fefe93@15222052_oswg640648oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">鸿蒙高校创新赛，华为官方供图</p>\n  <p>更重要的是，它降低了年轻人参与创新的心理门槛。专业不限、自由组队，AI Coding提供辅助，系统级创新能力也在被更简单地集成和调用。一个脑洞、一张设计稿、一个Demo，都有机会被带上鸿蒙赛场。参赛者可以在作品展播、校园传播、开发者社区展示中获得反馈，也有机会让创意从比赛走向更真实的应用场景。</p>\n  <p><strong>从极客赛道到高校创新赛，鸿蒙生态正在做的，是让创新不只发生在少数成熟开发者手中。</strong>它给年轻人提供了一个更开放的入口：零基础可以尝试，小团队可以组队，跨专业也能协作；有想法的人不必把创意停留在文件夹里，而是可以真正把它做出来，展示出来，再继续往前推一步。</p>\n  <p><strong>当创意被看见，它才有可能长成作品；当作品被放进真实生态里，它才有机会继续走向应用。这或许正是鸿蒙创新对于年轻开发者最直接的意义。</strong></p>\n  <p>查阅链接：<br />（https://developer.huawei.com/consumer/cn/activity/incentive/C4?ha_source=houlangyanjiusuo&amp;ha_sourceId=89000237）了解鸿蒙高校创新赛。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_73d3e4a729ce40558850dae121ae7af1@15222052_oswg3021oswg900oswg70_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_368a8710115b432191f87c2e47fbd8bd@15222052_oswg13015oswg900oswg100_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>你有想要尝试自己开发App的想法吗？</strong></p>\n  <p>&nbsp;</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/J8AUGWy7VO5yZWWTxu3-Iw\" rel=\"noopener noreferrer\" target=\"_blank\">“后浪研究所”</a>，作者：大倪，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-06-15T09:46:34+00:00",
+      "fetched_at": "2026-06-16T03:38:55.805184+00:00",
+      "fingerprint": "be8d6466d031930f"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+      "url": "https://36kr.com/p/3854486447510535?f=rss",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>支付宝：政务AI助手“晓政”服务突破1亿次</strong></p>\n  <p>36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。</p>\n  <p><strong>小雨智造与地瓜机器人正式宣布达成战略合作</strong></p>\n  <p>36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。</p>\n  <p><strong>小红书或已准备好本月在香港提交IPO申请</strong><br />据透露，小红书科技有限公司正准备在本月底前秘密向香港提交首次公开募股（IPO）申请。（新浪财经）</p>\n  <p><strong>深圳盒马变更负责人</strong><br />36氪获悉，天眼查 App 显示，近日，深圳盒马网络科技有限公司发生工商变更，金瓯卸任法定代表人、董事，由廖榜鹏接任。深圳盒马网络科技有限公司成立于2017年6月，注册资本5000万美元，经营范围包括计算机网络专业领域内的技术开发、技术咨询及技术服务等。股东信息显示，该公司由盒马（香港）有限公司全资持股。</p>\n  <p><strong>阿里菜鸟要解散？最新官方回复“假的，纯属谣言”</strong><br /><br />36氪获悉，针对网传阿里菜鸟或将解散的消息，菜鸟方面回应：“假的，纯属谣言”。</p>\n  <p><strong>上汽集团等入股具身智能机器人公司璇玑动力</strong><br />36氪获悉，天眼查 App 显示，近日，深圳璇玑动力科技有限公司发生工商变更，新增东方精工、上汽集团旗下上海上汽创远创业投资合伙企业（有限合伙）等为股东，同时注册资本由约5777.8万人民币增至约6733.3万人民币。</p>\n  <p><strong>五粮液旗下宜宾环球集团增资至约8.8亿</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，四川省宜宾环球集团有限公司发生工商变更，注册资本由约8.4亿人民币增至约8.8亿人民币。该公司成立于2004年7月，法定代表人为刘兴，经营范围包括企业管理、货物进出口、玻璃制造、普通玻璃容器制造、日用玻璃制品制造等，由四川省宜宾五粮液集团有限公司全资持股。</p>\n  <h2>投融资：</h2>\n  <p><strong>“秩益科技”技连续完成亿元级A轮及A+轮融资</strong></p>\n  <p>36氪获悉，据秩益科技消息，近日，“秩益科技”连续完成亿元级的A轮及A+轮融资。其中，A轮由老股东沂景资本独家增资；A+轮由毅达资本领投、比丘资本战略加持。熙桥资本担任本轮财务顾问。</p>\n  <p><strong>“极佳视界”再获10亿元B2轮融资</strong></p>\n  <p>36氪获悉，据极佳视界消息，近日，物理AGI企业“极佳视界”再获10亿元B2轮融资，本轮融资由新加坡跨境投资机构狮城资本、中国-比利时基金（中比基金）、建投投<strong>智谱：公司已推出最新一代旗舰模型GLM-5.2</strong>资、万向钱潮、复星锐正、华盖创赢、金创投、德屹资本、华仓资本、元石基金等全球国家队基金、产业资本、财务机构、国资平台共同投资，国中资本、达晨财智、图灵资管等多个老股东持续超额加注。本轮融资将主要用于“双金字塔”数据与算法体系的持续投入、物理AGI基础模型的研发迭代，以及C端家庭场景与B端工业场景的规模化落地。</p>\n  <h2>新产品：</h2>\n  <p><strong>智谱：公司已推出最新一代旗舰模型GLM-5.2</strong></p>\n  <p>36氪获悉，智谱港交所公告，董事会欣然宣布，本公司已推出最新一代旗舰模型GLM-5.2，模型提供达到1M的长上下文，并在长程任务中继续保持领先，将遵循MIT协议开源。预计该模型将助益本公司后续开放平台及API业务的调用量提升。</p>\n  <h2>今日观点：</h2>\n  <p><strong>机构：2026年显示面板需求下调，预计出货量将下降6%</strong><br />36氪获悉，根据Omdia的显示面板长期需求预测追踪报告，全球显示面板市场前景显著恶化，2026年需求预测大幅下调。单位需求预计将同比下降6%，较此前预测的2%降幅大幅下调。显示面板面积需求增长率也从此前预期的6%下调至仅1%。</p>\n  <h2>其他值得关注的新闻：</h2>\n  <p><strong>我国成功发射吉星高分07C04星等8颗卫星</strong></p>\n  <p>我国成功发射吉星高分07C04星等8颗卫星。（央视新闻）</p>",
+      "category": "tech",
+      "published_at": "2026-06-15T13:48:20+00:00",
+      "fetched_at": "2026-06-16T03:38:55.805178+00:00",
+      "fingerprint": "f709ad439501bbf0"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
+      "url": "https://36kr.com/p/3854510160549124?f=rss",
+      "summary": "<p>在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？</p>\n  <p>6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。</p>\n  <p>Pocket 4P 以&nbsp;3799元起售，多平台预订量持续走高。</p>\n  <p>对于一个原本被视为“手机影像补充”的品类来说，这种热度本身就提出了一个新的问题：当手机已经足够强，为什么仍然有越来越多人愿意为一台独立影像设备买单？</p>\n  <p>过去几年，旗舰手机几乎每一次更新都在吞噬传统相机的边界。从多摄系统、长焦镜头、计算摄影，到 Log 视频、AI 修图和一键出片，手机已经成为绝大多数普通用户最顺手的影像工具。</p>\n  <p>但另一边，一个看起来有些反常识的品类，却在井喷增长。</p>\n  <p>在丽江玉龙雪山的拍摄现场，拿着大疆 Pocket 的用户，已经不再只是数码爱好者。旅行博主、亲子用户、美食探店创作者、综艺节目组，甚至很多第一次尝试视频创作的人，都在用这台小机器完成日常表达。</p>\n  <p>“大疆首创了 Pocket 这一产品形态，也确实得到了市场和广大用户的认可。”在大疆「视界无边」影像探索之旅丽江站的Pocket 4P媒体先享会现场，Pocket 系列产品经理这样开场。</p>\n  <p>据他介绍，Pocket 3 发布之后，整个产品线出现了爆发增长，基本每年翻倍。到今年，Pocket 3 的国内市场规模已经大于微单市场。这意味着，对于大量普通用户来说，出门旅行、记录生活、拍摄短视频时，云台相机正在成为比传统相机更自然的选择。</p>\n  <p>这背后真正值得讨论的，并不是产品又多了哪些参数，而是一个更大的问题：当手机越来越强，大疆为什么仍然要做 Pocket？不断迭代的Pocket为什么还能持续且爆发式增长</p>\n  <p>。答案或许藏在这条产品线过去8年的演化里。</p>\n  <p>Pocket 的八年，不是一台设备不断堆参数的过程，而是一家公司不断重新理解“普通人到底需要什么影像工具”的过程。</p>\n  <h3><strong>Pocket 不是一开始就为 Vlog 而生</strong></h3>\n  <p>今天提到 Pocket，很多人会自然想到 Vlog、自拍、旅行记录和轻量创作。但在一开始，大疆并不是这样定义它的。</p>\n  <p>2015 年，大疆第一次把 Inspire（悟）无人机上的云台相机“小脑袋”拿到手持设备上，推出 Osmo 系列。这是手持云台相机形态的源头。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_86bb7cd0dfea466d987bac3ad553eefc@430412560_oswg164672oswg830oswg762_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>彼时的大疆，更多是站在专业影像的视角思考问题：更稳定的画面、更大的传感器、更强的后期空间。之后，大疆陆续推出 Osmo+、Osmo Pro 和 Osmo RAW，甚至加入 M4/3 卡口联盟，让设备可以更换镜头、录制无损 RAW，为专业创作留下更大空间。</p>\n  <p>但这些产品也有明显的问题：太专业、太重、门槛太高。“我们当时就在想，有没有可能把它进一步缩小，让每个人都能享受云台相机拍摄的体验。”产品经理回忆。</p>\n  <p>于是，2018 年，Osmo Pocket 发布。它极其小巧，可以轻松放进口袋，当时被称为“口红相机”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_7951fdbf463540c4b9b61543113b820c@430412560_oswg731597oswg822oswg548_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>但一个容易被忽略的事实是，初代 Pocket 并不是一台真正意义上的 Vlog 相机。</p>\n  <p>产品经理表示，Pocket 1 的焦段大概在 26mm 左右，自拍并不舒服。“以至于刚发布的时候，我们也没有打 Vlog 的概念。”一方面，当时国内还没有真正形成 Vlog 文化；另一方面，产品本身也还没有完全适配自拍表达。</p>\n  <p>真正的变化发生在后面。当 Pocket 1 配上延长杆之后，用户开始拿它自拍、讲话、记录日常，大疆才逐渐意识到：用户需要的并不是一台“小型稳定相机”，而是一种更轻、更低门槛的表达方式。</p>\n  <p>某种程度上，Pocket 的产品定义不是一开始就被设计出来的，而是在用户的使用中被不断刷新出来的。于是到了 Pocket 2，大疆开始真正主打 Vlog。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_2fd958122f8446a7a512ed9bc6076a9a@430412560_oswg427222oswg830oswg468_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>这一代最关键的变化，是把焦段调整到 20mm，自拍更友好。同时，Pocket 2 也首次尝试无线麦克风生态。虽然当时的无线麦克风只能连接 Pocket 2，但后来 DJI Mic 独立发展成多个系列，能直连相机、手机和 Osmo 系列设备。</p>\n  <p>从 Pocket 1 到 Pocket 2，本质上是一次产品定位的变化：从“带增稳的画质工具”，转向“口袋里的 Vlog 相机”。但这还不是 Pocket 真正爆发的时刻。</p>\n  <p>Pocket 2 发布后，大疆发现另一个问题：当用户把它和索尼、佳能等传统卡片机对比时，Pocket 的优势是小巧、稳定、方便，但在“拍人好看”这件事上，还不够突出。对于 Vlog 来说，这恰恰是最重要的能力之一。</p>\n  <p>于是，Pocket 3 的重点不再只是“能不能拍”，而是“拍出来好不好看”。一英寸 CMOS、两英寸旋转屏、色彩风格，开始共同推动这条产品线进入新阶段。</p>\n  <p>产品经理提到，Pocket 3 之后，很多美图、剪映等应用里甚至出现了 Pocket 3 风格的滤镜。也就是说，Pocket 开始拥有被大众认可的色彩风格和影像审美。这其实是一个很重要的转折。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_7484aa599213450abc92273f689ee7c0@430412560_oswg468980oswg828oswg622_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>从 Pocket 1 到 Pocket 4，这条产品线经历了几次认知跃迁：Pocket 1 解决的是“稳定+画质”；Pocket 2 解决的是“Vlog 自拍成立”；Pocket 3 解决的是“拍人好看”；Pocket 4 则试图解决“更多场景下的创作表达”。</p>\n  <p>它不再只是一个自拍设备，而是在向“口袋里的影像系统”演进。</p>\n  <h3><strong>为什么 Pocket 3 才真正爆发？</strong></h3>\n  <p>如果从结果看，Pocket 系列真正进入大众视野，是从 Pocket 3 开始。但这并不意味着前两代失败了。恰恰相反，在大疆内部看来，Pocket 1 和 Pocket 2 在产品表现上都已经取得了不错的成绩，但它们的影响力还主要在科技圈。</p>\n  <p>产品经理对36氪解释，一款产品要真正走向大众，需要同时满足两件事：首先产品力必须过硬；其次，还要看它能不能破圈。Pocket 3 的爆发，正是这两件事同时发生的结果。</p>\n  <p>从产品力来看，Pocket 3 已经站到了同类设备第一梯队。一英寸传感器带来的动态范围、位深和画质表现，让它不再只是一个“方便的小机器”，而是开始具备让用户认真创作的能力。但仅有产品力并不足以带来规模爆发。</p>\n  <p>真正重要的是，它被更多圈层看见了。真人秀、综艺节目和内容制作团队，是 Pocket 3 破圈的重要推手。很多导演发现，这种小型设备可以替代一部分传统拍摄设备，进入更贴近人物的场景。艺人可以自己拿着拍，画面更自然，也更有亲近感。</p>\n  <p>当大众在综艺、剧集、短视频里不断看到这样一种设备，又在数码博主那里看到它的评测，再叠加明星的自发使用，Pocket 3 的认知开始被不断叠加。</p>\n  <p>它不再只是数码圈里的一台新设备，而变成一种大众能够理解、模仿和购买的创作工具。这也是 Pocket 3 与前两代最大的差别。前两代证明了产品成立，第三代证明了它可以进入更大的社会场景。</p>\n  <p>在这个过程中，大疆也持续通过功能更新维持讨论度。例如视频转实况、色彩滤镜、直出效果等功能，未必是最硬核的参数升级，却都实实在在落在了用户最具体的痒点和痛点上：画面能不能更好看、拍完能不能更方便地发、内容能不能更省事地分享。对于大众用户来说，这些往往比抽象的参数提升更重要，也更容易转化为实际购买和自发传播。</p>\n  <p>这背后对应的是消费电子产品一个普遍规律：产品不会因为“更强”而自动爆发，真正带来增长的，往往是它恰好升级到了用户最在意的需求上。当功能足够有用，用户就会用购买和分享投票，产品也才有机会完成真正意义上的破圈。</p>\n  <p>Pocket 3 的成功，本质上不是一次单纯的硬件升级，而是一次产品升级与用户需求精准对位的结果。也正因为如此，它才能在同一个时间窗口里，同时完成口碑积累、场景扩展和大众传播，最终迎来真正的爆发。</p>\n  <p>到了 Pocket 4，大疆面对的课题随之变化。既然 Pocket 已经证明了自己不只是一个小众数码产品，那么下一步，它能不能从一个“爆款单品”，成长为一个更完整的影像系统？</p>\n  <p>这也是 Pocket 4 和 Pocket 4P 同时被摆到台前的原因。大疆这一次没有只推出一个型号，而是区分了 Pocket 4 和 Pocket 4P。按照产品经理的说法，Pocket 4 更适合普通用户vlog记录生活，Pocket 4P 则面向有更高影像追求的创作者，尤其是对人像、中焦、调色和电影感有更高要求的人群。</p>\n  <p>这背后意味着，Pocket 品类开始进入更细分的阶段。就像传统相机会分入门机、进阶机、专业机一样，当一个品类规模足够大之后，它不可能永远只靠一台机器覆盖所有用户。</p>\n  <p>Pocket 4 是大众化基础款，Pocket 4P 是进阶创作者版本。大疆选择提前官宣 4P，也是为了让用户在购买时，有更充分的选择权。这是一种很典型的成熟品类打法。它说明 Pocket 不再只是“出一代卖一代”的产品，而开始拥有清晰的产品分层和用户分层。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260615/v2_d6edabe331394abbb955f4c5c901439b@430412560_oswg462405oswg1377oswg965_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h3><strong>Pocket 4P&nbsp;，如何将电影机装进口袋</strong></h3>\n  <p>从先享会来看，Pocket 4P 最容易被注意到的，是一系列影像参数。</p>\n  <p>例如，搭载全新 CMOS，支持 17 级超高动态范围；引入 D-Log2 色彩曲线，能够更好衔接电影机工作流；新增 3 倍中焦镜头，覆盖更丰富的焦段；支持 4K 高帧率视频；同时补齐补光灯、取景器、续航手柄等生态配件。</p>\n  <p>参数之外，Pocket 4 真正的变化在于，它开始正面回答一个问题：在手机影像已经足够强的时代，独立影像设备还能靠什么存在？</p>\n  <p>如果大疆Pocket 4 给出的答案是“比手机更全能”，那么Pocket 4P&nbsp;则是在特定场景下提供更为确定的影像能力，并在关键创作场景中呈现出接近单反，甚至“小型电影机 / 口袋电影机”级别的画面表现。</p>\n  <p>具体来说首先是更稳定。云台是大疆长期技术积累最深的能力之一。产品经理在采访中提到，云台技术并非简单的硬件堆叠，而是依赖大量算法经验、真实使用数据以及多代产品的持续迭代。其背后的前馈控制与运动补偿逻辑非常复杂，需要长期积累才能实现顺滑、可靠且自然的画面表现。这也是即便手机厂商进入云台相机赛道，也很难在短时间内复现同等体验的关键原因之一。</p>\n  <p>第二是更像创作工具。手机的优势是随手可得，但它也是一个高度综合的设备。它要兼顾通信、社交、娱乐、计算、拍照、视频等无数任务。Pocket4&nbsp;则更专注，它的握持、屏幕、云台、焦段和配件，都围绕拍摄展开。</p>\n  <p>比如 Pocket 4P 的 3 倍中焦，并不是为了简单放大画面，而是为了拍出更好的空间压缩感、虚化和人像氛围。产品经理解释，他们曾经考虑过双一英寸方案，但如果放两个一英寸传感器，上方镜头的光圈就会被迫缩小，最终反而损失虚化和质感。最后大疆选择的是 1 英寸主摄加 1/1.3 英寸中焦，并尽可能把光圈做大。这背后是一个重要取舍：在小体积设备里，并不是大底一定最优，而是要服务最终画面。</p>\n  <p>第三是更强的软硬件耦合。手机厂商多采用 MTK 或高通方案，而大疆的芯片和系统更多是围绕影像服务。再加上大疆在云台、色彩、镜头、传感器、算法和硬件结构上的长期积累，最终形成了比较独特的画面风格。</p>\n  <p>影像色彩尤其如此。它不像算力或分辨率那样容易量化，更多依赖审美、时间和用户认可。市场上真正被广泛接受的色彩风格并不多，而 Pocket 3 在色彩上的认可，是大疆继续往前走的重要基础。</p>\n  <p>第四是生态化。Pocket 4P&nbsp;的补光灯、遥控取景器、无线麦、内置存储、直出功能和手势识别，本质上都在解决一件事：提升单人创作效率。比如新增柔光补光灯，没有独立电池，而是通过机身取电，尽可能做到小而轻，功耗低，并且可以与机身联动：暗光时自动打开，自拍时补光，向前拍摄时关闭。</p>\n  <p>再比如手势识别。产品经理提到，此前有综艺嘉宾对着 Pocket 3 挥手，希望它能自动跟拍，于是大疆就在后续的Pocket产品中顺势加入了智能的手势控制功能，&nbsp;比“耶”手势开拍，比“手掌”手势开启智能跟随，让一个人也能轻松拍出“他拍感”。</p>\n  <p>这些小功能单独看都不算颠覆，但合在一起，会让 Pocket 更接近一个完整创作系统。它想解决的不是“能不能拍”，而是“一个人能不能更轻松地拍好”。</p>\n  <p>当然，Pocket面临的竞争也会越来越激烈。随着 Pocket 3 销量增长，这个赛道已经被更多玩家看见。手机厂商、运动相机厂商、影像设备厂商，都可能进入云台相机市场。但大疆的护城河并不只是一颗传感器或一个云台结构，而是长期形成的系统能力：芯片、影像调校、云台控制、供应链定制、软硬件耦合，以及对用户使用场景的理解。</p>\n  <p>Pocket 系列很多零部件并非公模设计。镜头、芯片、Sensor、屏幕、电池等，都需要围绕产品形态进行定制开发。也因此，即便其他厂商拆解 Pocket 3 后发现有降本空间，如果没有正向设计和供应链摸排，也很难快速复制同样体验。</p>\n  <p>从成本和价格上看，Pocket 4 的定价低于 Pocket 3，也与规模效应有关。Pocket 3 的销量爆发，加之&nbsp;Pocket 4 与 Pocket 3 配件通用性较高，模具与物料费用被摊薄，即便���增内置存储，也仍然有更低价格空间。</p>\n  <p>这说明，Pocket 这条产品线已经开始进入规模化正循环：销量提升带来成本下降，成本下降带来价格优化，价格优化又进一步扩大用户基础。</p>\n  <p>回到最初那个问题：手机影像越来越强，大疆为什么还要做 Pocket？因为手机解决的是“人人都能记录”，而 Pocket 想解决的是“普通人也能更容易拍出作品感”。</p>\n  <p>它不需要在所有场景下战胜手机。它只需要在旅行、Vlog、单人创作、人像、运动跟拍、综艺记录这些场景里，成为更确定、更顺手、更能出片的工具。</p>\n  <p>从这个意义上看，Pocket 4 并不是一次简单的新品迭代。它代表的是大疆对一个成熟品类的重新划线：不是所有独立影像设备都会留下来，但那些在具体场景中足够轻、足够稳定、足够有表达力的设备，仍然会有自己的位置。</p>\n  <p>在Pocket 4 基础上，大疆迭代出的Pocket 4P 差异化核心，同样在于它承接的是大疆独有的能力体系，而不只是一次单点硬件升级。大疆是 Pocket 品类的开创者和领导者，同时也是少数真正打通专业影像线与消费影像线的品牌。过去十年，大疆如影系列在专业影像和云台稳定技术上持续积累，相关能力获得过奥斯卡、艾美奖等国际知名奖项认可；大疆电影机如影 4D 在影像色彩调教、稳定系统、专业剧组使用和真实场景经验上的沉淀，也都给了 Pocket 4P 很强的底层支撑。</p>\n  <p>所以 Pocket 4P 的竞争力，不只是双摄带来的焦段扩展，更在于它把专业线验证过的稳定、色彩和创作经验，压缩进了一个口袋尺寸的机身里。双摄让 Pocket 第一次拥有更完整的镜头语言，再结合大疆成熟的云台能力和场景理解，它已经不只是便携记录设备，而是具备了媲美迷你电影机的创作能力。</p>\n  <p>回顾大疆在手持云台领域的12年深耕，其实是一部不断拓宽行业边界的演进史。从2018年初代Osmo Pocket 开创并定义“口袋云台相机”品类，攻克极限空间下的小型化与散热难题；再到Pocket 3通过巧妙的旋转屏结构，开启手持云台大底画质时代。如今全新Pocket 4P的问世，将17级动态范围、D-Log 2专业色彩以及智能跟随8.0技术，毫无妥协地塞入掌心大小的机身中。所以大疆真正做的，也许不是一台小相机。而是在回答一个更长线的问题：当人人都能拍视频之后，什么样的设备，才能让普通人更容易表达自己？</p>",
+      "category": "tech",
+      "published_at": "2026-06-15T14:13:11+00:00",
+      "fetched_at": "2026-06-16T03:38:55.805170+00:00",
+      "fingerprint": "c980b844e85368db"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+      "url": "https://36kr.com/p/3855082873476102?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>国内品牌金饰价格普涨</li>\n   <li>小红书公布世界杯开赛数据</li>\n   <li>阿里巴巴达摩院退出旗下科技公司</li>\n   <li>罗马仕接连变更法定代表人</li>\n   <li>遇见小面创始人向“渝见小面”致歉</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>针对多发食品安全问题，市场监管总局约谈山姆总部</strong></p>\n  <p>记者15日了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中国）投资有限公司（即山姆总部）负责人进行了责任约谈，要求其严格按照《中华人民共和国食品安全法》，以及《食品销售连锁企业落实食品安全主体责任监督管理规定》《网络食品销售经营者落实食品安全主体责任监督管理规定》等法律法规规定开展食品经营活动，始终树牢食品安全意识，严格落实食品安全主体责任，自觉践行企业社会责任，严防全链条食品安全风险，切实保障公众饮食安全。</p>\n  <p>针对被市场监管总局约谈，山姆方面回应记者称，公司已由管理层牵头成立专项整改工作组，第一时间启动全渠道、全链路专项自查整改。我们将严格遵照相关法规及监管要求，全面优化食安管控和商品品控，严守食品安全底线、提升会员体验。（央视新闻、中国新闻网）</p>\n  <p><strong>智谱股价暴涨，创上市以来单日成交新高</strong></p>\n  <p>6月15日，港股AI大模型板块全线走强，其中，国产大模型龙头智谱（02513.HK）早盘高开近15%后持续拉升，盘中最高涨幅一度达到47.6%，截至午市收盘，智谱涨幅收窄至28.35%，报1408港元，总市值突破6277亿港元，单日成交额超52.08亿港元，创下上市以来单日成交新高。</p>\n  <p>消息面上，6月12日，美国商务部依据出口管制相关授权，要求人工智能公司Anthropic暂停向所有外国国民（不论其身在美国境内或境外）提供其最新旗舰模型Claude Fable 5与Claude Mythos 5的访问权限。Anthropic收到美国出口管制禁令后，中国模型厂商迅速跟进、宣布全量开放。</p>\n  <p>6月13日，智谱宣布旗下开源旗舰GLM-5.2面向其Coding Plan全量用户开放（Lite/Pro/Max及团队版），并预告API上线，同时称模型权重按MIT协议开源。智谱表示，此次开放的新模型是公司迄今为止能力最强的开源模型，又指在前沿模型突然变得不可用的时刻，科技不应该只属于少数人，也不应该被随时收回。（界面新闻）</p>\n  <p><strong>美伊确认达成协议，国际油价显著下跌</strong></p>\n  <p>由于美国和伊朗确认达成协议及霍尔木兹海峡预计很快重新开放，国际原油期货14日在开始新一周交易后价格显著走低。截至美东时间14日下午6时15分，纽约商品交易所7月交货的轻质原油期货价格最低降至每桶80.25美元，跌幅达5.45%；8月交货的伦敦布伦特原油期货价格一度跌至每桶83.51美元，跌幅为4.37%。</p>\n  <p>另据国际航运信息平台“海上交通网站”显示的船舶追踪数据，液化天然气运输船“迪沙”号15日通过霍尔木兹海峡进入阿曼湾。这是美国和伊朗达成协议后首艘通过霍尔木兹海峡的大型能源运输船。（央视新闻、新华社）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>智谱：公司已推出最新一代旗舰模型GLM-5.2</strong></p>\n  <p>36氪获悉，智谱港交所公告，董事会欣然宣布，本公司已推出最新一代旗舰模型GLM-5.2，模型提供达到1M的长上下文，并在长程任务中继续保持领先，将遵循MIT协议开源。预计该模型将助益本公司后续开放平台及API业务的调用量提升。</p>\n  <p><strong>智元远征A3机器人实现自主乒乓球对打</strong></p>\n  <p>智元公司15日宣布，旗下全尺寸人形机器人远征A3已实现自主乒乓球对打。据悉，远征A3可在无遥控、无脚本、无人工干预的情况下，自主完成视觉感知、轨迹预测、运动规划和击球控制等环节。（新华财经）</p>\n  <p><strong>腾讯元宝接入ima知识库</strong></p>\n  <p>36氪获悉，腾讯宣布元宝接入ima知识库。用户在元宝内搜索时，可直接调用ima公开知识库中沉淀的海量专业知识库内容，获得更精准、可溯源的AI回答。同时，点击信源引用卡片，还可直接跳转至ima原文，并一键加入个人知识库。目前，ima知识号已覆盖金融、法律、医疗、教育等20余个行业，沉淀海量专业文件，知识内容被应用超过1.4亿次。</p>\n  <p><strong>百度搭子DuMate完成核心引擎升级</strong></p>\n  <p>36氪获悉，百度搭子DuMate完成核心引擎升级，通过Harness引擎及多项工程层面的持续调优，在保障Agent智能能力与任务执行效果不受影响的前提下，将任务执行过程中的Token消耗降低75%，对应用户积分消耗也相应减少75%。这也是国内通用智能体产品中，首次通过Harness引擎及工程优化实现任务消耗大幅下降。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>传阿里出价约118亿港元竞购朴朴超市？阿里暂无回应</strong></p>\n  <p>近日，有市场消息称，阿里巴巴计划出价15亿美元（约118亿港元）收购中国生鲜外卖平台福州朴朴电子商务有限公司。据知情人士透露，阿里的报价较高鑫零售早前出价高出逾一倍，或将引发一轮竞购战。对此，新浪科技向阿里官方进行求证，截至发稿对方暂无回应。（新浪科技）</p>\n  <p><strong>阿里菜鸟要解散？最新官方回复“假的，纯属谣言”</strong></p>\n  <p>36氪获悉，针对网传阿里菜鸟或将解散的消息，菜鸟方面回应：“假的，纯属谣言”。</p>\n  <p><strong>李书福、张雪据悉达成合作意向</strong></p>\n  <p>据央视财经6月15日报道，近日，在《对话》节目录制现场，吉利控股集团董事长李书福向张雪机车创始人张雪发起“摩托车慢骑”趣味挑战。据了解，李书福和张雪已经达成了一些合作意向。两人在现场表示，将联手推动世界超级摩托车锦标赛（WSBK）在中国落地举办。（央视财经）</p>\n  <p><strong>中国“纯硅”成功突破，我国攻克硅基量子芯片关键材料</strong></p>\n  <p>记者15日从中核集团了解到，我国科学家在稳定同位素富集领域取得关键性突破，首次成功实现丰度超过99.99%的硅-28同位素自主量产，产品关键指标达国际先进水平。标志着我国在构建自主可控、协同高效的稳定同位素产业格局方面迈出实质性步伐。（央视新闻）</p>\n  <p><strong>国内品牌金饰价格普涨，周生生金价重回1300元</strong></p>\n  <p>现货黄金震荡走高，国内金饰克价15日也随之上涨。周生生足金首饰克价1306元，较14日1274元涨了32元；老凤祥15日足金首饰克价1290元，较14日1271元涨了19元；老庙黄金足金首饰克价1299元，较14日1271元涨了28元。（财联社）</p>\n  <p><strong>原“死了么”App团队计划出让5%股份募资1000万，公司估值或达2亿元</strong></p>\n  <p>据报道，原“死了么”App团队计划募资1000万，出让公司5%股份，目前“死了么”App已改名为“在么在么”。“在么在么”披露了未来18个月的融资路线图。公司计划融资1000万元，从街道试点向区县复制样板迈进。创始人郭先生表示，资金将重点投向产品研发、市场拓展、交付运营及合规储备，其中产品研发占比最大为40%，市场拓展占比30%，交付运营占20%。（财联社）</p>\n  <p><strong>小红书公布世界杯开赛数据，平台直播在线人数创历史峰值</strong></p>\n  <p>36氪获悉，6月15日，小红书披露世界杯开赛前三日平台数据。观赛直播层面，开赛首日小红书世界杯直播在线观看人数，较赛事开赛前增长55倍，打破平台直播在线人数历史峰值，创下全新纪录。开赛前三日内，直播间球迷累计互动次数达到9000万次。</p>\n  <p><strong>“存款搬家”最新进展？业内人士：真实存在但并非大规模迁移</strong></p>\n  <p>6月15日讯，2026年，市场对“存款搬家”的讨论热度依旧不减，多家机构判断今年将迎来大量长期定期存款的集中“到期潮”，年内到期定存规模可达30万亿元至70余万亿元。业内人士表示，从二季度的数据来看，这个现象没有发生，或者说发生的规模比较小。当前A股呈现鲜明的结构性牛市特征，阶段性回调风险始终存在，这也会影响部分投资者的心态，“因此，‘存款搬家’的幅度没有大家想象中那么大，对市场的冲击也相对有限。”（21财经）</p>\n  <p><strong>立昂微：自6月15日起，对功率芯片业务全系产品价格调涨10%-15%</strong></p>\n  <p>36氪获悉，近日立昂微对客户发出产品价格调整通知函，对全系列产品进行涨价。公司表示，受上游原材料价格持续上涨影响，公司综合生产成本大幅增加，为保障产品品质、服务质量及供货稳定，自6月15日起，对功率芯片业务全系产品价格调涨10%—15%。</p>\n  <p><strong>安克创新据悉开始评估投资者对其香港上市的兴趣，筹资不超过7亿美元</strong></p>\n  <p>知情人士称，中国消费电子产品制造商安克创新已开始评估投资者对其香港上市的兴趣。知情人士称，该公司计划在未来数周通过香港上市筹资不超过7亿美元。文件显示，中金、高盛和摩根大通为联席保荐人。安克创新暂未回应置评请求。（新浪财经）</p>\n  <p><strong>阿里巴巴达摩院退出旗下科技公司</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，大蛮驴智能科技（浙江）有限公司发生工商变更，企业名称变更为杭州元识智瞳科技有限公司，原股东阿里巴巴达摩院（深圳）科技有限公司退出。该公司成立于2022年12月，注册资本5000万人民币，法定代表人为苏文博，经营范围包括电子元器件批发、电子元器件零售、电子元器件与机电组件设备销售等，现由上海模因智瞳科技有限公司全资持股。</p>\n  <p><strong>超大比例限售股解禁压顶，瑞玛精密跌停，公司回应</strong></p>\n  <p>6月15日早盘，瑞玛精密跌停，跌停价报29.59元/股。消息面上，6月15日，公司约2696.36万股定向增发限售股解禁，占总股本18.01%。发行价为23.44元/股，当前股价与发行价相比存在溢价，市场抛压较大。对此，瑞玛精密方面回应，股价受多重因素影响，此次下跌可能有一部分是定向增发限售股解禁的原因，盘面是市场买卖决定的。公司目前生产经营一切正常，公司业务没有明显的季节性周期特点，二季度业绩等情况以公司公告为准。（中证报）</p>\n  <p><strong>遇见小面创始人向“渝见小面”致歉</strong></p>\n  <p>“遇见小面”创始人宋奇6月15日发布致“渝见小面”的一封信，就“商标风波”致歉。信中称，“这两天，我闭门思过，想着除了道歉我到底还能做点什么。于是，我和团队决定将我们已注册的第35类‘渝见小面’商标无偿赠予你们，你们可以不用改换招牌而放心使用。如果你们还需要继续申请第43类商标（目前可以申请注册）或者还有其他方面的需要，我们也很愿意提供必要的帮助。”</p>\n  <p>据媒体报道，近日，河南南阳一家“渝见小面”餐饮店被连锁品牌“遇见小面”起诉商标侵权，对方律师称撤诉需赔偿七八千元，“渝见小面”负责人哭诉“我八块钱一碗的面，至少得卖1000碗，1000碗还有成本”。此事随之引发争议。6月13日，“遇见小面”发布关于商标事件的说明，称已第一时间沟通撤销对“渝见小面”的诉讼，并反思商标维权行动的流程。（界面新闻）</p>\n  <p><strong>罗马仕接连变更法定代表人</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，深圳罗马仕科技有限公司发生工商变更，雷子权卸任法定代表人、董事，由雷秀容接任上述职务。该公司成立于2012年3月，注册资本600万人民币，经营范围包括电子产品的研发、设计、制造与销售等，由江门市聚安科技有限公司全资持股。变更记录显示，今年5月，雷社杏卸任法定代表人，由雷子权接任。</p>\n  <p><strong>美股三大指数集体收涨，SpaceX大涨超19%</strong></p>\n  <p>36氪获悉，6月15日收盘，美股三大指数集体上涨，纳指涨3.07%，道指涨0.92%，标普500指数涨1.66%。SpaceX大涨19.6%，总市值跃升至2.52万亿美元。芯片股走强，西部数据涨超16%，美光科技涨超10%，希捷科技涨超9%，英伟达涨超3%。热门中���股多数上涨，拼多多涨超2%，百度、京东、网易、理想汽车小幅上涨，阿里巴巴、蔚来、哔哩哔哩小幅下跌。</p>\n  <p><strong>古尔曼：折叠屏iPhone与触屏MacBook即将亮相</strong></p>\n  <p>当地时间6月14日，知名苹果产业链记者马克・古尔曼（Mark Gurman）在最新一期《Power On》通讯中指出，苹果下一代操作系统iOS 27与macOS 27的开发者测试版中，涌现大量底层代码、交互逻辑与适配接口线索，这意味着折叠屏iPhone和触屏MacBook即将到来。</p>\n  <p>古尔曼表示，苹果本次系统测试版内的多项底层调整并非面向现有iPhone、Mac设备的常规功能优化，而是苹果工程团队提前数年为全新硬件形态铺设的底层软件代码。这是苹果在为两款酝酿已久的新形态硬件做系统级铺路，分别是折叠屏iPhone和配备触控屏的MacBook。（界面新闻）</p>\n  <p><strong>消息称SK海力士准备向主要客户提供HBM4E样品，最早本月发货</strong></p>\n  <p>据Nate报道，业内人士透露，SK海力士目前正筹备向主要客户送样HBM4E，首批样品最快将于本月出货，最迟不超过下个月。业内分析指出，鉴于HBM4E计划于明年正式量产，今年下半年必须完成客户的测试验证与优化流程，因此目前的送样节点已十分紧迫。（财联社）</p>\n  <p><strong>Anthropic将就Mythos相关纠纷与特朗普政府展开会晤</strong></p>\n  <p>一名接近Anthropic公司的消息人士透露，公司多名高层管理人员将于6月22日在华盛顿特区同特朗普政府官员会面，力求化解这家人工智能企业近期与美国政府爆发的重大纠纷。一份声明显示，Anthropic6月12日收到一份出口管制指令，文件援引国家安全相关部门的要求，勒令该公司全面禁止所有外籍人士使用其最新两款人工智能模型Fable 5与Mythos 5，无论外籍人士身处美国境内还是海外。（财联社）</p>\n  <p><strong>马斯克：SpaceX到2030年可能实现1万亿美元的营收</strong></p>\n  <p>埃隆·马斯克14日表示，他的火箭公司SpaceX到2030年营收有望达到1万亿美元。此前两天，该公司刚刚上市，估值超过2万亿美元。（新浪财经）</p>\n  <p><strong>美国顶级基金经理：通胀和“巨无霸IPO”引发流动性紧缩，纳指年内恐跌35%</strong></p>\n  <p>美国一位顶级基金经理表示，由于通胀压力和“巨无霸IPO”引发的流动性紧缩共同作用，纳斯达克指数今年可能下跌35%，这将构成当前牛市行情的重大阻碍。过去两周，半导体和成长股普遍出现大幅波动，仅6月5日一天，纳斯达克指数就下跌了4.8%，也就是所谓的“黑色星期五”。晨星评级为五星的Leader Capital高质量收益基金（High Quality Income Fund，简称LCATX）的共同管理人Slavik Kolesnik表示，此类下跌是未来更大幅度下跌的早期迹象。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>小红书或已准备好本月在香港提交IPO申请</strong></p>\n  <p>据透露，小红书科技有限公司正准备在本月底前秘密向香港提交首次公开募股（IPO）申请。（新浪财经）</p>\n  <p><strong>立讯精密计划最快于7月在香港上市，拟融资不超过30亿美元</strong></p>\n  <p>IFR援引知情人士报道称，立讯精密计划最快7月份在香港上市，拟筹资20亿至30亿美元。（新浪财经）</p>\n  <p><strong>国仪量子技术（合肥）股份有限公司科创板IPO注册生效</strong></p>\n  <p>36氪获悉，国仪量子技术（合肥）股份有限公司科创板IPO注册生效。</p>\n  <p><strong>开封清明上河园股份有限公司向港交所提交上市申请书</strong></p>\n  <p>36氪获悉，据港交所文件披露，开封清明上河园股份有限公司向港交所提交上市申请书。</p>\n  <p><strong>燧原科技科创板IPO获上市委会议通过</strong></p>\n  <p>36氪获悉，燧原科技科创板IPO获上市委会议通过，公司拟融资金额60亿元。</p>\n  <h2>投融资</h2>\n  <p><strong>“秩益科技”技连续完成亿元级A轮及A+轮融资</strong></p>\n  <p>36氪获悉，据秩益科技消息，近日，“秩益科技”连续完成亿元级的A轮及A+轮融资。其中，A轮由老股东沂景资本独家增资；A+轮由毅达资本领投、比丘资本战略加持。熙桥资本担任本轮财务顾问。</p>\n  <p><strong>“极佳视界”再获10亿元B2轮融资</strong></p>\n  <p>36氪获悉，据极佳视界消息，近日，物理AGI企业“极佳视界”再获10亿元B2轮融资，本轮融资由新加坡跨境投资机构狮城资本、中国-比利时基金（中比基金）、建投投资、万向钱潮、复星锐正、华盖创赢、金创投、德屹资本、华仓资本、元石基金等全球国家队基金、产业资本、财务机构、国资平台共同投资，国中资本、达晨财智、图灵资管等多个老股东持续超额加注。本轮融资将主要用于“双金字塔”数据与算法体系的持续投入、物理AGI基础模型的研发迭代，以及C端家庭场景与B端工业场景的规模化落地。</p>\n  <p><strong>“洛梵狄”完成新一轮数千万元B+融资</strong></p>\n  <p>36氪获悉，智能短出行核心零部件供应商“洛梵狄”已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。</p>\n  <p><strong>“世航智能”完成A轮融资，融资金额超过10亿元</strong></p>\n  <p>36氪获悉，海洋具身智能公司“世航智能”完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司摩尔线程和昆仑芯的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth、上市公司大洋电机等资方出资。另外，金沙江创投也在本轮追加投资，这已是其创始人朱啸虎第五轮投资世航智能，祥峰中国、华映资本、长石资本等老股东亦全部超额跟投。本轮融资将主要用于核心技术研发、全球化市场拓展及产业链生态建设，进一步推动海洋机器人在复杂水下场景中的规模化应用。</p>\n  <p><strong>“大晓机器人”完成天使+轮融资</strong></p>\n  <p>36氪获悉，据大晓机器人消息，近日，“大晓机器人”已完成天使+轮融资。天使+轮吸引吉利资本、达晨财智、深创投、上海科创基金、沐曦股份、盛宇投资、复星锐正、华控基金、临港新片区基金、豫资涨泉等众多投资方支持，老股东商汤国香资本持续增资，告捷资本担任长期财务顾问。至此，大晓机器人2026年上半年已累计融资数亿美元。</p>\n  <p class=\"editor-note\"><strong>整理</strong>｜娃娃菜</p>",
+      "category": "tech",
+      "published_at": "2026-06-15T23:56:18+00:00",
+      "fetched_at": "2026-06-16T03:38:55.805155+00:00",
+      "fingerprint": "7be5e6726a05dd7a"
+    },
+    {
+      "source": "少数派",
+      "title": "Snapseed 4.0：Google 终于想起了这款「免费修图神器」",
+      "url": "https://sspai.com/post/110525",
+      "summary": "Snapseed可谓是手机摄影App届元老级的存在了，最早由软件公司NikSoftware于2011年开发推出，当年即被评为AppStore年度应用。次年NikSoftware即被Google收购，S ...<a href=\"https://sspai.com/post/110525\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-15T06:39:30+00:00",
+      "fetched_at": "2026-06-16T03:38:53.480266+00:00",
+      "fingerprint": "ec5963a3f5febc36"
+    },
+    {
+      "source": "少数派",
+      "title": "从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置",
+      "url": "https://sspai.com/post/110984",
+      "summary": "过去几年，我一直在深圳做硬件产品，也在少数派参与过几次消费电子产品的共创。如果你关注过少数派之前的一些硬件项目，可能见过BANG!CASE。它最早来自我的一个产品创意，后来在少数派团队的推进下变成了真 ...<a href=\"https://sspai.com/post/110984\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-15T08:00:00+00:00",
+      "fetched_at": "2026-06-16T03:38:53.480260+00:00",
+      "fingerprint": "ffb3374771973ee5"
+    },
+    {
+      "source": "少数派",
+      "title": "具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容",
+      "url": "https://sspai.com/post/111003",
+      "summary": "除了可以自定义的 Liquid Glass 透明度，iPadOS 27 还有这 12 项细节变化。<a href=\"https://sspai.com/post/111003\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-15T08:04:25+00:00",
+      "fetched_at": "2026-06-16T03:38:53.480255+00:00",
+      "fingerprint": "686e2e58ca8c720f"
+    },
+    {
+      "source": "少数派",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/111068",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/111068\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-15T09:45:36+00:00",
+      "fetched_at": "2026-06-16T03:38:53.480248+00:00",
+      "fingerprint": "fb23679e3be43077"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：大疆发布 Osmo Pocket 4P 双主摄口袋电影机等",
+      "url": "https://sspai.com/post/111080",
+      "summary": "少数派的近期动态少数派×AKKO联合共创带屏键盘功能共创计划开启。参与众测招募尝鲜27系列新系统的朋友，你的满意度如何？来一派投票少数派正版软件、付费教程618促销活动限时开启。点击省钱可爱又好玩的经 ...<a href=\"https://sspai.com/post/111080\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-16T00:14:54+00:00",
+      "fetched_at": "2026-06-16T03:38:53.480238+00:00",
+      "fingerprint": "22d69e170df8d38f"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7753 CNY ↑+0.38%",
+      "url": "https://www.frankfurter.app/2026-06-15?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-06-15</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7753 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0180 (+0.38%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-06-16T03:38:52.291738+00:00",
+      "fingerprint": "11e0b4f70264f75c"
+    },
     {
       "source": "BBC World News",
       "title": "Swiss voters reject 10 million population cap",
@@ -1591,306 +1881,6 @@
       "published_at": null,
       "fetched_at": "2026-06-10T02:57:08.473147+00:00",
       "fingerprint": "9944bac6278bea15"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
-      "url": "https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa",
-      "summary": "<p>African migrants say legal status offers little protection as rallies against illegal immigration gain momentum</p><p>African migrants in South Africa say they are living in fear after a series of marches calling for illegal immigrants to leave reignited long-held xenophobic sentiment in the country.</p><p>March &amp; March, a campaign group at the forefront of recent protests, has given people living illegally in the country until 30 June to leave, without specifying what will happen to those who do not.</p> <a href=\"https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-06-08T08:55:31+00:00",
-      "fetched_at": "2026-06-09T02:44:10.730377+00:00",
-      "fingerprint": "048b2081e2ea5737"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-      "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks",
-      "summary": "<p>Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say</p><p>Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting the region’s worsening security.</p><p>According to local police, 39 people were seized on Sunday during a meeting in the forest near Magamin Diddi village in the Maradun municipality of north-west Zamfara state. But some residents and officials believe the number of those abducted could be as high as 50.</p> <a href=\"https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-06-08T22:13:44+00:00",
-      "fetched_at": "2026-06-09T02:44:10.730367+00:00",
-      "fingerprint": "55f15aca4a7f1fc8"
-    },
-    {
-      "source": "BBC World News",
-      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
-      "summary": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
-      "category": "politics",
-      "published_at": "2026-06-08T23:22:17+00:00",
-      "fetched_at": "2026-06-09T02:44:10.503235+00:00",
-      "fingerprint": "dd8e977f85d72715"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
-      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The web of fractious alliances and dysfunctional ceasefires shows how destabilised the region remains.",
-      "category": "politics",
-      "published_at": "2026-06-08T23:50:59+00:00",
-      "fetched_at": "2026-06-09T02:44:10.503230+00:00",
-      "fingerprint": "f45ba83f2456c6fb"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Watch: Trump tells BBC Netanyahu did not defy him",
-      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
-      "category": "politics",
-      "published_at": "2026-06-08T22:34:25+00:00",
-      "fetched_at": "2026-06-09T02:44:10.503223+00:00",
-      "fingerprint": "8094c13b66b4b30d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
-      "category": "politics",
-      "published_at": "2026-06-08T22:47:29+00:00",
-      "fetched_at": "2026-06-09T02:44:10.503213+00:00",
-      "fingerprint": "ca893257c8a8565f"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「突襲式離婚」如何揭示現代愛情",
-      "url": "https://www.bbc.com/zhongwen/articles/cjrg3ylrrvpo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "越來越多人分享自己在毫無預警下被離婚的經歷。心理學家向BBC解釋，為何配偶會突然提出分手——以及這反映了現代關係與婚姻的什麼現象。",
-      "category": "politics",
-      "published_at": "2026-06-09T01:13:43+00:00",
-      "fetched_at": "2026-06-09T02:44:10.211368+00:00",
-      "fingerprint": "85af697e6685d16a"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "小紅書轉播足球世界盃了，播球和看球的女性還會被視為「花瓶」嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/c5y719lzn6po/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "女性觀眾或者從業者的存在受到質疑、歧視乃至騷擾的問題一直存在。據稱女性用戶佔70%的「小紅書」拿下2026年世界盃版權，一個女性友好的平台成為官方轉播商，會使這種現象有所改變嗎？",
-      "category": "politics",
-      "published_at": "2026-06-09T01:10:36+00:00",
-      "fetched_at": "2026-06-09T02:44:10.211362+00:00",
-      "fingerprint": "356848c94a6842a6"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "習近平抵達平壤  時隔七年中國領導人再度訪朝",
-      "url": "https://www.bbc.com/zhongwen/articles/c2lynzzrw7vo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "時隔七年，平壤對中國領導人的盛大歡迎場面再次出現。這期間中朝關係經歷了一場完整的冷暖循環。",
-      "category": "politics",
-      "published_at": "2026-06-08T11:11:32+00:00",
-      "fetched_at": "2026-06-09T02:44:10.211357+00:00",
-      "fingerprint": "a340ce5f4ab79854"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "友誼還是博弈：為什麼習近平要訪問朝鮮？",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yz3d08n0ko/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "北京正試圖重新對這個在戰略上至關重要、卻又極度不可預測的夥伴恢復影響力。",
-      "category": "politics",
-      "published_at": "2026-06-08T04:59:11+00:00",
-      "fetched_at": "2026-06-09T02:44:10.211347+00:00",
-      "fingerprint": "d17c85049ee63fb9"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-09T02:44:09.416025+00:00",
-      "fingerprint": "6ca4a0d1e3dae152"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-09T02:44:09.415917+00:00",
-      "fingerprint": "d4bccdacb1602732"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-09T02:44:09.415791+00:00",
-      "fingerprint": "19601735cda53351"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-09T02:44:09.415672+00:00",
-      "fingerprint": "bce813dff2d6abac"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-06-09T02:44:09.415541+00:00",
-      "fingerprint": "17f480b3c45b8854"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple is using AI to fix Safari’s extension problem",
-      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
-      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-08T22:14:17+00:00",
-      "fetched_at": "2026-06-09T02:44:09.103014+00:00",
-      "fingerprint": "3a4c258e09c3490e"
-    },
-    {
-      "source": "The Verge",
-      "title": "5 things I already love from the iOS 27 beta",
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
-      "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of features [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-08T23:30:00+00:00",
-      "fetched_at": "2026-06-09T02:44:09.103009+00:00",
-      "fingerprint": "fa65df2de7d55475"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s Screen Time updates are too little, too late",
-      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
-      "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost all the features touted already exist or are upgrades to current options. Why Apple chose to do this isn't [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-08T23:41:00+00:00",
-      "fetched_at": "2026-06-09T02:44:09.103003+00:00",
-      "fingerprint": "66934da7af9c4759"
-    },
-    {
-      "source": "The Verge",
-      "title": "Instagram is finally letting everyone reorganize their profile grid",
-      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
-      "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. Until now, the posts on your Instagram profile [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-06-08T23:58:30+00:00",
-      "fetched_at": "2026-06-09T02:44:09.102994+00:00",
-      "fingerprint": "6528dfb967c22994"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件",
-      "url": "https://36kr.com/p/3845196412193284?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <p>阿里巴巴成立Token Foundry事业部</p>\n  <p>微信宣布面向开发者提供接入微信AI生态的能力</p>\n  <p>全球70%PPE树脂断供，PCB价格大涨</p>\n  <p>英伟达与LG集团合建AI工厂，合作推进机器人、自动驾驶及自主AI</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>苹果推出全新Siri AI，新一代操作系统iOS 27正式发布</strong></p>\n  <p>在WWDC 2026开发者大会上，新一代操作系统iOS 27正式发布，本次iOS 27的升级重点，是新一代Apple Intelligence（苹果智能）以及全新Siri AI。&nbsp;</p>\n  <p>苹果宣布，Apple Intelligence与谷歌合作，引入Gemini大模型，并采用全新的AI架构，进一步提升Siri AI的能力，让其在用户日常使用的App中发挥更大作用。Siri AI是Siri的全新版本，深度融入iPhone、iPad、Mac、Apple Watch和Apple Vision Pro等设备。&nbsp;</p>\n  <p>据介绍，Siri AI可以回答与当前屏幕内容相关的问题，也能结合用户个人情境，在信息、邮件、照片等内容中进行搜索，还能通过更系统化的App操作，完成跨App任务。&nbsp;</p>\n  <p>苹果还推出了独立的Siri App，用户可以重新查看过去的对话，也可以发起新的对话，相关对话历史将通过iCloud在不同设备间私密同步。&nbsp;</p>\n  <p>性能方面，iOS 27也带来多项优化，覆盖App启动、照片加载、网络切换、AirDrop传输、硬盘读写以及CPU调度器等。苹果表示，升级iOS 27后，iPhone的App启动速度提升30%，拍照后照片加载速度提升70%，AirDrop传输速度提升80%。同时，在蜂窝网络和无线网络之间切换时，系统表现也会更加顺滑。&nbsp;</p>\n  <p>此外，苹果还回应了用户对Liquid Glass（液态玻璃）设计的反馈，并表示“深表感谢”。苹果对Liquid Glass的底层基础进行调整，其中最主要的变化是新增调节滑块，用户可以根据自己的喜好调节液态玻璃效果，从完全不透明到完全透明都能自由选择。（快科技）&nbsp;</p>\n  <p><strong>ROKID回应“智能眼镜偷拍空姐”事件&nbsp;&nbsp;</strong></p>\n  <p>近日，上海一女士在乐奇ROKID智能眼镜用户社区内，发现有用户使用该品牌眼镜在登机时拍摄“春秋航空”空姐并公开发布，引发公众对智能眼镜沦为“偷拍神器”的担忧。此外电商平台相关的违规配件也引发舆论广泛关注。6月8日，乐奇发布社区生态治理与隐私保护的声明，汇报目前的处理进展与措施。主要包括三方面举措：1. 涉事违规及侵犯隐私的内容已全部清理下架，违规账号已严肃处理。2. 针对电商平台上恶意规避安全机制的“指示灯遮光贴”，乐奇已正式向各平台发起投诉，全力推进相关违规配件的下架与溯源治理。3. 乐奇透露在后续新品研发中，将升级感应配件与底层防护算法，从物理与技术源头最大程度杜绝恶意改装与违规拍摄。（潇湘晨报）</p>\n  <p><strong>OpenAI向美国证监会秘密提交IPO文件</strong></p>\n  <p>ChatGPT开发商OpenAI于6月8日秘密提交了美国首次公开募股（IPO）申请，与竞争对手Anthropic一道进军股市，以满足投资者对人工智能热潮的投资需求。OpenAI未披露此次发行的规模或条款，但有报道称，这家人工智能巨头计划在最早可能于9月进行的首次公开募股中，争取高达1万亿美元的估值。（新浪财经）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>字节Seed相关人士回应顾全全离职传闻：并非AI制药及预训练负责人</strong></p>\n  <p>近期，市场有传闻称，原字节跳动Seed团队成员顾全全已离职创业。部分消息将其描述为 Seed 团队AI制药及大模型（LLM）预训练业务的负责人。对此，字节Seed相关人士称：“顾全全在公司参与过生物分子结构预测和LLM预训练的部分工作，但并不是字节Seed的AI制药和预训练负责人，对其创业事宜不了解。”</p>\n  <p><strong>阿里巴巴成立Token Foundry事业部&nbsp;</strong></p>\n  <p>36氪获悉，6月8日，阿里巴巴宣布合并通义大模型事业部和未来生活实验室，成立Token Foundry事业部，由集团CEO吴泳铭直接负责。据了解，此次调整涉及到一批AI业务。周靖人将担任阿里巴巴首席科学家，牵头成立阿里巴巴AI未来研究院，专注前沿AI科技的探索与突破。郑波带领Happy Horse、Happy Oyster等加入Token Foundry事业部。此次升级是阿里在AI领域的持续加码。最新的Qwen-3.7模型能力突出，实现全球前三、国内第一的Coding能力，在开发者社区和行业客户中获得广泛认可。上个月发布的Q4财报首次披露阿里AI业务已跨越初期投入阶段，迈入商业化回报周期，资本市场反应积极。</p>\n  <p><strong>英伟达与LG集团合建AI工厂，合作推进机器人、自动驾驶及自主AI&nbsp;</strong></p>\n  <p>6月8日，英伟达与LG集团宣布合作建设AI工厂，为LG旗下机器人、自动驾驶、数据中心及GPU云服务等核心业务提供加速计算基础设施。在机器人领域，LG电子将整合英伟达Isaac Sim、GR00T等框架训练家用机器人CLoiD，并建立物理AI数据工厂向外部供应机器人训练数据；LG CNS将英伟达机器人技术引入其PhysicalWorks工业平台。在AI工厂基础设施方面，LG Uplus及LG CNS将基于英伟达DSX平台建设可扩展AI工厂，LG新能源探索800伏直流数据中心储能方案。在自动驾驶领域，LG电子将对齐英伟达DRIVE Hyperion架构推进ADAS及软件定义汽车产品线。在自主AI方面，LG AI研究院基于英伟达Blackwell GPU持续开发EXAONE模型，并通过ChatEXAONE向集团内部推广。（界面新闻）</p>\n  <p><strong>微信宣布面向开发者提供接入微信AI生态的能力</strong></p>\n  <p>36氪获悉，据微信��开课消息，微信开放平台在充分尊重开发者权益和自主选择的基础上，面向开发者提供了便捷接入微信AI生态的能力。开发者需在“小程序管理后台-AI能力”主动授权接入微信AI。同时，平台提供了自动模式与开发模式两种接入选项，以满足不同规模团队的开发需求。当前该功能处于内测阶段，用户暂时还无法体验。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>苹果发布macOS新版本“Golden Gate”</strong></p>\n  <p>当地时间6月8日，苹果在全球开发者大会上公布全新macOS版本——macOS Golden Gate。苹果表示，该版本系统动画更流畅，很多功能运行速度也更快。iPhone和iPad应用的启动速度提升高达30%，系统内容加载速度更快，照片在图库中的显示速度提升70%，隔空投送速度提升80%，云端硬盘传输速度提升5倍，所有能运行iOS26的iPhone也都适配。（界面新闻）</p>\n  <p><strong>库克在WWDC发表告别致辞，新CEO将在9月上任</strong></p>\n  <p>在WWDC 2026的发布会上，蒂姆・库克以苹果CEO身份完成的最后一场主题演讲，伴随其深情的告别致辞，执掌苹果长达15年的“库克时代”正式步入收官阶段。库克发表感言称，举办WWDC这类活动，是自己担任CEO期间最难忘的高光时刻。（快科技）</p>\n  <p><strong>韩股单日两度熔断，散户高杠杆加剧风险&nbsp;</strong></p>\n  <p>6月8日午后，韩国KOSDAQ指数暴跌8%，触发熔断机制，交易暂停20分钟。而在6月8日早间，韩国KOSPI指数盘初跌幅扩大至超8%，触发熔断机制，交易暂停20分钟。根据韩国金融投资协会的数据，截至6月1日，韩国股市保证金余额，即券商向散户投资者提供的股票购买信贷额度为27.8万亿韩元，约合183亿美元，较年初增长61.6%。分析人士补充称，由于投资者会向信贷公司和银行借款购买股票，因此散户杠杆率可能更高。而高杠杆在市场行情好的时候可以提振股市，但在市场低迷的时候会放大损失。（财联社）</p>\n  <p><strong>网传必胜客出售，知情人回应</strong></p>\n  <p><strong>对于网传必胜客出售的消息，记者从接近百胜中国人士处了解，百胜中国和百胜餐饮集团（Yum! Brands）是两家独立运营的公司，百胜中国不方便对Yum! Brands公司的事情评论。这一消息不会影响必胜客在中国的日常运营，百胜中国在中国独立运营必胜客品牌。必胜客作为百胜中国的六大品牌之一，也是公司的优质资产。（界面新闻）</strong></p>\n  <p><strong>Seesaw Coffee已进入破产清算</strong></p>\n  <p>近日企查查平台显示，昔日网红精品咖啡品牌Seesaw Coffee已于近期进入破产清算流程。记者注意到，Seesaw的运营主体上海西舍咖啡有限公司（下称“上海西舍咖啡”）新增多例破产审查案件。今年2月28日和3月10日，上海玛露实业有限公司（下称“上海玛露实业”）与上海琉璃工房琉璃艺术品有限公司（下称“上海琉璃工房”）先后向法院提出申请，以上海西舍咖啡不能清偿到期债务且明显缺乏清偿能力为由，对上海西舍咖啡提起破产清算。</p>\n  <p>企查查数据显示，截至目前，上海西舍咖啡涉及司法案件107起，2025年新增了超过50起。记者注意到，这些案件主要是供应商合同纠纷、追讨欠款，甚至包括创始人吴晓梅与银行、小额贷款公司的借贷纠纷等，不完全统计涉案总金额超过2000万元。（第一财经）</p>\n  <p><strong>罗氏将向Nurix支付高达23亿美元的癌症药物交易款项</strong></p>\n  <p>6月8日，罗氏发表声明称，已与生物制药公司Nurix Therapeutics达成独家许可与合作协议。罗氏将支付最高23亿美元，以获得Nurix一种实验性血液癌症药物的权益。声明显示，Nurix将因布鲁顿酪氨酸激酶（BTK）降解剂bexobrutideg（NX-5948）获得7亿美元预付款，该药正被开发用于治疗特定血癌及潜在的免疫系统和神经系统疾病。罗氏与Nurix将分担研发成本并平分美国市场的利润，此外，罗氏将负责该疗法在美国以外地区的商业化。双方预计交易将于2026年第三季度完成。（界面新闻）</p>\n  <p><strong>电子布价格涨幅达100%</strong></p>\n  <p>电子布，全称电子级玻璃纤维布，是电子工业中的关键基础材料，主要用于覆铜板和印制电路板的制造，再应用于数据中心服务器、智能手机和5G通信基站等各类电子产品。记者调查发现，今年以来，算力需求爆发，带动电子布价格大幅上涨。截至6月初，市场上常用规格的电子布已经完成年内5轮提价，均价达7.4元/米，与去年三季度的低点相比，涨幅达到100%。由于电子布对生产设备和工艺控制要求很高，客观上制约了产能的扩张节奏。专家表示，电子布供需紧张的情况可能还会延续。业内人士预计，受电子纱扩产周期长、高端电子布产能落地仍需时间影响，电子布市场何时恢复供需平衡，还有待观察。（央视财经）</p>\n  <p><strong>全球70%PPE树脂断供，PCB价格大涨</strong></p>\n  <p>中东冲突带来的影响，正从能源市场进一步蔓延到电子产品供应链。记者了解到，沙特的朱拜勒工业区此前供应了全球大约70%的PPE树脂。但是，早在今年3月底，由于霍尔木兹海峡航运受阻，相关工厂就已经停产。树脂是制造印刷电路板的重要材料，其中，PPE树脂主要用于高端产品。要知道，印刷电路板相当于电子设备的“神经系统”。从智能手机、笔记本电脑，到路由器、人工智能服务器，几乎所有现代电子产品都离不开它。专家表示，如果树脂供应中断持续到今年秋天，消费者将切实感受到涨价的压力。近期，高盛的一份报告显示，仅在4月份，印刷电路板的价格较3月份最高上涨了40%。美国印刷电路板制造商迅达科技的股价在过去一年上涨超过400%。（央视财经）</p>\n  <p><strong>奇瑞：没有在印度市场直接投资和技术转让</strong></p>\n  <p>奇瑞汽车6月8日发布关于奇瑞合作事宜失实报道的澄清声明：公司关注到，近日许多媒体援引外媒信息，解读奇瑞与印度塔塔集团的相关合作，其中不乏善意的关心，但也衍生出大量不实猜测。现就实际情况说明如下：奇瑞与印度塔塔集团正在商谈的合作协议，限定为车型相关的零部件供应，为其提供汽车散件。奇瑞没有在印度市场直接投资和技术转让等安排，部分媒体和账号所称的“平台转让”“平台授权”“技术授权”“技术出口”“技术输出”等表述，均与事实不符。由衷感谢社会各界对奇瑞的关心和关注。 （界面新闻）</p>\n  <p><strong>马斯克谈SpaceX上市原因：需要更多卫星满足通信需求</strong></p>\n  <p>马斯克在不久前的摩根大通闭门会中接受连线采访，他表示，之所以现在让SpaceX上市，是因为公司需要大量资金来应对一个重大的资本增长阶段，此外，他还指出，SpaceX的收入已从此前的不稳定变得更具可预测性。（新浪财经）</p>\n  <p><strong>黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够</strong></p>\n  <p>英伟达CEO黄仁勋表示，SK海力士到2030年将晶圆产能翻倍的计划还不够。(财联社)</p>\n  <p><strong>京东：京东外卖、金融及创始人遭有组织恶意抹黑，造谣者已受法律惩处</strong></p>\n  <p>6月8日，京东集团官方微博账号“京东发言人”发布帖子。“京东发言人”指出，一段时间以来，京东外卖、京东金融等业务以及京东创始人遭受了大量有组织、有预谋的恶意抹黑和造谣攻击。尤其恶劣的是，某幕后抹黑公司雇佣小笨文化等机构，对京东进行了长时间、全方位、系统性的造谣攻击，经公安机关依法侦办，小笨文化等部分造谣抹黑者已受到法律惩处。（证券时报）</p>\n  <p><strong>市场监管总局约谈美宜佳总部</strong></p>\n  <p>记者了解到，针对一段时期以来监管发现和媒体曝光的美宜佳多个门店销售过期食品等食品安全问题，市场监管总局近日依法对美宜佳控股有限公司（即美宜佳总部）负责人进行了责任约谈，要求其严格遵守《中华人民共和国食品安全法》以及《食品销售连锁企业落实食品安全主体责任监督管理规定》等法律法规，建立健全覆盖总部、分支机构、门店等经营管理各层级、经营活动全链条的风险管控制度机制和食品安全追溯体系，全面落实食品安全主体责任，切实保障公众饮食安全，保护消费者合法权益。（央视新闻）</p>\n  <p><strong>胜宏科技：网传视频与公司的生产经营活动无关</strong></p>\n  <p><strong>近日，网上出现了涉及胜宏科技高管的传闻。6月8日上午，胜宏科技方面向记者表示，公司已关注到相关信息，但网传视频及相关信息所反映的内容与公司的生产经营活动无关，亦不涉及公司治理、内部控制或任何应披露的重大信息。该等事项不会对公司的日常经营造成任何影响。胜宏科技称，当前公司生产经营活动一切正常、订单充沛，各项工作均在有序推进中。（界面新闻）</strong></p>\n  <p><strong>闲鱼变更法定代表人</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，浙江阿里巴巴闲鱼网络科技有限公司发生工商变更，丁健卸任法定代表人、经理、董事，由王程远接任，同时，财务负责人发生变更。该公司成立于2019年12月，注册资本1000万人民币，经营范围包括营业性演出、演出经纪、出版物互联网销售等，由浙江淘宝网络有限公司全资持股。</p>\n  <p><strong>Gen II正考虑以60亿美元出售</strong></p>\n  <p>据报道，总部位于纽约的Gen II的股东正考虑在今年晚些时候出售这家私募基金管理公司，交易金额预计达60亿美元。据Hg网站显示，该公司由一个机构投资者财团提供支持，其中包括私募股权公司General Atlantic和软件投资机构Hg HGT.L。报道称，目前尚未做出最终决定，计划仍可能发生变动，且迄今尚未任命任何顾问。据其官网显示，Gen II成立于2009年，目前管理着超过1.5万亿美元的私募基金资本。（新浪财经）</p>\n  <p><strong>国际航协：2026年全球SAF产量依旧令人失望</strong></p>\n  <p>国际航空运输协会（IATA）发布最新估算数据显示，2026年全球SAF（可持续航空燃料）产量预计将达到约240万吨，仅占航空燃料总用量的0.8%，航空公司支出成本为43亿美元。国际航协理事长威利·沃尔什（Willie Walsh）表示：“对于SAF生产而言，又是令人失望的一年。由于政策缺乏有效统筹，加之石油公司缺乏兴趣，实现2050年SAF满足65%燃料需求的难度正逐年增加。当前的能源危机本应进一步凸显发展可再生能源，包括SAF的紧迫性。然而，无论是能源危机、实现能源独立与创造就业的需求，还是缓解气候变化的紧迫性，都尚未转化为建立成熟SAF市场所需的市场激励措施。”（界面新闻）</p>\n  <p><strong>美股三大指数收盘涨跌不一，热门中概股跌多涨少</strong></p>\n  <p>36氪获悉，6月8日收盘，美股三大指数涨跌不一，道指跌0.16%，纳指涨0.86%，标普500指数涨0.3%。大型科技股涨跌互现，特斯拉涨超4%，Arm、英伟达涨超1%，奈飞小幅上涨；苹果、微软、谷歌、Meta跌超1%，亚马逊小幅下跌。热门中概股跌多涨少，百度、拼多多跌超2%，京东跌1%，阿里巴巴、腾讯音乐、网易、微博小幅下跌；理想汽车、B站涨超2%，蔚来涨超1%。</p>\n  <h2>上市进行时</h2>\n  <p><strong>安克创新赴港IPO的估值达7亿至8亿美元</strong></p>\n  <p>市场消息：安克创新赴港IPO的估值达7亿至8亿美元。（新浪财经）&nbsp;</p>\n  <p><strong>阶跃星辰最快将于周一提交香港首次公开募股申请</strong></p>\n  <p>消息人士称，中国人工智能初创企业阶跃星辰最快将于周一提交香港首次公开募股（IPO）申请。（新浪财经）&nbsp;</p>\n  <h2>投融资</h2>\n  <p><strong>Kimi估值飙升至300亿美元</strong></p>\n  <p>6月8日，据每日经济新闻报道，大模型独角兽Kimi（月之暗面）已开启新一轮融资，投前估值达300亿美元，较上月大幅跃升。Kimi是国内AGI企业月之暗面旗下AI助手。2025年末，月之暗面完成5亿美元C轮融资；今年2月中旬传出新一轮超7亿美元的融资即将完成交割的消息。另据科创板日报3月报道，月之暗面3月估值上升至180亿美元，在3个月内翻了4倍，并正在进行一轮10亿美元融资。天眼查App显示，月之暗面C轮融资资方阵容包括IDG资本、阿里巴巴、腾讯等多家头部产业方与投资机构。2026年2月完成的超7亿美元融资，投资方包括阿里巴巴、五源资本、高榕创投、九安医疗、腾讯等。（界面新闻）</p>\n  <p><strong>英国初创公司PhysicsX完成3亿美元融资</strong></p>\n  <p>英国初创公司PhysicsX在新一轮融资中筹集了3亿美元，公司估值约为24亿美元，新加坡淡马锡领投，英伟达和应用材料等早期投资者也继续参与。该公司提供一种AI模型，可预测物理对象的行为，使航空航天和汽车企业在设计、测试和组装流程上更为高效。公司表示，由于客户需求积压约六个月，PhysicsX需扩充团队，因此需要更多资金。公司预计今年营收将“接近5000万美元”。（新浪财经）</p>\n  <p><strong>“安纳智芯”完成数亿元融资</strong></p>\n  <p>36氪获悉，近日，高精度现代模拟计算芯片公司“安纳智芯”宣布完成新一轮数亿元融资，本轮由经纬创投领投，峰瑞资本、阿尔法公社跟投，老股东讯飞创投、中赢创投持续加码。</p>\n  <p><strong>“华超神控”完成亿元人民币级天使轮系列融资</strong></p>\n  <p>36氪获悉，近日，AI超声脑机公司“华超神控”（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。</p>\n  <h2>酷产品</h2>\n  <p><strong>奢侈品牌Prada进军航天业，为NASA提供登月宇航服</strong></p>\n  <p>财联社6月8日电，意大利奢侈品牌Prada公布专为NASA登月任务设计的内层服装。该服装由Prada与美国航天基础设施开发商Axiom Space合作打造，特色是在面料中织入通风管道。该宇航服预计将用于NASA计划在2028年进行的“阿耳忒弥斯4号”登月任务。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260609/v2_d8fab53458f34524a9112a1aa5f14688@5667365_oswg832659oswg1024oswg683_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">奢侈品牌Prada进军航天业，为NASA提供登月宇航服</p>\n  <p><strong>整理</strong>｜王倚轩&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-06-09T00:19:03+00:00",
-      "fetched_at": "2026-06-09T02:44:08.877268+00:00",
-      "fingerprint": "02f9a8a1d5474e30"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
-      "url": "https://36kr.com/p/3839626642344454?f=rss",
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，近日，AI原生生物科技公司百奥几何已完成数亿元战略融资。由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投。指数资本担任独家财务顾问。另据介绍，本轮募集资金将重点用于生命科学微观世界模型GeoFlow的持续迭代，以及自研药物管线的推进。</p>\n  <p>当前，人工智能正沿两条主线加速演进：以大语言模型与多模态模型为代表的数字AI（Digital AI），以自动驾驶与人形机器人为代表的物理AI（Physical AI）。而生命AI（Bio AI）或将成为下一个最具想象力的疆域，这一判断，正被全球顶级资本与科学界持续确认。</p>\n  <p>2024年，诺贝尔化学奖同时授予蛋白质结构预测与蛋白质从头设计两个方向；2025年，中国创新药BD交易金额达1357亿美元，占全球交易金额约49%，超越美国成为全球创新药对外授权第一大市场；2026年5月，Alphabet旗下Isomorphic Labs完成21亿美元融资，由Thrive Capital领投，淡马锡、MGX、英国主权AI基金等主权资本共同入局，刷新AI药物发现领域的单笔融资纪录。</p>\n  <p>生命科学的基本单位是由分子组成的细胞，生命的所有功能，都源自分子在原子尺度上的相互作用。能否在微观层面真正理解、并精准设计分子之间的相互作用，是生命科学最底层的命题。百奥几何自研的GeoFlow正是这样一个\"微观世界模型\"，通过在原子级精度上对蛋白质、DNA、RNA等生物分子的相互作用进行精确建模，以生成式AI从头创造自然界从未存在的全新分子，让\"理解生命\"走向\"设计生命\"。</p>\n  <p>自2024年首次发布至今，GeoFlow历经三次升级。GeoFlow V1将\"原子级精度建模分子相互作用\"这一核心思想落地为可工程化的大模型。在关键的蛋白-蛋白复合物结构预测任务上，GeoFlow V1达到与AlphaFold 3同等水准；2025年4月迭代至GeoFlow V2这一版本时，已不再局限于单纯的结构预测，而是实现了原子级精度下蛋白质结构预测与“从头设计（de novo design）”能力的统一，能够完成抗体从头设计、疫苗设计、工业酶优化等工作。</p>\n  <p>“客观而言，GeoFlow V2已能针对部分靶点生成相应的结合分子，但所得分子的结合亲和力仍有提升空间。因此，去年10月，我们又迭代了GeoFlow V3，核心目标是提高结合分子的生成成功率，并尽可能获得更多高亲和力结合分子，达到纳摩尔级（nM）水平。”唐建表示。</p>\n  <p>为实现这一点，百奥几何将大模型领域的Test-Time Scaling（TTS）技术应用到了蛋白质设计中。简单理解，这是一种用推理时间和计算投入换取设计质量的思路，具体到蛋白质设计上，就是针对目标靶点，让模型一次性生成多个蛋白版本，再从中筛选出优质样本、验证优化，最终得到结构稳定、亲和力达标的新蛋白。其核心优势在于成本低、落地快，不用投入巨资重新训练模型，就能提高蛋白质设计的成功率和质量。</p>\n  <p>以实际的抗体设计应用场景为例：在科学家还需“手搓”的时代，研发团队通常会在动物体内/体外构建上亿级分子库，并开展多轮、耗时数月的高通量筛选，成本高、流程长。如今，在AI“主导”下，则可以通过更少的试验投入，实现更高的命中率。</p>\n  <p>据百奥几何披露数据，在针对TSLP、IL-33、IL-13、CCR8、&nbsp;PD-1、H3-HA、IL-4Rα等超过20个靶点的从头设计任务中，每个靶点仅需合成验证不超过50个GeoFlow V3设计的候选分子，就能获得表位特异的nM级别的结合抗体，平均命中率接近20%，且先导分子发现时间可缩短至三周内。</p>\n  <p>目前，百奥几何正在研发下一代微观世界模型GeoFlow V4，将建模尺度从分子相互作用拓展至从\"设计单个分子\"走向\"设计分子系统\"。</p>\n  <p>近两年，BD交易成为创新药企的重要商业化出口。既往案例中，药物管线的价值通常随临床阶段推进而增加。此前，百亿美元级大额交易多发生在临床2期或3期之后，也能看出这一点。但AI的“从头设计”能力或将进一步放大早期阶段分子的价值，进而改写这个逻辑。</p>\n  <p>唐建认为，对于那些传统方法容易获得的抗体分子，跨国药企更看重后期临床数据，是因为速度越快、临床数据越充分，获批上市概率就更大。但对于获取难度本就很高的分子，即便处于早期阶段，只要能形成差异化，也可以做出高价值；而且，优质分子还能提升临床阶段的成功率。</p>\n  <p>据介绍，百奥几何现已与国内外药企达成超20项BD合作，在高特异性抗体从头设计、先导分子多目标优化、疫苗设计等多方面实现突破。</p>\n  <p>以肿瘤免疫领域为例，GeoFlow 模型实现了高特异性抗体的\"从头设计\"。该项目的目标靶点是肿瘤细胞表面特有的抗原，研发难点在于它存在一个高度同源的\"孪生靶点\"——两者结构高度相似，传统方法难以在分子层面精准区分，极易误伤表达\"孪生靶点\"的正常细胞。百奥几何借助 GeoFlow 的全原子建模能力，将\"特异性\"作为前置约束直接写入分子生成阶段：仅设计不超过 100 条序列，即获得 2 条同时具备高选择性与高亲和力的抗体——精准结合目标靶点，而对\"孪生靶点\"不结合，从源头保障了临床安全性。</p>\n  <p>“目前，这是最能代表百奥几何模型能力的项目之一。通常，与客户共同开发的大多是传统方法无法攻克的项目，甚至有一些GeoFlow V2无法完成、GeoFlow V3迭代后成功突破的案例。这个过程中，不仅我们能感受到模型迭代带来的能力涌现，客户自身也在直观感受到AI技术的快速进化，尤其是AI Agent爆发后，药物研发和蛋白设计领域的技术迭代速度在显著提升。”唐建提到。</p>\n  <p>在与某国外知名药企的合作中，目标项目需要同时优化先导抗体的亲和力、理化性质、热稳定性、人源性等多项指标。GeoFlow在零样本（模型未经该靶点数据微调）场景下，仅通过一轮设计与验证即交付了同时满足全部预设指标的目标分子：亲和力提升数十倍、表达量提升8倍、人源性优化至90%以上、热稳定性同步显著提升，项目交付周期较客户预期缩短80%以上。</p>\n  <p>此外，在合成生物学领域，百奥几何已储备数十条自研管线。其中，包括ɑ-酮戊二酸、天然冰片在内的多条管线已完成中试放大；目前，公司的多款自研管线已通过“技术转让+销售分成”的模式达成授权合作，商业化进展持续提速。</p>\n  <p>团队方面，百奥几何由AI4S科学家唐建教授创立，图灵奖得主、AI之父Yoshua Bengio担任首席科学顾问。团队自2018年开始探索AI驱动药物发现，已取得多项产学研落地成果。2021年，将扩散生成模型用于分子三维结构生成（代表性工作&nbsp;ConfGF、GeoDiff）；2022年联合英伟达、英特尔、IBM发布开源机器学习药物发现平台 TorchDrug 与 TorchProtein。近期，作为核心贡献者参与英伟达开源蛋白质大模型&nbsp;La Proteina 的研发，并自主研发前沿 AI 虚拟细胞模型PerturbDiff。</p>\n  <p><strong>投资人观点：</strong></p>\n  <p>上海生物医药创新转化基金总裁郭秋杉表示，大分子药物开发长期掣肘于传统筛选的冗长与过往分步式AI工具链的误差逐级放大。百奥几何实现了生物分子相互作用的原子级精度建模，并将结构预测、序列生成、成药性评价与湿实验反馈整合闭环，代表一条更接近底层科学逻辑和真实工业需求的 AI Native 路径。这种全原子 De Novo 设计思想，让公司在传统难成药靶点、复杂抗体、多特异性大分子等高难度管线上展现出无法比拟的代际优势，并实现了 PCC 级分子的交付。我们期待百奥几何凭借快速迭代、自主可控的 GeoFlow 算法底座，全速推进自研管线的临床开发与全球合作。</p>\n  <p>国科投资智慧医疗组组长张堃表示，AI驱动药物研发有望打破生物医药行业“反摩尔定律”研发困局，推动大分子药物逐步构建“结构理解、定向设计、干湿实验闭环验证”的全新研发范式。我们高度认可唐建教授领衔团队在AI4S领域的技术能力及其全球影响力，其自主研发的GeoFlow模型在抗体药物、工业酶从头设计场景中已展现出差异化技术优势。我们相信，在AI重塑药物研发的时代背景下，百奥几何将深度赋能创新药企与生物制造产业，加速管线转化与商业化落地，持续带来产业化价值和兑现产业化红利。</p>\n  <p>达晨财智董事总经理王大奎博士表示，AI在生物医药领域的“智能涌现”时刻比业内预想中来得更快。AI可以近乎无限地设计、筛选候选分子，药物研发的创新正从传统实验试错转向计算驱动。百奥几何正是由唐建教授带领的一支顶尖AI4S团队，常年扎根生物计算，既有扎实的学术积累，也具备把前沿算法落地成工程方案的能力。团队自研的GeoFlow微观世界模型，可以高精度预测蛋白质等生物大分子的结构与相互作用，技术能力处于全球第一梯队，也是打破海外相关闭源模型垄断的一个关键突破口。再叠加国内在湿实验环节成本低、迭代快的优势，以百奥几何为代表的中国AI制药公司，完全有能力实现后发追赶。</p>\n  <p>星连资本合伙人李文珏表示，生命科学正在进入一个全新的时代：从依赖经验和偶然发现，走向以计算和设计驱动的精准创新。百奥几何以生成式&nbsp;AI&nbsp;为引擎，探索蛋白质这一生命底层语言的可编程化设计，并通过干湿实验闭环不断加速模型迭代与实验验证，提升新分子发现和功能设计的效率与成功率。我们看好百奥几何在&nbsp;AI&nbsp;基础模型、蛋白设计能力和实验验证体系上的系统性积累，也看好其全球化、交叉学科团队所展现出的长期创新潜力。期待百奥几何持续推动&nbsp;AI&nbsp;与生命科学的深度融合，为生物医药与合成生物学打开更高效、更可预测、更具工程化能力的新范式。</p>",
-      "category": "tech",
-      "published_at": "2026-06-09T00:30:00+00:00",
-      "fetched_at": "2026-06-09T02:44:08.877263+00:00",
-      "fingerprint": "76fcdc34d425c485"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "生殖学博士入局脑机接口，想做一款缓解女性经期情绪问题的脑机\"发箍\"｜早期项目",
-      "url": "https://36kr.com/p/3843971153267208?f=rss",
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>对许多女性而言，经期不只是一次生理周期的重复，更是一场身心双重的考验。腹痛、头痛、疲劳、焦虑、易怒……这些经前期综合征（PMS）带来的不适，严重时甚至会影响工作和生活。然而，目前主流的缓解方式仍然高度依赖止痛药，长期服药存在副作用风险，而物理热敷、休息调整固然能带来一定舒缓，却效果有限。</p>\n  <p>有没有一种更温和、无创的方式，能安全有效地缓解经期不适？这一市场痛点，吸引了一位生殖学博士跨界进入脑机接口领域，试图用科技为女性经期健康问题带来新的解题思路。</p>\n  <p>智子银河成立于2026年，专注于无创脑机接口等产品开发。智子银河总裁黄河龙博士毕业于中国科学技术大学，拥有多年生殖学学术积累，曾就职于云锋基金、建银国际等，也是一名连续创业者，具备10余年医疗科技领域的投融资经验。目前，智子银河技术团队近半数成员拥有博士学位，覆盖脑科学及认知神经等学科领域。</p>\n  <p>黄河龙提到，再次创业之所以选择布局脑机接口赛道，主要是基于行业前景、市场竞争格局、资源复用等因素的综合考量。首先，在政策层面，“脑机接口”不仅已被国家“十五五”规划中纳入六大未来产业之一，各地陆续设立脑机接口、脑科学专项基金；同时，国内多省都已设立脑机接口相关项目的政府指导价，为企业的临床应用及商业化提供关键支撑。</p>\n  <p>更重要的是，脑机接口在大众市场的认知度也已逐渐打开。“在马斯克、山姆·奥特曼等科技名人的带动下，脑机接口从严肃医疗场景走向大众消费市场的临界点已经到来。这也是我们选择非侵入式脑机接口技术路径、希望开发出更适合惠及大众的创新产品的初衷。”黄河龙表示。</p>\n  <p>在确定技术路径后，产品与场景选择变成为下一个关键环节。黄河龙介绍，结合团队以往的学术、从业经历，探索脑机接口应用于两性健康领域的潜在市场。而经期疼痛管理，正是团队选择的第一个应用场景，希望针对此开辟一条“脑机接口+消费级”的新路径。</p>\n  <p>其逻辑在于，人体存在一个“下丘脑-垂体-性腺轴（HPG轴）”生理结构，通过监测或调控该轴的活动，可结合脑机接口技术落地两性健康场景，如女性经期健康、产后抑郁，男性勃起功能障碍、早泄等。</p>\n  <p>“当前，这类问题的临床干预方式以激素类药物为主，往往存在个体差异大、潜在副作用（如情绪波动、长期用药依从性差等）等问题，缺乏非药物数字创新疗法，而市场对此类更安全、个性化的替代方案的需求已十分明确。”黄河龙介绍称。</p>\n  <p>基于这一判断，智子银河的首款产品选择从经前期综合征（PMS）这一女性经期健康场景切入。一项针对140个国家的23万名女性的调查称，八成以上的女性一生中至少出现过一次PMS症状。严重者甚至会出现抑郁、自杀倾向。</p>\n  <p>黄河龙解释，女性经期情绪波动与疼痛加剧的根源在于激素变化影响了脑部调控功能。具体而言，背外侧前额叶皮层（DLPFC）是大脑对情绪进行自上而下调控的核心区域，而初级运动皮层（M1）则参与疼痛信号的下行抑制通路。基于此，智子银河团队设计了一款智能发箍形态的产品UnaBand，精准靶向情绪与疼痛管理脑区。</p>\n  <p>据介绍，该产品融合了电、声、味三项均经过医学验证的技术：经颅电刺激在严肃医疗领域已有超过30年的应用历史，在特定参数下可用于辅助改善抑郁、疼痛、帕金森等症状；另有临床研究支持称，白噪音与粉噪音等声学干预具备缓解情绪与减轻疼痛的作用，而特定香氛可在一定程度上降低焦虑与烦躁。三者从不同机制协同作用，有望初步实现对经期情绪与疼痛问题的缓解。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260608/v2_731b8aea554b4b50babbda456b601e17@5930287_oswg350533oswg693oswg694_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：智子银河</p>\n  <p>“我们将UnaBand设计成发箍的形态，除了考虑到DLPFC和M1主要位于头部左前侧和顶部，适合通过头戴式设备进行干预。而且，发箍本身就是女性日常常用的饰品，贴合用户使用习惯，降低了接受门槛。此外，团队在工业设计上也投入了大量精力，采用多巴胺色系，兼顾科技感与颜值，让产品更像一款轻奢配饰而非医疗设备。”黄河龙表示。</p>\n  <p>今年5月，智子银河在美国硅谷正式发布UnaBand。目前，产品主要分为基础版与Pro版两个版本。两者的核心区别在于：基础版本仅具备电、声、味三种干预功能；而Pro版则在干预功能之外增加了EEG脑电采集能力，可实现用户脑电信号的实时采集、情绪与疼痛感知的量化监测，从而形成“采集-干预-反馈”的闭环调控体系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260608/v2_c10dd9dcbf7d43bb8f11a5d961f7798a@5930287_oswg570151oswg868oswg626_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：智子银河</p>\n  <p>在市场推广方面，智子银河计划采取线上线下联动、国内外同步推进的策略，其中海外市场将作为优先布局方向，产品预计于8月正式上市。产品整体定位于中高端市场，核心客群聚焦于中高收入都市女性；定价策略上，基础版本将与市面上同类脑机接口产品保持持平，以降低用户尝试门槛。</p>\n  <p>另据了解，从产品矩阵来看，女性经期健康只是智子银河的起点，非侵入式脑机接口产品后续将先拓展至减重、男性性功能改善两大场景；更长远的规划中，公司还将布局康复与银发市场，并与智能硬件生态企业合作，探索“脑机+AI”实现万物交互的可能性。</p>",
-      "category": "tech",
-      "published_at": "2026-06-09T01:00:00+00:00",
-      "fetched_at": "2026-06-09T02:44:08.877257+00:00",
-      "fingerprint": "76ce76555522ae0b"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
-      "url": "https://36kr.com/p/3845293120621057?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，隼瞻科技有限公司（下称“隼瞻科技”）近日完成近亿元天使+轮融资。本轮融资引入英飞尼迪资本、白云金控、深圳中小担创投、厚天资本、华盖资本、嘉誉创投等多家战略投资人，老股东毅达资本、达泰资本持续加持。</p>\n  <p>隼瞻科技成立于2023年初，专注芯片处理器模块及开发平台，致力于打造基于“RISC-V+DSA”的新一代处理器设计体系，公司希望通过“IP货架+EDA工具链”的模式，降低AI时代定制化处理器设计门槛。</p>\n  <p>当前，AI模型快速垂直化，正在推动芯片产业从“通用计算”走向“专用计算”。</p>\n  <p>过去，以CPU为核心的架构长期主导芯片设计，但AI算法以大规模二维、三维矩阵运算为主，在传统CPU上的运行效率并不理想。行业也逐渐转向NPU、VPU、TPU等专用处理器协同的异构计算体系。</p>\n  <p>与此同时，AI模型的快速垂直化，也让芯片设计开始从“通用适配”走向“模型驱动”。</p>\n  <p>“过去很多算法都能直接跑在CPU上，但AI时代以后，不同场景、不同模型之间差异巨大。”隼瞻科技创始人曾轶表示，“客户越来越希望芯片能围绕自己的模型进行定制，从而在功耗、面积和成本之间找到最佳平衡。”</p>\n  <p>这也是DSA（领域专用架构）兴起的重要背景。</p>\n  <p><strong>DSA本质上是“让架构为模型服务”。相比传统通用处理器追求“大而全”，DSA更强调围绕具体算法和场景进行资源配置。</strong>例如，在AI推理场景中，客户可根据模型特点，自定义CPU、DSP、NPU等模块的算力占比，避免资源冗余。</p>\n  <p>而RISC-V，则被认为是DSA的重要底座。</p>\n  <p>曾轶介绍称，相较ARM等传统闭源架构，RISC-V具备开源、可扩展、可定制等天然优势，尤其适合AI时代快速变化的模型需求。</p>\n  <p>更重要的是，RISC-V能够为未来模型演进预留可编程空间。“AI模型变化非常快，如果底层架构无法灵活扩展，芯片生命周期会被迅速压缩。”曾轶表示。因此，隼瞻在架构设计中，会提前预留二维指令、函数空间以及后续可编程能力，以适应未来模型升级。</p>\n  <p>不过，DSA真正落地的核心难点，并不只是理念，而是工程化能力。</p>\n  <p>传统情况下，一个中等规模DSA处理器的开发，往往需要数十位工程师、耗时半年以上，且涉及复杂的软件工具链协同。尤其在多核异构环境下，不同处理器对应不同编译器与开发环境，工程复杂度极高。</p>\n  <p>因此，隼瞻科技从成立之初，就同步布局IP与EDA平台。</p>\n  <p>目前，公司已经形成完整RISC-V产品矩阵，包括CPU IP、DSP IP以及NPU IP。其中，其中多款处理器IP已经实现量产。</p>\n  <p><strong>与此同时，隼瞻自研的高度智能化的专用处理器设计平台ArchitStudio，可覆盖架构分析、处理器设计、RTL生成以及软件工具链自动生成等完整流程。</strong></p>\n  <p>该平台由多个核心引擎构成，覆盖架构分析、设计优化到自动生成的完整流程。例如，Archit Analyzer可分析客户算法在现有处理器上的运行瓶颈，并自动识别计算效率低下的算子；Archit Designer则允许开发者通过高层语言直接描述架构需求，无需手写底层RTL代码；最终，Archit Generator还能自动生成RTL、验证环境及完整软件工具链。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260609/v2_fe26f604de9545618bfd4d9fb60763bd@5920579_oswg338483oswg1080oswg679_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">ArchitStudio示意图（图源/企业）</p>\n  <p>目前，公司已在无线通信、多媒体处理、信息安全、工业控制、汽车电子与AI端侧等领域实现客户落地。</p>\n  <p>例如，在无线通信领域，公司为客户定制通信DSP；在信息安全领域，其帮助头部安全芯片厂商将核心安全算法融入DSA架构；在机器人方向，则已应用于机器人电机与灵巧手控制系统。</p>\n  <p>商业模式方面，隼瞻目前主要包括三类：标准化IP授权、整体DSA方案销售，以及更高层级的多核异构平台定制服务。</p>\n  <p>团队方面，隼瞻科技核心团队来自于Synopsys、ARM等国内外顶尖半导体设计公司，全栈覆盖研发、销售、技术支持等领域，团队在RISC-V、处理器架构和EDA方向具备长期的深厚积累。</p>\n  <p><strong>以下为硬氪与隼瞻科技创始人曾轶访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：为什么AI时代会推动DSA（领域专用架构）成为趋势？</strong></p>\n  <p><strong>曾轶：</strong>过去很多算法都能直接运行在CPU上，但AI时代以后，模型开始高度垂直化。不同场景、不同客户之间，模型结构差异非常大。如果继续使用传统通用架构，就会出现大量资源浪费。比如有些客户真正需要的是NPU算力，有些则更依赖DSP或者特定数据通路，但传统SoC往往是“大而全”的设计方式。</p>\n  <p>DSA本质上是“让架构为模型服务”。客户可以围绕自己的模型特点，决定CPU、DSP、NPU等模块的资源占比，从而在性能、功耗、面积和成本之间实现最优平衡。这也是为什么我们认为，AI时代的芯片设计，会逐渐从“通用芯片”转向“定制化架构”。</p>\n  <p><strong>硬氪：隼瞻为什么选择“RISC-V+DSA”这一路线？</strong></p>\n  <p><strong>曾轶：</strong>DSA天然需要一个高度开放、可扩展、可定制的底层架构，而RISC-V正好具备这些特点。相比传统闭源架构，RISC-V最大的优势在于指令集可扩展。客户可以根据自身模型需求，对处理器进行深度定制，包括专用指令、数据通路甚至调度方式。</p>\n  <p>尤其在AI场景里，很多性能瓶颈其实不在算力本身，而在数据搬运和调度效率。如果通过定制RISC-V指令集对NPU进行协同调度，效率提升可能是数十倍甚至百倍级别。</p>\n  <p>更重要的是，AI模型变化非常快。我们在设计时，也会提前预留后续可编程空间，让芯片能够适应未来模型迭代，而不是几年后就被淘汰。</p>\n  <p><strong>硬氪：隼瞻的核心壁垒是什么？</strong></p>\n  <p><strong>曾轶：</strong>很多公司是先做IP，再逐步补工具链，但这样往往会出现兼容性和协同效率问题。</p>\n  <p>我们从创业第一天开始，就是把IP和EDA平台一起规划的。所有CPU、DSP、NPU内核，都是基于自研工具开发出来的，因此工具链和架构之间能够实现深度协同。</p>\n  <p>此外，我们不仅仅提供标准IP，而是希望把DSA能力平台化。传统情况下，一个中等规模DSA处理器设计，可能需要30个人做30周。我们希望通过ArchitStudio，把它压缩到3个人、3周左右。本质上，我们是在降低定制化处理器设计门槛，让更多芯片公司具备过去只有大厂才拥有的能力。</p>",
-      "category": "tech",
-      "published_at": "2026-06-09T01:56:31+00:00",
-      "fetched_at": "2026-06-09T02:44:08.877250+00:00",
-      "fingerprint": "a2322574d2775c8e"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
-      "url": "https://36kr.com/p/3845295918909954?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，苏州墨锋新材料科技有限公司（下称“墨锋科技”）近日完成新一轮千万元融资，由险峰基金、成都科创投集团投资，资金将主要用于产线扩建与产能扩张。</p>\n  <p>墨锋科技成立于2023年，技术源自四川大学近20年高分子材料研究成果，聚焦高性能POD（聚芳噁二唑）薄膜产业化。</p>\n  <p>POD作为一种耐高温聚合物，早在上世纪六七十年代便受到关注，但由于加工成型过程中的工艺问题和设备腐蚀问题，产业化难度极高，相关研究一度长期停滞。</p>\n  <p>国内对于POD的系统性研究起步较晚，但进展迅速。2006年前后，四川大学徐建军教授团队开始持续推进POD材料研究；2008年，江苏宝德新材料采用四川大学相关技术建立POD纤维中试线，并于2011年实现量产，成为国内唯一实现POD纤维产业化的企业。</p>\n  <p>墨锋科技核心团队均来自四川大学徐建军教授课题组。公司创始人李文涛曾在江苏宝德新材料参与并主持POD纤维从小试、中试到量产及市场开拓的全过程，具备丰富产业化经验；联合创始人姜猛进则为四川大学高分子科学与工程学院教授，长期深耕POD高性能化研究。</p>\n  <p>在传统POD膜工艺中，第一代产品只能裁切成片后进行烧制，无法实现连续卷对卷烧制，导致装填量低、成本高、效率差；同时，石墨化后表面掉粉严重，也影响终端使用体验。</p>\n  <p>针对上述问题，墨锋科技通过优化成型工艺，提高材料模量与结晶度，使膜材刚性显著增强，可支持成卷烧制而不变形，大幅降低烧制成本。同时，材料致密性提升，有效减少内部缺陷与孔洞，显著改善掉粉问题，满足高端应用要求。</p>\n  <p><strong>目前，墨锋科技已量产的POD膜片产品性能处于行业领先水平。</strong>原膜力学性能好，初始膜量可达4.0GPa，拉伸强度大于200MPa，成膜厚度超过400μm，石墨化并压延后厚度最高可达200μm，可制备超厚规格产品；经下游客户验证，POD石墨膜热扩散系数大于1000mm(2)/s，产品石墨化后导热系数可达2000W/(m·K)。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260609/v2_458d987c894d4f8f800f4ba688695d65@5920579_oswg457824oswg841oswg562_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p><strong>应用侧，墨锋科技目前采取“双轨布局”策略，以消费电子为基础市场，同步拓展AI芯片与光模块TIM材料领域，覆盖高增长、高附加值下游场景。</strong></p>\n  <p>消费电子领域，公司面向5G手机、折叠屏设备以及高性能笔记本等轻薄化趋势下的散热升级需求，提供石墨膜前驱体解决方案。对于手机和平板电脑散热膜产品而言，厚度与热性能是客户最关注的核心指标。墨锋科技可制备高导热性能的特厚、超厚规格产品，在热扩散能力及整体散热性能上均优于国内外竞争对手。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260609/v2_62175d5ba1c440f59aaf56166dd6885f@5920579_oswg174963oswg794oswg347_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>在AI芯片及光模块TIM上游原膜材料领域，公司则通过高发泡产品加工后制备芯片导热界面材料，用于解决大功率、大面积芯片散热问题。</p>\n  <p><strong>据公司透露，目前多家头部手机厂商均表现出较强导入意愿，市场需求正在快速释放。</strong></p>\n  <p>现阶段公司年产能约为100吨，而单一订单规模已达到数十吨，为此，公司正在同时计划新增一条300~500吨/年的POD膜生产线。</p>\n  <p><strong>以下为硬氪与墨锋科技创始人李文涛访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：墨锋科技在POD膜产品制备上建立了哪些核心壁垒？</strong></p>\n  <p><strong>李文涛：</strong>POD膜产品的核心壁垒，主要集中在制膜溶液和膜片制备两个环节，这也是团队经过多年研发重点突破的方向。</p>\n  <p>其中，制膜溶液是整个POD膜制造过程中最核心、也最复杂的部分。它本质上是一套高度依赖工艺经验和流程控制的体系，需要对不同反应物的配比、投料顺序，以及各个反应节点的温度、压力进行精细控制，同时还需要加入特定的成膜辅助药剂。这里面涉及大量长期积累的know-how，也是墨锋最核心的配方和工艺能力。</p>\n  <p>在膜片制备环节，针对POD含酸膜片，墨锋通过持续攻关，形成了独特的“湿法单向扩散”工艺，能够提升凝固效率，并有效减少相分离过程中产生的缺陷。</p>\n  <p>墨锋还自主设计并建设了整套生产线，通过多道循环处理工艺，在提升水洗效率的同时，大幅降低废水产生量。后续加工过程中，公司独特的双拉工艺与热定型工艺能够进一步提升产品强度、模量等性能，同时减少石墨化环节中的掉粉、气泡等问题。</p>\n  <p><strong>硬氪：除3C外，为什么AI芯片领域也会特别强调POD这一材料？</strong></p>\n  <p><strong>李文涛：</strong>目前算力芯片的功耗和发热量都非常大。传统TIM材料如导热硅脂和导热凝胶的导热系数通常小于10W/(m·K)，已经很难满足AI芯片快速散热需求。</p>\n  <p>我们基于POD材料做出了新的导热泡沫方案，下游经过后道加工后，整体性能表现很好，初步已经可以达到石墨烯方案的水平。</p>\n  <p>石墨烯虽然也是一种热门散热方案，但成本相对较高，而且热扩散性能进一步提升的难度较大，目前通常做到900W/(m·K)左右就比较困难了。而我们的POD方案可以做到1000以上。</p>\n  <p>此外，PI材料无法烧制成兼具高导热和良好弹性的导热泡沫，烧出来会比较硬，难以应用于TIM材料场景；而POD则具备更好的可加工性和综合性能优势。</p>\n  <p><strong>硬氪：POD材料未来还可能应用在哪些领域？</strong></p>\n  <p><strong>李文涛：</strong>目前POD在3C和芯片领域，主要还是作为导热材料使用，核心价值来自后续石墨化加工后的性能表现。而我们第二代技术做出来的产品，取向度和结晶度更高，所以除了导热之外，它本身的力学性能也非常突出。</p>\n  <p>比如在航空航天领域，我们就看中了它高强度、轻量化的特性。现在航空航天和高铁领域广泛使用一种叫芳纶纸的蜂窝材料，用于减重和结构增强。我们在尝试用POD膜替代这类材料。相比纸基材料，POD膜重量更轻、强度更高，同时耐热性能也更好。我们已经和下游加工企业合作，把POD膜加工成蜂窝结构，测试下来整体性能表现非常不错。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260609/v2_6704d9d4e73143379aa419dfdca98135@5920579_oswg182321oswg516oswg516_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>不过，这类新应用的开发周期会比较长，也需要持续投入。现阶段，我们还是会优先聚焦3C领域，先把已经能够快速落地的市场机会抓住。</p>",
-      "category": "tech",
-      "published_at": "2026-06-09T01:58:22+00:00",
-      "fetched_at": "2026-06-09T02:44:08.877237+00:00",
-      "fingerprint": "51209cb6805357bf"
-    },
-    {
-      "source": "少数派",
-      "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
-      "url": "https://sspai.com/post/110853",
-      "summary": "又到了每年的618购物节，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2025年6月8日（周一）至6月22 ...<a href=\"https://sspai.com/post/110853\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-08T08:11:23+00:00",
-      "fetched_at": "2026-06-09T02:44:07.218062+00:00",
-      "fingerprint": "1a3d806a851eb6a3"
-    },
-    {
-      "source": "少数派",
-      "title": "派评｜近期值得关注的 App",
-      "url": "https://sspai.com/post/110874",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/110874\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-08T10:16:23+00:00",
-      "fetched_at": "2026-06-09T02:44:07.218056+00:00",
-      "fingerprint": "ac5984068c1116ee"
-    },
-    {
-      "source": "少数派",
-      "title": "Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾",
-      "url": "https://sspai.com/post/110888",
-      "summary": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。<a href=\"https://sspai.com/post/110888\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-08T20:47:52+00:00",
-      "fetched_at": "2026-06-09T02:44:07.218050+00:00",
-      "fingerprint": "23353451ae789e7e"
-    },
-    {
-      "source": "少数派",
-      "title": "一图流 | Apple WWDC26 开幕式回顾",
-      "url": "https://sspai.com/post/110887",
-      "summary": "WWDC26 开幕式一图流来啦。<a href=\"https://sspai.com/post/110887\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-08T20:56:14+00:00",
-      "fetched_at": "2026-06-09T02:44:07.218044+00:00",
-      "fingerprint": "987d7f02568dfdfa"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：WWDC26 全球开发者大会开幕等",
-      "url": "https://sspai.com/post/110889",
-      "summary": "少数派的近期动态少数派×AKKO联合共创带屏键盘即将上线，6月11日，来直播间一起共创。即刻预约可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知 ...<a href=\"https://sspai.com/post/110889\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-06-08T22:16:44+00:00",
-      "fetched_at": "2026-06-09T02:44:07.218034+00:00",
-      "fingerprint": "a89af037de50e796"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7982 CNY ↓-0.68%",
-      "url": "https://www.frankfurter.app/2026-06-08?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-06-08</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7982 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0329 (-0.68%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-06-09T02:44:06.050623+00:00",
-      "fingerprint": "f1c7979319c067b4"
     }
   ]
 }
