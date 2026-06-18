@@ -1,7 +1,337 @@
 {
-  "updated_at": "2026-06-17T03:38:40.692831+00:00",
-  "count": 188,
+  "updated_at": "2026-06-18T03:31:01.064362+00:00",
+  "count": 221,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Lives and incomes lost as Ebola takes toll on Bunia’s public-facing workers",
+      "url": "https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc",
+      "summary": "<p>A headteacher, a motorcycle taxi driver and a travel agent are among those who are counting the human and economic cost of the virus</p><p>Justin Keno watches more than 400 pupils stream through the Nelson Mandela school’s gate each morning, and wonders which of them might be carrying Ebola.</p><p>The institution’s principal has done everything he can to prevent the spread of the virus: installing hand-washing basins at the entrance, providing alcohol-based hand rub for parents, making pupils bring packed lunches instead of eating in the canteen, and banning food sellers from outside the gates.</p> <a href=\"https://www.theguardian.com/world/2026/jun/17/lives-lost-ebola-bunia-workers-drc\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-06-17T04:00:21+00:00",
+      "fetched_at": "2026-06-18T03:31:01.058886+00:00",
+      "fingerprint": "ec030f8c1d9220eb"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Ghana to advance reparatory justice at first major gathering since landmark UN resolution",
+      "url": "https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution",
+      "summary": "<p>Heads of state and participants from more than 80 countries at three-day event in Accra to pursue actionable commitments to reconciliation and restitution</p><p>Ghana is hosting a conference to advance the continent’s push for reparatory justice after the <a href=\"https://www.theguardian.com/news/2026/mar/25/un-votes-slave-trade-gravest-crime-against-humanity-reparatory-justice\">adoption of the landmark</a> United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.</p><p>Heads of state and government, ministers, civil society representatives, historians, researchers and legal experts representing more than 80 countries are converging in the capital, Accra, for the three-day event, billed<a href=\"https://reparations.mfa.gov.gh/\"> Next Steps</a>, which starts on Wednesday. It is the first major gathering on the issue since <a href=\"https://digitallibrary.un.org/record/4107547/files/A_RES_80_250-EN.pdf\">the resolution was adopted</a>.</p> <a href=\"https://www.theguardian.com/news/2026/jun/17/ghana-to-advance-reparatory-justice-at-first-major-gathering-since-landmark-un-resolution\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-06-17T05:00:22+00:00",
+      "fetched_at": "2026-06-18T03:31:01.058879+00:00",
+      "fingerprint": "07ca64188ec2e3d7"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms",
+      "summary": "<p>Exclusive: health professionals, survivors and politicians voice concerns in open letter over comments by Fatima Maada Bio, who denies supporting the practice</p><p>The first lady of Sierra Leone has denied that she supports female genital mutilation amid rising anger around her perceived approval of the practice.</p><p>But in an exclusive response to the Guardian, Fatima Maada Bio, the wife of President Julius Maada Bio, also said she would not openly condemn FGM until she saw “reliable data” that the practice was harmful.</p> <a href=\"https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-06-17T05:00:23+00:00",
+      "fetched_at": "2026-06-18T03:31:01.058872+00:00",
+      "fingerprint": "4b9c78ca03bf80bf"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "summary": "<p>Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensation</p><p>Read more: <a href=\"https://www.theguardian.com/global-development/2026/jun/16/somalia-us-trump-war-alshabaab-islamists-drone-airstrikes-civilian-deaths-children\">Killed walking home from school: why did Somali children become targets of US drone strikes?</a></p><p>A seven-year-old boy who was riddled with shrapnel during a deadly US airstrike in Somalia faces losing his ability to walk unless he has a £750 emergency operation.</p><p>But Abdiqadir Salah’s family cannot afford the surgery and the US – which refuses to admit that any civilians were killed or injured during its attack six months ago – appears unwilling to pay compensation to those affected by airstrikes in Somalia.</p> <a href=\"https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-06-17T09:00:27+00:00",
+      "fetched_at": "2026-06-18T03:31:01.058861+00:00",
+      "fingerprint": "1483b27b20b181de"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+      "category": "politics",
+      "published_at": "2026-06-17T09:13:34+00:00",
+      "fetched_at": "2026-06-18T03:31:00.889772+00:00",
+      "fingerprint": "8029005e59447803"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+      "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+      "category": "politics",
+      "published_at": "2026-06-17T22:36:13+00:00",
+      "fetched_at": "2026-06-18T03:31:00.889766+00:00",
+      "fingerprint": "92c6bef629cf752d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+      "category": "politics",
+      "published_at": "2026-06-17T13:27:47+00:00",
+      "fetched_at": "2026-06-18T03:31:00.889759+00:00",
+      "fingerprint": "08e76f6ed06f3898"
+    },
+    {
+      "source": "BBC World News",
+      "title": "What's in the US-Iran agreement?",
+      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+      "category": "politics",
+      "published_at": "2026-06-18T01:28:02+00:00",
+      "fetched_at": "2026-06-18T03:31:00.889750+00:00",
+      "fingerprint": "460d7fcde480338d"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "世界各國船隻仍然過不了霍爾木茲海峽的三個原因",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ry894r045o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "專家指出，國際船舶要恢復通航霍爾木茲海峽，仍要克服三大障礙：安全風險、水雷與「過路費」。",
+      "category": "politics",
+      "published_at": "2026-06-17T08:58:59+00:00",
+      "fetched_at": "2026-06-18T03:31:00.838820+00:00",
+      "fingerprint": "9d5afed66de50ea5"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "日本冰淇淋大戶涉嫌合謀定價遭反壟斷搜查",
+      "url": "https://www.bbc.com/zhongwen/articles/cdr4gn705ppo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "在酷暑難耐之際，日本六大冰品乳業巨頭遭到公正交易委員會搜查。",
+      "category": "politics",
+      "published_at": "2026-06-17T12:44:41+00:00",
+      "fetched_at": "2026-06-18T03:31:00.838813+00:00",
+      "fingerprint": "f54aa80a40273867"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "梅西世界盃歷史性帽子戲法：50年來頂級足球員的身體如何改變",
+      "url": "https://www.bbc.com/zhongwen/articles/cp8lk62kpxyo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "運動專家表示，比賽強度的提升，以及醫療與運動科學的進步，已大幅改變頂級球員的生理條件。",
+      "category": "politics",
+      "published_at": "2026-06-17T09:37:05+00:00",
+      "fetched_at": "2026-06-18T03:31:00.838807+00:00",
+      "fingerprint": "1b04966430d81646"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "德黑蘭將美伊協議包裝成勝利，而伊朗民眾想要的是柴米油鹽",
+      "url": "https://www.bbc.com/zhongwen/articles/c621j8z4rlno/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "對許多伊朗人來說，問題不在於這項協議是否意味著勝利，而是它是否能降低物價，減少人們對再次開戰的恐懼。",
+      "category": "politics",
+      "published_at": "2026-06-17T10:47:45+00:00",
+      "fetched_at": "2026-06-18T03:31:00.838801+00:00",
+      "fingerprint": "ba23de1559a83593"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "日菲啓動劃界談判　中國海警東進：北京為何稱對台「近海治理」成功？",
+      "url": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "日菲啟動太平洋專屬經濟區劃界談判引發中國強烈反制，北京宣稱已實現「近海治理」。專家指出，北京已將「灰色地帶」戰術施壓從台灣海峽擴展至東岸。",
+      "category": "politics",
+      "published_at": "2026-06-18T02:16:41+00:00",
+      "fetched_at": "2026-06-18T03:31:00.838790+00:00",
+      "fingerprint": "a30bd701e6409cca"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Storied Colors – a catalogue of named colors",
+      "url": "https://storiedcolors.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-18T03:31:00.563242+00:00",
+      "fingerprint": "991fa60a25239564"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-18T03:31:00.563114+00:00",
+      "fingerprint": "5f40f1ec98e71927"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "url": "https://www.horg.com/horg/?page_id=921",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-18T03:31:00.562969+00:00",
+      "fingerprint": "530b097d53edbdb3"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Lore – Open source version control system designed for scalability",
+      "url": "https://lore.org/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-18T03:31:00.562828+00:00",
+      "fingerprint": "097f813c5a270032"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-18T03:31:00.562670+00:00",
+      "fingerprint": "96462802cc97854d"
+    },
+    {
+      "source": "The Verge",
+      "title": "Epic wants to let you bring your Fortnite skins to other games",
+      "url": "https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse",
+      "summary": "Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game development engine, Epic plans to take a big step toward that theoretical future: it will let developers make games that can use [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-17T19:09:00+00:00",
+      "fetched_at": "2026-06-18T03:31:00.450597+00:00",
+      "fingerprint": "06d532abc694e2c4"
+    },
+    {
+      "source": "The Verge",
+      "title": "VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription",
+      "url": "https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription",
+      "summary": "VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, style matching from a reference image, and sharing images through VSCO Galleries. VSCO says more features are coming later, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-17T20:43:28+00:00",
+      "fetched_at": "2026-06-18T03:31:00.450591+00:00",
+      "fingerprint": "56269fa5217a3ef5"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
+      "url": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
+      "summary": "Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says \"price increases are unavoidable:\" We're doing our best to mitigate the huge increases that are being passed to us, and we've been trying to shield our customers from the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-17T21:42:21+00:00",
+      "fetched_at": "2026-06-18T03:31:00.450585+00:00",
+      "fingerprint": "b979a62a9b2d43a6"
+    },
+    {
+      "source": "The Verge",
+      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-18T03:12:31+00:00",
+      "fetched_at": "2026-06-18T03:31:00.450575+00:00",
+      "fingerprint": "67d0422be3c1f116"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "中科院博士冲上市，市值超105亿港币",
+      "url": "https://36kr.com/p/3857959588418823?f=rss",
+      "summary": "<p>本文约1900字，建议阅读4分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。</p>\n  <p>上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_3237579b3ea840d38302b64c40c60b24@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>这是门什么生意</strong></h2>\n  <p>从业绩来看，中科闻歌2023—2025年收入分别为2.5亿、3.18亿、4.05亿元，三年复合增速约27.4%；毛利率从44.0%一路提到50.4%、51.2%；净亏损也从2023年的2.6亿元收窄到2025年的1.67亿元。</p>\n  <p>能明显发现，中科闻歌收入在涨、毛利率超50%、亏损也在收窄。但即使在净亏损中加回股份支付（2025年4451万元）和上市相关开支（2025年2116万元）后，经调整净亏损也分别有1.86亿、 1.15亿、1亿元，对应经调整亏损率 -74.3%、-36.3%、<strong>-24.8%</strong>。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_24fdb93ce2d6479fa41d7c22ed4c7a9c@430412560_oswg50260oswg1080oswg606_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>(图源/硬氪整理)</p>\n  <p>也就是说其经调整后仍亏掉四分之一的收入。</p>\n  <p>现金流方面，中科闻歌<strong>经营活动现金流连续三年大额净流出</strong>，2023—2025年分别为-1.83亿、-1.35亿、-1.88亿元，2025年流出反而最大。同期，账上现金及现金等价物从5.24亿一路降到3.25亿元。即使已经是通用决策大模型第一股，自我造血也还不稳定。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_476d36d7d2524da28d181598bd70398c@430412560_oswg27478oswg1080oswg367_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>(图源/硬氪整理)</p>\n  <p>中科闻歌核心产品是自研的决策智能操作系统DIOS，底下有三层：数据底座X-Data、雅意大模型、智能体开发平台DI-Brain。落到到收入，分为三大场景：公共服务、传媒与通信、商企。</p>\n  <p><strong>公共服务</strong>（政府治理、舆情、产业链监测）：2023年收入1.27亿，占比50.7%；2024年收入1.5亿，占比47.2%；2025年收入1.48亿，占比<strong>36.5%</strong>。最近三年占比，从一半掉到三分之一。</p>\n  <p><strong>传媒与通信</strong>（媒体融合、多模态视频生成）：2023年收入0.76 亿，2024年收入0.85亿 ，2025年收入1.22亿。</p>\n  <p><strong>商企</strong>（金融投研、银行合规、品牌舆情）：2023年收入0.36亿，占比14.5%；2024年收入 0.75亿 ；2025年收入<strong>1.29 亿，占比31.9%</strong>。三年翻了 3.5 倍，是真正的增长引擎。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_2e99358b63024fe093346f6f461ba257@430412560_oswg25047oswg1080oswg369_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>(图源/硬氪整理)</p>\n  <p>按交付方式，本地化部署始终占七成以上（2025年72.7%），这意味着收入高度依赖项目制交付，而非可复制的标准化订阅（订阅式服务占比14.2%，仍小）。这也解释了为什么毛利率虽过半、却撑不起盈利——本地化部署是重人力的项目活。</p>\n  <p><strong>客户留存率</strong>（按客户数）从2024年的66.5%回落到2025年的55.4%，但<strong>净收入留存率</strong>（按金额）却从89.8%飙到<strong>139.5%</strong>。也就是说大客户黏性强、单客户价值在涨；但隐患可能是稳定性在变差。</p>\n  <p>中科闻歌最大单一客户贡献了2023—2025年收入的24.3%、19.9%、19.1%，前五大客户合计48.0%、32.5%、37.6%——集中度虽在下降，但依然偏高。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_a53a33eac9b3437181de96811a465190@430412560_oswg4703oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>十轮融了12.2亿，中科系班底</strong></h2>\n  <p>从2018年A轮到2025年F+轮，中科闻歌一口气融资<strong>十轮。</strong>累计融资金额超<strong>12.2亿元，</strong>吸引超40家投资机构。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_35aee4cf4ffe444caa8ae544d8a90b98@430412560_oswg228240oswg1080oswg681_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>注意：B轮与F轮每股成本，部分源于2019、2022年两次资本公积转增注册资本对每股口径的摊薄（招股书附注已说明），不宜直接当作估值高低。</p>\n  <p>值得一提的是，十轮稀释下来，<strong>董事长王磊博士IPO前直接持股仅1.78%，IPO后降到约1.63%</strong>。但他靠一致行动协议和一系列持股平台（中科三石、海南新移、闻歌智才、闻歌匠才），具有30.66%投票权。</p>\n  <p>从股东名册里能看到，\"国家队\"聚集明显：国开制造业转型升级基金、中国互联网投资基金（中网投，IPO后3.35%）、央视融媒体产业投资基金、中关村科学城、北京市人工智能产业投资基金、深创投系（深创投+红土科技IPO后约4.1%）、盈富泰克、中科创星等。</p>\n  <p>管理团队中，除了王磊博士来自中科院自动化所之外。CEO罗引博士也来自中科院自动化所，他IPO后直接持股4.24%，是直接持股最多的创始人。CTO曹家也来自中科院自动化所。王磊、罗引与联合创始人曾大军教授（多模态人工智能全国重点实验室副主任）三位通过中科三石（分别持股约75.87%、13.43%、10.70%），成为IPO后第一大股东（15.15%）。</p>\n  <p>此外，其CFO郑超敏去年5月才上任，此前是容诚会计师事务所总监，做了十多年审计。董秘马力，也是去年6月才上任，此前是中金投行部副总裁，和保荐人来自同一家。</p>\n  <p>此次IPO，吸引了6家基石，合计认购3100万美元，约占募资额27%。分别为China Orient Enhanced Income Fund（东方资产系）、嘉实国际资管、前海国际基金、国惠（香港）控股、华泰资本投资、民银国际投资。</p>\n  <p>招股书中，中科闻歌直言对手包括大型AI服务商、软件公司和系统集成商，且它们\"品牌更响、历史更长、客户更多、资源更厚\"。决策智能市场，2025年规模仅约39亿元。</p>\n  <p>中科闻歌的故事，是一群中科院自动化所科学家，用八年时间把\"企业级决策智能\"做成了一门年收入4亿、毛利率过半的生意，也赶在了AI叙事最热的窗口期。</p>",
+      "category": "tech",
+      "published_at": "2026-06-18T01:00:00+00:00",
+      "fetched_at": "2026-06-18T03:31:00.287542+00:00",
+      "fingerprint": "88b1810c7ca68e34"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪「2026最具价值成长企业100」正式发布",
+      "url": "https://36kr.com/p/3857980507919622?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_d44f88b31738421594c403c7cbabbe64@5889148_oswg292792oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p><strong>时代从不被旁观者定义，它只发生在那些正在成长的人身上。</strong></p>\n  <p>今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。</p>\n  <p>在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。</p>\n  <p>商业史本质上是一部成长史。<strong>那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中不断积累技术、组织和市场能力的公司。</strong></p>\n  <p>当前，新一轮的技术浪潮正催生更多新赛道与新格局。基于此，今年4月，36氪重磅启动“2026最具价值成长企业100”评选，旨在寻找那些能顺应产业变革、构建长期核心竞争力、持续创造商业与产业价值的创新企业。</p>\n  <p>本次评选历时2个多月，累计收到数百份企业申报。我们从成长力、技术力、资本力、产业力和影响力五大维度出发，围绕营收及订单增长、研发投入与专利积累、机构认可度与融资节奏、全球化布局与产业链位置、团队完整度等核心指标，进行了多轮交叉验证与独立评审，最终遴选出100家<strong>定义未来的成长标杆企业。</strong></p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_a95b3037283543fd8a588f15f675f582@5889148_oswg6453oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>如果给这100家入围企业画一张群像，会发现几个很有意思的数据和特征。</p>\n  <p><strong>在地域分布上，北京、深圳、上海在数量上位列前三，分别贡献了26家、21家和14家。</strong>北京、上海两地入围企业多集中在人工智能/大模型、先进制造/机器人/工业自动化、生物医药/医疗器械等领域；而深圳、广州则在消费科技/品牌出海、新能源汽车/智能网联等领域表现强劲。</p>\n  <p>成立时间方面，<strong>入围企业的平均年龄仅为5.5岁，大多数诞生于2020年之后。</strong>这其中既有熬过“资本寒冬”、完成技术验证的“耐力型”选手，也有踩中技术拐点、成立于2022年后的“爆发型”黑马。</p>\n  <p>在增速上，超过70%的企业近12个月营收或订单增速超100%，<strong>其中增速超300%的企业占比高达三分之一。</strong>这些企业主要集中在机器人、半导体及商业航天赛道，正处于从“技术验证”迈向“规模化商用”的关键拐点。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_b62f61a7ee144519b9e62fac57c8f3c1@5889148_oswg10273oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>除了数据，我们也关注到驱动增长的底层逻辑。以下是我们在调研中发现的三个显著趋势。</p>\n  <h3><strong>“顶尖科学家+产业老兵”成硬核创业标配</strong></h3>\n  <p>十年前，一个优秀的创始人画像还是“大厂高管+连续创业者”，而今天，“顶尖科学家+产业老兵”的组合已逐渐成为硬核创业团队的标配。</p>\n  <p>创始人拥有顶尖学术背景（博士、博士后、海外名校），核心合伙人则来自一线产业公司，拥有大规模量产、供应链管理或全球销售的实战经验。</p>\n  <p>产学研的边界，正在被创业本身重新定义。调研数据显示，超过65%的入围企业核心团队兼具“博士学历”与“十年产业经验”，其中45%以上拥有头部科技公司的研发履历。尤其在量子计算、脑机接口等“深水区”赛道，这种配置几乎是入场券。&nbsp;</p>\n  <h3><strong>资本逻辑在迭代，从“融到钱”到“融对钱”</strong></h3>\n  <p>在资本寒冬尚未完全退去的2026年，融资能力依然是成长企业的生命线，但资本的逻辑正在悄然发生改变。</p>\n  <p>从入围企业的融资数据来看，有两个特征非常明显。&nbsp;</p>\n  <p><strong>第一，B轮及以前的企业占比超过60%。</strong>这意味着真正有潜力的成长企业，并不需要等到C轮之后才能被识别。早期投资的质量，正在成为衡量一家机构眼光的关键标尺。&nbsp;</p>\n  <p><strong>第二，产业资本的身影无处不在。</strong>在统计的入围企业中，超过80%的融资轮次中出现了产业投资方，包括车企、电池厂、消费电子巨头、化工集团、医疗设备公司等。产业资本带来的不只是钱，更是场景、客户、供应链和验证机会。</p>\n  <p>对于纯财务投资机构来说，竞争正在变得更加激烈。单纯提供资金和投后赋能，已经不足以打动顶尖创始人。他们需要的，是真正理解产业、能带来订单和技术协同的“聪明的钱”。</p>\n  <h3><strong>迈入“生而全球化”时代</strong></h3>\n  <p>在本次入围的100企业中，我们发现，超过60%的入围企业，在成立之初就已同步布局海外市场，国内和海外同时起步、双线并行。</p>\n  <p>这些企业的海外布局不是简单的销售出海，而是深入到研发中心设立、本地化生产、国际标准认证、甚至海外主体公司注册等层面。北美、欧洲、东南亚、中东是最主要的目标区域。</p>\n  <p>调研还发现，入围企业中，有海外布局且已开拓多个市场的企业，其研发投入占比普遍更高。这也在一定程度上说明，越是全球化，越需要更强的技术壁垒；而更强的技术壁垒，反过来又能支撑更高的定价权和更深的全球化。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_dccb7bba91fa4cc6aeff0fb23ae73374@5889148_oswg10802oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>过去二十年，中国商业的主旋律是“规模与效率”，那是应用层创新的黄金时代，巨头林立，赢家通吃。</p>\n  <p>但到了2026年，这条主线正在边际递减。单纯靠流量驱动的粗放增长已难以为继，模式创新的窗口也在收窄，<strong>真正的竞争力开始向底层技术迁移。</strong></p>\n  <p>我们欣喜地看到，这100家入围企业并未止步于内卷，而是将目光投向了技术密度的提升。此刻，它们或许还未尽数站在聚光灯下，但无疑正在成为下一个产业新格局的定义者。</p>\n  <p><strong>以下为本次“2026最具价值成长企业100”完整名册：</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_269d9a14aa1748b18ceb006dfe7e18c7@5889148_oswg959765oswg1080oswg11364_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-06-18T01:09:18+00:00",
+      "fetched_at": "2026-06-18T03:31:00.287536+00:00",
+      "fingerprint": "619209ca5c3b0992"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+      "url": "https://36kr.com/p/3856708724315400?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。&nbsp;</p>\n  <p>这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。</p>\n  <p>穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品体系。</p>\n  <p>具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中持续稳定地工作，而非在可控条件下完成一次性展示。</p>\n  <p>这一转向的实质，是从“动作能力”向“工程稳定性”的重心迁移。要让机器人深度理解真实物理世界的运行规律，自主适配复杂环境的不确定性，这正是当前世界模型试图解决的问题。</p>\n  <p>在数据策略上，穹彻智能选择将真实数据与仿真数据并行纳入训练体系，其最早提出的“伴随式数据采集”方案，通过自研外骨骼CoMiner、便携式RoboPocket等数采设备，可以将数据采集以轻量化和低成本的方式拓展至家庭、办公、工业等环境，逐步构建覆盖多样物理场景的数据库。</p>\n  <p>穹彻智能认为真实数据进入模型后会让模型更加稳定和鲁棒，因为它来源于真实物理场景；仿真数据则利用其可规模化优势扩充能力边界。两者配合，而非互相替代。同时，公司还搭建了一套融合AI Agent的闭环系统，由它负责分析任务、下发指令、优化采集行为，再根据数据分布动态调整后续采集任务，极大提升高质量数据获取效率。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_fbd40e7b5dc64b48942f68e41ed5a190@6022551_oswg3413410oswg4096oswg4096_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">穹彻智能“伴随式数据采集”方案（图源/企业）</p>\n  <p>这些数据可以为穹彻具身大脑的训练及迭代提供燃料。穹彻智能坚持通用具身智能大模型自研路线，依托海量真实场景数据进行模型预训练，让系统在投入实际使用之前就建立起对物理世界的基本认知；辅以力位混合后训练，进一步校准模型对接触状态和力觉信息的理解精度，使其输出的动作指令不仅在语义层面合理，在物理层面也可执行。</p>\n  <p>通过这套训练流程持续打磨面向实体场景的通用具身大脑Noematrix Brain，为机器人提供了从指令理解、任务规划到环境感知、执行反馈的完整决策闭环能力。同时硬氪了解到，穹彻智能还计划于近期正式发布新一代自研具身智能世界模型。</p>\n  <p>进入具体任务场景，穹彻智能机器人已在药房实现批量落地。其采用的“嵌入式升级”路线，无需改造原有货架结构，仅在2.5平方米空间内完成部署，并且直接对接门店现有订单系统，就能在原有通道环境中稳定运行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_6f8446644eb1406593e9219847957acb@6022551_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">寻导路径规划（图源/企业）</p>\n  <p>长期以来，药房场景的商业化价值，核心在于解决行业长期存在的人力结构性痛点。线下药房普遍面临夜间订单零散、但必须专人值守的困境，单独雇佣人员值班成本高、性价比极低，是门店长期的纯成本项。而药房线上订单履约工作高度标准化，无需复杂的客户沟通与导购推销，仅需要精准、重复的拣货动作，恰好是机器人最擅长的工作场景。</p>\n  <p>与此同时，一个药房里有几千个SKU，商品由于搜找被翻乱、包装形态各异、货架陈列随时变动。种种复杂任务发生的小概率情况在真实运营状态中是常态。即便适配场景简单、作业流程标准化，但依旧充满实验室难以复刻的复杂变量。</p>\n  <p>穹彻团队表示，药房落地中真正需要应对的，更多是边角案例的积累，而非技术范式的根本突破。“一个红霉素眼膏因为包装太小、摆放角度不标准，用夹爪或吸盘都难以稳定处理；温度计因为悬挂陈列而非盒装，抓取逻辑也需要重新调整。这类特殊商品在整个SKU中占比很小，但恰恰是它们决定了系统能否从实验室迁移到真实场景。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_db2457d5fa3f4fb8b7e8f57e79aeddac@6022551_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">药房打包（图源/企业）</p>\n  <p>目前穹彻智能已与多家头部连锁药店达成合作，进入商业交付阶段，订单规模已达千台级别。</p>\n  <p>本轮融资后，穹彻智能将持续推进具备强泛化性和高自主决策能力的具身智能大模型的研发与迭代，加速具身智能在通用零售、酒店服务等真实场景落地。</p>\n  <p><strong>以下为硬氪与穹彻智能的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：一套可落地的物理AI具身大脑，现阶段需要具备哪些成熟能力？</strong></p>\n  <p><strong>穹彻团队：</strong>具身大脑真正跑通线下场景，核心离不开三方面能力。</p>\n  <p>首先是成熟稳定的算法能力。穹彻智能早在2021年就发布了通用抓取模型，在此后几年持续迭代，抓取作业的成功率在国际上处于比较领先的水平。这套算法构成了我们药房方案的技术底座，让机器人在面对几千个SKU时仍能保持较高的操作成功率。</p>\n  <p>其次是工程化的落地能力。实验室演示环境相对理想，可走进真实门店，场地布局、商品摆放时刻都在变动，很容易影响机器人作业效果。这不仅要优化算法，还得做好现场调试与硬件适配。依托于过去服务数百家客户、落地上千类场景的交付经验，我们摸索出一套成熟方法，能做到对门店几乎零改动，让机器人快速进场投入使用。</p>\n  <p>此外，还有数据层面的支撑。真实物理环境中有大量实验室无法模拟、需要打磨的边缘场景（corner case）。比如红霉素眼膏，它的包装小、摆放角度不标准，用夹爪或吸盘都难以稳定处理；温度计因为悬挂陈列而非盒装，因此设备在抓取时也需要调整细节。这类特殊商品在整个SKU中占比不大，但恰恰是它们决定了系统能否从实验室迁移到真实场景。解决这些问题的前提，是拥有足够多、足够真实的物理世界数据。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260617/v2_08b391b253e148b793de5971318989b6@6022551_oswg4045636oswg2014oswg1336_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">穹彻智能具身机器人在药店场景中应用（图源/企业）</p>\n  <p><strong>硬氪：零售药店场景中，客户端呈现出哪些新需求与趋势？怎么衡量投入回报？</strong></p>\n  <p><strong>穹彻团队：</strong>穹彻智能现阶段重点聚焦连锁药房场景。线下药房利润空间本就紧张，人工是仅次于房租的第二大成本，因此可以看到，客户端的降本需求非常明确。药房夜间订单虽然零散，但必须有人值守，雇一个人性价比极低，而机器人恰好能承接夜间的线上拣货工作。白天它也能辅助处理订单，算下来单店平均可以减少1.5个人力。</p>\n  <p>这个价值反映在投资回报上，ROI测算逻辑很直接，就是跟人工薪资对标。就落地情况，我们的客户在采购了机器人后，回本周期大约一年半到两年。对于连锁药房来说，这个回报周期已经具备了很强的落地价值。目前落地门店主要集中在一二线城市，广州、沈阳、南通等地已有项目在跑。</p>\n  <h4><strong>投资方评论：</strong></h4>\n  <p><strong>上海交通大学、上海创智学院</strong>长期与穹彻智能在联合实验室、科研攻关等方面保持紧密合作。此次二者旗下投资平台同时入股穹彻智能，标志着彼此合作迈向“技术+资本”深度绑定的新阶段，其中上海交大AI未来基金由交大人工智能学院发起，凝聚交大的校友与行业力量，支持具有重大产业化前景的“交大系”人工智能创新项目。这不仅为穹彻智能持续引进高端科研人才、探索前沿技术提供了坚实后盾，也将巩固其在具身智能科研层面的“护城河”。未来，穹彻智能将联合上海交通大学、上海创智学院在具身智能模型前沿技术领域持续攻坚，加速具身智能技术成果向产业应用转化。</p>\n  <p><strong>无锡数据集团</strong>作为无锡市推动数字经济与数据要素市场化发展的核心力量，将携手穹彻智能等生态伙伴，共同启动了城市级全域“千企百万小时”具身智能高质量数据集联合体行动，并正式发布第一阶段建设成果。下一步，双方将依托无锡数据集团的产业资源与场景治理能力，结合穹彻智能在前沿模型与具身大脑上的技术积淀，深入推进工业数据集建设。双方将充分发挥各自在技术、数据与产业资源上的优势，推动具身智能在真实产线中落地。</p>",
+      "category": "tech",
+      "published_at": "2026-06-18T01:28:16+00:00",
+      "fetched_at": "2026-06-18T03:31:00.287529+00:00",
+      "fingerprint": "f0909c27e59da616"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
+      "url": "https://36kr.com/p/3855480467543042?f=rss",
+      "summary": "<p><strong>文 | 孙小雯</strong></p>\n  <p><strong>访谈 / 编辑 | 海若镜</strong></p>\n  <p>「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。</p>\n  <p>当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的方式，实现人机融合、增强人类。马斯克和他的Neuralink，正是这一叙事的风向标。</p>\n  <p>芯生视界团队集合了多位国家“脑计划”脑机接口方向“青年首席”：创始人王茜来自北京大学心理与认知科学学院、IDG麦戈文脑科学研究所。联合创始人李远宁来自上海科技大学，是卡耐基梅隆大学人工智能和神经科学博士，曾在加州大学旧金山分校Edward Chang实验室（脑机接口顶级实验室）从事博后研究多年。联创团队还包括来自北京大学具身智能、脑机芯片和类脑芯片等方向的专家。</p>\n  <p>这支年轻的科学家团队，出道就<strong>获得了一线科技基金、北大及清华系机构的同时注资。</strong>他们选择的方向也很明确：视觉、语言和具身融合；目标是做万通道、一体式植入的“神经显卡”脑机接口系统。</p>\n  <p>芯生视界联合创始人李远宁认为，视觉是人类最重要的感知输入，语言则是人类对外表达的核心输出。在脑机接口研究中，视觉信息如何高效写入人的大脑，意图和语义又该如何被读出。这既对应失明、失语患者的功能重建，也更接近人机交互的核心问题。</p>\n  <p>为什么第一步选择视觉重建，当下能做到什么程度？脑机接口“神经显卡”究竟意味着什么？视觉、语言和具身智能之间，又如何构成下一代人机交互的桥梁？以下是我们与李远宁的对话（经编辑）：</p>\n  <h2><strong>01 科学家下场</strong></h2>\n  <p><strong>暗涌：芯生视界的几位联合创始人是如何走到一起，决定创立公司的？</strong></p>\n  <p><strong>李远宁：</strong>这其实源于一个对技术终局的共同判断：人类与世界交互的本质，一端是“感知”，一端是“表达”。</p>\n  <p>我和王茜研究人脑视觉、语言皮层时间比较久。十几年前，在CMU攻读博士期间，我便在匹兹堡大学医学中心开展了侵入式的人类视皮层神经编解码研究，发表了多篇关于电刺激产生文字和记忆幻觉的研究。后来我又参与领导了国内最早的侵入式汉语脑机接口研究。</p>\n  <p>与此同时，王茜老师团队在国内率先实现了基于临床病人的视皮层单神经元记录，并在2020年发表了“人类视皮层电刺激诱发彩色视觉幻觉的映射机制”的研究论文。</p>\n  <p>当我们将跨越十年的底层算法、试验数据汇聚，想合作将其真正推向临床转化时，发现急需一套能够精密调控、实现信息双向闭环的硬件基座。</p>\n  <p>为此，我们联合了北京大学主攻脑机硬件芯片的顶尖团队，他们拥有稀缺的工业级流片与规模化量产经验。</p>\n  <p>芯生视界的另一位联创朱毅鑫教授，同样来自北京大学。作为国内少有的曾受邀在NVIDIA GTC全球大会上作报告的具身智能专家，他也被“人机融合”的愿景所打动而加入。</p>\n  <p>至此团队最终聚集了从神经机制解析、底层高通量芯片、前沿临床医学，再到具身AI互联的全链条专家，这也是我们从硅基算力到碳硅融合的技术壁垒。</p>\n  <p><strong>暗涌：现在国内估值百亿的脑机接口公司已有几家，现在入场，会有点晚吗？既往做运动功能重建的公司，所积累的数据和能力，容易泛化到视觉、语言等适应症吗？</strong></p>\n  <p><strong>李远宁：</strong>从公司成立时间来看，我们不算早的。但此前的公司大都是针对运动功能重建，而我们选择的视觉、语言和具身方向，大家都刚刚开始，我们积累可能还更深。</p>\n  <p>运动功能重建积累的数据飞轮，很难迁移到其他认知功能上。</p>\n  <p>运动控制的维度相对较低，但视觉和语言涉及极高维度的非线性编码。在全新的赛道上，芯生视界的积累不仅在算法上，更在于我们的创始团队在临床一线多年，积累了海量的颅内多模态数据，包括百余例患者的视觉皮层电刺激的数据库。这意味着我们不需要从零开始进行临床试错。</p>\n  <h2><strong>02 万通道的可能</strong></h2>\n  <p><strong>暗涌：现在受市场追捧的几家侵入式脑机接口公司，多是从“柔性电极”这一长板入手创业，而芯生视界的解决方案是什么？</strong></p>\n  <p><strong>李远宁：</strong>柔性电极是进入大脑的物理接口，这很重要。但脑机接口背后是一整套系统，真正决定脑机交互上限和信息通量的，是电极之下的芯片和神经编解码算法——这就是我们提出“神经显卡”的原因。</p>\n  <p>现在临床上使用的一些硬件可控性不高，也不是为了高效的双向交互设计的。就像显卡支撑了AI的爆发一样，芯生视界正在构建的“神经显卡”系统，攻克的是大脑极端高带宽数据流的“编解码-重建”闭环，它有可能成为支撑脑机融合、人机共生的核心基础设施。</p>\n  <p><strong>暗涌：业内也有一种声音，脑机接口系统并不一定需要超高通量。马斯克Neuralink开始时植入了1024通道的脑机系统，但实际发挥作用的也只有几百通道？</strong></p>\n  <p><strong>李远宁：</strong>不同任务对通量需求不一样，运动控制需要记录的维度较低。比如手臂运动，只需要不到十个自由度的神经信号，就能实现在二维平面上精准地控制鼠标。</p>\n  <p>而目前所有语言解码的工作，本质上也是解码构音器官的精细运动：只需要十几个自由度的神经信号，就能很好的刻画口唇舌咽等构音器官运动，并解码生成出语音。</p>\n  <p>但真正的视觉重塑和自然语义解码，是另一个量级的工程。你想在盲人的脑海里像素级写入一张清晰的图像，或者直接解码“脑海中飘过的一个复杂抽象想法”，每一个环节对应的都是上千或者上万维度的信息并发。这时，高通量电极和高通量芯片的必要性就出来了。目前马斯克的Neuralink能做到 3000 个通道，我们正在朝万通道努力。</p>\n  <p><strong>暗涌：所以你们认为必须开发高通量的脑机芯片。做脑机芯片的难点有哪些？</strong></p>\n  <p><strong>李远宁：</strong>脑机芯片是“带着镣铐跳舞”。要把这样的芯片植入到大脑，既需要小尺寸、低功耗，又要满足高通量实时并发，还要能够双向交互。</p>\n  <p>这件事并不是无解，和 GPU 相比，当下脑机芯片制程没有那么高。但是在没有规模化的情况下，利润就会很薄。芯片研发很烧钱，小规模流一次片可能就成百上千万。</p>\n  <p>而脑机领域才刚刚起步，投入多少资源，决定能解决多少问题。从这个视角来看，对比芯片、具身智能等方向，脑机接口赛道获得的资金规模还是比较少。</p>\n  <p><strong>暗涌：你们的脑机芯片方案目前是什么进展？</strong></p>\n  <p><strong>李远宁：</strong>我们是国内为数不多流片出28nm级脑机芯片的团队，目前的芯片是256通道，今年应该会出一个更高通量、双向交互的芯片。</p>\n  <h2><strong>03 视觉与语言重建的未来</strong></h2>\n  <p><strong>暗涌：为什么“视觉重建”成为大家现在想要攻克的重要方向？你们团队在此的积累有哪些？</strong></p>\n  <p><strong>李远宁：</strong>从临床需求来看，视觉重建的需求量足够大，且现在没有好的替代解决方案。中国最常见的三种残障类型是肢体、视力和听力残疾，其中肢体残疾有义肢等方案，听力障碍也有人工耳蜗的方案能够部分解决。但在视力障碍领域，针对全盲患者，植入式脑机接口几乎是唯一的复明方案。</p>\n  <p>从研究路径来看，它的第一步验证路线足够清晰。初级视觉皮层有retinotopy机制，即刺激皮层对应的位置，就能产生色觉和光感。</p>\n  <p>王茜老师早在2020年就开展了相关研究，让被试者在受到皮层电刺激之后，描述视野中什么位置产生了画面。比如把视野分成几块后，患者可以感知到左边有红色，右边有蓝色。得益于国内临床资源等优势，此前已研究积累了100多例的实验数据，部分解决了视觉皮层自下而上的简单输入问题。</p>\n  <p>在复杂场景的视觉编码算法方面，神经编码领域有一个两年一度的国际挑战赛叫 Algonauts,&nbsp;主办方会给出一个公开的神经大数据集，要求参赛者提交算法，基于给定的刺激内容来尽可能准确地预测大脑的神经响应活动。这个比赛，2021年和2023年我们团队都拿了全球冠军。不过，2025年我们没有再参赛，而那一年的冠军是 Meta AI。</p>\n  <p><strong>暗涌：此前有脑机接口专家讲到，视觉重建的难度非常大。为什么让“盲人复明”存在巨大挑战？</strong></p>\n  <p><strong>李远宁：</strong>因为还有两个关键的问题没有解决。</p>\n  <p><strong>首先是动态视觉中大脑对环境的补全机制。</strong>我们看世界时，人脑每一刻其实只会接收到很小范围的视觉信息：我们视网膜中真正具备高分辨率的区域非常小，大脑是依靠眼球高频的扫视，结合内部建立的世界模型，来脑补和拼接出完整、连续的视觉场景。</p>\n  <p>这套机制也导致脑机接口的重建异常困难，因为初级视觉皮层并不是简单的前馈网络，存在大量的横向抑制和跨脑区的反馈连接，一个神经元的激活会横向影响周围的神经元，也就是说点亮一处可能会影响另一处，这就加大了视觉编码重建的难度。如果把一万个电极当成一万个独立的像素点去简单粗暴地同时激发，大概率会得到一片模糊。</p>\n  <p><strong>另一个困难是如何利用神经可塑性，让大脑学会接受这样的输入，产生感知。</strong>当我们将经过算法编码的电信号输入盲人的大脑时，对大脑而言，这是一种从未见过的新型“语言”。</p>\n  <p>盲人并非一接上设备就能立刻“看懂”世界，而是需要经历一个类似“强化学习”的主动适应过程。这本质上是利用神经可塑性，让人机共同进化，最终帮大脑重新“长”出一条感知通道。</p>\n  <p><strong>暗涌：脑机接口做视觉、语言这两种功能的重建及研究，对“人机交互”未来的意义是什么？</strong></p>\n  <p><strong>李远宁：</strong>语言和视觉，是我们跟世界交流最核心的输入和输出，视觉提供了我们80%的感知输入，在大脑深处构建起复杂的“世界模型”；语言则负责将这些意识解码并向外输出。</p>\n  <p>但语言本身，其实是受制于人类运动器官物理约束的一种低带宽的有损压缩。芯生视界的终极目标是打破这种束缚，实现高通量的人机交互，在人脑的高维语义空间与大模型、具身AI之间，架起一座直接对接的桥梁。</p>\n  <p>未来，思想的交互也许不再需要被降维成显性的语言或动作。人脑或能与AI实现语义级的直连。这可能不仅是人机交互的终局，更是碳基生命与硅基智能跨越物理边界、走向融合共生的进化一跃。</p>",
+      "category": "tech",
+      "published_at": "2026-06-18T01:34:22+00:00",
+      "fetched_at": "2026-06-18T03:31:00.287521+00:00",
+      "fingerprint": "64f656e592f52496"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "12306要忙着赚钱了",
+      "url": "https://36kr.com/p/3858061678760965?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;王晗玉</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>近日，市场监管总局联合中央网信办、国家铁路局，依法约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家7家旅游出行第三方平台，直指平台在火车票销售领域存在多项不规范经营行为。</p>\n  <p>具体来看，违规行为包括不当宣传“候补帮抢”及付费选座、不当诱导用户“买长乘短”“买短乘长”，不当收集、使用用户个人信息等问题。后续监管部门将加大监管执法力度。</p>\n  <p>此次集中约谈，不仅直指OTA平台火车票业务的乱象根源，也揭开了在线旅游行业围绕出行流量展开的深层博弈。</p>\n  <p>监管收紧的背景下，<strong>传统OTA依赖的流量逻辑正在动摇</strong>，而铁路官方平台跨界拓展酒旅业务的可能性，也让整个在线出行行业迎来新一轮变数。</p>\n  <h3><strong>抢票“加速包”，OTA的“流量加速包”</strong></h3>\n  <p>每逢各大、小长假，打开OTA平台的火车票页面，“极速抢票”“候补加速”“高成功率帮抢”等标语便铺天盖地，甚至各类“抢票”“加速”链接外溢至社交平台。部分平台还推出阶梯式付费加速服务，以“付费越快、抢票概率越高”为卖点吸引用户付费。</p>\n  <p>长期以来，各大OTA着力打造“第三方平台抢火车票比12306更快”的用户认知，将火车票抢票功能作为重要引流入口，<strong>试图凭借铁路出行的庞大客流撬动平台整体流量增长</strong>。</p>\n  <p>但从实际运行规则来看，这一宣传本身存在夸大与虚假成分。</p>\n  <p>此前，无论是12306官网还是相关技术负责人都曾数次表明，<strong>12306未向任何第三方平台开放核心售票接口与优先出票通道。</strong>所有第三方平台的火车票预订、候补抢票服务，本质上均是依托公开网络端口进行排队、刷新操作，和普通用户手动购票、候补没有区别。</p>\n  <p>也就是说，所谓“加速包”“VIP抢票”，并不能改变票务分配规则，也无法提升购票成功率。</p>\n  <p>除此之外，部分平台还刻意引导用户采用“买长乘短”“买短乘长”等方式购票，或在用户购票过程中默认勾选各类增值服务，同时过度收集手机号、出行轨迹、身份信息等隐私数据，这也是本次主流OTA平台被集中约谈的主要原因。</p>\n  <p>透过上述乱象不难看出，OTA发力火车票业务，主要目的除为补齐产品生态之外，更重要的是将铁路出行打造为低成本流量入口。</p>\n  <p>铁路出行受众基数大、使用频次高、用户粘性强，是天然的流量池。</p>\n  <p>因此，<strong>先用火车票抢票、购票服务吸引用户停留，再将铁路客流逐步导流至酒店预订、旅游度假、本地生活等高毛利业务，</strong>也成为OTA平台较为普遍的商业模式。</p>\n  <p>结合头部企业财报数据，或可一窥该模式的成效。</p>\n  <p>携程集团2025年年报显示，公司全年总营收达624.09亿元，归母净利润达332.94亿元，同比增长95.08%。其中住宿预订业务营收261亿元，占总营收比重约41.8%；交通票务业务营收224.89亿元，占比36%，两大核心业务合计占总营收的近八成。</p>\n  <p>从业务增速来看，携程住宿业务营收同比增加21%，票务业务同比增加11%。这显示，<strong>在平台整体盈利中，住宿业务扩张的拉动作用更强</strong>。</p>\n  <p>同时，观察同程旅行财报数据，2025年同程旅行全年营收193.96亿元，交通票务收入79.25亿元，占总营收37.92%，同比增长9.6%；住宿预订收入54.51亿元，占比27.07%，同比增长16.8%。</p>\n  <p>交银国际针对其前几个季度经营表现的多份研报指出，平台整体利润率抬升，核心驱动是住宿业务收入增速持续高于交通票务。</p>\n  <p>此外，<strong>OTA行业面向住宿与票务供应商的抽佣比例不同早已是市场共识</strong>：住宿业务基础抽佣更高，一般在10%-15%之间；交通票务则因定价基本由铁路、航司管控，OTA平台盈利只能依靠加速包、保险等增值服务。</p>\n  <p>这进一步凸显了在OTA平台中，<strong>交通票务侧重用户引流，住宿负责盈利兑现</strong>。</p>\n  <p>由此可见，如果火车票引流渠道受限，那么OTA平台的流量根基将受到冲击。</p>\n  <h3><strong>12306入局，能否吃下酒旅大蛋糕？</strong></h3>\n  <p>监管收紧之下，OTA在火车票领域的营销玩法、盈利空间不可避免将被压缩，铁路出行这一重要流量入口的引流能力也将大打折扣。</p>\n  <p>而当第三方平台逐步失去铁路票务的流量优势，手握海量出行用户的铁路官方平台，是否会向酒旅市场强势出击，分食传统OTA的核心蛋糕？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_74402875237a4411ac92935731f8dc58@5623968_oswg83816oswg557oswg1144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">12306此前已上线“酒店住宿”功能</p>\n  <p>当前，铁路12306拥有国内规模最大的出行用户群体，用户画像覆盖全年龄段、全地域，<strong>且出行需求通常与住宿、旅游需求高度绑定。</strong>此前12306平台已逐步上线酒店、民宿、旅游产品等服务板块，只是尚未大规模推广。</p>\n  <p>相较于传统OTA平台，12306具备两项天然优势：<strong>一是用户信任度高</strong>，作为铁路官方平台，不存在虚假宣传、捆绑消费等问题；<strong>二是流量成本低</strong>，无需像OTA一样投入巨额营销费用获客，依托原有购票流量即可实现自然转化。</p>\n  <p>放眼民航领域，相似的转型路径已有落地。</p>\n  <p>此前，中航信旗下航旅纵横正式上线“民航官方直销平台”功能，被业内称作“民航版12306”，整合国内37家航空公司直销资源，主打价格透明、无捆绑销售、杜绝大数据杀熟，直接对接航司官方渠道，凭借公信力快速抢占市场。</p>\n  <p>这一逻辑同样适用于铁路行业。</p>\n  <p>近年来，铁路系统面临多重经营压力，一边是高铁线路盈利分化，仅少数干线线路能够稳定盈利，大量中西部线路需依靠干线线路收益补贴运营。另一边伴随客流增速回落，<strong>铁路单一票务收入增长见顶，也亟待加快市场化探索，挖掘用户衍生需求，拓宽收入来源。</strong></p>\n  <p>以最繁忙的京沪高铁为例，其增长压力已在近年显现。财报显示，2025年全年，京沪高铁实现营收430.62亿元，归母净利润131.72亿元，同比分别仅微增2.15%、3.16%。</p>\n  <p>观察其毛利率水平，虽绝对值算得上亮眼，但也自2024年以来缓慢下滑，至今年一季度由47.39%下降至45.82%。</p>\n  <p>这一趋势下，堪称“最赚钱”的京沪高铁也开启又一轮调价，将部分动车组列车公布票价上调20%。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_e4abceb2df9e4ed59c07740aea046788@5623968_oswg210178oswg563oswg790_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">京沪高铁调价公告</p>\n  <p>尽管“公布票价”并非旅客在购票时需实际支付的票价，但高铁票提价的空间还是抬高了。</p>\n  <p>这在一定程度上体现了铁路行业的运营压力。</p>\n  <p>另一方面，如果12306持续加大酒旅、旅游业务的布局力度，传统OTA的利润空间则将面临挤压。</p>\n  <p>火车票抢票引流渠道收紧，<strong>外部流量获取难度相应加大</strong>。而原本可转化的铁路出行用户，被官方平台直接截留，<strong>核心利润板块难免遭遇冲击</strong>。</p>\n  <p>这一变化对于中小OTA以及主打火车票业务的平台影响或更为明显——它们通常既缺少携程、同程这样的多元化业务布局，也缺乏品牌与资金优势。</p>\n  <p>不过，现阶段12306发展酒旅业务也存在一定短板。传统OTA深耕住宿、旅游市场多年，积累了海量酒店资源，<strong>在产品丰富度、服务精细化、线下供应链整合上优势突出</strong>。</p>\n  <p>但12306作为票务起家的平台，在酒店签约、民宿运营、旅游线路设计、售后服务等方面仍处于起步阶段，短期内难以取代传统OTA。</p>\n  <p>而对OTA平台而言，过去依靠模糊宣传、捆绑增值服务、利用信息差获利的商业模式正面临调整：首先，票务业务将回归“基础服务”属性；其次，降低对铁路流量入口的依赖，在旅游产品、用户体验、供应链整合等方面提升竞争力，则将成未来一段时间各大OTA急需向市场交出的新作业。</p>\n  <p>*免责声明：</p>\n  <p>本文内容仅代表作者看法。</p>\n  <p>市场有风险，投资需谨慎。在任何情况下，本文中的信息或所表述的意见均不构成对任何人的投资建议。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。我们无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_9af5d5747dc64d49bcddbc789843a333@5623968_oswg104094oswg901oswg518_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">关注获取更多资讯</p>",
+      "category": "tech",
+      "published_at": "2026-06-18T02:25:26+00:00",
+      "fetched_at": "2026-06-18T03:31:00.287505+00:00",
+      "fingerprint": "d354fc67949a5ad7"
+    },
+    {
+      "source": "少数派",
+      "title": "在香港骑共享单车：访客视角的经验分享",
+      "url": "https://sspai.com/post/110750",
+      "summary": "骑共享单车游香港，听起来似乎不是什么主流选择。的确，香港总体来说对单车不算很友好。特别是港岛、九龙一带，地形起伏大，开发密度高，基本没有条件开辟单车径，政府也明确不鼓励以单车代步。不过，在临近深圳的新 ...<a href=\"https://sspai.com/post/110750\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-17T03:08:23+00:00",
+      "fetched_at": "2026-06-18T03:30:58.965195+00:00",
+      "fingerprint": "b15f96e742876f94"
+    },
+    {
+      "source": "少数派",
+      "title": "具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览",
+      "url": "https://sspai.com/post/110958",
+      "summary": "AI 之外，watchOS 27 中还有这些新功能。<a href=\"https://sspai.com/post/110958\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "fetched_at": "2026-06-18T03:30:58.965188+00:00",
+      "fingerprint": "d48db2a64bee26c1"
+    },
+    {
+      "source": "少数派",
+      "title": "模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么",
+      "url": "https://sspai.com/post/110720",
+      "summary": "前言随意启动一款3D游戏，打开图形设置界面，你大概率能发现一个选项——「抗锯齿」。你可能参考了网上的设置教程，切换到了TAA，抑或是MSAA、DLSS等的设置选项，画面看起来似乎更好了。那么这些字母的 ...<a href=\"https://sspai.com/post/110720\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-17T08:30:00+00:00",
+      "fetched_at": "2026-06-18T03:30:58.965181+00:00",
+      "fingerprint": "32ddce01065d52e0"
+    },
+    {
+      "source": "少数派",
+      "title": "WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app",
+      "url": "https://sspai.com/post/111181",
+      "summary": "在WWDC26全球开发者大会正式开幕前，本年度的Apple设计大奖再次先行一步揭晓。今年的Apple设计大奖也一如以往，继续分设乐趣横生、多元包容、创新思维、出色互动、社会影响、视觉图像六大类别，每个 ...<a href=\"https://sspai.com/post/111181\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-17T10:04:01+00:00",
+      "fetched_at": "2026-06-18T03:30:58.965174+00:00",
+      "fingerprint": "42cd5040fcc720e8"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：Android 17 正式推送、微软发布 Surface 新品等",
+      "url": "https://sspai.com/post/111191",
+      "summary": "高通发布骁龙 Reality Elite 旗舰 XR 芯片、Grok Imagine Video 1.5 模型正式上线等。<a href=\"https://sspai.com/post/111191\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-18T00:38:25+00:00",
+      "fetched_at": "2026-06-18T03:30:58.965163+00:00",
+      "fingerprint": "7e0600d673295070"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7721 CNY ↓-0.03%",
+      "url": "https://www.frankfurter.app/2026-06-17?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-06-17</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7721 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0012 (-0.03%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-06-18T03:30:57.894622+00:00",
+      "fingerprint": "c3d0315ff3630112"
+    },
     {
       "source": "BBC World News",
       "title": "Russian artist and Putin critic shot dead in Poland",
