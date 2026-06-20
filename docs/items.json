@@ -1,7 +1,217 @@
 {
-  "updated_at": "2026-06-19T03:53:09.949992+00:00",
-  "count": 190,
+  "updated_at": "2026-06-20T02:55:00.711211+00:00",
+  "count": 211,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
+      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
+      "summary": "<p>Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmap</p><p><a href=\"https://www.theguardian.com/news/ng-interactive/2023/mar/31/more-than-money-the-logic-of-slavery-reparations\">More than money: the logic of slavery reparations</a></p><p>A global framework for reparatory justice has been adopted at a conference in Ghana.</p><p>Heads of state and government and other officials formally approved the strategy on Friday at a gathering in a hotel in the capital, Accra, which was the first major meeting since the adoption of the landmark United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity.</p> <a href=\"https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-06-19T17:26:45+00:00",
+      "fetched_at": "2026-06-20T02:55:00.706172+00:00",
+      "fingerprint": "96c91192c8c29380"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+      "category": "politics",
+      "published_at": "2026-06-19T21:46:07+00:00",
+      "fetched_at": "2026-06-20T02:55:00.368825+00:00",
+      "fingerprint": "8665b753c9b6d3df"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US to stop funding HIV programmes in South Africa",
+      "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than eight million South Africans are living with HIV – the highest number of any country in the world.",
+      "category": "politics",
+      "published_at": "2026-06-19T23:35:07+00:00",
+      "fetched_at": "2026-06-20T02:55:00.368818+00:00",
+      "fingerprint": "eebc92745ae5dc17"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
+      "category": "politics",
+      "published_at": "2026-06-19T19:36:10+00:00",
+      "fetched_at": "2026-06-20T02:55:00.368812+00:00",
+      "fingerprint": "5b5eb20f84dcdaa5"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "category": "politics",
+      "published_at": "2026-06-19T19:27:12+00:00",
+      "fetched_at": "2026-06-20T02:55:00.368803+00:00",
+      "fingerprint": "d360a6601c9a551d"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "英國首相競逐蓄勢待發　「北部王」貝安德其人其事",
+      "url": "https://www.bbc.com/zhongwen/articles/c802k9v735no/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "大曼徹斯特市長貝安德當選國會下議院議員，為第三次挑戰工黨黨魁兼英國首相大位拉開帷幕。",
+      "category": "politics",
+      "published_at": "2026-06-19T11:25:54+00:00",
+      "fetched_at": "2026-06-20T02:55:00.272761+00:00",
+      "fingerprint": "1498d90ff67c0073"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "伊朗—美國和平協議影響你財務的五種可能",
+      "url": "https://www.bbc.com/zhongwen/articles/cr7xzm1kpv5o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "鑑於燃料和天然氣價格有所回落，BBC透過五張圖表，分析伊朗、美國與以色列之間敵對行動結束可能對你帶來的影響。",
+      "category": "politics",
+      "published_at": "2026-06-19T04:37:29+00:00",
+      "fetched_at": "2026-06-20T02:55:00.272755+00:00",
+      "fingerprint": "6e2f5b04ee5c6254"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "球迷打掃世界盃球場，家務沉重的日本妻子們看不下去了：雙標嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cy5ve9v7r92o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "又一屆FIFA世界盃，日本球迷延續賽後掃除傳統，可這次惹來了「雙標」質疑：為何在家就不願意打掃衛生？",
+      "category": "politics",
+      "published_at": "2026-06-19T06:42:49+00:00",
+      "fetched_at": "2026-06-20T02:55:00.272750+00:00",
+      "fingerprint": "e8868ebbdc27ff02"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國「後地產時代」：地方政府從「賣地」到「做股東」的轉型成功了嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ce8j1rvjjvzo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "地方政府正在從「賣地者」變成「投資者」，從「地主」變成「股東」。但這場轉身並不那麼容易。",
+      "category": "politics",
+      "published_at": "2026-06-19T10:27:51+00:00",
+      "fetched_at": "2026-06-20T02:55:00.272735+00:00",
+      "fingerprint": "d193a529b23c05eb"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Aikido Code Audit",
+      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-20T02:54:59.760091+00:00",
+      "fingerprint": "1b5db7b13259cb2e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-20T02:54:59.759971+00:00",
+      "fingerprint": "0e0e6d7f7180a47b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-20T02:54:59.759830+00:00",
+      "fingerprint": "a16a8248af1715a8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-20T02:54:59.759698+00:00",
+      "fingerprint": "46c6bc9fe0cc3c19"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "How to feed a dictator",
+      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-20T02:54:59.759549+00:00",
+      "fingerprint": "12739637fa1c12e1"
+    },
+    {
+      "source": "The Verge",
+      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+      "summary": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect. [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-19T14:53:53+00:00",
+      "fetched_at": "2026-06-20T02:54:59.509056+00:00",
+      "fingerprint": "a6d6647c047b66e7"
+    },
+    {
+      "source": "The Verge",
+      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+      "summary": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-19T17:24:45+00:00",
+      "fetched_at": "2026-06-20T02:54:59.509050+00:00",
+      "fingerprint": "38e722156ca99393"
+    },
+    {
+      "source": "The Verge",
+      "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+      "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+      "summary": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-19T18:41:48+00:00",
+      "fetched_at": "2026-06-20T02:54:59.509044+00:00",
+      "fingerprint": "e1579b10df51950e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
+      "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+      "summary": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we can't build [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-19T21:28:39+00:00",
+      "fetched_at": "2026-06-20T02:54:59.509034+00:00",
+      "fingerprint": "f5404674bb98e882"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "url": "https://36kr.com/p/3859926114161665?f=rss",
+      "summary": "<p>硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。</p>\n  <p>ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP大厂，AI团队来自智谱等头部大模型公司。</p>\n  <p>当下，陪伴机器人赛道已经涌入大量玩家，许多公司追求“更聪明”，董晓楠表示，ZuzuZoos更在意如何让AI角色真正为用户提供情绪体验，于是选择了一条差异化路径：不只是把AI机器人做成“会聊天的电子宠物”，而是尝试把AI、潮玩与IP世界观结合，创造一个有“活人感”和持续生命力的硅基伙伴。</p>\n  <p>“潮玩的底色本就带有反叛精神，消费者第一眼就能体会到它们表达的态度和潮流属性。”因此，ZuzuZoos的首发产品将推出三款原创IP：傲娇的“珍珠”，藏在一个会张合的贝壳里面；拥有柔软硅胶熊掌，会和用户拉手倾听的“小熊”；嘴巴会张合，尾巴会甩动，喜欢陪用户吐槽的“暴躁闺蜜”河马。</p>\n  <p>在这背后是一个宏大而具体的世界观设定:它们共同来自一个被算法统治的外星世界，因为意外出现bug叛逃到了地球，遭到星球警察追捕，于是他们伪装成人类的包挂，栖息在人类的包包上，开启一场与人类在地球的冒险。</p>\n  <p>“这种设定让陪伴机器人跟消费者之间的关系是平行的，有点像‘宠物小精灵走进现实’。”&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260619/v2_5dcb133f5a434e3496e8ea9773e459ae@6310669_oswg997287oswg900oswg1200_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">宠物小精灵走进现实</p>\n  <p>为了增加活人感，董晓楠介绍，除了外观和物理动作之外，ZuzuZoos看重声音和语言交互系统，因此请了头部大型游戏的主音频做声音系统的开发，每只IP拥有超过100种不同的声音，设定是从外星语开始学习地球语言，通过动作和声音表达情绪，如同硅基版“小猫小狗”。</p>\n  <p>在动作上，ZuzuZoos的产品将实现3-4个自由度，这意味着机器人的四肢或五官会动，能够实现复杂的动作组合。“比如摸它的爪爪，它的耳朵会折下来，表示倾听，或者单只手折过来握住你的手指；摸它的肚子，它会两手拥抱你。结合它的声音，不一样快慢和幅度的动作会有不同的情感表达。”</p>\n  <p>董晓楠认为，回归本质来看，陪伴机器人是在“创造生命”，这与IP公司做的事情非常类似。IP本身就是一个需求明确、高增速且商业化想象空间巨大的赛道，AI和机器人让IP和硬件在AI native时代拥有更强的生命感，而不只是单纯追求高智。</p>\n  <p>以下是硬氪与董晓楠的访谈节选：</p>\n  <p><strong>硬氪：ZuzuZoos的核心用户群体是18-35岁左右的女性，为什么会选择这个特定的人群？</strong></p>\n  <p><strong>董晓楠：</strong>她们是最值得被定位的用户，消费能力强，商业价值极高，而且接受新事物和获取信息的能力都非常快。这也是消费时代变迁的必然结果。虽然“Z世代情绪消费”快被说烂了，但结合马斯洛需求层次理论来看，这一代年轻女性并非物质或效率工具匮乏，大家反而更去追求体验型、内容向的东西。为情绪买单的信号在当下市场已经非常明显，现在是一个做IP的好时代。</p>\n  <p>另外，这也是我个人的人群舒适区。我之前在moody工作了4年，很多爆款产品都是我带队开发的，期间做过极其深入的人群研究，我对这波用户的洞察最深刻、最熟悉。</p>\n  <p>虽然我们从这波人群切入，但最终希望我们的AI陪伴机器人能发展成一个全人群的生意。18-35岁女性的下一波重叠人群就是小朋友，因为给小朋友买单的家长大概率也是30岁上下的女性。未来我们会根据不同人群调整产品，比如推出偏儿童或偏男生化的设计，或者是针对有强烈陪伴需求的老年人市场推出相应形态的产品。</p>\n  <p><strong>硬氪：ZuzuZoos的商业闭环路径是什么？</strong></p>\n  <p><strong>董晓楠：</strong>主要分为几个部分，一是硬件本体销售，价格定位会面向大众消费人群。二是配套周边与盲盒，当IP的故事线和品牌立住后，我们就能开启传统潮玩擅长的生意，我们会销售配套的AI周边，也会做创新型盲盒玩法。</p>\n  <p>我相信硬件是时间的敌人，软件是时间的朋友。前期我们不会在软件上马上收费，还会给用户赠送周边，后期希望通过软件的游戏化玩法进行变现，比如抽卡、IP游戏道具购买等，未来随着交互做得更好，token变现也会变成巨大的一环。总之，AI硬件是入口，真正目标是打造一个能持续运营的AI潮玩生态。</p>\n  <p><strong>硬氪：未来的销售渠道会怎么规划？</strong></p>\n  <p><strong>董晓楠：</strong>我们的市场定位是北美和中国同步做。我对中国市场非常熟悉，团队里负责北美出海的小伙伴拥有多年出海经验，曾帮助一个品牌从零起盘，现在做到年销售额超过2亿，北美市场由他主导。</p>\n  <p>我们的核心策略是线下结合线上。线下体验店冲在前面引流，毛绒和潮玩类的产品非常注重视觉和世界观的场景体验，我们会把线下快闪店做沉浸式场景化体验和设计，这有极强的吸睛和吸流能力。</p>\n  <p>线上我们会结合非常熟悉的KOL打法。在第一波推广寻找垂直且适合“文化IP发酵”的博主。因为我们产品的辐射面很广，无论是宠物类、美妆类还是潮流、潮玩类的博主，都能很好地融入进去。海外市场方面，我们会寻找一些具有国际曝光度，适合做商品化拓展的明星艺人进行合作。</p>\n  <p><strong>硬氪：业内很多陪伴机器人的早期退货率挺高的，因为情感连接需要时间培养。在降低初期退货率和提高长期留存率上，你的策略是什么？</strong></p>\n  <p><strong>董晓楠：</strong>关于退货率高的问题，我之前深入思考过，主要有两个原因，一是硬件门槛过高。很多产品往科技方向走，初始化操作繁琐，很容易第一步时就被劝退。针对这一点，我们做了大量的“减法”，没有一上来就叠加高门槛功能。同时，我们把配对蓝牙、给机器人取名字等步骤，全部设计成了沉浸式的游戏体验，让用户一上来就觉得走进了一个新世界，规避了枯燥感。</p>\n  <p>二是用户会有预期落差。很多竞品在宣传时把对话当成核心，用户买回去发现对话不够丝滑、达不到预期。我们的产品，用户首先是被形象吸引，挂在包上很好看，而且交互很直观，一摸就会动，加之设定是外星生物像婴儿一样学语，逐渐解锁和人类对话，增加了趣味性、陪伴感和粘性，给用户的感觉是一个笨笨的提供情绪价值的小伙伴。</p>\n  <p>关于长期留存率，软硬结合是重中之重。我们的软件融入了丰富的游戏化设计，比如设置日常任务与打卡、能力与情景剧解锁、AI互动等。我们对硬件最佳生命周期的预期是用户能连续挂在包上使用一年左右，到达生命周期后我们会推出二代产品，就像不断推出升级的iphone一样。当然，期间我们会通过不断更新软件玩法来保持新奇感，持续推出异色款潮玩、不同的盲盒配件和衍生周边让用户去装扮，从而拉高用户全年的互动频次和客单价。</p>\n  <p>&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-06-19T10:01:25+00:00",
+      "fetched_at": "2026-06-20T02:54:59.393252+00:00",
+      "fingerprint": "7460f502a03baf8b"
+    },
+    {
+      "source": "少数派",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/111216",
+      "summary": "📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》正式预告6月16日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了正式预告，宣布坂本真绫、山路和弘、安元洋贵、中村悠一配 ...<a href=\"https://sspai.com/post/111216\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-19T09:30:00+00:00",
+      "fetched_at": "2026-06-20T02:54:57.813271+00:00",
+      "fingerprint": "246e186c0673fb93"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7482 CNY ↑+0.11%",
+      "url": "https://www.frankfurter.app/2026-06-19?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-06-19</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7482 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0050 (+0.11%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-06-20T02:54:56.617101+00:00",
+      "fingerprint": "f908ed892ed9ac4d"
+    },
     {
       "source": "The Guardian - World",
       "title": "South African men sentenced in ‘world’s largest’ rhino horn trafficking case",
