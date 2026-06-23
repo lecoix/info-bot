@@ -1,7 +1,297 @@
 {
-  "updated_at": "2026-06-22T03:44:40.294099+00:00",
-  "count": 181,
+  "updated_at": "2026-06-23T02:49:27.160072+00:00",
+  "count": 210,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
+      "category": "politics",
+      "published_at": "2026-06-22T15:31:55+00:00",
+      "fetched_at": "2026-06-23T02:49:26.929412+00:00",
+      "fingerprint": "a7203a8c10d6c762"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+      "category": "politics",
+      "published_at": "2026-06-23T01:59:39+00:00",
+      "fetched_at": "2026-06-23T02:49:26.929408+00:00",
+      "fingerprint": "e6fb69db614301c7"
+    },
+    {
+      "source": "BBC World News",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+      "category": "politics",
+      "published_at": "2026-06-22T15:15:42+00:00",
+      "fetched_at": "2026-06-23T02:49:26.929403+00:00",
+      "fingerprint": "c42b3a29d9952178"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "category": "politics",
+      "published_at": "2026-06-22T23:07:45+00:00",
+      "fetched_at": "2026-06-23T02:49:26.929395+00:00",
+      "fingerprint": "df22f2f9d1c87500"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "每天服用健康補充劑？結果可能弊大於利",
+      "url": "https://www.bbc.com/zhongwen/articles/cpv300kw9wno/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "許多人每天服用多種維生素、礦物質等追求健康。但專家警告這可能導致肝、腎和腸胃損傷。社群媒體助長風潮，但均衡飲食才是根本。",
+      "category": "politics",
+      "published_at": "2026-06-22T23:50:03+00:00",
+      "fetched_at": "2026-06-23T02:49:26.856091+00:00",
+      "fingerprint": "b6551662df096438"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "價值2.5億美元的金礦——補水暫停廣告將成世界盃新常態？",
+      "url": "https://www.bbc.com/zhongwen/articles/c36yxg512p6o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC體育部剖析補水暫停時段廣告在世界各地如何操作，以及這能將對足球的未來帶來甚麼程度的影響。",
+      "category": "politics",
+      "published_at": "2026-06-22T00:17:50+00:00",
+      "fetched_at": "2026-06-23T02:49:26.856086+00:00",
+      "fingerprint": "82220bbd19586e94"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "連日壓力下 英國首相施紀賢宣佈辭職",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0vrr5kezpo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "自5月底地方選舉失利以來飽受壓力的施紀賢在唐寧街發表演說，宣佈辭任首相。",
+      "category": "politics",
+      "published_at": "2026-06-22T11:32:48+00:00",
+      "fetched_at": "2026-06-23T02:49:26.856082+00:00",
+      "fingerprint": "8350f32eca34fe50"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "是什麼導致英國首相施紀賢辭職？",
+      "url": "https://www.bbc.com/zhongwen/articles/c1mypy1yep4o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "在施紀賢爵士於2024年大選中贏得巨大多數優勢後不到兩年，他已被迫下台。",
+      "category": "politics",
+      "published_at": "2026-06-23T00:04:05+00:00",
+      "fetched_at": "2026-06-23T02:49:26.856077+00:00",
+      "fingerprint": "e7871f9339172ec5"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「人是幹不贏AI的」：中國短劇產業失業潮",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgdqjvzv9go/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "AI衝擊中國短劇產業，數以萬計演員、導演和製作人員，從入行賺到盆滿鉢滿、到失業下崗之間僅有一兩個月時間差。幾個從業者向BBC中文講述了他們的故事。",
+      "category": "politics",
+      "published_at": "2026-06-23T02:42:25+00:00",
+      "fetched_at": "2026-06-23T02:49:26.856068+00:00",
+      "fingerprint": "3c04e52147dde11d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:49:26.531030+00:00",
+      "fingerprint": "bbcb4b776f37a01f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "In Praise of Memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:49:26.530953+00:00",
+      "fingerprint": "3b7bf5bec283784a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:49:26.530861+00:00",
+      "fingerprint": "8846e792a5401bd1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "1,700 Free Online Courses from Top Universities",
+      "url": "https://www.openculture.com/freeonlinecourses",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:49:26.530770+00:00",
+      "fingerprint": "1428b2d1dfdde2b9"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:49:26.530662+00:00",
+      "fingerprint": "44efbe225e6f06d8"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Apple Watch SE 3 is just $199 for Prime Day",
+      "url": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
+      "summary": "The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a wide-ranging glow-up that added an always-on display, gestures like double tap and wrist flick, a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-22T18:00:00+00:00",
+      "fetched_at": "2026-06-23T02:49:26.377448+00:00",
+      "fingerprint": "d1f1c21d4601b095"
+    },
+    {
+      "source": "The Verge",
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-22T20:00:00+00:00",
+      "fetched_at": "2026-06-23T02:49:26.377444+00:00",
+      "fingerprint": "d36b8fef351847dd"
+    },
+    {
+      "source": "The Verge",
+      "title": "Valve describes just how brutal RAM negotiations are in 2026",
+      "url": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+      "summary": "Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The prices are so high in part because Valve isn't subsidizing the hardware, and the company has already indicated that the component crisis [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-22T21:07:14+00:00",
+      "fetched_at": "2026-06-23T02:49:26.377439+00:00",
+      "fingerprint": "554daa27d993ee5f"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-06-22T23:24:32+00:00",
+      "fetched_at": "2026-06-23T02:49:26.377430+00:00",
+      "fingerprint": "0844b7af34c2be02"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+      "url": "https://36kr.com/p/3864071269569540?f=rss",
+      "summary": "<p>当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。</p>\n  <p>感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，专注具身机器人视觉空间感知系统的算法与硬件研发，致力于成为世界模型时代的基础设施服务商。</p>\n  <p>“我们注意到，目前市面上还没有相对成熟完善的空间感知解决方案，大部分做传感器的企业只是把雷达、摄像头等设备的原始数据丢给本体厂商，让他们自己想办法处理。”金依力表示，“我们希望提供一整套空间感知能力，弥合机器人在开放场景应用落地的gap。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260622/v2_6543cc0f18564c64a0c98fc2a82cae30@5688585_oswg763091oswg1080oswg520_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">映界科技产品示例</p>\n  <p>今年年中，映界科技刚刚获得松禾资本与奇绩创坛的千万元种子轮投资。松禾资本管理合伙人汪洋曾表示，空间智能是机器人从自动化机器走向物理 AI 智能体不可或缺的基础设施层，看中了映界科技团队“超出年龄的判断力”。奇绩创坛方面则看重团队“从学术到产业的完整认知链条”以及产品“在工业场景中已经出现的真实付费意愿”。</p>\n  <p>映界科技创始人金依力拥有麦吉尔大学博士学位，深耕空间智能、多媒体系统领域。联合创始人胡凯源和段西泽同样是麦吉尔大学的博士生，从事多模态空间场景、全息视频通信与智能系统工程研究。创始团队的导师刘学为加拿大工程院院士、麦吉尔大学终身教授、IEEE Fellow，曾任三星北美研究副总裁、Tinder首席科学家，在空间智能与机器学习交叉领域有近20年积累。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260622/v2_3a8dfab106ef48fe928e6903fd920f88@5688585_oswg1014647oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">映界科技创始团队</p>\n  <p>金依力透露，映界科技即将推出<strong>“软硬一体、即插即用”</strong>的感知模组原型MirrorSense。<strong>目前产品尚未正式发布，但已获得多类客户的明确意向，2026年预期实现订单超千万元。</strong></p>\n  <p>在多模态感知方面，MirrorSpace在常规视觉与LiDAR基础上，将温度这一非视觉特征融入空间表征矩阵，通过在边缘端实现异构传感器的原始数据级深层前融合，实现RGB、深度与热度数据的无损时空对齐，从而为机器人在夜间、逆光、低纹理、遮挡等极端环境下提供更加稳定的空间感知输入。</p>\n  <p>不同于传统空间感知以静态三维建模为主，MirrorSpace在空间建模中，将“时间”作为第四维度融入，从而形成时空连续感知流，解决传统静态三维在动态场景下的“致盲”问题。</p>\n  <p>“我们做的是让机器人对空间理解更深刻、更精准，并且可以积累时空数据，从而使机器人形成记忆。”胡凯源解释说，Mirror-Mind决策中枢通过将融合多重模态后的4D高斯表征与大模型（VLM）深度对齐，将语义信息压缩存储，形成可被大语言模型查询的空间记忆。</p>\n  <p>把映界科技的产品放在机器人做咖啡的场景中，机器人能够根据此前对杯子、咖啡机、桌面之间空间关系的观察和记忆，自主形成动作决策，并完成“去厨房拿加热好的杯子”的动作。即便此时杯子被遮挡，机器人仍可结合历史观测与空间关系判断其位置。</p>\n  <p>目前公司业务模式可以分为两类：一类是直接将空间感知解决方案销售给机器人本体厂商，替换或增强机器人原有的感知模块。目前公司已与多家本体厂商达成意向订单；另一类是通过与行业集成商与平台商合作完成交付，正在探索的落地场景包括电力巡检、石油化工等工业领域，以及海外高端地产、商业零售与全息全景体育等泛娱乐行业。</p>\n  <p><strong>在现有落地的应用场景持续深耕，跑通量产交付闭环的同时，映界科技也正在与高校合作推动空间智能标准制定，最终成为所有机器人物理世界交互的标准配置与基础设施。</strong></p>\n  <p><strong>在落地之外，映界科技还有一条更长远的布局：MirrorSense本身就是一个时空数据采集器。随着模组在更多场景规模化部署，映界科技将持续积累真实物理世界的多模态时空数据，为下一代世界模型训练提供基础数据基建。\"空间感知不只是机器人的眼睛，它也是世界模型认识物理世界的入口。\"金依力说。</strong></p>\n  <p>金依力坦承，对于映界科技这个年轻的团队，当下的核心挑战在于工程化落地能力的不足，需要团队持续在硬件生产、供应链管理、实地交付等方面积累实战经验。</p>\n  <p>“在早期，我们没有直接参与一些大客户的招投标和实际项目交付，也是想将精力集中在世界模型研究和产品研发。”金依力表示，“客户最后还是看谁的算法能力更强，产品更好用，我们有这方面的科研能力优势，所以想先把产品和技术打磨好。”</p>\n  <p>虽然在当下的视觉空间感知赛道中，前有奥比中光、海康等上市公司提供成熟可量产的感知硬件，后有宇树科技等本体厂商自研感知方案，但是年轻且乐观的映界科技，有信心在夹缝中建立起自身的技术壁垒，并经受市场考验。</p>",
+      "category": "tech",
+      "published_at": "2026-06-22T10:00:50+00:00",
+      "fetched_at": "2026-06-23T02:49:26.209286+00:00",
+      "fingerprint": "5ef23cf1a25f75ee"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+      "url": "https://36kr.com/p/3865001641006081?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>三星电子向韩国所有员工开放ChatGPT和Codex</p>\n  <p>港股智谱暴涨，总市值突破1万亿港元</p>\n  <p>何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事</p>\n  <p>杨子卸任巨力集团职务</p>\n  <p>供应链公司：已向苹果首款折叠屏iPhone小批量供货</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价</strong></p>\n  <p>美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32%，标普500指数跌0.37%。SpaceX股价大跌16%，市值蒸发4000亿美元并跌破首日收盘价。</p>\n  <p>谷歌收跌5%，此前AI负责人Jumper离职。亚马逊下跌4.8%，为2月初以来的最大单日跌幅。芯片股涨跌不一，美光科技涨超6%，英特尔涨超5%，闪迪涨超4%，应用材料、恩智浦涨超2%，ARM跌超7%，博通跌超4%，高通、西部数据跌超1%。</p>\n  <p>据悉，SpaceX 上市后股价连续三个交易日大幅下跌，累计跌幅达27%，市值已跌破上市首日收盘水平。此前，其市值曾一度逼近3万亿美元，超越亚马逊和微软。尽管股价回调，但较发行价仍有约30%的涨幅。公司近期披露将发行债券筹措资金。（界面新闻、IT之家）</p>\n  <p><strong>英国首相斯塔默宣布辞职</strong></p>\n  <p>当地时间6月22日，英国首相斯塔默宣布辞职。斯塔默在唐宁街10号首相府前发表讲话说，他将辞去英国工党党首职务，但在继任者选出之前，他将继续担任英国首相。</p>\n  <p>斯塔默说，英国工党正在考虑的问题是，他是否是带领该党参加下届选举的最佳人选。他说，已“听到了”他所在政党对此问题的“答复”，并且“欣然接受”。（央视新闻）</p>\n  <p><strong>SK海力士市值首超三星电子，韩国股市市值冠军时隔25年7个月易主</strong></p>\n  <p>当地时间22日，韩国半导体巨头SK海力士总市值超越三星电子，成为韩国综合股价指数(KOSPI)市值最高个股，这是韩国股市市值冠军时隔25年7个月易主。</p>\n  <p>据韩国交易所消息，截至22日收盘，SK海力士总市值达2079.6655万亿韩元(约合人民币9.2万亿元)，较三星电子的市值高出约18.8523万亿韩元。</p>\n  <p>据韩联社报道，三星电子自1999年7月29日首次登顶韩国股市后，排名曾短暂波动。但自2000年11月21日，三星电子长达25年稳居韩国股市市值榜首。今年以来，三星电子股价上升197.7%，SK海力士股价则骤增341.9%。（中国新闻网）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>三星电子向韩国所有员工开放ChatGPT和Codex</strong></p>\n  <p>OpenAI宣布，三星电子正在向全球员工部署ChatGPT Enterprise（企业版）和Codex，以加速公司内部对AI的采用。根据协议，ChatGPT和Codex将提供给韩国所有三星电子员工，以及全球范围内所有设备体验（DX）部门员工。这是OpenAI迄今为止最大的企业级部署之一。三星电子将在其运营中全面使用ChatGPT和Codex，涵盖研发、制造、营销、企业职能以及其他业务领域。（财联社）</p>\n  <p><strong>英伟达最新发文，详解Rubin全面液冷技术</strong></p>\n  <p>当地时间6月21日，英伟达官方博客发布了一篇文章，详细介绍了即将量产的Rubin平台所使用的全面液冷技术，以及其带来的“数据中心历史上最重要的能效突破之一”。Rubin是全球首个实现100%液冷的AI计算平台。全面液冷能帮助AI数据中心大幅降低能耗，从而在超大规模部署场景下显著减少整体能源消耗。英伟达表示，由于英伟达Rubin平台采用全面液冷，因此所有为该平台建设系统的云服务商和数据中心运营商都在推动相关转型。（财联社）</p>\n  <p><strong>微软再推AI智能助手Copilot强制安装策略</strong></p>\n  <p>有用户表示，如今即使用户不主动使用，Microsoft365 Copilot组件也会悄悄地重新出现在用户的办公套件中。微软在其管理后台的更新中确认，Microsoft365 Copilot应用将自动安装到符合条件的、已安装Microsoft365桌面应用的Windows电脑上。该公司表示，如果管理员不希望Microsoft365 Copilot自动出现在其组织内的设备上，则需要“选择退出”。（财联社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>港股智谱暴涨，总市值突破1万亿港元</strong></p>\n  <p>6月22���，港股“全球大模型第一股”智谱（02513.HK）再次走出极端行情。</p>\n  <p>行情数据显示，智谱早盘涨幅一度扩至42.31%，股价最高触及2980港元，总市值突破1万亿港元关口。截至收盘，智谱大幅回吐涨幅，但日内涨幅仍然达到15%，站上2400港元，总市值维持在1万亿港元以上。（21世纪经济报道）</p>\n  <p><strong>前美联储主席格林斯潘去世，享年100岁</strong></p>\n  <p>美国媒体6月22日报道，美国联邦储备委员会前主席格林斯潘去世，享年100岁。艾伦·格林斯潘（Alan Greenspan），1926年3月6日生于美国纽约，犹太裔经济学家，纽约大学经济学学士及硕士。他于1987年至2006年担任美联储主席，历经六届美国政府，因对美国经济政策的重大影响力，被称为“经济沙皇”和“美元总统”，曾获英国爵士称号和法国荣誉军团勋章。</p>\n  <p>在美联储主席任上，格林斯潘处理了1987年“黑色星期一”股灾，1996年提出“非理性繁荣”引发市场波动，1998年主导降息应对亚洲金融危机，2001年推动减税并实施降息刺激经济。2005年，他坚称美国房价未见泡沫，该言论在次贷危机后被视作政策失误案例。（CCTV国际时讯）</p>\n  <p><strong>滴露就视频冒犯女性发布致歉声明</strong></p>\n  <p>滴露官方微博发布声明函：致广大消费者及媒体朋友。近期网络上出现多支滴露视频片段，引发网友热议。经调查，该视频由第三方达人为滴露品牌创作，通过剧情反转的叙事方式，讲述人们应当打破不平等的两性观，提倡健康自信的恋爱观与生活方式。该视频于5月24日首次发布。之后网上陆续出现多支视频片段，拼接截取了原视频的部分内容，曲解原始视频表达本意，引发争议。我们在第一时间责令下架了该视频。</p>\n  <p>尽管视频设计本意为批判性别偏见的剧情，但它让许多人，尤其女性朋友感到被冒犯。其中存在的内容表达缺陷与审核失职，责任不容推脱，我们致以诚挚歉意。</p>\n  <p>滴露诞生于医院，90余年来以“守护家庭健康”为使命。我们深知，真正的守护不止于健康，更在于守护每一个人的尊严，以及被平等对待的权利。我们将重建内容审核机制，整顿内容运营，避免此类问题重演。（九派新闻）</p>\n  <p><strong>淘宝闪购上线新业务“家宴”，联合米其林高星餐厅</strong></p>\n  <p>36氪独家获悉，淘宝闪购近日在成都、深圳两地启动了一项名为“家宴”的高端外卖项目，目前正在灰测中，首批参与的有潮上潮（米其林三星）、许家菜（米其林一星）、柴门荟（米其林一星）、梓楠、王捌院子5个头部中餐品牌，共9家门店。</p>\n  <p><strong>何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事</strong></p>\n  <p>6月22日，蚂蚁集团官网信息显示，新一届董事会已完成换届：清华大学经济管理学院院长白重恩、小鹏汽车董事长兼CEO何小鹏、德勤中国原首席执行官曾顺福获聘新任独立董事；港交所前主席史美伦、全球知名AI学者张宏江继续留任。换届后，蚂蚁集团董事会继续保持9人阵型，独立董事占比超过50%。（每日经济新闻）</p>\n  <p><strong>雷军回应与董明珠十亿赌约：当时不应开这个玩笑</strong></p>\n  <p>在第三十二届北京国际图书博览会“大使会客厅特别场”上，小米创始人雷军主动提起2013年和董明珠的十亿赌约。“2013年我参加央视一个活动，我跟格力的董明珠董大姐打了个赌，本来就打个赌，本来开玩笑，后来麻烦了，董大姐当真了，这个当真的后果也很严重，董大姐在很多场合里面，讲的都特别特别难听，我就不复述了。后来甚至董大姐说她要做手机，这种局面下我们压力也很大，我们后来就做了空调。”</p>\n  <p>雷军说道，“我今天想起来，我觉得当时不应该跟董大姐开这个玩笑。”(界面新闻)</p>\n  <p><strong>四部门核查媒体反映的纸尿裤问题，有关情况将及时公布</strong></p>\n  <p>针对媒体反映的“婴幼儿纸尿裤甲酰胺问题”，市场监管总局、工业和信息化部、国家卫生健康委、国家疾控局高度重视，成立联合调查组，核查婴幼儿纸尿裤甲酰胺有关问题，并依法依规处理。有关情况将及时公布。（央视新闻）</p>\n  <p><strong>苹果关闭美国三家Apple Store引争议，部分门店员工遭“区别对待”</strong></p>\n  <p>苹果宣布将在美国市场正式关闭三家Apple Store零售店，三家店分别为Apple Trumbull、Apple North County、Apple Towson Town Center，关闭原因是“商场整体客流和商业环境持续下滑”。</p>\n  <p>其中位于Towson Town Center门店关店计划备受外界关注，该店是“苹果美国首家成功工会化的直营店”，员工于2022年加入了International Association of Machinists and Aerospace Workers旗下的IAM CORE，并在2024年与苹果签署了集体谈判协议。</p>\n  <p>而在本次关店事件中，苹果允许另外两家非工会门店的员工转调至附近其他门店继续工作，但Towson门店的工会员工则无法获得同等待遇，只能按照合同领取遣散费。</p>\n  <p>对此，苹果回应称“这是严格依据双方签署的集体协议执行”：如果未来18个月内苹果在Towson 50英里范围内新开门店，这批员工将享有优先录用权；若没有新店，则按照协议支付遣散补偿。（IT之家）</p>\n  <p><strong>SpaceX发债交易预计筹资至少200亿美元</strong></p>\n  <p>SpaceX宣布进行有史以来的首次发债，将其资本市场首秀的舞台转向债券市场。这家火箭制造商刚刚通过首次公开募股（IPO）筹集了逾850亿美元资金，此次预计将发行至少200亿美元的债券，用于偿还今年早些时候从银行业获得的一笔过渡性贷款。若有任何超额筹集的资金，将用于“一般公司用途”。（新浪财经）</p>\n  <p><strong>杨子卸任巨力集团职务</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，巨力集团有限公司发生工商变更，杨建忠卸任总经理、董事长，杨子卸任副董事长，由杨建忠担任经理，同时多位主要人员发生变更。 该公司成立于1997年3月，注册资本3.65亿人民币，经营范围包括对制造业、建筑业、交通运输业、商业、房地产业、文化娱乐业、住宿餐饮业、科技研发的投资及其资产管理等，由杨建忠、杨子分别持股83%、17%。</p>\n  <p><strong>一线岗位人才需求旺盛，券商分支机构遭遇“人才荒”</strong></p>\n  <p>A股市场交投持续活跃，也带动券商财富管理人才需求旺盛。今年以来，多家券商分支机构密集发布招聘计划，针对客户经理、投资顾问、私人财富总监等一线业务岗位的需求集中释放。不过，在分支机构出现的人才缺口面前，招聘进度仍显缓慢。部分券商分支机构的招聘公告已“张榜”数月，至今未能觅得合适人选。尤其是在远离金融中心的非核心城市，“招人难”问题尤为突出。受访券商表示，已着手探索长效培养机制，比如通过校企合作、明确职业发展通道、推行管培生计划等，鼓励��关区域结合自身特点构建适配的人才培养体系，努力破解分支机构尤其是区域网点“招人难、留人难”的窘境。（证券时报）</p>\n  <p><strong>台积电28nm较年初减产25%</strong></p>\n  <p>据报道，供应链人士指出，台积电28纳米主要生产基地Fab 15A月投片量从今年初的20万片，已降至15万片，相较年初减少逾25%。台积电规划更多28纳米产能支持中间层，逐渐退出低毛利订单。（新浪财经）</p>\n  <p><strong>SpaceX获得三大评级机构授予投资级评级，展望“稳定”</strong></p>\n  <p>马斯克旗下的SpaceX近日获得穆迪、惠誉和标普全球评级授予投资级信用评级，在该公司备受瞩目的首次公开发行（IPO）之后，这三大评级机构均认为其展望“稳定”。这种共识表明对SpaceX财务稳定性的广泛信心，该公司正在竞争激烈的市场中推进一项耗资巨大且雄心勃勃的人工智能（AI）计划。（新浪财经）</p>\n  <p><strong>中国银行：自6月24日收盘清算时起，黄金延期合约保证金比例乘数由666%调整为800%</strong></p>\n  <p>36氪获悉，中国银行发布《关于代理个人上金所业务调整部分延期合约业务参数的公告》。根据贵金属风险管理和业务需要，中国银行将对代理个人上金所业务（包括白银延期合约和黄金延期合约）的交易保证金比例进行调整。具体如下：一、自2026年6月24日（星期三）收盘清算时起，中国银行黄金延期合约的保证金比例乘数由666%调整为800%，由此，中国银行黄金延期合约的客户保证金比例由99.9%调整为120%。二、自2026年6月24日（星期三）收盘清算时起，中国银行白银延期合约的保证金比例乘数由476%调整为571%，由此，中国银行白银延期合约的客户保证金比例由99.96%调整为119.91%。</p>\n  <p><strong>韩国考虑对三星和SK海力士杠杆ETF采取单独措施</strong></p>\n  <p>韩国金融监督院院长Lee Chan-jin表示，由于散户投资者对高风险产品的需求没有降温迹象，金融监管当局正在考虑对个股杠杆ETF采取单独的稳定措施。Lee在周一的新闻发布会上表示，个股杠杆ETF的副作用正在日益加剧。Lee表示，金融监督院正在调查未来资产的SpaceX IPO股票分配失败事件，旨在防止类似问题再次发生，从而保护投资者权益。（财联社）</p>\n  <p><strong>供应链公司：已向苹果首款折叠屏iPhone小批量供货</strong></p>\n  <p>日前，从一家苹果供应链公司获悉，该公司已于近期开始向首款折叠屏iPhone小批量供货。按照公司收到的目标指引，该款产品将于9月发布。近日，有消息称苹果首款折叠屏iPhone已从原定的2026年秋季推迟至2027年初上市发售。对此，一位苹果供应链公司人士表示，截至目前，其得到的目标指引是，首款折叠屏iPhone将于2026年秋季发布。对于首款折叠屏iPhone具体发布时间，截至记者发稿，苹果方面暂无公开回应。（中证报）</p>\n  <p><strong>马来西亚将下调补贴柴油价格</strong></p>\n  <p>马来西亚总理安瓦尔·易卜拉欣表示，政府将从下月起下调补贴柴油价格，并称这是基于美伊高级谈判所取得的进展。据报道，安瓦尔在当地时间周日表示：“我宣布推行定向补贴柴油，并非为了涨价，而是为了降低柴油价格，尽管当前局势仍存在不确定性。”（财联社）</p>\n  <p><strong>瑞典时隔40多年再建反应堆，北欧核电迎复苏潮</strong></p>\n  <p>瑞典最大电力企业瓦滕法尔集团近日宣布，已选定英国罗尔斯-罗伊斯公司在瑞典西南部建造3座小型模块化反应堆，将在时隔40多年后再次建造核反应堆。这个北欧国家自1980年决定逐步淘汰核电以来，已将现有12座核反应堆关停一半，但本届政府重新鼓励核电开发。包括瑞典在内，北欧国家近年面对能源供应链冲击，为追求稳定、清洁的电力来源而出现核电开发复苏潮。（新华社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>翰宇药业：全资子公司利那洛肽化学原料药获得上市申请批准</strong></p>\n  <p>36氪获悉，翰宇药业公告，全资子公司翰宇药业（武汉）有限公司收到国家药品监督管理局下发的利那洛肽《化学原料药上市申请批准通知书》，该药品适应症为成人慢性特发性便秘（CIC）和便秘型肠易激综合征（IBS-C）。</p>\n  <p><strong>盯盯拍（深圳）技术股份有限公司递表港交所</strong></p>\n  <p>36氪获悉，港交所文件显示，盯盯拍（深圳）技术股份有限公司向港交所提交上市申请书，独家保荐人为光银国际。</p>\n  <p><strong>太合音乐集团递表港交所</strong></p>\n  <p>36氪获悉，港交所文件显示，太合音乐集团向港交所提交上市申请书，联席保荐人为Deutsche Bank、中信建投国际。</p>\n  <h2>投融资</h2>\n  <p><strong>“千帆星座”建设与运营主体垣信卫星启动新一轮融资</strong></p>\n  <p>大型低轨卫星互联网星座“千帆星座”的建设与运营主体，有着中国版SpaceX之称的上海垣信卫星科技有限公司（下称“垣信卫星”）启动新一轮融资。根据披露信息，垣信卫星本轮融资拟募资净额“视市场募集情况而定”，披露时间自6月22日起至7月17日止；拟募集资金对应持股比例不超过20%；拟新增投资人数量不超过3家。据称，垣信卫星原股东将参与此次增资；募集资金主要用于卫星星座工程建设、技术研发、市场开拓以及公司日常运营支出等。按照相关要求，投资人应为中国境内（不含港澳台地区）依法注册并有效存续的企业法人或其他经济组织；联合体视为一家投资人，意向投资人/联合体投资总金额应不低于50亿元。（证券时报）</p>\n  <p><strong>Sand.ai完成两轮合计超亿美元融资</strong></p>\n  <p>36氪获悉，Sand.ai近日完成两轮合计超亿美元融资，投资方包括Look Capital、Lollapalooza Capital（王慧文家办）、九坤创投、经纬创投、和玉资本（MSA Capital）、创新工场、襄禾资本、源码资本、中科创星、洪泰基金、今日资本、华业天成、云晖资本、IDG、百度风投等一线机构联合投资。星涵资本担任本轮融资财务顾问。</p>\n  <h2>酷产品</h2>\n  <p><strong>iPhone 18标准版外观曝光：向大矩阵模组，神似双摄版17 Pro&nbsp;</strong></p>\n  <p>6月22日，有博主晒出了iPhone 18的外观设计，其最大变化在于采用了与Pro版相同的横向大矩阵DECO。不过，iPhone 18依旧仅配备两颗摄像头，分别是主摄和超广角，并未搭载潜望长焦。在苹果的产品策略中，潜望长焦始终是Pro的专属配置。</p>\n  <p>除此之外，iPhone 18系列的发布节奏也有重大调整，苹果将打破多年来的秋季全系齐发惯例，于2026年秋季率先推出Pro、Pro Max及首款折叠屏，而标准版延后至2027年春季。（快科技）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_61aa80dd8e75409181a0a01ce0c3af9b@5667365_oswg657997oswg1022oswg962_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">iPhone 18标准版</p>\n  <p><strong>古尔曼曝苹果2026至2027产品线：折叠屏续作、配摄像头AirPods及智能眼镜齐发</strong></p>\n  <p>科技记者马克・古尔曼发文称，苹果未来两年产品线将是其历史上最密集的时期。2026年秋季，苹果预计推出iPhone 18 Pro、Pro Max及折叠屏iPhone（古尔曼称之为“iPhone Ultra”），以及Apple Watch Series 12和Ultra 4；此外还包括多款Mac、支持Apple Intelligence的新款入门级iPad，以及可能到来的智能家居中枢、OLED屏iPad mini、新款Apple TV及HomePod mini。</p>\n  <p>2027年将以iPhone二十周年为核心，春季推出第二代iPhone Air（补足摄像头短板并改善续航），秋季发布iPhone 20 Pro及Pro Max、第二代折叠屏手机、配备摄像头以支持Siri AI的新款AirPods，以及苹果首款智能眼镜——后者原定今年底发布，目前已推迟至2027年底。2027至2028年前后还将推出配备机械臂的桌面机器人及升级版Vision头显。（界面新闻）</p>\n  <p><strong>整理</strong>｜何雨婷&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-06-23T00:06:15+00:00",
+      "fetched_at": "2026-06-23T02:49:26.209281+00:00",
+      "fingerprint": "13d84f2128728da8"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+      "url": "https://36kr.com/p/3865070004212994?f=rss",
+      "summary": "<p>本文约3000字，建议阅读6分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第一期，华健未来。</p>\n  </blockquote>\n  <p>今日9点30分，四川生物科技公司华健未来（06132.HK）正式在港交所敲钟上市，但开盘即大跌。截至发稿时，华健未来已大跌31%，报56港元，市值41亿港元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_68ab87f75f684d4295b3554721798565@430412560_oswg1408151oswg1290oswg2796_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>值得一提的是，6月22日下午，距离正式挂牌还有不到一天，华健未来（06132.HK）在富途暗盘上演了一出\"过山车\"。81.80港元的发行价，开盘直接跳到100.80港元（+23%），盘中最高冲到159.60港元——较发行价大涨<strong>95.1%</strong>，几乎翻倍；可随后一路跳水，最低见73.85港元（-9.7%），收盘定格在<strong>79.10港元，跌破发行价3.30%</strong>。单场振幅高达<strong>104.83%</strong>，成交额1.32亿港元，平均成交价104.808港元，意味着<strong>暗盘里大量筹码是在高位换手的。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_d97e2f01b6ef42039d290d83d68b3626@430412560_oswg192976oswg1080oswg2341_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>在“2026打新盛宴、超九成新股首日上涨”的氛围里，这是个刺眼的开场：追着开盘和冲高进场的人，按104.8的均价算，收盘时已被套在水下两成。一家什么样的公司，能让暗盘在两个半小时里从\"准翻倍\"摔到\"破发\"？</p>\n  <p>答案要回到其392页的招股书里。华健未来于2017年由一支自身免疫、代谢、肿瘤领域的专家团队创立，总部在成都，是一家<strong>临床阶段生物科技公司</strong>，以18A申请上市，独家保荐人为中信证券。目前华健未来<strong>还没有任何一款药上市，也没有任何产品收入。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_86aad88d152740beb585c0df0db33a97@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>没有一款药上市，IPO募资可再续5年命</strong></h2>\n  <p>先看业绩。华健未来2024、2025年的收入分别为<strong>180万元和1298.2万元</strong>，一年涨了<strong>6.2倍</strong>。事实上，这笔钱<strong>全部收入都来源于君实生物和君实联营公司筠泽创曜的对外许可及合作协议</strong>。具体说，是2021年从君实生物收的3000万元预付款、以及2025年7月从筠泽创曜收的两笔合计2000万元里程碑款，按履约进度分期确认。</p>\n  <p>再看亏损。表面上，华健未来年内亏损总额从2024年的<strong>2.02亿元</strong>收窄到2025年的<strong>1.35亿元</strong>，降了三分之一，像是在好转。但2024年那2.02亿亏损里，藏着一笔<strong>1.25亿元的\"具有优先权金融工具公允价值变动亏损\"</strong>——也就是向Pre-IPO投资者发行的优先股，因公司估值上升被记为账面损失。这是会计上的\"纸面亏损\"，不花一分钱现金，而且随着2024年8月29日特别权利协议终止，2025年这块归零。把这块非经营的水分挤掉，真实的情况是：</p>\n  <p><strong>研发开支：从7497万元飙升到1.1亿元</strong>（+47%）；</p>\n  <p><strong>行政开支：从1264万元涨到2829万元</strong>（翻倍多，含上市筹备）；</p>\n  <p>还新增了<strong>1603万元上市开支</strong>。</p>\n  <p>也就是说，剔除优先股公允价值变动后，公司<strong>真正花出去的钱（经营性亏损）不是在收窄，而是在扩大</strong>。这一点在现金流量表上看最明显：<strong>经营活动所用现金净额从2024年的-7804万元，扩大到2025年的-8943万元</strong>。</p>\n  <p>据招股书披露，公司<strong>2025年末的“现金及现金等价物”只剩372万元</strong>——2023年末还有1.79亿、2024年末5381万，两年缩水到几乎见底。尽管截至2026年4月30日，现金及等价物仅490万元，而金融资产高达<strong>3.22亿元</strong>，两者合计<strong>3.27亿元</strong>。</p>\n  <p>按管理层口径，假设未来现金消耗率为2025年的2.3倍（即年烧约2亿元量级），现有3.27亿元可撑18个月；若计入本次上市所得款项净额，可撑到<strong>69个月</strong>（约5.75年）。这才是这次IPO最大的意义：<strong>用一笔约10亿港元的募资，给一个还要烧很多年的管线，续上五年多的命。</strong></p>\n  <p>华健未来的故事，本质是一个<strong>小分子创新药管线</strong>故事。它有三个核心产品（HJ787、HJ178、HJ891）、一个主要产品（HJ197），外加一款临床阶段（HJ197）和五款临床前候选药——<strong>全部自行开发、小分子、国家药监局1类创新药</strong>。值得注意的是，<strong>截至目前，没有任何一款候选药获批上市</strong>。</p>\n  <p><strong>HJ787（TYK2抑制剂，外用，自身免疫），</strong>瞄准的是轻中度特应性皮炎（AD）、寻常痤疮（AV）、神经性皮炎（ND）。AD的II期数据看着不错：第8周高剂量组EASI-75达标率62.5%。但<strong>中国已有13款TYK2靶向候选药处于II/III期临床</strong>，已注册靶向JAK家族治AD的候选药多达26款。</p>\n  <p><strong>HJ178（口服GLP-1/GIP，代谢），</strong>这是当下最热的标签：<strong>一款口服小分子，同时增加GLP-1、减少GIP，主打降糖+减重</strong>。在司美格鲁肽、替尔泊肽掀起的减肥药狂潮里，\"口服\"二字足够性感。可也很拥挤，<strong>中国处于临床阶段的2型糖尿病GLP-1疗法有104款（其中19款口服），肥胖/超重GLP-1疗法91款（其中26款口服）</strong>。</p>\n  <p><strong>HJ891（KRASG12C抑制剂，肿瘤），</strong>单药I/IIa期客观缓解率47.2%（对比索托拉西布36%）、与特瑞普利单抗联用ORR达77.8%，数据有看点。但中国KRASG12C抑制剂<strong>已有4款获批上市、17款在研（9款已到II期及以后）</strong>，且整个中国KRASG12C市场2025年规模仅约2亿元。但华健未来是管线里离\"递交上市申请\"最近的一个。</p>\n  <p><strong>HJ197（FGFR4抑制剂，肝癌）</strong>——与君实生物的合作产品，2025年6月已\"更替\"给君实联营公司筠泽创曜，后者可出资50%取得亚洲区域内50%权益。这也是公司那笔\"收入\"的来源，III期计划2026年7月才启动。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_cfbd6192eb7d40f18016223341e246f0@430412560_oswg4703oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>八年六轮融6.2亿，最早进场的国投上海是真正赢家</strong></h2>\n  <p>支撑华健未来走到今天的，自然是融资。从2017到2025，公司完成了<strong>A、B、B+、B++、C1、C2六轮融资，累计向投资者募资约6.19亿元</strong>。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_9fcf17fe95194a549f43e74d9d495185@430412560_oswg135382oswg1080oswg502_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>谁是最大赢家？入股成本可以发现，是<strong>2017年A轮进场的国投上海，每股成本只有8.24元，较81.80港元发行价折让88.42%，</strong>账面回报近<strong>8.6倍</strong>。国投上海投过荣昌生物、康诺亚等，本次发行后仍持股<strong>7.50%</strong>；还值得关注的是联想系机构君联欣康，发行后持<strong>5.77%</strong>。越早进场、成本越低、折让越大，这条规律在这里同样成立。</p>\n  <p><strong>事实上，C1（2023/12）和C2（2025/6）两轮，每股成本都是45元，投后估值从26.3亿仅微抬到27亿——一年半几乎原地踏步</strong>。这意味着，过去两年一级市场对华健未来的定价基本停滞。招股书也坦承，C2与此次IPO市值之间的\"增幅\"，靠的是\"HJ178的II期2025年7月启动\"和\"与筠泽创曜的合作带来里程碑付款\"两条催化。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_f0122156e8b64839af6db2acb37b0cd8@430412560_oswg56997oswg1080oswg512_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>(图源/硬氪整理)</p>\n  <p>IPO基石阵容中，<strong>6家基石合计认购6500万美元（约5.09亿港元），占发售股份45.7%、占发行后总股本8.6%，全部锁定6个月。</strong>其中领衔的两家各出2500万美元、合计占了基石的七成。<strong>一家是陈光明的睿远基金，</strong>另一家是凯博，东方证券旗下私募平台与宣城经开区国资组合。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_8466eeda45c24c8fb7238385116a646d@430412560_oswg36866oswg1080oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>(图源/硬氪整理)</p>\n  <p>华健未来创始人<strong>姬建新博士，50岁，</strong>属于典型的\"科学家创始人\"：2004年获<strong>香港理工大学哲学博士</strong>、赴<strong>美国范德堡大学</strong>做化学研究；在PNAS、JACS等顶刊发表论文40余篇、被引超1400次，申请近30项专利；2007年入选<strong>中科院\"百人计划\"，</strong>创立华健未来之前，<strong>姬博士2007–2016年在成都地奥制药集团任职，最后职位是执行副总裁</strong>；2017年起还兼任中科院创投投资决策委员会委员。</p>\n  <p><strong>COO杨翔宇</strong>（执行董事），曾任地奥集团药物开发研究员，中科院大学药物化学硕士；</p>\n  <p><strong>研发总监郭娜</strong>，曾任地奥集团化学创新药物研究实验室负责人，中科院成都生物研究所药物化学博士。</p>\n  <p>也就是说，这是一支从地奥制药\"集体出走、另起炉灶\"的研发团队，背靠中科院的学术与创投网络。</p>\n  <h2><strong>写在最后</strong></h2>\n  <p>华健未来的故事，是一家成都的、地奥系科学家创办的小分子创新药公司，带着TYK2外用、口服GLP-1、KRAS三张当下最热的牌，以18A身份冲进了2026年的港股打新盛宴。</p>\n  <p>暗盘那条从+95%到破发的曲线，是<strong>热门赛道给了它想象力，也是零商业化与薄流通盘给了它脆弱性，两股力量在两个半小时里互相拉扯，最后把价格甩回了发行价之下。</strong></p>\n  <p>对这类公司，故事永远写在未来时——HJ891的NDA能不能在2026下半年如期递交、HJ787的外用差异化能不能在拥挤的TYK2赛道里跑出来、HJ178的口服GLP-1能不能在104款对手中占住身位，才是58亿估值配不配得上的真正答案。</p>",
+      "category": "tech",
+      "published_at": "2026-06-23T01:13:39+00:00",
+      "fetched_at": "2026-06-23T02:49:26.209276+00:00",
+      "fingerprint": "0105a0c7e3933201"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大团队用肌电腕带做新一代数采终端",
+      "url": "https://36kr.com/p/3865125383443463?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，雪梦未来（SnowOrigin）团队获得龚虹嘉、陆奇及海外机构投资。这支北大背景团队以sEMG（表面肌电）运动神经信号解码技术为切入点，通过神经腕带、第一视角采集设备以及自研NMH（Neural Math Hybrid）AI解码模型，构建新一代面向具身智能的人类操控数据采集方案。</p>\n  <p>目前，随着具身智能和Physical AI快速发展，行业对于高质量人类操控数据的需求日益增长。然而主流的数据采集方式，无论是第一视角视频、动作捕捉还是遥操作系统，大多只能记录动作结果或空间轨迹，对于发力过程、操控意图以及细微调整等关键信息覆盖不足。</p>\n  <p><strong>雪梦未来的神经腕带手环和全景头环等可穿戴设备，可结合肌电与运动神经信号解码技术，捕捉人类与真实世界交互过程，并将其转化为包含姿态（Pose）、力（Force）、微控制（Micro-control）的结构化数据，为机器人、世界模型及具身智能训练提供底层数据支撑（Data&nbsp;infra）。</strong></p>\n  <p>互联网时代催生了大语言模型所需的海量文本数据，而Physical AI的发展则需要人类与真实世界的全模态交互数据，创始人秦旭介绍称，相比视频记录“做了什么”，肌电等神经信号能够进一步反映“为什么这样做、如何发力、过程中进行了哪些微调”，从而帮助AI理解人与物理世界交互的本质。</p>\n  <p>基于这一理念，雪梦未来通过非侵入式运动神经信号采集，结合Ego环境感知、空间定位与多模态同步技术，将真实世界中的人类操作过程转化为可用于模型训练和场景应用的数据资产，为具身智能和世界模型提供更加丰富、真实的底层数据支撑。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_fab96073d3d940f5833d340f900f08aa@5920579_oswg773982oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>产品层面，雪梦未来目前已推出神经腕带手环、全景头环等可穿戴设备，并持续推进新一代数采终端研发，希望以轻量化、可规模部署的数据采集方案，构建面向Physical AI时代的人类操控数据基础设施。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260623/v2_d79d6fe6b6a2432c9bfd262380e738db@5920579_oswg225653oswg1080oswg603_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>秦旭介绍称，相较于依赖实验室环境的动捕手套、外骨骼或遥操作设备，可穿戴神经信号采集方案具备成本更低、佩戴更轻量、适合长期连续采集等优势，不影响正常生活、工作、学习，有望推动人类具身数据实现规模化获取。</p>\n  <p>模型层面，团队自主研发了NMH（Neural Math Hybrid）AI解码模型，可以对sEMG（表面肌电）运动神经信号进行实时解码，将人类操作过程中的意图、姿态、发力趋势、微控制以及环境上下文等信息转化为结构化数据，为具身智能数据采集提供更丰富、更高质量的数据来源。</p>\n  <p>目前，雪梦未来正同步推进两条商业化路径：一方面，为具身智能机器人、AI眼镜等终端提供更加自然的人机交互入口，降低交互门槛、提升连续交互体验；另一方面，建设面向Physical AI的人类具身数据基础设施，为机器人训练、世界模型等提供底层数据服务。</p>\n  <p>团队方面，创始人秦旭毕业于北京大学计算机学院计算机应用技术专业，来自高文院士、黄铁军院长领衔的北京大学编解码国家工程实验室团队。联合创始人王智林毕业于北京航空航天大学软件开发环境国家重点实验室，长期从事人工智能、计算机视觉方向研究，在国际顶级学术会议发表多篇论文，单篇顶级AI论文引用量2400+。</p>\n  <p><strong>以下为硬氪与雪梦未来创始人秦旭交流节选：</strong></p>\n  <p><strong>硬氪：Meta的神经腕带让这项技术广受关注，国内也有企业在跟进，雪梦未来的技术壁垒体现在哪些方面？</strong></p>\n  <p><strong>秦旭：</strong>很多人觉得肌电信号手环原理不复杂，但真正要把实验室的东西做成可量产、可商用的产品，难点是全方位的。</p>\n  <p><strong>硬件层面，国内目前常见的肌电手环大多还是8通道设计，采样率只有200到250赫兹，信噪比在二十多dB。而我们现在已经做到更多通道，更高采样率，信噪比达到43以上。</strong>而且这不仅仅是堆参数的问题，高通道数意味着更复杂的信号处理、更精密的硬件设计，还要做到可穿戴设备必须的小巧、低功耗。</p>\n  <p><strong>电极与工艺层面</strong>��金属电极要保证高导电性，还要处理各种噪声：运动噪声、传输噪声、接触噪声。而且不同人的皮肤阻抗、肌肉结构差异巨大，信号特征完全不同。我们做了千百次的定制设计与人体实验迭代，才找到平衡点。</p>\n  <p><strong>AI解码模型方面</strong>，2023年我们就做出了控制交互模型，是国内第一个把肌电信号实时解码为手部全姿态数据的团队。戴上腕带轻动手指，模型就能还原出完整的意图和姿态，并且基于蓝牙协议与各类智能设备完成交互。硬件的参数堆上去不难，难的是算法能把信号精准地翻译成动作和意图。</p>\n  <p>所以<strong>我们目前在硬件、软件、AI解码模型，三个维度都是比较领先的。</strong></p>\n  <p><strong>硬氪：公司的短期定位是“人机交互入口”，长期目标是“具身智能数据基础设施”，这两方面目前的商业化进展情况如何？</strong></p>\n  <p><strong>秦旭：</strong>人机交互方面，目前几家头部的AI眼镜公司都表达了强烈的合作意向。</p>\n  <p><strong>数据采集方面，目前正在经历范式的转移，从异构传感器方案、从动捕手套、从遥操设备，转向可穿戴的神经信号采集方案。</strong>这是一个全新的范式，大家现在在做的事情，是验证这个方案的有效性和可行性，然后迅速卡位。</p>\n  <p>雪梦跟其他玩家的区别在于，这个赛道还没火的时候，我们已经深耕了三年。我们是国内第一个把肌电信号做手部姿态还原的，第一个做控制交互模型的，第一个推动八通道和更多通道肌电手环量产的。现在范式转移的窗口已经打开，验证阶段基本完成，正处于卡位的关键期。</p>\n  <p><strong>首页图源 | 企业供图</strong></p>\n  <p><strong>排版｜范馨雅</strong></p>",
+      "category": "tech",
+      "published_at": "2026-06-23T02:13:15+00:00",
+      "fetched_at": "2026-06-23T02:49:26.209269+00:00",
+      "fingerprint": "924222df5a1c1555"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+      "url": "https://36kr.com/p/3865136165344516?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;林晴晴</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基金、九智资本持续追加投资。项目落地北京亦庄，获亦庄国投重点支持，本轮融资将主要用于下一代芯片研发、现有产品SL200的量产扩产及海外市场拓展。</p>\n  <p>「凌川科技」成立于2024年3月，由北京市人工智能基金与快手集团共同发起设立，前身为快手集团的异构计算与芯片事业部，是一家以硬件为基础的软件公司，专注于智能视频与生成式视频等多模态大模型的底层算力。公司创始人、董事长兼CEO刘凌志为上海交大博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，于2018年起从零到一搭建了快手异构计算和芯片团队。团队在快手内部自研的SL200芯片智能视频SOC芯片，持续在快手部署数万颗、稳定服务7亿用户，公司于2024年3月正式拆分独立运营。</p>\n  <p>短视频、直播、AIGV（AI Generated Video）等应用的爆发，让视频数据的处理和传输需求急剧增长。无论是互联网数据中心的视频转码，还是智慧城市、智能制造、边缘计算等场景中的实时视频分析，都对底层算力的编解码效率、功耗和成本提出了更高要求。在这一趋势下，AIGV正被视为下一代智能算力的重要应用场景。「凌川科技」联合创始人许明恺博士在中关村论坛上曾表示，产业正从“生成像素”迈向“模拟物理”的世界模型驱动阶段，有效算力需求相比传统文本模型呈指数级增长。</p>\n  <p>传统的通用CPU和GPU在视频处理任务上存在明显的效率瓶颈，往往需要大量堆叠算力来满足业务需求，导致数据中心运营成本居高不下。与此同时，国内大模型从文本生成向视频生成快速演进，算力消耗进一步放大，目前高端GPU获取受限，国产专用芯片的替代需求变得尤为迫切。这种局面下，更高效、更专用、更好用的算力底座芯片成了刚需。</p>\n  <p>硬氪了解到，针对AIGV场景的算力瓶颈，「凌川科技」将技术重心放在了“延迟确定性”计算架构上。公司深度融入RISC-V开源生态，推出创新性延迟确定性DiPU（Deterministic Inference PU）架构，采用数据流驱动与空间计算架构，通过编译器完全控制存储与调度，解决多模态大模型以及生成式视频对于高显存与带宽的依赖，实现了延迟、时序、带宽三重确定性。同时据团队介绍，其首创3D近存架构，采用全国产3D堆叠技术的下一代芯片已于4月完成流片，针对3D芯片的散热、一致性、可靠性等关键问题进行了针对性设计，是韬(τ)定律面向互联网数据中心应用的具体呈现。</p>\n  <p>在软件层，围绕DiPU架构，「凌川科技」构建了统一计算平台LUCAS（Lingchuan Unified Computing Architecure Stack），通过从应用适配层到硬件执行层的四层软件架构，来适应不同应用，同时做到支持主流开源生态、图/Eager 模式、TILE-BASED编程以及CLUSTER AFFINE，形成一整套“专用算力+开源架构+场景深度优化”的技术路线。</p>\n  <p>在布局下一代架构的同时，「凌川科技」的现有产品已实现大规模落地。在现有产品层面，SL200芯片是「凌川科技」的核心产品，也是国内首款将智能视频处理、AI推理、多核CPU等功能集成于一身的专用SoC芯片。在MSU2022、MSU2023-2024、MSU2025三届世界视频编码大赛中，SL200连续三年获得商业化编码器全部子赛道第一，相较英伟达最新AV1编码解决方案压缩效率提升30%—35%，相比其他厂商同类芯片还能再节省15%，对国际主流商用编码器形成断崖式领先，万卡集群月故障率低于0.01%。</p>\n  <p>目前该芯片已销售近十万颗，部署至快手、阿里云、百度云、B站等互联网公司，覆盖快手99.7%的直播转码业务。基于SL200，「凌川科技」还推出了Nano智能加速卡、Pro双芯加速卡、AI 边缘算力盒子、智算中心视频分析一体机和存储一体机，分别面向不同算力需求，应用于数据中心、智慧城市、智能制造、无人机、轨道交通等场景。此外，SL200已通过快手海外业务进入东南亚和南美市场，并与华为、超聚变、新华三、浪潮等厂商形成联合解决方案。</p>\n  <p>团队方面，「凌川科技」核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、ARM等国内外企业，以及清华、北大、交大、复旦、乔治华盛顿、南加州、密苏里、亚利桑那、德国亚琛、新加坡国立等高校，平均拥有15年以上的芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产。公司研发人员占比超过80%，累计申请中外专利超百项，涵盖大模型压缩、视频编码等关键技术。核心成员曾深度参与NeurIPS'21等国际竞赛，并主导多项北京市、上海市技术攻关项目。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>啟赋资本：</strong>凌川是业内稀缺的兼具半导体和互联网基因的团队，我们看好AI算力基础设施建设带来的巨大机会，高度认同团队的设计理念和商业化路径，相信很快就能见到凌川的产品在AI Infra领域占据一席之地。</p>\n  <p><strong>金浦投资：</strong>凌川科技所构筑的，不止于单芯片的性能优势，更是一套面向互联网真实业务场景，覆盖从底层架构到上层应用的完整国产替代方案。其产品已在互联网头部客户的大规模业务中完成商业化验证，并持续围绕国产大模型、软件生态及真实业务负载进行适配优化，为视频生成、多模态推理、互联网内容分发等场景提供高可靠、高性价比且具备自主可控的算力底座。</p>\n  <p>站在行业发展的关键节点，我们对凌川科技的未来充满期待：依托快手等头部客户的真实业务场景，围绕可灵等多模态大模型持续开展联合适配与底层优化，有望进一步释放生成式 AI 场景下的性能与成本优势。在国产 AI 算力替代加速推进的背景下，凌川科技有望凭借技术架构优势、头部客户商业化验证基础和软硬件协同优化能力，成为算力自主可控的核心力量，为中国AI产业的长期发展注入源源不断的动力。</p>\n  <p><strong>BV百度风投投资人陈昊：</strong>视频生成市场蓬勃崛起，算力价值愈发凸显。凌川科技是百度风投在GenAI产业链上的又一重要布局，我们看好其在视频生成爆发期的核心价值。公司与下游场景方深度合作，以专用化设计，破解成本与效率难题。</p>\n  <p><strong>九智资本：</strong>随着生成式AI和多模态大模型的爆发式发展，AI算力需求尤其是推理侧的算力需求正呈指数级增长。凌川科技作为AI算力与智能视频处理领域的领军企业，为AI时代的多模态推理、视频内容生成与消费等关键场景打造了高性能、低延迟的算力基石。九智资本在凌川科技创始之初即投资了凌川，本轮继续加持，我们相信在刘博士的带领下，凌川科技将作为国产AI算力芯片的代表，从“国产替代”迈向“全球化”的新阶段。</p>\n  <p>&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-06-23T02:20:22+00:00",
+      "fetched_at": "2026-06-23T02:49:26.209256+00:00",
+      "fingerprint": "9f7037eebfb4d720"
+    },
+    {
+      "source": "少数派",
+      "title": "恩施龙船调，游土随川流",
+      "url": "https://sspai.com/post/110742",
+      "summary": "恩施的峡谷之美在全国甚至全球都是一绝。<a href=\"https://sspai.com/post/110742\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-22T03:07:02+00:00",
+      "fetched_at": "2026-06-23T02:49:24.613463+00:00",
+      "fingerprint": "e2d54ee2e0e980b3"
+    },
+    {
+      "source": "少数派",
+      "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+      "url": "https://sspai.com/post/111081",
+      "summary": "一直以来，Apple 和 Nike 之间的商业关系在公众视野里简单明了。但在两者中间，Apple 的前任 CEO Tim Cook 一直扮演着连接者的角色，他和 Nike 之间的关系也因此而显得十分微妙。在本期节目中，我们就来一起深入 Apple、Nike 和 Tim Cook 之间的商业三角关系。<a href=\"https://sspai.com/post/111081\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-22T06:30:00+00:00",
+      "fetched_at": "2026-06-23T02:49:24.613459+00:00",
+      "fingerprint": "57d6e861d44a7e49"
+    },
+    {
+      "source": "少数派",
+      "title": "具透｜Android 17 正式版：大屏体验，先看 Google？",
+      "url": "https://sspai.com/post/108899",
+      "summary": "越来越不新鲜了呐我的山景城朋友！<a href=\"https://sspai.com/post/108899\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-22T08:23:24+00:00",
+      "fetched_at": "2026-06-23T02:49:24.613454+00:00",
+      "fingerprint": "960cdfe03cfc26e4"
+    },
+    {
+      "source": "少数派",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/111360",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/111360\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-22T10:04:48+00:00",
+      "fetched_at": "2026-06-23T02:49:24.613448+00:00",
+      "fingerprint": "7e5ec1957c316cca"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：荣耀发布 X80 Pro Max 等新品等",
+      "url": "https://sspai.com/post/111385",
+      "summary": "少数派的近期动态少数派×AKKO联合共创带屏键盘功能共创计划开启。参与众测招募尝鲜27系列新系统的朋友，你的满意度如何？来一派投票少数派正版软件、付费教程618促销活动限时开启。点击省钱可爱又好玩的经 ...<a href=\"https://sspai.com/post/111385\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-06-23T00:49:30+00:00",
+      "fetched_at": "2026-06-23T02:49:24.613439+00:00",
+      "fingerprint": "744b678d8f0352ca"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7481 CNY ↓-0.00%",
+      "url": "https://www.frankfurter.app/2026-06-22?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-06-22</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7481 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0001 (-0.00%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-06-23T02:49:23.653787+00:00",
+      "fingerprint": "16e8fa51bb7bdd9f"
+    },
     {
       "source": "The Guardian - World",
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
