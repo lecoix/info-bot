@@ -49,6 +49,11 @@
     "source": "Hacker News Front Page",
     "title": "Blogging can just be stating the obvious"
   },
+  "00e169f76d9a9530": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "西班牙擊敗阿根廷 二度奪得世界盃冠軍"
+  },
   "0105a0c7e3933201": {
     "first_seen": "2026-06-23T02:49:33.347467+00:00",
     "source": "36氪 - 最新文章",
@@ -593,6 +598,11 @@
     "first_seen": "2026-06-28T03:23:49.445148+00:00",
     "source": "Hacker News Front Page",
     "title": "Choosing a Public DNS Resolver"
+  },
+  "0f079c061802777b": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "The Verge",
+    "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera"
   },
   "0f191ad0a4b7fe78": {
     "first_seen": "2026-06-16T03:39:02.928945+00:00",
@@ -1874,6 +1884,11 @@
     "source": "Hacker News Front Page",
     "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing"
   },
+  "34889b510350e138": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "BBC World News",
+    "title": "Russia launches major ballistic missile attack on Ukrainian cities"
+  },
   "348ad7b7ded3daad": {
     "first_seen": "2026-06-30T02:54:02.823724+00:00",
     "source": "少数派",
@@ -1938,6 +1953,11 @@
     "first_seen": "2026-05-27T02:58:22.057271+00:00",
     "source": "The Verge",
     "title": "Did the Pope use AI to write about the dangers of AI?"
+  },
+  "3659d10236526083": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索"
   },
   "3659d5ff1e924ef5": {
     "first_seen": "2026-06-24T02:50:04.721756+00:00",
@@ -2124,6 +2144,11 @@
     "source": "36氪 - 最新文章",
     "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销"
   },
+  "3a6862a78949102c": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "The Guardian - World",
+    "title": "São Tomé and Príncipe heads to polls in tense presidential election"
+  },
   "3a89716f0afc5506": {
     "first_seen": "2026-07-19T02:13:31.024256+00:00",
     "source": "BBC World News",
@@ -2208,6 +2233,11 @@
     "first_seen": "2026-05-25T02:59:08.846781+00:00",
     "source": "少数派",
     "title": "capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具"
+  },
+  "3ca5a0f1a0fa127b": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Claude Code uses Bun written in Rust now"
   },
   "3cace427a8c59d9f": {
     "first_seen": "2026-07-17T02:12:49.793581+00:00",
@@ -2443,6 +2473,11 @@
     "first_seen": "2026-05-28T02:45:19.382932+00:00",
     "source": "少数派",
     "title": "派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等"
+  },
+  "479e9fd8f9fc4f60": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "The Verge",
+    "title": "The FBI reportedly won’t investigate ICE anymore"
   },
   "47d2dc332988ae8a": {
     "first_seen": "2026-05-29T02:48:45.372909+00:00",
@@ -2999,10 +3034,20 @@
     "source": "BBC 中文 - 头条",
     "title": "協議剛簽談判在即海峽再度封航 美國質疑伊朗吹噓"
   },
+  "5819d9cbe0c1b945": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "中國揭陽虐狗案：如何席捲全球各地輿論？"
+  },
   "58d8a0ce4d48ccd8": {
     "first_seen": "2026-06-12T03:32:07.711422+00:00",
     "source": "BBC World News",
     "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests"
+  },
+  "58ff93039dd79c0d": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线"
   },
   "593643d0b780530c": {
     "first_seen": "2026-06-13T02:56:58.864115+00:00",
@@ -3074,6 +3119,11 @@
     "source": "少数派",
     "title": "Await：五分钟，把点子变成 iPhone 小组件"
   },
+  "5b4c4b87ecaaa7cb": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "金正恩本應是朝鮮人唯一的偶像，直到他們發現K-pop"
+  },
   "5b542b6c2b146ef2": {
     "first_seen": "2026-07-18T02:02:03.113066+00:00",
     "source": "BBC World News",
@@ -3083,6 +3133,11 @@
     "first_seen": "2026-06-20T02:55:02.407824+00:00",
     "source": "BBC World News",
     "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7"
+  },
+  "5b76911327f76cde": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "Hacker News Front Page",
+    "title": "The Zen of Parallel Programming"
   },
   "5b8f40780203e19e": {
     "first_seen": "2026-07-16T02:09:46.773599+00:00",
@@ -3679,6 +3734,11 @@
     "source": "Hacker News Front Page",
     "title": "APC–2 – A professional record cutter for producing original playback discs"
   },
+  "6fb38d4157315539": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "少数派",
+    "title": "派早报：锂电池消费税分阶段恢复征收"
+  },
   "6fc63a1ee539a93e": {
     "first_seen": "2026-05-17T02:43:02.034387+00:00",
     "source": "36氪 - 最新文章",
@@ -4084,6 +4144,11 @@
     "source": "BBC 中文 - 头条",
     "title": "倫敦香港經貿辦案判刑：衛志樑監禁十年、袁松彪八年"
   },
+  "7a5ada317dd6ddd7": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s"
+  },
   "7ab1719b20ee51e4": {
     "first_seen": "2026-06-28T03:23:49.445148+00:00",
     "source": "Hacker News Front Page",
@@ -4148,6 +4213,11 @@
     "first_seen": "2026-06-26T02:54:35.056377+00:00",
     "source": "The Verge",
     "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun"
+  },
+  "7c6c09b12c3282b6": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存"
   },
   "7c8ca38ab2ac99bc": {
     "first_seen": "2026-05-25T02:59:08.846781+00:00",
@@ -4714,6 +4784,11 @@
     "source": "The Guardian - World",
     "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art"
   },
+  "8c14075b7fd0baa3": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！"
+  },
   "8c3acf43834d43ba": {
     "first_seen": "2026-07-16T02:09:46.773599+00:00",
     "source": "Hacker News Front Page",
@@ -4759,6 +4834,11 @@
     "source": "BBC 中文 - 头条",
     "title": "美國與伊朗正式簽署協議　包含哪些內容？"
   },
+  "8d304728ca8f16db": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "Hacker News Front Page",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
+  },
   "8d30a52e4e1520a3": {
     "first_seen": "2026-06-17T03:38:43.036540+00:00",
     "source": "Hacker News Front Page",
@@ -4788,6 +4868,11 @@
     "first_seen": "2026-05-30T02:42:35.454120+00:00",
     "source": "36氪 - 最新文章",
     "title": "连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线"
+  },
+  "8e7ff08d008c12c1": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "Hacker News Front Page",
+    "title": "Minecraft: Java Edition now uses SDL3"
   },
   "8e8bf5627a06fda8": {
     "first_seen": "2026-07-07T02:41:14.178798+00:00",
@@ -5324,6 +5409,11 @@
     "source": "BBC World News",
     "title": "Seven Britons among those killed in Spain wildfires"
   },
+  "9de240d548475ac5": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "The Verge",
+    "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)"
+  },
   "9e00bc291b6eb324": {
     "first_seen": "2026-07-10T02:35:21.521392+00:00",
     "source": "BBC World News",
@@ -5724,6 +5814,11 @@
     "source": "36氪 - 最新文章",
     "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月"
   },
+  "aa0f548c30d26d82": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "少数派",
+    "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验"
+  },
   "aa212b2a6a295be6": {
     "first_seen": "2026-06-06T02:45:16.695266+00:00",
     "source": "The Verge",
@@ -5778,6 +5873,11 @@
     "first_seen": "2026-06-13T02:56:58.864115+00:00",
     "source": "少数派",
     "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点"
+  },
+  "abb5eb3653d73a21": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "BBC World News",
+    "title": "US soldier killed and one injured after Iranian attack in Iraq"
   },
   "abf0f0d3c66b3596": {
     "first_seen": "2026-05-20T02:50:28.509962+00:00",
@@ -6029,6 +6129,11 @@
     "source": "The Verge",
     "title": "PlayStation exclusives aren&#8217;t coming to PC anymore"
   },
+  "b50bb99971b68c82": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "BBC 中文 - 头条",
+    "title": "俄羅斯人改用現金，蘇聯時代把錢「藏在床墊下」本能回歸"
+  },
   "b52dd21626f15721": {
     "first_seen": "2026-06-05T02:58:23.173124+00:00",
     "source": "The Guardian - World",
@@ -6094,6 +6199,11 @@
     "source": "少数派",
     "title": "打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试"
   },
+  "b81a7f773aa25518": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发"
+  },
   "b82aa7875128b661": {
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "36氪 - 最新文章",
@@ -6108,6 +6218,11 @@
     "first_seen": "2026-07-11T02:11:15.185907+00:00",
     "source": "BBC 中文 - 头条",
     "title": "廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？"
+  },
+  "b922de401f1b1fbb": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "36氪 - 最新文章",
+    "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展"
   },
   "b95ba36a9783b032": {
     "first_seen": "2026-06-04T03:36:15.119539+00:00",
@@ -6578,6 +6693,11 @@
     "first_seen": "2026-05-19T02:50:14.467125+00:00",
     "source": "Hacker News Front Page",
     "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp"
+  },
+  "c8c3ec20e26996aa": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "The Verge",
+    "title": "I hate that I don’t hate this song made with Suno"
   },
   "c8c6a7c871c9b33e": {
     "first_seen": "2026-07-02T02:50:25.282098+00:00",
@@ -7073,6 +7193,11 @@
     "first_seen": "2026-07-07T02:41:14.178798+00:00",
     "source": "The Verge",
     "title": "Former Xbox studios Double Fine and Compulsion will keep games after going indie"
+  },
+  "da4536d9b74f625e": {
+    "first_seen": "2026-07-20T03:23:41.591168+00:00",
+    "source": "BBC World News",
+    "title": "Norway opens new memorial for victims of 2011 massacre"
   },
   "dab1998133e26cde": {
     "first_seen": "2026-07-14T02:02:53.633461+00:00",
