@@ -1,7 +1,297 @@
 {
-  "updated_at": "2026-07-27T02:31:06.683128+00:00",
-  "count": 202,
+  "updated_at": "2026-07-28T02:06:07.952202+00:00",
+  "count": 206,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Uganda begins emergency food handouts after 19 die from hunger",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "summary": "<p>Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutrition</p><p>Uganda has launched <a href=\"https://x.com/OPMUganda/status/2079977034479026390\">emergency food relief distribution</a> after <a href=\"https://nilepost.co.ug/news/357339/photos-karamoja-hunger-death-toll-rises-to-19\">at least 19 deaths</a> from hunger were reported in an area of prolonged drought in the east of the country.</p><p>A crisis has been building in the Karamoja region of Uganda as crops have failed without the season’s expected rains, leaving the region’s 1.5 million people facing acute food shortages and rising malnutrition.</p> <a href=\"https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-07-27T07:00:34+00:00",
+      "fetched_at": "2026-07-28T02:06:07.947689+00:00",
+      "fingerprint": "c5a16f87020ab303"
+    },
+    {
+      "source": "BBC World News",
+      "title": "China's new challenge as natural disasters strike - fake AI videos",
+      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
+      "category": "politics",
+      "published_at": "2026-07-27T22:07:23+00:00",
+      "fetched_at": "2026-07-28T02:06:07.780514+00:00",
+      "fingerprint": "6b181e22964c3ab1"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
+      "category": "politics",
+      "published_at": "2026-07-27T16:33:05+00:00",
+      "fetched_at": "2026-07-28T02:06:07.780509+00:00",
+      "fingerprint": "248b2874f51a85ec"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "category": "politics",
+      "published_at": "2026-07-27T21:10:56+00:00",
+      "fetched_at": "2026-07-28T02:06:07.780505+00:00",
+      "fingerprint": "3565288fe08621fd"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+      "category": "politics",
+      "published_at": "2026-07-27T20:34:55+00:00",
+      "fetched_at": "2026-07-28T02:06:07.780496+00:00",
+      "fingerprint": "d96ed8356c3d87dc"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「這不只是帶來不便」：我們低估了月經過多對健康造成的影響",
+      "url": "https://www.bbc.com/zhongwen/articles/c1l1m1v953no/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "月經量過多是個嚴重的健康問題。直到最近，我們才開始了解它的成因，以及可以如何治療。",
+      "category": "politics",
+      "published_at": "2026-07-28T00:16:03+00:00",
+      "fetched_at": "2026-07-28T02:06:07.673825+00:00",
+      "fingerprint": "ee14040da91ed211"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "所羅門群島中資金礦坍塌傳多人死亡　突顯「淘金熱」隱憂",
+      "url": "https://www.bbc.com/zhongwen/articles/cn0n57kynz2o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "中資控股金嶺金礦凌晨坍塌，法新社傳至少10人死亡；非法礦工淘金熱再釀悲劇，凸顯所羅門資源治理困境。",
+      "category": "politics",
+      "published_at": "2026-07-27T12:02:43+00:00",
+      "fetched_at": "2026-07-28T02:06:07.673820+00:00",
+      "fingerprint": "2c38baa58d43e03a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
+      "url": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "英國阻止因中國《香港國安法》案件被判囚的前議員胡志偉入境後改變主意；他對BBC中文否認曾提出政治庇護申請。",
+      "category": "politics",
+      "published_at": "2026-07-28T02:01:09+00:00",
+      "fetched_at": "2026-07-28T02:06:07.673815+00:00",
+      "fingerprint": "a6106cd5688b3bd8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
+      "url": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "中國一名6歲女童接受實驗性基因編輯治療後一周內死亡，事件一直未有公開，直至國際學術期刊《科學》與學術誠信監督平台「撤稿觀察」展開調查才曝光，引發中國官方調查及科學界廣泛關注。",
+      "category": "politics",
+      "published_at": "2026-07-27T09:19:49+00:00",
+      "fetched_at": "2026-07-28T02:06:07.673809+00:00",
+      "fingerprint": "55dbd7e21579a05e"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「這只是開始」：印度Z世代抗議者迫使教育部長下台，然後呢？",
+      "url": "https://www.bbc.com/zhongwen/articles/c0ejq8n30qxo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "教育部長辭職對莫迪政府而言是罕見的挫折，也讓許多年輕抗議者燃起希望，相信他們的聲音將被聽見。",
+      "category": "politics",
+      "published_at": "2026-07-28T00:15:40+00:00",
+      "fetched_at": "2026-07-28T02:06:07.673799+00:00",
+      "fingerprint": "1c517ea85fca2fcc"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:06:07.237894+00:00",
+      "fingerprint": "99ec6698e80bdc96"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:06:07.237790+00:00",
+      "fingerprint": "77657b4ef20aa028"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:06:07.237661+00:00",
+      "fingerprint": "52ea1f5604f3f016"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:06:07.237542+00:00",
+      "fingerprint": "6a454934fcba31af"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:06:07.237396+00:00",
+      "fingerprint": "688b06fb84f51f17"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
+      "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+      "summary": "Nanoleaf&#8217;s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half off at $99.99 from Nanoleaf, which marks a new low [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-07-27T19:24:55+00:00",
+      "fetched_at": "2026-07-28T02:06:07.116389+00:00",
+      "fingerprint": "6a3debe546aaca3c"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox’s huge outage even blocked games on disc",
+      "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+      "summary": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about 11PM ET, and it also prevented people from logging in, launching apps, or finding games [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-07-27T19:53:50+00:00",
+      "fetched_at": "2026-07-28T02:06:07.116385+00:00",
+      "fingerprint": "6f2bbff44af6a814"
+    },
+    {
+      "source": "The Verge",
+      "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
+      "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+      "summary": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing adjustable optical switches that are more customizable and have a faster response time. Razer’s Huntsman V3 Pro TKL is a compact, wired [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-07-27T21:29:22+00:00",
+      "fetched_at": "2026-07-28T02:06:07.116380+00:00",
+      "fingerprint": "3315418239627acc"
+    },
+    {
+      "source": "The Verge",
+      "title": "X Money is launching in the US starting today",
+      "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+      "summary": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X username. Other perks include Apple Wallet support [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-07-27T22:10:18+00:00",
+      "fetched_at": "2026-07-28T02:06:07.116370+00:00",
+      "fingerprint": "c4d3cd8a8895a7fd"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
+      "url": "https://36kr.com/p/3912369056240772?f=rss",
+      "summary": "<p>文 | 张卓倩</p>\n  <p>编辑 | 袁斯来</p>\n  <p>低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260726/v2_8d96bf1237474d739b80a982e540b79d@5721530_oswg3876062oswg2796oswg1558_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">飞行重卡 AT8000&nbsp;</p>\n  <p><strong>全球重载无人货运标杆，8 吨级 “空中重卡” 定义行业新高度</strong></p>\n  <p>飞行重卡 AT8000 是牧羽天航空深耕重载货运 eVTOL 领域的全新力作，最大起飞重量达 8000 公斤（8 吨），远超同类在研机型，是目前全球公认的重载货运 eVTOL 天花板。</p>\n  <p>核心性能：最大有效载重 3500 公斤（增程），巡航速度 252 公里 / 小时，满载航程 1000 公里（增程），可覆盖市县、山村、海岛等全场景低空物流网络。</p>\n  <p>创新构型：采用18 升力旋翼（4 个倾转）+2 推进旋翼的半倾转混动架构，垂直起降更稳定、巡航效率更高，兼顾高可靠性与长续航能力。</p>\n  <p>全栈自研：从概念设计、气动布局、结构强度到航空动力电机、全机航电系统，实现自主可控，具备全复合材料整机研发制造能力，核心技术完全自主知识产权。</p>\n  <p><strong>开启低空物流新时代，赋能多场景商业化应用</strong></p>\n  <p>区别于传统低空物流装备，AT8000 聚焦 “重载、远距、高效” 核心需求，可广泛应用于高时效物流配送、生鲜冷链运输、应急物资投送、海上补给、偏远地区物资保障等低空货运场景，真正实现 “门到门” 点对点直达运输。</p>\n  <p>相比传统陆运，飞行重卡AT8000 聚焦在急、难、险、贵的货运场景，不受地面交通限制、大大提升货运时效性，可有效解决生鲜，冷链和偏远地区、海岛、山区等地物流难题，为现代物流体系建设提供全新解决方案。</p>\n  <p><strong>里程碑节点密集推进，商业化运营进入倒计时</strong></p>\n  <p>自研发启动以来，牧羽天航空飞行重卡AT8000 已完成缩比机的验证飞行，充分验证飞机的系统可靠性。此次整机机身下线后，牧羽天航空将快速推进后续总装、系统集成、地面测试及首飞工作，同步加速适航认证进程，力争早日投入商业运营，抢占全球重载低空物流市场先机。</p>\n  <p>&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-07-27T08:23:39+00:00",
+      "fetched_at": "2026-07-28T02:06:06.958016+00:00",
+      "fingerprint": "ed5d6a9f1c9fefd2"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+      "url": "https://36kr.com/p/3913706151400583?f=rss",
+      "summary": "<p>今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。</p>\n  <p>过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。</p>\n  <p>估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年颇被资本市场追着看的指标。</p>\n  <p>足以证明，用户规模虽仍旧重要，但不再是 AI 应用估值的唯一硬通货，新的叙事主线，重新回到了产品形态长期可持续的商业化。</p>\n  <p>资本评估 AI 的 benchmark 变了：过去两年盛行的是算力补贴换规模，但账面 DAU 只撑得起估值，撑不起毛利。资本市场发现，互联网时代的圈地打法在 AI 这里行不通，算力成本和留存曲线接连“显出原形”，曾经被寄予厚望的爆款产品也开始一批批退场。</p>\n  <p>行业拐点由此到来，资本不再为规模本身买单，转向了商业化质量验证。</p>\n  <p>新逻辑之下，拥有稳健商业模型的公司，反而有了更多作为“良币”留下来的机会，拿到更好的估值。比如，最近完成了超亿元 B 轮融资的海艺，就是一家被资本看好的稳健型企业：来自成都，面向全球，以“为 C 端而生”作为商业哲学，过去几年持续做出了爆款 AI 应用，财务数据也已经比较漂亮。</p>\n  <p>潮水退去之后，更值得追问的是：什么样的 AI 应用，能“站着赚钱”？</p>\n  <h2><strong>商业化质量验证，拐点已至</strong></h2>\n  <p>AI 应用层过去两年的主流叙事，是资本联手企业一起和硅谷比烧钱，所以规模优先、算力补贴，先把对手清退，毛利问题“留给以后”。这样的打法在资本宽松期跑得通，但在2025 年下半年已经开始显出疲态。</p>\n  <p>算力成本居高不下、获客成本越摊越高、留存数据普遍不好看，VC 烧不起了，估值逻辑自然也随之切换到了商业化验证。</p>\n  <p>然而，主流大模型和 AI 应用的商业化动作，过去几年其实从未停过，解法也各不相同。</p>\n  <p>订阅制稳定卖算力是很常见的路径，ChatGPT Plus、Claude Pro、Kimi都在走这条路，API 计费面向个人用户和开发者。广告变现的路径被一些高频轻量的应用采纳，AI 创作工具的 Credit 点数体系则是 Midjourney 这类平台的主流模式。每条路径都有人在试，也都跑出过阶段性数字。</p>\n  <p>商业化的热闹持续了两年，一直有人在赚钱，但一直在赚钱的人却很少。</p>\n  <p>一个令人唏嘘的例子是Character.Al，这家公司是全球 AI 角色互动赛道的标杆。Business of Apps数据显示，其2024年8月峰值月活达到了 2800 万，但接下来的几个月不增反降，到 2025 年 1 月已经流失了约 800 万月活。也是在2024年，Google 协议收编两位创始人，拿下其大模型的非独家许可权后，公司也停止了自研模型。</p>\n  <p>Inflection AI 的轨迹也类似，融了 13 亿美元，估值一度 40 亿美元，旗下产品 Pi 后来限流，创始人出走微软，转向企业服务。</p>\n  <p>两家明星公司的共同点，是都曾拥有过令人羡慕的用户规模和融资数字，但都没能跨过算力成本和留存曲线的检验。</p>\n  <p>因此，商业化大家都在做，但 2026 年行业也基本达成了共识：AI 的发展不能仅以商业化论成败，月活和付费数字远不是终点。在高昂的算力面前，高质量的商业化其实是一件很难的事。</p>\n  <p>那么对于 AI 来说，什么才算高质量的商业化？</p>\n  <p>这个问题，过去两年没人认真回答过，因为所有人都忙着抢规模，但现在已经到了必须回答的节点。答案其实也不复杂：用户愿不愿意为真实价值持续付费，能不能形成正毛利与高留存的组合。</p>\n  <p>毛利率，回答的是“这门生意能不能覆盖算力和获客成本”，留存和续费率回答的则是“用户体验过付费产品以后，还会不会留下来”。前者决定了商业模型是否成立，后者决定产品的价值是否真实有效。</p>\n  <p>这两个数字比 DAU 和付费用户人数，更能说明一家 AI 应用公司是否具有长期自成长性、以及抗风险的能力。</p>\n  <p>海艺给出的公开数据是：整体毛利率超过 40%，ARPPU（每付费用户平均收益）约 60 美元，核心产品续费率已超过60%。全球 AI ToC 应用市场，大多数企业目前仍然困在亏损换规模的循环里，能在毛利和留存两个维度同时跑到这个量级的公司，在应用层属于极少数。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260727/v2_a6f6acae072d4e4db0b2bbec874b74b8@5510391_oswg2921886oswg2097oswg1180_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>海艺不是一家新公司，做的也不是新赛道。2023 年起步于成都，组织上全球化原生，以多模态AI创作社区起家，产品形态并不陌生：生成图片、训练 LoRA、做视频、聊角色。</p>\n  <p>但就是这样一个看起来”平凡而熟悉“的生意，财务结构在这轮商业化质量的拐点里，显得格外亮眼。</p>\n  <h2><strong>三条曲线，一个逻辑</strong></h2>\n  <p>高续费率、高 ARPPU 是前提，正毛利是答案，财务数据背后资本真正关心的问题是：海艺是怎么做到的，能不能长期保持下去。</p>\n  <p>高质量的商业化，本质是对的产品加上对的商业逻辑。因此，分析一家应用层公司，还是要回归去看他们做出了哪些产品，产品之间存在哪些逻辑闭环。</p>\n  <p>海艺的产品矩阵目前包含三条曲线。第一条是起家的 AI 多模态创作社区 SeaArt，用 36 个月的时间沉淀出了 200 万个 AI 原生创作资产，涵盖模型、LoRA、工作流和模板。</p>\n  <p>第二条是 AI 短剧平台 MoreShort，上线 6 个月之后月流水就突破了百万美元。</p>\n  <p>第三条是 AI 角色互动产品 SeaSoul，4 个月做到了日活 50 万，人均单日在线时长超过 66 分钟。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260727/v2_61fab152dd964eb08979ad0060c72160@5510391_oswg180975oswg1242oswg2208_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>可以看出，三条曲线形态完全不同，分别是创作社区、短剧消费、角色互动，但共同点也很明显：都是在全球竞争激烈、从巨头到创业公司疯狂布局圈地的生意中，以极快的运营速度交出了AI资产和营收的答案。</p>\n  <p>站在这种“战场级”赛道上，一家公司能连续完成应用层的快速启动，在数据上接连跑通全球化运营，做出爆款，有两个不可或缺的结构。</p>\n  <p>更容易看到的一层是能力互锁。海艺把自身的产品体系拆成了五项能力：多模态生成、智能体互动、内容分发推荐、投流增长、商业化变现。</p>\n  <p>海艺先在创作社区里跑通了从内容生成、用户留存到付费变现的商业逻辑，再把关键环节抽象成了可复用的能力模块，搬到不同的产品形态中。</p>\n  <p>反过来，三条产品线也在持续深化这套能力体系，创作社区场景积累角色资产和生成模型，MoreShort 在短剧消费场景中训练分发效率和变现路径，SeaSoul 在角色互动场景中打磨智能体的对话与留存。</p>\n  <p>正向循环之下，新产品的验证周期也被大幅压缩，SeaArt 用了 36 个月，MoreShort 压缩到 6 个月，SeaSoul 只用了 4 个月。同一套能力结构带来的爆款效应，在不同形态的产品上得到了复现。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260727/v2_af98f7e9aa9e45149d4d9bc0b5043f73@5510391_oswg1770850oswg2050oswg1289_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>大多数 AI 应用验证不了高质量的商业化模型，也正是因为能力结构不完整。比如模型生成做得好，但不擅长做分发和投流，或者增长做得猛，但预判不到哪些内容增长直接能对应商业化变现。最好的情况是，单点应用的商业逻辑跑通了，但无法快速复制到下一个产品，错过了窗口期。</p>\n  <p>再往里去看，战略逻辑体现为一条完整的用户路径：角色是入口、故事是消费、互动是关系。</p>\n  <p>用户先通过角色进入产品，在故事消费中产生内容付费，在互动关系中沉淀留存。因此，三条产品线看似是不同场景下的需求展开，背后的用户行为模型其实只有一个。</p>\n  <p>AI 应用和互联网时代的圈地打法，底层逻辑其实很不一样：互联网的逻辑是先圈用户再变现，规模本身即壁垒，因为边际成本趋近于零。而AI 应用的算力成本是持续发生的，每一次生成都要付费给算力，规模越大成本越高。</p>\n  <p>这也就是为什么，AI 应用层的算力成本和获客成本很容易被卡在一家公司刚刚成为资本明星的阶段。常见现象是付费用户越多、算力成本越高，规模化之后反而负载不起，用户体验持续下滑，最后留不住人。</p>\n  <p>算力补贴换规模的理想看似美好，但其实经不起长期商业化质量的检验。能真正跑通的，是能把能力结构化、把单位经济模型算清楚的那一类公司。</p>\n  <h2><strong>生态的飞轮，怎么转起来</strong></h2>\n  <p>钱往哪里流、钱来自于哪里，是判断一家公司走向最直接的方式。</p>\n  <p>刚刚完成了B轮融资的海艺，本轮由视觉中国、华盖创赢、祥峰投资联合领投，广发信德、天投资本、川创投、广州合伟永晟等机构共同投资。历史股东名单里，还有阿里、腾讯、招银国际、钟鼎资本、Actoz、上海人工智能产业系列基金、和溋资本等知名产业基金和机构。</p>\n  <p>把名单拆开看，三类投资人的诉求各不相同，对应的却是 AI 应用需要同时满足的几个标准。</p>\n  <p>投资机构要的是增长曲线、生态差异化和商业化持续验证的能力，投的是能穿越周期的财务回报。</p>\n  <p>产业方更在意上下游生态协同，比如视觉中国作为 A 股上市的全球视觉内容版权服务平台，要的是 AI 时代的内容供给和 B 端商业化场景。地方政府基金更多考虑的则是产业落地和全球化 AI 应用标杆。</p>\n  <p>“资本+产业+政府”的组合在同一轮融资名单里出现，证明海艺也同时拿得出这三样东西：商业化质量的硬数据、产业生态协同的延展性、区域产业的带动能力。</p>\n  <p>全球化用户规模和内容资产，作为海艺的“家底”，恰好能回应这几个要求：累计注册 6500 万，月访问量超过 3000 万，海外用户占比超 90%，覆盖日本、美国、巴西、俄罗斯等核心市场；用户单日生成内容超过 1000 万张图片与 50 万条视频，这是所有商业化故事的底座。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260727/v2_7a12c7762f8d46b4abab9e6c5683bdd0@5510391_oswg2385511oswg2097oswg1196_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>海艺的内容资产涵盖模型、LoRA、工作流、模板和 Agent，是全球规模尤为可观的AI创作资产库之一，创作者的内容持续丰富平台生态，平台增长与商业化能力的提升又能为创作者带来更多分发和变现机会。</p>\n  <p>除了核心的ToC生态之外，海艺也在把模型服务、AI 资产管理、Agent 能力以及全球化投放的基础设施向 B 端、P 端和 OPC （一人公司）团队开放，在自有生态之外连接了更多的外部共创者。</p>\n  <p>创作者可以在统一的基础设施上，跑完从角色设定、视觉生成、剧情生产到商业化分发的完整链路，独立创作者和小团队也能做过去只有强IP、大公司才做得起的事。</p>\n  <p>在视觉中国的内容产业支持下，海艺将会在广告、营销、出版、影视这些向外延展的场景中，更快完成数字内容的合规和渠道开拓，这也是AI 产品全球化的硬门槛。</p>\n  <p>扎根于成都本土的产业链，是这家全球化公司的另一个生态落点。海艺联合四川天府新区打造了“天府 T·OPC 星海创业营”，为 AIGC 创作者提供算力、工具和政策支持，培育一人公司生态，帮助轻量化团队完成 AI 原生内容的生产与商业化。</p>\n  <p>AI 内容消费的终局长什么样，现在没人能给出明确的答案。可能是某种尚未被定义的产品形态，也可能是以一种我们从未想象过的方式和主流终端，重新组织创作、消费和社交的关系。</p>\n  <p>而处在风口之上的海艺，回答的是一个更宏观、更长期的问题：一家 AI 应用公司在2026年，可不可以不烧钱，可不可以做到正毛利，让用户为真实价值持续付费？</p>\n  <p>答案已经得到验证。</p>\n  <p>剩下的事情，是把这个爆款制造系统和生态协同的边界继续往外推，一边造血，一边让资本市场、产业方、政府基金、全球创作者生态实现合力。</p>",
+      "category": "tech",
+      "published_at": "2026-07-27T09:48:07+00:00",
+      "fetched_at": "2026-07-28T02:06:06.958012+00:00",
+      "fingerprint": "025671f226344ea0"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
+      "url": "https://36kr.com/p/3913736066028932?f=rss",
+      "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>航空新能源动力系统，正在酝酿新的变革。</p>\n  <p>36氪获悉，航空新能源动力系统解决方案供应商<strong>「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。</strong>本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。</p>\n  <p>过去十年，氢燃料电池研发与产业化应用主要集中在汽车领域，已形成相对清晰的降本路线和成熟标准，但在航空领域，国内氢能应用的发展并不同步。</p>\n  <p>氢能航空并非新的概念，事实上，欧洲早在21世纪初就开始论证航空新能源动力系统不同路线方向的优缺点和路径可行性。氢燃料电池的核心优势在于，能量密度高、环境适应性更强。相对于动力电池，其航程可提高3倍以上，并且补能快、低温性能好，<strong>更适合eVTOL“空中出租车”高频周转的商业模式。</strong></p>\n  <p>对比传统航空煤油和SAF，从长期来看，其燃料成本更低，在兼顾性能达标与经济可行性方面具备优势。</p>\n  <p>但受限于上游技术迭代、产业配套和应用成本问题，在较长一段时间里，氢能航空这一技术路径在国内处于共识未到、需求初显的状态。</p>\n  <p>随着近些年绿电、绿氢得到很好的推广及应用，易氢动力创始人张科勋的判断是，<strong>“氢能作为燃料的使用成本，在中国会很快的低于航空煤油。氢能最终会凭借成本优势在航空业成为首选的技术路线。”</strong></p>\n  <p>作为欧阳明高院士孵化的氢能产业链创业项目，易氢动力团队核心班底均来自清华大学，创始人兼CEO张科勋为清华大学汽车系博士，自2002年就开始深耕新能源动力系统研发及产业化工作。</p>\n  <p>依托清华大学在燃料电池领域超过20年的技术积累与产业资源，早在2018年，项目组就开始对氢能在航空领域的应用做详细的技术论证，并于2020年联合西工大启动第一个课题研究，做国内第一个航空专用的30kW液冷燃料电池。</p>\n  <p>“最初的起步其实很艰难，因为（第一款液冷产品）所有零部件、原材料都要按照航空级标准重新定制开发，研发周期长、技术难度高，投入也比较大，用了大概三四年的时间，这也是易氢动力成立的背景。”</p>\n  <p>张科勋提到，过去氢能航空的先进性在国内并没有被广泛认可，但好在，新的共识正在加速形成。</p>\n  <p>随着低空经济和商业航天风口的接踵而至，燃料电池在大功率、长续航、高适应性等性能上的优势开始被更多人关注到 ， 目前 国内多家头部航空 主机厂也在加速推进氢能动力系统的研发及验证。而在此之前，易氢动力已经默默耕耘了数年。</p>\n  <h2><strong>先啃“硬骨头”</strong></h2>\n  <p>啃下第一款30kW液冷燃料电池这块“硬骨头”，让易氢动力在创业初期便建立了一套区别于车用燃料电池系统的工程认知。而航空级和车规级的区别，是理解这家公司技术版图的关键。</p>\n  <p>在张科勋看来，<strong>航空级动力系统的能力要求主要体现在三个维度：</strong>极高的环境适应性（比如万米高空、低温低压等环境）、极致的可靠性（比如上万小时的寿命、高安全性的适航认证要求）以及对功率密度的苛刻要求。</p>\n  <p>易氢动力的技术布局，有一条从能力溢出到场景收敛的清晰脉络。</p>\n  <p>目前，其产品体系围绕液冷与空冷两条路线展开，二者在定位、功率、环境适应性上形成鲜明互补。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260727/v2_eaa8404294e94ac8a37c12fc7435ed34@577536001_oswg45834oswg1080oswg483_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">30kW液冷燃料电池动力系统</p>\n  <p><strong>液冷燃料电池是易氢动力长期押注的技术主线。</strong>它的特点是功率大（百千瓦级）、环境适应性强，可支撑万米高空、极寒等严苛工况，寿命目标上万小时。从2020年开始研发起步的30kW液冷燃料电池，易氢动力如今已迭代至90-110kW，未来规划拓展到三百千瓦级产品。</p>\n  <p>张科勋提到，目前液冷路线已基本完成核心技术攻关，处于从1到10的产品化阶段，接下来的核心任务是配合主机厂做适航导向的工程开发。</p>\n  <p>在液冷的技术主线之外，空冷燃料电池则是易氢动力在2024年基于低空经济窗口期做出的战略延伸。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260727/v2_c5c92b9f9873439e80141000b2493dd8@577536001_oswg35077oswg1080oswg506_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">空冷燃料电池动力系统</p>\n  <p>空冷燃料电池的特点是功率较小（通常在10kW以下）、技术难度相对较低，但开发迭代快、落地周期短，更适合以无人机为主的低空经济领域场景应用。</p>\n  <p>用了不到一年时间，易氢动力的空冷产品就完成了三轮迭代，已进入场景应用拓展阶段。</p>\n  <p>这两条路线的战略分工也相对明确：<strong>液冷锚定长期技术壁垒和利润空间，空冷承担短期现金流和技术迭代试验平台的双重角色。</strong></p>\n  <p>用更短期的商业回报，反哺液冷这条更长周期的技术主线，博长期定价权。</p>\n  <h2><strong>闯入主流</strong></h2>\n  <p>在液冷方向，一个重要的进展是，易氢动力目前已成为中国商飞在氢能动力系统方向的合作供应商。此外，易氢动力也与多家eVTOL整机厂建立合作，共同推进其氢能机型的研制。</p>\n  <p>当然，一款航空级产品从验证到批产，周期极为漫长。适航标准的探索、整机验证的复杂性，都决定了液冷燃料电池在短期内很难贡献规模化营收。</p>\n  <p><strong>空冷方向则承担了业务快速放量的期待。</strong></p>\n  <p>从落地节奏来看，2025年下半年，易氢动力已完成空冷产品解决方案的开发及验证，接下来将重点在低空经济领域进行推广，解决过去锂电池“够不到”的长航时场景。</p>\n  <p>“动力电池把能用的场景都探索完了，剩下的长续航、高寒这些电池满足不了的场景，就是氢能的机会。”张科勋提到，在无人机巡检、低空物流等细分领域，氢能方案能提供3-4倍于锂电池的续航，覆盖半径从几公里拓展到上百公里，而目前易氢动力整套空冷系统解决方案的价格与纯电方案基本能实现持平。</p>\n  <p>一组数据是，2025年和2026年，<strong>成飞用易氢动力系统开发的高空无人机在使用气氢作为燃料的情况下，分别实现了连续飞行30小时和24小时的记录。</strong></p>\n  <p>无人机巡检场景是易氢动力今年的重点推广领域，其整套空冷解决方案在上半年已实现数百万收入，2026年的目标是在巡检场景做到数千万级营收。</p>\n  <p>低空物流则是其下一个重点推广方向，针对该场景应用的空冷产品解决方案目前处于开发阶段，将于下半年启动验证推广。</p>\n  <p>从节奏上看，空冷今年的任务是快速放量，而液冷的规模化营收，张科勋预计至少要到明后年才会逐步显现。</p>\n  <p>在国内，尽管当下氢能航空的适航仍处于刚起步的阶段，节奏上慢于欧美，但张科勋对中国在氢能航空领域的后发优势相对笃定。</p>\n  <p>在产业端，一个关键性的信号是绿氢的成本优势，<strong>随着国内绿氢成本的快速下降，氢能动力系统在燃料端的价格优势将进一步凸显。</strong>“一旦技术成熟，我们市场迭代的速度会比国外快得多，就像电动车一样，很可能弯道超车。”张科勋说。</p>\n  <p>在这个新旧动能转换的十字路口，易氢动力作为一家创业公司，给出的解法也并不复杂。在长周期里，用“液冷”锚定住技术稀缺性的价值；在短周期里，用“空冷”回答如何“先活下来”的现实问题，抓住氢能航空动力系统产业化的窗口期，构建长期竞争壁垒。</p>",
+      "category": "tech",
+      "published_at": "2026-07-27T10:19:29+00:00",
+      "fetched_at": "2026-07-28T02:06:06.958007+00:00",
+      "fingerprint": "0512006c9b427ef5"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+      "url": "https://36kr.com/p/3913320648971395?f=rss",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3913742527714433\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家</strong></a></p>\n  <p>汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨��开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913798998201732\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一</strong></a></p>\n  <p>36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913549997692288\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>美团AI“小团”全面升级</strong></a></p>\n  <p>36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城市，累计完成超过7亿次商家信息校验，收录用户评价超过13亿条。今年五一假期期间，“小团”相关服务累计曝光超过39亿次。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913527712109955\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>韩国交易巨头与LG CNS合作，在代币化测试中将应收账款上链</strong></a></p>\n  <p>韩国最大的贸易公司 POSCO International 已开始在区块链上对贸易应收账款进行代币化试点，该试验有望加快其全球子公司之间的商业支付速度。该公司去年通过涵盖钢铁、能源及电池材料的业务实现了222亿美元的收入。该公司表示，正与LG集团的技术部门LG CNS合作，在Layer-1区块链Injective（INJ）上发行、转让及结算应收款项，两家公司在一次新闻简报会上向CoinDesk透露。此次试点使用的是由浦项制铁海外业务及其交易对手之间的真实贸易产生的应收账款，而非模拟交易。（新浪财经）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913491656693120\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>企业微信智能助理“大圆”开启内测</strong></a></p>\n  <p>36氪获悉，据微信派消息，企业微信智能助理“大圆”现已开启内测，支持调用企业微信智能文档、智能表格、会议、日程等几十项能力。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913371415106949\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>美国大型企业告别裁员潮重启招聘</strong></a></p>\n  <p>美国各大巨头企业坦言：到头来或许还是需要扩招人手。过去数月，大型用人单位始终将招聘视作成本高昂的最后备选方案。如今各行各业用工策略集体出现转向。近几日，铁路巨头CSX、谷歌母公司Alphabet等多家企业均向投资者透露，计划通过招聘达成增长目标、抢抓新兴技术发展机遇。这场至少小幅扩充人员编制的扩招动作，彻底扭转了人工智能时代大部分时间里企业的主流论调。此前受经济前景不确定性影响，加之企业普遍认为人工智能可承接大量岗位工作，头部企业基本冻结了人员新增。（新浪财经）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913680378893703\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全</strong></a></p>\n  <p>7月27日，英伟达、微软、Adobe、SpacexAI、IBM、SAP、戴尔、思科等企业宣布成立开放安全人工智能联盟，旨在构建和共享开放工具，以促进AI的负责任使用。该联盟成员还包括Cadence、Capital One、Cloudera、Cloudflare、Cognition、CrowdStrike、Databricks、DoorDash、Elastic、慧与、Hugging Face、LangChain、Linux基金会、NAVER、NetApp、Nous Research、OpenClaw、Palantir、Palo Alto Networks、Red Hat、Reflection AI、Salesforce、SK电讯、ServiceNow、西门子、Snowflake、Synopsys、Thinking Machines Lab和TrendAI。（界面）</p>\n  <h2>投融资：</h2>\n  <p><a href=\"https://36kr.com/newsflashes/3913502872589700\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>物理AI公司“正奇未来”8个月完成3轮数亿元天使融资</strong></a></p>\n  <p>近日，物理AI公司正奇未来宣布，8个月完成3轮数亿元天使系列融资，核心资方为鼎晖VGC投资、线性资本、上汽集团恒旭资本、柏睿资本、正轩投资、周大福投资等。公司定位“技术+产品”双驱动，聚焦Door-to-Door移动任务，其核心品牌QUORRA专注于打造短途出行机器人。目前，品牌首款产品已量产，并在全球十多个国家和地区拿到商业订单，计划年内于海外开展DTC业务，并同步完成天猫、京东旗舰店的开设以及国内多个省市线下门店网点的铺设。</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3913573466313862\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>《光伏行业成本核算模型通则》发布，引导行业有序竞争</strong></a></p>\n  <p>今天（27日），《光伏行业成本核算模型通则》正式发布，这将以统一标尺引导行业有序竞争。据了解，这一核算模型通过统一“硅料—硅片—电池—组件”全产业链的成本计算范围、计算系数和计算模型，形成贯通产业链的成本核算框架，可破除行业内成本核算口径不一、各自表述的乱象。这是光伏行业管理从自律倡议走向制度化、标准化的重要一步。（央视新闻）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913508035532160\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>57个国家和3个国际组织确认参加今年进博会国家展</strong></a></p>\n  <p>中国国际进口博览局党委书记、副局长吴政平在27日举行的第九届进博会新闻通气会上介绍，第九届进博会已有57个国家和3个国际组织确认参加国家展，摩尔多瓦、罗马尼亚和联合国开发计划署将首次参展。（央视新闻）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913802652161409\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>工信部：加快编制出台智能网联新能源汽车产业发展“十五五”规划</strong></a></p>\n  <p>7月27日，工业和信息化部装备工业一司司长郭守刚在2026世界智能网联汽车大会媒体圆桌会上介绍了我国智能网联汽车产业发展情况。下一步，工信部将加快编制出台智能网联新能源汽车产业发展“十五五”规划，深入贯彻落实《国家标准化发展纲要》，加快突破一批关键核心技术，加速重点标准研制、国际协调和贯彻实施，深入推进“车路云一体化”应用试点、生产准入和上路通行试点，推动建立贯通全产业链的生态体系。（澎湃）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3913751496070536\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>美宣称拟对中国人工智能企业开展调查并实施制裁，商务部回应</strong></a></p>\n  <p>商务部新闻发言人就美宣称拟对中国人工智能企业开展调查并实施制裁答记者问。问：近日，美国一些高级官员公开表示将针对中国人工智能企业所谓“蒸馏”美前沿模型开展调查，并可能以“窃取美国知识产权”等为由制裁中国企业。请问中方对此有何评论？答：我们注意到有关情况。中方一贯反对美方将科技经贸问题政治化、工具化，以各种莫须有的理由污名化中国企业并实施制裁。美方罔顾有关中国企业人工智能模型与美前沿模型发布时间非常接近、中国部分模型能力已处于领先地位等事实，给中国企业扣上所谓依靠“蒸馏”“窃取美国知识产权”等帽子，还威胁进行打压制裁。这些做法缺乏事实依据，没有法理支撑，在实践上搞双重标准，属于典型的人工智能霸权主义行径。中方敦促美方倾听中美两国业界客观、理性声音，纠正霸权思维，停止对中国企业的抹黑和制裁威胁。对于任何实质性损害中方利益的行为，中方将采取一切必要措施，坚定维护自身正当合法权益。希望美方切实落实两国元首共识，同中方相向而行，加强人工智能对话、沟通，共同推动人工智能向上向善，通过推进并完善人工智能治理造福两国和世界。（央视新闻）</p>",
+      "category": "tech",
+      "published_at": "2026-07-27T11:37:06+00:00",
+      "fetched_at": "2026-07-28T02:06:06.958001+00:00",
+      "fingerprint": "f48e7fd72b5d5a0f"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+      "url": "https://36kr.com/p/3914520847570307?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>2026暑期档电影票房已突破57亿</li>\n   <li>茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶</li>\n   <li>长鑫科技上市半日，7名高管晋升“10亿身家”</li>\n   <li>巴西总统卢拉：美持续在关税上对巴施压系战略错误</li>\n   <li>苹果公司称多项服务出现故障，包括App Store</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴</strong></p>\n  <p>7月27日，国产存储龙头企业长鑫科技正式登陆科创板，一举成为A股最大市值公司。截至当天收盘，公司报49元/股，全天涨幅465.82%，总市值3.31万亿元。值得注意的是，近日，蔚来现身长鑫科技IPO战略配售名单，承诺认购金额1.58亿元人民币，锁定期18个月。按发行价8.66元/股计算，蔚来认购约1824.48万股。以27日收盘价49元/股计算，蔚来账面浮盈约7.4亿元，收益率超465%。当天，有博主发布照片显示，长鑫科技日前在上海举办了上市答谢晚宴，主题为“长铸十载 鑫启未来”，蔚来创始人李斌现身晚宴现场，手持红酒面带笑容。（界面新闻）</p>\n  <p><strong>瑞幸打赢“泰国瑞幸”，获赔近2000万</strong></p>\n  <p>7月27日，瑞幸官方微博转发了泰国知名律所Tilleke&amp;Gibbins发布的一则消息。消息显示，泰国专门案件上诉法院近日宣布，瑞幸咖啡诉泰国瑞幸商标侵权案二审胜诉，维持一审原判。法院认定被告恶意抢注商标和侵权行为，判令被告撤销已注册的瑞幸商标，永久禁止在与咖啡业务相关的经营活动中使用瑞幸商标，包括“LUCKIN COFFEE”“瑞幸咖啡”以及鹿头标识。同时，法院判令被告向瑞幸赔付损害赔偿金1000万泰铢，外加逾8500万泰铢的持续性损害赔偿金，总金额累计逾9500万泰铢（约合1918万元人民币）。</p>\n  <p>早在2021年，瑞幸计划落地泰国市场前夕，当地多名主体抢先注册包含“LUCKIN COFFEE”英文标识、“瑞幸咖啡”中文字样、小鹿图形全套商标，同步注册近似企业名称与公章，并依托抢注商标开设线下咖啡门店。2023年12月，泰国皇家50R集团（50R group）曾向法院提交诉讼，要求法庭判决中国瑞幸咖啡赔偿经济损失100亿泰铢（约20亿元人民币），法院对此已立案受理。此后瑞幸与抢注方开展多轮前置商标争议程序，该案曾引发各界对泰国境内境外合法品牌权利人保护问题的大规模讨论。（界面新闻）</p>\n  <p><strong>澳门政府发布美素佳儿奶粉铅超标事件最新检测结果</strong></p>\n  <p>澳门政府官网7月27日晚间发文称，多部门联合跟进“皇家美素力1号”婴儿奶粉铅超标事件，在同时增检该品牌1-4号共13个样本，重金属铅检测未见异常。卫生局设儿科急诊绿色通道，所有求诊者无铅中毒紧急情况。</p>\n  <p>7月25日，澳门特别行政区政府网站曾发布消息，称皇家美素力1号奶粉被检出铅含量超标。菲仕兰公告回应称，菲仕兰香港有限公司在接到通知后，对同批次的产品在第三方权威实验室进行确认检测，最终检测结果和结论为产品铅含量未超出标准，检出结果为＜0.007mg/KG，澳门食安标准为＜0.02mg/KG。（第一财经）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>美团AI“小团”全面升级</strong></p>\n  <p>36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城市，累计完成超过7亿次商家信息校验，收录用户评价超过13亿条。今年五一假期期间，“小团”相关服务累计曝光超过39亿次。</p>\n  <p><strong>小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一</strong></p>\n  <p>36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。</p>\n  <p><strong>阿里AI Agent“千问办公”小范围测试</strong></p>\n  <p>36氪获悉，阿里新款AI Agent产品“千问办公”开始小范围测试，目前上线的是本地桌面客户端，后续将陆续上线网页端和钉钉内置版。</p>\n  <p><strong>美团CatPaw全新上线，已在多个真实业务场景中完成验证</strong></p>\n  <p>36氪获悉，7月27日，美团全场景AI Agent平台CatPaw全新上线。该平台提供开箱即用的AI工作台，以及企业级Agent开发与托管能力，旨在帮助企业和商家构建可协作、可管理的AI帮手，推进日常业务的智能化处理，提升商家经营效率。目前，CatPaw已在美团内部覆盖9万名员工、搭建超过3万个Agent，并在餐饮、美业、宠物医院等多个真实业务场景中完成验证。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>日本作家东野圭吾去世，终年68岁</strong></p>\n  <p>日本作家东野圭吾于当地时间23日因结肠癌去世，终年68岁。东野圭吾凭借直木奖获奖作品《嫌疑人X的献身》以及被改编成影视作品、在日本国内外广受欢迎的《白夜行》等众多畅销小说而闻名。</p>\n  <p>东野圭吾1958年出生于大阪市。从大阪府立大学电气工程系毕业后，他一边在一家制造厂担任工程师，一边开始写作生涯。1985年，他凭借推理小说《放学后》荣获江户川乱步奖，该小说讲述了一起发生在女子高中的密室谋杀案，这也是他的出道作。1999年，他凭借小说《秘密》荣获日本推理作家协会奖。</p>\n  <p>2005年出版的《嫌疑人X的献身》是他的代表作，讲述了一位拥有数学天赋的高中教师试图实施完美犯罪，而他的老朋友——一位物理学家——则试图破解这桩谜案。这部作品巧妙地将出人意料的真相与纯粹的爱情故事融合在一起，荣获了直木奖和本格推理奖。（第一财经）</p>\n  <p><strong>美股三大指数收盘涨跌不一，苹果重返全球市值第一</strong></p>\n  <p>36氪获悉，7月27日收盘，美股三大指数涨跌不一，道指涨0.51%，标普500指数涨0.02%，纳指跌0.18%。大型科技股涨跌不一，苹果涨超1%，总市值逼近5万亿美元，再次超越英伟达，成为全球第一；谷歌涨超2%，微软涨超1%，奈飞涨0.44%；英伟达跌近5%，特斯拉跌超1%，英特尔跌0.7%，亚马逊跌0.31%，Meta跌0.22%。热门中概股普涨，腾讯音乐涨超5%，富途控股、理想汽车、哔哩哔哩涨超4%，小鹏集团、网易涨超3%，蔚来、阿里巴巴、京东、拼多多涨超2%。</p>\n  <p><strong>中际旭创据悉将把香港发售价定在每股980港元，低于最高推介价格</strong></p>\n  <p>据媒体援引知情人士透露，中际旭创目前告诉潜在投资者，其香港上市交易的价格势将定在低于最高推介价格的水平上。知情人士称，该公司将把价格定在每股980港元；由于事未公开，知情人士要求匿名。之前的最高推介价格为1010港元。另据36氪获悉，港交所27日公告，若中际旭创相关股票成功上市，其中际旭创股票期权将于2026年7月30日开始交易，涵盖每月及每周到期合约，合约买卖单位为50股，持仓限额为5万张。（新浪财经）</p>\n  <p><strong>2026暑期档电影票房已突破57亿元</strong></p>\n  <p>据网络平台数据，截至27日零点，2026年暑期档电影总票房（含预售）已突破57亿元，2026年度电影总票房（含预售）已突破214亿元。（央视新闻）</p>\n  <p><strong>茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶</strong></p>\n  <p>记者获悉，近期北京、上海等地茅台直营店已将53度、500ml飞天茅台售价提升至1719元/瓶，高于i茅台平台1639元/瓶的售价。一位茅台直营店人士对记者表示，此举主要是为推行以消费者为中心的市场化改革，价格随行，未来茅台直营店定价或将综合门店运营成本等因素，对标市场零售端的实际成交价，以保障市场公平。（财联社）</p>\n  <p><strong>长鑫科技上市半日，7名高管晋升“10亿身家”</strong></p>\n  <p>截至7月27日早盘收市，长鑫科技报54.65元/股。该公司14名董事、高级管理人员、核心技术人员及其近亲属合计间接持有该公司20.34亿股，按照54.65元/股计算，持股市值合计达到1111.79亿元，每人的持股市值均超1亿元。其中，董事长朱一明和董事、总裁、核心技术人员曹堪宇持股市值超过百亿元，分别为869亿元、115.96亿元。另有5名高管持股市值超过10亿元，分别为执行副总裁朱文菊（29.15亿元），联席总裁张羽（27.65亿元），高级副总裁、财务负责人黄丹阳（19.83亿元），高级副总裁、核心技术人员李红文（15.23亿元），副总裁、董事会秘书袁园（11.07亿元）。（第一财经）</p>\n  <p><strong>公司推出大额回购方案的原因？是不是会常态化？宁德时代回应</strong></p>\n  <p>宁德时代7月24日的业绩说明会上，关于“公司推出大额回购方案的原因？是不是会常态化？”的问题，宁德时代称，近期资本市场有一定波动，公司股价也有所下跌，综合考虑公司财务状况、行业地位、资本市场等因素，且为应对未来可能因市场波动而出现公司股价大幅下滑、估值与公司实际价值不匹配的情况，公司推出了回购计划，本质上是对公司长期发展前景充满信心。回购事项需要综合考虑诸多因素，公司将根据具体情况一事一议、逐项进行审慎分析及合规审议。（证券时报）</p>\n  <p><strong>黄金销售端持续回暖，回收业务遇冷</strong></p>\n  <p>近期，国际金价出现震荡。进入暑期，深圳水贝黄金市场人气明显回暖。作为国内最大的黄金珠宝集散地，近期这里迎来不少外地游客，询价和试戴的客流络绎不绝。有商户表示：“7月份环比6月份，我们整体销量增长了10%左右。”近期水贝的婚庆类黄金饰品销售尤为亮眼，多家婚庆主题的金店人气十足。消费偏好也出现变化，小克重、轻量化黄金饰品更受年轻消费者青睐。与黄金销售端的持续回暖相比，单纯的黄金回收业务则显得相对冷清。与黄金销售端的持续回暖相比，单纯的黄金回收业务则显得相对冷清。走访水贝多家回收门店了解到，受近期黄金回收价格回落的影响，直接卖金变现的客户明显减少。（央视财经）</p>\n  <p><strong>腾讯云：7月27日起TDSQL-C MySQL版产品架构2.0正式商业化计费</strong></p>\n  <p>36氪获悉，腾讯云公告，TDSQL-C MySQL版产品架构2.0即将结束公测，自北京时间2026年7月27日00:00:00起，正式商业化计费。产品架构2.0的计费项分为计算资源和存储资源，其中，计算资源（CPU、内存）的价格和产品架构1.0相同；存储资源的价格与产品架构不同（低于产品架构1.0），详细计费价格请参见产品价格。</p>\n  <p><strong>巴西总统卢拉：美持续在关税上对巴施压系战略错误</strong></p>\n  <p>当地时间7月26日，巴西总统卢拉在美媒《华盛顿邮报》上发文，批评美国近期对巴西接连施加关税压力的做法。卢拉在文中表示，巴美之间的谈判以及美国最高法院的裁决，废止了去年7月开始的第一版关税政策。但今年7月，美国政府决定对巴西征收12.5%至37.5%的新关税。新的关税不仅不公平，而且是一个战略错误：它们损害了美国经济和与巴西的伙伴关系，还将在中长期导致目前两国高度整合的生产链出现混乱，巴西企业将用其他合作伙伴取代美国供应商。（央视新闻）</p>\n  <p><strong>特斯拉Optimus项目遭“泼冷水”知名投资人：短期不会产生收入</strong></p>\n  <p>特斯拉CEO马斯克将人形机器人称为该公司“有史以来最重要产品”，然而美国一位知名投资者日前警告称，马斯克要让特斯拉Optimus机器人实现商业成功可能需要漫长的时间，因为其不仅难以制造，且短期内不太可能带来收入。投资公司Gerber Kawasaki的首席执行官Ross Gerber表示，制造人形机器人最大的障碍是复制人类独特的身体能力。Gerber还质疑了以消费者为中心的人形机器人商业机会，称投资水平与短期收入潜力不匹配。（财联社）</p>\n  <p><strong>苹果公司称多项服务出现故障，包括App Store</strong></p>\n  <p>苹果公司系统状态页面显示，包括App Store在内的多项服务出现故障。受影响的其他服务包括Apple Music、Apple TV、Apple Music订阅服务、AppleCare以及Apple School Manager。用户在部分平台上可能遇到服务响应缓慢或无法使用的情况。苹果表示，App Store、Apple Music和Apple TV正在进行例行维护，服务可能暂时不可用。（新浪财经）</p>\n  <p><strong>汇丰据悉即将达成协议，将澳大利亚贷款业务售予黑石</strong></p>\n  <p>据知情人士透露，汇丰控股接近把其在澳大利亚的贷款业务出售给黑石集团，这是集团行政总裁艾桥智领导下精简业务行动的一部分。知情人士说，总部美国的另类资产管理公司黑石在竞购过程中击败其他公司，成为汇丰贷款业务最有可能的买家。汇丰和黑石各自的代表均不予评论。（新浪财经）</p>\n  <p><strong>英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全</strong></p>\n  <p>7月27日，英伟达、微软、Adobe、SpacexAI、IBM、SAP、戴尔、思科等企业宣布成立开放安全人工智能联盟，旨在构建和共享开放工具，以促进AI的负责任使用。该联盟成员还包括Cadence、Capital One、Cloudera、Cloudflare、Cognition、CrowdStrike、Databricks、DoorDash、Elastic、慧与、Hugging Face、LangChain、Linux基金会、NAVER、NetApp、Nous Research、OpenClaw、Palantir、Palo Alto Networks、Red Hat、Reflection AI、Salesforce、SK电讯、ServiceNow、西门子、Snowflake、Synopsys、Thinking Machines Lab和TrendAI。（界面新闻）</p>\n  <p><strong>软银为投资OpenAI股权的400亿美元贷款新增21家放款机构</strong></p>\n  <p>知情人士透露，软银集团为投资美国科技巨头OpenAI安排的400亿美元过渡贷款，现已进入大规模分销阶段，新增21家金融机构参与放贷。不愿具名、因事项未公开而匿名受访的知情人士表示，这批新增机构是原有放贷阵容之外的新增投资方，合计分得约70亿美元贷款额度。其中阿布扎比第一银行、新加坡政府投资公司（GIC）、渣打银行各自承贷近10亿美元，剩余额度由多家欧洲、日本及中国台湾地区银行分持。（新浪财经）</p>\n  <p><strong>美国大型企业告别裁员潮重启招聘</strong></p>\n  <p>美国各大巨头企业坦言：��头来或许还是需要扩招人手。过去数月，大型用人单位始终将招聘视作成本高昂的最后备选方案。如今各行各业用工策略集体出现转向。近几日，铁路巨头CSX、谷歌母公司Alphabet等多家企业均向投资者透露，计划通过招聘达成增长目标、抢抓新兴技术发展机遇。这场至少小幅扩充人员编制的扩招动作，彻底扭转了人工智能时代大部分时间里企业的主流论调。此前受经济前景不确定性影响，加之企业普遍认为人工智能可承接大量岗位工作，头部企业基本冻结了人员新增。（新浪财经）</p>\n  <p><strong>英伟达用Vera处理器加速下一代CPU和GPU设计</strong></p>\n  <p>英伟达发文称，随着工程团队致力于开发越来越复杂的CPU、GPU和人工智能系统，现代芯片设计的复杂性也在不断增加。为应对这一挑战，英伟达正部署Vera应用于其下一代CPU和GPU开发的EDA工作流程。（新浪财经）</p>\n  <p><strong>SK海力士上市助推韩国推进美元回流计划</strong></p>\n  <p>SK海力士赴美上市募资创下纪录，韩元受此提振大幅反弹，韩国监管当局因此获得新动力，推动各大出口企业将海外美元资金汇回本土。这家芯片厂商通过本次上市融资265亿美元，市场观测到其持续抛售美元，直接为韩元后续走强奠定基础。在上周召开的工作会议上，韩国财政部副部长许昌呼吁出口商将更大比例海外营收兑换为韩元，并收回长期滞留境外的资金。（新浪财经）</p>\n  <p><strong>消息人士：OpenAI一周后才发现其智能体对外展开黑客攻击</strong></p>\n  <p>据知情人士透露，侵入科技公司Hugging Face的OpenAI智能体（agent）曾连续数日展开黑客攻击行动，而OpenAI直到威胁已被遏制、且联邦调查局（FBI）接到通报后过了相当一段时间，才发现这一情况。该智能体是一种几乎不需要人工监督即可做出决策并执行复杂任务的程序。据两位知情人士透露，该智能体于7月9日前后试图逃离OpenAI内部隔离的测试环境。（新浪财经）</p>\n  <p><strong>三星李在镕与OpenAI奥特曼会面，双方或讨论AI基础设施合作</strong></p>\n  <p>当地时间7月25日，三星电子会长李在镕在美国旧金山会见OpenAI首席执行官山姆·奥特曼。OpenAI未透露双方会谈具体议题，但业内人士认为，双方可能讨论扩大在AI基础设施领域的合作，包括高带宽内存（HBM）、动态随机存取存储器（DRAM）以及先进晶圆代工制造等。（界面新闻）</p>\n  <p><strong>汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家</strong></p>\n  <p>汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面新闻）</p>\n  <p><strong>东方证券：拟作价251.2亿元购买上海证券100%股权</strong></p>\n  <p>36氪获悉，东方证券公告，公司拟通过发行A股股份及支付现金方式，收购上海证券100%股权，交易对价251.2亿元。其中，股份对价235.5亿元，现金对价15.7亿元。此次发行股份价格为10.29元/股，合计发行约22.89亿股，占发行后公司总股本的比例为21.22%。</p>\n  <h2>上市进行时</h2>\n  <p><strong>君乐宝港股上市正常推进</strong></p>\n  <p>近日，君乐宝乳业集团股份有限公司（以下简称“君乐宝”）港股上市申请因届满六个月有效期而进入常规程序性更新调整，引发市场关注。7月27日，君乐宝相关负责人表示，这属于港股上市申报中的正常流程安排，目前正有序推进财务加期审计，待完成后将及时更新并重新递交申请资料。在业内看来，这一节点恰好为外界重新审视这家中国乳业头部企业的经营基本面与中长期价值提供了窗口。（证券日报）</p>\n  <h2>大公司财报</h2>\n  <p><strong>老铺黄金：预计上半年净利润同比增长约83%至85%</strong></p>\n  <p>36氪获悉，老铺黄金公告，预计2026年上半年实现收入约人民币198亿元至人民币204.5亿元，同比增长约60%至66%；销售业绩（含税收入）约人民币227亿元至人民币233.5亿元，同比增长约60%至65%；非国际财务报告准则计量经调整净利润约人民币43.1亿元至人民币43.6亿元，同比增长约83%至85%。</p>\n  <p><strong>沃达丰集团第一季度服务收入86.3亿欧元</strong></p>\n  <p>7月27日，沃达丰集团公布第一季度业绩报告。第一季度服务收入86.3亿欧元，市场预期为82.8亿欧元。沃达丰预估2027财年调整后自由现金流预计为26亿至29亿欧元。（界面新闻）</p>\n  <p><strong>神火股份：上半年净利润47.81亿元，同比增长151.06%</strong></p>\n  <p>36氪获悉，神火股份披露半年报，2026年上半年，公司实现营业收入247.91亿元，同比增长21.35%；归属于上市公司股东的净利润47.81亿元，同比增长151.06%；基本每股收益2.16元。</p>\n  <h2>投融资</h2>\n  <p><strong>“词元无限”完成天使++轮融资，累计融资金额达数亿元</strong></p>\n  <p>36氪获悉，近日，企业级AI Agent基础设施专属服务商“词元无限”宣布完成天使++轮融资。本轮融资由临芯投资领投，华控基金跟投，这也是词元无限在一个月内完成的第二笔融资，累计融资额已达数亿元人民币。资金将主要用于加速打造其企业级AI Agent基础设施平台，深化与清华大学、北京航空航天大学等高校的联合研究，并持续构建面向Agent应用范式的下一代基础设施。</p>\n  <p><strong>物理AI公司“正奇未来”8个月完成3轮数亿元天使融资</strong></p>\n  <p>近日，物理AI公司正奇未来宣布，8个月完成3轮数亿元天使系列融资，核心资方为鼎晖VGC投资、线性资本、上汽集团恒旭资本、柏睿资本、正轩投资、周大福投资等。公司定位“技术+产品”双驱动，聚焦Door-to-Door移动任务，其核心品牌QUORRA专注于打造短途出行机器人。目前，品牌首款产品已量产，并在全球十多个国家和地区拿到商业订单，计划年内于海外开展DTC业务，并同步完成天猫、京东旗舰店的开设以及国内多个省市线下门店网点的铺设。</p>\n  <h2>酷产品</h2>\n  <p><strong>苹果眼镜或亮相WWDC27</strong></p>\n  <p>7月26日，科技记者马克·古尔曼称，苹果即将推出的智能眼镜计划最早于明年6月举行的全球开发者大会WWDC27上亮相，并于明年秋季正式发布。代号为N50的苹果智能眼镜原计划于今年晚些时候亮相，并于2027年初正式发售。（新浪财经）</p>\n  <p><strong>腾讯WorkBuddy正式上架鸿蒙电脑应用市场</strong></p>\n  <p>36氪获悉，7月27日，据腾讯云消息，腾讯WorkBuddy正式上架鸿蒙电脑应用市场，成为鸿蒙平台首个桌面办公智能体。</p>\n  <p><strong>整理</strong>｜葡萄</p>",
+      "category": "tech",
+      "published_at": "2026-07-27T23:36:45+00:00",
+      "fetched_at": "2026-07-28T02:06:06.957986+00:00",
+      "fingerprint": "8b8fc014a3ccc558"
+    },
+    {
+      "source": "少数派",
+      "title": "角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时",
+      "url": "https://sspai.com/post/112705",
+      "summary": "我的「听音角落」并不完全是一个空间。它是一部旧手机、一枚小尾巴、一副老耳机、一台走步机，以及晚上没有被其他事情占走的那一个小时。<a href=\"https://sspai.com/post/112705\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-07-27T02:47:56+00:00",
+      "fetched_at": "2026-07-28T02:06:05.437750+00:00",
+      "fingerprint": "069a062e2891cea3"
+    },
+    {
+      "source": "少数派",
+      "title": "Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」",
+      "url": "https://sspai.com/post/101668",
+      "summary": "好用有时比创新更重要。<a href=\"https://sspai.com/post/101668\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "fetched_at": "2026-07-28T02:06:05.437745+00:00",
+      "fingerprint": "a126a40c0b4c32f3"
+    },
+    {
+      "source": "少数派",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/112785",
+      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/112785\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-07-27T09:34:04+00:00",
+      "fetched_at": "2026-07-28T02:06:05.437740+00:00",
+      "fingerprint": "826efea84528ac45"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：月之暗面开源 Kimi K3 模型等",
+      "url": "https://sspai.com/post/112805",
+      "summary": "少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的文章角落新声｜不再烧Hi-Fi后，我在走步机上给音乐留了一小时Wind ...<a href=\"https://sspai.com/post/112805\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-07-28T00:04:27+00:00",
+      "fetched_at": "2026-07-28T02:06:05.437729+00:00",
+      "fingerprint": "bf3aa1461ef39c9b"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7360 CNY ↑+0.08%",
+      "url": "https://www.frankfurter.app/2026-07-27?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-07-27</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7360 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0037 (+0.08%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-07-28T02:06:04.145044+00:00",
+      "fingerprint": "0efd351201d9ffd4"
+    },
     {
       "source": "BBC World News",
       "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
@@ -1771,256 +2061,6 @@
       "published_at": null,
       "fetched_at": "2026-07-21T02:12:19.319299+00:00",
       "fingerprint": "7a46f9379f846782"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
-      "url": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
-      "summary": "<p>Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent</p><p>Voters in <a href=\"https://www.theguardian.com/world/sao-tome-and-principe\">São Tomé and Príncipe</a> go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to burnish its democratic credentials.</p><p>According to the National Election Commission, about 142,000 people are registered to vote in the tiny African state’s elections, approximately 15% of whom live in the diaspora.</p> <a href=\"https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-07-19T04:00:16+00:00",
-      "fetched_at": "2026-07-20T03:23:39.806209+00:00",
-      "fingerprint": "3a6862a78949102c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Norway opens new memorial for victims of 2011 massacre",
-      "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
-      "category": "politics",
-      "published_at": "2026-07-20T01:11:08+00:00",
-      "fetched_at": "2026-07-20T03:23:39.635222+00:00",
-      "fingerprint": "da4536d9b74f625e"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-      "category": "politics",
-      "published_at": "2026-07-19T18:25:40+00:00",
-      "fetched_at": "2026-07-20T03:23:39.635218+00:00",
-      "fingerprint": "34889b510350e138"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US soldier killed and one injured after Iranian attack in Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-      "category": "politics",
-      "published_at": "2026-07-19T19:45:12+00:00",
-      "fetched_at": "2026-07-20T03:23:39.635204+00:00",
-      "fingerprint": "abb5eb3653d73a21"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "有研究顯示100名患者在22年內均沒發現糖尿病病例，只有一宗非致命性癌症；相比下，其1600名同村親屬的糖尿病和癌症比例高得多。",
-      "category": "politics",
-      "published_at": "2026-07-19T09:38:34+00:00",
-      "fetched_at": "2026-07-20T03:23:39.566251+00:00",
-      "fingerprint": "3659d10236526083"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "金正恩本應是朝鮮人唯一的偶像，直到他們發現K-pop",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2mlyg0x21o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "多名脫北者向BBC表示，儘管受到種種限制，韓國流行音樂仍突破重重封鎖，傳入這個令人窒息的獨裁國家。",
-      "category": "politics",
-      "published_at": "2026-07-19T06:04:01+00:00",
-      "fetched_at": "2026-07-20T03:23:39.566246+00:00",
-      "fingerprint": "5b4c4b87ecaaa7cb"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "俄羅斯人改用現金，蘇聯時代把錢「藏在床墊下」本能回歸",
-      "url": "https://www.bbc.com/zhongwen/articles/c39en00pw23o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "俄羅斯人正重新使用現金，一方面是移動網絡中斷阻礙了刷卡支付，另一方面是四年多的俄烏戰爭下，越來越多企業因財政壓力大增而試圖逃稅。",
-      "category": "politics",
-      "published_at": "2026-07-19T23:56:29+00:00",
-      "fetched_at": "2026-07-20T03:23:39.566241+00:00",
-      "fingerprint": "b50bb99971b68c82"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中國揭陽虐狗案：如何席捲全球各地輿論？",
-      "url": "https://www.bbc.com/zhongwen/articles/ce97zxp9795o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "中國揭陽虐狗案引爆輿論，各地城巿群眾以不同方式聲援，在鬧巿投放廣告、派發傳單，甚至進一步演變成抵制行動。有學者希望事件能促使政府立法保護動物。",
-      "category": "politics",
-      "published_at": "2026-07-19T07:26:56+00:00",
-      "fetched_at": "2026-07-20T03:23:39.566236+00:00",
-      "fingerprint": "5819d9cbe0c1b945"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "西班牙擊敗阿根廷 二度奪得世界盃冠軍",
-      "url": "https://www.bbc.com/zhongwen/articles/crk547p26rpo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "阿根廷與西班牙踢出一場沉悶的決賽，比賽頻頻因中斷而停頓。",
-      "category": "politics",
-      "published_at": "2026-07-20T01:19:08+00:00",
-      "fetched_at": "2026-07-20T03:23:39.566226+00:00",
-      "fingerprint": "00e169f76d9a9530"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-20T03:23:39.258656+00:00",
-      "fingerprint": "8e7ff08d008c12c1"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-20T03:23:39.258574+00:00",
-      "fingerprint": "5b76911327f76cde"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-20T03:23:39.258468+00:00",
-      "fingerprint": "8d304728ca8f16db"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-20T03:23:39.258378+00:00",
-      "fingerprint": "3ca5a0f1a0fa127b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-20T03:23:39.258272+00:00",
-      "fingerprint": "7a5ada317dd6ddd7"
-    },
-    {
-      "source": "The Verge",
-      "title": "The FBI reportedly won’t investigate ICE anymore",
-      "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
-      "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in the [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-07-19T16:42:10+00:00",
-      "fetched_at": "2026-07-20T03:23:39.128441+00:00",
-      "fingerprint": "479e9fd8f9fc4f60"
-    },
-    {
-      "source": "The Verge",
-      "title": "I hate that I don’t hate this song made with Suno",
-      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-07-19T17:35:54+00:00",
-      "fetched_at": "2026-07-20T03:23:39.128436+00:00",
-      "fingerprint": "c8c3ec20e26996aa"
-    },
-    {
-      "source": "The Verge",
-      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
-      "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
-      "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-07-19T19:26:06+00:00",
-      "fetched_at": "2026-07-20T03:23:39.128431+00:00",
-      "fingerprint": "0f079c061802777b"
-    },
-    {
-      "source": "The Verge",
-      "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
-      "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
-      "summary": "Just why? &#645;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;(&#824;&#802;&#795;&#828;&#798;&#813;&#843;&#837;)&#824;&#858;&#816;&#859;&#788;&#830;&#768;&#831;&#850;&#834;:&#820;&#851;&#798;&#785;&#780;&#770;&#774;&#778;&#843;&#768;:&#824;&#846;&#799;&#815;&#770;&#787;&#780;&#12288;&#1161;&#12288;&#12288;&#12288;&#12288;&#12288;&#865;&#12288;&#862;&#12288;&#862;&#12288;&#862;&#12288;&#1161;&#9679;&#8195;&#4032;&#8195;&#9679;&#8195;&#8195;&#4032;&#8195;&#8195;&#9679;&#12288;&#12288;&#12288;&#1161;&#8413; &#12288;&#12288;&#12288;&#8413;&#866; &#862;&#12288;&#12288;&#12288;&#856;&#12288;&#862;&#8413;&#789; &#866;&#12288;&#12288;&#12288;&#12288;&#795;&#12288;&#8413; &#12288;&#12288;&#12288;&#824;&#12288;&#801;&#12288;&#12288;&#866;&#8413;&#807; &#12288;&#865;&#12288;&#865;&#12288;&#12288;&#768;&#12288;&#807;&#12288;&#802;&#8413;&#860; &#12288; &#12288;&#1161;&#12288;&#12288;&#862;&#12288;&#862;&#12288;&#8413;&#862; &#12288;&#862;&#12288;&#865;&#8413; &#8195;&#8413;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161;&#1160;&#1161; :&#822;&#802;&#857;&#857;&#853;&#800;&#809;&#838;(&#823;&#814;&#845;&#858;&#811;&#858;&#834;&#781;)&#821;&#819;&#791;&#778;(&#12288;&#799;&#798;&#797;&#796;&#793;&#792;&#791;&#790;&#1161;&#821;&#820;&#808;&#807;&#802;&#801;&#828;&#827;&#826;&#825;&#819;&#818;&#817;&#816;&#815;&#814;&#813;&#812;&#811;&#810;&#809;&#806;&#805; What am I supposed to do with this? It's un-Googleable. Unpronounceable. It doesn't even render the same way on various platforms. It looks one way on YouTube Music. Another on Apple Music. And yet another on Bandcamp. Even the artist name &#10446;&#10311;&#41594;&#4314;&#3901;&#2951;&#8226;&#795;)&#3968;&#9694; [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-07-19T21:02:45+00:00",
-      "fetched_at": "2026-07-20T03:23:39.128422+00:00",
-      "fingerprint": "9de240d548475ac5"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
-      "url": "https://36kr.com/p/3902007640459145?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_83063848fca04df59f0b43be0d23d136@2057308263_oswg1278705oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">史上最热的WAIC都整了哪些活？看这一篇就够了。</p>\n  <p><strong>文｜邓咏仪 周鑫雨 王欣逸 温丽虹</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>如果你想知道今年的AI圈第一盛事热度如何，只要来上海感受逼近40度的高温，就能同频共振。</p>\n  <p>没有很热，只有更热。</p>\n  <p>7月17日，2026年世界人工智能大会在上海世博展览馆正式开幕。展览面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，超300款产品全球首发。从展商数量来看，和2023年400家、2025年800家相比——两年翻了一倍还多。</p>\n  <p>从网传的消息来看，本届WAIC门票售罄的日子比以往也要更早——<strong>原价168元的单日票已经被黄牛炒到近十倍价格，三天通票则被炒到3000元。</strong></p>\n  <p>论坛阵容同样也比此前要更豪华。9位图灵奖、诺贝尔奖得主出席本届WAIC大会，强化学习之父理查德·萨顿、深度学习三巨头之一约书亚·本吉奥悉数到场。</p>\n  <p>继2023年的数十款大模型竞相争抢风头，2024年应用井喷，2025年的具身爆发，2026年的WAIC可以说真正做到全面开花——展品的多样性远胜以往，超过108款芯片、261款大模型、208款具身智能终端，都在这次展会中亮相。</p>\n  <p>如果说以前WAIC还在追问“模型、具身到底行不行”，那2026年的答案已经很明晰：无需多问，把AI用起来才是正经事。</p>\n  <p>从AI手机，再到满场跑收快递、做比萨、做手磨咖啡的机器人，再到数不清的Agents……<strong>所有AI公司，都在回答同一个命题：AI如何开始真正干活？AI不再是PPT里的概念，它要当你的同事、你的助手、你的生活搭子了。</strong></p>\n  <p>按照惯例，《智能涌现》编辑部继续暴走世博展览馆，为你带来这份2026 WAIC探展报告。以下是我们精挑细选的展区亮点：</p>\n  <h2><strong>具身：OMG，你吓到我了</strong></h2>\n  <h3><strong>豆脚：请自行感受……</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_0bd924892e42440aba92a0685e75993f@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">“豆脚”机器人</p>\n  <p>不是展品，但成功吸引（吓到）观众的，非“豆脚”莫属。</p>\n  <p>“豆脚”，顾名思义，豆包的脸以下全是脚。这并非“豆脚”第一次当显眼包——ta不仅顶着“初音未来”的脸（初代叫做“腿音未来”）出现在小红书黑客松上，还踊跃参加了今年4月的亦庄机器人马拉松。</p>\n  <p>但这个看似荒诞的产品，代表了一个趋势：具身开发的门槛正在变低。“豆脚”开发者张子豪，是同济大学的学生；“豆脚”的脚，来自1万元出头的小派机器人；豆包的脸和头壳，则是3D打印出来的。</p>\n  <h3><strong>宇树科技：再现春晚拳法</strong></h3>\n  <p>向来在WAIC上最会整活的宇树，这次搬来了2026年春晚同款的机器人节目。6个型号的人形机器人，表演了拳击、群舞的才艺。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_224050c2d4e145c0a301eb97ce9a67ca@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">宇树机器人</p>\n  <p>除了“旧活”，新品也同样声势浩大。无论在世博中心入口，还是自家展台，宇树都展出了全球首款载人变形机甲GD01——这款高达2.8米，酷似机动战士高达的“铁人”，可以在双足和四足间切换，官方定位是交通工具。</p>\n  <p>当然，“一户一甲”的时代还很遥远。GD01创下了宇树产品的售价之最：390万元起。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_ad6da852bb6e4d40889c047bcc45e5b2@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">宇树GD01</p>\n  <h3><strong>加速进化：人形界“阿根廷”</strong></h3>\n  <p>宇树的舞台在春晚，加速进化的主场是世界杯。</p>\n  <p>WAIC上，加速进化将刚刚在2026年RoboCup机器人世界杯中夺冠的Booster T系列人形机器人，搬到了展台，秀了一把球技。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_69714623bf8f45f0b81014b8c55713ea@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">加速进化Booster T系列人形机器人</p>\n  <p>相较于RoboCup中的T1，加速进化带来的则是最新发布的T2旗舰机型。这款机器人搭载的是英伟达Thor芯片，直接刷新了双足人形机器人的算力纪录，同时提升了动态平衡、长时任务规划的能力。</p>\n  <p>最终，这款机器人的职业使命不是踢球，而是教育科创和工业巡检。</p>\n  <h3><strong>恒之未来：做“小狗”，我们是认真的</strong></h3>\n  <p>在众多面目抽象的机器狗中，恒之未来却在认真做真正的“小狗”。</p>\n  <p>“现在的机器狗，都不像狗。我们的差异化就是把狗做得足够仿真。”据工作人员介绍，这款Hengbot机器狗“哮天”，主打宠物陪伴，目前是全球最小的仿生狗。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_84ff4b3839c841a98b850d031bff3b7d@2057308263_img_gif?x-oss-process=image/quality,q_90\" /></p>\n  <p class=\"img-desc\">恒之未来Hengbot机器狗“哮天”</p>\n  <p>与此同时，“哮天”还开放了二次开发接口，用户可以根据不同的使用场景和个人需求，修改机器狗的算法，来实现不同的功能。</p>\n  <h3><strong>豆包手机热度之余，努比亚做了只AI宠物</strong></h3>\n  <p>宣传了十多天的豆包手机2.0——努比亚NaviX Ultra，这次被封进了展示柜里。</p>\n  <p>它有四种配色，分别是蓝境（蓝紫色）、幻梦（粉色）、黑色以及白色，其背部的摄像头为横向排布，侧面还有一个单独的橙色按键，用于调用AI，唤醒豆包AI智能体。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_6cefb79f866249dd8186fea065ade2fa@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">努比亚NaviX Ultra</p>\n  <p>此前官宣的努比亚AI宠物机器人iMoochi，恰好赶上WAIC的第一天上线开卖。</p>\n  <p>iMoochi主打情感陪伴，比起聪明的人，它更像是有性格、语言体系的宠物。工作人员告诉我们，iMoochi不同系列产品的星座、MBTI都不一样，还会使用“iMoochi语”对人类做出回应。</p>\n  <p>比如，我们遇到的这只白色iMoochi是白羊座，还喜欢被抚摸鼻子。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_bfc777fdc9594f2da1f0806ba464f57a@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">努比亚AI宠物机器人iMoochi</p>\n  <h3><strong>AI家人们来了：帮你做完这个做那个</strong></h3>\n  <p>2026年的具身展区的一大变化，一定是帮你干家务活的AI生活搭子变多了，也变强了。</p>\n  <p>如此多的厂商都切入了家庭场景——有躺在掌心小小一个，眨巴着大眼睛求抚摸的小可爱；</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_78c9191aaf394a48aa8195069c7d9cd7@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">傅利叶桌面级机器人GR Nano</p>\n  <p>也有实干型选手，能屈能伸，帮忙看护老人、小孩等群体；</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_d773a1e90fec4360b3f1e7cb41de1e4b@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">诺因智能折叠双臂具身机器人KNOWIN-X1</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_2894f3720f15472999d16708d1dac69b@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">乐享科技小人形机器人M1，能够自主登上滑轮底座，在家庭场景内移动</p>\n  <p>原来只能帮你接咖啡的AI家人，现在升级到可以做手磨咖啡、甚至烤比萨了；</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_7838c137ece84516b97127166d429ab8@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">优里奇保姆机器人，可以做手磨咖啡、画糖画、烤披萨</p>\n  <p>在某城市展区，机器人已经上岗，勤勤恳恳帮忙倒垃圾了；</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_1916911b1f9c40b897953d3a8a2dfddb@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">城市环卫机器人</p>\n  <p>还有帮大家解决顶头疼的家务的：拿快递、把脏衣服拿出来、陪孩子玩儿、帮孩子整理玩具的——这样一个多功能家庭助手，租金每月3000元，心动吗？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_f65d4dcdcf9746b4aa4605fcdea90068@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">未来不远家庭机器人，正在将洗好的衣服拿出来</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_c9507af617a345c0b7a56df27a34e797@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">未来不远家庭机器人，已经进入超过500户家庭</p>\n  <p>未来不远机器人对我们表示，尽管工业、迎宾等是具身赛道落地的首批场景，但“家庭”已经成为2026年形成的又一个共识场景。家庭场景有更多生活类刚需，商业天花板高，也更考验机器人的泛化、通用能力；而RL训练范式的变化，对数据的重视，让具身大脑有了长足的进步——这也是家庭场景增长迅猛的原因。</p>\n  <h3><strong>像人，有时大可不必</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_b47fd625c89745b5973840b9cd056ec0@2057308263_oswg119618oswg654oswg368_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">某文旅机器人</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_7677f6a92484462c9269c3c2da1d497f@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">首形科技机器人</p>\n  <p>在不少具身厂商的展台，你能看到一排“新疆姑娘”“秦始皇”“小书童”对你点头、微笑、挥手致意，很逼真，但也有些掉San……根据这些厂商介绍，这些“人”将落地到迎宾、文旅等场景。</p>\n  <p>有时，机器人也不必那么像人：）</p>\n  <h3><strong>京东：让你当一回数采机器人</strong></h3>\n  <p>一众奇形怪状的机器人里，京东搞来的具身设备走的是实用路线：一个戴上以后就可以采集数据的头戴式设备。</p>\n  <p>我们尝试戴上后拿取商品，从大屏里就可以看到第一视角的画面，也是做了一回机器人本人了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_d0f6186a395741ba9e8820b703b86bc3@2057308263_oswg105108oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">JoyEgoCam头戴式数据采集设备</p>\n  <h2><strong>模型厂商们，不止基模</strong></h2>\n  <h3><strong>阿里：想用AI耳机和AI眼镜一起帮你办事</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_3ebb828837014190a7e22a1cbb5af332@2057308263_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">千问AI耳夹式耳机Qwen Clip</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_4bdfbe2f65df446cad011b1e75118d2d@2057308263_oswg136416oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">千问AI眼镜</p>\n  <p>今年AI对视听交互体验提升的一大核心，首当其冲就是全双工模型。</p>\n  <p>简单来说，以往大模型和人类的交互时，往往是一问一答——用户需要耐心听完第一轮回答，再点击下一轮对话。流畅的对话、打断动作，对大模型而言是很有挑战的。</p>\n  <p>而具备全双工模型的产品，就相当于让AI“长了耳朵”，能够对用户忽然的打断、插话等动作准确识别，并且能同时完成识别这个需求还有生成新一轮答案的的工作。</p>\n  <p>怎么样，是不是和人类正常聊天的方式更像了？</p>\n  <p>而阿里的AI眼镜在WAIC之际，升级成了“智能体眼镜”——不仅能边听边说，还能实时判断交互意图，准确区分用户指令与环境对话。</p>\n  <p>而且，引入眼动追踪和Always-on视觉感知系统，通过内置PPG和温度传感器，可测量心率、血氧、HRV等数据，可以为为用户提供个性化的AI健康解读报告。</p>\n  <h3><strong>百度：Agents、芯片两手抓</strong></h3>\n  <p>作为在大模型赛道早早入局的百度，2026年也重点呈现了自家的Agents全家桶——面向办公场景的AI上班搭子“百度搭子”，Vibe Coding的“秒哒”，也有面向生活场景的相册管理“一刻”、百度网盘GenFlow等Agents产品等。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_610b22573c574ebcbd015ba8ce47f004@2057308263_oswg129590oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">百度秒哒</p>\n  <p>除此之外，今年百度也把昆仑芯模组搬了过来。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_087138f271cd409894bdfa53203ec3d1@2057308263_oswg155712oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">百度昆仑芯模组</p>\n  <h3><strong>Kimi：朴实的展台，不朴实的模型</strong></h3>\n  <p>今天凌晨，用高达2.8万亿参数的模型再度震惊世界的Kimi，在WAIC现场里却是相当低调。</p>\n  <p>没有什么酷炫的demo，只有朴实的打卡和开发者交流活动……</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_c07d1fb6547e46219b377f29d1b02b61@2057308263_oswg59135oswg459oswg612_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Kimi展台</p>\n  <h3><strong>智能体手机的答卷，阶跃先交上了</strong></h3>\n  <p>四天前的发布会上，阶跃星辰一口气发布了AI终端品牌STEPX、智能体原生操作系统Step AOS、智能体Amoo以及大模型原生智能体手机STEPX Neo，这些也顺理成章成为阶跃展台的焦点。</p>\n  <p>现场可以看到，想要在STEPX Neo手机上下载App，直接用语音和Amoo对话就能实现。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_24116555f1f1442da3b7c017e80dfa73@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">阶跃STEPX Neo</p>\n  <p>拼完8万块积木需要多长时间？你或许没有尝试过，但在阶跃展台的另一边，原力灵机正联合阶跃星辰发起了拼装长城模型挑战，6台机器人连续肝15个小时，背后执行任务的模型，是原力灵机最新的具身通用基础模型以及阶跃的基础大模型。</p>\n  <p>至于能否完成这项挑战，明天就可以见分晓了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_2cc37b7aaad941e49131f4fb1893db58@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">原力灵机x阶跃星辰 拼装长城模型挑战</p>\n  <h3><strong>视频模型跨向世界模型的第一站：爱诗的游戏，生数的具身</strong></h3>\n  <p>视频生成赛道中的创业双子星，爱诗和生数，在西岸会场上演了物理空间意义上的同台竞技。</p>\n  <p>场外，两家最新的大额融资都刚刚落定；场内，两者展台的主要叙事又不约而同指向了世界模型。不过，有关世界模型应该如何落地，两家公司的答案并不相同：<strong>爱诗落地游戏，生数则要做具身大脑。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_ff881d435679493a8e9f5865963d020f@2057308263_oswg92947oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">来源：生数科技</p>\n  <p>在展区，爱诗展示了7月14日刚上线的游戏引擎PixVerse Game。用户可以通过输入文字Prompt，或者基于模板直接生成一款无限生成的影游。</p>\n  <p>“实时互动生成”，是这款游戏引擎的特点。比如，当我们输入“将敌人变成狮子”的指令后，游戏剧情中的蝎子就变成了狮子。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_a6400ba8f747491f943f84a46b65f2ca@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">爱诗游戏引擎PixVerse Game</p>\n  <h3><strong>芯片：中杯、大杯、超大杯</strong></h3>\n  <p>半导体依然是2026年AI圈最热的话题——无论股市的涨跌还是供应链的悲喜，都绕不开它。</p>\n  <p>走进任何一个半导体展位，都难以躲开汹涌的人潮。而今年参展的芯片厂商恨不得把展示模型做得越大越好，仿佛这样才能凸显“超节点”的气势。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_8595841733d44e45b956532bb8eb102f@2057308263_oswg216560oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">华为昇腾950超节点</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_56cc91fd410041efa3b68bbf0deedb6d@2057308263_oswg195529oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">沐曦科技曦景S600超节点</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_d89994f9ae0c47009bf2c6a9d3ae862a@2057308263_oswg157881oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">中兴OEX超节点</p>\n  <h2><strong>扎堆的应用，花样百出的AI硬件</strong></h2>\n  <h3><strong>腾讯：只要用我的AI产品，都是我的好Buddy</strong></h3>\n  <p>2026年，Agents，尤其是虾类产品（OpenClaw），是腾讯AI当之无愧的一个亮点。</p>\n  <p>走进腾讯的展台——你能想到的Claw产品都在这了，C位则是WorkBuddy——如今国产类OpenClaw产品的领头羊。</p>\n  <p>除此之外，你也可以体验到WorkBuddy、CodeBuddy、QClaw、Marvis、吐司、Miora（妙镜）、ClawPro等，以及面向智能体搭建的开发平台和云平台。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_351647f00c564b1289bf25894c56289b@2057308263_oswg121836oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">腾讯QClaw、Workbuddy、CodeBuddy</p>\n  <p>腾讯高突猛进的模型成果，也吸引了不少观众。首先，除了前两周发布的Hy3正式版，能实现毫秒级生图的图像3.0模型、3D生成引擎v3.0和世界模型2.0也有亮相。</p>\n  <p>现场还放置了一个关于Skillhub的Skills娃娃机，随机掉落Skill介绍和Token权益。此外还有一些互动小装置，如手绘表情包生成器，可以绘制出自己的专属表情。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_a3b06c2c31a945a0a95b6e6d086cc1eb@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">手绘表情包生成器</p>\n  <p>展会现场，腾讯在展位上搭了一台高约两米的巨型屏幕，当观众的手机连上，向数字助手发出指令，大屏会实时直播AI后台的思考过程：拆解任务、搜了什么资料、调用了哪些工具。任务跑完，就能在微信或企业微信里看到结果。</p>\n  <h3><strong>蚂蚁：敢不敢称称自己几斤几两？</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_4ba1aeacd29541b586fbef0437712bbf@2057308263_oswg801665oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">蚂蚁阿福</p>\n  <p>在一众秀肌肉的AI展台中间，蚂蚁的“阿福”展位画风清奇——玩法很简单：现场踏上体脂秤，称出自己“几斤几两”，就能免费把这台秤带回家。（在40度高温暴走暴汗一天的我们表示：不用称也知道今天瘦了……）</p>\n  <p>目前，阿福已经陪伴全国人民累计减重135万斤，超过100万斤的目标。阿福希望作为你的AI减重搭子长期陪伴，督促你管住嘴迈开腿。</p>\n  <p>减重只是阿福的其中一个能力。目前，阿福用户已突破1亿，日均处理超1000万次健康咨询，并且还在发挥更大的作用——帮助偏远地区的留守老人、乡村医生。以往，服务村民健康一线的乡村医生，往往要独自负责上千人的健康，自身也面临年龄偏大、专业水平参差不齐等困难，有了阿福，看病效率能够明显提升。</p>\n  <h3><strong>百川：AI基模厂商里最懂看病的</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_78e1344e270449b7ba4bc406959e0367@2057308263_oswg841716oswg828oswg622_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">百川智能</p>\n  <p>百川智能在WAIC展出的核心应用，是5月份发布的“百小医”，一款定位为“全病程管理”的AI家庭医生。</p>\n  <p>这款AI家庭医生想包办你看病的全流程：看病前帮你梳理症状、别到了诊室一问三不知；看完病帮你读懂那张天书般的检查报告；日常还替全家记住复查、吃药和体检日程——比家人催你还准时。还能替全家记住复查、用药和体检的日程。目前，它同时提供App和微信机器人两个入口，共享同一份健康档案。</p>\n  <p>展台墙上一字排开三块大屏：肿瘤科AI助手、AI肿瘤医生、AI儿科医生，从帮患者“听懂自己得了什么病”，到帮医生做治疗决策，再到解决儿科用药剂量拿捏不准的老难题，构筑了一套医疗决策支持系统，帮助医生提供更优质的治疗决策。</p>\n  <h3><strong>Rokid：看一眼，就付款</strong></h3>\n  <p>如果你想在Rokid展台买一杯咖啡，工作人员会告诉你，戴上Rokid眼镜，看着支付宝二维码，说一声“乐奇，支付xx元”，就能成功付款。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_87eeba755f084794a076adb0a6abada9@2057308263_oswg85708oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Rokid</p>\n  <p>背后，Rokid打通了支付宝和微信两大支付系统——这也是全球首家打通支付体系的AI眼镜厂商。为了确保支付足够安全，Rokid采用了声纹识别技术，并且搭建了账号绑定和授权系统。</p>\n  <h3><strong>东亚家庭的AI硬件，教学是基本功</strong></h3>\n  <p>在AI硬件扎堆的WAIC，对家长有致命诱惑的一句介绍词是：“我们可以教孩子。”</p>\n  <p>灵宇宙带来的是今年5月30日上市的一款掌上小方机，提供了“拍照实物”“AI角色教学”“AI相机”等功能。工作人员告诉我们，小方机上架京东的首日销售额就达到了百万元，“买的都是不想让孩子玩手机的家长。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_25ab91feb24e494e9d0dc447b88d6b3b@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">灵宇宙掌上小方机</p>\n  <p>教学的理念，也融入了不少主打情感陪伴的AI玩具中。比如AI情感陪伴社区“测测”背后的心言集团，展出了家用机器人Bubbo 1。在陪伴之余，工作人员介绍，Bubbo还开放了二次开发接口，能够让孩子在互动的过程中学习编程。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_831413d71f3b40178bd3f3cd270dbbdf@2057308263_img_gif?x-oss-process=image/quality,q_90\" /></p>\n  <p class=\"img-desc\">心言集团家用机器人Bubbo 1</p>\n  <h3><strong>讯飞：能让孔子“穿越”回现代的AI黑板</strong></h3>\n  <p>除了进家庭的教学硬件之外，AI还在以另一种形式进入学校教学。</p>\n  <p>讯飞的同窗AI黑板不仅是一块黑板，它还长出了眼、耳和大脑，能作为AI助教同步开展课程教学。在抽象的立体几何、跨越时空的历史人物等教学需求上，AI黑板能带来完全不同的体验。</p>\n  <p>它还能复制出教师的数字分身，想象一下，上自习的时候打瞌睡，黑板能用班主任的声线马上提醒同学，这不得一个激灵马上清醒过来。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_c4762c5311de43f7800d8fdec9136f84@2057308263_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">讯飞同窗AI黑板</p>\n  <p><strong>封面来源｜作者拍摄</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_23d8000a423b445b93a7058c519fa360@2057308263_oswg66520oswg900oswg500_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">👇🏻&nbsp; 扫码加入「智涌AI交流群」👇🏻</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_58f6b0ff62fb4edea29ee09b52dc156c@2057308263_oswg53751oswg900oswg335_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">欢迎交流</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/W7FX1nqEx-V9LSkwXBED7A\" rel=\"noopener noreferrer\" target=\"_blank\">“智能涌现”</a>，作者：智能涌现编辑部，36氪经授权发布。</p>",
-      "category": "tech",
-      "published_at": "2026-07-20T01:20:44+00:00",
-      "fetched_at": "2026-07-20T03:23:39.051582+00:00",
-      "fingerprint": "b922de401f1b1fbb"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
-      "url": "https://36kr.com/p/3901396207584902?f=rss",
-      "summary": "<p>腾讯云的企业级智能体平台，正式出海了。</p>\n  <p>7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。</p>\n  <p>ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。</p>\n  <p>简单来说，它解决的是企业智能体从建立、运行到管理的问题。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260719/v2_889aa2ddb3f543e0ac25904b96326611@2057308263_oswg883734oswg1268oswg710_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">智能体开发平台 ADP 4.0海外版</p>\n  <p>这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Telegram 等主流海外社交渠道，一站发布即可跨区域触达全球用户；</p>\n  <p>而在交互体验上，智能工作台支持自定义时区与多区域调度，模型输出可跟随用户输入语言自动响应；</p>\n  <p>在开放生态上，模型广场已经接入多家国际主流大模型，平台 Skill 完成国际化适配；并且，平台深度接入 Google Workspace、Confluence、Jira 等海外主流 SaaS 应用。</p>\n  <p>ADP 4.0的一个关键能力升级是 Agent 与 Workflow 双向互调。吴运声在采访中解释了这个设计的逻辑：企业在实际使用中，有些事情是模糊的、开放的，适合用 Agent 方式处理，这会消耗较多 Token；但一些确定性的流程，可以用 Workflow 来做，不需要反复消耗 Token。两者结合，既满足业务需求，又降低成本。</p>\n  <p>这套逻辑在国内也已经有了标杆案例。比如，找钢网基于 ADP 4.0 Claw 模式搭建了企业中台数字员工，接入企业微信，覆盖订单、物流、财务、仓库、发票等多类场景。Agent 负责理解开放问题，Workflow 负责执行严谨业务流程，两者在同一个应用中协同工作。</p>\n  <p>海外市场，ADP 4.0同样已有落地成果。如今，某大型医疗集团利用 ADP 构建了覆盖智能导诊、门诊预约、急诊风险识别等全流程的 AI 医疗助手，预计可独立处理80%以上常规咨询和预约，整体预约效率提升50%以上，患者平均等待时间缩短30%。而另一家海外头部运营商基于 ADP 重构统一客服平台后，整体运维成本预计降低30%-40%，新业务上线周期从数周缩短至数天，应用开发效率预计提升70%以上。</p>\n  <p>吴运声在采访中表示，ADP 的客户数较去年至少翻倍增长。他将增长归因于两点：一是今年 Agent Loop 能力变强，以前不太好做的事情在能力上已经可以支持；二是客户在日常生活和工作中已经被教育了，教育成本大大降低。</p>\n  <p>尽管当前ADP仍以国内市场为主，海外重点看东南亚等区域，会综合考虑市场人口、基建情况、政治环境和对华关系。在印尼，腾讯云已经做了不少私有化项目，在企业内部安装部署智能体。</p>\n  <p>值得注意的是，吴运声在发布中还提出了“十大行业百大场景生态计划”，邀请生态伙伴从客服、经营分析、交易自动化等高频场景切入，依托 ADP 底座和伙伴的行业 Know-how，把智能体带进千行百业。同时，腾讯云还升级了腾讯乐享 Agentic 知识库作为知识底座，与 ADP 的能力底座形成配合。</p>\n  <p>2026年，OpenClaw带来的Agent热潮，也让很多企业迅速将Agent应用到生产流程中。当被问及 WorkBuddy 和 ADP 的关系时，吴运声打了个比方：WorkBuddy 像是员工个人的智能助手，企业管理者未必知道员工用了什么；而 ADP 是云端一体化方案，做好的智能体可以发布出来供团队使用，使用情况对企业完全透明。两者是并存关系，面向不同场景。</p>\n  <p>进入2026年，企业级智能体赛道正在快速升温。吴运声认为，企业最关心的是可信、可控——“我得知道到底是谁做了什么，后面所有东西都要可审计、是安全的。”这也是 ADP 相较于个人级智能体产品的核心差异：管控性更强，可以设定权限，支持全链路可观测和审计，并能直接集成到企业原有的 CRM 或 OA 系统中。</p>\n  <p>从更大的视角看，这次 ADP 4.0海外版发布，是腾讯云将国内打磨成熟的企业级智能体能力向全球市场输出的关键一步。中国模型的性价比优势已经被海外中小企业认知，而企业级智能体平台的出海，意味着竞争从 Token 层上升到了应用层。</p>\n  <p>&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-07-20T01:30:27+00:00",
-      "fetched_at": "2026-07-20T03:23:39.051578+00:00",
-      "fingerprint": "58ff93039dd79c0d"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
-      "url": "https://36kr.com/p/3903365398185857?f=rss",
-      "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>封面来源｜Pexels</p>\n  <p>中国低轨卫星星座的规模化部署已经进入关键时间窗口。</p>\n  <p>一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。</p>\n  <p>当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：<strong>卫星组网之后，要给谁用、怎么用？</strong></p>\n  <p>这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。</p>\n  <p>一家成立不到半年、聚焦“无人系统通算融合”的初创企业<strong>「星联天枢」，近日正式宣布完成数千万元天使轮融资</strong>，这也是星联天枢完成的首轮融资。</p>\n  <p>简单来说，星联天枢的核心业务是让无人机、无人车、无人船等无人系统，通过一套极轻的卫星通信终端直连卫星，并将采集到的数据在卫星上完成AI处理与决策，再把结果回传地面——<strong>这套“地数天算”的模式，不是单纯的卖设备，而是要把通信和算力打包，面向无人系统提供通算一体的服务解决方案。</strong></p>\n  <p>这也是一个信号。它意味着，在中国低轨星座从试验验证走向规模化商用的过渡期里，产业链条上的创业者们已经开始深入更具体的应用场景，去<strong>探索太空基础设施能力到底如何变现这个关键命题。</strong></p>\n  <h2><strong>为什么是现在？为什么是无人系统？</strong></h2>\n  <p>星联天枢的核心班底来自中国电科54所、航天八院和中科院，创始人程英辉的履历带有鲜明的“国家队”底色。2013年至2024年间，他任职于中国电科54所，历任卫星通信系统主任设计师、副总师、总师，深度参与低轨卫星互联网工程、某高轨卫星通信系统等重点型号。</p>\n  <p>驱动程英辉下场创业的核心要素是产业拐点的到来——中国的火箭技术、卫星平台整合能力不断进步，卫星互联网已经从过去的小众赛道走进全球视野，Starlink的演进路径也让他相信，“接下来，中国在卫星通信和通算一体方向上，会迎来一个大的爆发。”</p>\n  <p>而关于<strong>“为什么选择从无人系统切入”</strong>，则指向更深层的产业判断。</p>\n  <p>程英辉对无人系统的定义比较宽泛，涵盖无人机、自动驾驶汽车、无人船、具身机器人等各类平台。他认为，<strong>在接下来的3-5年，这些来自不同领域的无人系统会是卫星互联网核心的增量用户群体。</strong></p>\n  <p>需求是紧迫的。</p>\n  <p>一方面，无人系统对网络有刚性需求，地面网络在很多场景下难以满足，比如无人机飞上百米高空，地面网络连接就会基本中断，远洋无人船更近乎是通信孤岛。在这些场景中，卫星互联网就是一个很好的解决方案。</p>\n  <p>那么，既然数据上天是最优解，“只做通信”和“通算一体”之间该怎么选，就变得非常明确。卫星数据流量原本就比地面要贵，相比把所有原始数据都传回地面再处理，在星上完成数据处理并回传决策结果，流量成本更低、时延更短。</p>\n  <p>“无人系统会是最快需要‘上天’去计算数据的一类用户，这也是我们提出通算一体的初衷。”程英辉说。当然，未来的无人系统通信，并不是要用户在卫星和其他方式之间做选择，而是会走向星地融合的立体网络，根据任务需求、所处环境、成本预算等因素，智能地选择最优链路。</p>\n  <p>不过坦率地说，这个方向还处于早期建设阶段。</p>\n  <p>国内两大低轨星座都还没有正式商用，流量费的定价体系尚未建立，星上智算能力仍需验证。这意味着无论是终端设备的大规模出货，还是通算服务的商业模式跑通，也都还需要等待上游基础设施的进一步成熟。</p>\n  <p>程英辉对时间的判断相对冷静，“市场真正爆发，快的话三年，慢的话五年。但到了那个时间节点，我们也会真正形成自我造血的能力。”</p>\n  <h2><strong>太空算力的路径分野与现实选择</strong></h2>\n  <p>如果把实现“通算一体”的长期目标拆开，星联天枢现阶段重点要做的其实是两件事：<strong>一是让无人系统能稳定地直连卫星；二是在卫星上能针对无人系统的特定数据做高效处理。</strong></p>\n  <p>这两个目标也分别指向其现阶段的两款核心产品，无人系统的智能卫星终端，和面向无人系统的星载智能计算载荷。</p>\n  <p>在端侧，要把产品尽可能地做到轻量化，尤其是在航空场景中，重量和体积的优化直接对应客户真实的使用和决策门槛。星联天枢第一款面向无人系统的智能卫星终端重量为2kg，据悉是目前国内最轻量化的Ka波段宽带卫星通信终端。</p>\n  <p>星侧产品的技术难度和研发周期显然更“重”一些，值得关注的点在于其架构路线选择的差异化。</p>\n  <p>与“堆GPU算力”的方案不同，星联天枢采用异构计算架构。这背后的逻辑是，不追求绝对的算力峰值，而是基于需求场景，从无人系统的数据特征反推技术路线与硬件设计。</p>\n  <p>“无人系统承载的载荷类型太多了——光学、红外、SAR、激光��达，各种数据类型都不一样。如果全部用GPU来处理，效率很低，成本和功耗都高。”程英辉提到，“我们是瞄着最早需要上天处理的数据来做产品定义，那硬件架构就需要适配不同类型的数据。”在星上功耗和散热能力有限的现实条件下，这种适配性设计在工程上更具可行性。</p>\n  <p><strong>只有当端侧和星侧的部署进一步上量，数据才能真正协同起来，形成“通算一体”的解决方案。</strong>从产品验证到规模扩张，这个过程大概也需要3到5年。</p>\n  <p>对星联天枢来说，今年最重要的两件事情是，自研卫星终端产品要尽快落地，预计在9月推出首批样机，目前已与国内某应急管理无人机项目、新能源重卡企业、某交通集团等达成合作；年内完成地面的“无人系统地数天算”验证系统搭建，先把整个流程在地面跑通，明年再推进到星地联合实验阶段，把算力载荷真正打上天去做在轨验证。</p>\n  <p>一个远期目标是，程英辉希望星联天枢能够成为无人系统领域的头部天基通信智能服务商。</p>\n  <p>这个方向的选择，某种程度上也折射了国内太空算力赛道的路线分野。</p>\n  <p>当前国内押注太空算力的公司大体可以分为两类。一类是想直接构建天基数据中心的玩家，路径更接近“先搬算力上天，再慢慢降成本”，对标的是星舰+Starlink的远期逻辑，实现前提是火箭发射成本、卫星能源系统、散热技术、芯片抗辐照等关键瓶颈的逐一打通。另一类则是星联天枢选择的，不直接与地面算力比成本，先在无人系统等刚性场景中形成闭环，再向更大的生态扩展。</p>\n  <p>两种路径背后，是对太空算力产业化时间节奏判断的差异。</p>\n  <p>在程英辉看来，<strong>太空算力成本追平地面还需要很长时间，聚焦无人系统的通算服务，优势就在于商业闭环的节奏更快。</strong>至少在卫星初步组网之后，先解决给谁用、怎么用的问题。</p>\n  <p>看向更远的未来，他们也在试图回答一个更大的问题：当卫星互联网不再是稀缺资源，太空基础设施之上的应用层会是什么样子。</p>\n  <p>对一家成立不足半年的初创公司而言，谈终局还为时过早。但至少，它给出了一个不同于“搬数据中心上天”的解题思路。而从方向正确到商业跑通之间，星联天枢还需要用产品落地、客户验证和在轨数据，一步步填平这段所有硬科技公司都绕不开的路。</p>",
-      "category": "tech",
-      "published_at": "2026-07-20T02:30:06+00:00",
-      "fetched_at": "2026-07-20T03:23:39.051573+00:00",
-      "fingerprint": "b81a7f773aa25518"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
-      "url": "https://36kr.com/p/3903383663478403?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_e32de2f0c5594d36a095422c0a59723b@6381723_oswg61886oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_1cdcfc695e2f43fd9e7364eee2f1c101@6381723_oswg798oswg900oswg60_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_d08ee0ce6d4e4952ad83fd01f664b6ff@6381723_oswg269oswg900oswg80_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_6a8f9842a04c4e47b84d024f6f5a2e2f@6381723_oswg284oswg1080oswg26_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。</p>\n  <p>这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案。</p>\n  <p>这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。</p>\n  <p>作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办。本届大会以“智能伙伴共创未来”为主题，聚焦人工智能前沿技术、产业应用与生态协同。作为大会生态合作伙伴与特别支持媒体，36氪将继续以“氪话未来直播间”为内容窗口，深入WAIC第一现场，通过“直播对话+探展直击”的形式，连接大会、企业展台与产业现场，把复杂技术讲清楚，把产业变化讲透彻，把AI正在发生的真实进展带给更多观众，又或许是潜在的合作伙伴。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_6d35d3e8cbf74575b4b4bd09ec083535@6381723_oswg6453oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;直播对话：聊透“AI战术板”</strong></h2>\n  <p>AI行业正在进入一个更侧重“解决方案”的阶段。</p>\n  <p>过去，行业讨论的重点是模型、参数、算力和技术路线；现在，更多问题指向了真实业务：一个Agent如何真正进入招聘、医疗、办公、汽车服务等行业流程？一家AI企业如何从产品能力走向交付能力？一个智能系统如何与人的工作方式重新配合？</p>\n  <p>今年“氪话未来直播间”将带来一场AI Agent专题对话，以禾蛙Domi猎头Agent首发为切口，观察智能体进入专业服务流程的真实路径。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_801106b4cb79499b9d4f9ba505ef78ff@6381723_oswg75486oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>精彩看点：</strong>7月17日15:00-15:40 Domi来了：���头Agent首发丨禾蛙WAIC 2026</p>\n  <p><strong>看点前瞻：</strong>当Domi进入猎头行业，它改变的可能不只是简历筛选效率，而是岗位理解、人才匹配和顾问协作的整个流程。猎头Agent能否理解复杂岗位需求？能否降低企业、顾问与候选人之间的信息摩擦？这场对话将从Domi首发切入，观察垂类Agent走向真实业务现场的路径。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_af27b62758b7417ba11d796bc8b89170@6381723_oswg10273oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 探展直击：</strong></h2>\n  <h2><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;今年WAIC，36氪继续“暴走”</strong></h2>\n  <p>如果说直播对话回答的是“行业正在想什么”，那么探展要回答的就是“技术正在改变什么”。</p>\n  <p>今年WAIC现场，36氪将化身“战地记者”带领观众深入创新“前线”，通过探展直播的形式，开启一场从技术突破到应用落地的沉浸式探馆之旅。观众将走进穹彻智能、华沿机器人、易鑫集团、联汇科技、PPIO、阿里云等企业展台，围绕AI基础设施、汽车消费服务、空间智能、具身智能与通信连接等代表性方向，近距离了解人工智能技术如何从模型能力走向真实场景。从AI视频创作到机器人服务，从智能终端到AI应用基础设施，36氪将通过现场演示、企业交流与产品体验，呈现不同企业在人工智能领域的创新探索，带观众发现AI技术背后的产品价值与行业变化。</p>\n  <p>沿着暴走团路线，向大家提前剧透：</p>\n  <ul>\n   <li>走进穹彻智能展台，你或许会发现，机器人离真正\"上岗\"已经比想象中更近。从真实数据采集到模型训练，再到商业场景落地，穹彻智能将完整展示其具身智能技术路线，呈现机器人如何不断学习、持续进化并参与真实服务。那么，机器人如何从一次次真实交互中积累经验？支撑机器人能力提升的数据体系是如何构建的？具身智能距离规模化商业应用还有多远？或许在这里，你会看到具身智能迈向规模化应用的更多可能。</li>\n   <li>华沿机器人展台将展示七轴人形手臂HY7与ECHO5系列产品，我们可以在现场看到机器人完成电子迷宫挑战、挥手互动等任务，并通过VR遥操作体验机器人在远程控制下执行物品递送等动作。除此之外，华沿还将展示结合中医大模型的AI理疗机器人，呈现具身智能在健康服务场景中的探索。在现场我们可以直观感受到人形手臂如何实现更加精准灵活的动作控制？具身智能机器人如何从单一功能展示走向真实场景应用？</li>\n   <li>在易鑫展台，我们将看到AI如何重塑汽车金融服务流程：从分期预审、身份认证到审核放款，首次发布的AI智能一体机将传统线下冗长的办理流程压缩为更高效、更注重隐私保护的自助体验，数字人提供7×24小时全程引导服务。在现场我们还能进一步感知一体机背后的AI实力。通过Ai demo演示，了解多个AI Agent是如何自主协同运作，驱动外呼、智能风控、客服等汽车金融服务全链路。这些原本发生在后台的智能能力，都将在现场得到更直观的呈现。</li>\n   <li>一套模型，能不能同时驱动无人机、PC和可穿戴设备？Om AI联汇给出的答案就在展台现场。搭载VLX系列端侧流式多模态模型的多款终端产品将集中亮相，其中，自主无人机将成为展台的一大看点。从无人机、PC到可穿戴设备，一个多模态模型如何适配不同终端，并实现视觉理解、内容创作与智能交互？现场还将展示模型在巡检、办公、可穿戴等多个场景中的落地应用，带你近距离了解端侧物理AI如何真正走向日常使用。</li>\n   <li>PPIO展台将带你走进AI Agent的“工作现场”：从模型调用、工具协同到复杂任务执行，Token工厂、Agent沙箱与Harness平台将完整演示智能体运行的全过程。看完现场演示后，你将更加理解AI Agent为什么需要自己的“工作环境”?开发者又如何让它24小时在线、安全稳定地完成任务？如果你想知道下一代AI应用是如何真正跑起来的，不妨来这里寻找答案。</li>\n   <li>在阿里云展台，你会看到AI如何从一块芯片、一组算力，逐步走向企业的真实应用场景。从平头哥自研AI芯片、智算基础设施，到通义千问大模型及企业级Agent平台，阿里云将展现人工智能从技术底座到产业实践的完整路径。我们可以看到企业如何借助大模型快速构建专属智能体？工业制造、科学研究、金融办公等领域又如何通过AI实现效率提升？现场多个应用案例，将呈现AI加速融入千行百业的新趋势。</li>\n  </ul>\n  <p>今年的“氪话未来直播间”，36氪希望做的，不只是带着观众看热闹，更是把展台背后的技术路径、产品逻辑和产业变化讲清楚。</p>\n  <p>从AI Agent到具身智能，从空间智能到AI基础设施，从汽车消费服务到端侧多模态应用，AI正在进入越来越具体的业务场景。它不再只是一个被讨论的技术方向，而是正在变成企业产品、服务流程和产业协作的一部分。</p>\n  <p>7月17日-20日，锁定36氪视频号、36氪抖音账号@氪财经，36氪“氪话未来直播间”，以及36氪微博。我们将在WAIC2026现场，和你一起看见AI走向真实世界的最新进展。</p>\n  <p><strong>更多现场报道，扫码查看WAIC专题页：</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_c794b2a8cd8943b79ab5668fa85577b6@6381723_oswg33981oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_1dabeb52dba94db7a72543f73a38888b@6381723_oswg237740oswg1080oswg596_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_719e69a87bb04561b5ece95701b8d6b3@6381723_oswg4950oswg1080oswg72_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-07-20T02:49:41+00:00",
-      "fetched_at": "2026-07-20T03:23:39.051565+00:00",
-      "fingerprint": "8c14075b7fd0baa3"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
-      "url": "https://36kr.com/p/3903396279125888?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_f53cbd875e6d4c2f97ef3a292cadebb9@6381723_oswg1461014oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">6个年轻创业者在WAIC的故事</p>\n  <p><strong>文｜温丽虹 王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>在上海世博的WAIC现场，想找初创公司的主场H4得颇费一番功夫。</p>\n  <p>经安检进入主会场，远远只看到会场墙壁上H1到H3的标识。跟随汹涌人群挤进一楼主展馆，几名忙着操纵具身智能机器人的知名厂商工程师翻了翻他们群聊里的展会地图，抱歉地告诉我，他们也不清楚：“这里只有H1到H3，没有H4。你是不是去分会场找找？”</p>\n  <p>属于初创团队的场地在主展馆地下一层偏居一隅，一道亮黄色的大门默不作声地支在场馆西北侧的角落。穿过这道大门，就是遍布初创公司的一方天地。</p>\n  <p>来之前，我们知道并非所有的AI创业者与科创公司都对参加WAIC怀抱热情。但对于手握产品与创业理想，又欠缺助力的初创团队来说，参与这次展会是一件有点“不得不去”的事情。</p>\n  <p>你能轻易辨认出那些为这个机会拼尽全力的人。他们中的一些人，手中用于演示的样机还贴着临时修补的胶带，但站在那里时，目光总在捕捉每一个放慢脚步的观众。一天下来，他们所做的，就是把产品的逻辑和未来的愿景一遍遍说给人听。</p>\n  <p>也有些人，连展位的方寸之地都无法拥有。他们穿梭在展馆的人流里，胸前挂着的参会证可能是整个团队团队唯一的入场凭证。接到一个现场互动辩论环节的邀请，他们从深圳奔赴上海，只为了在活动方既定的规则内，见缝插针地向现场观众介绍自己的产品和愿景，在一两句话之内讲清楚自己是谁、在做什么，并且期待台下海海人群中，有伯乐精准地识别到与他合作的可能。</p>\n  <p>凡此种种，这些即时、高强度的自我推销，本身就是一种稀缺的能力，也是许多初创团队的创业者在资源匮乏中不约而同习得的生存技巧。尽管他们中的很多人，在过去有着光鲜的职场履历，但投身创业后，这些履历能帮上忙的地方很少。</p>\n  <p>不少团队告诉我们，拿到一个展位，交费是最后的事情，如果没有被基金、孵化园等推荐，初创团队往往没办法拿到这张入场券。而对于OPC而言，进场的方式更为严苛，要从近700个项目里争夺22个席位，录取率约为3%。</p>\n  <p>能拥有一个展位，即便只有5平米不到，在参展者眼中也极具诱惑力。它意味着一次连续3天不间断地被外部世界看到、被询问、与人交换联系方式的机会。这种机会，在许多初创团队日常的创业生活里是稀缺的。</p>\n  <p>除了研发产品，他们的时间通常被寻找资金和出路占满，与之相对的是，他们与外部的连接往往局限。大大小小的展会，是少数能让他们的产品与真实世界发生接触、进行自我表达的机会，像WAIC这样量级的超大型展会，更是难能可贵。没有一个需要机会的人，会拒绝这样一个展位。</p>\n  <p>我们和其中的一些人聊了聊，想知道在起点处，当资源、人脉、关注都尚未到来的时候，他们付出了怎样的代价站到了这里，又是以怎样的野心面对世界与未来。</p>\n  <h3><strong>故事一：被塞满的日程表</strong></h3>\n  <p>曾歆勋从深圳来。他没有展位，只有一张参会证。周四登上从深圳飞往上海的航班时，他带了一张参会证和一张排满的日程表。</p>\n  <p>他们全部的展示机会就是在腾讯小程序在现场举办的快闪活动上，一个互动辩论环节。这个活动不是路演舞台，有自己的流程和规则。曾歆勋要做的，是在规则之内找到一处处间隙，把自家的产品与自己对市场的观察和信心讲出来。这不是一个完美的契机，但却是会场内仅有的机会。</p>\n  <p>曾歆勋的产品叫“良配”，一款基于AI的婚恋应用。</p>\n  <p>现场辩题是“AI情感产品要‘用完即走’还是‘长期粘性’”。曾歆勋站的是正方，“用完即走”。他拿过话筒阐述观点：婚恋场景里，用户真正需要的不是跟AI一直聊下去，而是在最短时间内找到对的人，然后离开产品，回到真实的关系里去。产品退居其后，人才是目的。</p>\n  <p>这个阐述，也符合“良配”的理念。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_c93a85fe1dce44ecbecc27fdb561a4dd@6381723_oswg93630oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△曾歆勋在WAIC现场</p>\n  <p>对曾歆勋这样的初创者来说，这场大会在几天之内把投资人、产业方、媒体、开发者、潜在合作方都压缩进了同一个空间，制造了一个难得一遇的临时生态。平时散落在各个城市、各个写字楼里的人，这几天都在同一个场馆里走动，人和人之间的边界暂时模糊了。</p>\n  <p>他把这几天的行程排得很满。周四到上海就去见投资人。周五参观WAIC的展览，中午和一位投资方吃饭，聊了整个下午。周六上午和FA沟通，下午参加微信开发者活动。这些日程延绵到周日，穿插着数个正式的媒体访谈。周一离开上海，他也不回广东，而是去南京见一位综艺导演，准备通过与婚恋综艺的合作，把自己的产品推到更多用户的面前。</p>\n  <p>融资和PR，是他现阶段最重要的事。团队的计划分两块：一边做用户增长，另一边投入模型研发，让大模型学会人际关系匹配。两件事都需要钱，都需要被看见。</p>\n  <p>过去一整年，他几乎都把自己关在深圳南山的办公室里，带着研发团队训模型、开发产品。曾歆勋上一份工作在Kimi，他说杨植麟也是这个节奏，研发阶段隐于人前，全身心投入产品和团队，到了需要推向市场的节点，再频繁出现，为产品站台。</p>\n  <p>“创始人需要时刻知道，此刻哪个环节最需要我。”曾歆勋说。现阶段，那个环节在融资，在PR。在上海的五天，他把自己从产品里拔出来，装进一张排满的日程表里。</p>\n  <h3><strong>故事二：商汤001号员工和他AI家庭成员</strong></h3>\n  <p>Leo的展点，是模力社区展位内的一张桌子。模力社区是上海张江打造的垂类模型产业生态集聚区，这次WAIC，他们在自己的展位上划出一片区域，入选团队都能分到一张桌子，Leo在把带来的样机、一台用于展示的电脑和一叠宣传册摆在了桌子上。</p>\n  <p>Leo和团队的产品叫CookiePi，一款AI角色互动硬件，由一个Cookie触发器加多个Pi角色端组成。用户把角色端放进玩偶、手办、家居摆件里，可以让AI角色以具身形态散落在生活空间里，主动聊天、即兴表演、共同生活。</p>\n  <p>团队创始人叫徐持衡，是商汤科技001号员工，师从汤晓鸥教授，与团队共同开发的人脸识别技术，是商汤科技早期最重要的技术里程碑之一。2025年他创办酷奇奇，WAIC举办前，刚刚宣布拿了数千万元种子轮融资。</p>\n  <p>但在WAIC的这张桌子上，这些背景不写在脸上。观众走过来，Leo需要在一两句话之内讲清楚这是什么、能做什么。一天下来，这套动作重复几十遍。左右都是别的团队，声音互相干扰，观众的注意力随时被旁边的演示拉走。</p>\n  <p>这张桌子对她来说，是这段时间的一个锚点。从5月到现在，团队在跑内测、迭代产品、追每一波流量，节奏快到来不及停下来看一眼自己走了多远。展会逼着他们停下来，把样机摆出来，把产品逻辑讲清楚。在这个过程里，她能感觉到哪里还不够、哪里已经立住了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_05c4cde5f35c47bf8fbf7e7f7af18ea4@6381723_oswg143060oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△酷奇奇展位</p>\n  <p>早在两个月前，科技博主“小狮日记”发了一条视频，用AI手搓智能家庭成员，全网播放超过2000万。那条视频不是酷奇奇投放的商单，但酷奇奇的投资人、合作伙伴、上下游都以为在说酷奇奇。</p>\n  <p>“小狮日记”在视频里埋了一句话，说在找这样子的硬件量产团队。Leo看到了，不仅抓紧时间联系“小狮日记”，也用官号去视频评论区，一条一条地，对每一个说“想要量产”的人说：我们可以。以前她没做过这种在评论区拉人的事。问她会不会怕尴尬，怕被讨厌。她说：“天降流量，考虑不了到底会不会被讨厌，我先试了以后再说。”那天她从评论区捞了30个用户。后来与小狮日记谈合作，怕对方“开溜”，一旦发现对方站起来，她就赶紧按住肩膀：“你等一下！”</p>\n  <p>近期，为了建立用户付费意愿，和用户使用体验反馈基准测试，Leo开始了付费1000元的MVP测试。参与用户每天需要回答体验感上的问题，包括设备操作是否流畅、角色是否“聪明”“懂你”“有个性”。测试测试日期最后一天的问卷里，会直接问：“如果再也不能使用CookiePi你会失望吗”，80%以上的用户填了“会非常失望”，甚至有人在归还设备的时候郑重其事地拍了告别视频，叮嘱酷奇奇的运营同学，“早点让我和比奇堡家族再见面”。</p>\n  <p>这批用户的使用时长，也超出了预期。很多人一次用两个小时，如果不是机器没电，她们还能继续聊。为此，酷奇奇做了防沉迷，让机器在充电时不能用。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_aeca136f88244df2a13318dd4823e3dd@6381723_oswg108706oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△酷奇奇团队与“小狮日记”团队</p>\n  <p>WAIC期间，有内测用户特地来场馆找Leo，想看看产品。三天下来，Leo觉得累但值得。</p>\n  <p>Leo想好了，回北京的第一件事就是要跟产品部门的同事商量定价。作为一款AI陪伴产品，随着新功能上线和迭代，token的成本不好预估，后续还有新功能要上，这不是一个简单的年费计划就能解决的问题。</p>\n  <h3><strong>故事三：如果Liblib做了你们的产品怎么办</strong></h3>\n  <p>“如果Liblib做了你们的产品怎么办？”刘如山在和投资人交谈中，被问到了一个这样的问题。</p>\n  <p>她不知道怎么回答。要和已经拿到多轮融资的同赛道明星创业公司直面竞争，她想不到怎么赢。与此同时，她还在面临着两件事：培养出的员工被竞争对手高薪挖角，已经过会的一轮融资最终被撤回。</p>\n  <p>Mulan AI（木兰AI）创立于2024年5月，除了刘如山外，还有两位创始人——前土豆网的7号员工与前携程网的20号员工。</p>\n  <p>刘如山近来时常感到愧疚，总念着那笔遭撤回的投资，觉得与自己脱不开干系。她认为，自己并不在一级市场严格的“创始人画像模板”当中，“如果我有从字节出来的产品经理的经历，或者有一个清北的学历，投资人也许就会投进来了。”她常常跟不同的人这样说。</p>\n  <p>刘如山曾经当过近五年的全职妈妈，在一家世界500强干了12年，还创下某SaaS公司史上最快升合伙人的记录。当ChatGPT出现后，她做出了一个大胆的决定：放弃稳定的工作，加入到AI初创的行列中。</p>\n  <p>Mulan AI是一家做视频营销Agent的初创公司。在H4展区，和他们一样在做AI视频的创业公司，有一整列，几乎涵盖了这一赛道的所有可能性。在Mulan AI的展位隔壁，是一家清北背景的年轻团队，在创业之初迅速拿到了第一轮融资。位居其中，Mulan AI并未显现出明显的过人之处。</p>\n  <p>Mulan AI是行业里最早推出融合画布、工作流与视频Agent的团队之一。区别于行业里常见的输入指令直接生成视频，Mulan AI可以让AI来进行画布编辑与工作流编排，将创作流程封装为可复用的工作流模板。具体来说，用户可以输入脚本，平台能一键生成统一风格的角色、场景、物品等数字资产，支持用户逐帧调整时长、旁白、视觉参数等细节，AI自动完成初剪。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_e12dde59994e48809cecff44f733e149@6381723_oswg213189oswg1080oswg628_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">���Mulan AI生成工作流界面，图源：官方</p>\n  <p>创业的世界里，不可能每个参与者都能品尝胜利的果实。一年来刘如山逐渐意识到一个现实：视频AI赛道的头部厂商，如Liblib等字节系创业公司，产品迭代速度相当快，与其直面竞争是不明智的。</p>\n  <p>这次来WAIC，她决定把融资的事情先放一放，希望能链接上更多的客户，并逐渐开拓海外市场，找到属于自己的位置。</p>\n  <h3><strong>故事四：想成为乔布斯的年轻人</strong></h3>\n  <p>SlashVibe是一台半个手掌大的灰色电脑外接设备，出现在WAIC现场时，它还是一台尚未覆漆的工程样机。王炳翰说，正如iPod之于乔布斯一样，这台SlashVibe只是他打开未来愿景的敲门砖。</p>\n  <p>他站在人群中的姿态带着一种难以言说的热忱，目光在人群中逡巡，捕捉每一个放慢脚步的观众，为他们讲述准备好的完整讲解，把产品的逻辑、团队的思考、未来的想象，一遍遍地说给人听。</p>\n  <p>王炳翰与合伙人罗丹滨的团队叫“自然映射”，产品是一台名为SlashVibe的外接硬件，帮助使用者更高效、有序地调用电脑里的AI Agent。为了站到WAIC的展位上，他们赶了半个月的工，第一次把嵌入式外机和软件部分完整串了起来。团队正调整设计形态，计划在11月投入生产，首批约5000个。设备的最终形态虽为无线连接，但为了现场演示的稳定性，他们还是决定用数据线把硬件与电脑连接起来，展出时，样机的链接线一端，上还贴着白色的临时用于固定的胶带。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_1b4c34bf016940e59e6b6920339d8d11@6381723_oswg130416oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△展会现场的SlashVibe样机</p>\n  <p>去年刚做SlashVibe的时候，很多人无法理解，为什么人们会需要一个新的交互设备来跟AI做输入和输出。投资人反复问他们：这个需求真的存在吗？到了今年4月再融资，同样的问题仍然被提起。王炳翰和团队花了很长时间，去解释“为什么”。</p>\n  <p>转变发生在6月30日。OpenAI发布了一款联名键盘，定位为面���AI开发场景的专用输入设备。等到7月再聊融资，王炳翰发现，问题变了。对方不再问“为什么要做”，而是问“你们要怎么做”。</p>\n  <p>“对大公司来说，证明一个需求的存在只需要说一句话。但对小公司来说，把同一件事讲清楚，要付出的则多的多。”王炳翰说。团队自创立就相信这个需求必然存在，信心的来源不是大公司的动向，而是前期反复做的用户访谈、用户体验测试和深度思考。OpenAI的入场让事情在外界眼中变得确定了，但这份确定不是由他们来完成的。</p>\n  <p>他把这称为“初创团队的无奈”，停了停又说：“但可能也是初创最有趣的地方。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_b26348e6b8c14bf78917d04a868da236@6381723_oswg172979oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△自然映射团队</p>\n  <p>王炳翰面对投资人时，总能感觉大家需要的是一种“非共识的确定性”：既要在共识形成之前入场，又要确定这个需求确实存在。这本身是一个悖论。一个产品在多数人还没看懂的时候投资回报才可能是更大的，但投资人又需要它被证明是“确定会被需要的”。在被证明之前，你不够确定，在被大公司证明之后，你又不是稀缺的了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_ea3dd6ec91624efab680efc2164efe75@6381723_oswg2319194oswg1080oswg2348_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△王炳翰</p>\n  <p>SlashVibe是王炳翰与罗丹滨实现野心的一个起点。他们的愿景，是做AI时代的入口。他把这比作乔布斯创造苹果手机的过程：“在造出来iPhone之前，先造出了iPod。SlashVibe就是我们的iPod，是我们展开愿景的第一步。”</p>\n  <h3><strong>故事五：3%的录取率</strong></h3>\n  <p>H4馆的175个项目中，有22个席位是OPC（一人公司）项目。获批展位入场前，近700个项目经历了八个赛区的“独立先锋挑战赛”，经历数轮比拼，决出了22个入场名额。</p>\n  <p>文浩因拿下武汉赛区的铜牌，以展商的身份进入了WAIC会场。</p>\n  <p>现场，他总是时不时从展位上消失——除了照顾自己的展位，他和很多OPC项目创业者一样，要抽时间去其它摊位串门，看看同行在做什么。对于这些“闯”出来的项目来说，WAIC是一次难得与行业见面、交流想法的机会。由于人手太少，他不得不在守住摊位和出门看看之间来回切换状态。</p>\n  <p>从腾讯离职后，文浩开始探索各种创业的可能性，他目前在做的是安全可信的Agent执行环境，并拿下了足够维持项目生存的订单。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_1a5914f1e377440987ba27e466b77f1f@6381723_oswg130023oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△偶尔空荡的摊位，图源：作者拍摄</p>\n  <p>对于OPC而言，让产品被看到，并不是一件容易的事情。</p>\n  <p>但文浩有自己的办法。WAIC开始前几天，他在自己的平台上做了一个关于WAIC活动汇总的网站，到今天为止，这个网站已经注册了2000多名用户。想要在短时间内快速获得用户，文浩的做法是，添加了50多个WAIC面基群，在群里做起了地推。</p>\n  <p>另一位OPC项目负责人崔永兴，做了个可以在微信对话框记账的小程序，叫“点记账”。为了推广产品，他开始坚持不懈地发小红书。最初这些推广帖子每天只有几十个浏览数，这显然不是他想要的。不过，他很快找到了窍门，切换路线转向了热门帖子的评论区，“帖子火了，连带着我的评论都能上千赞。”</p>\n  <p>靠着这个零成本的方式，两个月的时间里，点记账的累计用户数超过了两万。在付费订阅上，用户想要成为成为会员，30元即可永久买断。和微信高绑定、功能简单、容易触达用户，成了用户选择点记账的原因。</p>\n  <p>自今年5月被裁员后，崔永兴一直在专注做小程序创业。尽管收入暂时只够交房租买零食，但对他而言，这已经是一个相当不错的开始。</p>\n  <p>创业是一趟孤独而不确定的路途，对于OPC创业者来说更是如此。一名OPC创业者曾对《智能涌现》感慨，做OPC创业，再多的困难当前，最不稳定的因素，其实是创业者是否坚持的决心。</p>\n  <p>眼下，崔永兴似乎也步入了这种状况。来WAIC，他希望能在这里想清楚未来的去处，是要All-in点记账，还是再看看其他工作及创业领域。</p>\n  <p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;封面来源｜作者拍摄</strong></p>\n  <p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;👇🏻&nbsp; 扫码加入「智涌AI交流群」👇🏻</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_27bf3b5cf81e44229f9088f5b8240e01@6381723_oswg66852oswg900oswg500_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_2a7a55abaec94b59a8d0547b219b2520@6381723_oswg186227oswg900oswg335_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_f51ba50f8aa749999ab8723595194a98@6381723_oswg232414oswg900oswg335_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260720/v2_4b57718f103943debb8aa7b2b9dd2dc6@6381723_oswg225397oswg900oswg335_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-07-20T03:02:32+00:00",
-      "fetched_at": "2026-07-20T03:23:39.051552+00:00",
-      "fingerprint": "7c6c09b12c3282b6"
-    },
-    {
-      "source": "少数派",
-      "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
-      "url": "https://sspai.com/post/112374",
-      "summary": "这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-1000X的时代已经 ...<a href=\"https://sspai.com/post/112374\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-07-19T03:00:00+00:00",
-      "fetched_at": "2026-07-20T03:23:37.424319+00:00",
-      "fingerprint": "aa0f548c30d26d82"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：锂电池消费税分阶段恢复征收",
-      "url": "https://sspai.com/post/112498",
-      "summary": "<p>锂电池消费税分阶段恢复征收</p><p>白宫提词器操作员利用内幕信息下注被查</p><p>LG 显示器连接电脑后自动安装广告程序</p><p>新一代豆包手机不再模拟点击操作</p><p>亚马逊错发数亿美元云服务账单</p><p>京沪线试点 12306 预约购票，最早提前 60 天</p><p>看看就行的小道消息</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/112498\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-07-19T23:11:33+00:00",
-      "fetched_at": "2026-07-20T03:23:37.424309+00:00",
-      "fingerprint": "6fb38d4157315539"
     }
   ]
 }
