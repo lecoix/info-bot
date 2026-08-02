@@ -1,7 +1,177 @@
 {
-  "updated_at": "2026-08-01T02:24:43.128066+00:00",
-  "count": 183,
+  "updated_at": "2026-08-02T02:22:04.053950+00:00",
+  "count": 200,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "summary": "<p>Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa</p><p>The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000 migrants in the Spanish territory of Ceuta in north Africa.</p><p>The decision was taken by officials representing EU member states and Frontex border agency experts at what was described as a “sobering” meeting on Saturday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-01T19:03:39+00:00",
+      "fetched_at": "2026-08-02T02:22:04.049210+00:00",
+      "fingerprint": "bd8ae6bd6ebbd09c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "category": "politics",
+      "published_at": "2026-08-02T00:29:55+00:00",
+      "fetched_at": "2026-08-02T02:22:03.505163+00:00",
+      "fingerprint": "685536ce0ef8120d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Call for 'full review' as pressure grows on Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+      "category": "politics",
+      "published_at": "2026-08-01T17:07:46+00:00",
+      "fetched_at": "2026-08-02T02:22:03.505157+00:00",
+      "fingerprint": "cd5da5260c1f83f9"
+    },
+    {
+      "source": "BBC World News",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "category": "politics",
+      "published_at": "2026-08-01T20:09:27+00:00",
+      "fetched_at": "2026-08-02T02:22:03.505150+00:00",
+      "fingerprint": "053e8d29019fc241"
+    },
+    {
+      "source": "BBC World News",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "category": "politics",
+      "published_at": "2026-08-02T00:55:16+00:00",
+      "fetched_at": "2026-08-02T02:22:03.505140+00:00",
+      "fingerprint": "f978f7bdb2e1193d"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+      "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
+      "category": "politics",
+      "published_at": "2026-08-01T09:56:01+00:00",
+      "fetched_at": "2026-08-02T02:22:03.457238+00:00",
+      "fingerprint": "77d395c5dbdc2d55"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-02T02:22:03.085658+00:00",
+      "fingerprint": "78a27feea234b38f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-02T02:22:03.085528+00:00",
+      "fingerprint": "0d78e02a307de63f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-02T02:22:03.085346+00:00",
+      "fingerprint": "308b4e638e9ec0ff"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-02T02:22:03.085208+00:00",
+      "fingerprint": "78d1ddb7f4572678"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-02T02:22:03.085055+00:00",
+      "fingerprint": "bd1fe04bddb74701"
+    },
+    {
+      "source": "The Verge",
+      "title": "Spider-Man: Brand New Day leak racks up millions of views",
+      "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
+      "summary": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems to be on top of [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-01T17:00:12+00:00",
+      "fetched_at": "2026-08-02T02:22:02.813228+00:00",
+      "fingerprint": "6c38397f8842f86a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-01T18:20:00+00:00",
+      "fetched_at": "2026-08-02T02:22:02.813222+00:00",
+      "fingerprint": "16657117b75dcddd"
+    },
+    {
+      "source": "The Verge",
+      "title": "Angela Nissel faces down grief with a laugh",
+      "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+      "summary": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. Of course, that sort of [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-01T20:15:00+00:00",
+      "fetched_at": "2026-08-02T02:22:02.813216+00:00",
+      "fingerprint": "9554c74df401f2af"
+    },
+    {
+      "source": "The Verge",
+      "title": "Pixel 11 specs and price leak with no surprises",
+      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-01T21:31:24+00:00",
+      "fetched_at": "2026-08-02T02:22:02.813204+00:00",
+      "fingerprint": "49652da6738479fb"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+      "url": "https://36kr.com/p/3920595518533250?f=rss",
+      "summary": "<p>如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp;</p>\n  <p>因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp;</p>\n  <p>但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp;</p>\n  <p>2026年，ChinaJoy 即将在7月底的上海举办第二十三届展会。&nbsp;</p>\n  <p><strong>如今的 ChinaJoy 还只是游戏展吗？</strong></p>\n  <p>它依然是全国最爱玩、最关注游戏的年轻人一年一度的线下聚会，这件事从未改变。但同时，ChinaJoy 正在悄然成为「科技 + 数字娱乐」行业一年一度的线下交汇点。&nbsp;</p>\n  <p>过去三年，科技对数字娱乐的改造速度超过了所有人的预期：AI 从实验室概念变成了行业标配的生产工具，具身智能、新一代消费电子不断打开新的想象空间，每一个赛道、每一天都有新公司、新产品、新模式冒出来。&nbsp;</p>\n  <p><strong>ChinaJoy 是国内极少数能把这种变化一次性摊开在你面前的现场。</strong></p>\n  <p>如今，来逛展的不只是玩家，还有开发者、AI 工程师、硬件创业者、投资人。&nbsp;</p>\n  <p>真正值得被报道的东西，已经藏在线下。如果只看相关稿件，这个行业的很多真实温度仍然难以感知。&nbsp;</p>\n  <p>因此，这一次36氪和ChinaJoy「Vision Future 前沿科技展区」深度合作，把直播间直接搬到展区现场。三天，十八场对谈，我们想把这些一线的思考直接带给每个观众。&nbsp;</p>\n  <p>所有对谈都来自一线从业者——创业者、技术带头人、行业操盘手、学术专家，坐到镜头前聊真实进展、踩过的坑、接下来的机会。我们想呈现最鲜活的行业趋势，不是发布会的复述，是真问题的现场。&nbsp;</p>\n  <p><strong>Day 1 · 8 月 1 日 · AI + 游戏 10:00</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260801/v2_3937073717a846c2b4d7b5efc233fc10@16519798_oswg220467oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">可扫码预约观看，或关注「36氪游戏」视频号</p>\n  <p><strong>Day 2 · 8 月 1 日 · AI 内容新体验 10:00</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260801/v2_2790e13b8cad4b329da14fdebd0930af@16519798_oswg241490oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">可扫码预约观看，或关注「36氪游戏」视频号</p>\n  <p><strong>Day 3 · 8 月 2 日 · 前沿科技 &amp; 消费电子 10:00</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260801/v2_47d3c27e38d94d8989626a8ddead4330@16519798_oswg233151oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">可扫码预约观看，或关注「36氪游戏」视频号</p>\n  <p>十八组嘉宾，覆盖AI 游戏、AI 内容、前沿消费电子等多条赛道，一起来聊聊行业变化过程中的真东西。&nbsp;</p>\n  <p>ChinaJoy 二十多年了。它依然是那个全国玩家一年一度的线下聚会，这件事从未改变；但同时，它也已经进化成「科技 + 数字娱乐」行业最鲜活的现场。&nbsp;</p>\n  <p>这种进化来自 ChinaJoy 官方对前沿科技展区的持续加码，来自36氪游戏作为合作伙伴对一线内容的专业捕捉，也来自市场对新技术、新内容、新体验越来越硬性的需求。&nbsp;</p>\n  <p>2026 年8 月1 日—8 月 3 日，上海新国际博览中心E6 馆 ChinaJoy Vision Future 前沿科技展区，「36氪游戏」直播间见。&nbsp;</p>\n  <p class=\"editor-note\">本文首发自<a href=\"https://mp.weixin.qq.com/s/UH7hmA0SAzIFh9frbGjR1Q\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪游戏”</a>。</p>",
+      "category": "tech",
+      "published_at": "2026-08-01T06:37:32+00:00",
+      "fetched_at": "2026-08-02T02:22:02.690334+00:00",
+      "fingerprint": "744998b28bede094"
+    },
+    {
+      "source": "少数派",
+      "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
+      "url": "https://sspai.com/post/112701",
+      "summary": "真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。<a href=\"https://sspai.com/post/112701\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-01T04:54:31+00:00",
+      "fetched_at": "2026-08-02T02:22:00.803498+00:00",
+      "fingerprint": "17d25b4b8c3ba111"
+    },
     {
       "source": "The Guardian - World",
       "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
