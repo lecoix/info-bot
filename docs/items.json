@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-08-02T02:22:04.053950+00:00",
-  "count": 200,
+  "updated_at": "2026-08-03T02:24:25.510989+00:00",
+  "count": 206,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+      "summary": "<p>Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’</p><p>A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.</p><p>In March, Senegal <a href=\"https://www.theguardian.com/global-development/2026/apr/07/senegal-harsh-anti-gay-law-hiv-progress\">doubled the maximum prison sentence</a> for gay sex to 10 years and criminalised the “promotion” of homosexuality. Niger criminalised <a href=\"https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population\">“sexual relations with a person of the same sex”</a> in February, the first time same-sex intimacy had been outlawed in the country.</p> <a href=\"https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-02T04:00:11+00:00",
+      "fetched_at": "2026-08-03T02:24:25.506379+00:00",
+      "fingerprint": "b4be249b3de1e724"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "summary": "<p>People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects</p><p>Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibraltar from mainland Spain.</p><p>Here was a chance for the 44-year-old Moroccan father of four to return to Spain, from which he had been deported when his residency expired after the loss of his job in Bilbao in 2019.</p> <a href=\"https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-02T13:11:56+00:00",
+      "fetched_at": "2026-08-03T02:24:25.506368+00:00",
+      "fingerprint": "cb81d52dc53ac1b8"
+    },
+    {
+      "source": "BBC World News",
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "category": "politics",
+      "published_at": "2026-08-02T15:50:59+00:00",
+      "fetched_at": "2026-08-03T02:24:25.179528+00:00",
+      "fingerprint": "6ce9d1acb6819231"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "category": "politics",
+      "published_at": "2026-08-02T11:12:00+00:00",
+      "fetched_at": "2026-08-03T02:24:25.179523+00:00",
+      "fingerprint": "b1dbe2b7430b37fd"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+      "category": "politics",
+      "published_at": "2026-08-03T01:03:31+00:00",
+      "fetched_at": "2026-08-03T02:24:25.179512+00:00",
+      "fingerprint": "bfb6b58bfc3c22e3"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
+      "url": "https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "每年都有成千上萬人騎單車環繞台灣一圈，這項被不少人視為成年禮的挑戰，如今正吸引越來越多海外旅客參與。這條1000公里的路線究竟有何魅力？",
+      "category": "politics",
+      "published_at": "2026-08-02T05:40:11+00:00",
+      "fetched_at": "2026-08-03T02:24:25.012184+00:00",
+      "fingerprint": "0bf530bdd09063be"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "讓人遍體鱗傷的24小時過後，國際足協與恩凡蒂諾如何走下去？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "壓力正逐漸落在詹尼·恩凡蒂諾身上。在這項備受爭議的世界盃投資計劃崩潰後，他這國際足協主席還當得下去嗎？",
+      "category": "politics",
+      "published_at": "2026-08-03T00:01:11+00:00",
+      "fetched_at": "2026-08-03T02:24:25.012179+00:00",
+      "fingerprint": "07f4a66f0d6d684f"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "特朗普表示同意取消對伊朗的打擊，前提是能「迅速」達成協議",
+      "url": "https://www.bbc.com/zhongwen/articles/cly97n5k6j6o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國總統發布這則訊息之際，媒體報道稱他正計劃於週末對伊朗發動新一輪猛烈打擊。",
+      "category": "politics",
+      "published_at": "2026-08-02T04:17:46+00:00",
+      "fetched_at": "2026-08-03T02:24:25.012173+00:00",
+      "fingerprint": "b8fa95e014363dee"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "AI衝擊就業：中國畢業生的陣痛與機遇",
+      "url": "https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "2026年中國求職大軍超過1500萬，AI浪潮對高學歷年輕女性的衝擊尤其大。",
+      "category": "politics",
+      "published_at": "2026-08-03T01:19:18+00:00",
+      "fetched_at": "2026-08-03T02:24:25.012163+00:00",
+      "fingerprint": "b448ee910efbabb2"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-03T02:24:24.529294+00:00",
+      "fingerprint": "19fee080343ced90"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Isopolis – isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-03T02:24:24.529187+00:00",
+      "fingerprint": "f89c9b669d2da87a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-03T02:24:24.529063+00:00",
+      "fingerprint": "31733591a286c19b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-03T02:24:24.528950+00:00",
+      "fingerprint": "8b89f65f057f6918"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-03T02:24:24.528815+00:00",
+      "fingerprint": "110be558030d063c"
+    },
+    {
+      "source": "The Verge",
+      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+      "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+      "summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the cracks, but Skylight&#8217;s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they&#8217;re [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-02T15:00:00+00:00",
+      "fetched_at": "2026-08-03T02:24:24.334741+00:00",
+      "fingerprint": "b3cd45cbd1fc22a7"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to &#8364;200 or &#163;170. The 1TB Xbox Series X with a disc drive is [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-02T16:14:20+00:00",
+      "fetched_at": "2026-08-03T02:24:24.334736+00:00",
+      "fingerprint": "0651b9953801944e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-02T19:36:08+00:00",
+      "fetched_at": "2026-08-03T02:24:24.334721+00:00",
+      "fingerprint": "93247f3782b40ca5"
+    },
+    {
+      "source": "The Verge",
+      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+      "summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost entirely [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-02T21:53:15+00:00",
+      "fetched_at": "2026-08-03T02:24:24.334711+00:00",
+      "fingerprint": "31e3a531e176a019"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+      "url": "https://36kr.com/p/3923043072634498?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>马斯克关注了DeepSeek的X账号</p>\n  <p>祥鹏航空回应航班误发过期方便面</p>\n  <p>OpenAI或将IPO推迟到明年</p>\n  <p>SpaceX首份财报即将发布</p>\n  <p>小米多款手机正式涨价</p>\n  <p>每月10万美元，特朗普“真实社交”售卖“优先访问权”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>蔡崇信宣布离婚，不涉及出售阿里股份</strong></p>\n  <p>8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。</p>\n  <p>此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体育娱乐公司、布鲁克林篮网队和纽约自由人队中的现有管理职务。（观察者网）</p>\n  <p><strong>瑞幸回应员工对嘴喷奶油：涉及物料已废弃</strong></p>\n  <p>8月1日晚，山东济南瑞幸店员用奶油发泡器给同事喂食嬉戏的视频引发热议，2日清晨，该视频发布账号就已注销。8月2日，瑞幸就此向界面新闻回应称，“公司对此事高度重视并第一时间进行内部调查。经核查，视频中两位伙伴使用当日门店打烊后废弃的奶油物料进行拍摄。该行为严重违反相关管理规范，公司将严肃处理。拍摄中涉及的奶油物料和奶油枪已废弃。”瑞幸表��，瑞幸咖啡始终将食品安全及用户体验放在首位，也将持续在全国门店加强人员培训，为消费者提供更安心、更高品质的产品。（界面新闻）</p>\n  <p><strong>IF椰子水市值从126亿暴跌到16亿</strong></p>\n  <p>7月31日晚，“椰子水第一股”IFBH（06603.HK）发布最新盈利警告：预计2026年上半年，净利润同比暴跌65%至75%，收入同比下滑40%至50%。值得注意的是，这家公司才上市一年出头。2025年6月30日，IFBH顶着“椰子水第一股”的称号登陆港交所，发行价27.8港元，开盘即高开57.9%，市值一度冲到126.8亿港元。它当时最出圈的标签不是产品本身，而是“46个人撑起百亿市值”，轻资产模式被讲成了一个近乎完美的资本故事。（红星资本局）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>每月10万美元，特朗普“真实社交”售卖“优先访问权”</strong></p>\n  <p>当地时间8月1日，美国总统特朗普旗下社交平台Truth Social宣布推出“Truth API”服务，向华尔街交易机构收费提供特朗普帖文的高速访问渠道，引发有关内幕交易、利益冲突及利用公职谋利的质疑。该服务收费最高达每月10万美元，主要面向高频交易公司。由于特朗普经常通过Truth Social发布涉及关税、战争、央行等重大政策的信息，相关内容往往会引发市场波动。批评人士认为，付费用户虽然不是提前获知信息，但凭借更快的数据接口和自动交易系统，可能比普通投资者更早做出反应。此外，特朗普近期频繁在社交媒体上提及上市公司，相关言论也曾推动Palantir、英特尔等公司股价上涨。（央视财经）</p>\n  <p><strong>DeepSeek-V4-Flash正式版API上线公测后，马斯克关注DeepSeek官方账号</strong></p>\n  <p>7月31日，DeepSeek通过API文档发布日志，宣布DeepSeek-V4-Flash正式版API上线公测，凭借超高性价比再次引爆AI圈。8月1日，关注科技公司CEO和高管动态的账号BigTechAlert发布提醒消息，埃隆·马斯克关注了DeepSeek的X账号。值得一提的是，马斯克当地时间7月23日在接受英国《经济学人》专访时表示，中国在机器人和AI领域实力雄厚，未来“很有可能在某个时候成为领导者”。（IT之家）</p>\n  <p><strong>谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息</strong></p>\n  <p>谷歌推出谷歌地球（Google Earth）人工智能（AI）图像生成功能不到48小时后，宣布暂停服务，以加强安全防护。专家此前警告，这项工具可把虚构场景叠加在真实卫星图像上，容易被用于散播假信息。 (澎湃新闻)</p>\n  <p><strong>OpenAI或将IPO推迟到明年</strong></p>\n  <p>由于面临投资者担忧与竞争压力，OpenAI可能会将其IPO推迟到明年。参与相关讨论的人士透露，近几个月来，OpenAI的一些大投资者已私下对这家初创公司相对于其增长的现金消耗速度过快表示担忧，而其他投资者则通过向Anthropic投入资金来对冲他们对OpenAI的押注。与此同时，Anthropic的营收增长近期已超过OpenAI，其估值也是如此。据知情人士透露，Anthropic正在加速秋季IPO的计划，并已开始与潜在投资者会面，强调其相对于ChatGPT制造商所保持的领先优势。而最初希望抢在Anthropic之前上市，OpenAI现在可能会等到明年再IPO。（新浪财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>SpaceX首份财报即将发布</strong></p>\n  <p>SpaceX将近日发布季报，这是该公司上市后的首份财报，同时8月6日还有最多9.115亿股解禁，比当前的流通股还要多。据财联社，S3 Partners的数据显示，截至7月29日，SpaceX空头持仓量已达到2.193亿股，约占该公司可供公众交易股票总量的34%。这显示出空头正在押注SpaceX财报给不出能抵消股票解禁压力的利好。自6月12日以135美元的IPO定价上市以来，SpaceX最高曾冲到过200美元上方，但本周五收盘时已经跌破110美元。</p>\n  <p>值得注意的是，SpaceX上市后首次财报电话会议前夕，散户投资者最关心的问题并非利润，而是星舰着陆系统画面、吉祥物Asteroid、甚至能不能把火箭涂成粉色。相比之下，AI 盈利等核心问题关注度极低。（中新经纬、IT之家）</p>\n  <p><strong>小米多款手机正式涨价</strong></p>\n  <p>8月1日晚间，有消息称小米部分型号手机或将迎来集体调价。8月2日上午，小米商城价格显示，小米多款手机正式涨价。记者就此询问小米方面，截至发稿未获有效回应。根据小米官方商城，小米17系列价格已经上调了300元/台到500元/台；REDMI K90、Turbo 5系列上调300元/台。（界面新闻）</p>\n  <p><strong>2026年度电影总票房超231亿元，市场热度持续走高</strong></p>\n  <p>截至8月2日22时，2026年度电影总票房已超231亿元，其中，暑期档已连续23天单日票房破亿，市场热度正持续走高。（央视新闻）</p>\n  <p><strong>欧足联或将投票罢免因凡蒂诺</strong></p>\n  <p>据英国方面当地时间8月1日消息，欧足联已要求国际足联主席因凡蒂诺辞职。若因凡蒂诺拒绝，欧足联准备对他发起不信任投票。据了解，国际足联211个成员协会中有43家协会投票支持该不信任投票即可启动罢免程序，欧足联拥有55个成员协会。</p>\n  <p>欧足联的这一举动，是由于因凡蒂诺提出希望成立一家价值200亿美元（约合150亿英镑）的子公司，并通过融资42亿美元（约合31.6亿英镑），出售新成立的“国际足联前进计划（FFE）”超过20%的股份。（央视新闻）</p>\n  <p><strong>显卡价格跳涨，热门产品“一日一价”</strong></p>\n  <p>继内存、硬盘价格上涨后，电脑硬件市场又迎来新一轮价格波动。8月1日，记者走访深圳华强北市场发现，7月底以来，消费级显卡价格快速上涨，部分热门型号数日内上涨数百元，高端型号涨幅甚至达到千元级别。以热门型号RTX 5060为例，目前市场报价已升至2700元至3100元，而本轮涨价前报价约为2300元至2500元。短短4天，5060价格最高上涨约800元，涨幅超过三成。高端型号涨幅更加明显，RTX 5080市场报价已超过1.1万元，较7月初上涨约1700元。“早两天买还能省1000元左右。”一名华强北电脑装机商户告诉记者，近期显卡“一日一价”，不少消费者此前咨询配置时还在观望，但等到决定购买时，价格已经出现变化。（财联社）</p>\n  <p><strong>东方甄选前CEO孙东旭新号首播，热度超过与辉同行</strong></p>\n  <p>8月2日早8点，由前东方甄选CEO孙东旭与前主播石明（网名明明）、郭天权（网名天权）联合打造的直播带货账号 “美丽明天” 正式开启首场直播。</p>\n  <p>开播后直播间热度快速攀升，在线人数半小时内突破10万，截至发稿已攀升至抖音带货总榜首位，热度大幅领先同期开播的同业账号。榜单实时数据显示，“与辉同行”位列第6位，东方甄选相关账号排名第22位。蓝鲸记者查询考古加数据，截至发稿，本场直播累计观看人次达689万，预估销售额约500万至1000万元区间。（蓝鲸新闻）</p>\n  <p><strong>航班延误4小时，发给旅客过期泡面，祥鹏航空回应</strong></p>\n  <p>8月1日，有乘客发视频说祥鹏航空一航班延误近4小时地勤发过期方便面。该航班原计划1日20时45分从乌鲁木齐天山机场飞往成都天府机场，航班延误后地勤人员向乘客发的方便面包装显示需在7月5日前食用。记者从祥鹏航空客服人员处获悉，该航班延误系天气原因，航班延误3小时55分落地成都，乌鲁木齐地面代理公司提供的餐食不符合标准，工作人员对所有餐食进行了回收，过期的餐食没有旅客食用。 目前，祥鹏航空回应表示：对该航班乘客所发所有餐食进行回收，会补偿200元并致歉。（新京报）</p>\n  <p><strong>张继科参赛HYROX遭解说员“嘲讽”，官方致歉</strong></p>\n  <p>8月1日，HYROX全球健身跑系列赛事成都站开赛。赛事直播过程中，两名解说员调侃张继科“上综艺不用出这么多汗” “不如回家上综艺”，评论其表情“痛苦面具来了，大家可以截图，回家做表情包”等言论引发热议。</p>\n  <p>8月2日，HYROX健身跑发布致歉声明，声明中，HYROX健身跑向张继科和广大网友表示诚挚的歉意，并进行了深刻地反思。并表示对两位当事的解说嘉宾，组委会已于8月1日解除了合作关系。（新京报）</p>\n  <p><strong>长鑫存储LPDDR6已接近研发验证尾声</strong></p>\n  <p>8月1日消息，行业人士透露，长鑫存储LPDDR6已接近研发验证尾声，距离小批量导入及正式量产更进一步。此前消息称，其LPDDR6已向核心客户送样，有望于2026年下半年发布并导入量产。据悉，长鑫首款LPDDR6设计速率为12800Mbps，颗粒容量16GB，在低功耗及可靠性等方面较LPDDR5X有明显提升。LPDDR主要应用于手机、平板电脑等移动设备，研发验证需要完成兼容性、稳定性、性能功耗及可靠性等测试。</p>\n  <p>目前三星、美光、SK海力士等厂商均在推进LPDDR6，其中SK海力士已完成产品开发验证并计划下半年供货。若长鑫顺利推进量产，有望成为全球较早量产LPDDR6的存储厂商之一。（第一财经）</p>\n  <p><strong>福特CEO：正为中国汽车进入美国市场做准备</strong></p>\n  <p>三位知情人士向路透社透露，福特CEO吉姆·法利7月30日在内部员工大会上表示，尽管美国设置了诸多贸易壁垒，但福特正在为未来5到10年内中国车企可能进入美国市场做准备。（界面新闻）</p>\n  <p><strong>充电桩CCC认证自8月1日起开始强制实施</strong></p>\n  <p>8月1日起，市场监管总局（国家认监委）对电动汽车供电设备强制性产品认证（CCC认证）管理开始强制实施，通过开展防触电、短路保护、耐火耐燃等关键安全指标测试和企业现场质量保证能力、产品一致性检查，切实筑牢产品质量安全底线。随着我国新能源汽车的不断普及和发展，电动汽车供电设备（俗称充电桩）已经成为服务百姓出行需求的重要基础设施。8月1日起，未获得CCC认证的电动汽车供电设备，不得出厂、销售、进口或者在其他经营活动中使用。对于8月1日前已经投入运营的设备，经营者应当严格遵守《中华人民共和国产品质量法》《中华人民共和国消费者权益保护法》有关规定，保证其提供的商品或者服务符合保障人身、财产安全的要求。（新华网）</p>\n  <p><strong>近120万辆特斯拉汽车遭调查</strong></p>\n  <p>近日，美国国家公路交通安全管理局已宣布，在收到多起悬架故障投诉后，正式对近120万辆特斯拉汽车展开初步调查。美国国家公路交通安全管理局表示，该机构累计已收到156起特斯拉悬架故障相关投诉，主要涉及2018至2020款Model 3和2021至2023款Model Y车型。故障表现为车辆前下横向连杆脱落，极端情况下可能造成车辆失控，截至目前尚未收到因这一故障引发人员伤亡的报告。 （央视财经）</p>\n  <p><strong>住房公积金缴存覆盖面扩大，灵活就业人员可自愿缴纳</strong></p>\n  <p>为了深化住房公积金制度改革，更好满足缴存人多元化住房需求，住房城乡建设部前不久启动了《住房公积金管理条例》修订工作，并就《住房公积金管理条例（修订征求意见稿）》向社会公开征求意见。记者梳理发现，征求意见稿主要体现出三大亮点。首先，缴存覆盖面扩大了，明确个体工商户、非全日制从业人员以及其他灵活就业人员，可自愿参加住房公积金制度，也就是说包括外卖员、快递员、网约车司机等，以后也能缴纳了。其次，拓宽了使用范围，明确将自住住房装修、支付物业费纳入可提取住房公积金的情形。也就是说，从“购房”“租房”拓展到“修房”“养房”，让资金用途更丰富。此外，明确要强化公积金数字化能力建设，强化跨地区、跨部门、跨层级的业务协同，推动住房公积金互认互贷。 (央视新闻)</p>\n  <p><strong>深圳宝安将电动自行车违法纳入征信</strong></p>\n  <p>深圳宝安区已将电动自行车交通违法行为纳入个人征信系统。依据《深圳经济特区道路交通安全违法行为处罚条例》，非机动车驾驶人一年内被罚款五次以上，或一年内三次以上交通违法未处理，违法信息将被推送至征信机构。目前宝安区已依法将50名骑行市民的违法信息录入信用信息系统。宝安区相关部门负责人表示，交通违法联动信用约束是深圳特区法定治理手段，通过信用约束引导市民守法出行，提醒辖区群众及时处理车辆违法记录，自觉遵守道路交通安全法律法规，守护信用记录。（IT之家）</p>\n  <p><strong>上半年全国二手房交易占比超新房</strong></p>\n  <p>今年上半年，全国二手房交易占比超过新房，达到50.4%，传统以新房销售为主的增量交易格局正加快向新房和二手房并举转变，房地产市场进入存量时代。在中央经济工作会议“控增量、去库存、优供给”的要求下，多个城市也在通过多种方式盘活存量房源，推动既有住房资源的优化配置，激活存量住房价值。（央视财经）</p>\n  <h2>酷产品</h2>\n  <p><strong>微信地震预警功能上新，支持“震感汇聚”与“位置更新”</strong></p>\n  <p>8月2日消息，中国地震台网近日宣布，微信地震预警上线新功能：“震感汇聚”与“位置更新”。据介绍，新上线的“震感汇聚”功能可用于地震发生后的公众震感信息快速收集与综合展示。在收到预警快速避险后，用户可通过微信地震预警小程序的预警详情页便捷反馈所在地震感情况，地图精准定位、快捷选择对应震感，相关信息经专业算法规则处理后形成震感分布地图，为公众快速了解不同地区的实际震感提供参考。而“位置更新”功能则进一步提升了地震预警服务与用户实际所在地的即时匹配能力。用户可根据自身出行和位置变化收到提示，及时更新小程序预警订阅位置，使地震预警信息推送匹配当前活动区域，进一步增强预警服务的针对性和实用性。（IT之家）</p>\n  <p><strong>整理</strong>｜昌怡&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-03T00:07:39+00:00",
+      "fetched_at": "2026-08-03T02:24:24.154470+00:00",
+      "fingerprint": "6d81e08abb349d11"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+      "url": "https://36kr.com/p/3919025939246727?f=rss",
+      "summary": "<p>文 | 赵京娜</p>\n  <p>访谈 编辑 | 海若镜</p>\n  <p>36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。</p>\n  <p>奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。</p>\n  <p>“<strong>今天，Agent已经像能力出众的个体，但它们还没有真正进入组织</strong>，”薛传奕介绍道。</p>\n  <p>一个越来越常见的工作日可能是这样开始的：产品经理把需求交给一个Agent梳理，研发同时让另一个Agent修改代码，运营则在第三个对话窗口里研究发布方案。几个小时后，每个Agent都完成了自己的部分，也各自拥有一段完整的上下文。但当三项工作需要合并时，团队才发现，没人清楚另一个Agent做过什么、为什么这样做，哪些结论已经被确认，哪些变化又会影响后续任务。</p>\n  <p>于是，人重新回到信息中转站的位置：复制对话、补充背景、核对版本、拼接结果，再把同一件事向不同Agent解释一遍。</p>\n  <p>这是Agent能力快速提升之后，一种颇具反差的场景。当Agent开始写代码、处理文档、调用工具，甚至连续执行长程任务，新的瓶颈也随之出现：一个能力很强的Agent，仍然只是一个能力很强的单人助手。它掌握的上下文属于某个用户和某次会话，执行过程分散在不同工具里，任务结束后，经验也很难自然成为团队下一次工作的起点。</p>\n  <p>那么，当越来越多智能进入生产环境，它们如何理解彼此的角色和关系？组织怎样保留Agent的工作过程？一次任务中的反馈，又如何转化为下一次协作可以复用的能力？<strong>这些问题最终汇聚为奇点逃逸的两条主线：协作与自进化</strong>。</p>\n  <h2><strong>若Agent成为组织成员</strong></h2>\n  <p>在传统团队里，一个新成员加入项目，需要理解目标、分工、历史决策和协作规则。Agent同样如此。它不仅要知道做什么，还要知道任务从哪里来、与谁有关、依赖哪些信息、什么结果才算完成。</p>\n  <p>现有AI产品大多围绕会话组织信息，一段对话结束，Agent对任务的理解、执行依据和失败经验往往也停留在那段会话中。当任务跨越不同模型、不同成员和不同时间周期，团队不得不反复重建上下文。</p>\n  <p>薛传奕<strong>将其称为AI的“协作断层”</strong>。他认为，解决这个问题的关键不是让所有Agent同时开始工作，而是先让它们面对同一份事实。</p>\n  <p>协作首先是对事实的协作。如果每个Agent理解的目标、任务状态和验收标准都不一样，能力越强，可能只是更快地朝不同方向执行。</p>\n  <p>因此，Nexus从组织状态而非单次对话出发。人、Agent、任务、知识和工具被表示为相互关联的对象；一项工作不再只是一段自然语言指令，还包含目标、负责人、依赖关系、权限、当前状态、执行证据和验收结果。</p>\n  <p>在这样的系统中，产品、研发和运营不是分别与三个互不相识的Agent对话，而是围绕同一项工作持续推进。新加入的Agent可以理解前序任务发生了什么，找到相关决策和上下游依赖；新的过程和结果，也会重新成为组织状态的一部分。</p>\n  <p><strong>Agent由此从个人拥有的工具，变成组织可以分工、授权、审阅和接续的协作对象</strong>。</p>\n  <p>这也是薛传奕所理解的“AI进入组织”：不是企业采购了多少AI账号，也不是员工调用了多少次模型，而是AI的工作能否进入组织的任务、知识和责任体系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260802/v2_5d08f250865b441eb8ff5e0bf529bcf7@5452796_oswg3981725oswg4000oswg2667_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：薛传奕</p>\n  <h2><strong>静态Agent遇上动态世界</strong></h2>\n  <p>协作与自进化其实是同一个问题的两面。多个主体要在组织中持续协作，Agent就必须能够适应不断变化的目标、成员、工具和约束；Agent要持续积累智能，又必须进入真实生产环境，在具体任务中获得反馈、接受检验。</p>\n  <p>今天的大模型，通常通过大规模预训练和后训练获得能力。部署之后，再通过提示词、工作流、工具和记忆系统进入具体应用。这个过程的核心逻辑仍然是：人预先设计系统，Agent在给定边界内执行。</p>\n  <p>它在稳定任务中有效，却很难覆盖真实组织的全部变化。一个项目的目标可能被修改，工具会更新，成员会变化，新的约束随时出现。昨天有效的任务拆解方式，今天未必仍是最优选择；一个Agent在某次任务中犯过的错误，也可能在另一段会话里再次发生。</p>\n  <p>当系统无法消化这些反馈，“长期运行”就只是不断累积规则。Prompt越来越长，Workflow越来越复杂，人工维护成本随之上升。Agent做了很多工作，却没有真正从工作中学会什么。</p>\n  <p>奇点逃逸认为，真实协作提供了自进化所需的高质量反馈，而自进化又让Agent能够适应组织持续变化的环境。</p>\n  <p>与静态数据不同，组织任务中天然存在目标、约束和结果。人的修正说明哪里出现了偏差，验收判断给出结果是否可用，失败记录揭示任务拆解、上下文或工具调用中存在的问题。这些信号不是抽象的偏好，而是与具体工作过程绑定的因果证据。</p>\n  <p>“脱离真实任务，自进化缺少高质量反馈；没有持续改进，协作系统也只会变成静态流程工具，”薛传奕认为。</p>\n  <p>在Nexus的设计中，协作与自进化的循环可以拆解为：<strong>组织协作产生真实任务与反馈，&nbsp;独立评测筛选有效改进 ，经过验证的能力进入下一轮协作，&nbsp;更强的Agent扩大组织的协作边界。</strong></p>\n  <p>系统可以根据反馈提出候选改进，例如调整上下文组织方式、模型路由、任务拆解或工作流配置。但这些变化不会直接进入真实生产环境，而要先通过独立评测，比较效果、稳定性、成本和风险，再由治理机制决定采用、限制、拒绝或回滚。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260802/v2_ba324ccc5ea840a283f69fed32cb0461@5452796_oswg461405oswg2216oswg1122_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：奇点逃逸</p>\n  <p>这与系统自由改写自己有本质区别。在薛传奕看来，<strong>自进化的前提不是赋予Agent无限自主权，恰恰是建立更严格的证据和治理边界。系统必须能够回答：为什么要改、改了什么、是否真的更好、有没有损害原有能力，以及出现问题时能否撤回</strong>。</p>\n  <p>因此，奇点逃逸所说的自进化，可以被概括为三个环节：真实反馈驱动、独立评测、治理采用。</p>\n  <h2><strong>协作，是自进化发生的环境</strong></h2>\n  <p>在AI行业，协作和学习长期属于两套不同的语言。</p>\n  <p>协作软件谈任务、权限、流程和知识管理；机器学习研究则谈数据、训练、评测和泛化。一边负责组织如何运转，另一边负责模型如何变强。两者很少在同一套产品架构里相遇。</p>\n  <p>Agent改变了这条边界。当AI只能生成一段文字，它与组织的关系更接近工具；当它开始拆解目标、调用资源、执行任务并与其他主体接续时，它的每一次行动都会进入组织流程。执行结果不仅是业务产出，也成为判断Agent能力的反馈。</p>\n  <p>这意味着，未来的协作系统不只是承载工作，也可能成为智能持续学习的环境。</p>\n  <p>一个能够从反馈中改进的Agent，也会改变组织可以承担的任务。它不再只是在固定流程中替代某个步骤，而是可以随着目标、成员和工具的变化调整协作方式。人的注意力则从重复执行转向判断、创造和协调。</p>\n  <p>“我们关心的不只是Agent单方面变强，而是团队整体能不能处理过去难以承载的复杂目标。”这也是<strong>Nexus选择“图结构”作为底层组织方式的原因</strong>。</p>\n  <p>在Agent系统内部，目标、规划、专业能力、执行、记忆、工具和验证可以成为不同节点。改进发生在哪里、影响哪些能力，能够被定位和追踪。新Agent和新工具也可以作为节点接入，而不必重写整个系统。</p>\n  <p>在组织层面，人员、Agent、任务和知识又形成另一张相互连接的工作图。Agent的观察边界不再局限于一段对话，而是可以在授权范围内理解相关人员、历史决策、上下游任务和可调用资源。</p>\n  <p>两层图结构连接起来，协作反馈才可能指向具体的能力节点，经过验证的改进也才能重新进入具体工作。</p>\n  <p>单个Agent功能很容易随着模型升级被追平，更值得看重的是组织在持续使用中积累的状态、对象关系、评测基线和协作策略。它们来自真实任务中的判断和反馈，又不断被下一轮工作重新调用。</p>\n  <p>这是一种不同于模型参数的数据资产：它不只记录答案是什么，还记录一项工作为什么这样完成。</p>\n  <p>奇点逃逸团队的研究背景覆盖智能体、强化学习、LLM Post-training和认知科学。看起来分散的方向，实际都在追问相似的问题：智能如何在环境中形成，多个智能主体如何彼此协作，以及一次经验如何改变之后的行为。</p>\n  <p><strong>这种研究取向也让奇点逃逸没有从某一个垂直Agent切入，而是把目标放在更底层的组织方式上</strong>。</p>\n  <p>薛传奕把Nexus的长期方向概括为“AI时代的组织基础设施”。这并不是一个关于AI取代多少人的故事。它更接近另一种变化：当组织中出现越来越多非人类智能，原有的软件和协作方式需要被重新设计。</p>\n  <p>“协作和自进化不是两条平行路线，也不是先后发生的两个阶段。”薛传奕说，“<strong>Agent只有具备自进化机制，才能适应组织的动态环境；只有进入真实生产环境，它的能力才能被释放，并在持续反馈中积累新的智能。两者相互依赖，也相互强化</strong>。”</p>",
+      "category": "tech",
+      "published_at": "2026-08-03T00:10:16+00:00",
+      "fetched_at": "2026-08-03T02:24:24.154454+00:00",
+      "fingerprint": "8f70de35939e4c3c"
+    },
+    {
+      "source": "少数派",
+      "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+      "url": "https://sspai.com/post/112843",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/112843\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-02T06:38:25+00:00",
+      "fetched_at": "2026-08-03T02:24:22.839350+00:00",
+      "fingerprint": "d3d0310a69e0c704"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：DeepSeek V4 Flash 正式版发布",
+      "url": "https://sspai.com/post/113014",
+      "summary": "<p>DeepSeek V4 Flash 正式版发布</p><p>特朗普向科技公司频繁索要捐款</p><p>马斯克称从未讨论过出售特斯拉中国业务</p><p>国补调整后终端销售承压</p><p>风投机构重新涌入中国科技领域</p><p>统计显示实体光盘并不能保证游戏长期可玩</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/113014\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-02T22:49:31+00:00",
+      "fetched_at": "2026-08-03T02:24:22.839340+00:00",
+      "fingerprint": "7d504dd4629ac9ae"
+    },
     {
       "source": "The Guardian - World",
       "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
@@ -1841,166 +2061,6 @@
       "published_at": "2026-07-26T23:00:57+00:00",
       "fetched_at": "2026-07-27T02:31:03.251768+00:00",
       "fingerprint": "07e9d61127934b84"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "category": "politics",
-      "published_at": "2026-07-25T06:34:40+00:00",
-      "fetched_at": "2026-07-26T02:23:45.895640+00:00",
-      "fingerprint": "ba2c5c8c1a62147f"
-    },
-    {
-      "source": "BBC World News",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "category": "politics",
-      "published_at": "2026-07-25T17:44:46+00:00",
-      "fetched_at": "2026-07-26T02:23:45.895634+00:00",
-      "fingerprint": "91748d9393172a65"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "category": "politics",
-      "published_at": "2026-07-25T13:51:07+00:00",
-      "fetched_at": "2026-07-26T02:23:45.895628+00:00",
-      "fingerprint": "4f9af5527eb17f1b"
-    },
-    {
-      "source": "BBC World News",
-      "title": "More than 300,000 flee wildfires in France and Spain",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "category": "politics",
-      "published_at": "2026-07-26T00:54:06+00:00",
-      "fetched_at": "2026-07-26T02:23:45.895619+00:00",
-      "fingerprint": "835c3ca8b1e48484"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-26T02:23:45.438257+00:00",
-      "fingerprint": "7bb69774c7809f03"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-26T02:23:45.438130+00:00",
-      "fingerprint": "1e385a440887bdfd"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-26T02:23:45.437984+00:00",
-      "fingerprint": "de99fefd746ab1ac"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Systems and Delays",
-      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-26T02:23:45.437845+00:00",
-      "fingerprint": "22eb8c33e4b41a61"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-07-26T02:23:45.437682+00:00",
-      "fingerprint": "8f0f87aebd770611"
-    },
-    {
-      "source": "The Verge",
-      "title": "Warner Bros. is suing Amazon for poaching employees",
-      "url": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
-      "summary": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that \"Amazon has chosen to ride on the coattails of other well-established Hollywood mainstays,\" and that it engaged in a \"lawless employee shopping spree.\" Deadline reports that [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-07-25T14:05:12+00:00",
-      "fetched_at": "2026-07-26T02:23:45.323517+00:00",
-      "fingerprint": "cd6fd15699704073"
-    },
-    {
-      "source": "The Verge",
-      "title": "Teenage Engineering’s unique music machines are 30 percent off",
-      "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-      "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an eye-catching design language. A wide swath of the brand’s offerings are 30 percent off [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-07-25T15:00:00+00:00",
-      "fetched_at": "2026-07-26T02:23:45.323511+00:00",
-      "fingerprint": "03a514dd49949c6c"
-    },
-    {
-      "source": "The Verge",
-      "title": "Synth historian Oli Freke will spend big on a good bicycle",
-      "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-      "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the evolution of the synthesizer from 1963 through 1995, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-07-25T15:15:00+00:00",
-      "fetched_at": "2026-07-26T02:23:45.323504+00:00",
-      "fingerprint": "ba19a63824e2fb25"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google basically confirms the Pixel 11 is getting a price hike",
-      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete surprise. Companies from [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-07-25T18:13:36+00:00",
-      "fetched_at": "2026-07-26T02:23:45.323494+00:00",
-      "fingerprint": "850233a1af337884"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
-      "url": "https://36kr.com/p/3910880823202948?f=rss",
-      "summary": "<p><strong>文｜温丽虹</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。</p>\n  <p>从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。</p>\n  <p>公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在“AI寻人”这个方向上筛过好几轮。当时徐新在看两个方向，“AI找工作”与“AI找伴侣”。</p>\n  <p>招聘方向上，她把当时国内数得上的初创团队几乎都聊了一遍，一家都没投。徐新给出的理由是：这些团队对招聘这件事的理解，没有超越上一个世代的产品经理。AI在哪个环节创造增量、怎么重构撮合效率，没有团队给她一个超出预期的答案。</p>\n  <p>婚恋方向，徐新只聊了良配一家。徐新投他之前曾提到过，她希望找到一个对“AI搜索、匹配人”这件事的理解超出她、超出她过往所投公司的创业团队。如果没有超出，只是打平，就没有押注的价值。</p>\n  <p>目前，良配小程序已上线，App 也即将上线。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_8294763c3f2c48c8b1cf8d172b452210@17865612_oswg719258oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">良配创始人曾歆勋在2026年世界人工智能大会（WAIC）分享，图源：WAIC官方</p>\n  <p>&nbsp;</p>\n  <p><strong>一次技术同源的创业</strong></p>\n  <p>曾歆勋相信，自己进入的是一个已被验证有真实需求的市场。他引用了几款同类产品的数据作为参照，第一个平台，年费会员定价1288元，而第二个平台，每名付费用户生命周期总支付约800元。</p>\n  <p>1288元的年费，在C端订阅产品中处于最高档收费，与视频平台年费会员两三百元、音乐平台年费会员一百多元相比，婚恋产品年费1288元，用户愿意付费，说明“找对象”这件事在用户心里的价值排序非常高。</p>\n  <p>与此同时，过往用户对婚恋平台的普遍担忧，在于支付了高额的费用却难以精准高效地匹配到对的人。对此，曾歆勋的判断是：<strong>上一代婚恋产品的技术能力，难以提供“精准匹配”这个服务。平台修建了一个巨大的用户池子，把有需求的用户聚集到一起，而后，找人这件事，用户依然要耗费大量的时间和精力。用户需要自己刷资料、分析资料、交流、匹配、淘汰，周而复始，推荐系统在更为精准地推荐人这件事上，几乎没帮上什么忙。</strong></p>\n  <p>“良配”的核心逻辑，正是在解决“精准匹配”问题上，这与曾歆勋此前在Kimi的工作也高度同源。</p>\n  <p>在Kimi做AI搜索技术负责人期间，曾歆勋每天的工作，就是带着团队研究如何用AI帮助用户精准匹配信息，并探索这一简单动作背后可以创造的商业价值。</p>\n  <p>长久以来，他观察到AI搜索存在一个现象：在通用搜索领域，随着技术进步，搜索的结果越好、答案质量提升越显著，与此同时耗费的算力成本也更高。但用户的单次搜索难以形成付费，“现在各家的AI搜索都是免费提供的，用户可以免token费用使用，因为大家认为用户心智这个东西不该花钱，不愿意花钱。”曾歆勋说。</p>\n  <p>但专门只做某个方向（如医疗、金融、法律等）的AI搜索产品，情况大不相同。这类搜索服务往往会接入大量私有数据库，帮助用户进行搜索、匹配，用户愿意为这些搜索结果支付费用。</p>\n  <p>曾歆勋认为，这不仅是因为两者的技术效果与成本差异，而是因为后者的答案更关乎切身利益，一条专业的医疗答案可能救命，一条专业的法律咨询的答案直接影响决策。</p>\n  <p>这些场景的高溢价恰好说明：不是用户不愿意为“信息”付费，而是通用场景的信息价值太低。同样的AI技术，放在通用搜索里找不到挣钱的路径，但如果放在法律、医疗等具体的搜索场景里，就能找到商业变现的机会。</p>\n  <p>沿着这个逻辑往下推，他认定，“找人”是搜索的另一个高价值场景。其中的两大典型场景，一是招聘，二是婚恋。</p>\n  <p>在曾歆勋看来，<strong>对AI来说，找人和高精度的信息匹配是同一回事。</strong>AI搜索与婚恋匹配的技术动作完全一样，都是“理解意图——分析并匹配需求——输出搜索结果”这一步骤。Kimi做的是输入一个问题、匹配信息，良配做的是输入一个人的条件和对伴侣的期待、匹配另一个人。搜索的目标变了，但底层的逻辑没有变。</p>\n  <p>用AI搜索介入婚恋匹配，他把婚恋匹配拆成了三个环节，每个环节都对应婚恋匹配这件事的一个具体瓶颈。</p>\n  <p><strong>第一个环节是资料采集。</strong>在婚恋平台上，用户写自我介绍是一件平常之事。但不是所有人都能清晰、有逻辑、有层次地描述自己，所以，平台上大量用户资料近乎空白，系统缺乏有效信息去做推荐。</p>\n  <p>在曾歆勋看来，这不是用户的意愿问题，是能力问题。在“良配”上，设计团队制作了一个“AI红娘”，用来帮助用户完成资料采集。用户注册后，与AI红娘打20分钟的语音电话，AI会进行个性化提问，用户不需要组织语言，如实回答即可，完成后，AI便可生成有效的自我介绍，梳理清楚用户的婚恋预期、价值观等婚恋匹配所需的基本信息，用于后续的需求分析与匹配。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_853c5430af464fa7b37ea50ed816641e@17865612_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">良配“AI红娘”界面展示，受访者供图</p>\n  <p>&nbsp;</p>\n  <p>AI技术的介入，把用户有效采集资料的门槛，从“会精准表达”下调。“良配”小程序上线后，曾歆勋和同事发现，用户平均资料长度463个字，而此前，他们人工统计了婚恋领域的头部产品，用户平均资料长度为132���。</p>\n  <p><strong>第二个环节，是精准的匹配算法。</strong>上一代产品依赖年龄、身高、学历这些结构化标签做推荐。但其实，决定两个人是否合适的核心信息，关乎价值观、成长经历、性格、生活方式。</p>\n  <p>这些都在用户写的文本里，但过往的推荐系统分析不了，也用不上。基于标签化信息推荐之后，依然要用户自行从人海中排除大量对婚姻预期不一致的人选，找到准确的人依旧耗费心力。</p>\n  <p>曾歆勋很清楚这一点：上一代推荐算法处理不了自然语言，直到大语言模型的出现。良配正在训练专用匹配模型，输入是用户完整资料，包括对外展示的文本和AI红娘对话的原始记录。模型理解两份资料的内容后，会开始分析用户的深度信息，用于后续更精准的匹配。</p>\n  <p><strong>第三个环节，是沟通中介。</strong>婚恋场景里，有些问题必须在确认关系前厘清，比如家庭资产、负债、婚恋史、健康状况、彩礼预期等。在男女双方刚认识的阶段，这些问题没法直接开口。拖到接触几个月后再问，沉没成本已经高到让一部分人不愿面对分歧。</p>\n  <p>针对这点，良配做了两个功能。AI分身与AI军师。前者匿名接收和回答问题，被问方不知道具体的提问方，收到问题时，只知道有潜在的匹配对象希望知道自己的某个具体情况，缓解了那种一对一核对信息的尴尬感。后者，AI军师，则负责在真人沟通过程中提供话题建议和态度判断。</p>\n  <p><strong>在用户规模和社区氛围之间做出选择</strong></p>\n  <p>曾歆勋观察到，很多交友平台不得不在“用户量数据”和“社区氛围”之间反复摇摆。</p>\n  <p>为了把用户量做大，平台很难果断地把自己定位成一个纯粹的“严肃婚恋平台”，而是需要把关系类型泛化，以“帮你认识新朋友”“帮你脱单”为口号。这样一来，边界模糊，什么目的的用户都可以进来，这导致在交友平台上，不同目的的用户混在一起，最后谁都不满意。</p>\n  <p>曾歆勋对“智能涌现”说了一段话，可以看作他对这个问题的底层判断：<strong>“如果你觉得自己在做严肃交友软件，你就应该在方方面面维护这个氛围。过去的产品没有一个做得好，大家都是既要又要，两头都兼顾不到。”</strong></p>\n  <p>他的选择是放弃“既要又要”，明确良配是一个严肃的、以结婚为目的的婚恋平台，围绕这个定位，在所有环节设计筛选机制，让非目标用户在注册过程中自行离开。</p>\n  <p>良配设置了多层筛选机制：实名认证、人脸识别、与AI红娘进行约20分钟语音对话、AI资料诊断评分（70分以上方可上线），用户依次通过才能进入平台。平台还会对注册用户进行婚姻状态确认，已婚用户直接拦截。产品上线第一周，已经拦截了50多名已婚用户注册。</p>\n  <p>此外，良配还设计了严格的“1v1匹配机制”。用户进入匹配后，同时只能与一名匹配对象聊天，确认对方不合适后，才能解除匹配、去了解其他人。“这是我们为认真的社区氛围做的最重要的产品取舍，”曾歆勋说，“这个机制，可以规避泛社交平台中，用户之间交流的猜疑与博弈，同时，确保每一次匹配都值得被用户认真对待。”</p>\n  <p>种种规则的制定，是基于曾歆勋信任的一个逻辑：“一个人如果只想找短期关系，他是不会愿意在一个平台上透露那么多真实信息的，也不会通过那么多筛选环节。”</p>\n  <p>社区的氛围在反向约束用户行为。曾歆勋从中验证了一个判断：社区氛围不是靠规则管出来的，是靠筛选机制长出来的。当门槛足够硬，符合标准的人进入社区后，氛围会自然形成；氛围形成了，又会反向约束进来的人的行为。两者形成正向循环。</p>\n  <p>在曾歆勋看来，AI可以通过精准地分析用户找人需求，提高精准匹配效率。但一个严肃的婚恋社区能不能跑起来，还要看筛选机制够不够硬、商业模式跟产品目标是不是方向一致。这些东西AI解决不了，得靠人想清楚，再做出来。一个只懂技术的团队，难以做到这点。</p>\n  <p><strong>保结婚，一次关于交付的新尝试</strong></p>\n  <p>在曾歆勋看来，上一代婚恋产品做不好，根本原因不全是技术落后，而是商业模式和产品目标之间产生了底层冲突：在过去，几乎所有婚恋产品都是订阅制，按年或月收取会员费。这意味着，用户的留存时间越久，平台的收入越高。也因如此，平台欠缺帮用户尽快找到人的动力。</p>\n  <p>“这种情况下，平台并不真心想帮助用户成功。会设计各种方式让你付费，榨干用户最后一点价值以后，导致用户失望离开。”曾歆勋说。</p>\n  <p>于是，他重新设计了婚恋平台的交付逻辑。用户付费，收获的不是平台服务的使用时限，而是把“婚恋结果”作为给付费的交付目标。具体来说，他规划了“保结婚会员”计划，其核心规定是，<strong>用户支付2000元会员费后，若在加入良配后的3年内未能领证结婚，平台将全额退款。</strong></p>\n  <p>这一模式，经历过三个版本的推演。</p>\n  <p>第一个版本是“保证用户至少认识一个人”。用户在平台上互相发消息、聊几句之后约见面，但凡见面成功，就算交付了一个结果。如果一个人都没认识，一分钱不收。这个方案他与投资人讨论过，得到的反馈是：用户可能会扯皮——也许是交换了微信，但没见到人，又或者见到人了，但闹得很不愉快，用户为此不愿意承认交付结果，比较冒险。</p>\n  <p>第二个版本是“保证你能够交往、谈恋爱”。问题更大，因为谈恋爱没法验证，任何人谈了都可以说没谈，逃单率无限逼近百分之百。</p>\n  <p>最终他发现，婚姻状态是唯一可查询、不可伪造的交付标的。于是，他把付费用户的交付标准定为“按结婚结果交付”。</p>\n  <p>“3年”的期限也不是拍脑袋决定的。他们的团队在深圳南山民政局和福田民政局排队领证的人群里做了约150份问卷，希望知道这些新婚夫妻怎么认识的、认识了多久结婚？</p>\n  <p>“排除同学、同事、青梅竹马这些天然关系，凡是工作后通过介绍或网络平台认识的，70%在三年内结婚，” 曾歆勋介绍：“合适就结了，不合适就分了。三年是一个很自然的节点。”</p>\n  <p>关于“拖三年再结婚、恶意退费”的担忧，他的判断是：“对中国人来说，结婚是人生大事，这里头有太多支出比2000元高。结婚这件事跟2000块比，2000块根本不够影响决策，选什么黄道吉日都比这个分量重。”</p>\n  <p>目前，良配的产品仍在早期阶段。AI红娘能否持续产出高质量资料、专用匹配模型的准确率能否达到80%、三年后有多少用户领证结婚，这些都需要时间验证。</p>\n  <p>但良配这类产品的实践中，AI技术解决的不是仅仅社会效率问题，还介入了社会现实。中国有大量单身成年人的的婚恋需求没有得到有效供给。上一代产品的功能止步于“让人认识人”，而在“让人找到合适的人”这件事上，AI技术也许可以提供更多实质帮助。</p>\n  <p><strong>封面来源｜WAIC官方</strong><br />&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_87f7d5b1004f4f0f8605c223a653590a@17865612_oswg33308oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">*</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_ee21780db4b641cd9a0c863c2f239d25@17865612_oswg37106oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">*</p>",
-      "category": "tech",
-      "published_at": "2026-07-25T11:00:21+00:00",
-      "fetched_at": "2026-07-26T02:23:45.195542+00:00",
-      "fingerprint": "a3081b2a41959334"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
-      "url": "https://36kr.com/p/3911162147640456?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。</p>\n  <p>这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-A+轮的近5亿融资也在交割当中。该公司透露，今年上半年以来，「眸深智能」的估值增长超10倍，是业内发展速度最快的具身大脑企业之一。</p>\n  <p>「眸深智能」成立于2025年1月，定位为全球最懂动作的自进化具身大脑公司，致力于\"给10亿台机器人装原生通用大脑\"。</p>\n  <p>该公司由复旦大学深度学习实验室主任陈涛教授、原英特尔中国首席科学家张益民博士，与连续创业者穆泽林共同创办。核心团队拥有海思、英特尔、英伟达三大芯片巨头的背景人士，是国内少数具备算子级适配能力的具身大模型团队。</p>\n  <p>尽管2025年才注册成立，「眸深智能」的技术积累从2022年已经开始。在技术路线上，「眸深智能」选择了一条与主流VLA（视觉-语言-动作）不同的路径——以动作为核心的\"世界动作模型\"（World Motion Model）。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_adde42ccc1284ca98cb44e97b6d41f5a@1199336245_oswg77948oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>从2022年起，「眸深智能」团队已经发布了<strong>MLD（隐空间动作扩散模型）</strong>。在当时，行业主流是将动作视为离散的信号，导致生成的动作僵硬且缺乏多样性，而「眸深智能」团队在全球dede范围内首次提出将动作映射到隐空间（Latent Space），并引入扩散模型（Diffusion Model）。</p>\n  <p><strong>MLD</strong>相当于让AI学会了“无师自通”地生成动作：不再需要逐帧教机器人如何走路，而是让模型像画家去噪一样，从一团随机噪声中还原出自然、连贯的人体姿态。</p>\n  <p>如果说MLD解决了“怎么生成动作”，「眸深智能」又进一步着眼于如何“指挥动作”。2023年9月，团队创造性发布了<strong>MotionGPT</strong>。类比汉字的基本笔画，团队将人体姿态拆解为约3000个“动作基元”。就像大语言模型（LLM）通过预测下一个token来生成句子一样，MotionGPT通过预测下一个“动作token”来生成复杂行为。</p>\n  <p>这种将连续动作离散化的处理方式，不仅极大地提升了模型对长序列任务的理解能力，更重要的是，它让机器人具备了Zero-Shot（零样本）泛化能力——没见过的动作指令，也能通过重组动作词汇来理解并执行。这也是全球首个把动作做成token的具身大模型，发表于NeurIPS 2023。</p>\n  <p>到了2026年，团队已经累计发布了7代模型，基于前述积累，「眸深智能」团队又进一步推出了STI- WM（时空一体世界动作模型）具身大模型。</p>\n  <p>STI-WM时空一体世界动作模型是完全面向机器人长时序规划、在线闭环控制、真实物理交互打造的原生具身智能框架，实现空间结构、时间演化、物理一致性、执行鲁棒性四维一体化统一。</p>\n  <p>据介绍，STI-WM的核心突破在于，彻底摆脱了传统VLA（视觉-语言-动作）模型对海量真机数据的重度依赖，采用了“80%互联网视频+10%动捕数据+10%真机数据”的训练配方，并MotionGPT建立的动作词典，从海量无标注的视频中学习物理规律，再用少量动捕数据校准生物力学特征，最后仅用10%的真机数据完成闭环对齐。</p>\n  <p>也就是说，这种全新的数据训练范式，将真机数据需求降低了90%，又将动作准确度提升至99%。</p>\n  <p>同时，「眸深智能」团队又在今年3月提出的T²MB（Task*Task Motion Brain）也让机器人具备了离线自进化能力，当模型部署到端侧后，无需联网回传数据，仅凭本地交互就能持续优化性能，任务执行准确度最高提升25%，解决了机器人落地后发现bug必须返厂升级的痛点。</p>\n  <p>值得注意的是，英伟达DAIR实验室在最新ARDY模型中，便援引了「眸深智能」的MLD与MotionGPT两项原创技术——这是近两年英伟达第三代动作模型对该公司技术路线的第四次引用。</p>\n  <p>不过，真正决定这套大脑能否规模化的，除了技术路线之外，还有端侧算力成本，这也是「眸深智能」的一大竞争壁垒。据介绍，「眸深智能」从第一代模型起就同步推进两个方向——模型压缩与国产芯片适配。</p>\n  <p>一方面，通过模型蒸馏、冗余参数压缩等工程化方案，「眸深智能」将千亿参数级模型压缩至百亿级别，在具体场景中参数量降低约75%，端侧推理延迟从约200毫秒降至10毫秒左右；另一方面，同步适配海思（昇腾310/910）、地平线、燧原（燧原S60）等国产芯片平台，实现低功耗、高实时、超低成本的端侧推理。</p>\n  <p>这套软硬协同的打法，带来的直接结果是，模型端侧推理成本从20万元降至1万元，大脑续航时间提升10倍，而精度和性能却不掉点。这一压缩工作也帮助该团队获得了IJCAI 2025全球最佳论文奖，也是近五年唯一获此奖项的中国大陆团队。</p>\n  <p>依托这一能力，「眸深智能」可在两周内完成一套具身大模型从一个本体到另一个本体的适配，包括复旦自研的“光华1号”、宇树G1、上海人形机器人创新中心的“青龙”和“灵龙”等本体。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_8175249a34f6429f9bc784990c887828@1199336245_oswg743309oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>「眸深智能」创始人、CEO穆泽林表示，国内具身智能行业普遍采用在国外芯片上训练、再移植适配国产芯片的方案，性能损耗与兼容性问题突出，而「眸深智能」未来在模型训练、推理全流程中将基于国产算力芯片原生开发，实现技术栈完全自主可控。</p>\n  <p>在商业化层面，「眸深智能」也是目前国内少数有营收的具身智能大脑公司。穆泽林告诉硬氪，其2025年审计回款收入千万元，2026年上半年3000万元，预计今年营收规模5000万元以上。</p>\n  <p>目前，公司客户覆盖工业检测、物业、环卫等场景。2026年第一季度，「眸深智能」已与某港股上市物业公司、A股上市环卫龙头的机器人产品交付；正在推进与头部连锁零售集团、头部白色家电工厂的人形机器人落地场景研发。</p>\n  <p><strong>以下是硬氪与穆泽林的交流实录（略经摘编）</strong></p>\n  <p><strong>硬氪：动作怎么变成Token？这是行业难点吗？</strong></p>\n  <p><strong>穆泽林：</strong>&nbsp;确实是行业卡点。我们可以把动作理解为「数字化的姿态」：就像小人书的一页是一个静态姿势，连续翻页就成了动画。我们早期通过几十人团队手工标注了几万个姿态，定义了3000多个基础动作Token，类似汉字的3000个常用字，组合后能覆盖人类所有行为。</p>\n  <p>更核心的是让模型学习动作间的关联：就像大语言模型通过学习海量文本掌握字词排列规律，我们让模型观看百万小时的互联网视频（影视剧、监控、Vlog等），学习「喝水时手会抬到嘴边」「抱胸后大概率会展开手臂」这类动作因果逻辑。同时结合10%的动捕数据和10%的真机数据做校准，最终实现动作Token的端到端生成——支持从文本、图片、3D点云到动作的转化，也就是原生多模态能力。</p>\n  <p><strong>硬氪：动作Token的组合会不会导致算力需求爆炸？如何优化？</strong></p>\n  <p><strong>穆泽林：</strong>&nbsp;我们不需要穷举所有动作，而是学习动作的排列规律。优化主要有两个方向：一是数据层面，80%用互联网视频（已做物理先验过滤，确保符合现实规律），降低对高成本动捕/真机数据的依赖；二是模型压缩层面，我们在端侧部署上有深厚积累，曾获得全球顶会最佳论文——通过Token剪枝、量化、动态优化等技术，能把端侧计算量降低62倍，推理延时从200毫秒压缩到10毫秒，模型参数量减少80%的同时精度不降反升（部分任务提升3%-6%）。</p>\n  <p><strong>硬氪：现在具身智能领域技术路线分化，有的侧重记忆，你们是侧重动作，您怎么看这种分化？</strong></p>\n  <p><strong>穆泽林：&nbsp;</strong>回归第一性原理：大语言模型的成功本质是Transformer架构实现了Token的排列生成。具身智能也应该遵循这个逻辑，核心是解决「执行层」问题——让机器人能稳定完成任务。</p>\n  <p>像记忆优化这类更底层的问题，我认为短期很难通过初创公司突破，需要DeepSeek、OpenAI这类巨头在芯片存储、存算一体架构上的长期探索。我们更务实：通过动作Token的泛化能力（Zero-Shot）解决新任务执行问题，比如机器人学过拿矿泉水瓶，没学过拿手机，也能通过动作序列迁移完成80%的准确度，剩余20%通过少量后训练或强化学习校准即可。</p>\n  <p><strong>硬氪：为什么选择适配国产算力，而不是用更成熟的英伟达卡？</strong></p>\n  <p><strong>穆泽林：</strong>&nbsp;长期来看，国产GPU是必然选择——N卡会越来越贵、供应受限。我们的核心优势是「懂芯片」：团队有海思、英特尔、英伟达三大芯片巨头的背景，是国内唯一具备算子级适配能力的具身大模型团队。目前已经打通了燧原S60、昇腾310/910等国产芯片的部署，下半年目标是攻克千卡级国产集群训练，实现纯国产化的大模型训练方案。</p>\n  <p>这不仅能解决供应链安全问题，更能提升资本效率：比如别人训练一次需要1万张卡、花费5亿，我们通过算子优化，1000张卡、5000万就能完成，类似DeepSeek的低成本训练逻辑。</p>\n  <p><strong>硬氪：具身智能芯片的机会在哪里？你们会自己做吗？</strong></p>\n  <p><strong>穆泽林：</strong>&nbsp;端侧具身芯片确实是大机会，目前国内已有20多家公司在布局（比如辉曦、光与星辰等），但大多瞄准200TOPS算力（类似英伟达Orin）。我们认为未来模型需要处理触觉、传感器、3D点云等多模态信号，算力需求会快速提升到1000-2000TOPS——如果芯片公司现在量产200TOPS的产品，等流片出来时可能已经跟不上模型迭代速度。</p>\n  <p>我们不会自己做芯片，除非未来公司规模达到数千亿级。现阶段更聚焦「软硬协同」：通过算子优化让模型适配现有芯片，和芯片公司合作而非重复造轮子。</p>\n  <p><strong>硬氪：未来产业分工会是怎样的？大脑和本体是否会各自形成通用供应商？</strong></p>\n  <p><strong>穆泽林：&nbsp;</strong>本体可能会像汽车行业一样，有不同的特色（比如负载更大、更轻量化），但大脑领域大概率会形成「一超多强」格局——通用大脑的研发门槛极高，国内真正具备研发能力的团队屈指可数。我们目标是成为那个「超级通用大脑」，同时允许其他团队聚焦细分场景（比如快递分拣、电力巡检）。</p>\n  <p>5-10年内，不会出现每家机器人公司都自研大脑的情况——大脑的研发投入（人才、算力）远超本体，创业公司更有机会突破，就像OpenAI不是大厂孵化的。大厂的优势在纯软件场景，而具身智能需要软硬件深度结合，创业公司的灵活性和专注度更有优势。</p>\n  <p><strong>首页图源｜企业供图</strong></p>\n  <p><strong>排版｜范馨雅</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260725/v2_cc5e5e40201d48cfa86218ef525d38db@1199336245_oswg53621oswg1080oswg337_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">end</p>\n  <p>&nbsp;</p>\n  <p>&nbsp;</p>\n  <p class=\"editor-note\">&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-07-26T01:00:00+00:00",
-      "fetched_at": "2026-07-26T02:23:45.195526+00:00",
-      "fingerprint": "144e4f4ffc8639a5"
-    },
-    {
-      "source": "少数派",
-      "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
-      "url": "https://sspai.com/post/112093",
-      "summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。<a href=\"https://sspai.com/post/112093\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-07-25T03:09:49+00:00",
-      "fetched_at": "2026-07-26T02:23:43.797386+00:00",
-      "fingerprint": "2ebce7403d3eae54"
     }
   ]
 }
