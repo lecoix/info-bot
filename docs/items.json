@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-08-09T01:18:58.204009+00:00",
-  "count": 202,
+  "updated_at": "2026-08-10T01:20:39.063815+00:00",
+  "count": 207,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "category": "politics",
+      "published_at": "2026-08-09T16:18:10+00:00",
+      "fetched_at": "2026-08-10T01:20:38.807109+00:00",
+      "fingerprint": "b2cf7f1b3bf044a5"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "category": "politics",
+      "published_at": "2026-08-09T23:05:29+00:00",
+      "fetched_at": "2026-08-10T01:20:38.807103+00:00",
+      "fingerprint": "b44a896da49c85a1"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "category": "politics",
+      "published_at": "2026-08-09T21:25:04+00:00",
+      "fetched_at": "2026-08-10T01:20:38.807098+00:00",
+      "fingerprint": "5f5f6aa61aaddec3"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "category": "politics",
+      "published_at": "2026-08-09T20:58:18+00:00",
+      "fetched_at": "2026-08-10T01:20:38.807089+00:00",
+      "fingerprint": "a5a5ada9099826f0"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「瘦瘦針」如何改變人們的飲酒習慣？",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d3735ng1o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "包含猛健樂在內的「瘦瘦針」施打者告訴BBC，除了減肥外，他們的飲酒量大幅下降，但也妨礙了在大學的社交生活。",
+      "category": "politics",
+      "published_at": "2026-08-09T03:59:09+00:00",
+      "fetched_at": "2026-08-10T01:20:38.759226+00:00",
+      "fingerprint": "f13692fc54061508"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "班克斯在英國法庭外作畫 至今花費公帑近15萬英鎊",
+      "url": "https://www.bbc.com/zhongwen/articles/crl74ww8581o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "資訊自由（FOI）申請顯示，班克斯的藝術作品已花費英國納稅人近15萬英鎊，而且費用還在不斷上漲。",
+      "category": "politics",
+      "published_at": "2026-08-10T00:01:29+00:00",
+      "fetched_at": "2026-08-10T01:20:38.759220+00:00",
+      "fingerprint": "3a5acf21712fff49"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "加拿大山火迅速蔓延並擴大一倍 當局宣布進入緊急狀態",
+      "url": "https://www.bbc.com/zhongwen/articles/cjejnyxg9ggo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "在不列顛哥倫比亞省的鮑德山脈，大火仍處於「失控」狀態，已蔓延超過 95 平方公里。",
+      "category": "politics",
+      "published_at": "2026-08-09T08:34:35+00:00",
+      "fetched_at": "2026-08-10T01:20:38.759213+00:00",
+      "fingerprint": "4d0b86ac49a51913"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "霍爾木茲海峽：阿曼稱會談進展順利，伊朗則警告協議不會打通海峽",
+      "url": "https://www.bbc.com/zhongwen/articles/cy74j0rz54go/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "雙方均表示，在就開闢一條穿越海峽的新航線進行談判方面取得了進展，但能否取得突破仍不明朗。",
+      "category": "politics",
+      "published_at": "2026-08-09T04:27:09+00:00",
+      "fetched_at": "2026-08-10T01:20:38.759203+00:00",
+      "fingerprint": "13226c31dcb4f61c"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-10T01:20:38.453665+00:00",
+      "fingerprint": "76c3a3f4cc294533"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-10T01:20:38.453534+00:00",
+      "fingerprint": "0d16b5c04c4ebc49"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
+      "url": "https://publicdomainreview.org/collection/marnameh/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-10T01:20:38.453367+00:00",
+      "fingerprint": "f990aa9af8b2cea7"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-10T01:20:38.453230+00:00",
+      "fingerprint": "53b8683a0a47fb47"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-10T01:20:38.453076+00:00",
+      "fingerprint": "bceb7281e531cfb5"
+    },
+    {
+      "source": "The Verge",
+      "title": "Dropbox is a PC builder’s best friend",
+      "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-09T13:00:00+00:00",
+      "fetched_at": "2026-08-10T01:20:38.158612+00:00",
+      "fingerprint": "e3d631b14a8e5836"
+    },
+    {
+      "source": "The Verge",
+      "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+      "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+      "summary": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-09T15:56:49+00:00",
+      "fetched_at": "2026-08-10T01:20:38.158606+00:00",
+      "fingerprint": "7e4104cd51cee470"
+    },
+    {
+      "source": "The Verge",
+      "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+      "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+      "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-09T17:20:30+00:00",
+      "fetched_at": "2026-08-10T01:20:38.158599+00:00",
+      "fingerprint": "ca306868f00922af"
+    },
+    {
+      "source": "The Verge",
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-09T20:28:31+00:00",
+      "fetched_at": "2026-08-10T01:20:38.158590+00:00",
+      "fingerprint": "59fe9d99564b8136"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "最前线|中科慧思发布三款灵巧手产品，要从“抓取”走向真实场景作业",
+      "url": "https://36kr.com/p/3931010805579139?f=rss",
+      "summary": "<p>8月7日，在湖南长沙首次亮相的中科慧思具身智能（湖南）有限公司（以下简称“中科慧思”）发布三款灵巧手产品。</p>\n  <p>中科慧思成立于2026年7月，由北京中科慧灵机器人技术有限公司（简称“中科慧灵”）、蓝思科技股份有限公司（简称“蓝思科技”）与湖南华夏投资集团有限公司(简称“华夏集团”)共同成立。</p>\n  <p>公司专注于灵巧手及具身操作能力的科技企业，以灵巧手为产品入口，面向机器人抓取、操作和作业能力建设，致力于推动灵巧手从单一硬件部件向软硬件结合的操作能力平台发展。</p>\n  <p>此次发布的三款产品针对不同任务需求，其中，L1采用轻量化、精简自由度的产品路线，主打高性价比、高稳定性、长寿命和易部署。精简自由度配置有助于控制系统复杂度与产品成本，轻量化设计能够减少机器人手臂末端负担，较快的开合与响应能力则可以面向高频动作和连续运行需求。在CASBOT BAND机器人乐队中，L系列灵巧手已经应用于吉他、贝斯、电子琴等真实乐器演奏。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_afdfb79c597647658cbb8214a5f12e86@6310669_oswg672817oswg2560oswg1707_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">CASBOT BAND机器人乐队表演</p>\n  <p>D1定位为高自由度通用五指灵巧手，主打运动灵活性、多关节独立运动、多指协同与触觉感知能力。M1定位为模块化场景灵巧手，围绕复杂场景操作需求进行设计，通过“标准化主体＋功能化指尖”的模块化架构，实现不同作业能力的快速切换。</p>\n  <p>另外，F系列为本次预发布产品，其围绕高自由度、仿生结构和柔顺操作展开探索。通过绳驱仿生结构，探索更加接近人手运动方式的高自由度柔顺操作能力。</p>\n  <p>作为机器人与环境交互的末端执行器，灵巧手正在成为推动人形机器人技术变革的关键突破口。高工产业研究院（GGII）发布的《2026年H1中国灵巧手行业调研报告》显示，2025年中国灵巧手市场销量约1.92万只，同比增长236.84%；预计2026年销量将达到7.02万只，同比增长265.63%。</p>\n  <p>然而，行业竞争仍停留在参数层面。目前，灵巧手行业的产品评价较多集中在自由度、重量、负载、速度、精度和传感配置等指标。这些参数固然重要，但在人类完成精细操作时，真正发挥作用的不只是手指数量，而是手部结构、感知能力、力量控制以及长期经验的综合协同。</p>\n  <p>比如，高自由度并不会自然转化成灵巧作业技能。机器人能够稳定拿起一把螺丝刀，只说明它具备了抓取能力；真正完成旋拧，还需要控制工具姿态、位置、运动轨迹和作用力。因此，应进一步关注机器人能否完成真实任务，从“抓取能力”走向“操作能力”，再走向“作业能力”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_7d8c7a62bef14d9f9351d9e46cf96163@6310669_oswg2657518oswg4000oswg2667_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">L1轻量版通用灵巧手（高速版）现场展示</p>\n  <p>关注从硬件到数据再到技能的完整链条也是是中科慧思三款产品的研发逻辑。据了解，中科慧思虽然成立时间不长，但产品与技术基础来自中科慧灵在具身智能多年形成的研发能力与场景实践。中科慧灵创始人、董事长张正涛表示，中科慧思成立以后，团队将把这些能力和经验进一步产品化和系列化，让不同产品分别回答通用操作、高自由度操作和场景适配问题。</p>\n  <p>硬件定义数据的上限，数据定义硬件的价值。系列化本体为数据采集提供统一、稳定的硬件载体，持续积累的同源数据又能够反向推动模型能力、操作技能与产品性能提升，形成由本体和数据的相互促进。</p>\n  <p>因此，在灵巧手产品矩阵的基础上，中科慧思还进一步提出“多系本体×数据采集”的双飞轮发展逻辑。一方面，通过不同结构、不同自由度和不同应用定位的系列化灵巧手本体，为机器人整机、科研开发、数据采集及场景应用提供硬件基础；另一方面，通过数据手套、遥操作设备和数采工具链持续积累灵巧操作数据，推动模型、技能和硬件迭代。</p>\n  <p>目前，中科慧思已落户湖南湘江新区，并宣布参与建设专业化灵巧手技能训练场，围绕真实任务开展数据采集、技能训练与应用验证。</p>\n  <p>&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-09T02:30:15+00:00",
+      "fetched_at": "2026-08-10T01:20:38.053432+00:00",
+      "fingerprint": "a810f6c340e8341e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨宇树科技今日申购，中一签或赚20万元；胖东来关闭许昌24年老店，于东来回应；拜登前列腺癌持续恶化，癌细胞已扩散",
+      "url": "https://36kr.com/p/3932930478587010?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>苹果回应删除接入千问手册</li>\n   <li>影片《八仙！》票房突破14亿元</li>\n   <li>理想汽车-W于8月6日斥资361.82万美元回购57.27万股</li>\n   <li>消息称SpaceX收购Cursor交易最快下周完成</li>\n   <li>英特尔任命Dean Jarnac为首席销售官</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>宇树科技今日申购，中一签或赚20万元</strong></p>\n  <p>8月10日，宇树科技将在科创板开启申购，A股“人形机器人第一股”正式登场。宇树科技证券代码688836，网上申购代码787836。发行价格为150.80元/股，对应上市时市值约609.93亿元，对应2025财年发行后市盈率为219倍。根据公告，宇树科技网上、网下申购日均为8月10日，缴款截止日均为8月12日，首发募资约61亿元。中一签（500股）需缴款7.54万元。</p>\n  <p>考虑到宇树科技本次发行流通盘规模较小，又叠加“第一股”的题材光环，多家券商综合测算显示，其预计中签率在万分之二至万分之三之间，远低于长鑫科技0.47%的中签率水平。数据显示，2026年以来A股新股上市首日平均涨幅高达276.04%，若以此测算，中一签宇树科技账面盈利有望突破20万元；若对标年内科创板新股首日466.61%的平均涨幅，单签盈利可达35.18万元。 （新浪财经、21财经）</p>\n  <p><strong>于东来发文回应关闭胖东来许昌生活广场店</strong></p>\n  <p>8月9日，胖东来创始人于东来发文回应许昌生活广场关店一事。“不专业造成的失误是金钱无法衡量的。2015年左右，关于许昌生活广场，由于负责此项工作人员没有按照公司规定造成的工作失误，签约租约合同没有统一签订，最后造成个别租户租金涨到无法想象的地步，远远脱离了公平。导致公司退也退不成，因为很多已经签了合同，继续干也不是，干也总是影响情绪。其实这几户总体占比并不很大，但无论钱多钱少，失去公平正义的精神是底线，这么多年始终是我的心结。”于东来表示，“所以到了到期的时候，虽然生活广场一年二十亿的销售，一年一个多亿的利润，但信仰和开心永远是第一位的。任何工作，专业是美好最根本的保障。幸福快乐是一切的前提。”此前，于东来在直播中宣布：胖东来许昌生活广场店将于2026年12月正式关闭。（界面新闻）</p>\n  <p><strong>苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能</strong></p>\n  <p>针对删除《在Mac上配合Apple智能使用千问》使用文档一事，苹果客服最新回应新浪科技称：“我们有功能或新项目发布时，都会提前收到通知，目前并没有收到相关通知，中国大陆还没推出‘Apple智能使用千问’相关功能。”昨日，一篇名为《在Mac上配合Apple智能使用千问》的支持文档现身苹果官网Mac简体中文使用手册，明确提到Apple智能可配合阿里巴巴千问模型工作。但该文发布不到24小时后被苹果方面删除。今年7月15日，阿里巴巴方面曾回应称，千问将作为AI能力集成至Apple智能，覆盖iOS、iPadOS、macOS及visionOS的中国用户。（新浪科技）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>首个全国产10万卡AI超集群投用，全国算力“一张网”加速成形</strong></p>\n  <p>据国家发展改革委，今年以来，中国算力底座进一步夯实，首个全国产10万卡人工智能超集群日前正式投用。标志着中国算力基础设施建设迈入10万卡级部署新阶段。全国多个算力节点迎来新���轮算力扩容。（央视新闻）</p>\n  <p><strong>OpenAI等美企被曝旗下AI模型“越界”，安全风险引担忧</strong></p>\n  <p>美国开放人工智能研究中心（OpenAI）7日发布声明称，最新的内部评估结果显示，该公司即将推出的人工智能模型“阿斯特拉”在“网络安全活动”方面，可能达到有严重风险的级别。该公司决定采取包括暂停涉及该模型的部分活动等安全保障措施。近期，美国多家企业陆续承认旗下人工智能模型在测试中“越界”，引发全球业界广泛关注。分析认为，此事除了技术失误等因素外，也存在商业炒作嫌疑。同时，AI风险日益凸显，全球需要加强安全监管。（央视新闻）</p>\n  <p><strong>奥特曼称OpenAI正推进Astra开放，但因网络安全风险需延后部署</strong></p>\n  <p>当地时间8月7日，OpenAI首席执行官山姆·奥特曼表示，公司正在推进下一代模型Astra向公众开放，但由于该模型具备较强网络安全能力，需要“多一点时间”确保安全部署。他表示，OpenAI并不认为将强大模型限制给少数用户是正确策略，希望Astra最终能够广泛开放。奥特曼称，Astra是一款“强大的模型”，公司希望在确保安全的前提下尽快向更多用户提供。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>原字节跳动机器人一号位加入小米，负责基座模型研发</strong></p>\n  <p>从多方独立信源处确认，原字节跳动机器人团队负责人孔涛已加盟小米，目前担任小米机器人基座模型团队负责人。多位知情人士透露，孔涛于2025年夏天就已加入小米，并带来不少原先在字节跳动工作的员工。目前，小米机器人事业部大约有200人。“小米机器人的基座模型团队很神秘。孔涛带领的基座模型团队有单独的办公地。小米高管集体在飞书上开会时，孔涛甚至不用露脸。”一位接近小米机器人的知情人士透露。小米机器人事业部对内也属于高度保密状态。（21财经）</p>\n  <p><strong>朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中</strong></p>\n  <p>8月8日，有消息称微信在灰度测试朋友圈“AI帮写”与“AI点评”两项能力，对此记者咨询腾讯客服后获悉，目前朋友圈的AI相关功能仍在逐步开放中，部分智能互动功能可能已在灰度测试阶段，具体支持情况请以所使用的微信版本更新情况为准。（新浪财经）</p>\n  <p><strong>摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售</strong></p>\n  <p>国产GPU龙头摩尔线程发布《2026年半年度报告》。根据报告，2026年上半年，摩尔线程实现营收17.36亿元，同比大幅增长147.42%，已超2025年全年营收；毛利总额达9.89亿元，同比增长103.78%；盈利能力显著改善，归母净利润、归母扣非净利润分别较上年同期亏损收窄95.73%、52.37%。同时，摩尔线程保持高强度研发投入，2026年上半年研发投入7.69亿元，同比增长38.16%。2022年以来累计研发投入近59亿元。报告期内，摩尔线程商业化全面提速。MTT S5000智算集群实现规模化销售，已在北京、无锡、杭州等多地完成落地部署，并首批通过国家《安全可靠测评》，高端训练能力取得多项\"国芯训国模\"突破。公司加速渗透互联网、运营商等关键客户，以更丰富的应用场景持续推动收入高增。MUSA软件栈生态日益完善，开发者数量超过80万人。（财联社）</p>\n  <p><strong>伊朗外长强调霍尔木兹海峡未重新开放</strong></p>\n  <p>当地时间9日，伊朗外长阿拉格齐表示，伊朗正与阿曼就调整霍尔木兹海峡航道进行磋商，目前已进入最后阶段。他同时强调，即使双方就航道调整达成协议，也不意味着霍尔木兹海峡重新开放，海峡重新开放仍需满足一系列条件。阿拉格齐称，目前，双方讨论以新航道取代原有航道，相关专家正在开展技术工作。(央视新闻)</p>\n  <p><strong>A股半年报盘点：171家上市公司已披露，16家公司净利润超10亿元</strong></p>\n  <p>8月8日，A股共39家上市公司披露2026年半年报，其中33家盈利，6家亏损。截至8月8日，A股已累计有171家上市公司披露2026年半年报，其中156家盈利，15家亏损。从净利润增幅来看，75家公司净利润增幅超50%，益生股份、温州宏丰、一博科技排名居前，上半年净利润增幅分别为4897.29%、2521.90%、1561.55%。从净利润来看，16家公司净利润超10亿元，宁德时代、药明康德、海康威视排名居前，上半年净利润分别为432.84亿元、110.80亿元、78.96亿元。（第一财经）</p>\n  <p><strong>现货黄金周涨超7%站上4300美元，为何突然大涨？</strong></p>\n  <p>截至8月7日收盘，现货黄金本周上涨264.13美元，涨幅7.44%，报4341.91美元/盎司；纽约商品交易所8月交割的COMEX黄金期货本周上涨291.60美元，涨幅7.17%，报4401.3美元/盎司，双双创下1月23日当周以来最大单周涨幅。消息面上，当地时间8月7日，美国劳工统计局公布的美国7月非农就业人数大幅低于预期。市场对美联储9月维持利率不变的预期升温，美元指数应声下跌，推动金价和银价显著上涨。瑞银的观点指出，金价大幅反弹主要源于市场对霍尔木兹海峡重开预期日益增强的提振。</p>\n  <p>据央视新闻报道，当地时间8月6日，美国总统特朗普表示，关于重新开放霍尔木兹海峡的协议“尚不能说已经正式达成”，但海峡目前“某种程度上已经开放”，美方正参与相关谈判，整体进展良好。与此同时，瑞银认为，中国买盘兴趣、ETF资金净流入、利率环境趋于宽松、以及市场重新关注储备多元化等因素也有所助力。另一方面，美国和日本政府在上周为稳定日元而采取的联合措施，或已避免美国国债遭遇抛售，也为金价提供了支撑。（澎湃新闻）</p>\n  <p><strong>影片《八仙！》票房突破14亿元</strong></p>\n  <p>据灯塔专业版实时数据，截至8月9日12时4分，影片《八仙！》票房突破14亿元。（每日经济新闻）</p>\n  <p><strong>永和豆浆创始人林炳生逝世，享年70岁</strong></p>\n  <p>永和资本集团董事局8月8日发布讣告：集团董事局主席、永和豆浆创始人林炳生先生，因病医治无效，不幸于8月7日中午12:45分在台北安详逝世，享年七十岁。（界面新闻）</p>\n  <p><strong>欧菲光澄清：与新菲光在业务模式与产品线上完全独立</strong></p>\n  <p>36氪获悉，欧菲光8月9日发布关于媒体报道的澄清公告，8月6日前后，个别媒体发布了报道质疑公司实际控制人蔡荣军向其实际控制的新菲光通信技术有限公司、新思考电机股份有限公司进行利益输送。公司与新菲光在业务模式与产品线上完全独立。公司未为新菲光生产或代工该报道所述光模块光学组件、玻璃桥、精密结构件等产品，不存在人为压低公司零部件售价、向新菲光转移利润的行为。新思考由公司董事长蔡荣军及其控制的企业深圳和正收购而来，不存在“早年从欧菲光拆分VCM马达核心业务，欧菲光承担全部研发成本，成熟后高毛利业务归新思考。”的情况。</p>\n  <p><strong>Alo独家入驻天猫</strong></p>\n  <p>8月9日，界面新闻记者独家获悉，高端运动生活方式品牌ALO将独家入驻天猫，于8月12日开出中国内地首家官方旗舰店。这将是ALO进入中国市场后正式开业售卖的第一家官方店铺，也是其在中国内地唯一的官方电商渠道。（界面新闻）</p>\n  <p><strong>张雪机车：成立小车手培育专项基金，每年捐赠100万元</strong></p>\n  <p>8月8日，“张雪机车”宣布成立小车手培育专项基金，每年捐赠100万元，定向资助11至16岁的中国青少年摩托车手，每人每年可获10万至30万元，首批计划资助5至10人。</p>\n  <p><strong>理想汽车-W于8月6日斥资361.82万美元回购57.27万股</strong></p>\n  <p>理想汽车-W发布公告，于2026年8月6日，该公司斥资361.82万美元回购57.27万股。（新浪财经）</p>\n  <p><strong>消息称SpaceX收购Cursor交易最快下周完成，新产品或启用Grok品牌</strong></p>\n  <p>8月7日，据报道，SpaceX收购AI编程工具公司Cursor的交易最快可能于下周末完成。Cursor品牌名称可能在未来几个月内逐步退出，新产品或采用其他品牌名称。据悉，Cursor即将推出的通用型智能代理产品可能被命名为Grok Bot。不过，Cursor现有工具不会立即更名。该交易仍需获得监管批准，预计最晚将在本月底前完成。SpaceX此前于6月宣布将以600亿美元收购Cursor。（界面新闻）</p>\n  <p><strong>马斯克发布Terafab渲染视频</strong></p>\n  <p>马斯克在X平台发布特斯拉Terafab新视频，视频中Optimus人形机器人和Robovan无人车首次同框亮相。Robovan可载客20人或运货，Optimus量产线已在改造中，目标2027年夏季大规模量产。（新浪财经）</p>\n  <p><strong>马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元</strong></p>\n  <p>马斯克当地时间8月8日在社交媒体平台X上发文称，即将通过星舰发射的V3卫星性能将比目前通过猎鹰火箭发射的V2卫星高出一个数量级，这意味着星链V3带宽是星链V2系统的100倍以上，该系统今年将达到200亿美元的年度经常性收入（ARR），“即使每千兆字节的收入下降10倍，这也意味着SpaceX的通信收入仍将超过每年2000亿美元”。（界面新闻）</p>\n  <p><strong>SK掌门崔泰源离婚财产分割案能否终结即将见分晓</strong></p>\n  <p>据韩国法律界9日消息，崔泰源和卢素英对财产分割案重审判决的上诉期限为判决书送达之日起14日内。双方于本月1日零时收到判决书，可在14日之前提起上诉。若崔泰源和卢素英在法定期限均不提起上诉，或者提交放弃上诉声明书，该财产分割案重审判决将生效，即崔泰源须向卢素英支付9440亿韩元（约合人民币45.08亿元）。若任何一方再提起上诉，该案将交由最高法院大法院重新审理。（财联社）</p>\n  <p><strong>中国首个预防急性高原病药物获批上市</strong></p>\n  <p>近日，经国家药品监督管理局严格审评审批，由西藏自治区人民医院副院长、西藏高原医学研究所所长格桑罗布教授担任主要研究者的乙酰唑胺缓释胶囊正式获批上市，成为国内首个获批具有预防急性高原病适应症的药品。相关研究成果已发表于国际高原医学旗舰期刊《High Altitude Medicine &amp; Biology》。 (西藏日报)</p>\n  <p><strong>英特尔任命Dean Jarnac为首席销售官</strong></p>\n  <p>当地时间8月7日，英特尔宣布任命Dean Jarnac为执行副总裁兼首席销售官，负责领导公司的全球销售组织，推动客户关系建设及产品市场拓展，覆盖客户端、数据中心、人工智能、网络及ASIC等业务领域。作为此次管理层调整的一部分，英特尔现任首席营收官Greg Ernst将在任职27年后离开公司。（新浪财经）</p>\n  <p><strong>爷爷不泡茶：网传门店冲突事件发生于2025年，双方已达成和解</strong></p>\n  <p>36氪获悉，8月8日，爷爷不泡茶发布关于网传门店冲突视频的情况说明：近日，一则涉及我司门店员工与外卖配送人员发生冲突的视频在网络平台传播，引发公众关注。对于事件造成的不良观感与社会影响，以及给涉事配送伙伴、广大消费者带来的困扰，我们深表歉意。经核实，网传视频对应事件发生于2025年10月9日。冲突系门店员工与外卖配送人员因取奶茶、催促等事宜起纠纷，由语言冲突上升到肢体冲突。冲突发生后，门店伙伴第一时间报警，公安机关依法开展调查并组织调解。最终，双方达成和解，相关事项已妥善处理完毕。</p>\n  <p><strong>Alphabet启动250亿美元债券发行，期限最长达40年</strong></p>\n  <p>当地时间8月7日，谷歌母公司Alphabet宣布拟发行总额250亿美元的高级无抵押债券，包括浮动利率债券和固定利率债券，期限覆盖2028年至2066年。其中，固定利率债券期限最长为2066年到期，票面利率最高为6.5%。（界面新闻）</p>\n  <p><strong>爆买1300亿元，伯克希尔罕见出手</strong></p>\n  <p>伯克希尔大举出手。伯克希尔·哈撒韦公司公布的财报显示，今年第二季度归属于股东的净利润同比大幅增长超107%，投资收益同比大幅增长155%。值得注意的是，伯克希尔罕见大举出手，第二季度净买入股票金额接近200亿美元（约合人民币1300亿元），扭转了此前持续抛售股票的趋势。在此之前，伯克希尔已连续14个季度净卖出股票。结合持仓变化来看，截至6月30日，伯克希尔的前五大股票持仓中，谷歌正式进入榜单，与美国运通、苹果、美国银行、可口可乐并列，五大重仓股合计占股票投资组合的66%。（证券时报）</p>\n  <h2>上市进行时</h2>\n  <p><strong>摩尔线程：筹划发行H股股票并在港交所主板上市</strong></p>\n  <p>摩尔线程8月9日公告，公司拟发行境外上市外资股（H股）股票并申请在香港联合交易所有限公司主板挂牌上市。（证券时报）</p>\n  <p><strong>远信储能递表港交所</strong></p>\n  <p>36氪获悉，据港交所文件，8月9日，深圳市远信储能技术股份有限公司向港交所提交上市申请书，独家保荐人为招银国际。</p>\n  <p><strong>北京君正通过港交所上市聆讯</strong></p>\n  <p>36氪获悉，据港交所文件，8月9日，北京君正集成电路股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆讯。</p>\n  <h2>大公司财报</h2>\n  <p><strong>拓维信息：上半年净利润同比下降12.16%，拟10派0.25元</strong></p>\n  <p>拓维信息披露半年报，2026年上半年，公司实现营业收入13.12亿元，同比增长0.39%；归属于上市公司股东的净利润6922.2万元，同比下降12.16%；基本每股收益0.0549元。公司拟每10股派发现金红利0.25元(含税)。（第一财经）</p>\n  <h2>投融资</h2>\n  <p><strong>星环聚能完成新一轮8.8亿元融资</strong></p>\n  <p>据星环聚能消息，近日完成新一轮(A++轮)融资，融资金额为8.8亿元人民币。本轮融资由深投控资本、深担创投、农银资本、交银投资等机构联合投资，老股东上海科创集团旗下知识产权基金等机构继续跟投。本轮融资资金将与A轮、A+轮融资资金一道，共同用于上海嘉定实验基地建设、NTST(负三角球形托卡马克)建造与运行、CTRFR-1(星环一号)设计建造，以及聚变堆级高温超导磁体与AI等离子体控制等关键技术的持续工程化推进。（第一财经）</p>\n  <p><strong>整理</strong>｜娃娃菜&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-09T23:47:47+00:00",
+      "fetched_at": "2026-08-10T01:20:38.053423+00:00",
+      "fingerprint": "71bf92a9b409a4d4"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "工商业储能企业完成数千万元融资，2026上半年海外终端占比超八成｜硬氪首发",
+      "url": "https://36kr.com/p/3929538649324672?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，「亿兰科」近日完成数千万元A轮融资，本轮由时代伯乐追加投资。资金将重点投向中山制造中心建设、海外本地化服务网络拓展，以及AIDC电源、SST模块等新产品的落地与迭代，全面提升交付能力、技术响应与售后保障。</p>\n  <p>亿兰科成立于2021年12月，是一家工商储电力电子核心设备厂商，长期聚焦工商业储能PCS赛道，以模块化技术路线为核心，提供覆盖工商业储能、微电网等场景的电力电子设备与系统解决方案。公司总部位于深圳，在杭州设有分公司，核心团队来自清华大学等顶尖院校与艾默生、科士达等头部电力电子企业，在研发、生产、供应链管理及全球化交付方面具备全链条经验。</p>\n  <p>工商业储能正处在一个矛盾的时刻。2025年，中国工商业储能系统出货量达24GWh，同比增长100%。2026年全球工商业储能装机预计同比增长约40%，其中海外市场增速超60%。增速依然亮眼，但支撑行业狂奔的底层逻辑正在被彻底重写。</p>\n  <p>最大的变量来自国内的电力市场改革。2026年，固定分时电价全面走向市场化，过去作为工商业储能经济性基石的峰谷价差套利模式根基松动，电价将完全由市场供需决定。这意味着，储能企业的盈利能力不再取决于政策红利，而是取决于能否在多元化的真实工况中创造价值。</p>\n  <p>同时，海外工商业储能的应用场景正在急剧扩散，从削峰填谷延伸至光伏消纳、变压器扩容、微电网、光储充一体化等多个方向。场景越分越细，需求越扎越深，一套标准化整机实现多场景适配的时代已经结束。</p>\n  <p>这正是亿兰科提出模块化路线的底层逻辑。</p>\n  <p>早在2023年，亿兰科就将整套储能系统解耦为DC/DC、DC/AC、STS三大标准化功率模块。客户可以根据具体项目工况自由搭配组合，项目需要离网备电就搭配STS模块，需要多路MPPT光伏接入可选择DC/DC模块，有的只需要基础削峰填谷、选用单模块产品即可满足。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260809/v2_408e045b416b4507983e4df4bad1aebb@6022551_oswg189704oswg1280oswg954_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">亿兰科工商业储能产品（图源/企业）</p>\n  <p>模块化的价值不止于硬件层面的灵活组合。亿兰科要解决的不只是客户侧“灵活搭配”的问题，更是在为自身搭建一套可进化的技术骨架。</p>\n  <p>随着电芯技术快速迭代，系统架构需要同步调整。其中，模块化架构允许PCS模块独立升级，无需推倒重来。在多机并联场景下，亿兰科积累的模块间协同控制的软件能力，通过控制算法与硬件架构来自大量真实项目工况的反复打磨，具备软硬件一体化的综合能力。</p>\n  <p>从出货量排名看，这套思路正在被市场验证。相关数据显示，2023年，亿兰科在工商业储能PCS赛道位居行业第七；2024年跃升至第四；2025年进一步攀升至行业前三。其产品已出货至全球60多个国家及地区。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260809/v2_1debdd0db5ec462d9b05590443b301ca@6022551_oswg1171281oswg1536oswg1024_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">亿兰科工商业储能产品（图源/企业）</p>\n  <p>进军海外市场是亿兰科另一个关键的战略选择。2024年以来，公司系统布局海外市场，其2025年海外终端业务占比已达75%，2026年上半年进一步提升至85%。</p>\n  <p>海外工商业储能的应用环境远比国内复杂。欧洲市场大量存量光伏系统采用800V架构，但市面上多数组串式储能PCS仅标配690V交流输出，一旦搭配800V光伏做交流耦合，必须额外加装升压变压器。相比于之下，亿兰科的215kW PCS模块，原生匹配800V光伏母线，可以实现无升压直连交流耦合，此前已在印度3MW光伏配套储能项目中落地验证。</p>\n  <p>今年三月，面向工商业及微电网场景，亿兰科推出了混合逆变器系列。该产品将光伏MPPT、双向逆变、并离网切换及能量管理系统EMS四大功能高度集成于一体，实现“四合一”设计。</p>\n  <p>面对欧洲高电价与东南亚、非洲电力薄弱地区的全天候保电需求，传统方案多依赖多设备堆叠和复杂的定制化工程，落地慢、成本高。相比之下，混合逆变器系列能支持多机并机、毫秒级并离网切换，适配多种电池类型，满足自发自用、余电上网和备电保障等多重需求，让工商业储能真正实现“开箱即用”。</p>\n  <p>针对海外沿海区域盐雾、凝露多发的严苛环境，亿兰科在出口欧洲机型中实现了IP66高防护等级。针对东南亚电网设施薄弱、供电不稳定的现状，公司自研STS并离网切换模块，可在电网断电时毫秒级切换至离网模式，替代传统柴油发电机。</p>\n  <p>截至目前，公司已完成全球认证120余项，覆盖欧洲、非洲、亚洲主要市场。</p>\n  <p>2025年10月，亿兰科深圳生产基地完成第二次产能升级，专项打造了先进的PCS模块生产车间。当前深圳基地已满负荷运营。2026年7月，中山制造中心正式启动，工厂面积达3万平方米，规划PCS模块产能5万台/年、整机交流柜2000台/年，为持续增长的海外订单提供产能保障。</p>\n  <p>服务端，公司已在欧洲、非洲、东南亚、中东共计6个国家布局备件仓库，未来将落地3大海外本地化服务中心。</p>\n  <p><strong>以下为硬氪与亿兰科的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：工商储行业存在客户场景分散的痛点，亿兰科提出模块化PCS方案是如何解决多场景适配痛点，相比行业一体式整机路线，这套技术路线长期能构筑哪些难以复制的产品壁垒？</strong></p>\n  <p><strong>亿兰科：</strong>与户用储能的相对标准化、大型储能的定制化工程不同，工商业储能处于一个尴尬的中间地带。它的项目工况纷繁复杂，可能是工厂园区、商业楼宇、光储充场站，也可能是海外的偏远矿区或岛屿微电网——每个场景的负载特性、用电曲线、并网要求都不一样。如果沿用标准化整机的思路，很难覆盖这些碎片化的需求；但如果每做一个项目就从头定制，成本高、周期长，根本无法规模化。</p>\n  <p>我们的解法是回到电力电子设备的底层逻辑，把储能系统解耦为三个标准化的功率模块。客户根据项目需求自由组合，有的配单模块做纯削峰填谷，有的加STS模块做并离网切换，有的加DC/DC模块做多路光伏接入。这种“乐高式”的搭建方式，把非标工程变成了标准工业品的组合，大大降低了产品开发的复杂度。</p>\n  <p>但模块化的真正壁垒不在硬件，而在软件。多模块协同涉及功率分配、动态响应、故障保护等一系列复杂控制逻辑，尤其在大规模多机并联的场景下，模块间的通信同步、功率均分、集群管控都会成为系统性难题。这种软硬件的协同能力并非一蹴而就，而需要在实际运行中持续迭代。</p>\n  <p><strong>硬氪：当前工商储电芯、PCS技术持续迭代，行业要求不断提升，怎么看待未来三年工商储PCS的核心竞争主线？亿兰科在底层电力电子算法、系统控制上有哪些中长期研发布局？</strong></p>\n  <p><strong>亿兰科：</strong>未来三年，单纯拼硬件参数已经没有太多空间了，真正的差距会体现在三件事上，系统能不能适配各种各样的场景，能不能在复杂工况下稳定运行，以及能不能快速响应新出现的市场需求。</p>\n  <p>电池技术还在快速迭代，再加上大规模多机并联、离网备电这些需求越来越多，谁能把多电池兼容、并离网无缝切换、集群协同管控这些底层问题解决好，谁就能跑出来。这些都不是靠堆元器件能解决的，需要在硬件架构、控制算法和实际运行经验之间反复磨合。</p>\n  <p>我们的方向有几个。硬件层面继续深耕模块化架构，但重点放在控制算法上，包括三相独立控制，以及更上层的全域协调调度。目前也在布局AI辅助控制，基于现场运行数据做阻抗自适应识别、故障预判、动态功率调节，让设备在复杂的实际工况中能自动适应、自我优化。</p>\n  <p>同时亿兰科也会往新赛道延伸，AIDC算力储能电源和SST模块都是储备方向。底层电力电子的通用性决定了我们能做的远不止储能PCS，AI算力备电等这些应用场景都在同步推进。关键是技术要足够扎实，产品才能铺得开。</p>",
+      "category": "tech",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "fetched_at": "2026-08-10T01:20:38.053409+00:00",
+      "fingerprint": "b38a9140cdf91d17"
+    },
+    {
+      "source": "少数派",
+      "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
+      "url": "https://sspai.com/post/113158",
+      "summary": "特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ...<a href=\"https://sspai.com/post/113158\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-09T07:00:00+00:00",
+      "fetched_at": "2026-08-10T01:20:36.075862+00:00",
+      "fingerprint": "8d148d4d06fe59ca"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：央视曝光酒店评级标识消费陷阱",
+      "url": "https://sspai.com/post/113268",
+      "summary": "<p> 央视曝光酒店评级标识消费陷阱</p><p>《时代》网站展示仅 AI 可见广告</p><p>Edge 浏览器将禁用 Manifest V2 扩展</p><p>油价上涨致美国混动车需求激增</p><p>廉价手机壳存在毒性隐患</p><p>美国调查中国 AI 企业使用海外英伟达芯片</p><p>看看就行的小道消息</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/113268\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-09T23:08:03+00:00",
+      "fetched_at": "2026-08-10T01:20:36.075850+00:00",
+      "fingerprint": "55a509a75beb4f8d"
+    },
     {
       "source": "BBC World News",
       "title": "Messi's father Jorge dies aged 68 after illness",
@@ -1851,176 +2071,6 @@
       "published_at": "2026-08-02T22:49:31+00:00",
       "fetched_at": "2026-08-03T02:24:22.839340+00:00",
       "fingerprint": "7d504dd4629ac9ae"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "EU to hold urgent meeting of interior ministers on Tuesday over Ceuta crisis",
-      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "summary": "<p>Divisions remain in the bloc over mass crossing of migrants into Spanish territory in north Africa</p><p>The EU is to hold an urgent meeting of interior ministers on Tuesday amid continued divisions in the bloc over the arrival of more than 50,000 migrants in the Spanish territory of Ceuta in north Africa.</p><p>The decision was taken by officials representing EU member states and Frontex border agency experts at what was described as a “sobering” meeting on Saturday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-01T19:03:39+00:00",
-      "fetched_at": "2026-08-02T02:22:04.049210+00:00",
-      "fingerprint": "bd8ae6bd6ebbd09c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "category": "politics",
-      "published_at": "2026-08-02T00:29:55+00:00",
-      "fetched_at": "2026-08-02T02:22:03.505163+00:00",
-      "fingerprint": "685536ce0ef8120d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Call for 'full review' as pressure grows on Infantino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-      "category": "politics",
-      "published_at": "2026-08-01T17:07:46+00:00",
-      "fetched_at": "2026-08-02T02:22:03.505157+00:00",
-      "fingerprint": "cd5da5260c1f83f9"
-    },
-    {
-      "source": "BBC World News",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "category": "politics",
-      "published_at": "2026-08-01T20:09:27+00:00",
-      "fetched_at": "2026-08-02T02:22:03.505150+00:00",
-      "fingerprint": "053e8d29019fc241"
-    },
-    {
-      "source": "BBC World News",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "category": "politics",
-      "published_at": "2026-08-02T00:55:16+00:00",
-      "fetched_at": "2026-08-02T02:22:03.505140+00:00",
-      "fingerprint": "f978f7bdb2e1193d"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-      "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "在現代戰爭中，環繞地球運行的人造衛星幾乎未曾受到波及；但到了21世紀，太空或許已不再是安全的避風港。",
-      "category": "politics",
-      "published_at": "2026-08-01T09:56:01+00:00",
-      "fetched_at": "2026-08-02T02:22:03.457238+00:00",
-      "fingerprint": "77d395c5dbdc2d55"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-02T02:22:03.085658+00:00",
-      "fingerprint": "78a27feea234b38f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-02T02:22:03.085528+00:00",
-      "fingerprint": "0d78e02a307de63f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-02T02:22:03.085346+00:00",
-      "fingerprint": "308b4e638e9ec0ff"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-02T02:22:03.085208+00:00",
-      "fingerprint": "78d1ddb7f4572678"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-02T02:22:03.085055+00:00",
-      "fingerprint": "bd1fe04bddb74701"
-    },
-    {
-      "source": "The Verge",
-      "title": "Spider-Man: Brand New Day leak racks up millions of views",
-      "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-      "summary": "A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Other accounts have reposted the leaked film, but none have lasted particularly long, as Disney now seems to be on top of [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-01T17:00:12+00:00",
-      "fetched_at": "2026-08-02T02:22:02.813228+00:00",
-      "fingerprint": "6c38397f8842f86a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-01T18:20:00+00:00",
-      "fetched_at": "2026-08-02T02:22:02.813222+00:00",
-      "fingerprint": "16657117b75dcddd"
-    },
-    {
-      "source": "The Verge",
-      "title": "Angela Nissel faces down grief with a laugh",
-      "url": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-      "summary": "Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the sort of gallows humor that I often turn to to get me through tough times. Of course, that sort of [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-01T20:15:00+00:00",
-      "fetched_at": "2026-08-02T02:22:02.813216+00:00",
-      "fingerprint": "9554c74df401f2af"
-    },
-    {
-      "source": "The Verge",
-      "title": "Pixel 11 specs and price leak with no surprises",
-      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-      "summary": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-01T21:31:24+00:00",
-      "fetched_at": "2026-08-02T02:22:02.813204+00:00",
-      "fingerprint": "49652da6738479fb"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-      "url": "https://36kr.com/p/3920595518533250?f=rss",
-      "summary": "<p>如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp;</p>\n  <p>因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp;</p>\n  <p>但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp;</p>\n  <p>2026年，ChinaJoy 即将在7月底的上海举办第二十三届展会。&nbsp;</p>\n  <p><strong>如今的 ChinaJoy 还只是游戏展吗？</strong></p>\n  <p>它依然是全国最爱玩、最关注游戏的年轻人一年一度的线下聚会，这件事从未改变。但同时，ChinaJoy 正在悄然成为「科技 + 数字娱乐」行业一年一度的线下交汇点。&nbsp;</p>\n  <p>过去三年，科技对数字娱乐的改造速度超过了所有人的预期：AI 从实验室概念变成了行业标配的生产工具，具身智能、新一代消费电子不断打开新的想象空间，每一个赛道、每一天都有新公司、新产品、新模式冒出来。&nbsp;</p>\n  <p><strong>ChinaJoy 是国内极少数能把这种变化一次性摊开在你面前的现场。</strong></p>\n  <p>如今，来逛展的不只是玩家，还有开发者、AI 工程师、硬件创业者、投资人。&nbsp;</p>\n  <p>真正值得被报道的东西，已经藏在线下。如果只看相关稿件，这个行业的很多真实温度仍然难以感知。&nbsp;</p>\n  <p>因此，这一次36氪和ChinaJoy「Vision Future 前沿科技展区」深度合作，把直播间直接搬到展区现场。三天，十八场对谈，我们想把这些一线的思考直接带给每个观众。&nbsp;</p>\n  <p>所有对谈都来自一线从业者——创业者、技术带头人、行业操盘手、学术专家，坐到镜头前聊真实进展、踩过的坑、接下来的机会。我们想呈现最鲜活的行业趋势，不是发布会的复述，是真问题的现场。&nbsp;</p>\n  <p><strong>Day 1 · 8 月 1 日 · AI + 游戏 10:00</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260801/v2_3937073717a846c2b4d7b5efc233fc10@16519798_oswg220467oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">可扫码预约观看，或关注「36氪游戏」视频号</p>\n  <p><strong>Day 2 · 8 月 1 日 · AI 内容新体验 10:00</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260801/v2_2790e13b8cad4b329da14fdebd0930af@16519798_oswg241490oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">可扫码预约观看，或关注「36氪游戏」视频号</p>\n  <p><strong>Day 3 · 8 月 2 日 · 前沿科技 &amp; 消费电子 10:00</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260801/v2_47d3c27e38d94d8989626a8ddead4330@16519798_oswg233151oswg1080oswg610_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">可扫码预约观看，或关注「36氪游戏」视频号</p>\n  <p>十八组嘉宾，覆盖AI 游戏、AI 内容、前沿消费电子等多条赛道，一起来聊聊行业变化过程中的真东西。&nbsp;</p>\n  <p>ChinaJoy 二十多年了。它依然是那个全国玩家一年一度的线下聚会，这件事从未改变；但同时，它也已经进化成「科技 + 数字娱乐」行业最鲜活的现场。&nbsp;</p>\n  <p>这种进化来自 ChinaJoy 官方对前沿科技展区的持续加码，来自36氪游戏作为合作伙伴对一线内容的专业捕捉，也来自市场对新技术、新内容、新体验越来越硬性的需求。&nbsp;</p>\n  <p>2026 年8 月1 日—8 月 3 日，上海新国际博览中心E6 馆 ChinaJoy Vision Future 前沿科技展区，「36氪游戏」直播间见。&nbsp;</p>\n  <p class=\"editor-note\">本文首发自<a href=\"https://mp.weixin.qq.com/s/UH7hmA0SAzIFh9frbGjR1Q\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪游戏”</a>。</p>",
-      "category": "tech",
-      "published_at": "2026-08-01T06:37:32+00:00",
-      "fetched_at": "2026-08-02T02:22:02.690334+00:00",
-      "fingerprint": "744998b28bede094"
-    },
-    {
-      "source": "少数派",
-      "title": "「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账",
-      "url": "https://sspai.com/post/112701",
-      "summary": "真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。<a href=\"https://sspai.com/post/112701\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-01T04:54:31+00:00",
-      "fetched_at": "2026-08-02T02:22:00.803498+00:00",
-      "fingerprint": "17d25b4b8c3ba111"
     }
   ]
 }
