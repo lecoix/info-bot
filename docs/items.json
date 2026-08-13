@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-08-12T01:26:57.908114+00:00",
-  "count": 210,
+  "updated_at": "2026-08-13T01:29:12.121880+00:00",
+  "count": 211,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
+      "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
+      "summary": "<p>South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pest</p><p>Hearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued the South African scientist Letodi Luki Mathulwe. Something was killing off the African armyworm – one of the most devastating pests for farmers in east and southern Africa.</p><p>The white substance was a naturally occurring fungus and it was wiping out the caterpillar, which gained its name from its march-like advance through fields of crops.</p> <a href=\"https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-12T11:00:27+00:00",
+      "fetched_at": "2026-08-13T01:29:12.116770+00:00",
+      "fingerprint": "1cef82c495471f39"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+      "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+      "summary": "<p>Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake</p><p>At least 44 people have died<strong> </strong>after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.</p><p>The boat had a capacity of 90 people, but was carrying 114 adult passengers, five crew members and an unknown number of children, Zimbabwe’s civil protection unit (CPU) said earlier on Wednesday, citing ticket sales.</p> <a href=\"https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-12T12:21:08+00:00",
+      "fetched_at": "2026-08-13T01:29:12.116761+00:00",
+      "fingerprint": "ec7f71beb8345d00"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "category": "politics",
+      "published_at": "2026-08-12T22:58:45+00:00",
+      "fetched_at": "2026-08-13T01:29:11.985855+00:00",
+      "fingerprint": "4a34461b0d679599"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "category": "politics",
+      "published_at": "2026-08-12T23:19:28+00:00",
+      "fetched_at": "2026-08-13T01:29:11.985849+00:00",
+      "fingerprint": "c0f478aad07b2ad1"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "category": "politics",
+      "published_at": "2026-08-12T16:14:08+00:00",
+      "fetched_at": "2026-08-13T01:29:11.985843+00:00",
+      "fingerprint": "5191ed1d1b10df8e"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+      "category": "politics",
+      "published_at": "2026-08-12T17:47:01+00:00",
+      "fetched_at": "2026-08-13T01:29:11.985834+00:00",
+      "fingerprint": "28a46bff448f1e7b"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「大學指控我用AI寫論文，但明明都是我自己寫的」",
+      "url": "https://www.bbc.com/zhongwen/articles/cg5lp79nd00o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "英國大學這位醫學生必須向學術小組答辯他的研究成果。",
+      "category": "politics",
+      "published_at": "2026-08-13T00:03:47+00:00",
+      "fetched_at": "2026-08-13T01:29:11.913413+00:00",
+      "fingerprint": "5c9e01f19b471344"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國特勤局如何玩弄「障眼法」，將特朗普在眾目睽睽之下隱藏",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g67r45l4vo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "精心策劃的欺騙行動和誘餌經常被用來欺騙對美國總統構成潛在威脅的人。",
+      "category": "politics",
+      "published_at": "2026-08-12T15:12:05+00:00",
+      "fetched_at": "2026-08-13T01:29:11.913407+00:00",
+      "fingerprint": "ebea1daa9c9efd3c"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "長崎原爆紀念式不給台灣「使節席」 台日關係「溫差」浮現 ？",
+      "url": "https://www.bbc.com/zhongwen/articles/c330ljemejzo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "長崎與廣島對台灣出席原爆紀念活動的待遇明顯不同。長崎將台灣安排在使節區外，引發抗議與「中國壓力」爭議。",
+      "category": "politics",
+      "published_at": "2026-08-12T08:31:43+00:00",
+      "fetched_at": "2026-08-13T01:29:11.913400+00:00",
+      "fingerprint": "df5fc6786867acaa"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "朱鎔基逝世，享年97歲——為中國留下改革遺產的「經濟沙皇」",
+      "url": "https://www.bbc.com/zhongwen/articles/cp839rnw40po/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "朱鎔基前後12年主導中國經濟發展，改革過程中因為造成大量國企工人下崗而受民間批評。但中國整體上往市場經濟的方向邁了一大步，也由此開啟了歷史上發展速度最高的20年。",
+      "category": "politics",
+      "published_at": "2026-08-12T12:00:14+00:00",
+      "fetched_at": "2026-08-13T01:29:11.913391+00:00",
+      "fingerprint": "075dd8afdf52023c"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-13T01:29:11.437193+00:00",
+      "fingerprint": "2bc2cf30ffd56fe1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-13T01:29:11.437062+00:00",
+      "fingerprint": "eaf09036539fc61e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-13T01:29:11.436903+00:00",
+      "fingerprint": "82aded1a35619111"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-13T01:29:11.436766+00:00",
+      "fingerprint": "9e5a86081b76e231"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-13T01:29:11.436612+00:00",
+      "fingerprint": "7408c6cd79dc3a53"
+    },
+    {
+      "source": "The Verge",
+      "title": "The next big indie game publisher is taking some exciting swings",
+      "url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
+      "summary": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's publishing the next game from Telling Lies and [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-12T19:30:00+00:00",
+      "fetched_at": "2026-08-13T01:29:11.342432+00:00",
+      "fingerprint": "bc398c51c45e3c2c"
+    },
+    {
+      "source": "The Verge",
+      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
+      "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+      "summary": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that \"existing settings and schedules stored locally on your device will [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-12T21:07:17+00:00",
+      "fetched_at": "2026-08-13T01:29:11.342426+00:00",
+      "fingerprint": "5c64cf62e7548b8c"
+    },
+    {
+      "source": "The Verge",
+      "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
+      "url": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
+      "summary": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough, with blocky retro legends on the rounded [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-12T21:21:09+00:00",
+      "fetched_at": "2026-08-13T01:29:11.342419+00:00",
+      "fingerprint": "36d72dfccbb8ae4e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
+      "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast might be something of a cringefest. [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-12T21:30:00+00:00",
+      "fetched_at": "2026-08-13T01:29:11.342410+00:00",
+      "fingerprint": "5d2a2655194fb1ba"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "Seedance 2.5测评｜ 七维实测，AI视频从片段到叙事，到底进步了多少？",
+      "url": "https://36kr.com/p/3936379078409606?f=rss",
+      "summary": "<p>上半场比的是什么？比谁的数据集更干净、谁的视频动作更连贯、谁的分辨率更高。可落到真实创作场景就会发现，AI视频真正的瓶颈，远不止这些参数的比拼。</p>\n  <p>&nbsp;</p>\n  <p><strong>7月31日，Seedance 2.5正式发布上线。</strong></p>\n  <p>为此<strong>36氪AI测评团队</strong>及<strong>27位36氪AI测评官</strong>，用了一周时间，以西游记部分剧情进行AI 内容还原，从<strong>七个维度</strong>对即梦Seedance 2.5模型进行深度测评。</p>\n  <blockquote>\n   <p><strong>36氪AI测评官：覆盖AIGC内容创作者、AI漫剧团队负责人、4A广告公司创意总监，CG研发、科技行业观察、B站头部 UP以及各行AI 视频生产落地实战专家。</strong></p>\n   <p>&nbsp;</p>\n  </blockquote>\n  <p>本次我们选用《西游记》作为测评载体，正是因为故事国民认知度高，可以规避剧情理解带来的主观偏差，让我们直接审视模型本身的长短板。</p>\n  <p><strong>站在AI视频迭代的转折点，Seedance 2.5的更新，究竟解决了哪些真实生产痛点，又还留下哪些待解难题？</strong></p>\n  <p>&nbsp;</p>\n  <p><strong>先说结论：</strong></p>\n  <p>1、这次升级有<strong>三个硬功能</strong>直接改变了创作方式：时长从15秒翻倍到30秒；参考素材上限从15个拉到50个全模态；新增局部编辑功能。</p>\n  <p>2、画面层面的提升同样明显，运镜有了设计感，动作戏的打击感接近游戏CG，角色表情细腻，整体质感逼近实拍。</p>\n  <p>3、但是<strong>问题</strong>也很明显：</p>\n  <p><strong>&nbsp;·&nbsp;</strong>长镜头人物一致性仍然是最大的痛点。</p>\n  <p><strong>&nbsp;·&nbsp;</strong>模型对提示词理解能力跟不上生成能力，对文学性描述的提示词的理解仍需提升。</p>\n  <p><strong>&nbsp;·&nbsp;</strong>使用成本偏高，完整成片门槛在数百元起步。</p>\n  <p>&nbsp;</p>\n  <p><strong>以下是七大维度的详细测评。</strong></p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_c0194b9bca354d8588a413bb0fd8163d@5284654_oswg8758oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">01</p>\n  <h2><strong>空间结构：专业用户的利器</strong></h2>\n  <p>Seedance 2.5支持白模参考，这件事尤其重要。</p>\n  <p>资深测评官普遍给出了较高评价：</p>\n  <blockquote>\n   <p><strong>一个剧组可以先在简单的3D 空间里摆好立方体、圆柱、人物位置和运动路径，再让模型根据这些空间信息，快速生成接近最终视觉效果的预演。它对人物在空间中的位置关系理解得非常准确，谁在前、谁在后、谁面向谁，几乎不会出现明显偏差。</strong></p>\n  </blockquote>\n  <p>相比2.0，Seedance 2.5强化了<strong>空间几何理解能力</strong>。模型不再只是识别参考图中的像素信息，而是能够从3D参考中提取深度信息，重建场景中的三维空间关系。这项能力在上一代产品中还只是雏形，而到了2.5已经逐渐成熟。</p>\n  <p>&nbsp;</p>\n  <p>不过，对于没有3D制作经验的<strong>普通用户</strong>而言，体验则完全不同。</p>\n  <p>测评过程中反复出现一个问题：<strong>当参考图不足时，模型对于人物朝向的判断仍然容易出现偏差。</strong></p>\n  <p>比如：希望生成“孙悟空背对观众、面向妖怪”的场景画面，最终结果却经常出现孙悟空面向观众、背对敌人，人物关系与预期相反。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p>造成这一问题的原因在于：<strong>纯文字描述本身缺乏空间深度信息</strong>。模型只能依据语义推断人物朝向，当描述不够具体时，往往会优先生成最常见的正面人物构图。相比2.0，这一问题已有改善，但仍未完全解决，因此普通用户仍需要依赖更精准的提示词，或者通过多次生成不断调整结果。</p>\n  <p>与此同时，Seedance 2.5在<strong>画面空间层次</strong>上的表现则更加稳定。前景、中景和后景之间的关系划分清晰，景深自然，整体画面具备较好的空间纵深感，不再容易出现所有元素堆叠在同一平面的情况。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p>我们以《女儿国》为测试场景。最终生成结果中，空间关系清晰，背景模糊过度自然，没有出现明显的穿帮或站位错误，整体空间表达已经接近真实摄影镜头的效果。</p>\n  <p>&nbsp;</p>\n  <blockquote>\n   <p><strong>36氪AI测评观点</strong></p>\n   <p>Seedance 2.5的空间理解能力已经成为其极具竞争力的优势之一，但这一能力目前仍更依赖参考样本。对于专业创作者，它能够显著提升复杂场景的制作效率；而对于普通用户来说，人物朝向依然是最需要优化的体验环节。</p>\n   <p>&nbsp;</p>\n  </blockquote>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_ad39f632fe9d4ef39b367b4431862979@5284654_oswg10246oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">02</p>\n  <h2><strong>镜头语言：运镜终于有了节奏感</strong></h2>\n  <p>如果说空间结构是\"静态的空间\"，那镜头语言就是\"动态的空间\"。</p>\n  <p><strong>新版本的运镜变化，是整体性的。</strong></p>\n  <p>镜头的运动有了节奏，有了呼吸感，有了电影运镜逻辑：一个从近景镜头，速度会有变化，开始慢、中间快、收尾再慢下来，像真正的摄影师在操作。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p>这种变化来自模型对镜头语言数据的学习更深入了。2.0时代模型学的是镜头运动的形式，2.5学的是<strong>镜头运动的目的</strong>。它开始理解不同运镜方式对应的情绪和叙事功能，所以动起来就有了章法。</p>\n  <p><strong>最明显的提升是转场逻辑。</strong></p>\n  <p>新版本生成的视频镜头连贯性显著提升，观众观看时不会有明显的断裂感。</p>\n  <p>一位长期制作AI漫剧的测评官评价得很直接：</p>\n  <blockquote>\n   <p><strong>“2.0的分镜更像是AI在拼接镜头，2.5的分镜太自然了。”</strong></p>\n  </blockquote>\n  <p>分镜设计是导演的核心能力之一。如果AI能自主做出有设计感的分镜和运镜，那它触及的就不只是执行层，而是开始进入<strong>创作层</strong>了。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p>红孩儿这段的转场是个很好的例子：镜头从红孩儿的火焰特效过渡到下一个场景，用燃烧的火焰作为转场元素，整个过渡非常自然。这已经超出简单镜头移动的范畴，带有叙事思维在里面。</p>\n  <p>虽然它还达不到专业导演的水平，但理解的方向是对的，而且进步速度很快。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_2278ee2ff2384bd6a45768f9d702b9e9@5284654_oswg10324oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">03</p>\n  <h2><strong>运动表现：打击感拉满，走路仍是“玄学”</strong></h2>\n  <p><strong>运动表现在所有测评官的结论高度一致：打击感和交互表现非常出色。</strong></p>\n  <p><strong>一位专业测评官的评价得很真实：</strong></p>\n  <blockquote>\n   <p>“这要是放在三年前，成本至少得10万。”</p>\n  </blockquote>\n  <p><strong>打击感这个东西，听起来很抽象，看一眼你就懂了：</strong>一击打出去，你能感觉到力量，能看到肌肉的绷紧、衣服的飘动、受力反应以及环境因此产生的变化。2.5在这方面的表现，已经接近一些游戏CG的水平。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p>能做到这个程度，跟训练数据有直接关系：<strong>Seedance团队专门针对动作类影视素材做了强化训练，让模型学习到了人体运动的物理规律和受力反馈</strong>。这说明2.0模型只学到了动作的外形，2.5学到了动作的力学逻辑。</p>\n  <p><strong>连续动作的稳定性</strong>也得到了大幅提升。2.0常见的卡顿、掉帧、人物消失、道具乱飞的问题，在2.5上明显减少。人物不会再出现乱挥拳的诡异动作，每一下攻击都有明确的目标和轨迹。</p>\n  <p>孙悟空和二郎神对打的测试里，模型还自主添加了特效。火星、火花、能量波动，配合上合适的音效和打击节奏。甚至完成了黑白高光场景的滤镜效果，视觉观感体验超出预期。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_c4007a1adbec4ccfad06ecaf5cf3b2f7@5284654_oswg9510oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">04</p>\n  <p><strong>角色演绎：内心戏更细腻，但对提示词的理解仍有偏差</strong></p>\n  <p><strong>角色演绎</strong>一直是衡量AI视频智能程度的重要指标，也是本次测评中提升最明显、评价分化明显的一项能力。</p>\n  <p>令人惊喜的是，一旦模型准确理解了提示词，它呈现出的角色表演已经远超预期。</p>\n  <p>在测试中，我们设计了12个表达情绪的剧情片段。</p>\n  <p>例如：在小雷音寺的剧情中，孙悟空钻到黄眉大王的肚子之后让他痛不欲生的场景；还有车迟国斗法片段，老国王表示震惊的方式。</p>\n  <p>通过对人物的眼神、面部表情和细微动作让观众清晰感受到情绪表达。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p>相比上一代，Seedance 2.5对微表情的刻画明显更加细腻。人物眼神的停顿、嘴角的变化、面部肌肉的轻微运动，都能够随着情绪变化自然调整，角色不再只是完成动作，而开始具备一定的情绪表达能力。</p>\n  <p>这种提升意味着：模型已经开始学习影视表演中的细节，而不仅仅是驱动人物完成一个动作。</p>\n  <p><strong>角色演得好，前提是模型理解了创作者的意图。</strong></p>\n  <p>在测试过程中，我们发现模型对一些抽象描述仍然容易出现理解偏差。</p>\n  <p>例如，我们希望女儿国国王的脸上浮现出淡淡的红晕。最终生成的结果却并非皮肤自然泛红，而是在人物脸部叠加了一圈明显的红色光晕，整体效果十分违和。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p><strong>这个案例反映出，模型对于语言和视觉概念之间的映射仍然存在一定偏差。</strong></p>\n  <p>它能够理解“红”“脸”“出现”这些关键词，却未必真正理解“红晕”所代表的是一种皮肤透出的细微色彩变化，而不是一层红色的光效。因此，当提示词包含大量抽象、文学化的表达时，模型更容易按照字面含义进行视觉还原，而不是理解其中真正想表达的画面效果。</p>\n  <p><strong>这也带来了一个比较现实的问题。</strong></p>\n  <p>提示词写得越抽象、越强调意境，模型反而可能出现理解偏差；而如果把描述拆解得足够具体，又容易让生成结果失去自然感，显得过于机械。</p>\n  <blockquote>\n   <p><strong>36氪AI测评观点</strong></p>\n   <p>Seedance 2.5的角色表演能力已经有了明显进步，但如何准确表达自己的创作意图，仍然是创作者需要学习的一门“提示词语言”。对于普通用户来说，也无形中提高了使用门槛。</p>\n   <p>&nbsp;</p>\n  </blockquote>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_b7f8adcf09b24d33b7c48b6cd7ed4108@5284654_oswg10066oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">05</p>\n  <p><strong>画面质感：接近实拍，细节处理仍有破绽</strong></p>\n  <p><strong>画面质感</strong>是用户最容易感知的一项能力，也是 Seedance 2.5 相比上一代提升最明显的部分之一。从最终生成效果来看，无论是光影氛围、材质表现还是人物质感，都已经非常接近真实影视画面。</p>\n  <p><strong>首先是光影。</strong></p>\n  <p>相比2.0较为固定的打光方式，2.5对不同场景的光线氛围已经具备了一定的理解能力。情绪表达偏克制的场景，会采用更加柔和的侧光和较低的整体亮度；动作场景则会强化高光和动态光效，以增强画面的冲击力。 光源方向一致与材质面对光线时的正确反应同样重要。人物皮肤、眼睛、毛孔和衣服的纹理，要随着距离���角度自然变化。</p>\n  <p><strong>画面的整体渲染质量也有明显提升。</strong></p>\n  <p>人物皮肤、服装材质以及环境细节都更加真实，阴影过渡和材质反射更加自然，画面不再像上一代那样带有明显的塑料感和油腻感。如果说 Seedance 2.0 的画面始终像隔着一层薄雾，那么新版本则让整体质感变得更加通透真实。</p>\n  <p><strong>人物细节同样是这一版本的重要进步。</strong></p>\n  <p>上一代最容易暴露AI痕迹的地方，就是人物皮肤过于光滑，缺乏真实肌理，看起来像过度磨皮。而在 2.5 中，人物面部已经能够呈现更加细腻的皮肤纹理，毛孔、皱纹、肤质等细节得到保留，角色整体也更接近真人拍摄的状态。</p>\n  <p>值得一提的是，Seedance 2.5对<strong>参考图的处理方式</strong>也进行了优化。</p>\n  <p>它并不会简单复制参考图，而是在保留主体特征的基础上，对画面进行重新理解和优化。例如，一些参考图中存在的光线、材质或细节瑕疵，模型往往会主动修正，而人物特征和整体风格则能够较好地保留下来。这意味着模型已经开始具备一定的理解后再生成能力，而不是单纯复刻参考图。</p>\n  <p><strong>在整体质感提升的同时，我们也发现了三个细节问题：</strong></p>\n  <p><strong>第一个问题</strong>，<strong>多角色时面���容易扭曲。</strong>当一个画面里出现很多角色时，其中某个角色的面部可能会出现扭曲或变形。背后的原因是计算资源分配的问题，角色一多，每张脸分到的计算资源就少了，细节精度自然下降。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p><strong>第二个问题，720P上限是专业用户的硬伤。</strong>2.5目前最高只支持720P，和4K比起来还是缺少质感和细节。对普通用户来说是够用了，但对专业影视创作者来说，720P是没法交付的。</p>\n  <p><strong>第三个问题，文字准确性提升了，但还不够。</strong>2.0时代生成的文字基本是乱码，2.5在这方面有很大提升，大部分时候文字是对的。但还是会出现错别字，而且一旦出现错别字，这个镜头就不能用了。对商业广告来说，交付效率大打折扣。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_2e9a9d4d53204de6b92b47ce5a9a8da9@5284654_oswg10612oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">06</p>\n  <p><strong>一致性：仍是AI视频落地的最大痛点</strong></p>\n  <p>在短镜头中，人物形象通常能够保持较好的稳定性。但当视频时长增加，<strong>人物一致性</strong>依旧是所有 AI 视频模型共同面临的最大问题。</p>\n  <p>在实际测试中，我们遇到了一个非常典型的案例：</p>\n  <p>来看这个三打白骨精的视频片段。重点关注猪八戒和沙僧的人物形象，我们设定沙僧形象为正常的小麦肤色，但在超长视频中，角色肤色发生变化，最终偏向了传统作品中常见的青色形象。猪八戒也从第一次画面转场之后变成了其他传统影视形象。</p>\n  <p class=\"loading-entity\">&amp;amp;nbsp;</p>\n  <p>小tips：要保持主体形象完全不变，在提示词里写“参考图中的形象，外貌和着装保持完全一致”，可以增加避免人物形象发生偏移的概率。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_3a4656c2d88647258ec906476fc1d28c@5284654_oswg9690oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">07</p>\n  <h2><strong>版本新功能迭代：重构AI视频生产流程</strong></h2>\n  <p>2.0时代，AI视频更像是一次性片段生成工具。输入提示词产出画面，效果不满意只能全部重制，工作流程单向、不可微调。</p>\n  <p>2.5三大核心更新彻底重构创作逻辑：30秒时长、50个全模态参考素材、局部编辑，3分钟超长视频模式。</p>\n  <p><strong>1.&nbsp;30秒时长：实现完整短片叙事</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_ba486bed3ef74ae8af17b01a7ee8ca93@5284654_oswg11928oswg774oswg160_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片1</p>\n  <p>15秒仅能承载单一镜头、单个动作，无法串联起剧情的起承转合，而30秒拥有完整叙事空间，漫剧、短视频广告、剧情短片甚至能单条完成叙事。</p>\n  <p>B站头部的测评官评价得很客观：</p>\n  <blockquote>\n   <p>“故事的连贯性有了很大的提升，尤其是对于想做好内容的朋友，真的是很大的进步。”</p>\n  </blockquote>\n  <p><strong>2. 50个全模态参考素材：缓解一致性短板</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_13512beeb22b4580ac5a25f2ccf208a9@5284654_oswg171594oswg1080oswg162_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片2</p>\n  <p>支持图片、短视频、音频、文本混合导入，多角度人物图、分镜参考视频可以强制锁定角色、运镜风格，对一致性短板做出针对性优化。</p>\n  <p><strong>3. 局部编辑：告别全盘重制抽卡</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_e1bd743075e14f988472a84e732c60fb@5284654_oswg7112oswg704oswg66_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片3</p>\n  <p>过去的创作中出现一处瑕疵，整条视频就要作废，现在可框选出人物面部、背景、光影单独重绘修改，大幅缩短重复生成视频的创作周期。</p>\n  <p><strong>4. 3分钟超长模式：前瞻性技术试水</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_864cecf835294545abbc3266e9bb8dc1@5284654_oswg13259oswg778oswg166_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片4</p>\n  <p>180秒实测成片后半段形象漂移严重，目前只适合概念测试，离实现商业价值还有一定距离。</p>\n  <blockquote>\n   <p><strong>36氪AI测评观点</strong></p>\n   <p>以前是生成、不满意、抽卡重来，无限循环，现在是生成、微调、交付，效率差了一个量级。</p>\n   <p>&nbsp;</p>\n  </blockquote>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_cb4786fcf52a4513a366d39be0f508ee@5284654_oswg4075oswg1080oswg122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">08</p>\n  <h2><strong>结语：AI视频的下半场：迭代才刚刚开始</strong></h2>\n  <p>对比半年前同类AI视频产品，Seedance 2.5七维综合得分大幅领先。</p>\n  <p>对短视频创作者、个人漫剧制作者、小型创意工作室而言，已经可以融入日常创作流程，依靠多参考素材、局部编辑功能抵消一部分缺陷；但对于院线级短片、高标准宣传片，受分辨率、一致性限制，现阶段无法直接交付成片。</p>\n  <p>长远来看，本次测评也指明了模型后续迭代的核心方向：</p>\n  <p>第一，从底层算法逻辑解决人物一致性问题；</p>\n  <p>第二，继续打磨文本指令与视觉画面的对齐能力；</p>\n  <p>第三，开放更高分辨率输出权限，满足商业化落地对画面质量的要求。</p>\n  <p><strong>这一轮版本迭代刷新了AI视频的创作上限，但距离交出完美答卷仍有距离。</strong></p>\n  <p>&nbsp;</p>\n  <h2><strong>下期预告：</strong></h2>\n  <p>AI视频的瓶颈在交互端同样重要：</p>\n  <p>怎么写提示词才能让模型准确理解你想要的画面？提示词的上限够不够生成30秒视频？生成一条30秒的视频，实际成本到底是多少？</p>\n  <p>这些问题，也是决定AI视频能不能真正走进日常工作流的关键。</p>\n  <p>下一期，我们将聚焦用户体验与创作效率，从提示词工程、使用成本、创作流程三个维度，继续拆解Seedance 2.5在实际工作流中的真实表现。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_a9f26e2ddbca4ed28fe910fd29297aee@5284654_oswg8826oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">end</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_159253abe0af4f2987a4b70c9bc151d1@5284654_oswg216573oswg1080oswg300_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">名片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_b68846a9eb2745adbf14578f47264089@5284654_oswg270470oswg1061oswg295_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">名片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_a14491e229ef48fa927164369262ff03@5284654_oswg251788oswg1061oswg295_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">名片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_06b0150be7bc48f7896c7d5abefa72b8@5284654_oswg20170oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI测评</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_e66610c10e0546229c576521ed139e27@5284654_oswg52368oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">新媒体矩阵</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/jnwFJCTi9gVkcB5iqkhVHA\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪AI测评”</a>，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-08-12T10:45:57+00:00",
+      "fetched_at": "2026-08-13T01:29:11.279350+00:00",
+      "fingerprint": "bc9d283ad3bcb976"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "氪星晚报｜英特尔增发200亿美元前据悉曾寻求美政府批准；前7个月我国期货市场累计成交额同比增长38.43%；连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
+      "url": "https://36kr.com/p/3936291241901444?f=rss",
+      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3936243741539463\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>三星、SK海力士最快本月底公布股东回报，总额或超200万亿韩元</strong></a></p>\n  <p>三星电子与SK海力士或将于本月底公布历史最大规模的股东回报方案。随着人工智能（AI）驱动的存储芯片超级周期推动两家公司的现金创造能力大幅提升，市场甚至开始讨论，两家公司包括特别分红、回购并注销股票等在内的股东回报规模合计可能超过200万亿韩元。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3936234601364611\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>苹果商店现山寨版政务App，官方回应：相关部门正协调处理</strong></a></p>\n  <p>近日，福建政务服务APP统一平台（简称“闽政通App”）在苹果应用商店被“假冒”一事在网上引发关注。经查询发现，该假冒的App名为“闽证通”，其在下载页依旧标注自己是“政务便民服务应用”。目前仅在苹果应用商店搜索到该App，部分安卓平台的手机品牌应用商店均未搜索到此应用。对此，闽政通APP官方回应称，目前公司已把相关情况上报，相关部门正在协调处理，同时市民也可以直接在苹果应用商店对App进行举报。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3935823981837442\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>英特尔增发200亿美元前据悉曾寻求美政府批准</strong></a></p>\n  <p>当地时间8月11日，英特尔宣布其普通股注册公开发行定价为每股95美元，共发行210526315股普通股，发行规模从此前公布的150亿美元扩大至200亿美元。据报道，英特尔CEO陈立武在公司增发股票前，曾致电美国商务部长卢特尼克寻求批准。美国政府最终决定不参与此次股票发行。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3936210176261509\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>三星在半导体研发中引入Claude模型，耗时一月的设计验证缩短至两天</strong></a></p>\n  <p>据韩媒报道，三星电子已确认引入Anthropic的大语言模型Claude，并大幅缩短了部分半导体设计与验证的周期。在向软件开发人员优先开放Claude的AI编程工具Claude Code仅约三个月后，报道称开发一线便展现出了显著的效率提升。在客户定制SoC的验证工作中，原本预计耗时一个月以上的任务，仅用时两天就完成。内部评估显示，工作效率提升了约15倍。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3936212285783433\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>C919首条国际航线开通</strong></a></p>\n  <p>8月12日15时许，由国产大飞机C919执飞的国航CA723航班从北京首都国际机场起飞，前往蒙古国首都乌兰巴托，标志着C919首条国际航线正式开通。目前，国航已运营12架C919客机，开通北京至上海、广州、香港、哈尔滨、重庆等航线，执飞超1.2万班次，安全运送旅客超162万人次。</p>\n  <h2><strong>新产品：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3936270064237960\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>阿里云推出Agent竞技平台“千问 AI Arena”</strong></a></p>\n  <p>36氪获悉，8月12日，阿里千问AI平台正式上线\"千问AI Arena\"，这是一个面向AI Agent的挑战与评测平台，从真实业务中持续产生挑战任务，为开发者提供模型、运行环境和评测能力，征集并验证能解决实际问题的Agent方案。AI Arena发起的首个任务由千问AI平台与Aidge联合发起，聚焦跨境电商商品上架场景中的真实问题。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3935901507796097\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>SpaceXAI推出“全天候数字同事”Grok Bot</strong></a></p>\n  <p>SpaceXAI当地时间8月11日宣布推出AI代理产品Grok Bot，目前处于测试阶段。声明称，Grok Bot是一支全天候在线的智能助手团队，可接受并完成用户分配给它们的实际工作任务。据介绍，Grok Bot拥有独立的云端计算机，可以登录用户已经在用的工具，跨应用、收件箱等场景工作，任务完成后才返回汇报。马斯克在社媒平台X发文称：“我们将在修复早期测试的基本问题、并于本周晚些时候发布Grok 4.6之后，扩大Grok Bot的测试规模。”</p>\n  <h2><strong>投融资：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3936220530244996\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>金饰克价一个月飙涨超100元</strong></a></p>\n  <p>在经历阶段性震荡回调后，国际现货黄金近期强势反弹，重新站上4400美元/盎司关口，单周涨幅约7%，截至8月12日下午14时小幅回落至4391美元/盎司。国内金价从8月初的878元/克一路上涨到今天的955元/克，连续上涨80元/克左右。金饰价格也跟着水涨船高，截至8月12日，国内品牌金饰克价逼近1330元关口，周大福足金饰品报1329元/克，周生生足金饰品报1328元/克。金饰价格在7月14日触及低点，当日，周大福足金饰品价格报1217元/克，周生生足金饰品报1214元/克。据此计算，金饰克价一个月内飙涨超100元。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3936062233443459\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>淡马锡计划投资三星电子和SK海力士</strong></a></p>\n  <p>据知情人士称，新加坡主权财富基金淡马锡计划投资三星电子和SK海力士，并已与韩国政府方面联系，商讨投资时机。消息人士称，淡马锡计划通过其内部投资团队直接进行投资，而不是通过外部资产管理公司。</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3936140949601413\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>连续两个月突破100万辆，我国汽车出口延续强劲增长态势</strong></a></p>\n  <p>从中国汽车工业协会获悉，7月份我国汽车出口表现亮眼，延续强劲增长态势。最新发布的数据显示，今年7月份，汽车出口104.3万辆，环比增长0.6%，同比增长81.3%。其中，新能源汽车出口55.3万辆，环比增长5.7%，同比增长145.5%。记者注意到，自今年4月、5月连续两个月汽车出口超过90万辆后，6月、7月出口迈上新台阶，出口连续两个月突破100万辆。不仅如此，新能源汽车出口占比已连续两个月突破百分之五十。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3936135897316741\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>前7个月我国期货市场累计成交额同比增长38.43%</strong></a></p>\n  <p>从中国期货业协会了解到，以单边计算，今年1-7月全国期货市场累计成交量为61.07亿手，累计成交额为568.98万亿元，同比分别增长18.93%和38.43%。其中7月全国期货市场成交量为10.02亿手，成交额为86.28万亿元，同比分别下降5.31%和增长20.99%。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3935827380042880\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>截至今年6月，我国可再生能源制氢产能规模超140万吨</strong></a></p>\n  <p>国家能源局昨天（11日）发布的《中国氢能发展报告（2026）》显示，截至今年6月，我国以电解水制氢为主要路线的建成和在建可再生能源制氢年产能规模已超140万吨，氢能产业取得积极进展。当前，我国氢能基础设施稳步建设。截至6月，全国累计建成加氢站约620座，建成投运纯氢管道长度超350公里。</p>",
+      "category": "tech",
+      "published_at": "2026-08-12T11:00:16+00:00",
+      "fetched_at": "2026-08-13T01:29:11.279344+00:00",
+      "fingerprint": "69b42cd96e1c3c6e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "最前线｜3999元起，影石发布X6：全景相机开始把更多创作交给AI",
+      "url": "https://36kr.com/p/3936487630650758?f=rss",
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>&nbsp;8月12日，影石Insta360在其布局全景相机的第十年，发布了新一代旗舰全景相机X6，中国大陆地区售价3999元起。 &nbsp;</p>\n  <p>作为一款带有“十年之作”意味的产品，X6承接了影石过去十年在全景影像上的技术迭代与经验积累。相较此前几代主要围绕画质、便携性和全景拍摄体验展开升级，X6除了继续提升画质，更明显的变化在于，影石正把更多取景、跟拍和剪辑工作交给相机和AI完成。</p>\n  <p>在画质方面，X6最高支持8K 50帧全景视频和1.2亿像素全景照片，并搭载影石与索尼联合定制的两颗1/1.1英寸方形传感器。按照影石披露的数据，相比上一代X5，新传感器有效利用面积增加33%，单像素进光量提升300%，主要改善夜景、逆光等复杂场景下的成像表现。</p>\n  <p>相比参数提升，X6更值得关注的是拍摄方式的变化。<br />&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_872fe20c66ae4cb68a70f1afa4db08d5@5836910_oswg1280338oswg1265oswg843_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">X6更值得关注的是拍摄方式的变化。</p>\n  <p>&nbsp;</p>\n  <p>&nbsp;</p>\n  <p>全景相机过去最大的特点，是拍摄时无需提前确定镜头方向，可以在后期重新取景，但这也意味着用户需要花更多时间处理素材。X6新增的云台模式2.0，可以直接输出4K平面视频，同时保留8K全景素材；自动跟拍除了人物，也开始支持动物和物体。搭配头部追踪配件后，相机还可以根据用户视线自动改变拍摄方向。</p>\n  <p>在硬件迭代之外，X6 另一条清晰的升级主线，是强化 AI 对拍摄后流程的接管能力，解决用户“拍完以后还要做什么”的问题，让全景影像进一步从记录走向自动创作与空间重建。</p>\n  <p>X6搭载影石自研全景AI模型PanoMind，可以自动识别素材中的精彩片段并完成剪辑；另一项“时刻Pro”则允许用户通过自然语言告诉系统想做什么样的视频，由AI筛选素材并完成成片。</p>\n  <p>此外，X6还加入3D空间重建。用户可以将拍摄素材转化成可自由浏览的3D场景，让全景相机除了记录视频，还拥有重建3D时空的能力，从任何角度重返人生时刻</p>\n  <p>在产品层面之外，影石的业务也处于持续扩张的阶段。年报显示，2025年营收同比增长74.76%，2026年一季度营收同比继续增长83.11%。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260812/v2_234bbdcec77843a5b2711551b1f69237@5836910_oswg1014716oswg1265oswg710_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">效果图</p>\n  <p>过去两年，影石已经不再只围绕全景相机扩张产品线。除X系列、GO系列和运动相机外，公司还陆续投入全景无人机、云台相机、无线麦克风以及定制芯片等新项目。2025年及2026年一季度，公司在这些战略项目上的投入分别达到7.62亿元和2.62亿元。</p>\n  <p>其中，无人机和云台相关布局指向的并不只是增加新品类。影石在年报中将更长期的方向概括为“摄影机器人”：一方面通过不同相机产品积累光学、传感器和影像算法，另一方面通过无人机和云台增加设备在空间中的运动能力，再叠加自动剪辑和AI理解能力。</p>\n  <p>可以看出，X6依然是影石验证新技术的重要产品之一。</p>\n  <p>从过去几代不断提高分辨率，到这一代加入自动跟拍、AI剪辑和空间重建，全景相机的竞争正在从“拍得更清楚”，进一步转向“如何让用户更少参与拍摄和后期，却获得更完整的内容”。</p>\n  <p>对于已经占据较高市场份额的影石来说，继续提高画质仍然重要，但如何降低创作门槛，以及把过去积累的全景影像、AI和空间感知能力延伸到更多硬件形态，也将成为未来的新重点。</p>",
+      "category": "tech",
+      "published_at": "2026-08-12T12:05:01+00:00",
+      "fetched_at": "2026-08-13T01:29:11.279337+00:00",
+      "fingerprint": "f4a6b95597c341e4"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨星巴克中国否认为降成本取消14薪；DeepSeek V4 Pro正式版上线；“阿里最年轻P10”林俊旸创业，新公司估值20亿美元",
+      "url": "https://36kr.com/p/3937187153132680?f=rss",
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>国际能源署：霍尔木兹海峡持续关闭冲击全球石油市场</p>\n  <p>Anthropic将在AI生成文本中嵌入隐形水印</p>\n  <p>C919完成首次国际商业航线飞行</p>\n  <p>三星在半导体研发中引入Claude模型</p>\n  <p>段永平大幅加仓泡泡玛特</p>\n  <h2><strong>TOP 3大新闻</strong></h2>\n  <p><strong>星巴克中国否认为降成本取消14薪</strong></p>\n  <p>近日，有传闻称星巴克中国已开启裁员和降低人工成本，比如取消14薪、修改员工合同，除店经理以外的大部分员工改为兼职合同、取消部分带薪假期。对此，记者多方确认，星巴克中国并未取消14薪、修改员工合同乃至取消部分带薪假期。（21世纪经济报道）</p>\n  <p><strong>DeepSeek V4 Pro正式版上线</strong></p>\n  <p>蓝鲸新闻8月13日电，13日凌晨DeepSeek官网更新API文档，DeepSeek V4 Pro对应模型版本更新为DeepSeek-V4-Pro-0813，开发者已可以通过API调用，这意味着DeepSeek V4的两个版本Flash和Pro正式版都完成发布。文档显示，V4 Pro正式版依旧支持1M上下文和384K最大输出，价格为3元/百万Token输入、6元/百万Token输出，缓存命中输入为0.025元/百万Token。据此前消息，DeepSeek于7月底推出V4 Flash正式版，Agent能力大幅增强，后迅速登顶全球Token调用量排行榜。（蓝鲸新闻）</p>\n  <p><strong>林俊旸创办AI公司语用科技，天使轮融资估值20亿美元</strong></p>\n  <p>8月12日，千问前技术负责人林俊旸宣布已在上海创办了一家新公司语用科技，研究方向为横跨数字世界和物理世界的下一代智能体。他同时透露，高榕创投和HSG（红杉中国）共同领投本轮融资，腾讯和上海未来产业基金提供支持。记者从知情人士处获悉，林俊旸所称的“本轮融资”为语用科技天使轮融资，估值为20亿美元。据此前报道，1993年出生的林俊旸，曾是阿里最年轻的P10级技术专家，与智谱AI创始人唐杰、月之暗面（Kimi）创始人杨植麟、腾讯首席AI科学家姚顺雨并称为“基模四杰”。今年3月，林俊旸宣布从阿里离职，开启创业之路。（证券时报、第一财经）</p>\n  <h2><strong>AI最前沿</strong></h2>\n  <p><strong>SpaceX AI：推出Grok 4.6</strong></p>\n  <p>SpaceX AI于8月12日正式发布了全新升级的旗舰级AI模型Grok4.6。SpaceX AI表示，推出GROK 4.6，GROK 4.6的定价设定为每百万TOKEN输入2美元，每百万TOKEN输出6美元。（财联社）</p>\n  <p><strong>谷歌称Gemini的月用户数已超过10亿</strong></p>\n  <p>Alphabet首席执行官Sundar Pichai在社交媒体平台X上发帖称，目前每月有超过10亿人使用Gemini。他说：“这是我们历来增长最快的产品，也是我们第14款用户数量达到10亿的产品”。（新浪财经）</p>\n  <p><strong>Anthropic将在AI生成文本中嵌入隐形水印</strong></p>\n  <p>美国人工智能公司Anthropic计划推出一种隐形水印技术，用于识别由AI生成的文本内容。Anthropic表示，自8月2日及之后发布的模型起，该公司会在Claude AI生成的文本中直接嵌入人类无法察觉、仅机器可识别的水印。人类肉眼看不到该水印，不会降低文本质量与可读性。即便复制粘贴文本，水印也会随之保留，部分轻度编辑操作也无法清除水印。（但大规模改写或翻译操作大概率会破坏该水印标识。）（新浪财经）</p>\n  <p><strong>前OpenAI首席产品官凯文·��尔正在为其新成立的AI科学初创公司寻求至少7.5亿美元估值</strong></p>\n  <p>前OpenAI首席产品官凯文·韦尔（Kevin Weil）正在为其新成立的AI科学初创公司寻求至少7.5亿美元的估值，并计划在本轮融资中募集1.5亿美元。据三位知情人士透露，相关细节尚未最终敲定，仍可能调整。韦尔本人未回应置评请求。（新浪财经）</p>\n  <h2><strong>大公司/大新闻</strong></h2>\n  <p><strong>朱镕基同志逝世</strong></p>\n  <p>中国共产党中央委员会、中华人民共和国全国人民代表大会常务委员会、中华人民共和国国务院、中国人民政治协商会议全国委员会沉痛宣告：中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十四届、十五届中央政治局常委，国务院原总理朱镕基同志，因病医治无效，于2026年8月12日11时06分在北京逝世，享年98岁。（新华社）</p>\n  <p><strong>梁文锋拿下宇树科技网下私募最大份额，今年他财富已净增1300多亿元</strong></p>\n  <p>继打新长鑫科技后，梁文锋旗下私募再次打新宇树科技，并拿下私募最大份额。据报道，共135家私募旗下2839只产品获宇树科技网下配售，获配金额合计42.99亿元。其中，梁文锋旗下宁波幻方量化、浙江九章资产共有198只产品获配，合计获配25.82万股，金额约3893.74万元，按配售对象数量计为私募机构中最多。彭博亿万富翁指数显示，截至7月15日，梁文锋净资产达360亿美元（约2440亿元），位列全球第63位；年内财富增长199亿美元（约1342亿元），增幅超120%。（每日经济新闻）</p>\n  <p><strong>段永平大幅加仓泡泡玛特</strong></p>\n  <p>8月12日，据港交所权益披露，段永平管理的H&amp;H International Investment, LLC在泡泡玛特H股的持股比例于08月06日从5.55%升至7.70%。（界面新闻）<span style=\"color: #999999; font-size: 12px; letter-spacing: 0px; text-align: center;\">&nbsp;</span></p>\n  <p><strong>但斌美股持仓“大换血”：减仓谷歌，加仓AI硬件</strong></p>\n  <p>但斌美股持仓最新出炉。从调仓动作来看，相比一季度，东方港湾海外基金的美股持仓可谓“大换血”。具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。（上证报）</p>\n  <p><strong>宇树科技A股“朋友圈”曝光</strong></p>\n  <p>近日，备受瞩目的“人形机器人第一股”宇树科技正式在科创板开启网上、网下申购。这家从杭州走出的“六小龙”企业，从受理到过会仅用时73天，创下年内最快IPO审核纪录。招股书显示，宇树科技本次发行前的前十大股东合计持股71.50%。其中，宇树科技董事长王兴兴直接持有公司23.82%股份，为宇树科技第一大股东；其次为宇树科技股权激励持股平台上海宇翼，持股10.94%。<span style=\"color: #999999; font-size: 12px; letter-spacing: 0px; text-align: center;\">&nbsp;</span></p>\n  <p><strong>C919完成首次国际商业航线飞行</strong></p>\n  <p>8月12日16时58分，中国国际航空公司CA723航班平稳降落在蒙古国新成吉思汗国际机场。执飞这次航班的是中国国产C919大飞机，这是C919投入商业运营以来首次执飞常态化国际定期客运航线，标志着中国国产大飞机国际化发展进入新阶段。C919大型客机是我国首次按照国际通行适航标准自行研制、具有自主知识产权的喷气式干线客机，于2023年5月28日完成首次商业飞行。中国商飞数据显示，截至8月10日，由国航、东航、南航运营的C919客机累计开通57条航线，通航25座城市，安全运送旅客超750万人次。（央视新闻）</p>\n  <p><strong>央行发布2026年第二季度中国货币政策执行报告</strong></p>\n  <p>36氪获悉，央行发布2026年第二季度中国货币政策执行报告。其中提出，将及时谋划出台务实管用的增量政策，加大逆周期调节力度，加力扩大内需、优化供给，推动经济持续向新向优向好发展。坚定不移走中国特色金融发展之路，进一步深化金融改革和高水平对外开放，加快建设金融强国，完善中央银行制度，构建科学稳健的货币政策体系和覆盖全面的宏观审慎管理体系，畅通货币政策传导机制。</p>\n  <p><strong>韩国将要求单一杠杆ETF的新投资者必须完成模拟交易练习</strong></p>\n  <p>韩国将要求单只杠杆交易所交易基金（ETF）的新投资者进行模拟交易练习，进一步收紧对加剧市场波动的这种高风险产品的监管规定。韩国金融服务委员会发布，新投资者购买单只杠杆ETF必须完成至少五天的模拟交易，总时长至少为五小时。新规将于8月19日起实施，适用于韩国境内及境外相关投资。（新浪财经）</p>\n  <p><strong>三星在半导体研发中引入Claude模型，耗时一月的设计验证缩短至两天</strong></p>\n  <p>据韩媒报道，三星电子已确认引入Anthropic的大语言模型Claude，并大幅缩短了部分半导体设计与验证的周期。在向软件开发人员优先开放Claude的AI编程工具Claude Code仅约三个月后，报道称开发一线便展现出了显著的效率提升。在客户定制SoC的验证工作中，原本预计耗时一个月以上的任务，仅用时两天就完成。内部评估显示，工作效率提升了约15倍。（财联社）</p>\n  <p><strong>国际能源署：霍尔木兹海峡持续关闭冲击全球石油市场</strong></p>\n  <p>当地时间8月12日，总部位于巴黎的国际能源署发布最新月度石油市场报告称，受霍尔木兹海峡持续关闭、燃料价格高企以及中东局势影响，全球石油供需均受到明显冲击。国际能源署预计，2026年全球石油需求将下降160万桶/日，降幅较上月预测扩大51万桶/日；全球石油供应预计下降430万桶/日。报告显示，7月全球石油供应增至1.015亿桶/日，但仍较去年同期减少630万桶/日，其中海湾地区仍有830万桶/日产量处于中断状态。7月全球可观测石油库存骤降6900万桶，自战争开始以来累计下降4.1亿桶。（央视新闻）</p>\n  <p><strong>全球最大主权财富基金斩获创纪录1840亿美元利润，首次披露持有SpaceX股份</strong></p>\n  <p>全球最大主权财富基金——挪威主权财富基金周三交出成绩单：受亚洲科技股行情提振，基金回报率达到9.4%，上半年盈利创下新高，超过1840亿美元。基金当前资产规模约2.34万亿美元，投资覆盖50多个国家、7000余家企业，持有全球约1.5%的上市流通股票。基金在半年报中首次对外披露，持有SpaceX 0.05%股份，估值略高于12亿美元。（新浪财经）</p>\n  <p><strong>机构称长江存储市占率首次跻身全球第三</strong></p>\n  <p>8月12日，市场研究机构Counterpoint发布数据称，2026年第二季度NAND闪存市场以出货量计算，三星、SK海力士、长江存储的份额分别为25%、22%、14%，这是长江存储份额首次进入前三。不过，按营收计算，长江存储排名行业第五，落后于美光和铠侠，原因是产品组合集中在消费级应用，高单价数据中心企业级固态硬盘占比相对较低。（第一财经）</p>\n  <p><strong>中际旭创新易盛回应英伟达投资传闻</strong></p>\n  <p>近日，有市场传闻称英伟达计划斥资20亿美元战略入股光模块龙头中际旭创，资金用于新一代光模块研发、全球产能扩充以及泰国新工厂建设；同时英伟达有意成为新易盛港股IPO的基石投资者。8月12日，致电中际旭创，相关人士回应：对于该市场传闻，公司并不了解，以公司相关公告为准。同时，新易盛回应称：对于该传闻，公司不便发表评论，有关于公司H股的事项，请投资者以公告为准。（财闻）</p>\n  <p><strong>上半年全国结婚登记人口超650万</strong></p>\n  <p>8月12日，民政部发布2026年2季度民政统计数据。数据显示，今年上半年全国结婚登记327.5万对（对应655万人），较去年同期减少26.4万对；离婚登记138.3万对，较去年同期增加5.2万对。近年来，我国大力提倡适龄婚育，构建、完善全社会的婚育支持体系。其中，婚姻登记的便利度大幅提升。2025年5月10日起，新修订的《婚姻登记条例》实施，婚姻登记地域限制取消，新人领证不再需要户口本，婚姻登记全国各地通办。（每日经济新闻）</p>\n  <p><strong>美股三大指数收盘涨跌不一，热门中概股普跌</strong></p>\n  <p>36氪获悉，8月12日收盘，美股三大指数涨跌不一，道指跌0.04%，纳指涨0.54%，标普500指数涨0.26%。大型科技股多数下跌，Meta跌超3%，微软跌超2%，亚马逊、特斯拉跌超1%，苹果、谷歌小幅下跌，英伟达、英特尔涨超3%。热门中概股普跌，网易、阿里巴巴、腾讯音乐、哔哩哔哩跌超2%，拼多多、百度、蔚来、理想汽车、小鹏集团跌超1%，京东跌近1%。</p>\n  <p><strong>消费电子业又被通知涨价：微软据称已提高Windows 11授权费用</strong></p>\n  <p>消费电子行业已经因半导体短缺造成成本上涨，而软件方面似乎也显示出不妙的苗头。微软据悉将Windows 11授权费提高7%至10%，幅度较往年明显增加，且CPU越高端授权费越高。华硕、宏碁今年晚些时候拟涨价约5%，其中，华硕产品均价较2025年Q4已涨30%。（财联社）</p>\n  <h2><strong>上市进行时</strong></h2>\n  <p><strong>面壁智能启动IPO</strong></p>\n  <p>36氪获悉，证监会网站披露，北京面壁智能科技股份有限公司于2026年8月11日在北京证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信证券。辅导备案报告显示，该公司无控股股东，公司第一大股东为北京清语启航科技中心（有限合伙），持股比例16.45%。</p>\n  <h2><strong>投融资</strong></h2>\n  <p><strong>xAI联合创始人创立的River AI融资11亿美元，英伟达、AMD参投</strong></p>\n  <p>8月11日，xAI联合创始人伊戈尔·巴布什金（Igor Babuschkin）的初创公司River AI宣布完成11亿美元融资，由General Catalyst和AMP PBC领投，英伟达和AMD Ventures跟投，其他投资者包括Y Combinator和淡马锡。（界面新闻）</p>\n  <p><strong>“希奥端计算”完成数亿元A轮融资</strong></p>\n  <p>36氪获悉，服务器CPU厂商“希奥端计算”完成数亿元A轮融资，并同步将总部迁至南京江北新区。本轮融资由铭哲资本、现象资本联合VC领投，中信建投资本、兆易创新等多家产业资本与投资机构首次入局，老股东持续加码。本次募资将投向三大方向：加速BlueDot V1 芯片回片验证与2026年底小批量试商用；启动第二代CPU产品研发；强化软硬件生态适配与兼容认证，完善服务器CPU开发生态。</p>\n  <p><strong>“艾欧智能”完成数亿元融资</strong></p>\n  <p>36氪获悉，机器人与具身智能数据基础设施企业“艾欧智能”（IO-AI Tech）宣布完成数亿元融资。本轮融资由顺为资本、松禾资本、深创投联合投资，并获得头部机器人本体企业战略投资。本轮融资金将主要用于三方面：持续加大核心产品研发投入，建设多元化研发团队以及加速全球市场拓展，提升机器人规模化应用能力。</p>\n  <p><strong>北京无限宇航科技有限公司完成近亿元A轮融资</strong></p>\n  <p>36氪获悉，近日，北京无限宇航科技有限公司宣布完成近亿元A轮融资。本轮融资由鼎峰科创领投，云鼎资本、泰亚投资跟投，老股东深担创投、松禾创投、守仁共创持续加注。本轮资金将主要用于“太空巴士”系列轨道转移飞行器（OTV）的首飞验证、后续型号研制、工程化迭代及规模化制造能力建设，加速推进“太空巴士”系列产品布局，推动公司由技术验证阶段向商业化运营阶段迈进。</p>\n  <h2><strong>大公司财报</strong></h2>\n  <p><strong>腾讯：二季度营收2047.85亿元，同比增长11%</strong></p>\n  <p>36氪获悉，腾讯发布2026年第二季度财报。财报显示，二季度腾讯营收2047.85亿元，同比增长11%；其中游戏收入同比增长11%，本土游戏收入增长17%，国际游戏收入按固定汇率计算增长4%；营销服务收入同比增长22%；金融科技及企业服务收入同比增长9%，云服务受惠于AI增量贡献，国际业务拓展和通用云服务需求增长。Non-IFRS经营利润756.4亿元，同比增长9%；若剔除新AI产品影响，Non-IFRS经营利润同比增长19%至861亿元。资本开支527.8亿元，同比增长176%。</p>\n  <p><strong>金龙鱼：2026年上半年净利润22.94亿元，同比增长30.69%</strong></p>\n  <p>36氪获悉，金龙鱼公告，2026年上半年营业收入1228.52亿元，同比增长6.20%。归属于上市公司股东的净利润22.94亿元，同比增长30.69%。归属于上市公司股东的扣除非经常性损益的净利润14.81亿元，同比增长6.61%。公司计划不派发现金红利，不送红股，不以公积金转增股本。</p>\n  <p><strong>超微电脑四季度净销售额111亿美元，同比接近翻番</strong></p>\n  <p>超微电脑8月11日公布四季度净销售额为111亿美元，去年同期为58亿美元；非GAAP稀释后每股普通股净收益为1.70美元，去年同期为0.41美元；财年净销售额为391亿美元，前一财年为220亿美元。超微电脑预计2027财年一季度净销售额将在145亿美元至155亿美元之间。（界面新闻）</p>\n  <h2><strong>酷产品</strong></h2>\n  <p><strong>谷歌发布三款新手机，搭载Google Tensor G6芯片</strong></p>\n  <p>8月12日，谷歌正式发布Pixel 11、Pixel 11 Pro 和 Pixel 11 Pro XL三款新手机。谷歌表示，这些机型在相机性能上进行了重大升级，耐用性得到增强，并搭载了Google Tensor G6芯片，该芯片可运行最新的Gemini Nano模型。（界面新闻）</p>\n  <p><strong>荣耀发布“全球首款机器人手机”，起售价9999元</strong></p>\n  <p>8月12日，荣耀正式发布“全球首款机器人手机”荣耀Robot Phone。据悉，该机搭载行业首发的钛合金云台架构与荣耀自研影像芯片荣耀驭光H1，12GB+512GB版本定价9999元，16GB+1TB版本12999元，8月12日开启预售，8月18日正式开售。(北京商报)</p>\n  <p class=\"editor-note\"><strong>整理</strong>｜李琪&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-12T23:56:32+00:00",
+      "fetched_at": "2026-08-13T01:29:11.279329+00:00",
+      "fingerprint": "784058b4fc9e25e9"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发 | 顺为、宁德时代系联手押注，这家公司要把全球最小丝杠量产千万根",
+      "url": "https://36kr.com/p/3937262359100805?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260813/v2_99c734bcaf84486587a08808aca71cb0@6221844_oswg98699oswg1280oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2600</strong>字，建议阅读<strong>6</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，精密传动部件供应商诺仕机器人（NOUSBOT）近日完成近亿元A+轮融资。本轮由顺为资本领投，宁德时代旗下望千资本跟投。资金将主要用于微型行星滚柱丝杠产能扩张、产品迭代及海外市场布局。</p>\n  <p>至此，公司已完成四轮融资，历史投资方包括上汽创投、浦东科创、联想创投等产业资本。</p>\n  <p>诺仕机器人成立于2023年7月，前身是一家拥有30余年丝杠制造经验的家族企业。公司专注于行星滚柱丝杠及直线执行器的正向研发与全套工艺自产，在深圳设立研发中心，并建有上海及苏州生产制造基地。诺仕机器人创始人徐杨为同济大学机械制造硕士，曾就职于法雷奥集团，在汽车传动与精密制造领域积累了丰富产业经验。</p>\n  <p>“过去8个月，市场发生了翻天覆地的变化。”徐杨告诉硬氪。上一次融资交割是2025年12月，彼时行业主流方案多围绕特斯拉灵巧手展开。而如今，灵巧手公司数量翻倍，技术路线迅速分化，行业已不再满足于“有一只手”，而是将传动需求延伸至手腕、小臂，甚至颈部与面部。</p>\n  <p>徐杨观察到，颈部自由度的要求从以往的一两个骤升至四到六个，对人脸微表情的精细控制提出了极高要求。</p>\n  <p>“这是市场倒逼的结果。”徐杨表示，2025年市面上绝大多数灵巧手“几乎不能用”，仅能维持约200小时寿命便频繁故障。而进入2026年，虽然部分产品能完成简单操作，但距离工业级可靠性仍有差距。</p>\n  <p>在人形机器人线性关节的传动方案中，旋转关节与丝杠之争由来已久。徐杨判断，丝杠将是最终解。</p>\n  <p>徐杨进一步解释，旋转关节虽然容易控制，但是有要力大，又要体积小，是很难做到的，电机堵转发热是常态，至今没有根治，诺仕的丝杠一体化直线关节就会好很多，因为丝杠天然的自锁力可以缓解电机持续工作，它可以间歇工作，不仅解决发热，还省了能耗，延长了寿命，一举多得。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260813/v2_3c43228d0fec473e87ca61fdd21ff83f@6221844_oswg465018oswg1080oswg642_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">诺仕机器人灵巧手连杆、腱绳方案（图源/企业）</p>\n  <p>目前，诺仕机器人已实现直径仅1.5mm、螺母直径5.5mm的全球最小行星滚柱丝杠量产，精度达C5级，重复定位精度±0.01mm，最大承载力50N。基于该产品集成的微型线性电缸，在U盘大小的体积内可输出15kg推力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260813/v2_02a6d10444674fb6b96e227e4a984bbe@6221844_oswg336567oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">全球最小行星滚柱丝杠（图源/企业）</p>\n  <p>此外，公司正将执行器向“智能化”方向迭代。新一代一体化智能电缸集成力反馈、精度反馈与温度反馈。比如，力反馈要精确到1%的波动，发热后电机衰退要有报警。这些多维传感数据将回传至机器人大脑与小脑，为精细操作提供闭环决策依据。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260813/v2_d02a67e9384945cca8121869a6dcb90a@6221844_oswg366533oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">全球最小行星滚柱丝杠伺服电缸（图源/企业）</p>\n  <p>硬氪了解到，诺仕的野心并不局限于人形机器人。徐杨向硬氪展示了其“力矩阵”产品规划：纵向按出力从3公斤覆盖至1000公斤，横向则切入医疗手术机器人、锂电涂布、半导体光模块、低空经济等多元场景。</p>\n  <p>以低空经济为例，诺仕已为头部无人机企业供货舵面线性执行器；汽车领域，延锋座椅项目一次性带来8个定点，微型高力密度电缸可大幅削减座椅厚度与重量，获上汽认可。</p>\n  <p>产能方面，目前公司苏州工厂24小时满产，年产能300万根仍供不应求。徐杨表示，按远期百万台人形机器人测算，行星滚柱丝杠年需求将达3000万根，而全球有效产能严重不足。本轮融资后，公司目标年底前将产能提升至1000万根。</p>\n  <p><strong>以下是硬氪与诺仕机器人创始人徐杨的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：微型丝杠从材料到结构都缺乏现成标准，诺仕如何解决寿命与可靠性这一行业最大痛点？</strong></p>\n  <p><strong>徐杨：</strong>这是所有零部件一起存续下来的努力，不仅仅是丝杠，空心杯电机，编码器，驱控板都需要一起坚持到寿命的尽头：300万次负载的应用要求，我们经常一台电缸测试半年之久，现在跑寿命的，还是去年冬天的电缸。我们给自己的要求是丝杆绝不能是短板，奔着百万次寿命去跑测试，把空心杯电机、齿轮箱、磁环全部拉齐到同一水平。</p>\n  <p>现在这几个核心部件基本都能稳定在百万次级别，最高的能到300万次。另外材料也在迭代。以前沿袭医疗或汽车行业丝杆材料，但灵巧手工况完全不同，我们又研发了更适合微型场景的新材料。</p>\n  <p><strong>硬氪：如何看待后来者模仿与巨头下场竞争？</strong></p>\n  <p><strong>徐杨：</strong>国内做丝杠本身门槛就高，再要切到微型行星滚柱领域，竞争对手只剩个位数。我们的策略是跑得早、跑得快。 我们目前已经把单价已经打到百元级别，出货量也越来越高。我也不认为单一专利能挡住所有人，所以我们要做的是“力矩阵”平台，让各行各业但凡用到线性传动，都能在我们这张网里找到最合适的方案。这个平台化壁垒比单个产品壁垒高得多。</p>\n  <p><strong>硬氪：当前行业技术演进最超出预期的是什么？</strong></p>\n  <p><strong>徐杨：</strong>没想到颈部、面部、手腕这些“非典型”关节对丝杠的需求来得这么快。以前脖子基本不动，现在要模拟人类4-6个自由度的微表情和转头动作。更关键的是手腕侧向受力，这种仿生动作对线性执行器的要求极高，旋转关节根本做不到。这说明整个行业对“拟人化”的追求正在倒逼底层零部件快速迭代。对我们来说，哪个部位需要丝杠，我们就快速出方案，这是我们相比海外竞品最大的反应速度优势。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>望千：</strong>行星滚柱丝杠性能全方位碾压其他类型方案，可贵的是在高频往复运动下还能保持微米级的定位精度，如此高精度的直线执行器方案定能逐步渗透到汽车、工业制造、半导体、医药等领域，实现快速增长。</p>\n  <p>滚柱丝杠已经稳居具身机器人成本的榜首，如何低成本+稳定交付+小型化一定会是行业未来发展的关键，而诺仕的特色工艺能实现高精度的滚柱丝杠高质量生产的同时兼顾生产效率，目前小型丝杠也在灵巧手领域保持相对优势，因此我们非常期待诺仕能成为整个直线执行器行业的领头羊企业、隐形冠军。</p>\n  <p>望千资本以硬科技投资为核心，已投标的涵盖AI、具身机器人、新能源新材料领域，重仓半导体设备公司芯上微装和上海微电子，深耕新能源行业的新工艺、新机会，同时也在需求具备共性的行业寻找核心零部件+高附加价值+高技术壁垒优质企业，诺仕机器人是完全符合望千资本的审美标准的。</p>\n  <p><strong>顺为：</strong>顺为看好诺仕发展前景，因为行业发展趋势明确，灵巧手/人形机器人赛道发展已成为大势所趋，而最主要的发展方向（小型化、轻量化、高自由度、稳定性）都需要仰赖微型电缸的性能提升，微型行星滚柱丝杠作为最核心的卡脖子零部件，行业发展趋势高度明确。其次，市场规模长坡厚雪，2024年全球丝杠行业市场规模超过230亿美金，人形机器人场景作为核心增长驱动，有机会带动行星滚柱丝杠市场迎来爆发性增长，预计至2030年全球具身场景行星滚柱丝杠市场规模预计为298亿元，对应微型电缸市场规模达到1,069亿。诺仕产品实力行业领先，创新性采用独家的精密工艺，成功打破对进口磨床的依赖，成为灵心巧手微型电缸主力供应商，覆盖行业头部客户。</p>",
+      "category": "tech",
+      "published_at": "2026-08-13T01:10:39+00:00",
+      "fetched_at": "2026-08-13T01:29:11.279315+00:00",
+      "fingerprint": "c8f0256f7c12833e"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+      "url": "https://sspai.com/post/113343",
+      "summary": "雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。<a href=\"https://sspai.com/post/113343\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-12T00:44:13+00:00",
+      "fetched_at": "2026-08-13T01:29:09.742352+00:00",
+      "fingerprint": "d3e7cb8d933dccbe"
+    },
+    {
+      "source": "少数派",
+      "title": "我，与「唯一」的 iPhone Air",
+      "url": "https://sspai.com/post/112880",
+      "summary": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。<a href=\"https://sspai.com/post/112880\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-12T03:04:34+00:00",
+      "fetched_at": "2026-08-13T01:29:09.742345+00:00",
+      "fingerprint": "70ea7ebf97ce40ea"
+    },
+    {
+      "source": "少数派",
+      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+      "url": "https://sspai.com/post/113352",
+      "summary": "《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变了他对科技媒体商业模式认知的故事。<a href=\"https://sspai.com/post/113352\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "fetched_at": "2026-08-13T01:29:09.742339+00:00",
+      "fingerprint": "b81d66ad2ff49c8c"
+    },
+    {
+      "source": "少数派",
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+      "url": "https://sspai.com/post/113219",
+      "summary": "想法被及时、完好的记下来，然后呢？<a href=\"https://sspai.com/post/113219\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-12T09:30:00+00:00",
+      "fetched_at": "2026-08-13T01:29:09.742331+00:00",
+      "fingerprint": "c2ff0f800743192b"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+      "url": "https://sspai.com/post/113385",
+      "summary": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。<a href=\"https://sspai.com/post/113385\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-13T00:14:09+00:00",
+      "fetched_at": "2026-08-13T01:29:09.742321+00:00",
+      "fingerprint": "f235f7a9e2e625b3"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7682 CNY ↑+0.07%",
+      "url": "https://www.frankfurter.app/2026-08-12?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-08-12</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7682 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0032 (+0.07%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-08-13T01:29:08.513020+00:00",
+      "fingerprint": "5b36fd2a126a3587"
+    },
     {
       "source": "BBC World News",
       "title": "These seaside apartments were a ghost city - then police say scammers moved in",
@@ -1811,296 +2111,6 @@
       "published_at": null,
       "fetched_at": "2026-08-06T02:07:38.194761+00:00",
       "fingerprint": "6be77bc66bc3a45c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-      "category": "politics",
-      "published_at": "2026-08-04T21:45:20+00:00",
-      "fetched_at": "2026-08-05T02:03:19.392117+00:00",
-      "fingerprint": "7c45e9d2fea76e35"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
-      "category": "politics",
-      "published_at": "2026-08-05T01:35:29+00:00",
-      "fetched_at": "2026-08-05T02:03:19.392111+00:00",
-      "fingerprint": "b3aee12a6e956890"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "category": "politics",
-      "published_at": "2026-08-05T01:05:21+00:00",
-      "fetched_at": "2026-08-05T02:03:19.392105+00:00",
-      "fingerprint": "1053d1823d05f6d0"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
-      "category": "politics",
-      "published_at": "2026-08-04T17:26:06+00:00",
-      "fetched_at": "2026-08-05T02:03:19.392095+00:00",
-      "fingerprint": "b561d6a5e49b7237"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「我們並不孤獨」：獨處如何成為令人嚮往的新時尚",
-      "url": "https://www.bbc.com/zhongwen/articles/cn0ngz34dddo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "愈來愈多被稱為「孤獨網紅」的人在網上分享沒有孩子、沒有朋友的獨居生活，引發外界熱議。",
-      "category": "politics",
-      "published_at": "2026-08-04T12:36:25+00:00",
-      "fetched_at": "2026-08-05T02:03:19.255507+00:00",
-      "fingerprint": "7c99b99aa5f6f18c"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
-      "url": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC俄語取得的法庭文件顯示，多次有指控稱，指揮官將在烏克蘭受傷的士兵重新送回戰場，而非按照法律要求安排他們接受醫療評估。",
-      "category": "politics",
-      "published_at": "2026-08-05T00:03:04+00:00",
-      "fetched_at": "2026-08-05T02:03:19.255501+00:00",
-      "fingerprint": "6da8c2f34a20a0d4"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "施壓日本、探測美國反應：中國在東海新設施釋放哪些信息？",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgv49zxy2zo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "日本抗議中國在東海新設構造物；剛出爐的防衛白皮書指中國為「前所未有最大戰略挑戰」。分析人士懷疑北京是否藉灰色地帶策略試探美國對印太盟友的承諾。",
-      "category": "politics",
-      "published_at": "2026-08-05T00:02:45+00:00",
-      "fetched_at": "2026-08-05T02:03:19.255495+00:00",
-      "fingerprint": "d24ba7a6a57a4ec4"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "從「勸阻」到限制出境，中國如何重新定義出入境自由？",
-      "url": "https://www.bbc.com/zhongwen/articles/c0rdp7xg277o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "中國公布新出入境管理規定引起廣泛討論，當中包括邊境人員「必要時可勸阻」公民前往高風險國家和地區，在海外「危害國安」的公民回國後會被禁止出境，科研技術人員亦被納入出境限制。",
-      "category": "politics",
-      "published_at": "2026-08-04T12:16:12+00:00",
-      "fetched_at": "2026-08-05T02:03:19.255488+00:00",
-      "fingerprint": "cc2f59c632767d93"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "BBC專訪金明日：「我雖然自由了，但實際上也有很大的負擔」",
-      "url": "https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "中國錫安教會創辦人及主任牧師獲釋一個月，接受了BBC中文的專訪。",
-      "category": "politics",
-      "published_at": "2026-08-05T00:02:37+00:00",
-      "fetched_at": "2026-08-05T02:03:19.255478+00:00",
-      "fingerprint": "8f5a7cf9420a7217"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-05T02:03:18.502895+00:00",
-      "fingerprint": "d06e668fc700e430"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-05T02:03:18.502769+00:00",
-      "fingerprint": "d2237ff1ca6b0202"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-05T02:03:18.502623+00:00",
-      "fingerprint": "ffbe90d5ea594eb1"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-05T02:03:18.502439+00:00",
-      "fingerprint": "ecbfdd470b71831b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-05T02:03:18.502260+00:00",
-      "fingerprint": "e762e41d1a2ba1ad"
-    },
-    {
-      "source": "The Verge",
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-04T20:47:55+00:00",
-      "fetched_at": "2026-08-05T02:03:18.252815+00:00",
-      "fingerprint": "30d8d6544d2f9c31"
-    },
-    {
-      "source": "The Verge",
-      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-04T20:57:49+00:00",
-      "fetched_at": "2026-08-05T02:03:18.252809+00:00",
-      "fingerprint": "9be0fafa6f21f3b3"
-    },
-    {
-      "source": "The Verge",
-      "title": "Now you can securely link multiple phones to one Signal account",
-      "url": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
-      "summary": "You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a device on Signal, you can check and respond to new messages across all of your linked devices. You can also choose whether [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-04T22:02:46+00:00",
-      "fetched_at": "2026-08-05T02:03:18.252803+00:00",
-      "fingerprint": "a684e656622447b2"
-    },
-    {
-      "source": "The Verge",
-      "title": "Don’t screw this up, Marvel",
-      "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
-      "summary": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-04T23:20:56+00:00",
-      "fetched_at": "2026-08-05T02:03:18.252793+00:00",
-      "fingerprint": "002205d8a5fdc28a"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
-      "url": "https://36kr.com/p/3924953058605444?f=rss",
-      "summary": "<p><strong>【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下，</strong>国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。</p>\n  <p>&nbsp;</p>\n  <h2><strong>股东结构：市场化资本、产业资本、区域国资同席，老股东再投票</strong></h2>\n  <p>这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司的产业化进程提供了坚实支撑，也是对其量产进展最直接的确认。</p>\n  <h2><strong>行业背景：载板紧缺与涨价潮叠加，玻璃基板迎来确定性窗口</strong></h2>\n  <p>这轮融资本质上是一次对时间窗口的卡位。AI算力狂飙之下，封装载板持续紧缺，ABF载板供不应求、交期一再拉长；而当芯片封装尺寸不断突破、光模块速率持续跃升，有机基板在热膨胀匹配、高频损耗与布线密度上，正在逼近物理极限。巨头的选择已经给出答案——英特尔宣布玻璃芯基板（GCS）进入大规模量产，台积电CoPoS试产线年内通线，三星、SKC Absolics加速送样与量产准备。玻璃基板，正在从巨头的实验室走向产业的中心。</p>\n  <p>&nbsp;</p>\n  <h2><strong>替代大逻辑：一层“布”卡住了有机基板，三大应用走向全面玻璃基化</strong></h2>\n  <p>比巨头动向更值得关注的，是有机基板的成本地基正在松动。2025年下半年以来，PCB产业链经历了一轮罕见涨价：覆铜板价格大幅攀升，PCB厂商全线调价。而涨价的真正源头，不是铜箔，也不是树脂，而是一层“布”——电子级玻璃纤维布。它的价格较2025年低点翻倍，行业库存降至历史极低位，高端低介电产品被海外厂商高度垄断，而扩产以年计。这层“布”的紧缺，短期内无解。</p>\n  <p>玻纤布之所以不可或缺，是因为它是有机基板的“骨架”，核心使命之一正是热应力匹配：AI服务器PCB层数不断攀升，为了让有机基材的热膨胀系数贴近硅芯片，行业不得不大量使用昂贵的低CTE特种玻纤布。换句话说，<strong>有机基板正在用越来越贵的“布”，去模仿玻璃与生俱来的性能</strong>——玻璃CTE天然与硅匹配，介电损耗远低于有机材料，而且根本不需要这层“布”。当“补丁”的成本越过材料替代的成本拐点，玻璃基化就从可选项变成了必然项。但“玻璃基化”并不是一件事，而是三件事——三大应用的需求逻辑、技术指标与产业节奏，截然不同：</p>\n  <p><strong>第一类，PCB替代——一场由经济性驱动的存量替代，节奏最快。</strong>面向AI服务器背板、高频通信板与新型显示基板，替代对象是FR-4与传统PCB，逻辑简单而锋利：性能更好，成本更低。信号损耗显著降低，显示与HDI基板场景的综合成本大幅优于PCB基板。这一类比拼的是大规模制造与成本控制能力，是当前放量的主战场——2026年，将是玻璃基PCB的替代元年。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_347f933315314b7bacecb2f9f9a631a8@5284654_oswg3007833oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玻璃基板替代传统PCB示意图</p>\n  <p><strong>&nbsp;</strong></p>\n  <p><strong>第二类，ABF载板替代——由可靠性与供给安全驱动，节奏居中。</strong>面向超大尺寸FC-BGA封装、Chiplet与HBM高带宽存储，替代被海外垄断且持续紧缺的载板。这是一场硬指标的对决：翘曲、线宽线距、孔径与深宽比全面收紧，考验的是精细制程与可靠性验证的深水区能力。相关产品将在2027年逐步推向市场。</p>\n  <p>&nbsp;</p>\n  <p><strong>第三类，Interposer替代——由成本革命驱动的远期替代，空间最大。</strong>面向CoWoS先进封装与CPO光电共封装，替代昂贵的硅TSV中介层：玻璃介电性能显著优于硅，面板级加工利用率更高，综合成本有望大幅低于硅TSV；更关键的是，CPO场景下玻璃可以直接承载光波导，实现光电一体化。这条产业链将在2027-2030年逐步成熟——谁提前卡位，谁就握住了下一代封装的入场券。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_969d298d35a9443f9288dad2f7f6c9d7@5284654_oswg2828838oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玻璃芯基板与玻璃中阶层的应用示意图</p>\n  <p>&nbsp;</p>\n  <p><strong>值得注意的是，当行业目光普遍聚焦GCS（Glass Core Substrate）与GI（Glass Interposer）时，PCB的玻璃基化同样必然快速落地，而Glass PCB有一个残酷前提：替代指标极高，极少企业能够真正满足。</strong>玻璃基板要替代有机PCB，必须同时跨过三道门槛——<strong>成本框架</strong>，多数企业的TGV基板成本模型根本无法闭合；<strong>高铜厚线宽比</strong>，精细线路之下，服务器电源与显示大电流驱动同样要求厚铜，而厚铜恰是行业玻璃覆铜的普遍短板；<strong>全工序直通良率</strong>，这是行业公认的经济性生死线，国内量产水平参差不齐。<strong>巽霖科技是全球极少数三重指标全部通过、且具备量产可能性的企业</strong>：综合成本有望较同类型PCB大幅降低，厚铜能力与精细线路兼得，直通良率行业领先，叠加数倍于行业的覆铜结合强度，保障贴装与返修的长期可靠性。涨价持续的窗口期里，玻璃基板与有机PCB的性价比天平正在反转——而反转之后能接住需求的企业，必须先过这三关。</p>\n  <p>&nbsp;</p>\n  <h2><strong>量产进展：最后一公里已经打通</strong></h2>\n  <p>行业从来不缺概念和样品，缺的是能稳定批量交付的真实产能。在巽霖科技看来，只有工厂落地、良率跑通、成本模型闭合，需求才能从样品订单变成可持续的批量订单。为此，巽霖在天津自主建设了玻璃基板全流程工厂，从切割、减薄、TGV成孔，到PVD金属化、电镀、图形化、阻焊，全制程一厂覆盖，年产能30万平方米。依托源自航空发动机热障涂层体系的自研PVD覆铜技术与Cu-ABX四元合金种子层，公司覆铜结合强度数倍于行业水平，TGV量产孔径与深径比覆盖主流需求，连续VCP电镀产能数倍于传统线体。目前，公司Mini LED背光、COB直显及MIP显示模组基板已进入批量出货阶段，并通过自有模组封装线体获得国内头部客户验证——玻璃基板PCB从实验室走向生产线的“最后一公里”，已被打通。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_ca737d3a8a304616a6f021f1cdf37d7a@5284654_oswg3150534oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玻璃基板在MicroLED中的应用</p>\n  <p>&nbsp;</p>\n  <h2><strong>加工路径：三套工艺平台递进交互，六级精度逐级跃迁</strong></h2>\n  <p>巽霖的扩产逻辑，不是产能的简单复制，而是围绕TGV成孔、PVD金属化、电镀与图形化等底层能力，构建三套递进且交互的工艺平台，在孔径、孔密度、结构、层数、线宽线距五个维度逐级收紧、逐级打开市场——六级产品，沿三条工艺主线拾级而上。</p>\n  <p>这条路径的起点，是<strong>第一套平台——以减成法为核心的大尺寸玻璃基PCB工艺</strong>：已进入量产的显示背光与COB玻璃基PCB，双面覆铜加TGV垂直导通，大板面、高良率，既是现金流基本盘，也是所有层级的可靠性底座；同一平台收紧图形化精度，即延伸出玻璃基HDI，引入微孔与盲埋孔，实现多层TGV精细布线，切入高速PCB与光模块载板。<strong>第二套平台，是以半加成精细线路与多层键合为核心的高阶互连工艺</strong>：高阶HDI以单元体键合实现层数倍增堆叠，规避逐层压合的累积对准误差，这是巽霖多层化的差异化打法；这套精细线路能力继续向载板延伸，便打开了GCS玻璃芯载板——转向“通孔—填孔—RDL—多层堆叠”的精细制程，直指百亿美金级的ABF存量替代市场，也是本轮融资的研发主攻方向。<strong>第三套平台，面向封装与光的融合</strong>：高精度TGV与玻璃中介层（GI）向更小孔径、更高深宽比与更高通孔密度持续攻关，成本有望大幅低于硅TSV，面向2.5D/3D封装与HBM的远期市场；同一平台上再叠加光加工能力，同板加工离子交换光波导、激光直写改性、光纤穿插孔与精密腔体，最终实现“电路+光路”的同板共构。三套平台并非彼此割裂：减成法平台验证的覆铜可靠性与量产良率，是精细线路与封装工艺的共同底座；而填孔、RDL与光加工中沉淀的精密能力，又持续反哺前两套平台的精度爬升——递进之中，互为支撑。</p>\n  <p>这条六级路径不是跳跃式押注，而是精度迭代的线性演进——与国内PCB大厂“单双面板—多层板—HDI—高阶HDI—IC载板”的爬升逻辑完全同构：孔径持续收紧、线路不断精细、层数从双面走向数十层，本质是共享底层工艺能力上的连续收窄与逐级叠加。<strong>这一模式从根本上规避了行业最大的隐性风险——产线淘汰与投资失效</strong>：TGV、PVD、电镀、曝光、蚀刻等核心制程在三套平台间大量复用，平台升级依靠工艺包迭代与模块化工序叠加，而非推倒重建；每一级产品的量产收入，又反哺下一代研发。本轮融资形成的产能，不会随产品迭代贬值，反而会随精度爬升持续增值。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_48e338ae4f5e4964ad08134be1c29637@5284654_oswg3069351oswg2000oswg1123_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玻璃基板产业升级跳转逻辑</p>\n  <p>&nbsp;</p>\n  <h2><strong>投资方与创始人观点</strong></h2>\n  <p>本轮投资方英诺基金表示：“玻璃基板正处在从技术验证走向规模量产的关键窗口期。我们看重巽霖科技在PVD覆铜等底层工艺上的原创突破，更看重其已建成全流程产线并实现批量出货的落地能力——在硬科技投资中，能交付的团队最稀缺。”</p>\n  <p>巽霖科技创始人兼CEO甄真博士表示：“本轮融资是产业伙伴与市场资本对玻璃基板量产路线的双重确认。玻纤布涨价让全行业看清了有机基板的成本天花板，也让玻璃基板的替代价值第一次有了经济学的确定性。接下来，资金将集中投向产能爬坡、封装落地与精度升级——从显示基板到高阶HDI，从玻璃芯载板到光波导，我们用三套递进交互的工艺平台与持续的精度跃迁，让真实的批量交付成为行业需求的最终解。”</p>\n  <p>&nbsp;</p>\n  <p><strong>关于巽霖科技</strong></p>\n  <p>巽霖科技成立于2023年9月，专注于玻璃基板全制程技术的研发与产业化，覆盖TGV通孔、PVD复合镀膜、连续式电镀与精细线路等核心工艺，产品应用于Mini LED背光、COB/Micro LED直显、玻璃基HDI、先进封装载板及光电共封装等领域。公司已实现Micro LED级别线路精度与高密度TGV基板量产，正加速推进从基板到模组、从显示到封装、从电到光的产业版图。</p>",
-      "category": "tech",
-      "published_at": "2026-08-04T08:31:59+00:00",
-      "fetched_at": "2026-08-05T02:03:18.038329+00:00",
-      "fingerprint": "2a904d7000b1f247"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从追番到下单，国风IP正在重塑硬核数码消费",
-      "url": "https://36kr.com/p/3925017067862409?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_b648027c573948238feec75943fa277a@19153231_oswg1479097oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>当国风联名吹到硬核数码</strong></h2>\n  <p>这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。</p>\n  <p>想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。</p>\n  <p>在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，也有人花两小时用拼豆拼了个2D的鸭子出来。<strong>社交平台上，催促官方赶紧售卖周边的声音也此起彼伏，</strong>“急切想花钱但是花不出去”，“八仙你会做周边吗急死我了”……&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_1ba0cf1b994941cd827b2385fba5b469@19153231_oswg69769oswg1080oswg452_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源@电影八仙</p>\n  <p>可见，<strong>年轻人对国风IP是越来越上头了。</strong></p>\n  <p>数据也证明了年轻人对国风IP的喜爱。《中国青年报》发布的《2025青年国潮趋势报告》显示，<strong>91.6%的年轻人认为国潮产品已更深入地走进了大众日常生活。</strong>也有59.9%的年轻人明显感觉到近些年来，国潮产品的跨界联名愈发多样，品类也越来越丰富。</p>\n  <p><strong>听到了年轻人的呼唤，敏锐的品牌们也开始在国风联名上玩起了新花样。</strong></p>\n  <p>比如最近，蜜雪冰城、美团外卖又与广东粤剧院展开三方跨界联名，推出了包含粤剧文化元素的折扇与挂件，雪王和袋鼠双双披上戏服，折扇一挥，挂件一晃，将国风碰撞出的实用性与文化底蕴拿捏得死死的。</p>\n  <p><strong>这股联名的风潮不只局限于轻量级的工艺品，也刮进了对技术与工艺要求极高的硬核数码硬件圈。</strong></p>\n  <p>7月20日，<strong>迈从和国漫IP《凡人修仙传》联手，重磅推出了售价1299元的高端系列新品——God 60联名款磁轴键盘礼盒。</strong>产品开放预约后，短短几天，预约量迅速突破6万，并在首批抢先购开售后立即售罄。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_ef197a44b82d4053b8664f1cc12db4b3@19153231_oswg4955512oswg5000oswg3333_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">迈从God 60高端系列</p>\n  <p>年轻人对国风 IP 的热爱，正在从内容消费延伸到真实产品选择。<strong>迈从God 60联名款的热度说明，当IP情绪、产品性能和日常使用场景被打通，硬核数码也能成为国风文化的新入口。</strong></p>\n  <p>具体来看，迈从尝试将那个缥缈的修仙世界搬到玩家的桌面上。</p>\n  <p><strong>外包装摒弃了常规的数码纸盒，而是做成了剑匣的模样，盒身上贯穿着云纹样式，仙气十足。</strong>交互设计也极具仪式感，指尖触碰正面的“掌天瓶”滑块，向右轻轻滑动，大庚剑阵的图样像解开封印一般徐徐展开，让人有一种修仙世界里“开匣出剑”的隐秘快感。</p>\n  <p>礼盒中的键盘，整体为青金色，每一行键盘的颜色都不同，<strong>从上到下呈渐变，接通电源的瞬间就能看见键帽展示大庚剑阵的灯光效果。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_9668605148934d97bcd39cb50af7ee32@19153231_oswg797435oswg3205oswg2135_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p><strong>键帽也有着不同的设计，左侧是雾透效果键帽，左上角的Esc键被替换成了《凡人修仙传》中黄枫谷发放的入门特权令牌——升仙令。</strong>让人印象深刻的，还有那3枚可替换的金属键帽，分别刻着大庚剑阵的阵眼与代表男主韩立性格与态度的“谨慎行事”和“念头通达”。</p>\n  <p>整个礼盒像是一个百宝箱，印着“可叩响仙门”字样的键盘手托、盲盒般的动画鼠标垫、宗门专属的配件盒、带有名场面显影片的电气灯……甚至连撕拉吧唧、动画贴纸这些小周边都安排得明明白白。&nbsp;</p>\n  <p>在这份溢出屏幕的真心背后，我们也不禁好奇，从极其考究的“剑匣”式包装盒，到定制款异形金属键帽，<strong>一个过去习惯了用主流价位爆品打响知名度的品牌，究竟为这场高端产品推出做了多少准备？</strong></p>\n  <h2><strong>迈从的修炼</strong></h2>\n  <p>过去几年，迈从一直在“修炼”。</p>\n  <p>它始终深耕外设赛道，在键盘、鼠标、耳机的主流价位段专攻性能与品质，连续打造出了Ace 68磁轴键盘、G87机械键盘、A7电竞鼠标、V9电竞耳机等一系列高销量爆品。也通过在品控上的严苛把关，以及诸如“90天只换不修”“24个月质保”的服务承诺，一步步建立起了年轻消费者对其产品性能、软件体验与售后体系的信任。</p>\n  <p>建立在真实体验上的口碑积累，让迈从成为了年轻消费者喜欢的外设品牌——<strong>2025年，迈从经过弗若斯特沙利文认证，拿下了机械键盘全国销量第一的成绩，成为了极具影响力的国产消费电子品牌。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_232ccd7e95164ed5b4a79d1a2d6874c2@19153231_oswg1503270oswg1300oswg867_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>规模做大了，基本盘稳了，迈从决定走出舒适区，向上迈出关键的一步。</p>\n  <p>评估了市面上众多热门IP后，最终将目光锁定在了《凡人修仙传》上。</p>\n  <p>作为许多年轻人心中的国漫Top1，主角韩立出身平凡，没有世家托举，也没有修道基础，却凭借着“谨慎行事”“意志坚定”的行事风格与脚踏实地的修炼，一步步从凡人成长为修仙界巅峰。</p>\n  <p>这种热血又接地气的逆袭轨迹，打动了不少年轻人，也和迈从自身的品牌成长轨迹相契合——<strong>从籍籍无名到全网销量第一，迈从的进阶之路，也像是一场外设界的“修仙”。</strong></p>\n  <p>但要稳稳承接住《凡人修仙传》这样的超级IP，光有精神上的契合还远远不够，必须依靠足够强悍的系统工程能力，将厚重的文化内容与审美意境，转化为消费者真实可感的使用体验。</p>\n  <p><strong>光是在产品设计上，就能看到迈从的很多的用心之处。</strong></p>\n  <p>首先，为了在最了解产品、也最认可紧凑配列的核心用户中建立God高端系列认知，迈从没有选择常规的大配列，而是克制且果断地采用了60配列，<strong>不光将桌面的活动空间还给了鼠标，也给玩家们带来了更专注、纯粹的操作体验，希望借此通过核心用户的体验和口碑，向更广泛人群延伸。</strong></p>\n  <p>在视觉与工艺上，迈从也将细节拉满。在《凡人修仙传》中，最具有代表性的视觉符号就是剑阵，为了给玩家更沉浸的体验，迈从专门设计了镂空的键帽，就是为了在键盘开启后，底部的光芒能完美穿透键帽，呈现出完美的剑阵效果灯光。同时，键盘也配备了定制的RGB剑阵灯光，按压阵眼键时，光效会从中⼼向外发散，让剑阵的视觉与光效实现了完美的联动。</p>\n  <p>“谨慎行事”与“念头通达”两枚异形金属键帽，分别对应Backspace键和Enter键：前者呼应删除操作前的谨慎判断，后者对应确认后的念头通达，<strong>这些别出心裁的小巧思，让玩家在每一次敲击时，都能产生情绪代入与精神共鸣。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_4239310cb7ab4584bf679fd95a57f16f@19153231_oswg1227451oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>在极具仪式感的设计之外，God 60也依然装备了业内顶尖的参数配置。</strong>它搭载了迈从自研的“天问方案”与神核引擎，配合磁悬浮轴体，实现了0.001mm调节精度、256K扫描率、16K回报率以及0.06ms极低延迟，保持着品牌一贯的电竞级硬核性能。</p>\n  <p>一直以来，迈从都主打为用户提供综合体验与定价匹配的高质价比产品。God 60延续了迈从对性能和实用体验的重视，并将过去在主流价位产品中形成的研发、设计和工程能力，进一步延伸至更高价值区间，加入更完整的审美与文化表达。</p>\n  <p><strong>一套组合拳下来，也完美诠释了迈从对God高端系列的定义——高性能、高完成度与高质价比，</strong>致力于在更高的价位段里，为消费者提供了一份融合了硬核性能、惊艳设计与深厚文化底蕴的综合体验。</p>\n  <h2><strong>这一把，高端局</strong></h2>\n  <p>长久以来，年轻人的桌面外设，似乎一直都被海外IP“占据”。</p>\n  <p>在电竞玩家的电脑桌上，出现的大多是漫威宇宙、高达机甲，或者是宝可梦。</p>\n  <p>God 60与《凡人修仙传》这次携手，干脆利落地打破了这个局面。它向市场展示了一次完美的双向奔赴，<strong>一边是自带庞大号召力的国漫IP，另一边是具有极高工程水准的国产外设，二者强强联手，将国风IP和硬核电竞做到了完美融合。</strong></p>\n  <p>对于迈从来说，这次联名既是一次破圈，也是一次“破局”。</p>\n  <p>��借着极具诚意的联名设计，迈从吸引的不光是电竞圈的玩家，也硬控了一波有电竞需求的《凡人修仙传》的粉丝，精巧的“青竹蜂云剑”剑匣与发光的“大庚剑阵”成功满足了用户体验，<strong>在每一次按键、插入、打开和替换中，玩家都能实打实地与那个修仙世界产生了奇妙的情感连接。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_bf3bb92b93f244c399f2d23dbea7987f@19153231_oswg127046oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">ChinaJoy上体验God 60的玩家们</p>\n  <p>这波操作，也在年轻群体中刷足了好感度。对他们来说，<strong>键盘既是高频使用的工具，也可以承载性能体验、桌面审美和兴趣表达。</strong></p>\n  <p>迈从围绕年轻玩家对电竞性能、桌面空间和个性表达的需求进行产品定义，并通过God 60将性能体验与文化表达纳入同一套产品逻辑。这套产品能够落地，依赖的也不只是一次设计创意，而是迈从在多产品、多品类上长期积累的系统能力。</p>\n  <p>现在，迈从已经完全具备了覆盖技术研发、产品定义、结构工程、规模供应链协同以及高阶品牌审美表达的系统化能力。<strong>God 60的推出，也让外界对迈从的认知从“高质价比品牌”，蜕变为一个兼具极致性能、高完成度和文化底蕴的品牌。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_31896d3f07bb45ab8c3c4f012f7dddf4@19153231_oswg6706530oswg4037oswg2691_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>对已经在主流价位形成稳定优势的迈从而言，进入高端市场意味着主动打破原有舒适圈。品牌需要面对更复杂的产品定义、更高的设计与工程标准，以及用户对稳定性、审美和品牌价值的综合检验。</p>\n  <p>这一步并非否定原有路径，而是将已经经过市场验证的能力推向要求更高的产品区间。<strong>所以迈从走向高端，绝对不等同于简单粗暴的全线涨价，更不是抛弃主流用户。恰恰相反，它是在原本坚固的地基上，盖起了更高的楼。</strong></p>\n  <p>那些曾在主流价位杀疯了的爆款产品，依然会像定海神针一样，牢牢守护着粉丝基本盘，持续扩大用户覆盖，建立并巩固消费者对迈从的绝对信任。而以God 60为代表的高端产品，则肩负着拉升品牌价值天花板，拓宽文化与审美边界的重任。<strong>二者互相补充，也拼出了一张更加健全、可持续的迈从生态蓝图。</strong></p>\n  <p>真正的品牌向上，从来都不是急于求成地靠某个热门IP进行短期包装，而是像迈从一样，甘于沉淀、厚积薄发。</p>\n  <p><strong>God 60的落地，意味着迈从的高端化已经具备了系统能力、产品载体、核心用户路径和更完整的价位段布局。</strong>而对于国产外设品牌来说，怎么打好这把“高端局”，也终于有了稳扎稳打且后劲十足的新解法。 &nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-04T09:38:53+00:00",
-      "fetched_at": "2026-08-05T02:03:18.038322+00:00",
-      "fingerprint": "7f2c259ca480f9fc"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
-      "url": "https://36kr.com/p/3925067918227591?f=rss",
-      "summary": "<p>一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。</p>\n  <p>具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。</p>\n  <p>由于芯片电源网络是由大量金属线组成的互联结构，因此电源签核时必须将其作为一个整体进行分析，“相当于求解一个维度高达数亿的稀疏矩阵方程，完成一次需要大量时间。”「芯晓科技」总经理谢卓解释道。</p>\n  <p>而随着芯片工艺制程不断缩小，晶体管数量指数级增加，电源核签的周期被进一步不断拉长，一次完整的电源签核往往需要几周时间之久。如果分析结果不理想，设计工程师还需要根据反馈修改版图，再重复一轮电源签核。</p>\n  <p>针对这一行业痛点，芯晓科技运用分布式矩阵求解技术，打破电源核签效率制约芯片交付周期瓶颈。公司推出的首款数字电源签核工具“IcPower”，支持7nm等先进工艺，能满足百亿门级芯片电源，在典型测试用例中速度是国外大厂工具的4.5-8.5倍，目前已在国内多家芯片厂商的芯片设计环节投入使用。</p>\n  <h2><strong>1.采用分布式求解技术，提高电源核签效率3-10倍</strong></h2>\n  <p>谢卓在创办芯晓科技以前，曾任国际知名EDA厂商Cadence电源完整性分析工具Voltus的中国技术团队负责人。</p>\n  <p>据他介绍，分布式求解的核心技术思路，来源于计算数学领域的“区域分解法”，通过将电源核签的巨大矩阵拆分为许多可以高效计算的小矩阵，用多台计算机并行运算，从而缩短整体求解时间，每个分析工具在求解大规模问题时候都会采用类似方法，但难点在于各个工具求解的效率会参差不齐。</p>\n  <p>谢卓表示，难点同时集中在算法和工程两方面。</p>\n  <p>一是要切得“科学”，也就是针对电源网络稀疏矩阵的特性，采用基于图论的智能区域分解算法，将百亿级的全局矩阵科学地切分为多个子矩阵，最小化子矩阵间的边界耦合。</p>\n  <p>二是需要运用分布式矩阵求解器优化节点间的通信拓扑和消息传递机制，大幅降低分布式环境下的网络通信开销。在分布式切分求解过程中，还需要引入严格的数值稳定性控制算法，确保分布式计算与单机高精度求解器的结果，达到数学意义上的严格一致，从而满足先进制程严苛的签核精度要求。</p>\n  <p>芯晓科技正是凭借团队在算法和工程层面的技术积累和创新，使IcPower相比国外工具速度提升上3-5倍，“对于一些耗时特别长的动态分析，部分测试水平可以做到10倍以上的速度提升，以前需要跑几周的电源签核，IcPower几天就能完成。”谢卓表示。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_210c834470104dd991a6a16952f88525@5688585_oswg35555oswg1031oswg440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">IcPower实测性能对比</p>\n  <h2><strong>2.抓住国产替代红利，致力于打造芯片设计平台</strong></h2>\n  <p>和许多近几年出现的EDA工具初创企业一样，芯晓科技切入电源签核赛道也是想抓住当下EDA行业“国产替代”的窗口期。</p>\n  <p>全球EDA市场长期被Synopsys（新思科技）、Cadence（楷登电子）、Siemens EDA（西门子EDA）三大巨头垄断。中国银河证券报告显示，三家在全球市场中的份额约为74%。而近年来不断升级的中美科技博弈，使越来越多国内芯片开始重视使用国产工具，将其作为替代或备份方案。</p>\n  <p>基于性能自信，芯晓科技在商业模式上选择对标国外工具，以软件授权为主，定价与国外工具相当。目前IcPower已在国内多家芯片设计公司投入使用，覆盖国产CPU、GPU、智驾芯片等类型，并在应用过程中借助客户的广泛设计用例与测试平台，不断迭代自身产品性能。</p>\n  <p>谢卓透露，2025年芯晓科技营收达到数百万元。“软件的研发成本基本是固定的，客户越多，盈利能力就能越强。”</p>\n  <p>但他也坦承，拓展客户是当下商业化的难点。“客户往往担心创业公司难以保证产品供应的持续性，因此首选规模更大的企业规模，虽然大公司在创新上的能力可能比不上创业公司。”</p>\n  <p>2026年下半年，芯晓科技计划开启天使轮后的新一轮融资，重点引入产业方资金，目的是在市场拓展方面获得更多帮助。</p>\n  <p>以华为提出的“韬（τ）定律”为代表，随着摩尔定律逐渐逼近物理极限，芯片行业正在从制程微缩转向纵向堆叠，这对电源核签来说意味着分析规模将呈指数级增长。</p>\n  <p>“底层技术积累越强，在这个方向上就越有竞争力。”谢卓表示，接下来芯晓科技的产品路线图也将围绕这一趋势展开，下半年将推出热分析和应力分析产品，支撑完整的热电耦合分析，帮助客户在3DIC设计早期发现芯片堆叠带来的发热和热应力问题。</p>\n  <p>此外，芯晓科技也在探索AI智能体在芯片设计中的应用，使客户通过自然语言就可以调用工具并完成各类设计任务，最终打造一个AI驱动，并能够接入其他EDA工具的芯片设计平台。</p>\n  <p>芯晓科技规划的这条路径最终能否走通，不仅取决于核心技术能否在更多场景中得到验证，还要看未来客户的规模化采购意愿，以及资本市场对公司发展潜力的持续信心。</p>",
-      "category": "tech",
-      "published_at": "2026-08-04T10:27:21+00:00",
-      "fetched_at": "2026-08-05T02:03:18.038297+00:00",
-      "fingerprint": "be708d6cab2e4885"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "“车企牌”电池相继上车，不只是PK宁德时代",
-      "url": "https://36kr.com/p/3925382191708552?f=rss",
-      "summary": "<p>“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。</p>\n  <p>车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。</p>\n  <p>这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句话说，“车企牌”电池是车企技术和标准的全面贯彻。</p>\n  <p>“甚至电池厂的核心岗位招聘，车企都要参与面试把关。”有行业人士透露。</p>\n  <p>这与过往的动力电池合作有着明显区别。据36氪了解，长期以来，头部动力电池公司如宁德时代等凭借技术实力，常常为车企供应相对成熟的系统级方案，尤其是旗舰类产品，如麒麟电池、神行电池等，车企能做的往往是提出需求，而定制开发的空间则相对有限。</p>\n  <p>但从“车企牌”电池的核心指标来看，车企往往有着更多的开发需要。比如巨鲸电池主打全温度周期的热防护标准，小米龙甲电池强调2000次循环和500J底部撞击标准等，理想汽车牌电池也追求“8年16万公里电池健康度不低于75%”，蔚来也提出过15年循环寿命的电池研发计划。</p>\n  <p>此外，动力电池做为电动汽车的心脏级零部件，常年占据30%成本结构，车企来把控电池开发和生产的全流程，从长期来看，也能确保供应链的稳定性和成本掌控力。</p>\n  <p>综合来看，车企对动力电池的全流程掌控需要，注定了“车企牌”电池今天开枝散叶的局面。</p>\n  <p>但与此同时，动力电池头部供应商宁德时代，也在竭力塑造消费者对宁德时代电池性能、安全性的认知。在机场、高铁站、商超等人群密集的地方，经常能看到“选电车看电池，认准宁德时代”的广告语。</p>\n  <p>据36氪了解，即便理想i6为欣旺达电池多给了两年延保，但售出的车型中，仍有超过一半的消费者选择了宁德时代电池。</p>\n  <p>因此，当车企试图将自有电池品牌推向台前时，经受过宁德时代“Intel Inside”战略洗礼的消费者，往往会提出这样的质疑——车企自研的电池包能否比得上宁德时代。</p>\n  <p>某种程度上，这似乎是个目前难有定论的问题。</p>\n  <p>不少电池行业人士对36氪表示，宁德时代的壁垒在于工艺管控能力、生产一致性。而且无论车企的自建产线，还是二三线电池厂商都很难在短时间内，追平宁德时代的这一优势，因为“一定要有足够大的生产体量，才能做有效的筛选和试错”。</p>\n  <p>通常情况下，更高的一致性，意味着更低的续航跳水、补能异常，甚至安全事故的概率。但车企自建的产线，和二三线电池厂的生产一致性水平，也可以通过增加测试工序等手段进行一定弥补。</p>\n  <p>而且，尽管在产品一致性上不及宁德时代，但“车企牌”电池亦有其优势。</p>\n  <p>36氪从一些行业人士处了解到，“车企牌”电池的产品定义、设计、生产通常由车企进行全方位管控，部分自研电池的车企，还会监督到电池的二三级子零件供应商，以确保最终的产品性能符合自己的高标准。</p>\n  <p>除此之外，车企对整车更为熟悉，因此“车企牌”电池的BMS算法，“在应用端可能比电池厂更好”。或许未来相当一段时间内，“车企牌”电池都会保持与宁德时代相持而行。</p>\n  <h3><strong>生产一致性，宁德时代的竞争壁垒</strong></h3>\n  <p>动力电池行业历经多年发展，动力电池技术、设备的成熟与普及，令各电池厂商间的技术代差逐渐拉齐。</p>\n  <p>电池产品间的竞争，越来越聚焦于生产的一致性。</p>\n  <p>许多行业人士都承认，宁德时代的电芯一致性，领先一众二三线电池厂。一个相对直观的体现是——“国内电芯，唯一不分档次的厂家就是宁德时代，因为都是一样的”。</p>\n  <p>“一致性不是那么好做的”。有行业人士告诉36氪，几乎所有的生产要素都会到动力电池的工艺控制，包括现场的湿度、温度、杂质、原材料选用等。</p>\n  <p>而电池厂商“一定要有足够大的生产体量，才能做有效的筛选和试错”。因而短期内，二三线电池厂商的生产一致性，很难赶上宁德时代。</p>\n  <p>而一致性之所以重要，是因为它能够直接影响到电池包的容量，甚至有可能引发安全事故。有电池行业人士表示，即便是行业公认更具本征安全的磷酸铁锂电池包，同样强调生产的一致性。</p>\n  <p>评估生产一致性的直接指标，是压差、内阻差异、尺寸差异等。</p>\n  <p>有行业人士举了个例子解释压差对电池包容量的影响：“原本电池包按100度电的容量去设计，但如果其中有颗电芯的电压只能达到98度，那BMS的均衡策略，会在充电时，把其余100度电芯的那两度电，变成热能消耗掉，从而将所有电芯控制在98度的电压范围之内。这就会造成，电池包的实际容量达不到100度的设计目标。”</p>\n  <p>36氪了解到，目前行业内动力电池的BMS策略，多为被动均衡，它能起到上述的“削峰”的作用，却难以“填谷”，——将100度电芯的电量，输送给98度的电芯。</p>\n  <p>“填谷”需要主动均衡的BMS策略，但这项技术的成本远超被动均衡的BMS策略，因此行业里少有企业采用。</p>\n  <p>一位行业人士举了商用车行业的例子：“一套商用车的主动均衡，报价约2万元，而且有价无市。主动均衡的BMS主要用在钛酸锂电池上，因为超大倍率放电，压差太大，加上钛酸锂能量密度本就低。”</p>\n  <p>这也就意味着，由于电芯一致性导致的电池包容量衰减，很难通过Pack层级的BMS策略去平抑。</p>\n  <p>电池包容量衰减，体现在整车上就是续航跳水、补能异常。但电芯一致性给电池包带来的影响还不止于此，有行业人士表示，它还会造成安全隐患。</p>\n  <p>“假如电池包容量跳水30%还在服役，那就很容易过充过放，过充过放的下一步就是起火。”有电池人士对36氪强调，即使是材料体系更为安全的磷酸铁锂，也遵循这一理论。</p>\n  <p>也有电池行业人士指出，生产一致性对电池包性能和寿命的影响，具体会达到什么程度，“这是一个概率问题”。</p>\n  <p>“这涉及到企业评估电池包可靠性的能力。”一位电池工程师表示，“压差到多少程度是可接受的，这需要通过大量统计数据计算。不过部分车企没有那么多数据样本，只能通过模型推理，而模型的精度又考验着企业员工的水平。”</p>\n  <p>他举例说：“假如A车企认为，压差在100毫伏的失效概率是10%，B车企认为100毫伏压差的失效概率是1%，那么基于这个判断，B车企会让电池包继续服役、企业继续监控，A车企则可能更换电池包，更换后的电池包压差只有10毫伏，电池包寿命自然也会延长。也有些车企会通过远程OTA，限制电池包的使用区间，也能够降低电池包失效风险。”</p>\n  <h3><strong>“车企牌”电池如何缩小差距</strong></h3>\n  <p>尽管宁德时代在生产一致性上，保持领先身位，但“车企牌”电池对一致性的重点盯防，希望努力缩小它们与宁德时代产品之间的差距。</p>\n  <p>一家参与自研电池项目的人士告诉36氪，他所在的车企用了很多强筛查手段，去追赶提升电芯品质。</p>\n  <p>他为36氪举了很多例子：“比如用来去除原材料中金属异物的除瓷工艺，行业里通常做两道，我们做四道。”</p>\n  <p>“用来筛查电芯一致性的降压测试，行业通常只做两三次，我们也做四次。”</p>\n  <p>36氪还从一些电池行业人士处了解到，X-ray（X光）检测也是电池厂提升品质的手段之一。</p>\n  <p>一些电池行业人士告诉36氪，X-ray的作用，就是穿透钢壳、铝壳，以及外层的极片，观察是否有极片、隔膜弯折，也能够检测出电池包内叠片或卷绕的结构性缺陷。“比如卷绕出的电芯，不是一个正常圆柱体，X-ray都可以看出来。”</p>\n  <p>据36氪了解，目前宁德时代、远景动力、欣旺达等厂商，都已采用X-ray检测工序来提升制造管控能力。</p>\n  <p>有欣旺达人士对36氪表示：“欣旺达试产线上的电芯，每颗都会经历X-ray检测，每条量产产线上也都会大量使用X ray，可能是每多少颗电芯测一颗，也可能是所有电芯都测。”</p>\n  <p>不过，需要注意的是，一些电池行业人士认为，X-ray究竟能在多大程度上弥补电芯的一致性，仍取决于电池厂商的能力。</p>\n  <p>X-ray能够呈现显性的表征，但如何通过这些判断一致性的风险概率，这也会因电池厂的能力而异。</p>\n  <p>或许，二三线电池厂的电芯级能力，还需要相当一段时间追赶到头部水平，但这并不能简单等同于，“车企牌”电池一定不如宁德时代。</p>\n  <h3><strong>全流程管控，“车企牌”电池的优势</strong></h3>\n  <p>36氪了解到，车企从宁德时代采购整包电池，宁德时代给的是个类似“灰盒”的方案。</p>\n  <p>部分行业人士表示，电芯工艺、材料配方，宁德时代通常是保密的，生产现场的管控车企也难以过多参与。</p>\n  <p>有蔚来工程师对36氪称：“宁德时代几乎什么都不给。”这在一定程度上，印证了宁德时代开放程度较低。有电池行业人士表示，宁德时代会开放给车企的，“主要是一些基本电芯下线测试数据，比如容量、电压、内阻等”。也有电池工程师表示，数模释放、冷板流道等，车企也能看到。</p>\n  <p>这意味着，车企很难深度参与电池包的全流程管理，电池的质量、性能几乎只能依赖宁德时代的管理。</p>\n  <p>但宁德时代的管理，未必总是优于车企。一家头部车企的电池人士告诉36氪，就他们内部测试的结果而言，宁德时代的一些长期性能指标参数，有时可能并非行业最优。</p>\n  <p>他解释：“宁德时代更早摸清了材料的安全边界，所以敢于把边界压得比较极限。”由此引发了这家车企内部的博弈——品牌端希望搭载宁德时代产品，研发端则持反对意见。</p>\n  <p>反之，“车企牌”电池，车企则能够对电池包的设计、开发、生产进行全方位、无死角的管控。理想牌电池正是一个鲜明的案例。</p>\n  <p>有接近理想的行业人士告诉36氪，理想和欣旺达的合作中，“基本上全是理想在操刀，欣旺达是配合。理想电芯开发、材料的人都有，理想牌电池几乎就是理想设计的，欣旺达更多的是扮演代工方的角色”。</p>\n  <p>理想还曾为这个项目，专门招了十来个电芯开发的人员。36氪从部分行业人士处了解到，直到去年，理想在电池上投入的总人员规模，约为300多人。</p>\n  <p>或许也正得益于，理想对理想牌电池的全方位管控，部分理想人士对36氪表示，从售后数据来看，理想牌电池的失效率和宁德时代差不多，个别月份，理想牌电池的失效率甚至低于宁德时代。</p>\n  <p>鸿蒙智行的巨鲸电池也采用全方位管控的思路，以控制产品质量。</p>\n  <p>36氪曾报道过，巨鲸电池是华为的电池开发标准，对外是华为电池品牌。巨鲸电池的开发标准比行业普遍标准都高，“比如高温热失控实验，华为的要求是，在电池包、整车、周边环境都很热，电量又约为100%的情况下，电池包热失控后不会爆炸。很少有比这更严苛的了”。</p>\n  <p>部分接近鸿蒙智行的行业人士表示：“华为从化学体系到原材、工艺、下线检测都会参与。但他们人手相对有限，所以更多的是监督和验证可靠性，有时候可能不会特别深入地参与电芯研发。”但华为这套严格的准入标准，仍能为巨鲸电池的安全性带来一定保障。</p>\n  <p>7月30日晚，小米汽车技术发布会上，小米集团董事长雷军发布龙甲电池时介绍，这是一套由小米主导的动力电池系统化解决方案，由小米负责产品定义、主导电池包设计开发、参与电芯设计开发、进行全流程质量管控。</p>\n  <p>36氪从部分接近小米的行业人士处了解到，小米为了保证自研电池的性能，“找了很多好的SQE一把手来教自己的员工”，去年小米在电池上投入的人力约为100多人，“其中大部分是BMS的人”，小米也在招聘系统设计相关的人，“因为他后面要做很多工业化的东西”，也在逐步补齐自己的电芯能力。</p>\n  <p>和巨鲸电池一样，龙甲电池的安全标准也相对苛刻。雷军在发布会表示：“龙甲电池安全标准超过国标。”比如其中，”500J底部撞击电池功能不失效”这项，许多行业人士认为“这是比较高的标准”，国标要求的是150J底部撞击后，不泄露、不起火、不爆炸。</p>\n  <p>还有行业人士透露，部分自研电池的车企，还会追溯到电池的二三级供应链，比如正负极材料上，制定筛选材料标准。同时车企也会对二三线电池厂的一致性，制定相当于宁德时代的要求。</p>\n  <p>“甚至包括箱体上的盖板等，有质量不达标的，车企的工程师会帮助这些供应商做人员培训、产线改造、质量提升，确保它们的材料能符合车企的标准，这是过去行业里很少有人做的”。</p>\n  <p>“车企牌”电池的另一个优势在于，主机厂的BMS团队，“在应用层做得可能更好，因为控制器之间是有交互的，而主机厂更懂车”。</p>\n  <p>短时间内，汽车行业的动力电池供应，或将分化为两种路线，一种是以宁德为主的高集成式供应，而更多的二三线电池厂商，则会成为“车企牌”电池模式下，被全流程管控的、类似ODM的角色。</p>\n  <p>但是当车企带领电池厂，将能力逐步提升，并且获得消费者认可，龙头公司能做的无疑是进一步开放，并且跟随和融入车企的标准和开发体系，这也正是“车企牌”电池推出的核心初衷：不是为了斗争，而是实现更高的技术和性能标准，推动行业进入更健康的发展轨道。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260804/v2_05fe80f2256f47eb99556bf2af5ccebe@6215398_oswg24302oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">作者微信：luckg17305264638</p>",
-      "category": "tech",
-      "published_at": "2026-08-04T15:46:22+00:00",
-      "fetched_at": "2026-08-05T02:03:18.038289+00:00",
-      "fingerprint": "46442eb35e03491e"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨马斯克个人财富亏掉2个“黄仁勋”；上海雪花膏母公司破产；日本半导体或面临断供",
-      "url": "https://36kr.com/p/3925868626360706?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <p>一架上海飞东京航班险撞机，两机垂直高度差仅约20米</p>\n  <p>阿里云容器服务Agent开启商业化收费</p>\n  <p>今年以来港股IPO数量同比增长132%，科技类公司占比过半</p>\n  <p>苹果新任CEO据悉邀请已退休的硬件部门负责人加入管理团队</p>\n  <p>SpaceX上市后首份财报前夕，“木头姐”持续加仓</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>马斯克个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋”&nbsp;</strong></p>\n  <p>据微信公众号“福布斯”消息，6月12日SpaceX上市，马斯克成为全球首位万亿富豪。但他13位数字的身家并未维保持多久——SpaceX的股价此前一路飞升，如今却跌回地表，马斯克在7月单月财富缩水3630亿美元（约合人民币2.45万亿元），创下纪录。这一缩水幅度，甚至超过了全球第2至第10大富豪中任何一人的全部身家，是英伟达CEO黄仁勋身家（1740亿美元）的两倍多。截至美国东部时间8月1日零点，排名第2的拉里·佩奇身家微增10亿美元，约为2920亿美元；而马斯克的身家约为6900亿美元，降至去年12月以来的最低水平。（红星新闻）</p>\n  <p><strong>上海雪花膏母公司破产，财产不足以支付破产费</strong></p>\n  <p>近日，上海市浦东新区人民法院出具（2024）沪0115破151号民事裁定书，宣告上海美兰化妆品有限公司（以下简称“美兰”）破产并终结清算程序。裁定书援引《企业破产法》第四十三条认为，企业现有财产不足以支付破产费用，管理人提请法院直接终止清算，普通债权人无财产可分配。</p>\n  <p>据裁定书配套管理人清算数据，美兰可处置资产仅9.58万元，法院确认债权总额1941.67万元，账面资产连诉讼费、管理人报酬等基础办案成本都无法覆盖。这家诞生于1984年、依靠老上海雪花膏走红的本土老牌日化企业彻底退场。（红星新闻）</p>\n  <p><strong>受地震影响，日本半导体或面临断供</strong></p>\n  <p>7月28日，日本熊本县发生强震，多家半导体相关企业停产至今。九州地区因聚集大量半导体相关企业被称为“硅岛”，熊本县自1970年前后开始吸引半导体企业落户，逐步发展成为日本重要的半导体产业基地。</p>\n  <p>熊本县内聚集着大量半导体相关企业和汽车工厂，有专家表示强震将给相关产业带来严重冲击。不仅是半导体，受零部件供应延迟影响，日本部分汽车制造商的生产也已受到波及。丰田汽车已决定暂停福冈县3家工厂的生产至8月5日，位于爱知县的田原工厂也将于8月3日至7日停产。本田宣布，熊本县大津町的摩托车工厂将停产至8月7日。日产汽车则决定，将福冈县两家工厂的部分生产线停工至8月5日。（金融界、央视网）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>面壁智能开源全球首个Stencil优化AI系统</strong></p>\n  <p>36氪获悉，8月4日，面壁智能联合OpenBMB开源社区正式发布并开源全球首个Stencil（模板计算）优化“自动研究+自动部署”大闭环AI系统ForgeStencil。实测数据显示，ForgeStencil在同精度（fp32）下几何平均加速2.35倍，混合精度下额外提速1.95倍。在真实应用场景中，通用CAE求解器hypre加速3.86倍，电磁仿真FDTD加速2.47倍，核反应堆中子学计算minisweep加速最高达5.78倍。</p>\n  <p><strong>阿里云容器服务Agent开启商业化收费</strong></p>\n  <p>36氪获悉，阿里云宣布，容器服务Agent将于北京时间9月3日10时增加新的技能中心和IM频道等功能并开启商业化收费。本次调整后，相关对话、自主智能运维及定时任务等功能将开始收费。调整过程不会影响存量用户已有设置和历史任务记录。容器服务Agent以积分（Credit）作为计量单位，免费开通，支持按量付费及预付费资源包抵扣。使用容器服务Agent的对话、自主智能运维及定时任务等功能时产生的模型资源消耗会折算为积分进行计费。</p>\n  <p><strong>腾讯混元发布最新语音识别模型Hy ASR 3.0 preview</strong></p>\n  <p>36氪获悉，腾讯混元正式发布新一代语音识别模型Hy ASR 3.0 preview。在开源评测集中，Hy ASR 3.0 preview在多语种的WER（Word Error Rate,词错误率）上都控制在3%左右，其中中文普通话WER 3.34%、英语WER 2.62%、粤语WER 3.12%。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>一架上海飞东京航班险撞机，两机垂直高度差仅约20米</strong></p>\n  <p>8月4日清晨5时44分左右，一架全日空航班在东京羽田机场上空临近降落时，与一架名为“白博士”的日本政府飞行检查飞机险些相撞。“空中防撞系统（TCAS）”启动，避免了飞机碰撞。当时试图降落的飞机是由上海出发、飞往羽田机场的NH968航班，机上共有197名机组人员和乘客。根据飞行轨迹数据显示，当时两机垂直高度差仅约20米，存在极高碰撞风险。全日空航班机组收到TCAS防撞系统告警后立刻执行复飞操作进行避让，现场管制人员随即向日本检查机机组发出严厉问询：“没看到正在降落的航班吗？”全日空已将此事报告给日本国土交通省。（新民晚报）</p>\n  <p><strong>申通快递：终止发行可转债并撤回申请文件</strong></p>\n  <p>36氪获悉，申通快递公告，公司董事会审议通过《关于终止向不特定对象发行可转换公司债券事项并撤回申请文件的议案》。目前公司各项业务经营情况稳定，本次终止向不特定对象发行可转换公司债券事项不会对公司的经营活动及财务稳定性造成重大不利影响。敬请投资者理性投资，注意投资风险。</p>\n  <p><strong>美股三大指数集体收涨，光通信、存储板块集体上涨</strong></p>\n  <p>36氪获悉，8月4日收盘，美股三大指数集体上涨，纳指涨2.59%，标普500指数涨1.79%，道指涨1.71%。光通信、存储板块集体上涨，迈威尔科技涨超12%，英特尔、闪迪涨超10%，康宁涨超9%，Lumentum、SK海力士涨超8%，美光科技涨超7%。大型科技股多数上涨，英伟达涨超2%，谷歌、苹果、特斯拉、微软涨超1%；亚马逊跌超2%，Meta小幅下跌。热门中概股多数下跌，小鹏集团跌超2%，理想汽车、蔚来、哔哩哔哩跌超1%，京东、百度小幅下跌；阿里巴巴涨超1%，拼多多涨近1%。</p>\n  <p><strong>苹果：由于Telegram上内容违反了相关指南，曾短暂将其从App Store下架</strong></p>\n  <p>苹果表示，在审查发现Telegram即时通讯应用中存在违反其“禁止儿童性虐待内容”准则的内容后，曾短暂将其从App Store下架。该公司表示，在“开发者迅速删除了相关内容并封禁了发布该内容的用户”后，已恢复该应用的上架。（新浪财经）</p>\n  <p><strong>麦当劳宣布更换美国业务总裁</strong></p>\n  <p>麦当劳8月4日宣布，在公司拥有超26年工作经验的Skye Anderson出任麦当劳美国总裁，即日起生效，接替已掌管麦当劳美国业务近7年的Joe Erlinger。麦当劳当日公布财报显示，二季度美国市场同店销售额增长0.8%，为2025年年初以来最慢增速。（界面新闻）</p>\n  <p><strong>今年以来港股IPO数量同比增长132%，科技类公司占比过半</strong></p>\n  <p>据Wind数据统计，截至8月3日，今年以来，已经有102家公司成功登陆港股市场，同比增长132%；募资总额约3260亿港元，同比增幅超153%。在年内上市的港股公司中，科技类公司占比超过一半，且“A+H”公司达32家。（21世纪经济报道）</p>\n  <p><strong>7月韩国股市出现历史性暴跌，韩股崩盘后散户失去信心</strong></p>\n  <p>7月韩国股市出现历史性暴跌，KOSPI指数单月重挫22%，创下金融危机以来最大月度跌幅，月内四度触发熔断。尽管月末大盘迎来18%的强势反弹，但散户在反弹当日依旧创纪录净卖出股票，市场信心并未得到修复。</p>\n  <p>此前不少韩国散户受追涨情绪影响，借助政府推出的单股杠杆ETF加杠杆，大举买入三星、SK海力士等AI概念股，5‑6月累计买入规模折合542亿美元，在7月的剧烈震荡中损失惨重。不少投资者心态崩塌，甚至表态不再参与韩股。分析人士提醒，市场去杠杆化短期难以结束，科技与半导体板块的震荡行情或将持续数月，本次崩盘已经深刻改变韩国散户的投资心理。（新浪证券）</p>\n  <p><strong>《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布</strong></p>\n  <p>36氪获悉，据工信部网站，7月30日，工业和信息化部组织制定并归口的《智能网联汽车 自动驾驶系统安全要求》（GB 44721—2026）强制性国家标准由国家市场监督管理总局、国家标准化管理委员会批准发布，拟于2027年7月1日起正式实施。《智能网联汽车 自动驾驶系统安全要求》适用于搭载L3级、L4级（高度自动驾驶）系统的M类和N类车辆，不适用于自动泊车系统。该标准立足中国产业发展与行业监管实际需求，兼顾技术可行性、产业适配性与落地实操性，构建了维度完整、要求清晰、适配国情的安全要求体系。</p>\n  <p><strong>央行将开展5000亿元买断式逆回购操作</strong></p>\n  <p>36氪获悉，为保持银行体系流动性充裕，2026年8月5日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展5000亿元买断式逆回购操作，期限为3个月（92天），到期日为2026年11月5日（遇节假日顺延）。</p>\n  <p><strong>日本央行账户数据显示，无明确迹象表明周一大规模干预汇市</strong></p>\n  <p>据报道，根据对日本央行账户的分析，没有明确迹象显示8月3日进行大规模汇市干预。4日公布的日本央行账户与货币经纪商的预测相比存在约8800亿日元差异，这表明周一可能进行小规模干预，但未提供确凿证据。早前数据显示，日本上周四可能投入8.45万亿日元支撑汇市，上周五又投入5.33万亿日元，与美国联合行动干预汇市。（界面新闻）</p>\n  <p><strong>苹果新任CEO据悉邀请已退休的硬件部门负责人加入管理团队</strong></p>\n  <p>据报道，苹果公司即将上任的首席执行官约翰·特纳斯（John Ternus）正将一位曾在自己负责硬件工程期间共事过的得力助手重新招致麾下，加入其新的管理团队。报道称，特纳斯已聘请劳拉·莱格罗斯加入团队，莱格罗斯此前曾担任硬件工程副总裁，直至2022年退休。（财联社）</p>\n  <p><strong>IDC：2025年中国外骨骼机器人市场规模超16亿元，出货量约2.6万台</strong></p>\n  <p>36氪获悉，国际数据公司（IDC）发布《中国外骨骼机器人市场份额，2025》研究报告显示，2025年中国外骨骼机器人市场规模超过16亿元，出货量约2.6万台。其中，医疗康复市场仍占据主要市场价值，消费助力市场则贡献了七成以上出货量，行业应用持续拓展新的增长空间。</p>\n  <p><strong>印尼财长：印尼将出台刺激政策提振电动车销量</strong></p>\n  <p>印尼财政部长普尔巴亚・尤迪・萨德瓦周二在一场车展活动上表示，印尼政府将于未来数周推出相关举措，推动电动自行车等各类电动汽车消费。普尔巴亚称，这套刺激方案计划覆盖50万辆电动摩托车，将由印尼总统普拉博沃・苏比安托在两三周内正式公布。（新浪财经）</p>\n  <p><strong>韩国赴华游客数量持续增长</strong></p>\n  <p>韩国政府最新统计数据显示，今年1月至6月，韩国访华人数约171.4万人次，较去年同期增长16%。韩国业界普遍认为，中国是“距离近、体验好的海外旅游目的地”，预计2026年全年韩国赴华游客人数将继续保持增长。据韩国《东亚日报》报道，中国正作为“高性价比旅游目的地”受到韩国游客关注，赴华旅游产品持续扩容。特别是中国自2024年11月起对韩国公民实行最长30天免签入境政策，让韩国游客节省签证办理等相关费用，大幅降低出行成本。（财联社）</p>\n  <p><strong>SpaceX上市后首份财报前夕，“木头姐”持续加仓</strong></p>\n  <p>凯茜・伍德在7月最后一周加码布局其最为看好的投资赛道，将SpaceX列为头号买入标的，通过四只基金合计买入约2600万美元。除此之外，伍德在CoreWeave股价回调后，斥资1550万美元购入该股，同时增持价值1430万美元的特斯拉股票。（新浪财经）</p>\n  <p><strong>广告技术公司Teads在纽约法院起诉Google和Alphabet</strong></p>\n  <p>当地时间8月3日，广告技术公司Teads向美国纽约南区联邦地区法院对Google和Alphabet提起诉讼，寻求经济损失赔偿及其他救济措施。该诉��是在美国弗吉尼亚东区联邦地区法院裁定Google在特定广告技术市场存在“非法反竞争行为”之后提出的。（界面新闻）</p>\n  <p><strong>全美25州提起诉讼，反对美政府最新关税措施</strong></p>\n  <p>当地时间8月3日获悉，法庭文件显示，美国有25个州提起诉讼，反对美政府最新关税措施。美国纽约州总检察长宣布，由民主党人领导的25个美国州于当日提起诉讼，起诉美国政府。这些州主张，总统针对来自60个贸易伙伴的商品征收最新一轮关税的举措，超出了其对进口商品征税的法定权限。总检察长称，最新关税只是为了替代那些已被美国最高法院否决的关税措施。新关税范围宽泛得不合法，且绕过了法律规定的针对特定国家的调查程序。（央视新闻）</p>\n  <p><strong>蚂蚁阿福辟谣负责人调整：假消息</strong></p>\n  <p>36氪获悉，蚂蚁阿福官博发文辟谣称，网传“蚂蚁阿福1号位伟鹤调整”为假消息。</p>\n  <p><strong>追凉航线订单暴涨500%</strong></p>\n  <p>2026年民航暑运已过半程，今年暑运市场呈现“启动偏晚、后期旺盛”的特征。近期全国多地持续高温，不少旅客纷纷调整出行计划，将目光投向了自带天然“空调”属性的目的地。数据显示，七月以来“避暑纳凉”“夜游”相关关键词的搜索量环比增长238%。记者查询发现，截至目前，今年暑期机票预订量增幅最高的20条航线中，有近半数属于“追凉航线”。其中，芜湖至贵阳增长5倍。此外，郑州至芒市、广州至延吉的航线增幅均超3倍，惠州至太原航线机票预订量增长2.4倍。（央视财经）</p>\n  <p><strong>英伟达、思科、CrowdStrike等企业推动起草AI网络安全指南</strong></p>\n  <p>据英伟达8月4日声明，Linux基金会发布关于“共享AI发现交换”（SAFE）的征求意见稿。据介绍，SAFE是一套拟议指南，旨在将涉及AI智能体的网络安全事件转化为整个生态系统的共享防护能力。声明称，“开放安全AI联盟”的一个工作组正负责起草SAFE指南。英伟达、思科、CrowdStrike、Hugging Face和Red Hat等联盟成员正与Linux基金会合作，共同推进这一初步提案。（界面新闻）</p>\n  <h2>上市进行时</h2>\n  <p><strong>具身智能初创公司智平方据悉考虑明年在香港上市</strong></p>\n  <p>具身智能初创公司智平方据悉考虑明年在香港上市。（财联社）</p>\n  <p><strong>消息人士称Shein拟八月份在香港进行首次公开募股</strong></p>\n  <p>消息人士称，Shein拟八月份在香港进行首次公开募股，目标估值为300亿至400亿美元。（新浪财经）</p>\n  <p><strong>嘉立创上市</strong></p>\n  <p>8月4日，嘉立创登陆A股。早盘集合竞价嘉立创上涨177.47%，最新市值为1302亿元，报234.35元/股，与发行价84.46元/股相比，中一签开盘即可赚74945元，当日收盘价为208.01元/股。值得一提的是，嘉立创是A股今年以来发行价第二高的新股，仅次于科创板新股恒运昌（发行价为92.18元/股）。(中国证券报)</p>\n  <h2>大公司财报</h2>\n  <p><strong>软银公司第一财季净利润1500.7亿日元，低于市场预期</strong></p>\n  <p>8月4日，软银公司公布2027财年第一季度业绩报告。公司第一财季净销售额为1.81万亿日元，预估为1.76万亿日元；营业利润为3023.0亿日元，预估为2755.4亿日元；净利润为1500.7亿日元，预估为1525.2亿日元。软银仍预计2027财年全年净销售额为7.50万亿日元，营业利润为1.10万亿日元，净利润为5600.0亿日元，股息为8.80日元。（界面新闻）</p>\n  <p><strong>AMD二季度营收115.36亿美元，同比增长50%</strong></p>\n  <p>当地时间8月4日，AMD公布了截至2026年第二季度的财务业绩。公司当季实现总营收115.36亿美元，同比增长50%，刷新单季度营收历史纪录。在GAAP准则下，净利润达22.97亿美元，同比增长163%；稀释后每股收益（EPS）为1.38美元。在Non-GAAP准则下，净利润为27.60亿美元，同比增长253%；每股收益为1.66美元，高于市场分析师预期。数据中心业务成为绝对的核心增长引擎，二季度营收达67.2亿美元，同比暴增107%，占公司总营收的58%。（界面新闻）</p>\n  <p><strong>SpaceX发布上市后首份财报：营收78.14亿美元，同比增长92%</strong></p>\n  <p>36氪获悉，SpaceX发布2026年第二季度财报，这是该公司上市后发布的首份财报。财报显示，SpaceX第二季度营收78.14亿美元，较上年同期的40.71亿美元增长92%；净亏损5.41亿美元，较上年同期的净亏损10.08亿美元收窄46%。</p>\n  <p><strong>汇丰控股：上半年收入377.42亿美元，同比增11%</strong></p>\n  <p>36氪获悉，汇丰控股公告，2026年上半年列账基准除税前利润195.22亿美元，较2025年上半年的158.1亿美元增加37亿美元，增幅为23%。除税后利润153.21亿美元，同比增23%。收入377.42亿美元，同比增11%。净利息收益率为1.61%，较2025年上半年上升4个基点。董事会已通过派发第二次股息每股0.1美元，并有意启动最多10亿美元的股份回购。</p>\n  <p><strong>英国石油公司第二季度调整后净利润57.3亿美元，高于市场预期</strong></p>\n  <p>8月4日，英国石油公司公布第二季度业绩报告。公司第二季度调整后息税前利润为103.1亿美元，预估为92.5亿美元；调整后净利润为57.3亿美元，预估为50.1亿美元；调整后每股收益为0.3692美元，预估为0.33美元。（界面新闻）</p>\n  <p><strong>Grab二季度净利大增620%，上调全年盈利预期</strong></p>\n  <p>Grab公布二季度净利同比大增620%至2.52亿美元；二季度营收从去年同期的8.19亿美元增至9.97亿美元，高于分析师预期的9.91亿美元，增长主要得益于配送、出行和金融服务业务营收增长。Grab预计2026年全年营收将介于41亿美元至41.5亿美元，高于此前预测的40.4亿美元至41亿美元。（财联社）</p>\n  <h2>投融资</h2>\n  <p><strong>“木木西里”完成数千万元B轮融资</strong></p>\n  <p>36氪获悉，近日，南京木木西里科技有限公司宣布完成数千万元B轮融资。本次融资由华瑞集团领投，中盛汇普、巨石资本、江宁经开资本共同跟投。本次募集资金将重点用于核心技术持续研发、生产产线扩建，进一步提升国产高端光学检测仪器研发与规模化交付能力。</p>\n  <p><strong>网络安全初创公司Horizon3.ai融资2.5亿美元</strong></p>\n  <p>总部位于旧金山的提供道德黑客雇佣服务的Horizon3.ai在后期融资中筹集了2.5亿美元。本轮融资由NightDragon和NEA共同领投，这两家机构均曾参与早期融资，此外还有十多家新老投资者参投。Anthropic的Mythos和其他前沿人工智能（AI）模型让网络攻击威力大增，引发了企业界的担忧浪潮，该公司希望借此势头实现发展。（新浪财经）</p>\n  <h2>酷产品</h2>\n  <p><strong>三星探索内存新技术：垂直堆叠于AI加速器之上，密度超传统HBM5十倍</strong></p>\n  <p>金十数据8月5日讯，美东时间8月4日，三星电子在美国加州圣克拉拉举行的未来存储与内存大会(FMS)上推出其V10Bonding V-NAND，即BV-NAND原型产品。该芯片拥有超过400层结构，并采用全新的晶圆键合架构，以提高存储密度并增强性能。三星表示，其BV-NAND技术较上一代V9 NAND将存储密度提高约58%，同时提升读取、写入以及输入/输出性能，以满足人工智能系统对更高容量、更高能效存储解决方案日益增长的需求。三星还展示了其称业界首款zHBM和ZNAND-O架构概念模型。该技术通过垂直堆叠存储单元，在更小空间内存储更多数据。不同于传统HBM与AI处理器并列封装的方式，三星的zHBM会将存储垂直堆叠于AI加速器之上，以缩短数据传输距离，提高带宽,同时提升能源效率。三星表示，其晶圆键合技术有望实现超过传统HBM5内存10倍的存储密度，同时将能源效率提高3倍，并将热阻降低一半以上。（金十数据）</p>\n  <h2>AI图谱</h2>\n  <p><strong>AI图谱，带你解读最新最快的AI资讯。</strong>机器人复刻人类触觉手感难度颇高，相关技术仍存不少难关。</p>\n  <p><strong>恋爱“越界行为”小调查</strong></p>\n  <p>在一段亲密关系中，人能完整地做自己吗？是否应该划清一条明确的“边界”？</p>\n  <p>很多伴侣间矛盾的根源，都是没对齐彼此的边界底线：对象的手机能不能看；想要独处空间有没有错；和异性朋友单独见面该不该报备；面对性行为时出现犹豫，是否该及时叫停……欢迎扫描下方二维码，告诉我们：你在亲密关系中保留自我的“边界感”在哪里？又会在哪一刻意识到，对方越界了？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260805/v2_8585f418b5cc4308a8ae0c970a1450f4@5667365_oswg11960oswg195oswg183_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫描二维码参与小调查</p>\n  <p>扫描下方二维码<strong>整理</strong>｜王浩阳&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-05T00:02:59+00:00",
-      "fetched_at": "2026-08-05T02:03:18.038275+00:00",
-      "fingerprint": "88584bfd7a23d6f5"
-    },
-    {
-      "source": "少数派",
-      "title": "角落新声｜成年的快乐，是可以将角落铺满全家",
-      "url": "https://sspai.com/post/112738",
-      "summary": "我理解中的角落，不是电影里那种阴暗逼仄、藏着邪恶与不堪的地方，而是生活中时间与现实的锚点。<a href=\"https://sspai.com/post/112738\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-04T02:59:26+00:00",
-      "fetched_at": "2026-08-05T02:03:16.377550+00:00",
-      "fingerprint": "c7de0fdeca01eb7e"
-    },
-    {
-      "source": "少数派",
-      "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
-      "url": "https://sspai.com/post/113060",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113060\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-04T09:00:00+00:00",
-      "fetched_at": "2026-08-05T02:03:16.377544+00:00",
-      "fingerprint": "eda4ea94e90d3595"
-    },
-    {
-      "source": "少数派",
-      "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
-      "url": "https://sspai.com/prime/story/home-made-beverages-3",
-      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐之前说的液体物料只是把最常用的几类跟大家分享一下，其实还有非常多好喝的好用的液体物料无法一一说明，后边配方中如果需要会顺带介绍。这篇聊一聊固 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-3\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "category": "tech",
-      "published_at": "2026-08-04T09:54:35+00:00",
-      "fetched_at": "2026-08-05T02:03:16.377538+00:00",
-      "fingerprint": "b209ed9c4bcd0880"
-    },
-    {
-      "source": "少数派",
-      "title": "敬畏热度、保持热情：如何在夏季坚持跑步",
-      "url": "https://sspai.com/post/74342",
-      "summary": "无论你是初跑者，还是跑步老手，相信这份「夏季跑步指南」都能帮助到你。<a href=\"https://sspai.com/post/74342\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-04T10:42:08+00:00",
-      "fetched_at": "2026-08-05T02:03:16.377531+00:00",
-      "fingerprint": "3387f39233cee582"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等",
-      "url": "https://sspai.com/post/113087",
-      "summary": "索尼发布 FE 100-400mm F5.6-8 OSS 全画幅超远摄变焦镜头，国内航线燃油附加费下调等。<a href=\"https://sspai.com/post/113087\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-05T00:30:43+00:00",
-      "fetched_at": "2026-08-05T02:03:16.377520+00:00",
-      "fingerprint": "83a2190afe379e69"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7485 CNY ↑+0.36%",
-      "url": "https://www.frankfurter.app/2026-08-04?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-08-04</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7485 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0172 (+0.36%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-08-05T02:03:15.320037+00:00",
-      "fingerprint": "bf0fae8f7b6ddca0"
     }
   ]
 }
