@@ -1,7 +1,197 @@
 {
-  "updated_at": "2026-08-15T00:57:51.513861+00:00",
-  "count": 209,
+  "updated_at": "2026-08-16T01:01:03.800154+00:00",
+  "count": 202,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "summary": "<p>Border security tightened after social media posts call for another mass crossing into Spain’s north African territory</p><p>Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.</p><p>The attempted crossing on Saturday came two weeks after more than <a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths\">72,000 migrants surged into Ceuta</a>, causing <a href=\"https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies\">tensions within the EU</a> and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to ⁠reach European soil.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-15T18:08:21+00:00",
+      "fetched_at": "2026-08-16T01:01:03.794581+00:00",
+      "fingerprint": "41036778d9fb6b86"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "summary": "<p>Eighteen children among the people killed after ferry capsized on Lake Kariba</p><p>Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.</p><p>The ferry <a href=\"https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize\">capsized on Tuesday on Lake Kariba</a>, on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-15T19:39:07+00:00",
+      "fetched_at": "2026-08-16T01:01:03.794571+00:00",
+      "fingerprint": "90ba3a9673a32e85"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "category": "politics",
+      "published_at": "2026-08-15T19:41:57+00:00",
+      "fetched_at": "2026-08-16T01:01:03.623561+00:00",
+      "fingerprint": "9451759e9926ca1f"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+      "category": "politics",
+      "published_at": "2026-08-15T20:21:14+00:00",
+      "fetched_at": "2026-08-16T01:01:03.623555+00:00",
+      "fingerprint": "9d3e8903f42afdfb"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "category": "politics",
+      "published_at": "2026-08-15T20:58:31+00:00",
+      "fetched_at": "2026-08-16T01:01:03.623548+00:00",
+      "fingerprint": "be57cc06dde66fd8"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "category": "politics",
+      "published_at": "2026-08-15T21:49:12+00:00",
+      "fetched_at": "2026-08-16T01:01:03.623539+00:00",
+      "fingerprint": "f7053cd9143e1bb6"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-16T01:01:03.331337+00:00",
+      "fingerprint": "09d6b2df80b9bbc3"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-16T01:01:03.331231+00:00",
+      "fingerprint": "441022e5503ba70a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "ChatGPT lost 22 points of web share in a year",
+      "url": "https://aicharts.grok.me/c/market-share",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-16T01:01:03.331090+00:00",
+      "fingerprint": "6db59ce1ccecd0a8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-16T01:01:03.330976+00:00",
+      "fingerprint": "c5bb51af2e228ee5"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-16T01:01:03.330843+00:00",
+      "fingerprint": "cc46e9b7f6f7c44a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+      "url": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+      "summary": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from the theory behind their musical choices [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-15T15:00:00+00:00",
+      "fetched_at": "2026-08-16T01:01:03.022564+00:00",
+      "fingerprint": "f7a933a97490f9f5"
+    },
+    {
+      "source": "The Verge",
+      "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+      "url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+      "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-15T17:00:00+00:00",
+      "fetched_at": "2026-08-16T01:01:03.022558+00:00",
+      "fingerprint": "9741056b78e1fa95"
+    },
+    {
+      "source": "The Verge",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-15T20:45:00+00:00",
+      "fetched_at": "2026-08-16T01:01:03.022551+00:00",
+      "fingerprint": "015b3666d4504b20"
+    },
+    {
+      "source": "The Verge",
+      "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+      "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+      "summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit &#38; Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-15T21:56:13+00:00",
+      "fetched_at": "2026-08-16T01:01:03.022541+00:00",
+      "fingerprint": "9d66eb2ab3eb9634"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "9点1氪丨追觅首台手机售价超20万，带创始人俞浩签名；韩国宣布2030年实现登月；胖东来计划招聘20名刑期5年以上刑满释放人员",
+      "url": "https://36kr.com/p/3940086573759874?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>微信朋友圈未来不会推出二次编辑功能</li>\n   <li>遭“薅羊毛式”黑灰产诈骗，东方甄选回应</li>\n   <li>宜家拟处置上海宝山商场物业</li>\n   <li>阿里超15亿美金向中信资本出售灵犀互娱</li>\n   <li>英伟达宣布CPO交换机全面量产</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>追觅首台手机售价超20万：24K足金镶宝石，带俞浩签名</strong></p>\n  <p>8月13日，追觅手机负责人在朋友圈透露，公司已正式交付001号AURORA手机。据其透露，三万美金（约合人民币20.23万元）交易款项已全部到账，其中首付款1万美金，尾款21184美金。其称，这是 “中国智能手机历史上迄今为止卖出去单台售价最高的旗舰智能手机”。从曝光图片来看，手机不仅背面带有追觅创始人俞浩签名，而且还附带专属编码的典藏证书。证书信息显示，甄选24K足金材质，并镶嵌珍稀宝石。（钱江晚报）</p>\n  <p><strong>韩国宣布2030年实现登月</strong></p>\n  <p>8月12日，韩国总统李在明在青瓦台举行“未来增长动力七大尖端技术发布会”，并公布“七大尖端项目”战略：分别是2029年研制国产100量子比特计算机，2030年实现登月，2035年推动国产小型模块化反应堆（SMR）商业部署，并实现脑机接口产品商业化。七大方向还包括核聚变、下一代可再生能源、先进生物技术，以及关键矿产和材料供应链。李在明表示，韩国必须把握当前半导体产业带来的机遇，为后AI时代做好准备。（上游新闻）</p>\n  <p><strong>胖东来：计划招聘20名刑期5年以上刑满释放人员</strong></p>\n  <p>8月14日，胖东来发布郑州店招聘退伍边防军人及刑释人员提前公告。公告称，在本次招聘中，胖东来计划招聘100名为祖国边疆做出巨大贡献的退伍边防军人，20名刑期5年以上的刑满释放人员，并为其设立专属报名投递通道。胖东来表示，这也是基于人性的善良和美好，希望各个群体的人们都能够得到社会的尊重和关爱，能够让每个人有尊严地生活，成为文明先进生活理念的践行者和传播者，活得像光一样，照亮更多人的生命，造福国家和社会。据介绍，以上招聘人员的报名及面试流程与其他应聘者一致，具体招聘时间、岗位、人数、要求、报名方式等信息，后期将通过胖东来官方渠道正式发布。（鞭牛士）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Anthropic：Q2营收同比暴涨14倍</strong></p>\n  <p>据业内人士看到的文件显示，Anthropic PBC在向潜在投资者推介时透露，公司第二季度的营业收入较去年同期实现了约14倍的巨幅增长。文件显示，这家Claude聊天机器人开发商在最新结束的季度中报告的初步营收超过115亿美元。作为对比，其在2025年同期的营收仅为7.87亿美元，而今年第一季度则为47.3 亿美元。此外，文件还显示，Anthropic在2026年第二季度的调整后营业利润为正。据悉，目前相关数据仍处于内部复核阶段，最终结果可能会有所调整。（财联社）</p>\n  <p><strong>智谱正式发布GLM-5.3</strong></p>\n  <p>36氪获悉，智谱正式发布GLM-5.3。据介绍，与GLM-5.2相比，GLM-5.3的基座模型没变，但通过极致的后训练Scaling大大提高了模型的智能上界。GLM-5.3是编程能力最强的开源模型，在内部自建体感评测中较GLM-5.2提升50%，在包括Terminal Bench 3.0、Agents' Last Exam （CLI）在内的公开基准测试中取得开源第一。</p>\n  <p><strong>消息称苹果针对中国市场训练了一款AI模型</strong></p>\n  <p>消息人士称，苹果专门针对中国市场训练了一款AI模型，该AI模型的训练据悉得到阿里巴巴的支持。（财联社）</p>\n  <p><strong>OpenAI任命Dali Rajic为首席营收官</strong></p>\n  <p>8月13日，OpenAI宣布，Dali Rajic将加入OpenAI担任首席营收官，领导OpenAI的全球营收团队。现任首席营收官Denise Dresser将在过渡期结束后离开OpenAI，寻求其他发展机会。OpenAI称，公司产品目前每周活跃用户超过10亿，服务企业超过200万家，是去年同期的两倍，而Denise为这一切的实现做出了巨大贡献。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>旺旺董事长发内部信：公司面临重大经营危机，没有贡献的人就要被淘汰</strong></p>\n  <p>2026年8月初，旺旺集团董事长蔡衍明发布致全体旺旺人的公开信，将2026财年第一季度（4月至6月）业绩未达预期定性为“重大经营危机”，要求内部反思产品创新不足、渠道老化等问题，并推动改革。蔡衍明表示，“对公司有感情的旺旺人要痛定思痛，不合理、无效的费用就不应该花，该节省的费用一定要当作自己家的钱来节省；新的业务做法一定要勇敢、积极尝试。集团现在要的是能有贡献、有功劳的旺旺人！没有产出、没有功劳的，都会需要被淘汰！”（蓝鲸新闻）</p>\n  <p><strong>1700余件“心机商标”被宣告无效</strong></p>\n  <p>近日，国家知识产权局商标局网站公布了一批“依职权宣告无效的带有欺骗性的商标”。在公布的名单中，一些看似普通的词语成为部分企业营销宣传的工具。比如“土猪”“土鸡”“手擀”“手打”等，容易让消费者联想到散养、手工制作、品质更高等特质，属于从品质工艺进行误导；而含有“零卡”“零糖”“零添加”“劲白”等词语的商标，容易让消费者从特定成分或功效进行联想；“香港大药房”“树上熟”等名称，则是在商品的产地、来源等方面进行误导。目前，已有1782件相关商标被宣告无效。专家表示，这些商家注册商标的目的不单纯是为了起一个名称，而是把一些表达商品质量、数量、产地来源甚至功效成分的名称注册成商标，给消费者带来误导。（央视新闻）</p>\n  <p><strong>沃尔玛入华三十年，持续加大在华投资</strong></p>\n  <p>8月12日，沃尔玛中国在深圳举行三十周年活动。活动现场，沃尔玛中国围绕五座重要城市合作举行集中签约仪式。此次签约覆盖山东烟台沃尔玛及山姆业态合作意向书，北京昌平、辽宁沈阳的沃尔玛门店合作协议，以及湖北武汉、江苏南通的山姆会员商店合作协议，聚焦不同区域需求，持续拓展沃尔玛中国双业态服务网络。此外，沃尔玛中国正式揭晓全新雇主品牌“精彩由沃开始”，以行动诠释面向未来的发展战略。（品牌专题）</p>\n  <p><strong>杨子家族旗下公司上半年净利骤降近六成</strong></p>\n  <p>8月13日晚间，巨力索具（002342.SZ）披露2026年半年报，报告期公司实现营业收入13.09亿元，同比增长14.79%；归属于上市公司股东的净利润380.01万元，较上年同期935.08 万元同比下降59.36%；扣除非经常性损益后的归母净利润1099.98万元，同比增长96.48%。公司综合毛利为18.84%，同比提升0.84个百分点。营收规模实现两位数增长，但归母净利润大幅回落，扣非与归母净利润出现明显背离。（界面新闻）</p>\n  <p><strong>微信官方：朋友圈未来不会推出二次编辑功能</strong></p>\n  <p>8月14日，微信官方账号“微信派”发布《为什么朋友圈没有编辑功能？》一文。其中提到，“朋友圈现在、过去、未来都不会有二次编辑功能”。微信表示，朋友圈的英文是“Moments”，当下那一瞬间。正是因为“不可更改”，这种记录才具备绝对真实性。与其让所有人都活在“什么都可能被改过”的朋友圈里，不如让手误那几秒自己消化掉。（第一财经）</p>\n  <p><strong>腾讯混元资深研究员徐灿转岗微信WeLM</strong></p>\n  <p>36氪从相关人士处获悉，混元资深研究员徐灿在近期加入腾讯WeLM团队，从事大模型研发相关工作。多名知情人士透露，在姚顺雨接手腾讯大语言模型研发前，徐灿在混元LLM体系中担任后训练一个方向上的负责人。值得一提的是，这次转岗发生在微信持续强化自研大模型和Agent能力的阶段。6月，微信原生AI助手“小微”已进入小范围灰度测试，可通过文字或语音操作微信原生功能，并调用小程序完成服务任务。</p>\n  <p><strong>遭“薅羊毛式”黑灰产诈骗，东方甄选回应</strong></p>\n  <p>8月13日晚，东方甄选发文称，涉嫌恶意骗取东方甄选订单退款，相关犯罪嫌疑人已被警方采取强制措施。全文如下：“近日，东方甄选在订单数据日常监测中发现大量异常仅退款订单，涉及金额较大，存在'薅羊毛式'黑灰产诈骗嫌疑。公司立即固定证据并向公安机关报案，全程配合调查取证。经警方缜密工作，目前，某张姓犯罪嫌疑人因涉嫌诈骗罪，已被警方依法采取刑事强制措施，案件正在进一步办理中。东方甄选始终坚持以客户为中心，持续提升客户服务质量，注重客户体验。同时，我们对于任何触碰法律底线、违背诚信原则的行为，坚决依法维权，绝不姑息。未来，东方甄选将持续完善风控体系，加大对恶意退赔、职业索赔等行为的排查与打击力度。感谢广大客户的关心与支持！”（第一财经）</p>\n  <p><strong>SK海力士：明年将迎最严重“存储荒”</strong></p>\n  <p>8月13日，SK海力士董事长崔泰源在公司韩国总部接受了媒体专访。他在采访中再次强调了存储需求的爆发式增长，并表示明年将出现最严重的“存储荒”。他还肯定了其合作伙伴英伟达在AI基建浪潮中的重要性，并反驳了外界对SK海力士过度依赖英伟达的担忧。（财联社）</p>\n  <p><strong>宜家拟处置上海宝山商场物业</strong></p>\n  <p>界面新闻获悉，宜家中国近日就上海宝山商场物业后续安排发布说明。英格卡集团(Ingka Group)已正式委托仲量联行，代理旗下中国市场部分已停运商场自持物业的处置工作，上海宝山商场物业在列。宜家上海宝山商场2013年开业，2026年停运，接待访客近3000万人次。宜家中国表示，该自持物业位于上海市宝山区，总建筑面积约10.5万平方米，目前资产已全面清空、产权清晰，可按现状即时交付。项目未来可探索改造为社区商业综合体、融合文旅元素的体验式消费空间或其他创新业态。（界面新闻）</p>\n  <p><strong>上市公司频现1元甩卖子公司股权</strong></p>\n  <p>据记者不完全统计，2026年以来，已有十余家上市公司先后发布公告，以1元的名义对价挂牌出售旗下子公司的股权。被低价甩卖的子公司股权的标的多数业绩连续亏损，不少甚至处于资不抵债的状态。在业内人士看来，这类“白菜价”转让的表层逻辑，主要是上市公司急于将亏损资产从合并报表中剥离，优化当期的财务报表，从而保住上市资格，维持自身在资本市场的正常融资能力，但交易边界模糊，低价转让不良资产背后潜藏着更大的风险。（界面新闻）</p>\n  <p><strong>英伟达宣布CPO交换机全面量产</strong></p>\n  <p>8月14日，英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。英伟达表示，Spectrum-X Ethernet Photonics专为吉瓦级AI工厂网络需求设计，实现激光器数量减少4倍、功耗降低5倍、平均故障间隔时间（MTBI）提升10倍。该产品由台积电、矽品、Lumentum、天孚通信、鸿海等供应链伙伴参与制造、封装及组装。（界面新闻）</p>\n  <p><strong>阿里超15亿美金向中信资本出售灵犀互娱</strong></p>\n  <p>据报道，阿里旗下灵犀互娱的买方已经确定，为中信资本旗下的信宸资本（Trustar Capital），出售价格预计超过15亿（约合101亿元人民币）。（21财经）</p>\n  <p><strong>广东省首个词元经济专项金融产品“Token贷”在广州海珠发布</strong></p>\n  <p>广东省首个词元经济专项金融产品“Token贷”在广州海珠区发布。以中国银行广州分行为例，针对海珠算力中小微企业针对性研发专属融资产品——算力Token贷，按合同/Token消耗额度核定额度，可提供信用、应收账款质押、订单融资为主的担保方式，亦可组合保证、抵押等组合担保，进一步扩大额度。新公司亦可在原经营企业提供连续经营佐证材料、或提供担保的情况下按订单申请融资。据悉，中国银行前期试单授信资金已达2800万元。（界面新闻）</p>\n  <p><strong>中央汇金、证金公司退出贵州茅台前十股东</strong></p>\n  <p>8月14日晚间，贵州茅台(600519.SH)发布2026年半年度报告。报告显示，中央汇金资产管理有限责任公司、中国证券金融股份有限公司退出前十大股东。此前贵州茅台一季报显示，汇金公司持有1039.71万股，占总股本的0.83%。证金公司持有403.75万股，占总股本的0.32%。此外，华夏上证50、华泰柏瑞沪深300ETF均退出十大股东之列。报告显示，2026年上半年，贵州茅台营收907.03亿元，同比增长1.47%；利润总额614.38亿元，同比下降2.13%；净利润445.17亿元，同比下降1.95%。经营活动产生的现金流量净额706.91亿元，同比增长438.84%。（21实际经济报道）</p>\n  <p><strong>特斯拉SpaceX合并传闻再起，马斯克薪酬激励或高达8240亿美元</strong></p>\n  <p>一档播客节目指出，如果马斯克促成特斯拉和SpaceX合并，他可能获得最高8240亿美元的财富。按特斯拉去年批准的薪酬方案，马斯克在达成运营目标和市值目标后，最多可获4.23亿股特斯拉股票。华尔街认为，若特斯拉发生控制权变更，则运营目标视为达成，且市值目标也更容易达成。（财联社）</p>\n  <p><strong>德国汽车行业就业人数降至21年来最低</strong></p>\n  <p>德国联邦统计局14日发布的数据显示，德国汽车行业就业人数持续减少，今年已降至2005年以来最低水平。截至今年活跃，德国汽车行业就业人员共有约69.15人，比一年前减少4.23人，降幅为5.8%。据德新社报道，各汽车行业就业部门是德国工业部门中的人员减少最快的部门。德国汽车行业中，汽车零部件及配件供应商评判最多，就业人数同比减少7.6%；汽车制造商就业人数减少6.1%。德国其他工业部门就业人数也有所减少，但降幅相对较小。同时期，德国制造业就业人数同比减少2.7%，至529人。（研究院）</p>\n  <p><strong>美股大型科技股盘前普涨，闪迪涨超6%</strong></p>\n  <p>36氪获悉，美股大型科技股盘前普涨，截至发稿，闪迪涨超6%，英特尔涨超1%，特斯拉涨0.42%，英伟达涨0.31%，Meta涨0.26%，微软涨0.23%，亚马逊涨0.18%，谷歌涨0.07%，苹果涨0.05%。</p>\n  <h2>投融资</h2>\n  <p><strong>“亮源新创”完成数亿元Pre-A轮融资</strong></p>\n  <p>36氪获悉，近日，“亮源新创”宣布完成数亿元Pre-A轮融资。本轮融资由国科投资领投，招商局创投、襄禾资本等机构参与投资，资金将主要用于超大规模具身智能模型训练、多模态数据基础设施建设、软硬件全栈平台研发以及高人才密度的团队扩张。</p>\n  <p><strong>“什方科技”连续完成两轮融资</strong></p>\n  <p>36氪获悉，专注工业场景功能性涂层数字喷印技术的企业“什方科技”连续完成两轮融资。自B轮起至本次B+轮收官，融资总额近3亿元。由五源资本、创世伙伴创投、同创伟业及产业战略投资机构恒旭资本、小米集团、蔚来资本联合入局，多家老股东同步追加投资。</p>\n  <h2>大公司财报</h2>\n  <p><strong>Coach母公司Tapestry 2026财年营收80亿美元，同比增长14%</strong></p>\n  <p>当地时间8月13日，Coach母公司Tapestry公布2026财年第四季度及全年业绩。第四季度营收18.77亿美元，同比增长9%；营业利润4.42亿美元，上年同期营业亏损5.84亿美元。全年营收80.04亿美元，同比增长14%；营业利润19.14亿美元，上年同期为4.15亿美元；稀释后每股收益7.27美元，上年同期为0.82美元。（界面新闻）</p>\n  <p><strong>小菜园：上半年收入29.03亿元，同比增长7.0%</strong></p>\n  <p>36氪获悉，小菜园发布2026年中期业绩。报告期内，公司实现收入29.03亿元，同比增长7.0%，营收规模再创新高；净利润2.89亿元，同比下降24.3%。</p>\n  <p><strong>平安银行：上半年净利润256.96亿元，同比增3.3%</strong></p>\n  <p>36氪获悉，平安银行公告，2026年上半年营业收入706.17亿元，同比增长1.8%。归属于本行股东的净利润256.96亿元，同比增长3.3%，上年同期净利润248.7亿元。中期利润分配方案为每10股派发现金股利2.49元（含税）。</p>\n  <p><strong>贵州茅台：上半年营业收入907.03亿元，同比增长1.47%</strong></p>\n  <p>36氪获悉，贵州茅台公告，2026年上半年实现营业收入907.03亿元，同比增长1.47%；净利润445.17亿元，同比下降1.95%。</p>\n  <p><strong>生益科技：上半年净利润同比增长130.42%</strong></p>\n  <p>36氪获悉，生益科技公告，2026年上半年实现营业收入190.26亿元，同比增长50.05%；归属于上市公司股东的净利润32.87亿元，同比增长130.42%。</p>\n  <p><strong>泰佩思琦：第四季度销售额19亿美元，同比增长9%</strong></p>\n  <p>36氪获悉，泰佩思琦集团公布截至2026年6月27日的2026财年第四季度及全年业绩。第四季度销售额19亿美元，同比增长9%，按备考恒定汇率计算增长11%，主要由COACH品牌15%（按固定汇率计算为14%）的业绩增长带动。2026财年全年销售额80亿美元，同比增长14%，按备考恒定汇率计算增长17%。</p>\n  <h2>上市进行时</h2>\n  <p><strong>传音港股上市获证监会备案</strong></p>\n  <p>8月14日，中国证监会国际合作司发布关于深圳传音控股股份有限公司境外发行上市备案通知书，公司拟发行不超过132,386,200股境外上市普通股并在香港联合交易所上市。（界面新闻）</p>\n  <p><strong>优邦科技创业板IPO定于8月21日上会</strong></p>\n  <p>36氪获悉，深圳证券交易所上市审核委员会定于2026年8月21日召开2026年第53次上市审核委员会审议会议，审议东莞优邦材料科技股份有限公司。</p>\n  <p><strong>整理</strong>｜葡萄&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-15T01:06:47+00:00",
+      "fetched_at": "2026-08-16T01:01:02.904026+00:00",
+      "fingerprint": "4cae2c9c85664c91"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "中科大孵化，国内唯一通用光量子计算整机企业完成超亿融资丨36氪首发",
+      "url": "https://36kr.com/p/3940103536491910?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_ee2f8844c28f4632a64237e645a545ed@6221844_oswg638507oswg3264oswg1301_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2200</strong>字，建议阅读<strong>5</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，合肥硅臻芯片技术有限公司（以下简称“硅臻芯片”）近日完成超亿元融资。本轮融资由韦豪创芯、共达电声（002655）联合领投，华策影视（300133）、苏创投、苏金控、创领资本、后浪资本等机构跟投。融资资金将主要用于万比特专用光计算集群与通用量子计算芯片组的研发。</p>\n  <p>硅臻芯片2020年成立于合肥，核心技术源自中国科学技术大学郭光灿院士领衔的中国科学院量子信息重点实验室。公司由教育部长江学者、中国科学技术大学光学与光学工程系执行系主任陈巍，国家杰青、中国科学院量子信息重点实验室副主任任希锋，以及中科大博士、博士期间即从事光量子芯片研发的丁禹阳三位联合创始人共同创立，核心团队在集成光量子领域拥有超过20年技术积累，全部来自中科大郭光灿院士团队。</p>\n  <p>目前，硅臻芯片已构建从核心光量子器件到整机系统的完整技术布局。硅臻芯片总经理丁禹阳表示，公司成立的初衷是“基于光量子芯片技术，让量子密码、量子测量、量子计算三项技术落地到实用化”。</p>\n  <p>在具体产品落地上，硅臻走出了两条清晰的商业化路径。</p>\n  <p>量子计算方向，2025年11月，硅臻在量子科技产业大会上发布了基于硅光集成芯片的通用可编程量子计算机，可通过云平台访问接入。该整机是国内唯一可运行通用量子算法的光量子计算整机。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_e53b83bb4f4f43f29ea366f88138d60e@6221844_oswg185651oswg559oswg647_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">基于硅光集成芯片的通用可编程量子计算机（图源/企业）</p>\n  <p>此外，公司在专用光计算领域已完成5000比特级设备内部验证，基于芯片集成方案相比于同类光纤方案具有成本和性能上的绝对优势。丁禹阳透露，该产品预计在今年年底推出上市。</p>\n  <p>值得关注的是，硅臻近期在通用光量子计算领域取得关键突破。公司联合中科大量子信息重点实验室，首次在片上成功实现4光子16量子比特GHZ态、单光子4量子比特簇态的稳定生成，是目前在光量子芯片上演示的最大规模纠缠态。团队还在该平台上演示了Grover搜索算法，平均识别概率达98.7%。</p>\n  <p>量子安全方向，硅臻自主研发的QRNG-10量子随机数发生器芯片，是国内首款毫米级QRNG芯片，基于量子放大自发辐射原理，也是目前国内最先通过国家密码管理局商用密码检测中心测评的QRNG芯片。</p>\n  <p>据丁禹阳透露，该芯片已签订单约20万片，累计出货量在量子科技相关单品中位居前列。在客户拓展上，芯片已集成至SIM卡中，产品还适配于国家电网电表加密芯片及家庭摄像头等智能终端。丁禹阳预计，随着抗量子密码相关国家标准的出台，QRNG芯片年出货量可达百万片级别。</p>\n  <p>在商业化节奏上，硅臻有明确的短中长期策略：短期靠QRNG芯片造血，已验证商业模式并实现持续复购；中期靠万比特专用光计算设备贡献营收；长期则瞄准百万比特通用光量子计算机，是国内唯一直接对标PsiQuantum和Xanadu的量子计算企业。</p>\n  <p><strong>以下是硬氪与硅臻芯片总经理丁禹阳的访谈（经编辑）：</strong></p>\n  <p><strong>硬氪：市场普遍关注量子比特数量，保真度这个指标常常被忽略。硅臻怎么看这两者的关系？</strong></p>\n  <p><strong>丁禹阳：</strong>比特的数量肯定是追求的，但保真度同样关键。保真度可以理解为量子比特的质量——如果单比特保真度是99.9%，就相当于有0.1%的错误率。10个比特放在一起，正确率就是(1-0.1%)的10次方。比特数越多，保真度带来的影响越是指数级放大。</p>\n  <p>所以我们的逻辑是：比特数目和质量要同步推进，两者缺一不可。增加比特数是所有量子计算赛道的最终目标，但保真度决定了这些比特是否真正可用。</p>\n  <p><strong>硬氪：光量子计算和其他技术路线比，核心优势到底在哪？</strong></p>\n  <p><strong>丁禹阳：</strong>主要有两点。第一，我们团队本身就是做光量子出身的，有超过20年的积累。第二，光量子计算是明确能解释清楚“怎么从4个比特变到百万比特级别”的路线。</p>\n  <p>其他路线单台设备做到一定比特数后物理尺寸可能就到头了。而只有光量子可以在常温下直接通过光纤传输。其他路线最终都要转成光来传，绕不开我们的技术。</p>\n  <p><strong>硬氪：从产业视角看，硅臻走到百万比特还需要解决什么？</strong></p>\n  <p><strong>丁禹阳：</strong>这不是科研问题，是工程问题。我们是一家芯片设计公司，需要找到能在损耗、工艺上满足光量子芯片需求的晶圆厂深度合作，共同开发定制工艺。这需要大量的工程迭代，跟工厂磨工艺、调参数、反复验证。这也是为什么本轮融资要把产业资本引进来，光有技术不够，得有制造端的深度协同才能把百万比特这件事真正落地。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>韦豪创芯陆正杨：</strong>本次投资硅臻，立足于光量子计算赛道长远的商业化潜力。企业深耕硅光量子路线，设备支持常温常压工作，能够兼容成熟CMOS硅光产线，对比超导、离子阱方案拥有可观的量产成本优势，产业化前景优越。公司核心团队源自中科大量子信息实验室，兼具顶尖科研积淀和芯片落地经验，属于国内稀缺、可实现通用光量子计算机全链路自主研发的企业，构筑起深厚的技术壁垒。硅臻现已问世国内首台搭载硅光集成芯片的4比特通用可编程光量子计算机，同步布局KLM、MBQC主流技术架构，攻克高维光子编码、公里级分布式量子互联等核心技术，先发优势扎实，具备较高成长确定性。</p>\n  <p><strong>创领资本王帅：</strong>量子科技作为未来产业的领头羊，是我们认为今后至少5-10年里最值得关注的赛道，当下投资量子科技就相当于5年前投资人工智能和算力产业。硅臻芯片是创领资本系统性梳理和接触量子产业相关标的后，认为最具代表性的光量子标的，也是当前最值得关注的高性价比标的。尤其是，近期硅臻芯片在MBQC技术上的进展，标志着硅臻芯片成为国内首家实现片上构建规模化图态的光量子计算企业，让百万量子比特光量子计算机的研发落地具备现实可行性，也标志着硅臻芯片在未来有望跻身世界级光量子企业的行列。</p>",
+      "category": "tech",
+      "published_at": "2026-08-15T01:20:56+00:00",
+      "fetched_at": "2026-08-16T01:01:02.904017+00:00",
+      "fingerprint": "12da04a2e3dbf1cd"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "从众筹到问鼎欧美，VITURE与XR行业的五年",
+      "url": "https://36kr.com/p/3940540064562563?f=rss",
+      "summary": "<p>大家都说，XR眼镜是一个奇怪的品类。</p>\n  <p>参数每年都在刷新，销量每年都在增长，但二手平台上，“只用过两次”“戴了半小时头晕”“吃灰半年出了”的转卖帖，好像慢慢变得比任何一个消费电子品类都密集。</p>\n  <p>行业常常将品类留不住用户、留不住用户的时间，归咎于技术还不够成熟。</p>\n  <p>VITURE创始人姜公略给出的是另一个关于“过去五年”的解释。</p>\n  <p>“2022年之前的眼镜，本质上都是投屏器，相当于一台外接显示器。但用户期待的、我们在做的，是一台电脑，一个能计算、能交互、有内容的all-in-one终端设备。”</p>\n  <p>“清晰”和“清晰又聪明”的巨大区别，指向了行业的核心矛盾。投屏器只能从技术上让用户的眼前再多出现一块大屏，但XR眼镜这个品类，如果只能回答用户一个问题，这个问题应该是：我今天为什么要多戴一副眼镜。</p>\n  <p>用了五年时间来回答这个问题的VITURE，2021年，创业开始，还是一家只有10个人的公司，在Kickstarter上打破了Oculus保持多年的众筹纪录。五年后，它成为了欧美出货量第一的XR眼镜品牌。</p>\n  <p>五年多后的8月6日，品牌成立的五周年当天，<strong>VITURE全球同步发布了Pro 2</strong>。</p>\n  <p>上市一周后，第一批用户也给出了真实体验反馈：<strong>开售一周，VITURE Pro 2斩获京东XR眼镜当周单品SKU第一，海外也成为多个亚马逊站点的Best Seller。本周，三大权威科技媒体Gizmodo，Tom's Guide及PCMag，也几乎同时给出了一致的“同价位最棒的XR眼镜体验”评价。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_2ba825a399b04a83b6e1a97bbfa1e007@5510391_oswg472995oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>新一代产品给市场带来了三个关键词：63克，1999元，可近视调节。没有更fancy的叙事，这家公司仍然在从“老问题”切入新问题，关心用户戴不戴得住、买不买得起。</p>\n  <p>这两个支点，究竟怎么才能撑起XR的真需求？</p>\n  <h2><strong>1999元的“空盒子”</strong></h2>\n  <p>在与36氪的对谈中，姜公略说，他最近养成了一个新习惯：拿起装Pro 2的眼镜盒，总觉得里面是空的，必须要打开确认一眼，才相信眼镜真的放在了里面。</p>\n  <p>一个已经做了超过五年XR眼镜的产品专家，这次终于把自己也“骗过去”了。</p>\n  <p>63克比上一代VITURE Pro轻了20%，镜框最厚处都不到18毫米，宣称是目前全行业最薄。</p>\n  <p>架构是全新的，光机做了轻量化设计，框体和镜腿用上了航空级金属和塑料材质。姜公略说，如果去掉近视调节，重量可以压到60克以下，但他们毫不犹豫地保留了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_e09602d6e5224f78a295c27043fd9bd1@5510391_oswg601595oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>取舍背后被重视的另一个数字是，中国有6亿近视人口。<strong>Pro 2支持双眼独立0到500度屈光调节，</strong>转动拨盘就能对焦，不用另配近视插片。对国内用户来说，近视调节绝对是XR眼镜的入场券，跨不过这道门槛，产品参数和场景再好也和中国市场没关系。</p>\n  <p>重量降下来以后，新的利基市场也开始水到渠成。</p>\n  <p>目前，XR眼镜行业男性用户占了八成以上，其中一个关键原因是产品太重，女性戴起来觉得压鼻子。Pro 2的前期体验里，不少女性用户都在反馈同一句话：“这是第一款我能戴的眼镜。”</p>\n  <p>XR产品适配的人群正在肉眼可见地变宽。姜公略预期，女性用户里观影人群的比例会明显高于游戏玩家，好的观影体验也会让用户自发地花更多时间在XR眼镜上进行内容消费与交互。</p>\n  <p>再看价格，<strong>1999元是VITURE第一次把旗舰级体验压进千元价位，</strong>也是同价格档位的产品里唯一用了索尼Micro-OLED屏的，完全没有妥协。索尼屏在色彩还原度、亮度和寿命上有口皆碑，行业默认是高端线的配置，得益于VITURE每年翻倍式的高曲线增长所带来的供应链议价能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_f3c4d905e480434db0bcf7dc372059bb@5510391_oswg862554oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>其他性能方面，Pro 2能达到1600尼特峰值亮度，目前是行业巅峰亮度，大白天靠窗也能看清，UltraClarity 3.0全彩超锐利把清晰度推到了新高度。以往，XR眼镜基本都可以做到中心清晰，但边缘则会稍有模糊。但这次Pro 2把字幕和暗部细节都处理得干净利落，视线从中心移到边缘时画面不会抖动或拉伸。此外，Pro 2拥有SGS A+低视觉疲劳认证，用户连续佩戴3小时不会出现明显的疲劳，被誉为一副真的可以“戴的久”眼镜。</p>\n  <p>这看似是几个简单的关键数字，但如果你过去几年买过任何一副XR眼镜，你会知道它们在实际体验中有多重要。</p>\n  <p>类比苹果的产品线定位，姜公略给Pro 2找的参照物是MacBook Air。</p>\n  <p>几代之前，MacBook Air的定位是拓展人群的入门款，配置和性能不如老款MacBook Pro，但今天的Air已经比两三年前的Pro强得多。VITURE Pro 2的逻辑一模一样：在价格和轻量化上更亲民，但在硬件上绝不廉价，把强大的性能和无感的体验，同时塞进了一副架在脸上的设备。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_971ceebc92e64cd387b3fa00e6323ddd@5510391_oswg693012oswg1080oswg510_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>“一个东西可能很贵，但只要它给用户创造的价值更多，那就是好的；如果能用更低的价格买到，价值感的增益就会更大。”姜公略说，这就是MacBook Air和本次的新品VITURE Pro 2共同分有的产品哲学。</p>\n  <p>这可能也是科技圈很多人私下称“VITURE是最具苹果感的XR公司“的原因。</p>\n  <p>上市一周后，用户的早期反馈也很真实地反映了这一点。VITURE Pro 2在小红书上被提到最多的三个词，是轻薄、清晰、近视友好。</p>\n  <p>有用户描述它“和普通太阳镜差不多重，长时间佩戴鼻梁和耳朵没什么压迫感，躺床上看剧很舒服”；还有近视用户把它称为“懒人福音”，因为转动拨盘就能对焦，省去了另配镜片的麻烦。</p>\n  <p>地铁、高铁、酒店床头，成为了“百寸巨幕”出现频率最高的几个场景。</p>\n  <p>当然，用户也会提到他们期待下一代产品能达到的体验，在XR这个还处于行业早期的品类，用户愿意分享它、夸奖它，甚至提出自己的“Wish list”期待清单，往往才是一个新品类开始被认真对待、一个电子设备被当成了日常需求的标志。</p>\n  <h2><strong>VITURE五年，三次“反直觉”</strong></h2>\n  <p>姜公略毕业于哈佛，曾经在Google硅谷总部参与过Google Glass和Material Design。他后来复盘，Google Glass的先锋性毋庸置疑，但项目的问题在于技术形态先有了，再去找使用场景。用户的第一反应永远是同一句话：我不需要它。</p>\n  <p>在这个行业里，先有鸡还是先有蛋的问题，可能并不是一个纠缠不清的因果螺旋。</p>\n  <p>2021年，姜公略和原Google Glass团队成员在北京和旧金山创立了VITURE。公司的第一条产品信条听起来就像在给自己拆台：打造XR眼镜的第一性原理，是承认用户“并没有多戴一副眼镜的需求”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_825ec0dd4af841a78ee190b4c63074c3@5510391_oswg768816oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>那么，既然用户没有天然的理由选择你，你就必须找出那个让他们无法拒绝的场景。</p>\n  <p>也就是从学会了自我证伪的第一天开始，VITURE选择了一条与行业主流相反的路。五年的时间，当初在第一性原理指引之下做出的选择，也在三个关键时刻逼出了三次可能不会被理解的决策。</p>\n  <p>“也许并不划算，但必须坦诚。”回溯过往的时候，姜公略直言。</p>\n  <p>第一次，他们决定的事情是：做一台“电脑”，不做投屏器。</p>\n  <p>2022年4月，VITURE在Kickstarter上线了第一款产品VITURE One。因为当时公司只有10个人，几乎没有营销预算，所以也没有拍一个专业的功能演示视频，而是拍了一部电影小短片：三个宿舍学生，一个人背着电视，另外两个人戴着眼镜出去旅行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_50807d9e902d48adab60e50a39a1c66b@5510391_oswg1137607oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>从头到尾只讲了一件事：旅行的路上怎么打游戏。</p>\n  <p>这条视频被不少海外用户评为Kickstarter史上最棒的众筹视频之一，因为它没有拼命解释这副眼镜能做什么，它选择直接推给你一个能立刻代入的画面。结果是众筹拿下了超过300万美元的成绩单，打破Oculus保持多年的XR眼镜品类纪录。</p>\n  <p>但对于一个新生事物来说，比用户好奇心砸出来的现金更重要的是产品形态。</p>\n  <p>VITURE One推向市场的其实并不是一副眼镜，是三件套：眼镜、颈环、魔宝坞。</p>\n  <p>这家公司自研的颈环是第一个把计算单元和眼镜结合在一起的设备，内置了YouTube、Netflix，还能远程串流PS和Xbox；魔宝坞专为Switch而生，让VITURE成为了第一个支持Switch双人同屏游戏的XR品牌；电致变色技术也是从VITURE One开始进入这个行业的。</p>\n  <p>“第一个做创新的公司永远是最难的。”姜公略告诉36氪，可以说，今天行业里常见的颈环、外置计算单元、全设备适配，全都始于那场众筹。</p>\n  <p>站在今天回看，今天的节点，在刚出发时就已经埋下了答案。</p>\n  <p><strong>第二次“拒绝”共识，是选择了先打欧美，再回中国。</strong></p>\n  <p>大多数国产硬件品牌的习惯是先在国内打磨产品，再带着成熟的经验和模板出海，VITURE则是一家”生而全球化”的公司：成立第一天，就在硅谷和北京设了双总部，市场动作的第一站直接登陆Kickstarter，直面对消费电子新品类容忍度最高、价格敏感度相对较低的第一批欧美用户。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_9e6e3a6d1b0242669acc29ecc506002b@5510391_oswg797884oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>这个选择后来被证明是相当明智的，不但帮助VITURE避开了中国市场昂贵的教育成本，直接带着一个被市场验证过的产品参与“百镜大战”，早期也成功地以众筹的方式拿到了更有想象力的资金、市场曝光度、品牌粘性，再去找供应链做创新、谈价格、滚雪球，先发优势越来越明显。</p>\n  <p>但与此同时，它也留下了一个误读：进入中国太晚，国内不少人把VITURE当成了后来者。</p>\n  <p>实际上，2022年4月，VITURE的三款产品就已经相当完整。彼时，大语言模型尚未在普通人的工作生活中平地惊雷，而现在市面上90%的智能眼镜，技术逻辑与场景概念也都还不知从何谈起。</p>\n  <p>那一年的年底，VITURE One拿下了《时代》周刊年度最佳发明奖项，是该年唯一上榜的AR/VR消费级产品。</p>\n  <p>接下来的几年，VITURE Pro长期位列多个国家亚马逊智能眼镜的畅销榜。2024年11月，它成为第一个进驻Best Buy的XR品牌，在全美200家门店销售，再铺到澳大利亚的JB Hi-Fi、欧洲Media Markt、英国Selfridges百货，席卷了全球接近500家线下超市货架。</p>\n  <p>IDC数据显示，2024年Q4 VITURE在美国AR市场份额超过50%，2026年Q1成为欧美出货量第一的XR品牌。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_085ea4cbb6dc4bec868ea2d33a90fef5@5510391_oswg103373oswg1080oswg850_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>荣归中国市场这个“故里”，却是2024年才开始的。</p>\n  <p>但中国市场与全球市场之间并没有不可逾越的壁垒，欧美实打实的出货量很容易就能成为国内早期采用者群体心目中的天然信用背书。进驻顺电和香港丰泽不久，VITURE就做到了AR眼镜销量第一。今年618，VITURE最新旗舰款Beast首次��战电商大促，一举拿下了京东XR眼镜的单品SKU销冠。CINNO Research刚刚发布的2026年第二季度报告，给出了一个更硬的数据：在国内高端AR眼镜市场，VITURE的销量和销售额双双登顶第一。</p>\n  <p><strong>第三次反直觉的决策，是最先服务那群“最难讨好”的人。</strong></p>\n  <p>当下，XR行业已经分野出好几条路径。有些厂商不做显示，做带摄像头和AI的音频眼镜，走时尚轻量化路线；有些押注一体机，赌计算平台的终局。所有人都在求变、求稳，反倒是敢在一开始被看好的“显示屏之路”上一往无前的人，已经越来越少。</p>\n  <p>但总要有人立身于强风之中。VITURE和姜公略的打法就是以“不变”的第一性原理应万变，把显示做到极致，死磕游戏玩家。</p>\n  <p>在XR这个领域里，游戏玩家是所有用户里最难伺候的。清晰度差一点会骂，延迟高一点会骂，手柄手感不对也会骂，但一旦玩爽了，忠诚度和口碑传播的欲望也是所有用户里最强的。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_34b5419d1cc84d6c99aa39955899d86c@5510391_oswg768727oswg1080oswg655_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>姜公略自己就是个重度游戏玩家，平时戴着自家眼镜打CS，世界杯期间沉迷玩EA SPORTS FC。所以他瞄准的第一个场景特别具体，就是汲取游戏专用设备的灵感，踩着任天堂的石头过河。对于游戏玩家来说，Switch和Steam Deck掌机屏幕太小，PC显示屏和电视够大但不可能随身带走，用眼镜玩游戏刚好能塞进这个市场，填上这个缝隙。</p>\n  <p>五年下来，VITURE也不负众望地围绕游戏搭了一整套软硬件生态。</p>\n  <p>包括和八位堂联名的拉伸式手柄，成为行业第一支专为XR眼镜设计的游戏手柄；自研的SpaceWalker App把多屏联动等能力免费开放给所有用户，Immersive 3D系统能把任何普通视频实时转成3D空间内容。</p>\n  <p>2025年底，VITURE与《赛博朋克2077》推出了五周年联名限定款眼镜，全球限量一万台，上线即售罄。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_130e3c89814e4de5bf32fdc20e99df9e@5510391_oswg929166oswg1064oswg568_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>对于消费电子产业来说，比官方规划更有说服力的，永远是用户们自己迸发和生长出来的用法。</p>\n  <p>有人修车的时候用XR眼镜把维修资料和教程悬浮在眼前，边看边学；有的用户深夜哄孩子睡觉以后，客厅电视开不了，但用XR眼镜还能安静看完一部电影；还有无人机玩家把它连上第一视角，有开发者在Vibe Coding的时候用它同时盯好几个AI Agent的进度。</p>\n  <p>今年5月发布的VITURE Beast，把显示能力推动到了能撑起多屏办公的水平，支持飞书、PPT、编程等多个界面同时展开，也让XR眼镜这个品类第一次从娱乐设备跨进了生产力终端的赛道。Beast能被研发出来，并迅速发售，根本原因还是在于XR眼镜兼具移动端的便携性和PC的大屏，从而衍生出了大量的生产力需求场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_6dfa59d4abbd4ba2bc401a8f91c788d8@5510391_oswg733257oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>在用户自己发现“竟然还能这样用？”之前，没有一家XR眼镜厂商敢说能在短期内做好XR办公的市场教育。</p>\n  <h2><strong>2027年，起飞，入云</strong></h2>\n  <p>姜公略对XR行业的窗口期判断，比大多数同行要理性一些。</p>\n  <p>他说，如果说2025年算是XR眼镜一个朦胧的起点，2026年会是一个确定性的起点，2027年是行业真正起飞的时候，发动机开满全力加速，2028年真正腾飞，飞机彻底离开地表。</p>\n  <p>为什么XR在大众和资本心目中，站在了一个比较微妙的节点上？</p>\n  <p>姜公略判断，是因为现在行业正处在第三阶段的前夜，“大家都在描绘一个仿佛鲸鱼跃身击浪的未来。用户觉得它很酷，但下一句就会说‘我不需要它’。”</p>\n  <p>破局之道也很简单，就是乘风而起、伺机而动、做对形态、找对场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_5101d847d3a44ff5a79b90d7d17f179e@5510391_oswg1958595oswg990oswg1238_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>至于消费电子领域一贯而言之的“iPhone时刻”，姜公略认为，很多概念都是事后追认的，在iPhone发布之前，没有人知道它长什么样，而XR的魅力和机会也正是终局形态的未知。</p>\n  <p>“我们希望不断突破行业创新的边界，回头再去看的时候，可能才会发现某个产品、某个应用，已经成为了我们所谓的iPhone时刻。”</p>\n  <p>起飞的条件现实而苛刻，但也比外界想象得快。上游三个变量同步成熟，缩短了像VITURE这样的终端厂商的弯路：</p>\n  <p>首先，最重要的仍然是芯片端。去年开始，有越来越多带空间计算能力的芯片进入眼镜品类，Beast已经搭载了原生3DoF计算能力，未来制程更高、功耗更低、算力更强。一个充分的例证是TWS耳机，以前的耳机是无源有线设备，现在已经有不错的计算能力了，在姜公略看来，眼镜会走完全一样的路。</p>\n  <p>第二个是VITURE“死磕”的显示端。Micro OLED正在进入新分辨率时代，过去几年行业标配是1080P，未来两三年会迎来换代。目前，Micro LED在480P基础上持续缩小体积，缩小到能融入普通眼镜的尺寸，下游终端就会爆发一波新的红利期。</p>\n  <p>上面提到的定价1999元的VITURE Pro 2，能在千元档的设备上用索尼Micro-OLED，本身也是这条供应链上降价曲线的产物。</p>\n  <p>第三个是传输端，无线短距传输芯片也是姜公略紧盯的行业方向。一个不可逆的大趋势是，眼镜终将走向无线化，而且这件事已经是“箭在弦上”了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_df33b63205f844459ca1159f7fd4f747@5510391_oswg718595oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>回到一开头XR眼镜为什么“用户黏性低”“买来吃灰”这个问题上，与其得出用户对新品类缺乏耐心的结论，不如先厘清产品形态和行业周期，承认有一部分细分品类就是还没到达足以留住用户的阶段，至少还没做到在某些特定的功能场景上成为比手机更好的解决方案。</p>\n  <p>在姜公略看来，沉浸式的数字体验、全天候佩戴，这两种需求场景指向的是两种完全不同的产品，虽然看起来都是智能眼镜，但产品的本质泾渭分明。</p>\n  <p>VITURE一直主攻的是前者，因为这里的供应链跑得更快、也更容易找到具有稀缺性价值的场景，全天候产品则需要继续等待上游的成熟、用户认知的合适时间点。姜公略认为，那会是未来十年到二十年里最令人兴奋的赛道之一，但不一定是现在该讲的故事。</p>\n  <p>既然没想着让用户每天像拿手机一样如影随形，那么沿着Beast的生产力工具思路发力纵深场景，就变成了一个新的增长点。因此在消费端之外，VITURE的同一套光学和显示能力也在往更专业的场景渗透。</p>\n  <p>今年AWE(世界增强现实博览会)上，VITURE和英伟达、斯坦福Cong Lab联合发布了全球首款支持英伟达XR AI平台的工业级AI眼镜&nbsp;Helix，正式进入了基因编辑、药品研发这些几乎不容出错的高门槛场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_2ef1a13021394cd6a5a0ff46e7b4c65c@5510391_oswg273635oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>五周年期间，VITURE还宣布了另一个面向中国市场的动作：和滴滴出行达成了战略合作，致力于把XR体验带进城市出行的高频场景。这周，合作率先在上海陆家嘴中心商场落了地。一辆写着“滴滴一下，视界大开”的极氪009停在商场门口，车里没有常规的车载屏，坐进去会看到一副VITURE Pro 2眼镜，戴上后146英寸的虚拟巨幕立刻在眼前展开，车厢随之变成了一个随行的私人影院、游戏间或移动办公室。</p>\n  <p>8月14日至16日，一百位滴滴V7、V8会员受邀进入VITURE XR体验间，会在45分钟之内体验这套玩法，让普通视频一键升维成3D巨幕，连上Switch 2或PS5直接在车里打主机游戏，或是借SpaceWalker展开多块虚拟办公屏。</p>\n  <p>这些新探索的背后是同一条主脉络：先让产品能在真实的生活和工作里被用起来，让用户主动发现需求，再让场景自己向外生长。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_976c28684cd3458a8d4e607f890396b2@5510391_oswg1192995oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>说到向外生长，姜公略最近印象最深刻的一个画面，发生在一趟从旧金山飞往纽约的航班上。</p>\n  <p>飞机起飞前，他照例掏出自己的眼镜和颈环开始办公，旁边的乘客看了一眼，笑了笑，也从包里掏出了一副VITURE Beast眼镜。整整六个多小时的飞行时间，两个人从头戴到尾，心照不宣。</p>\n  <p>没人说话，但双方也都知道身边的人正在把本来无聊需要打发的飞行时间，变成一段高质量的沉浸式体验。只不过那位乘客大概率不会知道，坐在他旁边的普通用户就是VITURE的创始人。</p>\n  <p>“五年，对新生儿来说，在逐渐看见这个世界；对VITUR来说，在逐渐被这个世界看见。”</p>\n  <p>这是姜公略五周年时写给团队的话。</p>\n  <p>在承认用户“并没有多戴一副眼镜需求”的五年之后，他在香港丰泽电器门口看到了自己亲手做出来的产品，在科隆Gamescom上被游戏玩家从一件T恤logo认出来，又在旧金山的航班上和一个陌生人坐在一起，沉浸在各自的数字世界里同乘了六个小时。</p>\n  <p>在经历了这些并不宏大、但真诚而温暖的时刻以后，他得出的行业判断是：2027年，XR这架飞机会起飞。</p>\n  <p>飞机上装载的是普通人的未来，也是一家创业公司、一个品类、一个现在还在被质问“是否变得奇怪”的消费电子叙事，从被忽视、被反驳、到被认出、被需要的梦想与过程。</p>\n  <p><strong>“历史上每一场技术变革，都始于一群敢于相信和拥抱未来的人。”</strong>姜公略在五周年给团队的信里这样写道。&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-15T10:00:00+00:00",
+      "fetched_at": "2026-08-16T01:01:02.904000+00:00",
+      "fingerprint": "f407c4efe61b5c38"
+    },
+    {
+      "source": "少数派",
+      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+      "url": "https://sspai.com/post/111974",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/111974\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-15T07:07:54+00:00",
+      "fetched_at": "2026-08-16T01:00:59.935809+00:00",
+      "fingerprint": "0ebfd6a95cf03d1a"
+    },
     {
       "source": "The Guardian - World",
       "title": "American missionary kidnapped in Niger freed after nine months",
@@ -1831,266 +2021,6 @@
       "published_at": "2026-08-08T05:11:00+00:00",
       "fetched_at": "2026-08-09T01:18:55.302349+00:00",
       "fingerprint": "15af9cb131e78acb"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Judge approves Trump effort to end South Sudan TPS protections",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-      "summary": "<p>Decision follows supreme court ruling that allowed US government to strip protections for Haitians and Syrians</p><p>Temporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration can move forward with stripping their protections.</p><p>On Friday, US district judge Patti Saris of the district of Massachusetts rejected an attempt by immigrant rights organizations including the New York-based African Communities Together to keep TPS for South Sudanese nationals living in the US.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-07T18:34:34+00:00",
-      "fetched_at": "2026-08-08T01:13:53.533780+00:00",
-      "fingerprint": "8db88b4ecdf96497"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "summary": "<p>Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta</p><p>Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta.</p><p>The checks, which come “amid the persistent irregular migration pressure” facing Italy, will start at midnight on Saturday and last until 7 September, Spain’s interior ministry said in a statement.</p> <a href=\"https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-07T21:44:38+00:00",
-      "fetched_at": "2026-08-08T01:13:53.533768+00:00",
-      "fingerprint": "d52f21a4519d665c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "category": "politics",
-      "published_at": "2026-08-07T17:42:54+00:00",
-      "fetched_at": "2026-08-08T01:13:53.422661+00:00",
-      "fingerprint": "9449ee6317e1ce7b"
-    },
-    {
-      "source": "BBC World News",
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-      "category": "politics",
-      "published_at": "2026-08-07T14:20:27+00:00",
-      "fetched_at": "2026-08-08T01:13:53.422656+00:00",
-      "fingerprint": "84d61d698dc2de7d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "category": "politics",
-      "published_at": "2026-08-07T21:19:27+00:00",
-      "fetched_at": "2026-08-08T01:13:53.422649+00:00",
-      "fingerprint": "c2f74a7e853b565a"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
-      "category": "politics",
-      "published_at": "2026-08-07T22:13:55+00:00",
-      "fetched_at": "2026-08-08T01:13:53.422638+00:00",
-      "fingerprint": "36341fda2f2b4ebc"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "人工智能被用於設計全新病毒",
-      "url": "https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "科學家利用人工智慧設計了16種成功的病毒，這些病毒的基因序列都是由人工智慧設計的。",
-      "category": "politics",
-      "published_at": "2026-08-07T09:24:48+00:00",
-      "fetched_at": "2026-08-08T01:13:53.374816+00:00",
-      "fingerprint": "179a23608fd1d824"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
-      "url": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美國總統特朗普（川普）簽署行政命令，禁止生育旅遊，並擴大了對不符合美國出生公民權資格的兒童的定義。",
-      "category": "politics",
-      "published_at": "2026-08-07T02:50:00+00:00",
-      "fetched_at": "2026-08-08T01:13:53.374809+00:00",
-      "fingerprint": "b255746de9198f9d"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "泰國校園槍擊案至少七人死亡 槍手同告斃命",
-      "url": "https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "曼谷西北面市郊一家學校發生槍擊事件，一名14歲該校男生逞兇後自盡。當局發現他事前先殺害了自己的祖父母。",
-      "category": "politics",
-      "published_at": "2026-08-07T10:34:10+00:00",
-      "fetched_at": "2026-08-08T01:13:53.374797+00:00",
-      "fingerprint": "4cd955e4a07c1f72"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-08T01:13:52.642074+00:00",
-      "fingerprint": "9a630ca45e2cd495"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-08T01:13:52.641965+00:00",
-      "fingerprint": "1d5cf36718f6e92c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-08T01:13:52.641841+00:00",
-      "fingerprint": "1df905f905459e21"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-08T01:13:52.641710+00:00",
-      "fingerprint": "74aa63caee4580f6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-08T01:13:52.641569+00:00",
-      "fingerprint": "2eff008df1434607"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-07T18:40:34+00:00",
-      "fetched_at": "2026-08-08T01:13:52.440628+00:00",
-      "fingerprint": "557e0bfc0113e2a7"
-    },
-    {
-      "source": "The Verge",
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-07T18:59:46+00:00",
-      "fetched_at": "2026-08-08T01:13:52.440623+00:00",
-      "fingerprint": "d78aeab37b7f2a0a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-07T20:01:51+00:00",
-      "fetched_at": "2026-08-08T01:13:52.440616+00:00",
-      "fingerprint": "e7082108221b67be"
-    },
-    {
-      "source": "The Verge",
-      "title": "The gaming site sponsored by Walmart lays off its editorial staff",
-      "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-      "summary": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-07T22:05:08+00:00",
-      "fetched_at": "2026-08-08T01:13:52.440605+00:00",
-      "fingerprint": "de335e27832f2877"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "齿科3D打印龙头下场做消费级产品，众筹超7000万元｜Insight全球",
-      "url": "https://36kr.com/p/3928866062416001?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>编者按：当出海越来越成为一家中国公司核心战略时，如何征战全球市场就成为一个极其专业的话题。在全球化的演变中，已有不少中国品牌站立潮头。鉴于此，硬氪特推出「Insight全球」专栏，从品牌成长与变迁，探索中国品牌出海的前沿方向与时代契机，为出海玩家与行业提供思考与启发。</p>\n   <p>这是我们专栏第63期——黑格科技从齿科数字化市场起步，在一次次产品调整和技术迭代中，逐步建立起覆盖设备、材料、算法、软件与服务的全栈能力。如今，这家公司又将目光投向消费级UV 3D打印，希望把在专业市场中磨出的技术与产品能力，带到更广泛的全球用户面前。这也是黑格成立多年后，对公司边界的一次重新探索。</p>\n  </blockquote>\n  <p>过去几年，黑格科技创始人兼CEO桂培炎谈得最多的是“牙齿”。你和你家人用的义齿、正畸模型，有很大概率属于黑格的光固化3D打印产品。</p>\n  <p>仅仅凭借齿科业务，在国内齿科技工端市占率超60%。“如果我们产线出问题了，全国的牙科医院都要断货。”桂培炎对硬氪开玩笑。</p>\n  <p>桂培炎的雄心显然不止当个细分赛道的隐形冠军。前不久，黑格科技首次在Kickstarter发布产品，众筹其全球首款桌面级全彩3D+UV打印机G1X，产品首日众筹金额近5000万元，（约722万美元），G1X能为个性化DIY、微缩模型和手办制作、工艺品文创设计、工业设计及教具等领域提供一站式的全彩造物解决方案。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_13c808fc515c425aa1d6977caf161f78@5836910_oswg23400oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>G1x与齿科无关，也不再服务于牙科技工厂和医院。黑格科技试图将过去在光固化设备、材料、软件和复杂专业场景中积累的能力，重新组合到新产品中，尝试进入一个用户更分散、竞争更直接，也更难预测的消费级市场。</p>\n  <p>桂培炎是个很敏锐的人。在苹果还没有推出TWS时，他就想用3D打印设计制造无线蓝牙耳机。第一次创业搁浅后，他又下场生产制造3D打印机，并抓住齿科数字化转型的窗口，迅速铺开了全球市场。今天,拓竹将3D打印推向更大众的市场后，3D打印的应用边界被不断探索和拓宽，桂培炎要跳出舒适圈。</p>\n  <p>相比技术本身，桂培炎更在意的是，3D打印最终能否变成一个被人真正使用的产品。</p>\n  <p>“3D打印真正能给大家带来幸福的地方，一定是通过某种产品形式呈现在大家面前，你不需要意识它是3D打印做得，我也不需要你意识到。”桂培炎告诉硬氪。</p>\n  <h3><strong>01 齿科不是终点，是技术训练场</strong></h3>\n  <p>桂培炎属于很古典的创业者。大三带着同学在美国休学、回国创业。当时苹果的TWS还没发布，他想着用3D打印制造类似的无线耳机。</p>\n  <p>很快，桂培炎第一次创业以失败收场。他误判当时3D打印制造的成熟度，没办法正常交付，苹果发布AirPods后，他们这种小作坊彻底失去的存在的空间。</p>\n  <p>“学生创业确实不靠谱，有passion，但没有生产制造的落地能力。”桂培炎坦承。后来，他帮人做3D打印赚点钱，勉强维持公司。</p>\n  <p>2018年，桂培炎有些受够了做3D打印代工厂的业务。他觉得黑格像个手板厂，每天跟客户争“5分钱降到3分钱”。他想找到一个适合3D打印应用、也更有溢价空间的市场。</p>\n  <p>次年，桂培炎无意中去到华南口腔展。他看到装修很fancy的会场，许多站台的模特，人来人往的人们带着MacBook......“一看就是个有钱的行业，他们付费意愿高，而且光固化3D打印跟他们产品match度很高。”</p>\n  <p>口腔行业付费意愿高只是敲门砖，桂培炎真正看中的是口腔扫描仪在中国的普及和爆发。</p>\n  <p>口腔扫描仪（简称“口扫”）是现代化数字齿科的核心硬件之一。它通过光学扫描镜头直接在患者口内采集牙齿、牙龈、黏膜及咬合关系的3D彩色数据。</p>\n  <p>2018年前后，中国本土齿科数字化供应链爆发，不少国内企业攻克了光学三维重建算法和微型光学系统，口扫价格大幅下降。</p>\n  <p>口扫和3D打印天然形成数字化工作流闭环，前者采集数字模型，后者将数字模型打印为实体。</p>\n  <p>这是很微妙的时间点，技工厂、医院数字化转型尚在起步期，他们对国产机器的态度信任度并不够，产业链上的相关厂商也尚在犹疑。</p>\n  <p>黑格科技开始集中精力研发适配齿科行业的光固化3D打印机。</p>\n  <p>“口扫是完全不可逆的趋势。”桂培炎告诉硬氪，“在这种趋势下，企业一定要有先发优势。而且当时我认为3D打印跟能应用到齿科还有段距离，你要有半年到一年的打磨期。竞争这么激烈的情况下，你能做的就是高速迭代，把人迭‘死’。“</p>\n  <p>为了抓住窗口期，黑格科技经历了近半年时间的疯狂研发，桂培炎记不清产品迭代了多少次，最多时候他们有100多个配货仓，上各种工艺方案，软件无限制开发。早期机器的问题从最初的200个、收缩到30个、再到十几个.......</p>\n  <p>这段时间，黑格多线作战。过去，黑格的3D打印机的软件和耗材都来自海外厂商，在自研软件未准备好时，他们被海外厂商停用了软件。为了能签单，黑格的技术人员挨家挨户的帮客户做切片、数据处理，勉强度过了空窗期。</p>\n  <p>除了机器，他们还在同步开发耗材。海外耗材价格也很昂贵——2000元每公斤。不少国内厂家进入行业跟黑格竞争，耗材价格成为竞争劣势。黑格搭建了材料研发团队，花了数年时间，耗材实现90%以上的自研。</p>\n  <p>在今天，黑格科技是国内极少数打通了“光学系统、硬件设备、树脂耗材、配套软件及核心算法”产业链闭环的光固化3D打印企业。其在国内齿科技工端市占率超60%，位居首位。同时，其海外营收占比已突破60%，中国齿科3D打印北美出海市占率榜首企业。</p>\n  <p>但回想起来，桂培炎没有太多吹嘘。商战残酷，“做软件、材料是被逼的。”他们只是为了生存，不断逼迫自己建立更深的护城河。</p>\n  <h3><strong>02 寻找、验证第二增长曲线</strong></h3>\n  <p>齿科的成功经验，要如何复用到C端赛道，是新的挑战。</p>\n  <p>2022年前后，桂培炎看到消费级3D市场开始起量，他却很难说服自己立马参与其中。</p>\n  <p>“我觉得它更像个玩具，只能给自己玩，不能用于生产。我们还是想鼓励更多人把3D打印变成赚钱的工具，成为商业化的一个途径。”桂培炎告诉硬氪。</p>\n  <p>3D打印的应用场景，是黑格科技始终看重的业务脉络。不过，他们也意识到很难到找到跟齿科类似规模的赛道，必须要做更大众的产品，覆盖更多的小赛道。</p>\n  <p>而拓竹在消费级3D打印行业的一往无前和迅猛增长，显然给了所有3D打印企业提示——C端有着巨大的市场和想象空间。</p>\n  <p>消费级3D打印市场必须要切入，哪怕黑格已经晚了一步。</p>\n  <p>2023年时，黑格科技推出面向向个人创作者和中小工作室Reflex系列。与齿科等专业设备不同，Reflex系列更加注重成本、易用性与普及性。</p>\n  <p>黑格在Reflex系列产品上，使用其研发第二代LCD光固化技术，新技术在材料兼容性和打印性能上已接近DLP技术水平，突破了LCD设备难以适配高性能树脂材料的限制，同时保留了LCD方案成本更低的优势。</p>\n  <p>桂培炎坦承Reflex系列产品的定位和定价都有问题，他们想服务消费级用户，但定价只能服务到金字塔尖的那批人群。“我们原来做B端生意，转到C端确实有些水土不服。”</p>\n  <p>Reflex系列产品让黑格重新认识消费市场，要有更亲民的价格、更明确的目标用户，还要有专门组建服务C端用户的团队。</p>\n  <p>去年，安克创新的eufy Make UV打印机让Maker赛道从此多了一个新品类。黑格也在安克创新这代产品的落地中得到灵感，这才诞生了G1X。</p>\n  <p>G1X其实已经有技术积累，其运用的全彩3D打印技术已在黑格内部预研多年。全彩3D打印技术底层是Material Jetting技术（材料喷射技术），对喷头、材料和控制系统的要求相当高，设备和使用成本也很高昂。</p>\n  <p>过去多年，全彩3D打印一直是工业级旗舰设备的专属能力，这类设备通常售价在45,000美金以上，重量在140kg以上，占地超过一台双开门冰箱。</p>\n  <p>消费级3D打印行业主要应用的是FDM路线和光固化路线，材料喷射路线几乎无人涉猎。</p>\n  <p>光固化3D打印也是黑格为人所知，也是其打开市场的主要技术路线，黑格没有因此满足。</p>\n  <p>“很多企业会路径依赖，它在一个地方成功了，会想在原有的基础上做得更好，这个是OK的。但你肯定还有有一部分的能力去做新的创新，做一些别人没见过的东西。这是我们比较认可的。”桂培炎说。</p>\n  <p>2022年时，黑格开始研发Color Print的技术储备，到2024法兰克福Formnext展会上的第一代CP01，再到2026年芝加哥MMF展会上发布的多材料一体成型义齿都是其全彩3D打印技术的商业化落地。</p>\n  <p>在采访现场，硬氪看到不少G1X打印的产品，有手机壳、微缩模型、手办和键盘帽，它们看起来质感细腻，色彩还原度佳，没有任何横纹，也确实很难看出是3D打印机所制造。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_99f0cda4f65f4a9d8bde11870f758b81@5836910_oswg124583oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>黑格科技介绍，G1X可在UV 3D树脂（Resin）、UV墨水（UV Ink）及水溶性墨水（AQ Ink）三套墨水体系间轻松切换。除了高精度全彩3D打印外，能延伸至多色平面打印、立体表面纹理打印以及织物转印膜打印。</p>\n  <p>在耗材价格上，得益于黑格科技多年自研耗材的支持，G1X UV3D树脂耗材体系定价仅为同类消费级产品的1/3到1/2，大幅降低实际使用成本。</p>\n  <p>在桂培炎的规划里，G1X初期瞄准的用户是依靠3D打印商业变现的工作室、职业创作者；中长期，黑格科技希望通过供应链优化等，将整机价格下探至5000元以内，全面切入大众家庭消费市场。</p>\n  <p>在桂培炎看来，这也是黑格同其他企业不一样的地方，很多企业会等高速公路建成去造车，他们选择是拿着锄头铺路。</p>\n  <p>创业十多年，桂培炎早就丢掉了幻想。他不爱讲故事，也很少冲动行事。“你要找到自己的弱点，用好的人，做正确的事，有的时候多点耐心，在基础判断上做得更好一些。”</p>",
-      "category": "tech",
-      "published_at": "2026-08-07T02:49:37+00:00",
-      "fetched_at": "2026-08-08T01:13:52.282122+00:00",
-      "fingerprint": "9822b4a6a701669f"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "中国游戏，进入「与AI同游」时代",
-      "url": "https://36kr.com/p/3929147779136896?f=rss",
-      "summary": "<p>ChinaJoy今年的剧本变了。</p>\n  <p>往年的ChinaJoy，是游戏玩家一年一度的夏日狂欢，新品试玩、coser聚会，叠加属于游戏的一切想象，也构成了中国游戏行业的初心与蓬勃景象。</p>\n  <p>而今年的ChinaJoy，少了些打游戏的声响，多了些造游戏的躁动。</p>\n  <p>2026 ChinaJoy的主题是“与AI同游”，近900家展商、14万平方米展区，展会规模和“含AI”量同时创下历史新高。</p>\n  <p>更有意思的是展商名单的变化。今年世界人工智能大会上的技术展商们，没休息多久，就马不停蹄地转场搬进了ChinaJoy现场。没多少是“纯血”游戏出身，可能根本不懂哪款游戏好玩，<strong>但他们决定的是“游戏还能被怎样创造”。</strong></p>\n  <p>夏日带来生机，燥热也带来困惑。全民造游戏仿佛成为了一个不容置疑的结果，但又没有人去认真地回答一个问题：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_d6eaeff568b544aea54f2ba5ac2e2252@11416942_oswg1310693oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026 ChinaJoy展会现场，图源ChinaJoy公众号</p>\n  <p><strong>未来，如果AI真的要把美术、开发、运营的管线“吃掉”，造游戏不再具有筛选价值，那么游戏行业的稀缺性将会转移到哪里，转变为什么？</strong></p>\n  <p>一场结构性的转变之后，新的悬顶之剑又会现身于何方？</p>\n  <h2><strong>01. “做游戏”的门槛消失后</strong></h2>\n  <p>来自阿里云的鲍远松，过去一年服务了游戏行业上百家厂商。他的观察是，行业已经跨过了要不要用AI的争论期，进入了怎么规模化用好AI的阶段。</p>\n  <p>“我们在两年前看到的游戏行业，跟今天完全是两个世界。”鲍远松说，两年前，很多游戏厂商担忧用AI做出来的游戏玩家会不会接受，大部分人的态度还是观望，不知道AI在游戏中的边界在哪里，用了会不会失控。</p>\n  <p>拐点出现在2025年下半年。据Steam平台观察数据，截至2025年12月，平台主动披露使用生成式AI的游戏数量已突破1万款。产业成本用脚投票，再到今年的ChinaJoy可见一斑，AI已经成为游戏生产管线和很多新游项目中不可或缺的生产力，甚至成为游戏玩法的一部分。</p>\n  <p>伽马数据《2026中国游戏产业AI发展报告》显示，2026年上半年游戏行业的投融资中，AI相关项目占比超70%，国内游戏研发端AI普及率已达86.36%，AI工具成为了行业标配。</p>\n  <p>“AI在游戏中的边界是什么”这个问题，首先被重构的能力壁垒就是美术外包、开发编程。</p>\n  <p>伽马数据报告显示，AI素材在游戏研发中的使用占比已经从2024年的10%涨到了2026年的大于41%。中国音数协游戏工委给出的数据也进一步印证，传统素材外包成本下降了50%到70%，人力成本下降超60%。</p>\n  <p>AI Coding的全球浪潮，绝对不会避开游戏这块肥沃的土壤。Unity《2026游戏开发报告》显示，62%的游戏开发者已经在用AI辅助编码，开发时长平均缩短了77%。据可靠消息，头部游戏厂商中已有代表性企业，AI开发工具人均每天消耗的 tokens 成本达到千元量级，而这一投入所创造的价值远高于此。</p>\n  <p>而在比图像和代码更前端、离人更近的链条中，变化也比大众想象得更彻底。一家游戏厂商的运营人员向36氪反馈，过去一个需要5人团队做20天的运营方案，现在的节奏和成本变成了2个人，一周时间。</p>\n  <p>数据统计、活动文案、社群维护这些标准化流程上，AI替代率能达到80%。</p>\n  <p>类似的人力替代逻辑，在内容审核等AI最擅长的环节上也在全面铺开。国内头部研发商贪玩游戏目前正在基于阿里云的千问打造内容安全审核平台，在游戏内实现了高精度、高准确率的玩家聊天内容审核的功能，实现提效50%。</p>\n  <p>美术、编程、运营、审核、本地化翻译，这些占据了一家游戏公司大部分预算的环节，被系统性地大幅压缩。这件事令所有人惊喜，也令所有人恐慌。</p>\n  <p>众所周知，产业上游的成本一旦跟随新技术跌落，传统生产力就再也不会被市场所接受。<strong>如果“制造游戏”不再是一种资本特权，游戏自身不再具备奢侈品一般的筛选价值，也就意味着旧市场秩序正在失效。</strong></p>\n  <p>旧的稀缺性“消散”已经是必然趋势，然而，游戏公司如何才能具备新的稀缺性，需要作出怎样的判断和战略选择——这个问题，才是今年ChinaJoy以后整个游戏行业要面对的达摩克利斯之剑。</p>\n  <h2><strong>02. AI正在改变“玩游戏”</strong></h2>\n  <p>新的稀缺性是一道窄门，能进去的人变少了，但它其实就立在那里。</p>\n  <p>什么样的游戏会更有价值？很简单，好玩的游戏。</p>\n  <p>生产管线的AI化，降低了“制造游戏”的门槛，但并没有剥夺创造的价值。创造的低门槛和平民化，反而会倒逼着游戏厂商专注做游戏，把成本更多地投入在玩法的趣味性、交互的便利性、寓教于乐的场景等方面。</p>\n  <p>在杠杆的另一端，AI也走进了游戏玩法本身：走进NPC、走进剧情、走进世界规则，衍生出了更多丰富细腻的玩法，甚至已经改变了“玩游戏”这件事本身的定义。</p>\n  <p>这里的变化，显然比游戏行业的成本重构要剧烈得多。</p>\n  <p>一个很有说服力的例子，去年巨人网络推出的中式微恐类爆款游戏——《超自然行动组》彻底带火了该赛道，上线一年DAU突破千万，累计注册用户2亿，流水超50亿。QuestMobile数据显示，在各大厂商纷纷跟进重注相关赛道后，其月MAU复合增长率仍然能超过20%，在同品类游戏中堪称运营奇迹。</p>\n  <p>这款游戏的一大亮点，就是内置了一类由AI驱动的“AI假人”，上线第一周，AI NPC与真人玩家的对局总数超过了2500万次。</p>\n  <p>AI NPC们会像真人一样灵活走位、搜刮物资，现场跳舞。他们有自己的“人格”，会跟玩家拉近关系、建立信任，然后冷不丁上演致命反杀。很多玩家也发现，这些AI队友的回应比预想中质量高很多，给予的情绪价值比随机匹配的陌生人更多。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_09339552df0e4ca19d724e3a2b6db25d@11416942_oswg651031oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>为什么两年前，业界还普遍认为AI对战是没有灵魂的？就是因为像这样会骗人、会哄人、会反水的NPC，非常依赖于大模型能力的质变，以及技术落地的深度，背后至少需要三层能力同时就位。</p>\n  <p><strong>第一层是模型本身的“角色感”。</strong></p>\n  <p>市场上主流大模型，想做娱乐对话场景，绕不开的矛盾是，怎么样让AI变得“既听话，又不听话”。聊天能力强的，指令遵循弱；指令遵循强的，人格魅力和角色感就出不来。</p>\n  <p>据了解，巨人网络接入了千问模型，目前已经做到了理解玩家语义、复刻真人音色、模拟玩家的语言风格与行动逻辑，所以能做出具有策略性和迷惑性的伪装动作，让玩家基本上分不出对面是真人还是NPC。</p>\n  <p>更进一步来看，模型的能力边界已经远不止于“对话”。以阿里Qwen3.8-Max系列为例，这一代模型已经可以直接用于游戏逻辑生成和代码编写等核心创作环节——模型能力不再是实验室里的demo，而是可以被嵌入到C端产品生产链路的稳定服务。AI游戏创作智能体TapTap制造第一时间接入了该模型。“Qwen3.8-Max的能力进步非常大，它已经在我们的模型定价体系中展现出很大的竞争力，所以我们就及时把它上线了，我们的开发者用它的比例每天都在增长。”TapTap制造产品负责人赵天一在今年ChinaJoy现场直言。</p>\n  <p><strong>第二层是推理平台的工程能力。</strong>一周之内2500万场对局，代表着每天有数以亿计的token在游戏中被实时生成和消费。在这些对抗交互和实时竞技的品类中，任何一个NPC的响应延迟超过几百毫秒，玩家会立刻察觉到不对劲，所以推理速度也很关键。</p>\n  <p>这也是为什么，今年ChinaJoy上出现了大量AI能力的展示，但目前为止真正能把AI玩法作为王牌的游戏并不多。算力成本是一方面，工程化的成熟度也比想象中要苛刻，这些都是游戏行业在寻找的新的稀缺性。</p>\n  <p>《超自然行动组》的相关玩法背后，阿里云百炼平台提供了每分钟亿级tokens的处理速率，保障了高并发场景下能让玩家无感的低延迟推理。</p>\n  <p><strong>第三层能力，则是Agent的运行环境。</strong>传统游戏公司做网游是在自己的服务器上采购ECS跑服务，流量低谷期算力闲置，峰值扩容又很昂贵，所以传统的部署和运行环境基本“用不起”AI NPC。</p>\n  <p>而今年为止，阿里云这样的AI云厂商带来的变化是，游戏厂商现在只需要把Agent发布到阿里云的Agentic Cloud��台上，平台就会自动处理资源调度、会话管理、毫秒级弹性伸缩，通过沙箱隔离和安全工具调用保障Agent运行。</p>\n  <p>在千万级并发下稳定运行AI NPC，现在对于游戏公司来说变成了一个“开箱即用”的选择。</p>\n  <p>其实，无论是在AI NPC玩法上的深耕，还是与阿里云AI的合作，巨人网络努力去探索的一件事是：游戏的价值稀缺性应该回归游戏“有多好玩”，而不是“有多难做”。</p>\n  <p>这也是AI对于整个游戏产业的意义。</p>\n  <p>再回到开头的达摩克利斯之剑。就算有一天，AI“吃掉”了美术、开发、运营，游戏厂商依然能从中找到创造的价值。因为AI叙事不会停滞于生产力本身，从管线上省下来的成本、解放出来的生产力，终究会被解放到玩法的设计与思考上、多模态能力的融合中。</p>\n  <p>未来，大家的关注点也会重新回归谁能做出更好玩、NPC人格更多元、世界玩法更开放、AI能力和生态更稳定先进的游戏上。那些来自于制作团队庞大、预算充足的所谓“质量保障”，则会变成一顶旧世界的王冠，逐渐褪色。</p>\n  <p>“取之于AI、用之于AI”的态度让《超自然行动组》这些玩法成熟的游戏，越过了AI时代的窄门。</p>\n  <p>另一条路则更加激进：从零开始，做一款彻底由AI驱动的游戏。</p>\n  <p>AI原生历史策略游戏《历史模拟器：崇祯》，走的就是这条路。</p>\n  <p>在千问大模型的支撑下，玩家能从传统的选择剧情，变成创造剧情。在这个游戏里输入一句自然语言指令，就能推行“激进改革”、在多方势力间合纵连横、在古代世界“点亮现代科技树”，触发连锁反应。AI在国库、民心、军心等上千个维度上进行动态数值推演，并生成后续剧情的走向，推演出一个“活的世界”。</p>\n  <p>说它“激进”，是因为传统游戏代码构建的决策树，根本不可能覆盖这种自由度。</p>\n  <p>游戏制作方青干工作室测试了多个主流模型，最终，千问大模型凭借推理准确度、数据处理速度、成本控制的综合表现受到工作室青睐。玩家的历史状态、对话积累、世界演化，需要一个能跟AI同样速度运转的数据中枢，阿里云的PolarDB适合承担这项任务，通过数据压缩等技术优化，在提升模型处理效率的同时，将存储成本压低了超过50%。</p>\n  <p>而在管线端，青干工作室也从POC阶段就开始和阿里云技术服务团队深度协作，Prompt优化、长记忆调优、模型调用限流、RT响应超时监控，这些流程被标准化成为一套7×24小时的保障体系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_1efcf5cd47f14092afc62dac57048676@11416942_oswg816080oswg1080oswg604_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>《历史模拟器：崇祯》验证了AI原生游戏在高并发、强互动环境下的可行性，也代表着一种新的技术服务标准和工程生态，正在游戏行业中建立起来。</p>\n  <p>据项目团队所说，千问胜出的不只是评测分数，还有在长记忆调优、Prompt工程和指令遵循上的磨合深度。也就是说，游戏行业内，AI大模型之间的竞争也正在从“谁性能最强”，变成“谁更适配这个项目”。</p>\n  <p>国际数据公司IDC发布的《中国AI游戏云市场洞察，2025》报告显示，在“AI游戏云模型服务与AI应用”市场中，阿里云以37%的市场份额位列第一。越来越多游戏企业选择基于千问模型打造适合游戏场景的专属模型，专注于游戏业务创新和玩家体验。</p>\n  <p>早在行业还在争论“AI游戏是否值得投入”的时候，这家AI云厂商就在大规模建设底座了。</p>\n  <h2><strong>03. 征服世界之前，先跑赢几毫秒</strong></h2>\n  <p>AI大模型在不同游戏品类中的形态各异，但它们本质都是实时在线服务，每一局对战、每一次对话、每一个Agent的决策，都在调用远程推理。</p>\n  <p>所以，AI作为一种新的玩法、新的能力，又把游戏产业打回了一个古老的瓶颈：网络延迟。</p>\n  <p>尤其是在出海这个“必选项”面前，延迟带来的痛苦和损失更加无法回避。</p>\n  <p>谈及游戏出海，首先要回答的问题是，近些年来中国游戏的出海成绩单为什么能这么强？</p>\n  <p>2025年，中国自主研发游戏在海外市场的实际销售收入为204.55亿美元，同比增长10.23%，也是连续第六年突破千亿大关。《原神》刷新了全球对中国研发的认知，《黑神话：悟空》做到了文化出海，让全球玩家自发接受中国文化熏陶，但这些既往路径有一个大前提，厂商出海的是内容产品。</p>\n  <p>内容做好，打包分发出去，全球玩家的设备自己跑，设备决定内容精度。</p>\n  <p>AI游戏的逻辑则完全不一样。AI玩法、AI游戏，本质上是在卖实时算力服务，而且调用本地算力很难，游戏互动直接产生和消费的是云端算力。</p>\n  <p><strong>游戏玩家对哪怕几毫秒的延迟也会极其敏感，而且传统游戏的延迟是一个单纯的网络问题，就近部署服务器就能解决，AI游戏还考验推理本身的计算速度。</strong></p>\n  <p>鲍远松把游戏出海的新难题，归结为“双重实时计算带来的压力”。游戏服务器要快，推理也要快，而且两个要同时快。这意味着，AI云厂商在游戏行业的竞争，已经从“谁家机房离玩家更近”，变成了“谁家的AI基础设施离玩家最近的节点上，谁家的推理服务速度更快，快到让玩家的大脑察觉不到面对的是AI”。</p>\n  <p>在算力供给日趋紧张的当下，平头哥芯片的存在，让阿里云具备了从芯片到模型到平台到服务的AI全栈纵向自给能力。全球主流AI云厂商中，拥有如此完备的配置玩家不多，阿里云是其中之一。</p>\n  <p>我们熟知的心动《火炬之光：无限》作为一款全球化运营的多端暗黑Like的ARPG游戏，目前已持续运营多个赛季，用户稳定增长；在阿里云服务的助力下，各区服开服期间没有出现任何大规模卡顿或掉线。对于一款时延敏感的ARPG游戏来说，需要从底层架构上扛住百万级的QPS并发请求，做到毫秒级响应时延。</p>\n  <p>《火炬之光：无限》流畅的全球化体验，说明阿里云已经拥有一张坚实的“网”——一套铺设在全球的物理网络，目前在全球运营32个公共云地域、105个可用区、4大区域服务中心和27个本地服务中心，从墨西哥、巴西、巴黎到阿姆斯特丹，数据中心沿着中国游戏出海的主要市场逐一落地。</p>\n  <p>其实，过去不少全球大型网络游戏拼的也并不是美术、运营和玩法，而是网络资源。谁的服务器更稳、带宽更便宜，就能在用户体验中胜出，在同品类中占据上风。</p>\n  <p>只不过，那个时代正在结束。心动的优秀答卷之外，是未来AI游戏出海的新考卷。下一阶段，网络资源仍然不能落后，挑战会更艰巨，但它只会成为最基本的服务底座，不会成为游戏出海的瓶颈。</p>\n  <p>根据鲍远松的说法，最近阿里云正在追踪一个新指标——TTFT，从玩家发出指令到模型吐出第一个token的时间。只要能跑赢这个数字，跑出几十毫秒、几毫秒的成绩，把新一代中国游戏的价值稀缺性输送到全球各地，就不会止于技术的幻想。</p>\n  <p>早在2013年，阿里云就组建了第一个面向游戏垂直行业的技术服务团队，将单一的云产品升维为长期磨合共创的解决方案，游戏也就此成为了阿里云选择切入的第一个垂直行业。对于一家AI云厂商来说，在一个垂直赛道早出发、长期主义是真正的“胜手”。</p>\n  <p>那么对于一家游戏厂商来说呢？是从资金之争、资源之争，到管线效率之争、AI能力之争。</p>\n  <p>2026年，这场竞争到底有多热，看看资本的动作就知道。</p>\n  <p>5月，斯坦福大学教授李飞飞担任联合创始人的AI游戏公司Astrocade，官宣完成5600万美元融资，主打AI游戏UGC平台，8个月内用户突破2000万；</p>\n  <p>7月，专注AI 3D大模型和世界模型的公司VAST完成超10亿元A3轮融资，多个游戏产业资本参与投资；</p>\n  <p>极逸SOON一年内完成两轮融资，累计近亿元，用于打造一站式AI游戏创作平台。</p>\n  <p>游戏厂商“造世界”，创造力如同世界的支点，价值稀缺性如同世界的重力。如今重力转移正在发生，且不可逆转。</p>\n  <p>成本结构在变，壁垒在松动，怎么用好AI生成、怎么解决全球推理延迟，变成了比美术水平更关键的“生死线”，竞争也必然会重新洗牌。</p>\n  <p>过去，我们会说“中国制造”成就了一个又一个的出海奇迹，哪怕是游戏，游戏是艺术也是工业。</p>\n  <p>如今，“制造游戏”不再构成壁垒，那么制造力自然会变成创造力。而在一切创造与审美的背后，模型、平台、AI基础设施，构成了万变中不变的底层能力，和下一个十年的入场券。</p>\n  <p>AI不是把游戏行业的生产管线“吞掉”了，是让做游戏变得更简单、玩游戏变得更有趣了。AI原生游戏、中国游戏出海的伟大冒险，也才刚刚出发。&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-07T09:00:30+00:00",
-      "fetched_at": "2026-08-08T01:13:52.282115+00:00",
-      "fingerprint": "4cfeddca66158e6a"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "不等了！一个盲人上手造了个导盲机器人",
-      "url": "https://36kr.com/p/3929352336587906?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_c8cf27ba1af44876869dde157b5f7181@6314151_oswg1234903oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>一个看不见的人，如何获得独立出行的自由？</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_1ead215125a04e82a3b88564825d5d0e@6314151_oswg560oswg900oswg30_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>访谈 <strong>| </strong>刘思洁、李嘉星</p>\n  <p>撰文<strong>&nbsp;|</strong>&nbsp;刘思洁</p>\n  <p>编辑<strong>&nbsp;|</strong>&nbsp;张薇</p>\n  <p>封面来源<strong>&nbsp;|</strong>&nbsp;AI Look官网</p>\n  <p>&nbsp;</p>\n  <p>全球人工智能大会的采访间里，两个声音同时响起。</p>\n  <p>视障人士朱清毅在向“未来人类实验室”讲述他的连续创业经历时，另一个平静的带有一些机械感的女生则说着：</p>\n  <p>“方向朝南，距离约1.4米”。</p>\n  <p>“左侧灰墙装双开关，铺灰地毯”。</p>\n  <p>女声来自朱清毅身旁一台形似缩小版太空探测仪的机械设备。它身上的摄像头、雷达和多重传感器正在工作，扫描着周围的环境，并把数据转化成语音，一句一句播报出来。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_58b102ef404942ab96b00c29aede7480@6314151_oswg650838oswg900oswg1591_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI LOOk机器人</p>\n  <p>&nbsp;</p>\n  <p>这是朱清毅创办的朱葛机器人团队生产的导盲机器人，名叫AI Look。从立项到今天，花了六年。专门为视障人士设计，帮他们避障、导航......</p>\n  <p>朱清毅启动这个项目时，他面对的并非一个市场机会，只是一个困扰自己几十年的问题：<strong>一个看不见的人，如何获得独立出行的自由？</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_9d184abc33724c27a7685645a92b98de@6314151_oswg112042oswg1080oswg1621_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">朱清毅在全球人工智能大会上发言</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_1c13538580b8438990e69f85cddddf60@6314151_oswg1788oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>看不见的最大困扰</strong></h2>\n  <p>对于像朱清毅一样的视障人士来说，看不见的不便，嵌入了生活的方方面面。</p>\n  <p>这是一个为健全人构建的世界，盲道被刷成醒目的黄色，虽然真正需要使用它的人并不能看见。大多数网站没有考虑过盲人会来访，文字为了好看做成了图片，按钮没有加上说明标签，读屏软件念不出内容，只会重复一个词：“链接”。政府采购目录里给盲人使用的产品，被一批批分发下去，但是因为不好用被堆在了角落里......</p>\n  <p>看不见的遗憾在日常生活中经常出现，并不会随着时间消失或淡去，有时是和同事朋友们一起外出，有人说风景真好，朱清毅能感受到拂过面庞的风的温度，闻到空气里的气味，人和小动物发出的声音，但“就是看不见”，更刺痛他的则是他“看不见儿子长啥样”。</p>\n  <p>大家会对对他说“你儿子真帅”，朱清毅想知道儿子到底长啥样，他拿手抚摸儿子五官，他能感受到儿子鼻子大致的高度，但是却始终无法在脑海里构建出儿子样貌的图片。</p>\n  <p>朱清毅的人生有一个明确的“分界线”。</p>\n  <p>读书时，他的理科成绩很好，和大部分孩子一样，当时的理想是考上大学、学习喜欢的专业。15岁之后，一场疾病改变了一切。一次发烧后，他被确诊患上视网膜色素变性，视力开始不可逆地下降。18岁时，他已经无法阅读普通书籍，只能进入盲校学习。1998年毕业后，和大多数视障人士一样，他成为了一名按摩师。</p>\n  <p>他在山东老家开过一家推拿按摩店，最多时手下有近50个员工。他肯钻研、按摩技术好，店里一半的营收都是他创造的。“钱赚得也多”，钱就用那种折叠的纸巾袋子，一打一打装在口袋里。</p>\n  <p>2000年底，朱清毅花了7999元购买了人生中的第一台电脑。彼时上网还需要拨号，一分钟收费几块钱。</p>\n  <p>朱清毅借着电脑上的读屏软件，从网上下载编程书籍自学，不仅学会了代码，还申请了域名和空间，2001年搭建起一个专为盲人做的无障碍网站，方便视障群体下载书籍和音视频资料。</p>\n  <p>自己创造一个网站，和给人推拿是完全不一样的体验，但是有相通之处，为他人推拿，是缓解疼痛，治病，造一个网站，也是为了“治疗”和他一样的视障群体，虽然这种治疗没办法让视障群体重现光明，但却让曾经被“看不见”束缚的界限，外延了。</p>\n  <p>自从自学了编程，朱清毅就在技术创业的路上走了下去，2009年，他关掉了自己的按摩馆，在老家山东创建了一家软件科技公司，这些年他带着团队，做了盲人无障碍考试系统、盲人音乐教学软件、盲人远程教学平台、特殊教育的智慧校园体系，还承接了一些地方残联、高校的无障碍网站的创建工作......</p>\n  <p>这些项目有一个共通之处，都是先从他自己的生活困境发现的需求。</p>\n  <p>他看不见网站上的验证码，就做一个无障碍二维码识别系统；盲人学生考试不方便，就做无障碍考试系统；想学音乐但找不到合适的方式，就做音乐教学软件。</p>\n  <p>他自己也是这些产品的第一个用户。</p>\n  <p>最困扰他的，是看不见让他没办法独立出行。</p>\n  <p>大概在2010年后，随着视力的衰退，朱清毅就无法独立出门了，他必须要在家人、朋友又或是同事的陪伴下才能出门。</p>\n  <p>朱清毅告诉我，因为无法独立出行，对他而言最大的束缚是“依赖别人，麻烦别人”，现在带他出门的是几个比较固定的同事，到了周六日，大家都会有安排，这个时候他想要出门，就会更觉得自己在麻烦其它人。更多的时候，周末需要去公司加班，他不会叫助理，而是选择自己打车。</p>\n  <p>大多数时候，和我交谈时，朱清毅都保持着一种平静，但当我问到“盲人是不是不爱出门”这个问题时，朱清毅直接反驳了我，说这是一句“假话”，然后反问我“就像两条腿都瘫痪的人说他不爱走路，你相信吗？”</p>\n  <p>朱清毅是一个要强的人，他出门在外不爱使用盲杖，他告诉我，对于大多数盲人来说，都不爱拿着盲杖出门，盲杖在盲人看来，是一个标签，拿着他出行，就是在告诉其它人，自己是一个盲人。</p>\n  <p>他想要独立出行，也想要撕掉盲人的标签。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_e5ff75e0590548ccae4cd042b939b74b@6314151_oswg259442oswg1080oswg1439_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">朱清毅在使用AI LOOK</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_70e0293a70114dd69718365560624366@6314151_oswg2470oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>吃够了一直“等”好用产品的苦，那就自己做</strong></h2>\n  <p>他一度把希望寄托在技术上时，但又一次次感到失望和挫败。</p>\n  <p>十年前，他还有通过技术“让盲人真正看见”的这个想法，但在研究了脑机接口、电子眼等技术后，他意识到，这是一个短期内很难实现的目标。</p>\n  <p>没办法通过“复明”实现独立出行，那就通过一个个“导盲产品”。</p>\n  <p>这些年，朱清毅几乎尝试了市面上所有的导盲产品。</p>\n  <p>在胸前的可穿戴设备、绑在裤袋上的传感器装置、还有像手电筒一样的拿在手上避障的产品，但是使用效果都不尽如人意，“我还是不知道那障碍物是什么？是树是椅子还是猫？就算是它告诉我有障碍物，但是我仍然不敢走。”</p>\n  <p>朱清毅觉得，这些年，他就是吃了一直在“等”的苦，一直在等着别人为视障人群造出好用的产品，解决出行难题，但实际上，大部分给视障人士生产产品的是健全人，他们没办法全然地洞察视障人士的痛点和需求。</p>\n  <p>但他自己却可以，他是视障人士，他知道这个群体要什么，实在不行，他还有一群视障朋友，都可以做产品经理。</p>\n  <p>2020年，朱清毅参加了中国残联的“十四五”工作规划预备会，当时大家都在聊机器人。</p>\n  <p>那时，公司也正在做无障碍智慧校园体系，其中一个附带项目是给APP加了个能自动回答问题的“虚拟机器人”，这让他觉得人工智能技术确实已经发展到一定水平，可以做个机器人来为视障人士导盲了。</p>\n  <p>会议结束后，朱清毅回到公司，立项了“导盲机器人”。时机到了，既然市面上没有一个团队作出一个让他满意的产品，那就自己来做。</p>\n  <p>最初，公司内部想象的产品形态是一只“导盲犬”，但这个想法很快被推翻，他们买了机械狗回来测试，官方说续航很长，但让它不停地跑，不到一小时就没电了。机身重四十斤左右，盲人根本抱不动，上下台阶还容易摔跟头。于是，机器狗这条路被舍弃。</p>\n  <p>第一个真正做出来的东西极其简陋。底盘是一个普通电脑主机的移动托盘，自带万向轮。上面是一个纸箱，挖了几个洞,把网上买来的各种传感器一个一个粘在洞口，再装上一个推行的把手。</p>\n  <p>它还不会带着人走,只能靠人推着它移动,一边推一边看传感器传回来的数据,判断它到底能不能“看懂”眼前是什么。那时候研发团队只有两个人，朱清毅和一个做过安卓APP开发、学物联网出身的年轻人。他们俩在网上一件一件搜传感器,买回来拆开装上,推着纸箱在办公室里走来走去。</p>\n  <p>但这也是整个创业机器人的过程中，朱清毅最有成就感的时刻，从这两个人开始，团队一点点扩到现在的五十多人。产品在实验室里前后迭代了十几代，从最初只能“识别出前面有个东西”，一步步走到能自己避障、能带着人走、能规划路线。</p>\n  <p>当然，这中间也踩过不少坑，机身本身是一整块磁场，最早把4G物联网卡装在机身底部，结果一进屋、一放进车里就没信号，查了很久才发现是磁场干扰导致的，最后把卡挪到手柄最顶端才解决；芯片算力强，发热快，能让机器的外壳烧到150度以上，但要散热就得留通风口，留了通风口又没法防水。这个“既要散热又要防水”的矛盾，他们后来靠自研设计解决了，还申请了专利。</p>\n  <p>正是这一步步地摸索，AI Look最终被做出来了，目前预售加起来大约1200台，首批量产计划9月交付，大概两三千台。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_aaa9501329c94acfbd46f618d736cd0a@6314151_oswg79877oswg1080oswg604_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI LOOK机器人</p>\n  <p>我问朱清毅，产品到了视障人士的手上，你想帮他们解决的最小需求是什么。朱清毅回我，不是小需求，而是大需求，“独立出门遛个弯，还能回来。”</p>\n  <p><strong>以下是关于AI Look的技术实现部分，“未来人类实验室”（以下简称未来人）和朱清毅的对话：</strong></p>\n  <p><strong>未来人：可以整体归纳一下AI Look目前的主要功能吗？</strong></p>\n  <p><strong>朱清毅：</strong>这台机器人的核心逻辑，是“避障+导航+牵引”三件事。在导航方面，室外靠卫星导航，室内靠“巡航”寻路，避障、刹车、转弯，这个是毫秒级的，确保你不会出安全问题。</p>\n  <p>“寻物”方面，比如找厕所、找电梯、找座椅、找红绿灯、找斑马线，它靠标识识别的。</p>\n  <p>AI Look还能帮用户播报周围的环境，让使用者知道大概要去哪，前面是什么我们这个版本还接入了豆包的语音助手能力，可以做更详细的场景问答，比如让它描述“前面这位人士的长相、穿着、笔记本电脑品牌”。</p>\n  <p>我们的正式版本还会配一个智能眼镜，眼镜解决的是机器人没办法看到的视角的问题，比如坐高铁时，座位号在头顶行李架方向，机器人要抬起来看很费劲，但眼镜一歪头、按一下键，就能读出“3A、4C”这种信息。</p>\n  <p>AI Look的步速是可以调的，有的人平常步伐比较快，有的人对外界世界还有些害怕，这样可以调慢一点。我们的每一台机器人都由保险公司承保。</p>\n  <p><strong>未来人：你提到AI LOOK不建图、不遥控是如何实现的？</strong></p>\n  <p><strong>朱清毅：</strong>市面上的机器人，包括人形机器人、扫地机器人，用的都是SLAM技术。拿一台放进屋里，它哪都去不了，得先一步步把空间扫一遍，没扫过的地方就去不了。操作上要么在手机上点几个点当遥控，要么用手柄控制前进后退及左右方向。</p>\n  <p>我们不扫图、不用遥控，机器一开机就能走。</p>\n  <p>这背后是多传感器融合算法。现在的机器人身上其实也有激光雷达、视觉、超声这些传感器，但它们的做法是每个传感器单独建立一个函数：视觉一个、激光一个、超声一个、毫米波雷达一个，分开算，尤其大多数扫图方案以激光雷达为主，单独计算这一路数据，别的传感器数据顶多是参考。</p>\n  <p>我们把这几个传感器数据放进同一个函数里，融合成一张网来统一计算。如果做成可视化演示，你会看到激光点云、视频画面、超声数据同时叠加在一张图上，整个空间的距离、大小、地面平不平都在上面。</p>\n  <p><strong>未来人：硬件上都有哪些传感器？</strong></p>\n  <p><strong>朱清毅：</strong>超声波、3D激光雷达、双目相机、单目相机、气压传感器、惯导等等。多传感器融合就能把所有数据汇总到一张网里判断哪里能走、哪里不能走。</p>\n  <p><strong>未来人：这个产品的识别和避障精度怎么样？</strong></p>\n  <p><strong>朱清毅：</strong>精度方面，视觉识别因为要用云端模型会弱一点，但激光雷达可以做到毫米级。不过我们不需要它识别出所有物品，主要是能判断“有没有障碍物”。���辑很简单：先判断有没有障碍物、能不能走，不管是猫是狗是人，只要是障碍物就想办法绕开；如果判断出是个人、又是唯一通道，机器就会提示“请借过”。真要精细描述周围环境，我再按键让它整体说一遍。</p>\n  <p><strong>未来人：AI Look可以自己规划路线吗？</strong></p>\n  <p><strong>朱清毅：</strong>我们接入了百度和高德地图，告诉它去哪，它就带你过去。室外靠卫星导航，室内靠巡航。</p>\n  <p><strong>未来人：导航过程中突然想改变目的地呢？</strong></p>\n  <p><strong>朱清毅：</strong>我们是机器人拉着使用者走，不是人拉机器。5米以内的偏移允许；但如果明显走反了，需要双击按键终止当前导航，退出后再重新发指令。就像自动驾驶开启后你去扳方向盘扳不动，但可以随时终止。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_fb0209ba5eff4802978f833ab13d0554@6314151_oswg137760oswg1080oswg1618_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">朱清毅和AI LOOK</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_cf06d107b54d44279bdf03763fb5d4ad@6314151_oswg2587oswg900oswg47_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_b05f6b32a0d74ece80367c127c4ab9f4@6314151_oswg56928oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_f030645af2aa4b84bb88101e17be05df@6314151_oswg71808oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_728a629d2aa74cc2bc333b1b53daa7e6@6314151_oswg67729oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260807/v2_6d09e527e5b74449976438cd3bfb602f@6314151_oswg2783oswg900oswg74_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>你有关注过身边残障人士的需求吗？</strong></p>\n  <p><strong>欢迎在评论区分享你的看法~</strong></p>",
-      "category": "tech",
-      "published_at": "2026-08-07T11:22:24+00:00",
-      "fetched_at": "2026-08-08T01:13:52.282106+00:00",
-      "fingerprint": "fc1b89a76f9b80b3"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "9点1氪｜宇树科技中签率不足长鑫十五分之一；东航宣布提前14天可免费退改票；雪佛兰将停止在华销售",
-      "url": "https://36kr.com/p/3930156837518471?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>OpenAI更新ChatGPT体验，免费用户可使用GPT-5.6 Luna并享无限文本聊天</li>\n   <li>美科学家首次用AI设计出新型病毒</li>\n   <li>粉笔教育回应名师出走</li>\n   <li>多地“兰州拉面”改名“青海拉面”</li>\n   <li>王兴兴：深耕具身智能，加速机器人造福社会、</li>\n   <li>深圳二手豪宅成交回暖</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>宇树科技预计发行4044.6434万股，中签率不足长鑫十五分之一</strong></p>\n  <p>宇树科技于下周一即8月10日开启申购，普通投资者主要参与网上发行。本次预计发行4044.6434万股，其中网上初始发行647.10万股，打新申购代码为“787836”，上市后交易代码为“688836”。</p>\n  <p>宇树科技以150.8元/股发行、219倍市盈率登陆科创板，但网上中签率预计仅0.02%-0.03%，不足此前长鑫科技0.47%中签率的十五分之一。这场悬殊的筹码分配背后，既有人形机器人赛道稀缺性的定价逻辑，也有散户与机构之间利益分配的结构性争议。（新浪财经）</p>\n  <p><strong>东航发布新规：提前14天可免费退改签</strong></p>\n  <p>中国东航发布新版《国内客票自愿退票和自愿变更实施细则》，对于2026年8月6日（含）以后销售的2026年8月6日（含）以后开始旅行的国内客票，规定提前14天自愿变更或自愿退票均免费。新版规则分五个时间段，距离起飞时间越近，变更和退票收取的费用越高。（界面新闻）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_36da6ca3b9e2448aa663ab3484eabe85@6100851_oswg36322oswg802oswg914_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>雪佛兰将停止在华销售，产能转向出口</strong></p>\n  <p>近日，上汽集团与通用汽车正式签署合资续约协议，将上汽通用的合资期限延长20年至2047年。新协议明确，通用汽车将中国业务重心放在凯迪拉克和别克品牌，新协议也允许通用汽车把中国作为出口枢纽，将别克和雪佛兰车型出口到美国以外的海外市场。</p>\n  <p>通用汽车方面回应称不会停产，合资企业旗下的雪佛兰产品线最契合出口市场需求，合资企业会继续在中国生产雪佛兰产品，并积极探索在美国以外的海外市场机遇。另外，针对现有的中国雪佛兰车主依旧会提供完善的售后服务保障。（IT之家）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI更新ChatGPT体验，免费用户可使用GPT-5.6 Luna并享无限文本聊天</strong></p>\n  <p>当地时间8月6日，OpenAI宣布更新ChatGPT模型体验，提升GPT-5.6 Sol在事实准确性、回答聚焦度和多场景一致性方面的表现，同时扩大免费用户对GPT-5.6 Luna的访问权限。OpenAI表示，Plus和Pro用户将获得更新后的GPT-5.6 Sol，该模型能够根据问题复杂程度调整回答深度，并减少不必要的格式化内容。对于免费用户，OpenAI将默认模型更新为GPT-5.6 Luna，并扩大访问范围，提供无限文本聊天功能。针对需要更深入推理的问题，免费用户可通过新增“Think”按钮调用更高推理能力。（界面新闻）</p>\n  <p><strong>“AI教父”辛顿：未来可能出现更多“失控”AI</strong></p>\n  <p>当地时间8月5日，诺贝尔奖得主、被称为“人工智能教父”的计算机科学家杰弗里·辛顿（Geoffrey Hinton）警告称，随着人工智能模型能力不断提升，人类将越来越难以控制它们，未来可能出现更多“失控AI”。辛顿表示，近期部分先进AI智能体突破人为设定的测试环境并对现实系统造成影响的事件“令人担忧”。他称，随着AI变得更加智能，其可能产生更复杂的目标，并具备更强的规避控制能力，人类不能简单依靠“比AI更聪明”来维持控制。（界面新闻）</p>\n  <p><strong>美科学家首次用AI设计出新型病毒</strong></p>\n  <p>斯坦福大学的研究人员据悉开发了一款名为“Evo 2”的生成式AI程序，该程序能够编写新的基因组——即编码在DNA中的生命遗传指令。他们利用该程序设计并制造了16种合成噬菌体，这是一种能够感染细菌的小型病毒，有时可替代抗生素来杀灭致病细菌。该研究成果于周四发表在了《科学》杂志上。（财联社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>粉笔教育回应名师出走</strong></p>\n  <p>8月7日，粉笔教育发布关于粉笔名师出走的说明，针对外界关注的名师离职一事作出回应。粉笔方面表示，部分名师离职确为客观事实，公司尊重老师们的个人选择。粉笔称，企业已经吸取相关教训，切实提升教师待遇；同时并不排除后续仍会有老师离职的可能性，但目前机构整体师资队伍已经趋于稳定。（界面新闻）</p>\n  <p><strong>泸溪河：排除金属牙冠异物混入坚果桃酥产品的可能性</strong></p>\n  <p>8月7日，泸溪河发布关于网传“泸溪河桃酥出现金属牙冠”事件调查结论的声明：</p>\n  <p>经自查，排除金属牙冠异物混入坚果酥产品的可能性。政府监管部门对工厂进行检查，未发现金属牙冠异物混入坚果桃酥产品的可能。第三方权威检测机构SGS对工厂进行全面审核，针对客诉批次桃酥产品的金属牙冠异物风险排查，可以排除金属牙冠异物在生产过程中带入的可能性。消费者张女士已澄清，所发视频情况不属实，已主动删除相关视频，并对我司造成的影响诚恳致歉。因事件涉及高龄老人，我司对此予以谅解。（中国网）</p>\n  <p><strong>英伟达回应“与佳贤通信合作”：不实</strong></p>\n  <p>近日有消息称，英伟达在中国寻找基站厂商合作方，以开发符合海外市场要求的6G基站，希望2027年或2028年进入试验网，佳贤通信与英伟达合作开发6G AI-RAN基站并预计年底推出相关原型机。拟收购佳贤通信25%股权的通宇通讯已于8月6日晚间发布澄清公告，称佳贤通信与英伟达不存在研发合作关系。8月7日，英伟达亦向第一财经记者回应称，相关消息毫无根据，对英伟达在该地区活动的描述也不属实。记者为向佳贤通信求证多次拨打该公司电话，但未接通。（第一财经）</p>\n  <p><strong>SK海力士拟分红超2700亿韩元，三季度将敲定额外回报方案</strong></p>\n  <p>8月7日，SK海力士在韩国交易所披露的一份监管文件中表示，将向普通股股东派发每股375韩元的现金股息，普通股股息率0.02%，总股息金额为2733亿韩元；股息记录日期定在8月31日，股息计划在分配日起一个月内支付。同时，SK海力士表示，正在积极研究额外的股东回报措施，具体方案将于第三季度内敲定并对外公布。在回馈股东的同时，SK海力士同步敲定了新一轮产能扩张落地计划。根据公告，公司董事会已批准合计约54.3万亿韩元的本土投资方案，其中35.2万亿韩元用于龙仁半导体产业园二期晶圆厂（Y2）建设，投资周期至2031年；19.1万亿韩元投向清州M17芯片厂，投资周期至2031年，两项投资均属于今年6月公司公布的中长期投资战略的组成部分。（界面新闻）</p>\n  <p><strong>胖东来生活广场店将于12月关闭，系运营20余年老店</strong></p>\n  <p>8月7日，于东来在直播中宣布，胖东来生活广场店将于2026年12月份关闭。他表示，品质不达标的关店。据悉，胖东来生活广场于2002年1月1日开业，营业面积23000平方米，业态涵盖超市、服装、餐饮、医药等是胖东来历史最悠久的门店之一。截至2025年6月，生活广场店销售额已超8亿元，在集团当时共13家门店中排名第五。（河南日报、快科技）</p>\n  <p><strong>西贝发布儿童餐安心承诺，多家门店称已不再用冷冻西兰花</strong></p>\n  <p>8月7日，西贝官方公众号发文，发布儿童餐 “5大安心承诺”。发文显示具体细则包括： 门店当天现做，餐餐热乎上桌，当日现场烹制，拒绝预制成品加热出餐；不添加鸡精、味精、香精、人工色素、防腐剂，规避各类人工添加物，适配孩童脆弱肠胃，相关标准可接受第三方检测核验；儿童餐专用档口、专用器具，后厨划出独立的儿童餐操作区域；升级8种有机食材，包含有机绿色蔬菜、有机胡萝卜、有机莜麦粉、有机挂面、有机亚麻籽油等；儿童食材选用更高标准，牛羊鱼肉只选取肉质细嫩部位，配菜优先选用贝贝南瓜等。据极目新闻，成都市一家西贝门店工作人员告诉记者，该门店已经有一段时间不再使用西兰花，现在用新鲜采购的有机蔬菜，每天早上运来现切现做。另外一家贵阳西贝门店工作人员也表示，现在已经不再使用西兰花，店里现在使用的蔬菜是有机青菜和胡萝卜，早上送过来早上加工，包括牛肉酱都是当天现炒。（极目新闻）</p>\n  <p><strong>国家税务总局：对境外保险收益征税并非新政策</strong></p>\n  <p>近日，有报道称，中国内地税务居民购买香港保险的收益被纳入征税范围，引发关注。对此，第一财经记者联系国家税务总局进行了采访。税务总局相关司局负责人指出，按照中国个人所得税法相关规定，中国税收居民需就全球所得履行纳税义务，境外保险收益也属于应纳税所得的范畴，这并非新政策，更不是专门针对香港保险市场，无需过度解读。（第一财经）</p>\n  <p><strong>北京：非京籍家庭购房社保个税缴纳年限下调为一年</strong></p>\n  <p>北京市住房和城乡建设委员会、北京市规划和自然资源委员会、北京住房公积金管理中心8月7日晚联合印发《关于进一步优化调整本市房地产政策的通知》，明确非京籍家庭购买五环内商品住房的社保或个税缴纳年限由“2年”，调减为“1年”。调整后，非京籍家庭在全市范围内购买商品住房的社保或个税缴纳年限统一为“1年”，购买商品住房的套数保持不变。即：社保或个税缴纳满1年的非京籍家庭，在五环内可购买1套商品住房，多子女家庭可再多购买1套；在五环外，不限购买套数。《通知》自8日起实施。（央视新闻）</p>\n  <p><strong>多地“兰州拉面”改名“青海拉面”</strong></p>\n  <p>近日，兰州拉面在多地试点改名“青海拉面”引发热议。布满全国大街小巷的“兰州拉面”，实际上绝大部分是青海人开的，兰州本地人称当地拉面为“兰州牛肉面”。上世纪80年代，青海化隆、尖扎群众外出谋生，借用兰州牛肉面名气打出“兰州拉面”招牌开店。但毕竟是冠了别人的名，牌子做大了之后总是会有一些让人无所适从的尴尬，这种身份认同上的冲突难以忽视。况且，目前“兰州拉面”商标处于无效状态，无法作为品牌进一步做大做强。青海省化隆县地方品牌产业培育促进局工作人员透露，改名属于“三店合一”一环，且是商家自愿参与，政府无权强制。（南方都市报）</p>\n  <p><strong>张朝阳：AI让内容产生了塑料感</strong></p>\n  <p>搜狐创始人、董事局主席兼首席执行官张朝阳在接受界面新闻等媒体采访时表示，真人互动与真实内容是AI永远替代不了的。信息获取和真人的沟通是两回事，AI目前取代不了人类交流。在信息海洋里，人更需要出来交流。AI时代，真实互动的环境更加难能可贵。聊到内容从业者的AI焦虑，他用一个比喻做了回应：“现在AI产生的东西，让媒体和内容产生了塑料的感觉。就像化肥催出来的西红柿，看着光鲜，吃着一点味道都没有；带点泥的胡萝卜，看着不是那么好看，但是很好吃、有味道。”（界面新闻）</p>\n  <p><strong>英伟达据悉调整Rubin Ultra内存方案，因先进存储供应面临压力</strong></p>\n  <p>8月7日，据报道，英伟达正在考虑减少下一代GPU产品Rubin Ultra的内存配置。英伟达已测试至少三个版本的Rubin Ultra，其中部分版本搭载的内存容量低于公司此前公布的设计方案。据报道，英伟达考虑采用较低内存版本的原因之一，是公司可能无法获得足够的先进存储芯片，以满足原始设计需求。目前Rubin Ultra的最终规格尚未确定，英伟达计划于明年年底前后推出该GPU产品。（界面新闻）</p>\n  <p><strong>河南回应带薪错峰休假通知：程序审签不规范</strong></p>\n  <p>据河南省人力资源和社会保障厅，《关于进一步推动落实职工带薪错峰休假的通知》（豫人社办〔2026〕53号）发布后，得到社会关注，并提出意见建议。鉴于该文相关表述���够准确，程序审签不规范，待修改后予以印发。（界面新闻）</p>\n  <p><strong>王兴兴：深耕具身智能，加速机器人造福社会</strong></p>\n  <p>8月7日，宇树科技科创板上市网上投资者交流会举行。宇树科技董事长、总经理兼首席技术官王兴兴在现场表示，本次登陆资本市场，是宇树科技全新的起点。“未来，我们将恪守初心，踏实打磨关键技术，持续深耕通用具身智能机器人核心技术研发与产业落地，让智能机器人更早、更好地为全社会服务。”</p>\n  <p>王兴兴还表示，宇树科技将持续攻坚具身大模型、场景数据采集与分析、强化学习、具身本体模型、核心零部件自研与高性能执行机构等软、硬件关键技术，并将积极探索人形机器人、四足机器人、机甲等更多的产品形态和型号，推动机器人承接高强度、高风险体力劳动，释放人类的创造力，推进机器人技术造福社会。（上海证券报）</p>\n  <p><strong>LG会长将于下周赴美会见黄仁勋，推进AI、机器人合作</strong></p>\n  <p>消息人士8月7日透露，LG集团会长具光谟将于下周在美国会晤英伟达首席执行官黄仁勋，推进双方在人工智能基础设施以及机器人领域的合作。这场会晤计划在硅谷举行，距离两位高管6月初于首尔会面时隔约两个月。早在6月8日双方会面时，黄仁勋便表示，这家美国芯片企业将与LG集团在人形机器人与下一代数据中心领域展开合作。（新浪财经）</p>\n  <p><strong>SK海力士将扩张芯片业务，投资超54万亿韩元</strong></p>\n  <p>SK海力士8月7日在韩国交易所披露，计划2031年4月30日前在韩国清州M17芯片厂投资19.1万亿韩元，以确保中长期产能以满足存储器市场需求；另外计划2031年10月31日前在龙仁半导体产业园投资35.2万亿韩元用于二期晶圆厂建设。（界面新闻）</p>\n  <p><strong>部分银行房贷利率降至2字头，但有多重门槛</strong></p>\n  <p>近日，社交平台上多位购房者晒出自己“2字头”的房贷利率截图，引发热议。记者调研发现，此类住房贷款多是五年期的存量贷款。8月6日，记者走访或致电北京、广州、杭州等地多家银行进行调研，发现多数银行房贷利率仍在3%及以上。部分外资银行能够提供利率低于2.8%的住房贷款，但银行设置了客户资质与合作渠道的多重门槛。此外，部分银行表示，虽然无法下调贷款利率，但可通过合作楼盘给购房者一定的房价优惠。(中国证券报)</p>\n  <p><strong>百胜中国完成收购必胜客品牌在中国内地所有权</strong></p>\n  <p>百胜中国8月7日宣布，公司已完成以12亿美元向美国百胜环球公司（Yum! Brands）收购必胜客品牌在中国内地所有权的交易。百胜中国称，交易完成后，必胜客中国无须再向美国百胜环球公司支付此前适用的特许经营费，所带来的成本节约预计将推动必胜客扣除增值税后的餐厅利润率和经营利润率提升2.8%。（界面新闻）</p>\n  <p><strong>MiniMax入港股通首日获内资青睐，净买入近27亿港元位列活跃股首位</strong></p>\n  <p>数据显示，在被调入港股通后的第一天交易日，MiniMax获南向资金净买入近27亿港元，在成交活跃股中位列净买入首位。MiniMax周四收涨逾17%。南向资金周四也买入建滔积层板、长飞光纤光缆等。南向资金周四整体净卖出14.6亿港元港股，腾讯控股、阿里巴巴、中芯国际等净卖出额居前。（新浪财经）</p>\n  <p><strong>美股收涨，标普创新高，光通信拉升，存储芯片低迷，SpaceX顶住解禁大涨15%，金银爆发</strong></p>\n  <p>8月7日美股全线上涨，7月非农下滑，市场下调美联储9月加息的预期。截至收盘，道琼斯工业平均指数上涨151.83点，涨幅0.28%，报54036.93点，纳斯达克综合指数上涨1.30%，报26690.62点，标普500指数涨0.62%，报7757.64点，创下历史新高。</p>\n  <p>本周道指上涨3.0%，纳斯达克指数上涨5.2%，标普500指数上涨3.6%。美股三大指数本周录得4月中旬以来最大单周涨幅；道琼斯、标普500本周早些时候创下历史新高。（第一财经）</p>\n  <p><strong>上海“恒大虹桥国际”将被拍卖，起拍价高达78.4亿元</strong></p>\n  <p>阿里资产平台显示，“恒大虹桥国际”项目土地使用权及在建工程将于8月31日10时开拍，起拍价约78.43亿元，保证金4亿元，加价幅度500万元，竞价周期1天。标的所属主体上海虹源盛世投资发展有限公司成立于2011年12月28日，最初由上海红星美凯龙、深圳盛世万象投资管理有限公司、沈阳首源投资管理有限公司共同出资设立，注册资本2亿元。2018年股东变更为恒大地产。（每经网）</p>\n  <p><strong>深圳二手豪宅成交回暖</strong></p>\n  <p>今年以来，深圳豪宅市场热度持续攀升。除了多个豪宅新房项目持续热销，二手房市场上的豪宅成交也明显回暖。深圳贝壳研究院监测显示，7月总价1500万元以上二手豪宅签约量同比增长11%，达到近6年来的峰值。与此同时，总价千万级二手房成交均价为101504元/平方米，环比上涨5.7%，同比上涨8.4%。深圳贝壳研究院院长肖小平指出，深圳楼市“4·29新政”降低核心区购房门槛后，本地高净值家庭置换需求及外地资产配置客群入场增加，推动南山、福田核心区域高端物业成交持续升温，价格稳步抬升。（证券时报）</p>\n  <h2>大公司财报</h2>\n  <p><strong>寒武纪：上半年净利润23.11亿元，同比增122.61%</strong></p>\n  <p>36氪获悉，寒武纪发布2026年半年度报告，2026年上半年营业收入59.96亿元，同比增长108.13%；归属于上市公司股东的净利润23.11亿元，同比增长122.61%。</p>\n  <h2>投融资</h2>\n  <p><strong>澳大利亚AI基础设施公司Firmus完成20亿美元融资，英伟达、黑石等参投</strong></p>\n  <p>8月7日，澳大利亚人工智能基础设施公司Firmus宣布完成20亿美元战略股权融资，投资方包括英伟达、Coatue，以及由黑石集团管理的基金和其他黑石投资工具，全球交易与科技公司Jane Street也参与投资。Firmus表示，此轮融资将用于加速其“Southgate AI Factory”项目在澳大利亚的布局，并为未来拓展亚太其他市场做准备。（界面新闻）</p>\n  <h2>酷产品</h2>\n  <p><strong>OpenAI首款面向消费者的设备外形类似甜甜圈，售价或超300美元</strong></p>\n  <p>知情人士称，OpenAI备受期待的新设备将采用独特外形，并配备可动部件，这赋予其更鲜明的人格特征，售价可能超过300美元。因相关工作保密而要求匿名的知情人士称，这款产品大体上是一款没有显示屏的智能音箱，外形类似甜甜圈，大小约与冰球相当。设计理念是让用户能够单手拿着设备在家中移动。OpenAI希望通过这款计划于2027年发布的产品开辟新领域。（新浪财经）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_ea8949c3f7d54d7aa48ce2ed1e844221@6100851_oswg263819oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">@PatentlyApple 制作的渲染图</p>\n  <p><strong>整理</strong>｜王倚轩</p>",
-      "category": "tech",
-      "published_at": "2026-08-08T00:45:59+00:00",
-      "fetched_at": "2026-08-08T01:13:52.282090+00:00",
-      "fingerprint": "54626bef687f4eb7"
-    },
-    {
-      "source": "少数派",
-      "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
-      "url": "https://sspai.com/post/113144",
-      "summary": "当我坐下来，这个小角落就慢慢有了属于我的声音。<a href=\"https://sspai.com/post/113144\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-07T02:15:51+00:00",
-      "fetched_at": "2026-08-08T01:13:50.372918+00:00",
-      "fingerprint": "9a2586249879b664"
-    },
-    {
-      "source": "少数派",
-      "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
-      "url": "https://sspai.com/post/113108",
-      "summary": "编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...<a href=\"https://sspai.com/post/113108\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-07T07:39:58+00:00",
-      "fetched_at": "2026-08-08T01:13:50.372910+00:00",
-      "fingerprint": "18986bc3572f2c1c"
-    },
-    {
-      "source": "少数派",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "url": "https://sspai.com/post/113191",
-      "summary": "📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ...<a href=\"https://sspai.com/post/113191\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-07T09:52:38+00:00",
-      "fetched_at": "2026-08-08T01:13:50.372898+00:00",
-      "fingerprint": "80c9ffb4745f127d"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7506 CNY ↓-0.05%",
-      "url": "https://www.frankfurter.app/2026-08-07?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-08-07</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7506 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0022 (-0.05%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-08-08T01:13:49.123783+00:00",
-      "fingerprint": "bc6073e0d312f9ec"
     }
   ]
 }
