@@ -1,7 +1,237 @@
 {
-  "updated_at": "2026-08-16T01:01:03.800154+00:00",
-  "count": 202,
+  "updated_at": "2026-08-17T00:58:35.097650+00:00",
+  "count": 209,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+      "summary": "<p>At least 2,325 people have been killed, according to government data, surpassing the death toll from 2018-20 outbreak</p><p>The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country’s history with at least 2,325 people killed, according to government data, surpassing the toll from the 2018-20 outbreak.</p><p>Congo’s public health institute said on Sunday that confirmed cases had risen to 4,945, including 101 new cases detected in the previous 24 hours.</p> <a href=\"https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-17T00:09:57+00:00",
+      "fetched_at": "2026-08-17T00:58:35.092709+00:00",
+      "fingerprint": "bd939fff27ba3919"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "category": "politics",
+      "published_at": "2026-08-16T19:50:36+00:00",
+      "fetched_at": "2026-08-17T00:58:34.937037+00:00",
+      "fingerprint": "e70def7fc709063c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "category": "politics",
+      "published_at": "2026-08-16T19:03:04+00:00",
+      "fetched_at": "2026-08-17T00:58:34.937032+00:00",
+      "fingerprint": "3e4682c2422b9ff8"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "category": "politics",
+      "published_at": "2026-08-16T19:58:14+00:00",
+      "fetched_at": "2026-08-17T00:58:34.937026+00:00",
+      "fingerprint": "1d1670d87b52dcba"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "category": "politics",
+      "published_at": "2026-08-17T00:06:05+00:00",
+      "fetched_at": "2026-08-17T00:58:34.937016+00:00",
+      "fingerprint": "5517ec00a7fb2fbc"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "外國超市為何總讓遊客們樂不思蜀",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyj01086yvo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "從東京的雞蛋三文治到希臘的乳製品貨架，超市貨架通道正成為旅遊中最能揭示當地特色、也最受喜愛的體驗之一。",
+      "category": "politics",
+      "published_at": "2026-08-17T00:05:40+00:00",
+      "fetched_at": "2026-08-17T00:58:34.741171+00:00",
+      "fingerprint": "8e2bf646f70c7adb"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「我從20多歲開始賺了8000英鎊」：為何女性總是更懂投資？",
+      "url": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "女性可以獲得更高的回報，但英國只有約四分之一的女性擁有投資，相比之下，男性的比例約為40%。",
+      "category": "politics",
+      "published_at": "2026-08-17T00:05:37+00:00",
+      "fetched_at": "2026-08-17T00:58:34.741164+00:00",
+      "fingerprint": "e065706c21bd7cac"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "為何Z世代女性比母親一代更了解月經？",
+      "url": "https://www.bbc.com/zhongwen/articles/cr49931x112o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "從多囊性卵巢症候群到「生理週期同步」，愈來愈多年輕女性表示，她們正把新學到的月經知識分享給母親一代。",
+      "category": "politics",
+      "published_at": "2026-08-16T08:34:23+00:00",
+      "fetched_at": "2026-08-17T00:58:34.741158+00:00",
+      "fingerprint": "bc3a9c5c306b1bf4"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "劍橋大學教授阿爾戴之死勢將在分裂的學術界引發震盪",
+      "url": "https://www.bbc.com/zhongwen/articles/c3044704219o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "圍繞學術研究的爭議很少演變成全國性公共討論，但這次事件因涉及英國頂尖學府劍橋大學及其備受關注的學者而引發廣泛關注。這位教授曾公開講述自己作為自閉症患者直到11歲才開始說話、18歲才學會讀寫的非凡成長經歷。",
+      "category": "politics",
+      "published_at": "2026-08-16T03:50:04+00:00",
+      "fetched_at": "2026-08-17T00:58:34.741152+00:00",
+      "fingerprint": "71176fc435dd8220"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "靖國神社：81年後，為何一次參拜仍能牽動東亞？",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8nn1g2y26o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "高市早苗今年選擇不親自參拜靖國，卻以奉納玉串料及「遙拜」表達敬意，而靖國所供奉的甲級戰犯、戰爭記憶與日本日益強化的安全政策，仍讓這座神社成為中日韓外交爭議的焦點。",
+      "category": "politics",
+      "published_at": "2026-08-16T10:44:03+00:00",
+      "fetched_at": "2026-08-17T00:58:34.741143+00:00",
+      "fingerprint": "49fc601709eb0df2"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "A quick look at zero-knowledge proofs",
+      "url": "https://bernsteinbear.com/blog/zkp/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-17T00:58:34.235697+00:00",
+      "fingerprint": "dd1569f1bed2be76"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Low-Tech Ceramic Water Filter",
+      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-17T00:58:34.235546+00:00",
+      "fingerprint": "f48e6ab18d96d80f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-17T00:58:34.235402+00:00",
+      "fingerprint": "220a4170687863ab"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-17T00:58:34.235255+00:00",
+      "fingerprint": "eb4edca3b5b87822"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-17T00:58:34.235094+00:00",
+      "fingerprint": "0ef5795694b3dbb2"
+    },
+    {
+      "source": "The Verge",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-16T14:56:40+00:00",
+      "fetched_at": "2026-08-17T00:58:34.023076+00:00",
+      "fingerprint": "99f79a191e7351c9"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon is trying to crush class-action suits before they get started",
+      "url": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-16T17:35:02+00:00",
+      "fetched_at": "2026-08-17T00:58:34.023070+00:00",
+      "fingerprint": "dba4ca149f58c3fa"
+    },
+    {
+      "source": "The Verge",
+      "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+      "url": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "summary": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-16T20:31:37+00:00",
+      "fetched_at": "2026-08-17T00:58:34.023063+00:00",
+      "fingerprint": "e85ee583580cef8b"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-16T21:32:56+00:00",
+      "fetched_at": "2026-08-17T00:58:34.023054+00:00",
+      "fingerprint": "d1b7ed52e00e3aef"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨Anthropic有望2万亿美元估值上市；旺旺集团面临重大经营危机；Sorry勒索病毒正在国内传播",
+      "url": "https://36kr.com/p/3942852697652356?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>宇树科技未上市先疯抢，部分中介出价520元/股</p>\n  <p>SK海力士董事长道歉，价格涨太快我很抱歉</p>\n  <p>段永平1300亿持仓曝光，大幅减持英伟达、谷歌</p>\n  <p>美图RoboNeo正式上线短剧专业版</p>\n  <p>小熊电器上半年净利下降4成，海外增长未能对冲国内压力</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>Anthropic有望2万亿美元估值上市，成为史上规模最大的IPO</strong></p>\n  <p>《财富》（fortune）8月13日发布博文，报道称Anthropic计划2026年10月以2万亿美元（现汇率约合13.51万亿元人民币）估值IPO上市，其规模将超过SpaceX，成为史上规模最大的IPO。业内指出，Anthropic已于6月向美国证券交易委员会秘密提交IPO相关文件，进入静默期，受此约束，企业不得对外发布涉及自身财务表现的公开信息。</p>\n  <p>今年Anthropic推出多款性能优于竞品的模型，同时聚焦面向企业客户的销售业务。公司于5月公布其年化营收已经突破470亿美元（现汇率约合3,175.75亿元人民币）。（IT之家）</p>\n  <p><strong>旺旺创始人发布公开信：旺旺集团面临重大经营危机</strong></p>\n  <p>近日，旺旺集团创始人蔡衍明一封内部公开信在网络上传播。信中直言公司第一季度业绩及利润表现未达预期，将其定性为“重大经营危机”，要求内部反思产品创新不足、渠道老化等深层问题。不少网友对旺旺情怀仍在，纷纷为其支招，其中最高频的建议为减糖，15日，“旺旺最大的对手竟是糖”登上微博热搜。</p>\n  <p>记者注意到，随后，“旺仔俱乐部”发布了一篇图文回应网友们的减糖呼声，晒出一系列无糖及低糖的旺旺新品，其中包括饮料、零食等。这篇图文提到，“未来将继续勇于尝试，努力成为更好的旺旺。”（北京日报）</p>\n  <p><strong>网络安全预警：Sorry勒索病毒正在国内传播</strong></p>\n  <p>近日，国家计算机病毒应急处理中心、计算机病毒防治技术国家工程实验室联合发布安全预警，中国境内已出现多起“Sorry”勒索病毒攻击案例。该病毒入侵后会加密用户设备内全部重要文件，统一追加“Sorry”后缀，同时留存勒索信。</p>\n  <p>不同于普通恶意程序需要用户手动点击、授权安装，“Sorry”勒索病毒可借助系统漏洞实现无感入侵，隐蔽性、攻击性更强。记者走访网络安全专家，通过实景测试完整还原病毒加密、勒索的全流程。专家表示，这次的勒索病毒，与以往大多数需要欺骗网民主动安装的程序不同，而是通过系统漏洞，直接登录服务器，入侵过程用户毫无感知。（央视网）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型</strong></p>\n  <p>阿里巴巴旗下Agent产品“千问办公”首发上线GLM-5.3和DeepSeek V4 Pro两款前沿模型。即日起，用户可在产品首页的“前沿模型”档位直接选用。加上此前首发上线的Qwen3.8-Max，千问办公目前已支持三款国产旗舰模型。</p>\n  <p><strong>英伟达据悉拟向软银旗下SB Energy投资30亿美元</strong></p>\n  <p>8月16日，据报道，英伟达正就向软银旗下SB Energy投资最多30亿美元进行谈判。SB Energy正在美国俄亥俄州开发一个大型数据中心项目，为OpenAI提供算力基础设施。据悉，该投资是英伟达、OpenAI与SB Energy围绕俄亥俄州数据中心项目提供约1000亿美元信贷支持的谈判组成部分。英伟达拟在项目签署时投资约15亿美元，其余资金可能通过SB Energy计划中的首次公开募股（IPO）投入。SB Energy最快拟于9月上市，预计募资至少50亿美元。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>知情人士回应追觅大家电解散：业务正常做</strong></p>\n  <p>近日，“网传追觅大家电解散”相关话题登上微博热搜，引发广泛关注。据流出内容，疑似追觅AWE期间冰箱相关业务供应商存在未结款情况，打算组团维权，引发大量供应商评论并唱衰追觅。部分人员甚至牵扯提及追觅裁员缩减、创始人俞浩卖掉私人飞机等事。</p>\n  <p>对于前述消息，截至发稿公司暂无回应。记者注意，目前发布该帖子的供应商已经删除相关内容。有接近追觅的知情人士透露，目前相关业务仍在“正常做”。（新浪科技）</p>\n  <p><strong>宇树科技未上市先疯抢，部分中介出价520元/股</strong></p>\n  <p>宇树科技场外“暗盘交易”悄然兴起。目前多家中介通过各类渠道收购该股新股，报价分歧较大，部分中介出价520元/股（发行价150.8元/股），亦有中介报价410元/股；不少中签者也主动上网寻觅买家。值得注意的是，这类“暗盘交易”以往常见于北交所新股，近期正向科创板明星股扩散。记者此前注意到，在长鑫科技上市前，也有中介高价回收该股新股，当时中介的报价是36元/股（发行价8.66元/股）。（券商中国）</p>\n  <p><strong>SK海力士董事长道歉，价格涨太快我很抱歉</strong></p>\n  <p>日前，SK集团会长崔泰源在SK海力士韩国总部接受媒体采访时，用这样的措辞形容当前的存储芯片市场。“价格涨得太快了，对此我真的很抱歉。”崔泰源表示。这并非崔泰源首次发出警告。今年7月，SK海力士在纳斯达克上市之际，他就曾指出AI时代内存需求呈指数级增长，未来五年产能翻倍仍难满足。而在此次专访中，他的预判更加具体、也更加紧迫。（上海证券报）</p>\n  <p><strong>黄仁勋投了马斯克210亿美元，为SpaceX第六大投资者</strong></p>\n  <p>英伟达当地时间14日向美国证券交易委员会提交的监管文件显示，截至今年二季度末，公司持有马斯克旗下SpaceX约1.228亿股A类股票，价值约210亿美元，为SpaceX第六大投资者。</p>\n  <p>根据金融数据机构FactSet的数据，SpaceX第一大股东为马斯克本人，按二季度末股价测算，其持股账面价值约8500亿美元。而英伟达的210亿美元持仓是该公司第二大股权持仓，仅次于英特尔。受近期SpaceX股价回调影响，该持仓当前市值已缩水。SpaceX股价14日收于140美元，较6月底的170.86美元下跌约18%，英伟达持股对应市值降至约172亿美元。报道称，英伟达对SpaceX的持股并非直接买入，而是源于今年1月对马斯克人工智能公司xAI的100亿美元投资。2月，SpaceX 以换股形式收购xAI，合并后实体估值1.25万亿美元，英伟达持有的xAI股权由此转换为SpaceX股权。（21世纪经济报道）</p>\n  <p><strong>段永平1300亿持仓曝光，大幅减持英伟达、谷歌&nbsp;</strong></p>\n  <p>截至二季度末，由段永平管理的H&amp;H International Investment基金总持仓市值约191亿美元，约合人民币1370亿元，较去年四季度末的200亿美元有所下降。二季度，段永平继续增持拼多多，重新买入阿里巴巴，同时减持苹果、英伟达、谷歌、微软等，清仓台积电、CrowdStrike等个股。（证券时报）</p>\n  <p><strong>今年以来港股IPO基石投资额同比增长158.3%&nbsp;</strong></p>\n  <p>今年以来，越来越多的机构投资者参与港股IPO基石投资。数据显示，截至8月14日，年内共有102家公司在港交所上市，募资总额达3287.58亿港元，同比增长154.17%。其中，84家公司IPO引入了基石投资者，涉及951笔投资，同比增长291%；基石投资额1392.1亿港元，同比增长158.3%。（证券日报）</p>\n  <p><strong>SK海力士上半年人均薪酬68.7万，较去年同期增长约23%</strong></p>\n  <p>SK海力士今年上半年营业总收入131.90万亿韩元（现汇率约合6,292.95亿元人民币），同比增长230.8%; 归母净利润134.15万亿韩元（现汇率约合6,400.3亿元人民币），同比增长788.16%；毛利率81.63%，同比增长26.24个百分点。财报显示，SK 海力士今年上半年公司员工人均薪酬为1.44亿韩元（现汇率约合68.7万元人民币），较去年同期的1.17亿韩元（现汇率约合55.8万元人民币）增长约23%。（IT之家）</p>\n  <p><strong>摩根大通：明年或爆发全球粮食危机，全球食品通胀率将从2.8%升至5%</strong></p>\n  <p>摩根大通日前警告称，下一轮全球粮食危机可能正在酝酿之中，或于明年爆发。该行分析师将驱动因素归结为“五个W”：战争（War）、天气（Weather）、仓储（Warehousing）、水（Water）和浪费（Waste）。</p>\n  <p>在一份题为《粮食安全即国家安全：一场不断叠加的风暴》（Food Security Is National Security: A Compounding Storm）的新报告中，由驻伦敦资深全球经济学家Nora Szentivanyi领衔的团队警告称，霍尔木兹海峡航运中断，以及潜在的历史级超强厄尔尼诺现象的出现，可能会削弱农作物产量、制约农业生产，并使食品通胀在2027年上半年持续居高不下。她预计，全球食品通胀率将从2026年上半年的2.8%加速升至明年上半年的5%。（新浪财经）</p>\n  <p><strong>上海迪士尼正扩建“飞越地平线”，第九大主题园区建设迎新进展</strong></p>\n  <p>第九大主题园区——蜘蛛侠主题园区建设迎来又一重要里程碑。继今年6月主题园区游乐设备轨道安装完成后，首批乘骑设备已于数日前就位，乘骑设备调试工作即将启动。上述消息于正在美国加利福尼亚州召开的迪士尼终极粉丝大会D23（以下简称“D23粉丝大会”）公布。此外，上海迪士尼乐园内标志性主题景点“翱翔·飞越地平线”的扩建工作正在同步推进；毗邻乐园的两座全新主题酒店的扩建工作也在进行中。（红星新闻）</p>\n  <p><strong>哈佛持有价值22亿美元SpaceX股份</strong></p>\n  <p>哈佛大学投资管理机构披露持有价值22亿美元SpaceX股份。这家机构早年投资埃隆・马斯克旗下火箭企业，在SpaceX重磅上市后收获巨额回报。哈佛管理公司于周五在监管申报文件中披露该持仓。在其规模43亿美元的美股投资组合里，SpaceX成为持仓市值最高的单一标的。这笔持仓充分体现：SpaceX在6月创下纪录的IPO，为一众大学捐赠基金带来丰厚收益。不少高校捐赠基金早在十余年前就通过风投渠道布局这家公司。根据最新公开数据，截至2025年6月，哈佛管理公司管理资产规模约570亿美元。并非只有哈佛受益于SpaceX登陆公开市场。加州大学旗下投资机构申报文件显示，持有价值约10亿美元SpaceX股票；北卡罗来纳大学、圣路易斯华盛顿大学同样持有该公司投资。</p>\n  <p><strong>李录大举加仓拼多多，持仓仅剩8只&nbsp;</strong></p>\n  <p>李录掌管的喜马拉雅基金，则大手笔清仓美国银行、西方石油、穆迪、标普全球、MSCI、H&amp;R Block等6只个股，同时大举加仓拼多多和伯克希尔B股。其中，拼多多更是被翻倍增持。截至二季度末，喜马拉雅基金总持仓市值由上季末的32亿美元升至37亿美元，持仓数量则进一步压缩至8只。（证券时报）</p>\n  <p><strong>美图RoboNeo正式上线短剧专业版</strong></p>\n  <p>36氪获悉，美图RoboNeo正式上线短剧专业版。美图RoboNeo短剧专业版围绕短剧洞察、3D场景搭建、团队协作及创作资产管理四大方向进行能力升级。官方资产库提供服装、发型、配饰、场景等素材，并支持快速生成角色三视图。</p>\n  <p><strong>澳研究人员利用干细胞培育出人类心脏瓣膜组织</strong></p>\n  <p>澳大利亚研究人员日前利用干细胞在实验室培育出人类心脏瓣膜组织，可用于研究心脏瓣膜的发育和病变过程，并可用于测试相关疾病的治疗方法。研究成果已发表在美国《细胞－干细胞》杂志上。澳大利亚默多克儿童研究所发布消息说，由该机构牵头的研究团队培育出的组织能够再现人类心脏瓣膜的分子特征和复杂结构。</p>\n  <p>研究团队成员霍莉·福格斯说，这项成果解决了心脏瓣膜生物学研究中的一项重要难题。此次培育出的组织有助于研究心脏瓣膜如何发育、成熟并发生病变，也可用于在实验室中测试潜在治疗方法。研究人员还用培育出的组织开展了炎症性瓣膜疾病相关测试。实验显示，当培育出的组织接触与风湿性心脏病相关的炎症蛋白后，组织变得僵硬，并出现与患病人类心脏瓣膜相符的生物标志物。（央视新闻）</p>\n  <p><strong>伯克希尔·哈撒韦第二季度增持谷歌</strong></p>\n  <p>当地时间8月14日，据报道，伯克希尔·哈撒韦在第二季度清仓了星座品牌（STZ）；减持了克罗格（KR）、第一资本金融（COF）、纽柯钢铁（NUE）、Ally金融（ALLY）、达维塔（DVA）。增持了谷歌A（GOOGL）、谷歌（GOOG）、达美航空（DAL）、莱纳房屋（LEN）、梅西百货（M）。（界面新闻）</p>\n  <h2>上市进行时</h2>\n  <p><strong>迈时光电IPO辅导备案获受理</strong></p>\n  <p>中国证监会公示信息显示，苏州迈时光电股份有限公司的上市辅导备案申请于8月14日获受理，辅导机构为国泰海通证券。此次辅导备案获受理，标志着迈时光电进入上市辅导阶段。迈时光电成立于2015年，是一家在全球光互联领域具备垂直整合能力的平台型光学技术企业，长期专注于无源光器件的研发、生产与销售。（投中网）</p>\n  <h2>大公司财报</h2>\n  <p><strong>Anthropic第二财季营收超过115亿美元，较上年同期飙升至少13倍</strong></p>\n  <p>Anthropic PBC向潜在投资者表示，其第二季度营收较上年同期增长至少13倍。文件显示，Anthropic最近一个完整季度的初步营收超过115亿美元，2025年同期为7.87亿美元，今年第一季度为47.3亿美元。文件还显示，Anthropic在2026年第二季度调整后营业利润转为正值。相关讨论仍在进行中，这些数据仍可能调整。（财联社）</p>\n  <p><strong>小熊电器上半年净利下降4成，海外增长未能对冲国内压力</strong></p>\n  <p>8月13日，小熊电器披露2026年半年度报告。上半年，公司实现营业收入23.49亿元，同比下降7.34%；归属于上市公司股东的净利润1.20亿元，同比下降41.30%；扣非净利润1.09亿元，同比下降41.59%。利润降幅明显高于收入，反映出需求走弱之外，公司还面临成本、费用及业务结构变化带来的压力。（华尔街见闻）</p>\n  <p>整理｜何雨婷&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-17T00:01:57+00:00",
+      "fetched_at": "2026-08-17T00:58:33.929022+00:00",
+      "fingerprint": "eff329a952264452"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "科创板上市公司投资脑机接口，微灵医疗获超亿元融资  ｜36氪独家",
+      "url": "https://36kr.com/p/3941648190242185?f=rss",
+      "summary": "<p>文｜刘凌果 胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪独家获悉，医学脑机接口企业微灵医疗，近日完成超亿元人民币融资。本轮融资由君重资本领投,英诺特（688253.SH）作为该基金的核心产业出资人，募集资金将重点用于推进植入式脑机接口核心产品的临床验证，加快医疗器械注册申报进程，完善生产制造体系建设，并持续拓展面向神经功能修复领域的临床应用布局。此前，微灵医疗已获得高榕资本、生命园创投、鼎晖投资、力合科创等多家一线投资机构加持。</p>\n  <p>微灵医疗成立于2019年，是36氪持续跟踪的脑机接口企业。“让天下没有难治的脑病。”是微灵贴在总部墙壁上的一句话。这个聚焦于严肃医疗的愿景，在当下水温沸腾的脑机接口赛道，似乎不如“人机交互”显得性感。</p>\n  <p>执着于治疗脑疾病，与创始人李骁健的学术履历、所接受的科学训练强相关。过去二十余年，李骁健的研究一直围绕大脑功能解析和脑疾病干预治疗展开。</p>\n  <p>从中科院生物物理研究所博士毕业后，李骁健在美国佐治亚医学院、西北大学芬博格医学院工作近10年。回国后，他加入中国科学院深圳先进技术研究院开展脑机接口技术研发，现为南方医科大学粤港澳大湾区脑科学与类脑研究中心和珠江医院双聘教授。</p>\n  <p>最近，李骁健因关于投资人的大胆“开麦”在圈内引发热议。在他看来，大家对脑机接口市场前景各有理解，无可厚非。“有人看好人机交互的想象空间，有人聚焦消费级应用的潜力。”但需要警惕的是“只关注太远的未来，忽略眼前的风险和困境”。</p>\n  <p>脑机接口问世50年，真正推进临床研究也不过是这几年的事。“踏踏实实先做好严肃医疗场景”，把技术积累扎实，是李骁健心中更好的选择。</p>\n  <p>在这个维度上，他找到的可行路径是：既然损伤就在大脑，就先修复大脑。“脑损伤患者往往因神经受损、神经信号无法有效传导，从而丧失或部分丧失对肢体的控制能力。但如果患者的大脑能正常产生运动意图，我们其实可以通过脑机接口技术修复受损的神经通路，实现脑网络的重塑。”</p>\n  <p>在李骁健看来，“脑”是脑机接口技术无可动摇的核心，而“机”是服务于脑的，通过引导脑网络的重塑过程，不但可以修复脑损伤，更可以发掘和推高大脑潜能。</p>\n  <p>比如，对于因脑卒中、脑外伤等脑损伤而导致运动功能受损的患者来说，“重获对原生肢体的控制能力能为患者带来更为直接的获益”；对于神经损伤过重，修复空间较小的患者来说，可以考虑部分功能修复、部分功能替代的协同方案。</p>\n  <p>微灵医疗这一覆盖神经功能恢复全过程的技术体系，被李骁健概括为“先诊后治，修替一体”。“国际上有好几个团队都造了脑机接口这把‘枪’，现在的关键问题是，靶在哪里？”</p>\n  <p>精准诊治脑疾病、保护修复脑神经，是他认为当下最迫切的临床需求，也是脑机接口证明自身确切临床价值的起点。</p>\n  <h2><strong>修复神经，</strong></h2>\n  <h2><strong>一场关于“重塑”的系统性工程</strong></h2>\n  <p>“修复神经”乍一听有些玄妙，其底层科学依据是大脑的神经可塑性。需要澄清的是，这里的“修复”，并非让已坏死的神经组织“复活”，而是借助植入式脑机接口通过脑机训练，让患者残存的神经环路重新组织，形成功能代偿。</p>\n  <p>李骁健将这一过程概括为神经系统的“网络重组、环路重塑和功能重建”：脑损伤后，原有神经网络会发生重组，脑机训练可以引导受损环路代偿性重塑，最终，新的环路实现原生功能的重建。这个过程中，脑机接口扮演的是“教练”角色，环路中的神经元是“运动员”。脑机接口训练残存的神经元学会代偿那些受损的神经元，重新联通中断的神经环路。</p>\n  <p>微灵医疗在全植入式脑机接口方面的系统性能力，并非只体现在某款面向具体适应症的医疗器械上，而是进一步延伸为一套植入式脑机接口临床平台。</p>\n  <p>它的硬件部分由电子植入体、体外控制器与神经刺激器、外骨骼等效应辅具组成，通过无线方式供电和传输皮层脑电信号。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260816/v2_05da48ccf9cf4130a8b153e903ac5c8e@5930287_oswg455361oswg1080oswg500_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">微灵医疗产品矩阵示意</p>\n  <p>其中，柔性薄膜皮层电极是这套系统贴近大脑的“触角”。据介绍，微灵的柔性电极厚约10微米，单片覆盖数厘米长宽。电极铺于脑皮层表面，不刺入脑组织，可以在较大范围内采集不同脑区的神经活动。李骁健表示，电极片的形貌、触点间距和大小以及植入位置和周期等技术参数，都由要解决的具体临床问题决定。</p>\n  <p>由此，脑机接口定制平台为探索不同适应症的脑机疗法提供了灵活调整的空间，让治疗方案可以“因病而异”。“设备的外观看起来可能差不多，但放置的脑内环路靶区不一样，电极形貌也会不同；包括芯片的功能，采集和刺激的通道配置，也不一样。”李骁健说。</p>\n  <p>据了解，该植入式脑机接口系统用于严重脑损伤患者神经修复的定制款已启动IIT（研究者发起临床）研究。今年6月中旬，广东某医院完成了该款脑机接口植入体的植入手术。</p>\n  <p>李骁健介绍，受试患者一年半前脑干出血致昏迷，经抢救后意识逐渐清醒，但因脑干损伤导致“闭锁综合征”，已退化到微意识状态。闭锁综合征患者也被形容为“清醒的囚徒”，患者虽意识完全清醒，但全身瘫软，无法说话、活动，只有眼球微动。“或许只有脑机接口能帮帮他了。”</p>\n  <p>接受脑机接口植入手术后，该患者进行了约一周的艰难脑机训练，恢复到了清醒的“闭锁态”；再经过四周的植入式脑机治疗，患者的左上肢已经由完全瘫软状态提升到可完成独立抬起小臂、轻松抬腕等多个手势，并能捏住轻小物体。下一阶段，患者有望使用遥控手柄与外界进行轻度交互。</p>\n  <p>“从患者受益角度，要先把闭锁态打开个突破口，让他能够跟家属进行简单交流。先恢复一只手的活动力对患者的受益很关键，且关掉脑机系统不影响继续使用，因为手是他自己控制的。”李骁健表示。</p>\n  <p>之所以一上来就做高难度的“脑机原位功能重建”，主要考量在于：“我们有深厚的理论功底和技术支撑，先在需求最迫切、治疗条件最困难的重症病例中验证安全有效，后面做损伤程度较轻的适应症，应该更加从容了。”特别是危重症患者对新疗法的需求更为迫切，从伦理角度，也更容易获得开展临床试验的支持。</p>\n  <p>基于此，微灵现阶段仍将资源聚焦在更明确的中枢神经系统疾病和患者群体上。据了解，公司计划继续扩展临床研究试验，以进一步覆盖更广泛的脑疾病类型。</p>\n  <h2><strong>读出脑功能边界，</strong></h2>\n  <h2><strong>辅助医生精准决策</strong></h2>\n  <p>如果说，修复是神经发生损伤之后重建信号通路。有没有可能，赶在神经功能被疾病带走前，先找到它，保住它？</p>\n  <p>当前，微灵医疗另一个重要研究课题就是“如何在神经功能尚未受损前，识别并保护关键脑功能区域”。针对这一临床需求，公司推出面向脑功能保护的辅助诊断系列产品，由柔性薄膜皮层电极、高通量颅内脑电图机和智能解码软件共同构成。</p>\n  <p>其中，柔性薄膜皮层电极阵列，可贴附于患者脑皮层表面采集高通量神经电生理信号，空间分辨率达亚毫米级别，并已经过数百例临床实验验证，进入三类医疗器械注册阶段。</p>\n  <p>与之配套的高通量颅内脑电图机，专为神经外科设计，可与分析软件配合，用于辅助诊断场景。</p>\n  <p>针对癫痫、帕金森、抑郁症、意识障碍等神经功能性疾病，该系统可有效弥补 CT、核磁等传统影像学检查的局限。“影像观察的是脑部结构，脑机接口技术定位的是脑功能区。” 李骁健表示。</p>\n  <p>以癫痫为例，致痫灶的异常放电具有动态特征，传统影像往往难以完整呈现异常放电起源与信号传播路径，脑机接口技术则可以持续采集并解析不同脑区的神经电信号，为致痫灶的精准定位提供依据。</p>\n  <p>对于脑肿瘤、脑出血等器质性病变，微灵医疗的产品可协助医生区分病灶与重要脑功能区的位置关系，缓解临床上“最大化切除病灶”与“最大程度保留脑功能”之间的现实矛盾。</p>\n  <p>李骁健介绍，肿瘤侵入可能形成对原有功能区的挤占，而语言、运动等脑功能出于代偿，可能迁移至邻近区域，导致病灶与重要功能区相互交错，使得医生在切除病灶时容易误伤关键功能区，增加引发失语、瘫痪等术后功能缺损的风险。</p>\n  <p>对此，微灵的解决思路是，通过在脑皮层表面贴附柔性薄膜电极，实时采集并解码脑电信号，实现毫米级空间分辨率的脑功能区测绘，为外科手术提供功能层面的导航参考，辅助医生精准操作。</p>\n  <p>简单理解，就是直接读取患者脑内的神经活动，把功能区“画”出来。在“术中唤醒”状态下，患者按照指令完成肢体运动、语言等任务，系统实时分析并呈现功能区，辅助医生精准操作。</p>\n  <p>之所以选择将电极贴在脑皮层表面，也是为了把这张功能图尽可能“画全”。在辅助诊断场景下，首要任务是看清语言、运动等多功能区的分布范围，毫米级空间分辨率便可满足临床需求。贴附脑皮层表面的路径不仅可以减少损伤，也能实现较大面积的信号覆盖。</p>\n  <p>商业化方面，在面向脑保护的辅助诊断方向上，微灵医疗的颅内高通量脑电图机和配套的多款脑皮层薄膜电极阵列正在注册阶段，预计将在未来1-2年内陆续获批上市；在脑损伤修复和脑疾病治疗方向上，微灵医疗全植入式脑机接口系统将持续推进多中心临床试验，并启动面向广泛适应症的临床探索。</p>",
+      "category": "tech",
+      "published_at": "2026-08-17T00:30:00+00:00",
+      "fetched_at": "2026-08-17T00:58:33.929007+00:00",
+      "fingerprint": "4831809392252f5b"
+    },
+    {
+      "source": "少数派",
+      "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+      "url": "https://sspai.com/post/113495",
+      "summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？<a href=\"https://sspai.com/post/113495\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-16T04:48:21+00:00",
+      "fetched_at": "2026-08-17T00:58:32.544696+00:00",
+      "fingerprint": "160e7a4da950c999"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：😭（放声大哭）成为最流行 emoji",
+      "url": "https://sspai.com/post/113524",
+      "summary": "<p>😭（放声大哭）成为最流行 emoji</p><p>美国要求合作方在中美 AI 竞赛中「选边站」</p><p>ChatGPT 上线使用历史记录功能</p><p>美国政府敦促苹果不要购买中国内存芯片</p><p>uBlock Origin 放弃维护 Facebook 广告规则</p><p>索尼加速向娱乐业务转型</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/113524\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-16T22:54:56+00:00",
+      "fetched_at": "2026-08-17T00:58:32.544684+00:00",
+      "fingerprint": "62f4a4fd0a9a158b"
+    },
     {
       "source": "The Guardian - World",
       "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
@@ -1861,166 +2091,6 @@
       "published_at": "2026-08-09T23:08:03+00:00",
       "fetched_at": "2026-08-10T01:20:36.075850+00:00",
       "fingerprint": "55a509a75beb4f8d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-      "category": "politics",
-      "published_at": "2026-08-08T15:51:11+00:00",
-      "fetched_at": "2026-08-09T01:18:58.039356+00:00",
-      "fingerprint": "7e4c6b547bc02624"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "category": "politics",
-      "published_at": "2026-08-08T17:58:42+00:00",
-      "fetched_at": "2026-08-09T01:18:58.039350+00:00",
-      "fingerprint": "7ce544aaccbb5bc0"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-      "category": "politics",
-      "published_at": "2026-08-08T15:56:39+00:00",
-      "fetched_at": "2026-08-09T01:18:58.039344+00:00",
-      "fingerprint": "1daa6d6090fd39c7"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-      "category": "politics",
-      "published_at": "2026-08-08T19:18:57+00:00",
-      "fetched_at": "2026-08-09T01:18:58.039333+00:00",
-      "fingerprint": "bc535b981e9c06a6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-09T01:18:57.764818+00:00",
-      "fingerprint": "16b9cd5bc8b24012"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "_for-sale DNS records",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-09T01:18:57.764690+00:00",
-      "fingerprint": "2e1723421e0ae3a2"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-09T01:18:57.764541+00:00",
-      "fingerprint": "38077166ea4c8657"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Improving Heuristics for A* Pathfinding",
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-09T01:18:57.764402+00:00",
-      "fingerprint": "1d08c1d2b142a7d4"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-09T01:18:57.764222+00:00",
-      "fingerprint": "664518f288036bbe"
-    },
-    {
-      "source": "The Verge",
-      "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
-      "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
-      "summary": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-08T15:00:00+00:00",
-      "fetched_at": "2026-08-09T01:18:57.425826+00:00",
-      "fingerprint": "146f424d135780b2"
-    },
-    {
-      "source": "The Verge",
-      "title": "Buc-ee’s dodges John Oliver to sue another small business",
-      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
-      "summary": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-08T15:47:30+00:00",
-      "fetched_at": "2026-08-09T01:18:57.425819+00:00",
-      "fingerprint": "b202e71c1e0d4ea6"
-    },
-    {
-      "source": "The Verge",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-08T17:53:34+00:00",
-      "fetched_at": "2026-08-09T01:18:57.425813+00:00",
-      "fingerprint": "57bcc91c15e3ba01"
-    },
-    {
-      "source": "The Verge",
-      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-      "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-08T21:15:12+00:00",
-      "fetched_at": "2026-08-09T01:18:57.425802+00:00",
-      "fingerprint": "22657c0c6800b3bf"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "吃完就后悔的年轻人，把凌晨2点的AI当成了减肥树洞｜2026年轻人减重报告",
-      "url": "https://36kr.com/p/3930427173682304?f=rss",
-      "summary": "<p>每个认真减重的年轻人，可能都有两副面孔。</p>\n  <p>白天，是热量计算器本人：鸡胸肉多少大卡，米饭一拳有多重，奶茶三分糖算不算努力过。</p>\n  <p>深夜，是AI告解室常客：刚吃完火锅还能不能补救，明天少吃一点有没有用，一顿夜宵会不会让这周白练。</p>\n  <p>减重看起来是在和体重较劲，实际上是在和真实生活磨合。聚餐、加班、嘴馋、熬夜，都会让“少吃多动”变得没那么简单。</p>\n  <p><strong>京东健康“减重不难瘦”大赛首周吸引700多万用户报名。</strong>从他们的打卡和AI咨询里可以看到，年轻人最关心的早已不是一句口号，而是更具体的问题：怎么吃、怎么动、怎么睡、怎么面对体重波动，以及掉线后怎么重新开始。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_b4d198e06eef49648481982819fa5a85@5679941_oswg68698oswg801oswg904_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_0630fb4033b74c57985caf489625ccbe@5679941_oswg11892oswg1000oswg284_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>年轻人减重后的第一项隐藏技能，往往不是跑步，而是算账。</p>\n  <p>鸡胸肉多少大卡，米饭一拳有多重，奶茶三分糖能不能算“减脂折中方案”，火锅蘸料到底要不要单独建账。以前花钱没这么精打细算，减重后倒是把每一口都过成了财务审计。</p>\n  <p>京东健康数据显示，<strong>参赛用户关于热量计算类问题的日均咨询量约100万条，在所有饮食健康类AI问题中占比达到37%。</strong>换句话说，每3个关于吃饭的问题里，就有1个是在认真追问：“这份饭到底多少大卡？”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_e31a495ca07946dd89549e7e0b419d36@5679941_oswg44875oswg801oswg552_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>被反复咨询的食物也很有代表性：全糖奶茶、炸鸡、白米饭位列前三。</strong>它们对应的不是简单的“能不能吃”，而是更现实的困惑：奶茶能不能喝？主食能不能留？炸鸡吃了是不是就前功尽弃？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_a639048ea6d64485a6226c8987ea2f31@5679941_oswg81414oswg801oswg1034_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>但真正可持续的减重，并不是把所有快乐都从餐桌上删除。</p>\n  <p>《中国居民膳食指南（2022）》建议，日常饮食应坚持食物多样、合理搭配，平均每天摄入12种以上食物、每周25种以上；成年人每天谷类食物建议摄入200—300g，其中可包含全谷物和杂豆类50—150g。指南同时建议，成年人每天食盐不超过5g，烹调油25—30g，添加糖最好控制在25g以下。</p>\n  <p>这意味着，减重期间不必把主食“一刀切”掉。相比彻底不吃碳水，更现实的方法是：把一部分精制主食换成全谷物、杂豆、薯类；把全糖饮料换成少糖或无糖；把油炸食物从“日常选项”变成“偶尔奖励”。</p>\n  <p>京东健康数据也发现，<strong>在18—35岁年轻人的AI饮食咨询中，控碳相关问题每月约187万次，占全部饮食咨询的27%。</strong>其中，近六成来自已经控碳一周以上的用户。很多人并不是减重前随口问问，而是真的坚持了一阵，才发现对碳水的想念越来越具体。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_8e869e51322b4fea84ccb85d38b070dc@5679941_oswg55828oswg801oswg634_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>南方用户最惦记的，是白米饭、螺蛳粉、米线米粉；北方用户更难放下的，是馒头、手擀面和饺子。</strong>减重可以改变食谱，但一个人从小养成的“主食胃”，没必要被完全否定。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_61f1385a45524764a8a0187efe330eb1@5679941_oswg57668oswg801oswg613_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>更适合普通人的方式，是给碳水留一个合理位置：每餐留出一拳左右主食，优先粗细搭配；如果当天想喝奶茶，就少点糖、少加料、选小杯；如果想吃炸鸡，下一餐就清淡一些，而不是用极端节食来惩罚自己。</p>\n  <p>减重不是每一口都不能快乐，而是让快乐更有边界。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_5bea6933c6ad499a89d51d3d14fde9a1@5679941_oswg9353oswg1000oswg284_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>很多年轻人开始减重后，身体就变成了一套实时行情系统。</p>\n  <p>早上空腹称一次，上完厕所称一次，吃完饭再偷偷称一次。体重下降0.1斤，今天就是红盘；上涨0.3斤，立刻进入“是不是完了”的复盘模式。</p>\n  <p>除了体重，体脂率、步数、血糖曲线也逐渐被加入观察列表。以前看天气预报决定穿什么，现在看身体数据决定今天吃什么。</p>\n  <p>京东健康数据显示，<strong>截至8月4日，超270万用户减重超3斤；首批完成挑战的用户平均减重5.2斤。</strong>大赛还向符合条件的新用户提供CGM动态血糖监测，不少人开始观察不同食物进入身体后的血糖反应。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_6cb21a5d342846ed894092fdd958f636@5679941_oswg57006oswg801oswg770_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>在用户最关心的升糖较快碳水中，“白米饭”“玉米”和“西瓜”位列前三。</strong>这些问题背后，其实是年轻人正在从“凭感觉减重”，转向更精细地理解身体。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_0b9ce9339bbd450880ac17346d23abaf@5679941_oswg58418oswg801oswg648_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>不过，数据的作用不是制造焦虑，而是帮助人看懂趋势。</p>\n  <p>我国成人BMI判断标准中，18.5≤BMI&lt;24.0为正常体重，24.0≤BMI&lt;28.0为超重，BMI≥28.0为肥胖。但BMI并不能呈现全部身体状态，腰围、体脂率、肌肉量、血糖血脂等指标也需要结合来看。</p>\n  <p>所以，体重秤不是判官，更像导航。它能提示方向，但不能因为一次波动就宣布失败。</p>\n  <p><strong>更建议固定条件称重：比如每周2—3次，在早晨起床后、进食前、排空后称；看一周趋势，而不是一天内反复横跳。</strong>体重一天内的变化，可能来自饮水、盐分、排便、经期或运动后的肌肉储水，未必代表真的长胖。</p>\n  <p>动态血糖、体脂秤、步数记录也是一样。它们的意义不是让人每天被数字牵着走，而是帮助人更早发现：哪些食物更适合自己，哪种节奏更容易坚持。</p>\n  <p>真正会看数据的人，不是每天把自己盯到焦虑，而是学会用数据帮自己少走弯路。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_05c2d8efd3484fe9baff9e1096adb6ea@5679941_oswg9305oswg1000oswg284_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>很多人刚开始减重时，都以为运动必须足够狠。</p>\n  <p>第一天跑到怀疑人生，第二天全身酸痛，第三天开始给自己找理由：今天太忙、天气太热、膝盖不太舒服、明天一定补上。</p>\n  <p>但京东健康大赛里的不少年轻人，反而摸索出了一条更温和的入门方式：像养小狗一样养自己。</p>\n  <p>按时吃饭，出门遛弯，少吃高糖高盐，晚上早点睡。听起来不像热血减脂计划，更像生活基本操作。但对很多长期久坐、饮食不规律、作息混乱的人来说，先把这些事做到，已经是在认真照顾身体。</p>\n  <p>京东健康数据显示，<strong>参与者中有48%的人能够坚持规律打卡一日三餐；“每日跑步1公里”的任务完成率达到78%。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_d77054667a0044569aa80619eefd2220@5679941_oswg48922oswg801oswg546_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>从步数来看，<strong>52%的参赛用户日均步数集中在6000—10000步，28%的人每天不到6000步，17%的人能稳定走到1万—3万步</strong>。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_3a9e61f657c849ec95f8796d194255d5@5679941_oswg52600oswg801oswg722_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>也就是说，大多数人的减重，并不是从高强度训练开始，而是从“今天多动一点”开始。</p>\n  <p>《中国居民膳食指南（2022）》建议，各年龄段人群都应天天进行身体活动；<strong>成年人每周至少进行5天中等强度身体活动，累计150分钟以上，主动身体活动最好每天6000步，同时鼓励每周2—3天进行抗阻运动，并减少久坐时间、每小时起来动一动。</strong></p>\n  <p>这对普通人来说，是一个更现实的起点。</p>\n  <p>如果平时几乎不运动，可以先从饭后散步10—15分钟开始；如果已经能稳定走到6000步，可以每周增加2—3次快走、骑车、游泳或慢跑；如果想让体型更紧致，就不要只做有氧，可以加入深蹲、俯卧撑、弹力带训练等抗阻练习。</p>\n  <p>运动不需要一开始就“燃爆全场”。对久坐上班族来说，少坐一小时，饭后多走几步，每周规律活动，比偶尔一次高强度透支更有意义。</p>\n  <p>毕竟，减重运动最重要的不是第一天有多狠，而是第30天还愿不愿意继续。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_5a8dc82c968b41daafeeb8a020f621ea@5679941_oswg9082oswg1000oswg284_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>白天的年轻人，是减重计划执行者；深夜的年轻人，是AI告解室常客。</p>\n  <p>白天问：“鸡胸肉怎么做不柴？”</p>\n  <p>晚上问：“螺蛳粉只喝汤算不算吃？”</p>\n  <p>白天说：“今天一定清淡。”</p>\n  <p>半夜问：“一顿火锅会不会前功尽弃？”</p>\n  <p>京东健康数据显示，22点至次日2点，高热量食物相关咨询占到全天的42%，成为咨询最集中的时段。<strong>夜越深，年轻人越诚实：白天藏得住食欲，半夜藏不住聊天记录。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_c08529e5baa444dcac357384f5ac7473@5679941_oswg76584oswg801oswg742_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>深夜向AI发起咨询的人，大多有两类：<strong>一类是在睡前纠结“吃什么不胖”，另一类则是已经吃完，急着问“怎么补救”。</strong>这说明，很多减重计划不是输在白天，而是输在夜间场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_9a02c36c6efa4a239993243d3828404f@5679941_oswg70457oswg801oswg761_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>熬夜、刷吃播、情绪压力、外卖软件、触手可及的零食，都会让人更容易在深夜做出高热量选择。我国《肥胖症诊疗指南（2024年版）》也提到，不良睡眠习惯是肥胖症的重要危险因素之一，睡眠不足可能影响食欲相关激素分泌，使进食增多、能量消耗减少。</p>\n  <p>所以，<strong>减重期间的休息不是“小事”。睡不好，白天的自律可能会在深夜被食欲反扑。</strong></p>\n  <p>与其吃完后反复忏悔，不如提前设置几个“夜间防线”：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_819d6f3f83ac4cc689b95aac8d9948c0@5679941_oswg51628oswg801oswg567_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>如果一顿夜宵已经发生，第二天恢复规律三餐和正常运动，不要用极端节食补偿。减重最怕的不是一顿夜宵，而是一顿夜宵后直接破罐破摔。</p>\n  <p>偶尔吃多了，不代表计划毁了。真正重要的是，第二天还能不能回到正常节奏里。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_239207dce52d4357a82efac6fa3f8947@5679941_oswg8978oswg1000oswg284_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>年轻人的减重计划，往往不是一条直线，而是一条带有周末波动的曲线。</p>\n  <p>周一重新做人，周二认真执行，周三略有动摇，周四开始想念火锅，周五奖励自己，周末全面进入生活体验模式。</p>\n  <p>京东健康数据显示，在<strong>一周内出现断签的用户中，连续5个工作日全勤、但周末两天全部断签的人占比接近三成。周六、周日的打卡中断率分别达到27.9%和31.4%。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_0b27b03cea394378a11ed378864cbefa@5679941_oswg45284oswg801oswg764_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>但有意思的是，年轻人最不缺的就是“重新开始”的能力。</p>\n  <p><strong>在连续中断两天的用户中，78%选择在周一回来。</strong>也就是说，上周的计划可以烂尾，这周的宣言必须准时更新。减重从未失败，只是刚刚完成了一次版本迭代。</p>\n  <p>这不是自欺欺人。对很多人来说，能反复回来，本身就是长期管理的一部分。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_dfd780c3df22403ba2452b257deebe9c@5679941_oswg50489oswg801oswg759_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>京东健康大赛里，组队也成为一种重要的坚持方式。数据显示，<strong>83%的参赛用户加入了至少2人的战队，其中60%直接进入4人及以上战队。</strong>发起组队者平均连续打卡18.6天，高于被邀请者的12.4天和未组队者的8.7天；他们每天平均参与43.2分钟，每周打卡5.8天。</p>\n  <p>一个人减重，容易悄悄摆烂；一群人一起，至少有人会把你@回来。</p>\n  <p>这背后其实是一种更可持续的减重逻辑：不要只靠意志力，而要靠环境、记录、反馈和同伴支持。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_4c3f58f8d4844f56b2217de17435c911@5679941_oswg72043oswg801oswg789_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>可以给自己设计一些“防掉线机制”：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_10e431725d6f472eb56f2e178d71508c@5679941_oswg54994oswg801oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>国家卫健委《体重管理指导原则（2024年版）》也强调，<strong>体重管理需要结合个人健康状况、既往减重经历、生活方式、运动能力等进行综合评估，制定更个性化、科学和安全的方案。</strong></p>\n  <p>这也提醒我们，减重不是一场不能失误的考试，而是一套可以不断校准的长期系统。</p>\n  <p>真正能坚持的人，不是从不掉线，而是每次掉线后，都有办法把自己捞回来。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_2d4653c5a09c4d2d8ac159d79419bacd@5679941_oswg251oswg459oswg45_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>回头看京东健康“减重不难瘦”大赛里的700多万用户，会发现年轻人的减重状态并不整齐划一。</p>\n  <p>有人从热量计算开始，学会看懂每一口食物；</p>\n  <p>有人通过体重、血糖、步数，第一次认真观察自己的身体；</p>\n  <p>有人靠每天1公里、饭后散步，把运动变成生活的一部分；</p>\n  <p>有人在深夜向AI求助，又在第二天重新回到计划；</p>\n  <p>也有人拉上朋友组队，把一个人的坚持变成一群人的互相提醒。</p>\n  <p>这些行为看似琐碎，却共同指向同一件事：<strong>减重正在从“短期变瘦”，转向“长期管理”。</strong></p>\n  <p>真正有效的减重，未必是从此变成一个毫无破绽的自律达人，而是逐渐摸清自己的身体和生活节奏：什么时候容易嘴馋，哪种运动能坚持，睡少了会不会更想吃，周末放松后怎样重新回来。</p>\n  <p><strong>京东健康提供的体重记录、AI咨询、动态血糖监测、组队打卡等工具，本质上也是在帮用户把一个长期目标拆成更具体、可执行、可反馈的小步骤。</strong>在减重场景中，AI小康日均为30万人解决相关问题，并通过AI智能分析，累计为用户生成180万份个性化定制的饮食及运动计划。原本需要独自完成的减重计划，就这样被拆成了一顿饭、一次运动、一晚好睡眠，以及无数次“没关系，接着来”</p>\n  <p>所以，<strong>减重不难瘦的秘诀，可能不是每一局都赢，而是别因为一局没打好就退赛。</strong></p>\n  <p>只要还愿意继续调整，身体总会慢慢给出回应。</p>\n  <h4>（数据来源：京东健康“减重不难瘦”大赛）</h4>\n  <h4>策划：大倪、昌怡</h4>\n  <h4>视觉：曲枚</h4>\n  <h4>封面来源：AI生成</h4>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_d58f6eb2fa804fbea0d6915aeb7014ea@5679941_oswg3021oswg900oswg70_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260808/v2_b6dee453407543dca5524e814f82f8ee@5679941_oswg13015oswg900oswg100_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>今天是全民健身日，你有什么运动计划？</strong></p>\n  <p><strong>你有哪些减重小妙招？</strong></p>",
-      "category": "tech",
-      "published_at": "2026-08-08T07:01:18+00:00",
-      "fetched_at": "2026-08-09T01:18:57.271960+00:00",
-      "fingerprint": "cc78143d5d9cc963"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "硬氪首发 | 获李泽湘三轮押注，浙大博士做出全球首款视觉售后技术客服机器人",
-      "url": "https://36kr.com/p/3931000539692164?f=rss",
-      "summary": "<p>硬氪获悉，视觉模型企业微链智能近日完成近千万元天使轮融资，资方为李泽湘、陆奇，投资主体为投资主体为东莞清水湾二期创业投资合伙企业（有限合伙）、宁波智能技术研究院有限公司、北京奇绩创坛二期创业投资中心（有限合伙）。该轮融资将主要用来投入研发。</p>\n  <p>微链智能成立于2023年，创世人宁冬冬今年31岁，博士就读于浙江大学，从事机器视觉研究，也是国内早期做深度学习机器视觉的人，在图像处理方面经验丰富。</p>\n  <p>宁冬冬告诉硬氪，他原本跟随李泽湘从事图像领域的产品研发，在调研中发现消费电子行业的客服非常原始。不过，宁冬冬没有贸然行动，为了全局了解电商客服链条，他调研了电商平台、平台上的商家，以及卖AI客服的工具厂商三方不同主体的情况。</p>\n  <p>宁冬冬第一站是在京东做了3个月的客服实习生，他发现京东的内部系统非常完善，“物流、金融、电商部门全打通，客服可以直接影响自营店铺的详情页或修改物流地址。”</p>\n  <p>随后，他又去到平台上的某电器商家做售前客服，这里情况有所不同，还完全是手工阶段，平台几乎不提供任何工具，联系物流或师傅都要打电话，效率较低。“京东客服一天能解决300个复杂售后，而商家客服一天只能解决不到80个”。</p>\n  <p>但两次实习岗位都有共性：收入不高，3000元左右。人员流动性大，“比如在京东实习时，我那届将近100人，一年后大概只剩5个人”。另外，班次昼夜颠倒，对身体伤害很大，而且工作量非常大，对员工的心理素质要求很高。</p>\n  <p>整个电商行业有500多万人工客服，宁冬冬介绍，到大促时，平台要求30秒内必须回消息，之前的AI技术使得机器人能回一些简单问题，但这只占咨询里的20%不到，并且还需要人工复核。“有些公司为了用机器人，还需要增加一个叫AI客服训练师的岗位去配置问答对，一个月成本要1万多。”</p>\n  <p>宁冬冬分析，整个行业存在几个严重问题，一是<strong>培训周期长</strong>，客服流动性大，招来的新人大部分没有经验，对他们的培训需要1-2周甚至一个月。二是<strong>用人成本高</strong>，从早8点到晚12点至少需要4个人，“销售额在5亿左右的腰部企业需要50个客服，加上社保、管理和场地费用，一个人一个月平均摊销成本将近1万元”。三是<strong>品牌售后风险</strong>大，新人客服容易导致品牌售后问题，“小红书上一个帖子可能就会毁掉一个品牌”。</p>\n  <p>从这些问题出发，微链智能研发出了行业首款专门面向电商场景的“技术客服”对话机器人，重点解决消费电子及复杂硬件产品在售后环节中技术门槛高、故障排查难、人工成本大的问题。</p>\n  <p>具体而言，其产品可以做到几个点，一是突破传统客服机器人仅能处理文本的局限，具备较强的图片与视频理解能力，甚至能够解读复杂的电子产品技术图纸与结构图，快速定位硬件或使用问题。二是可以独立思考与主动诊断追问，具备深度逻辑推理能力，在面对用户的疑难描述时，能够像技术专家一样主动向用户提问、引导排障，实现复杂售后场景下的全自主问答与独立接待，无需频繁转接人工。三是支持跨主流电商平台的多渠道集成与聚合操作，无缝嵌入商家现有的工作流，全自动化处理售后技术咨询。</p>\n  <p>而在商业化落地方面，公司背靠李泽湘系消费电子生态链企业，拥有270+家消费电子品牌企业优质客户基本盘。宁冬冬表示，长期来说，会有直接出售工具和出售服务两种方式。“卖工具的话，一家5亿营收的公司软件授权费只有5-10万，做到上亿营收太漫长。但如果我们接管他的客服服务，直接交付结果，他原本一年200万的团队开销转而付给我们，客单价就从5万变成了100万，还可以帮客户节省100万。”</p>\n  <p><strong>以下是硬氪对宁冬冬的访谈节选：</strong></p>\n  <p><strong>硬氪：您提到的“全自主售后”应该怎么理解？它好在哪里？</strong></p>\n  <p><strong>宁冬冬：</strong>传统的客服大部分都是入职1-2个月的新人，响应慢、容易答错知识点，且零零后客服情绪压力大，回复容易敷衍。而AI客服拥有老人的完整知识库，响应快，知识库有严格更新逻辑不会答错，还能一直保持热情。</p>\n  <p>所谓“全自主”，是指用户从进线到离开，全都是AI接待，中间没有任何人的参与。不像其他厂商需要人类在旁边review所有的对话。</p>\n  <p><strong>硬氪：从技术层面来看，你们是怎么做到全自主接管的？</strong></p>\n  <p><strong>宁冬冬：</strong>其他友商的agent只是一次模型调用，问一个问题回一条消息，也没有多模态能力，无法理解图片和视频。但用户在售后场景大量依赖图片和视频，需要多轮追问回答才能解决问题。</p>\n  <p>在以前的客服难度金字塔里，售前最简单，比如查参数，售后次之，比如退换货。技术售后最难，因为要排障、解决重度使用问题。行业里很多创始人大多是电商或NLP出身，缺乏视觉背景，都挤在售前红海里。</p>\n  <p>但我们团队是做机器视觉出身的，对我们来说难度倒过来了：技术客服就像做数学题，没有太多复杂的情感，只有固定的解，是退货还是排障或教操作。技术客服和普通售后是大量消耗人工的地方，也是没人搞的“无人区”。我们正好可以用自己的多模态能力和图像处理经验来切入。</p>\n  <p><strong>硬氪：不同行业的技术售后差异很大，你们的产品如何实现通用性？图片和视频识别能力如何？</strong></p>\n  <p><strong>宁冬冬：</strong>我们的泛化性很强。虽然产品知识不同，但我们可以通过自动建库来实现。标准化的是整个售后流程：上传结构图、使用资料和历史对话，这三类数据进来就能建立知识库。目前我们主要集中在消费电子行业。</p>\n  <p>在识别能力上，视频比图片更有连贯的语义，更易理解。我们对视频和图片的理解和人类测下来差不多，人能看清的我们也能看清；如果拍得不清楚，AI会提示用户对准哪里重新拍。目前我们在试验中能够解决80%的售后技术客服问题。</p>\n  <p>这套系统技术壁垒很高，首先创始人要对图像有较深的理解，整个体系和纯对话完全不同；其次是要把自研模型与市面上的多模态模型结合；最后是理解用户的产品结构以及局部零件图。新发明的消费电子产品大模型没见过，如何结合大小模型和架构让它理解局部的零件图，是非常难的。</p>",
-      "category": "tech",
-      "published_at": "2026-08-09T01:00:30+00:00",
-      "fetched_at": "2026-08-09T01:18:57.271944+00:00",
-      "fingerprint": "e0520279fee7ab7b"
-    },
-    {
-      "source": "少数派",
-      "title": "就内容创作而言，说话还是替代不了打字",
-      "url": "https://sspai.com/post/112901",
-      "summary": "创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。<a href=\"https://sspai.com/post/112901\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-08T05:11:00+00:00",
-      "fetched_at": "2026-08-09T01:18:55.302349+00:00",
-      "fingerprint": "15af9cb131e78acb"
     }
   ]
 }
