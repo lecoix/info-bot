@@ -1,7 +1,267 @@
 {
-  "updated_at": "2026-08-18T00:57:31.392590+00:00",
-  "count": 215,
+  "updated_at": "2026-08-19T00:58:10.116504+00:00",
+  "count": 213,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "category": "politics",
+      "published_at": "2026-08-18T13:13:54+00:00",
+      "fetched_at": "2026-08-19T00:58:09.966020+00:00",
+      "fingerprint": "eb65c9214211626d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "category": "politics",
+      "published_at": "2026-08-18T17:15:39+00:00",
+      "fetched_at": "2026-08-19T00:58:09.966014+00:00",
+      "fingerprint": "b5b46c3ed4431bdb"
+    },
+    {
+      "source": "BBC World News",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "category": "politics",
+      "published_at": "2026-08-18T12:36:11+00:00",
+      "fetched_at": "2026-08-19T00:58:09.966007+00:00",
+      "fingerprint": "a35f373c374a921e"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+      "category": "politics",
+      "published_at": "2026-08-18T22:11:07+00:00",
+      "fetched_at": "2026-08-19T00:58:09.965998+00:00",
+      "fingerprint": "7a3ac8f24e1e86f8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "專門減肥藥能否提升運動員表現？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgvy8xx27lo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "GLP-1減重藥物能夠減輕體重並改善健康，但它們是否也能提升運動表現？科學家表示目前證據尚不明確，但爭論正日益升溫。",
+      "category": "politics",
+      "published_at": "2026-08-19T00:07:17+00:00",
+      "fetched_at": "2026-08-19T00:58:09.920242+00:00",
+      "fingerprint": "fe86c4dff94cee26"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "朱鎔基火化：從民間悼念到八寶山，中國領導人「身後事」的政治邏輯",
+      "url": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "儘管中國官方將這位已故總理譽為「忠誠」的黨員，但當局同樣提防公眾對他所代表的改革年代的悼念，容易演變為對當下領導層的隱晦批評。",
+      "category": "politics",
+      "published_at": "2026-08-18T18:00:44+00:00",
+      "fetched_at": "2026-08-19T00:58:09.920229+00:00",
+      "fingerprint": "c80aed14e2343f9b"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
+      "url": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "從「掃黑除惡」到經濟糾紛，為何越來越多中國民商事律師開始擔心：今天的正常代理，會不會在幾年後被重新定性為犯罪？",
+      "category": "politics",
+      "published_at": "2026-08-18T23:53:38+00:00",
+      "fetched_at": "2026-08-19T00:58:09.920218+00:00",
+      "fingerprint": "6e8c3c00ee297841"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "url": "https://modelmap.cc",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-19T00:58:09.648391+00:00",
+      "fingerprint": "7be47a8941bfb175"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-19T00:58:09.648239+00:00",
+      "fingerprint": "e095c142bfe7a9bd"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-19T00:58:09.648095+00:00",
+      "fingerprint": "17f7c9600e74a594"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Solo – a .so loader for static Linux binaries",
+      "url": "https://github.com/pg83/solo",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-19T00:58:09.647957+00:00",
+      "fingerprint": "086507d579a99587"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-19T00:58:09.647802+00:00",
+      "fingerprint": "9d46ade5d1942892"
+    },
+    {
+      "source": "The Verge",
+      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
+      "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+      "summary": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality, crisp transparency [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-18T17:47:04+00:00",
+      "fetched_at": "2026-08-19T00:58:09.549052+00:00",
+      "fingerprint": "bd9656223d090728"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-18T19:28:30+00:00",
+      "fetched_at": "2026-08-19T00:58:09.549046+00:00",
+      "fingerprint": "5918a741bcb0759e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-18T19:48:26+00:00",
+      "fetched_at": "2026-08-19T00:58:09.549039+00:00",
+      "fingerprint": "068161fbb4e485c8"
+    },
+    {
+      "source": "The Verge",
+      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+      "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
+      "summary": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. This [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-18T20:01:01+00:00",
+      "fetched_at": "2026-08-19T00:58:09.549030+00:00",
+      "fingerprint": "ae7c5d533f85c5b4"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发｜给泳池机器人造“眼睛”，前科沃斯员工做芯片获千万元天使融资",
+      "url": "https://36kr.com/p/3943789702036611?f=rss",
+      "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，水下感知芯片企业「芯旸微」近日完成千万元天使轮融资，本轮投资方为险峰长青和隐峰资本，资金将主要用于团队建设和人才体系搭建。</p>\n  <p>随着水下机器人从遥控作业走向自主运行，感知成为绕不过去的一道门槛。</p>\n  <p>Fortune Business Insights数据显示，2025年全球水下/海洋机器人市场规模约58.2亿美元，预计2034年增长至196.6亿美元。但相比陆地机器人，水下环境对常见传感器并不友好：水体中的颗粒、浑浊度都会加速光的衰减，影响视觉成像；激光在水中的传播距离也受到限制。NOAA对于海水光衰减的监测同样显示，水体浑浊度越高，可见光的有效传播深度越低。</p>\n  <p>超声波因此成为水下探测的重要技术路线。</p>\n  <p>传统水下超声主要使用压电陶瓷（PZT）换能器，通过压电材料振动产生和接收超声波。这类器件能够提供较高的声功率，因此仍适合长距离声呐等应用，但在机器人需要的小型化、高密度阵列和成像场景中存在局限。</p>\n  <p>芯旸微的技术栈是CMUT（电容式微机械超声换能器）路线。它通过MEMS半导体工艺在晶圆上制造微型振膜，可以布置成高密度二维相控阵列，同时具有较宽频带。</p>\n  <p>已有研究显示，CMUT阵列能够实现水下超声成像，并具备宽带和阵列化特征。这使得其更适合安装在机器人本体上完成近场环境感知和3D声学成像。</p>\n  <p>芯旸微创始人曹金龙告诉36氪，“传统声呐更适合千米级远距离探测，公司目前瞄准的是机器人周边约0-20米范围内的近场感知。”</p>\n  <p>芯旸微目前提供的并非单独一颗CMUT芯片，而是一套由CMUT阵列、ASIC集成芯片及相关软硬件组成的声学感知模组。公司选择的首个商业化落地场景是泳池清洁机器人。</p>\n  <p>灼识咨询数据显示，2025年全球约有3410万个泳池，泳池清洁机器人年出货量约490万台，预计2030年增至700万台；2025年全球泳池机器人零售额约28亿美元。</p>\n  <p>泳池机器人市场在快速发展，参与其中的不少为中国企业。</p>\n  <p>曹金龙介绍称，目前不少泳池机器人仍主要依靠陀螺仪、单点超声或视觉辅助定位。机器能够运动，却很难准确知道哪些地方已经清洁、哪些没有。</p>\n  <p>芯旸微希望用阵列式声学成像改变这一状态。按照公司测试数据，搭载其模组后，泳池机器人的清洁覆盖率可以达到95%以上，并能够进一步实现区域识别和路径规划，使得泳池清洁机器人更智能化和可控制性。</p>\n  <p>目前，芯旸微已经完成多轮流片并进入小批量阶段，并与多家泳池清洁机器人企业开展产品需求、测试和供应链合作。</p>\n  <p>曹金龙表示，泳池是公司主动选择的第一站。相比医疗超声，它对成像精度、认证和产品导入的要求更低，可以更快验证芯片和模组，并形成早期收入。</p>\n  <p>完成泳池场景后，芯旸微计划继续沿水下场景扩展，下一步包括消费级水下领航测绘扫描机器人，通过移动测绘扫描鱼群、水下装备、水下救援等场景，再进入水产养殖，通过声学感知获取鱼群数量、活动深度等数据，为投喂和养殖管理提供信息。未来芯旸微的CMUT技术还将应用于机器人与人脑之间的交互，形成人脑直接控制机器人大脑的可穿戴智能设备。</p>\n  <p>团队方面，创始人兼CEO曹金龙此前先后任职科沃斯和霍尼韦尔，工作经历横跨消费级机器人和上游传感器；研发团队拥有十年以上CMUT研发经验，已完成了多种芯片设计和工艺制程技术积累。</p>\n  <p>长期来看，芯旸微希望将CMUT的能力从“感知”进一步延伸到“通信”。由于超声器件既可以发射也可以接收声波，公司最终将其做成水下机器人的信息端口——既负责“看见”周围环境，也负责与外部交换信息。</p>\n  <p><strong>CEO对谈</strong></p>\n  <p>36氪：采用CMUT技术路线的芯片此前更多用于医疗，你们为什么首先选择泳池机器人，而不是从技术门槛更高的医疗产品开始？</p>\n  <p>曹金龙：我们早期其实看过血管超声、心腔超声、颅脑超声，也看过无创脑机接口。但这些产品投入很大，研发和商业回报周期都很长。对于一家早期创业公司来说，如果一开始就进入高投入、短期又没有收入的市场，风险非常高。</p>\n  <p>泳池机器人对成像精度的要求没有医疗那么高，产品导入和试错成本也低得多。对我们来说，它可以同时形成技术闭环和商业闭环。先通过一个真实市场验证产品，让公司活下来、积累客户和资金，再向更高端的场景拓展，这是我们选择的路径。</p>\n  <p>36氪：CMUT技术在海外已经发展很多年，中国公司现在切入水下机器人，机会在哪里？</p>\n  <p>曹金龙：中国最大的优势还是下游机器人产业的发展速度。很多泳池机器人、水下智能硬件本身就是中国团队研发、面向全球销售，我们离客户非常近，可以更快拿到真实需求，再针对需求去定义芯片。</p>\n  <p>国外CMUT公司过去主要面向医疗市场，已经形成比较成熟的产品和商业模式，但医疗芯片不能直接拿到水下使用，需要重新设计器件和ASIC。我们反而可以从一开始就围绕水下场景定义产品。</p>\n  <p>当然，中国目前也有短板，主要是在芯片制程环节。我们现在的量还不够大，可选择的代工资源有限，所以也在通过中试平台和新的制造合作伙伴解决量产问题。</p>",
+      "category": "tech",
+      "published_at": "2026-08-18T01:00:34+00:00",
+      "fetched_at": "2026-08-19T00:58:09.479967+00:00",
+      "fingerprint": "9a36a874014d868b"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "氪星晚报 ｜小米集团二季度智能电动汽车及AI等创新业务收入249亿元；百度二季度总营收313亿元，AI业务收入占比连续过半；我国在量子技术国际标准领域取得新进展",
+      "url": "https://36kr.com/p/3944909708393602?f=rss",
+      "summary": "<h2>大公司：</h2>\n  <p><strong>小米集体：二季度智能手机全球平均售价同比提升25.9%，创历史新高</strong><br />小米集团发布2026年第二季度财报。报告期内，小米智能手机业务营收421亿元。第二季度，得益于在全球范围内主动调整产品结构，小米手机全球平均售价同比提升25.9%至1351元，创历史新高。</p>\n  <p><strong>小米集团：二季度智能电动汽车及AI等创新业务收入249亿元</strong><br />36氪获悉，小米集团发布2026年第二季度财报。财报显示，智能电动汽车及AI等创新业务收入增至249亿元，同、环比均实现两位数增长。小米新车当季交付超10.4万辆，同比增长28.2%。</p>\n  <p><strong>平安好医生：2026年上半年净利润2.19亿元，同比增长63.5%</strong></p>\n  <p>36氪获悉，平安好医生公布2026年半年度业绩报告。报告期内，录得归母净利润2.19亿元，同比增长63.5%；调整后净利润2.27亿元，同比增长37.7%。报告期内AI业务贡献毛利占比约4.6%。公司\"AI+真人医生\"服务体系，已全面接入平安集团全系生态App，覆盖集团100%个人客户。</p>\n  <p><strong>百度：主板转换预计年内生效，8月26日召开股东大会寻求批准</strong></p>\n  <p>36氪获悉，百度发布2026年第二季度财报。财报披露，主板转换预计将于今年内生效。7月，百度发布公告，拟在香港联合交易所主板进行自愿转换上市，港交所已确认该申请。百度将于8月26日召开股东特别大会，就相关事项寻求股东批准。</p>\n  <p><strong>爱奇艺：二季度总收入62.9亿元，环比增长1%</strong></p>\n  <p>36氪获悉，8月18日，爱奇艺发布截至2026年6月30日未经审计的第二季度财报。二季度爱奇艺总收入62.9亿元人民币，环比增长1%。其中，会员服务收入40.1亿元，在线广告服务收入12.5亿元，内容发行收入6.8亿元，其他收入3.4亿元。</p>\n  <p><strong>百度：二季度总营收313亿元，AI业务收入占比连续过半</strong></p>\n  <p>36氪获悉，百度发布2026年第二季度财报。财报显示，二季度总营收313亿元；一般性业务收入252亿元，其中AI业务收入占比50%，已连续两季占比过半。二季度百度AI云基础设施收入73亿元，同比增长50%，其中GPU云同比增长283%，已连续四个季度实现三位数增长；AI应用收入25亿元，同比增长3%；AI原生营销服务收入26亿元。</p>\n  <p><strong>苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀</strong></p>\n  <p>8月18日，苹果公司首次承认，监管的变化迫使其对App Store的控制被放宽，也因此拖累了其超过1000亿美元的服务业务。这一罕见声明表明，反垄断行动正开始侵蚀该公司最盈利的业务部门之一。苹果在最新的监管文件中警告称，通过替代支付系统进行的购买交易“可能完全无法获得佣金”。并且本月其报告的服务收入和利润率低于华尔街预期。（财联社）</p>\n  <p><strong>宇树科技上市前获加密市场热捧，永续合约暗示股价涨幅或超300%</strong></p>\n  <p>8月18日，宇树科技上市前获加密市场热捧，永续合约暗示股价涨幅或超300%。（财联社）</p>\n  <p><strong>万科已正式撤销集团办公事业部，事业部数量由8个缩减至7个</strong></p>\n  <p>新任董事长徐恩利履职后的“第一把火”，烧向了万科的组织架构。万科已正式撤销集团办公事业部，事业部数量由8个缩减至7个，原办公事业部负责人卢冰同步转任中航万科负责人。该事业部设立于2024年10月，至本次调整撤销，存续仅22个月。不过，万科集团网站已悄然完成组织架构信息更新：目前仅保留物业、商业与酒店、长租公寓、海外、食品、物流及财顾7个事业部，办公事业部已从列表中剔除。这是继2025年9月万科大规模调整组织架构、确立“集团总部+地区公司+事业部”新格局后，又一次关键精简。此次调整，亦被业内普遍视作徐恩利上任后的首个重大动作。（中国房地产报）</p>\n  <p><strong>蚂蚁健康收购医疗服务商风石健康</strong></p>\n  <p>36氪获悉，8月18日，蚂蚁健康正式宣布，收购国内医疗健康服务商风石健康，以完善“医保+商保”的一站式直付体验。蚂蚁健康除了可为患者在公立医院就医提供“医保+商保”同步结算服务，还可链接风石健康覆盖的超1500家私立医院与公立医院国际部，为中高端医疗险患者提供刷脸和刷码“商保直付”服务。</p>\n  <p><strong>今日起，阿里“千问办公”接入企业微信</strong></p>\n  <p>36氪获悉，8月18日，阿里旗下Agent产品“千问办公”正式接入企业微信。此前，该产品已接入钉钉和飞书。至此，“千问办公”实现国内三大主流协同办公平台的全面支持。</p>\n  <p><strong>豆包工作任务上新，可以在虚拟桌面操作Windows</strong></p>\n  <p>36氪获悉，据豆包消息，豆包工作任务模式继续上新，全新的豆包虚拟桌面已在Windows版本上线，豆包操作电脑的能力再次升级。在豆包电脑端选择工作任务模式和本地电脑，在技能栏选择“操作电脑”，完成授权后，在虚拟桌面里，豆包就可以像人一样查看电脑屏幕、移动鼠标、点击按钮、敲键盘，帮用户在电脑端继续推进复杂任务。</p>\n  <p><strong>阿里云启用韩国第三��数据中心，Agentic AI服务同步上线</strong></p>\n  <p>36氪获悉，8月18日消息，阿里云在韩国的第三座数据中心正式上线，并同步推出Agentic AI相关服务，进一步满足当地市场持续增长的AI及云计算需求。近期，阿里云已先后在法国、日本、马来西亚、墨西哥等市场持续完善AI与云基础设施布局。本轮扩建完成后，阿里云全球基础设施将覆盖30个地域、104个可用区，并计划进一步拓展至巴西等国家和地区。目前，阿里云在亚太云计算市场排名第一。</p>\n  <h2>投融资：</h2>\n  <p><strong>“恒湾科技”完成数亿元B轮融资</strong></p>\n  <p>36氪获悉，恒湾科技（ZILLNK）近日宣布完成数亿元人民币B轮融资，本轮由深创投领投，国开科创、沃赋创投、东山精密等跟投。资金将主要用于核心芯片自研、AI-RAN与6G技术研发，以及海外市场的深化布局。</p>\n  <p><strong>“安澜德健”完成近亿元A轮融资</strong></p>\n  <p>36氪获悉，据启明创投消息，日前，“安澜德健”宣布完成近亿元A轮融资，由启明创投独家投资。本轮募集资金将主要用于加速推进公司核心产品OpusOne™的国内注册临床试验进程，并全面支持其海外早期临床试验的申报与开展。</p>\n  <p><strong>“思昇科技”完成数千万元种子+轮融资</strong></p>\n  <p>36氪获悉，近日，AI驱动的超声脑机接口公司“思昇科技”宣布完成数千万元种子+轮融资。本轮融资由国汽投资领投，元禾璞华、全球健康产业创新中心（GHIC）跟投，老股东英诺科创基金、水木清华校友种子基金继续加注，由光源资本担任独家财务顾问。本轮资金将主要用于超声脑机接口核心技术研发、医疗器械产品推进、多模态脑数据与AI脑科学平台建设，以及跨学科人才团队扩充。新产品：</p>\n  <p><strong>共生知行发布人形机器人赛车Demo</strong></p>\n  <p>36氪获悉，8月17日，具身智能初创公司共生知行（Symbiosis Robotics）发布双足人形机器人驾驶卡丁车Demo，这是公司成立后首次系统展示“全身智能”阶段性进展。据了解，共生知行聚焦面向双足人形机器人的全身智能基座模型，尝试打通感知、决策、全身运动控制与数据训练链路。公司表示，未来将快速迭代发布共生知行的技术进展、Demo、开源项目等。</p>\n  <h2>今日观点：</h2>\n  <p><strong>中信建投：矿区自动驾驶行业有望进入S型加速阶段</strong></p>\n  <p>36氪获悉，中信建投证券研报认为，矿区自动驾驶区别于Robotaxi，封闭场景、刚性用工需求与明确的降本增效价值使其商业化路径更清晰，行业在渗透率突破10%后有望进入S型加速阶段。国内近10万台矿卡存量提供持续改造空间，大型煤矿车队扩容、金属矿项目复制及中小矿山下沉将支撑国内市场增长；海外澳大利亚等高人工成本市场单车服务价值显著高于国内，有望打开第二增长曲线。</p>\n  <h2>其他值得关注的新闻：</h2>\n  <p><strong>词元消耗成授信依据，银行积极试水“词元贷</strong><br />作为AI（人工智能）领域的专业术语，词元（Token）正在变成金融机构使用的“信用词汇”。近日，广东省首个词元经济专项金融产品“词元贷”在广州市海珠区发布，中国银行、中信银行、广州银行3家银行率先参与布局。其中中国银行已落地授信额度。受访专家认为，依托词元消耗数据形成的“技术账本”，正在成为银行构建信贷评估体系的新依据，其实质是企业信用评估在算力场景下的数字化延伸。“词元贷”回应的融资痛点真实存在，构建的数据信用逻辑亦有价值，但支撑该逻辑的数据基础设施、风控方法论及监管框架，目前仍在建设中。（证券日报）</p>\n  <p><strong>我国在量子技术国际标准领域取得新进展</strong><br />由我国牵头的《量子熵源随机性质量和测试方法学的概述和分析》国际标准提案近日正式获批立项。该标准将建立统一规则检验量子随机数真伪，填补通用检测方法空白，标志着我国在量子核心器件国际标准制定中迈出重要一步。（央视新闻）</p>",
+      "category": "tech",
+      "published_at": "2026-08-18T11:14:56+00:00",
+      "fetched_at": "2026-08-19T00:58:09.479960+00:00",
+      "fingerprint": "6395afd9ff2b4c72"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "平安好医生：企业健管稳健增长，AI业务兑现业绩",
+      "url": "https://36kr.com/p/3945024705657988?f=rss",
+      "summary": "<p>8月18日，平安好医生（1833.HK）公布了2026年中期业绩。</p>\n  <p>财报显示，平安好医生在2026年上半年实现收入24.84亿元，同比微降0.7%。作为公司发展的核心着力点，企业健管业务表现亮眼：同期收入同比增速高达65%，强劲增长助推该业务收入占比提升至28.7%，同比上升11.5个百分点，公司业务结构得到进一步优化。</p>\n  <p>利润方面，公司2026年上半年归母净利润录得2.19亿元，同比增长63.5%；调整后净利润为2.27亿元，同比增长37.7%。公司净利润在报告期内实现强劲增长的核心驱动因素，主要是业务结构的优化与业务质量的持续改善。</p>\n  <h2><strong>01 “四到”服务建设强化企业健管业务逻辑</strong></h2>\n  <p>“四到” （到线、到院、到家、到企）服务网络建设是实现线上线下全场景联动的关键，不仅显著提升了用户体验与黏性，而且是切入企业健管业务、深度挖掘B端资源的核心抓手。其业务端的核心亮点如下：</p>\n  <ul>\n   <li><strong>到线</strong>：“AI+真人医生”服务已覆盖平安集团100%的个人客户。</li>\n   <li><strong>到院</strong>：持续扩张线下优质资源，合作医院达3216家，其中三甲医院1732家；内外部医师团队规模已达5万人，签约专家超3700位，包括9名院士/国医大师及820余位正副院长、科室主任与学科带头人；在支付端，\"平安医健付\"已覆盖近24.5万家合作药店中的14.9万家。</li>\n   <li><strong>到家</strong>：联合平安人寿升级推出“平安居家”服务品牌，已将居家养老服务拓展至全国140城。</li>\n   <li><strong>到企</strong>：在全国多地深度推广“1124”企业健管体系，即以1个医务室为核心，依托1支专属到企的专员队伍，通过精准施策与精细运营双重赋能，以满足企业差异化需求，围绕员工提供筛查评估、医疗咨询、促进干预、应急福利等4大类一体化服务。</li>\n  </ul>\n  <p>在“四到”服务打通线上线下服务闭环的业务逻辑下，随着服务流程的延伸，企业健管业务作为公司业绩增长的核心动能，在今年上半年实现收入高增的同时，过去12个月内，公司服务的付费企业客户超7700家，同比增长超73%，该业务同期GMV突破17.9亿元。从公司整体来看，受益于“四到”服务建设，公司的收入结构得到了进一步优化。</p>\n  <h2><strong>02 AI赋能应用助力毛利提升</strong></h2>\n  <p>报告期内，公司在AI领域的主要进展包括：迭代升级\"平安医博通\"医疗大模型，完善5大医疗细分垂域专用模型；\"AI+真人医生\"的健管体系全面接入平安集团全系生态App；公司的相关医疗AI大模型可精准诊断超1.13万种疾病，辅助诊疗准确率接近96%，复杂疾病多学科会诊方案准确率近90%，达到行业领先水准。</p>\n  <p>与消费级通用大模型相比，公司AI业务的核心价值与护城河，主要在于闭源的医疗垂直数据库，以及专业能力更突出的医疗大模型；而精准诊疗疾病覆盖范围的持续扩大与诊疗方案的高准确率，均验证了这一体系的业务能力。</p>\n  <p>从业务开展的逻辑来看，依托公司自有数据库与医疗大模型能力，AI深度赋能“四到”服务建设，不仅显著优化了用户使用体验与提高留存率，而且大幅提升了公司服务的覆盖广度；尤其在严肃医疗领域，亦展现出了可观的业务价值。在财务层面，AI通过提升业务质量直接助力公司整体毛利的提升，报告期内，AI毛利贡献占比约4.6%。</p>\n  <p>&nbsp;</p>\n  <p>*免责声明：&nbsp;</p>\n  <p>本文内容仅代表作者看法。&nbsp;</p>\n  <p>市场有风险，投资需谨慎。在任何情况下，本文中的信息或所表述的意见均不构成对任何人的投资建议。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。我们无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。</p>",
+      "category": "tech",
+      "published_at": "2026-08-18T12:54:35+00:00",
+      "fetched_at": "2026-08-19T00:58:09.479952+00:00",
+      "fingerprint": "32209e1ce72bbdbe"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨董明珠出任格力技校校长，学费最高1.5万元；人均557万元，寒武纪部分员工“大红包”即将到账；宇树科技今日上市",
+      "url": "https://36kr.com/p/3945701165202817?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>8月18日起，阿里“千问办公”接入企业微信</p>\n  <p>安踏前CEO徐阳首次回应离职</p>\n  <p>特斯拉据悉准备8月面向公众推出CyberCab</p>\n  <p>苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀</p>\n  <p>法拉利首款电动车Luce拍出4000万美元，成史上最贵新车拍品</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>入校即入企，董明珠任校长的格力技校招初中毕业生，学费最高1.5万元</strong></p>\n  <p>8月17日晚，格力电器通过官方公众号“格力文化”发布消息称，由格力电器创办的珠海市格力技工学校近日正式开启首届招生，招生将持续至9月中旬，格力电器董事长董明珠亲自担任学校校长。招生简章显示，首届招收300名学生，学费9000元至15000元/学年不等，开设9个招生专业，招生对象为全国应往届初中毕业生，年龄15-18周岁。格力称，学校施行“入校即入企，毕业即适岗”的办学模式。学生入学即可对接企业资源，毕业后优先进入格力电器及产业链企业实习就业。（界面新闻）</p>\n  <p><strong>人均557万元，寒武纪部分员工“大红包”即将到账</strong></p>\n  <p>8月17日晚间，寒武纪发布公告，56.1万股股权激励股份即将解禁，上市流通日期为8月20日。公告称，本次拟归属股票的激励对象共124名，合计分享59.76万股股票（其中：3.66万股来源于公司从二级市场回购的股票，56.1万股为即将解禁的公司向激励对象定向发行的股票）。以寒武纪昨日收盘价1156元/股估算，59.76万股股票价值合计6.9亿元，对应每人平均股票价值557.15万元。</p>\n  <p>公告显示，本次股票激励归属的依据，系寒武纪在2023年11月推出的《2023年限制性股票激励计划》中预留授予部分第一个归属期的归属结果。据Wind统计，在股票激励计划推出当月，寒武纪的股票均价为139元/股。上个月，寒武纪推出了《2026年限制性股票激励计划》，限制性股票授予规模达500万股，对应首次授予的激励对象总人数为945人，约占公司全部职工人数1107人的85.37%，股票授予价格（含预留授予）为750元/股。（21世纪经济报道）</p>\n  <p><strong>宇树科技今日上市，产业链核心标的曝光</strong></p>\n  <p>8月17日晚间，宇树科技（688836.SH）公告称，公司股票将于2026年8月19日在上海证券交易所科创板上市。本次发行价格为150.80元/股，发行后总股本为4.04亿股，其中上市初期无限售流通股3008.77万股，占总股本7.44%。公司发行价对应2025年摊薄后静态市销率为35.89倍，高于可比公司平均水平。</p>\n  <p>策略方面，东吴证券建议关注宇树链、T链、银河通用链以及零部件相关个股。其中，宇树链核心标的包括首程控股、美湖股份、中大力德、长盛轴承；T链相关个股包括恒立液压、三花智控、拓普集团、浙江荣泰、五洲新春；银河通用链核心标的是天奇股份；谐波用量预期上修，相关个股包括绿的谐波、斯菱股份；灵巧手板块相关个股包括兆威机电、汉威科技、新坐标。（21世纪经济报道）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>豆包工作任务上新，可以在虚拟桌面操作Windows</strong></p>\n  <p>36氪获悉，据豆包消息，豆包工作任务模式继续上新，全新的豆包虚拟桌面已在Windows版本上线，豆包操作电脑的能力再次升级。在豆包电脑端选择工作任务模式和本地电脑，在技能栏选择“操作电脑”，完成授权后，在虚拟桌面里，豆包就可以像人一样查看电脑屏幕、移动鼠标、点击按钮、敲键盘，帮用户在电脑端继续推进复杂任务。</p>\n  <p><strong>阿里云启用韩国第三座数据中心，Agentic AI服务同步上线</strong></p>\n  <p>36氪获悉，8月18日消息，阿里云在韩国的第三座数据中心正式上线，并同步推出Agentic AI相关服务，进一步满足当地市场持续增长的AI及云计算需求。近期，阿里云已先后在法国、日本、马来西亚、墨西哥等市场持续完善AI与云基础设施布局。本轮扩建完成后，阿里云全球基础设施将覆盖30个地域、104个可用区，并计划进一步拓展至巴西等国家和地区。目前，阿里云在亚太云计算市场排名第一。</p>\n  <p><strong>企业微信CLI、MCP不限企业全面开放，WorkBuddy、DeepSeek等Agent均可接入</strong></p>\n  <p>36氪获悉，企业微信全面升级CLI与MCP能力，WorkBuddy、Deepseek Harness、Minimax Code等AI Agent均可直接接入企业微信调用企微能力完成任务，企业也可基于开放接口接入自建Agent。此次开放升级，面向所有规模的企业全面开放，不再受企业人数、资质等门槛限制，覆盖文档、表格、邮件、会议、日程、通讯录等十个能力模块。本次CLI的全面开放也意味着企业微信进一步向AI生态敞开底层办公能力。</p>\n  <p><strong>OpenAI宣布推出ChatGPT青少年版</strong></p>\n  <p>OpenAI宣布推出ChatGPT青少年版。若系统判断用户未满18岁，或用户自行声明年龄在13至17岁之间，将自动将其切换至ChatGPT青少年版。（财联社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>宇树科技上市前获加密市场热捧，永续合约暗示股价涨幅或超300%</strong></p>\n  <p>8月18日，宇树科技上市前获加密市场热捧，永续合约暗示股价涨幅或超300%。（财联社）</p>\n  <p><strong>王兴兴称上市是高考，拒绝股价炒作</strong></p>\n  <p>据报道，王兴兴曾表示把上市视为“高考”，公司上市之后，他也将面临更多的考试。王兴兴近期在网上投资者交流活动中回应了市场对于股价、估值以及上市后压力的关注。面对投资者关于股价炒作的提问，他表示，公司希望投资者是“认同公司的价值才买我们公司的股票”，而不是一味炒作；对于上市后的压力，他则回应称“有压力更有动力”，公司将用好募集资金，加快募投项目实施，并以良好的业绩回报股东。</p>\n  <p>王兴兴提到，公司一直怀揣“用科技推动人类社会进步”的初心，并认为当前正处于全球AI与具身智能技术突破的前夜。过去十年的积累，让公司已经拥有“奔赴梦想、实现梦想的底气与能力”。对于一家刚刚迈入资本市场的机器人企业来说，609亿元是新的起点，但这个起点究竟通向1000亿元，还是2000亿元，最终仍然要由机器人自己给出答案。（澎湃新闻）</p>\n  <p><strong>美股三大指数集体收跌，存储板块大幅回落</strong></p>\n  <p>36氪获悉，8月18日收盘，美股三大指数集体下跌，纳指跌1.33%，道指跌0.22%，标普500指数跌0.69%。存储板块大幅回落，Lumentum、闪迪、SK海力士跌超9%，西部数据、美光科技、康宁跌超7%；大型科技股涨跌不一，Meta跌超4%，英伟达跌超2%，特斯拉、亚马逊小幅下跌，苹果涨超1%，微软、谷歌小幅上涨。热门中概股多数下跌，百度跌超12%，爱奇艺跌超8%，小鹏集团跌超3%，理想汽车跌超2%，蔚来、哔哩哔哩跌超1%，阿里巴巴涨超2%，京东涨超1%，拼多多、网易小幅上涨。</p>\n  <p><strong>胖东来澄清，招聘不包含性侵犯罪人员</strong></p>\n  <p>近日，胖东来针对“无门槛招聘刑满释放人员”作出澄清。胖东来表示，并非无门槛接纳，明确排除性侵、严重暴力等恶性犯罪前科人员，且刑释人员需与其他应聘者走完全相同的报名面试流程，并设置6个月的双向选择试用期。首批入职人员也被优先安排在仓储、物流等后台岗位，以兼顾就业帮扶与安全管理。</p>\n  <p>据悉，这已经是胖东来第二年为刑释人员提供岗位。去年入职的30名刑释人员，入职一年实现零离职。创始人于东来表示，希望建立更好制度，帮助更多人有尊严、友善地生活，鼓励刑释人员自尊自重、向善而行。（荔枝新闻）</p>\n  <p><strong>李强签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》</strong></p>\n  <p>国务院总理李强日前签署国务院令，公布《国务院关于修改〈住房公积金管理条例〉的决定》，自2026年9月20日起施行。《决定》共20条，主要规定了以下内容。一是拓宽提取和使用范围。对提取住房公积金支付房租，不再设置房租超过家庭工资收入规定比例的门槛限制；新增装修自住住房、支付自住住房物业费、国务院批准的其他住房消费情形等可以提取住房公积金的情形。适当拓宽住房公积金投资运用渠道，明确住房公积金管理中心可以将住房公积金用于购买政策性金融债。二是提升管理服务效能。简化职工申请提取住房公积金的手续，缩短住房公积金贷款申请的审查时限，实现住房公积金缴存记录等全国范围内互信互认，推动住房公积金转移接续、异地贷款等业务便捷高效办理。三是强化风险防控。国务院住房城乡建设主管部门确定住房公积金领域公共信用信息，住房公积金管理中心建立全面完整准确的信用记录并纳入全国信用信息共享平台；对以欺诈、伪造证明材料等手段违法提取住房公积金、获得住房公积金贷款的行为，规定了明确的法律责任。四是扩大制度覆盖面。明确个体工商户、非全日制从业人员以及其他灵活就业人员可以自愿缴存住房公积金，按照规定享受相应的政策支持。</p>\n  <p><strong>安踏前CEO徐阳首次回应离职</strong></p>\n  <p>8月18日，安踏前CEO徐阳发朋友圈首次回应离职原因，称因家人留学原因离职安踏，即将陪伴家人迁居美国洛杉矶。“没有安排任何一场道别，是因为辜负信任的愧疚和不愿示人的软弱，希望大家都好好的！”徐阳于7月15日因“家庭原因”辞任安踏品牌CEO一职，由集团联席CEO赖世贤代理。任职期间，他曾为安踏品牌立下流水年复合增长10%至15%的目标，但2025年主品牌增速为3.7%，与预期存在差距。而在更早的四年里，作为始祖鸟大中华区操盘手，他将该品牌中国业务从约8亿元推至近30亿元，店均年收入从200万元做到1亿元，被视为将始祖鸟从专业户外带向现象级品牌的关键功臣。（每日经济新闻）</p>\n  <p><strong>红杉中国据悉寻求为其单飞以来的首支美元基金募资12亿美元</strong></p>\n  <p>据知情人士透露，红杉中国已与投资者就多支基金展开初步洽谈，其中包括其“单飞”以来的首支美元基金。知情人士称，该投资公司在商议为一支早期阶段投资基金募集至少12亿美元资金，以支持AI、医疗和消费领域的公司。红杉中国自2005年以来一直由沈南鹏掌舵。他们还说，红杉中国也考虑设立一只成长基金，但具体时间和规模尚未确定。其中一人补充说，该公司另外也在考虑一支人民币计价基金。此次募资将考验这家专注中国的老牌投资机构的号召力。原本红杉品牌伞下的三个实体就已然基本独立，一家专注美欧、一家专注中国，第三家聚焦印度和东南亚。拆分后，中国这一分支最终以HSG为英文名，投资了宇树科技、Minimax和月之暗面等AI新兴企业。（新浪财经）</p>\n  <p><strong>特斯拉据悉准备8月面向公众推出CyberCab</strong></p>\n  <p>媒体援引知情人士报道称，特斯拉已告知员工正为Cybercab面向公众推出做准备。这是特斯拉首款没有方向盘和刹车踏板的车型。报道称，特斯拉计划首先在德克萨斯州奥斯汀向公众推出Cybercab，最快可能本月启动。（新浪财经）</p>\n  <p><strong>超级富豪家族办公室扎堆SpaceX，持股规模超过38亿美元</strong></p>\n  <p>为美洲、欧洲和中东的超级富豪进行投资的机构已建立了数十亿美元的SpaceX投资敞口，凸显出这些机构抢占炙手可热投资机会的能力。申报文件显示，2026年上半年，十多家家族办公室持有这家正式名称为Space Exploration Technologies Corp.的公司合计至少38亿美元的股份。其中一些机构，包括Pritzker旗下的Tao Capital，以及Moreira Salles家族，也是马斯克商业帝国中另一家上市公司特斯拉的投资者。（财联社）</p>\n  <p><strong>Anthropic在IPO之前的年化营收突破650亿美元</strong></p>\n  <p>有市场消息称：Anthropic预计将在数周内启动IPO流程。Anthropic在IPO之前的年化营收突破650亿美元。（新浪财经）</p>\n  <p><strong>英伟达到处给人“兜底融资”？“新债王”冈拉克：预示市场或见顶</strong></p>\n  <p>随着英伟达与华尔街联手到处给人“兜底”融资，被业内誉为“新债王”的双线资本（DoubleLine Capital）首席执行官冈拉克最新警告称，华尔街试图将人工智能芯片变成可投资资产类别，这可能预示着市场即将见顶。冈拉克抨击了英伟达新近宣布的与六家金融巨头的合作关系，这些合作旨在为人工智能基础设施筹集超过5000亿美元的资金。英伟达将在其中扮演合作牵头方，而非出资方的角色。实际上就是利用其自身较高的信用评级，帮助控制客户的融资成本。（财联社）</p>\n  <p><strong>马斯克旗下特斯拉与SpaceX合并预期升温，预测市场押注2027年前合并概率达55%</strong></p>\n  <p>近期关于马斯克旗下两大核心企业——特斯拉与SpaceX合并的猜测持续升温，预测市场正涌现大量押注资金。预测平台Polymarket数据显示，市场目前认为两家公司于2027年12月31日前正式合并的概率为55%。另一家预测市场平台Kalshi则在X平台发文称，2028年之前合并落地的概率由65%进一步升至71%。（财联社）</p>\n  <p><strong>苹果罕见松口：坦言监管重压下，千亿服务业务正受到侵蚀</strong></p>\n  <p>8月18日，苹果公司首次承认，监管的变化迫使其对App Store的控制被放宽，也因此拖累了其超过1000亿美元的服务业务。这一罕见声明表明，反垄断行动正开始侵蚀该公司最盈利的业务部门之一。苹果在最新的监管文件中警告称，通过替代支付系统进行的购买交易“可能完全无法获得佣金”。并且本月其报告的服务收入和利润率低于华尔街预期。（财联社）</p>\n  <p><strong>希音被曝估值缩水，正寻求以300亿美元以内估值进行IPO</strong></p>\n  <p>8月18日消息，据报道，希音正寻求以260亿至270亿美元的估值在香港进行首次公开募股（IPO）。这一目标估值较该公司历史峰值大幅缩水。Shein计划通过此次上市筹集约20亿美元资金，现有股东或将认购本次发行规模的约一半。（澎湃新闻）</p>\n  <p><strong>谷歌据悉拟2027年停止在中国生产Pixel系列产品</strong></p>\n  <p>据报道，谷歌已告知供应商，计划从明年起将所有Pixel智能手机、智能手表和无线耳机的生产转移至中国以外。（新浪财经）</p>\n  <p><strong>法拉利首款电动车Luce拍出4000万美元，成史上最贵新车拍品</strong></p>\n  <p>尽管上市以来备受批评，法拉利首款纯电动车Luce仍以4000万美元成交，成为史上最昂贵的新车拍品。8月17日，法拉利在声明中表示，这辆“Tailor Made”高级定制版Luce在美国加州蒙特雷汽车周期间举行的苏富比慈善拍卖会上打破了此前纪录。去年的纪录由一辆定制版法拉利Daytona SP3创下，成交价为2600万美元。法拉利于5月发布Luce，售价55万欧元。这款车型推出后遭遇一波批评声浪，并导致公司股价下跌。（界面新闻）</p>\n  <p><strong>特斯拉据悉准备8月面向公众推出CyberCab</strong></p>\n  <p>媒体援引知情人士报道称，特斯拉已告知员工正为Cybercab面向公众推出做准备。这是特斯拉首款没有方向盘和刹车踏板的车型。报道称，特斯拉计划首先在德克萨斯州奥斯汀向公众推出Cybercab，最快可能本月启动。（新浪财经）</p>\n  <p><strong>英伟达CEO黄仁勋之女访问LG电子，讨论加强AI基础设施和机器人领域合作</strong></p>\n  <p>8月18日，英伟达公司高级总监、首席执行官黄仁勋之女黄敏珊（Madison Huang）8月17日访问了位于韩国的LG电子机器人中心。黄敏珊与LG电子高管会面，探讨了双方在人工智能（AI）基础设施和机器人领域深化合作的方式。此次访问前，LG电子上周宣布，计划依托英伟达机器人平台，在2027年第一季度推出一款可双足行走的新一代人形机器人。（新浪财经）</p>\n  <p><strong>卢伟冰：新一代小米玄戒芯片即将发布，一系列旗舰产品会密集上市</strong></p>\n  <p>36氪获悉，小米集团合伙人、集团总裁卢伟冰在财报电话会上透露，去年小米成功推出的玄戒O1芯片，在三款终端上的累计出货量已超过百万，实现了旗舰芯片规模化验证，全新一代小米玄戒芯片也即将发布。卢伟冰同时表示，9月份小米会进入密集的新品发布期，会有一系列重磅旗舰产品陆续上市。</p>\n  <p><strong>韩国现代汽车工会将时隔10年举行全面罢工</strong></p>\n  <p>8月18日，现代汽车劳资双方在韩国蔚山工厂举行第16轮谈判，时隔41天重启磋商，最终仍未能达成共识。劳资分歧主要集中在上调奖金、恢复在工会活动过程中因违法行为被解雇员工的职位，以及延长退休年龄等三项议题。工会随后敲定新一轮罢工日程，19日至20日、24日至25日每天举行4小时部分罢工，21日举行8小时全面罢工。这将是该工会自2016年劳资谈判后，时隔10年再度举行全面罢工。（财联社）</p>\n  <p><strong>Anthropic筹备超级投票权，为IPO铺路</strong></p>\n  <p>据两名知情人士透露，Anthropic计划授予首席执行官达里奥·阿莫迪及其他联合创始人一类具备超额投票权的股份，帮助他们抵御外部股东施加的压力。这将是Anthropic管理层首次获得超级投票权；该机制在科技企业创始人中已十分普遍。另有消息人士表示，对Anthropic而言此举意义特殊：相比其他科技企业创始人，该公司创始人所持股权占比相对较低。公司还计划依托特殊类别的股票，保留现有的非股东受托人团体，由其选举董事会多数席位，以此构建一道非传统屏障，抵御外部股东干预。（新浪财经）</p>\n  <p><strong>美加关税谈判进入最后关头，特朗普政府淡化达成协议预期</strong></p>\n  <p>据知情人士透露，特朗普政府正淡化外界对美加两国在最后一刻达成协议以避免将于周三生效的新关税的预期。美方私下表示，双方周二达成协议的可能性只有五五开甚至更低。两国需要在午夜截止期限前达成协议，否则美国将对价值数十亿美元的加拿大商品征收50%的关税。（新浪财经）</p>\n  <p><strong>德国去年企业关闭数量创近20年新高</strong></p>\n  <p>德国信用报告机构“信贷改革”公司和欧洲经济研究中心最新联合分析显示，2025年德国共有超过18万家企业停止经营，同比增加近10%，数量为近20年来最多。（新华社）</p>\n  <h2>大公司财报</h2>\n  <p><strong>必和必拓全年基本利润132亿美元，同比增长30%</strong></p>\n  <p>必和必拓全年基本利润132亿美元，同比增长30%，预估为126.9亿美元；净利润98.3亿美元，同比增长9%，预估109.5亿美元；每股末期股息0.99美元，上年同期0.60美元。（财联社）</p>\n  <p><strong>小米集团：二季度营收1089亿元</strong></p>\n  <p>36氪获悉，小米集团发布2026年第二季度财报。财报显示，二季度营收1089亿元，上年同期营收1160亿元；净利润94.6亿元，同比下降20.3%。</p>\n  <p><strong>爱奇艺：二季度总收入62.9亿元，环比增长1%</strong></p>\n  <p>36氪获悉，8月18日，爱奇艺发布截至2026年6月30日未经审计的第二季度财报。二季度爱奇艺总收入62.9亿元人民币，环比增长1%。其中，会员服务收入40.1亿元，在线广告服务收入12.5亿元，内容发行收入6.8亿元，其他收入3.4亿元。</p>\n  <p><strong>百度：二季度总营收313亿元，AI业务收入占比连续过半</strong></p>\n  <p>36氪获悉，百度发布2026年第二季度财报。财报显示，二季度总营收313亿元；一般性业务收入252亿元，其中AI业务收入占比50%，已连续两季占比过半。二季度百度AI云基础设施收入73亿元，同比增长50%，其中GPU云同比增长283%，已连续四个季度实现三位数增长；AI应用收入25亿元，同比增长3%；AI原生营销服务收入26亿元。</p>\n  <p><strong>中国联通：2026上半年营收2014亿元，同比提升0.6%</strong></p>\n  <p>36氪获悉，中国联通公告，2026上半年营业收入人民币2014亿元，同比提升0.6%；服务收入人民币1780亿元，同比下降0.2%。净利润人民币95亿元，同比下降34.6%。</p>\n  <p><strong>舍得酒业：2026年上半净利润1.45亿元，同比降67.26%</strong></p>\n  <p>36氪获悉，舍得酒业公告，2026年上半年营业收入22.87亿元，同比下降15.34%。归属于上市公司股东的净利润1.45亿元，同比下降67.26%。扣非净利润1.32亿元，同比下降69.84%。上年同期净利润4.43亿元。本报告期无利润分配预案。</p>\n  <p><strong>小马智行：二季度总营收2.46亿元，Robotaxi收入同比增长691.2%</strong></p>\n  <p>36氪获悉，8月18日，小马智行发布2026年第二季度财报。二季度总营收2.46亿元，同比增长68.8%。Robotaxi业务收入8192万元，同比大幅增长691.2%，环比增长40.9%，贡献总营收的三分之一，成为拉动业绩增长的重要力量。其中，乘客车费收入同比激增849.3%，创下历史最高单季涨幅。截至2026年6月30日，Robotaxi车队规模已达1975辆。目前，基于北汽、广汽、丰田三款车型打造的第七代Robotaxi均已投入日常服务。公司依托共建车队模式加速海外布局，海外部署计划合计超4000辆Robotaxi，其中与Uber合作计划在欧洲五城部署超2000辆。</p>\n  <p><strong>华能国际：2026年上半年净利润65.86亿元，同比下降28.89%</strong></p>\n  <p>36氪获悉，华能国际公告，2026年上半年实现营业收入1069.09亿元，同比下降4.57%；归属于上市公司股东的净利润65.86亿元，同比下降28.89%。</p>\n  <p><strong>中信建投：2026年上半年净利润76.39亿元，同比增长69.44%</strong></p>\n  <p>36氪获悉，中信建投公告，2026年上半年公司实现营业收入162.29亿元，同比增长51.11%；净利润76.39亿元，同比增长69.44%。公司拟2026年中期现金分红22.49亿元，该方案尚待提交股东会批准。</p>\n  <p><strong>国泰海通：2026年上半年净利润202.6亿元，同比增长28.74%</strong></p>\n  <p>36氪获悉，国泰海通公告，2026年上半年实现营业收入471.63亿元，同比增长97.56%；归属于母公司所有者的净利润202.6亿元，同比增长28.74%。公司拟向A股股东和H股股东每10股分配现金红利3.0元（含税），拟分配现金红利总额为52.54亿元（含税），占2026年上半年归母净利润的25.93%。</p>\n  <p><strong>OpenAI第二季度营收67亿美元，同比增长18%</strong></p>\n  <p>OpenAI第二季度营收增长18%至67亿美元，但亏损进一步扩大，业务增速落后于Anthropic。（新浪财经）</p>\n  <p><strong>株冶集团：2026年上半年净利润19.48亿元，同比增长232.75%</strong></p>\n  <p>36氪获悉，株冶集团公告，2026年上半年实现营业收入141.5亿元，同比增长35.91%；归属于上市公司股东的净利润19.48亿元，同比增长232.75%。营收增长主要系本期贵金属价格较上年同期上涨。</p>\n  <h2>投融资</h2>\n  <p><strong>“恒湾科技”完成数亿元B轮融资</strong></p>\n  <p>36氪获悉，恒湾科技（ZILLNK）近日宣布完成数亿元人民币B轮融资，本轮由深创投领投，国开科创、沃赋创投、东山精密等跟投。资金将主要用于核心芯片自研、AI-RAN与6G技术研发，以及海外市场的深化布局。</p>\n  <p><strong>“安澜德健”完成近亿元A轮融资</strong></p>\n  <p>36氪获悉，据启明创投消息，日前，“安澜德健”宣布完成近亿元A轮融资，由启明创投独家投资。本轮募集资金将主要用于加速推进公司核心产品OpusOne™的国内注册临床试验进程，并全面支持其海外早期临床试验的申报与开展。</p>\n  <p><strong>“思昇科技”完成数千万元种子+轮融资</strong></p>\n  <p>36氪获悉，近日，AI驱动的超声脑机接口公司“思昇科技”宣布完成数千万元种子+轮融资。本轮融资由国汽投资领投，元禾璞华、全球健康产业创新中心（GHIC）跟投，老股东英诺科创基金、水木清华校友种子基金继续加注，由光源资本担任独家财务顾问。本轮资金将主要用于超声脑机接口核心技术研发、医疗器械产品推进、多模态脑数据与AI脑科学平台建设，以及跨学科人才团队扩充。</p>\n  <p><strong>“嘉腾机器人”完成数千万战略融资</strong></p>\n  <p>36氪获悉，近日，“嘉腾机器人”宣布完成数千万战略融资，由上市公司和而泰领投、道禾基金（LP是东方精工、乐聚机器人和道禾自有资金）、金木资本跟投，云岫资本担任后续融资独家财务顾问。</p>\n  <p><strong>“芯旸微”完成千万元天使轮融资</strong></p>\n  <p>36氪获悉，水下感知芯片企业“芯旸微”近日完成千万元天使轮融资，本轮投资方为险峰长青和隐峰资本，资金将主要用于团队建设和人才体系搭建。</p>\n  <p><strong>“中科驭数”完成C+轮融资，投后估值近70亿元</strong></p>\n  <p>36氪获悉，近日，国内DPU芯片企业“中科驭数”正式完成C+轮融资，本轮融资由长江资本、太平科创、尚颀资本、云锋投资、浙江产投、智微资本、建投华科等多家产业资本与政策性基金联合参与，完成后中科驭数投后估值近70亿元。</p>\n  <h2>酷产品</h2>\n  <p><strong>共生知行发布人形机器人赛车Demo</strong></p>\n  <p>36氪获悉，8月17日，具身智能初创公司共生知行（Symbiosis Robotics）发布双足人形机器人驾驶卡丁车Demo，这是公司成立后首次系统展示“全身智能”阶段性进展。据了解，共生知行聚焦面向双足人形机器人的全身智能基座模型，尝试打通感知、决策、全身运动控制与数据训练链路。公司表示，未来将快速迭代发布共生知行的技术进展、Demo、开源项目等。</p>\n  <h2>AI图谱</h2>\n  <p><strong>AI图谱，带你解读最新最快的AI资讯。AI“母体”重现？每人1290个属性，全部来自真实数据。</strong></p>\n  <p><strong>整理</strong>｜葡萄&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-19T00:17:16+00:00",
+      "fetched_at": "2026-08-19T00:58:09.479937+00:00",
+      "fingerprint": "2ff54cfd73dc1871"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等",
+      "url": "https://sspai.com/post/113566",
+      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章成 ...<a href=\"https://sspai.com/post/113566\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-18T00:04:07+00:00",
+      "fetched_at": "2026-08-19T00:58:07.971998+00:00",
+      "fingerprint": "3802abd7aeeea505"
+    },
+    {
+      "source": "少数派",
+      "title": "7月音乐精选：夏天赠予我们的 9 张专辑",
+      "url": "https://sspai.com/post/113454",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/113454\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-18T02:52:11+00:00",
+      "fetched_at": "2026-08-19T00:58:07.971991+00:00",
+      "fingerprint": "2182be1a33b64978"
+    },
+    {
+      "source": "少数派",
+      "title": "App+1 | 让任务栏更有用：WindowSill",
+      "url": "https://sspai.com/post/113438",
+      "summary": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？<a href=\"https://sspai.com/post/113438\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-18T06:30:00+00:00",
+      "fetched_at": "2026-08-19T00:58:07.971985+00:00",
+      "fingerprint": "a348d32e461eceb0"
+    },
+    {
+      "source": "少数派",
+      "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
+      "url": "https://sspai.com/post/113564",
+      "summary": "二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ...<a href=\"https://sspai.com/post/113564\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-18T07:05:05+00:00",
+      "fetched_at": "2026-08-19T00:58:07.971977+00:00",
+      "fingerprint": "8fe035c5f48b9481"
+    },
+    {
+      "source": "少数派",
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "url": "https://sspai.com/post/113593",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113593\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-18T09:01:31+00:00",
+      "fetched_at": "2026-08-19T00:58:07.971965+00:00",
+      "fingerprint": "01895218faea4024"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7948 CNY ↓-0.15%",
+      "url": "https://www.frankfurter.app/2026-08-18?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-08-18</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7948 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0070 (-0.15%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-08-19T00:58:06.885562+00:00",
+      "fingerprint": "a65d27f3fdf2a26f"
+    },
     {
       "source": "BBC World News",
       "title": "French PM heckled over wildfire response as blazes continue across Europe",
@@ -1871,286 +2131,6 @@
       "published_at": null,
       "fetched_at": "2026-08-12T01:26:54.095522+00:00",
       "fingerprint": "ba63ef414ee9ddac"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Canada flight cancelled after child refuses to wear seat belt",
-      "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-      "category": "politics",
-      "published_at": "2026-08-10T21:06:27+00:00",
-      "fetched_at": "2026-08-11T01:18:33.325693+00:00",
-      "fingerprint": "18c5c04d076d1e12"
-    },
-    {
-      "source": "BBC World News",
-      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-      "category": "politics",
-      "published_at": "2026-08-10T19:17:11+00:00",
-      "fetched_at": "2026-08-11T01:18:33.325688+00:00",
-      "fingerprint": "540ff48afb28f1e6"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-      "category": "politics",
-      "published_at": "2026-08-10T14:43:08+00:00",
-      "fetched_at": "2026-08-11T01:18:33.325681+00:00",
-      "fingerprint": "31206be382c1c4fb"
-    },
-    {
-      "source": "BBC World News",
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-      "category": "politics",
-      "published_at": "2026-08-10T14:34:25+00:00",
-      "fetched_at": "2026-08-11T01:18:33.325671+00:00",
-      "fingerprint": "556564ff8f4d0572"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代",
-      "url": "https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "粉絲和創作者表示，MySpace 若要復興，必須給人一種個人化的感覺，而不是由演算法驅動的。",
-      "category": "politics",
-      "published_at": "2026-08-11T00:02:22+00:00",
-      "fetched_at": "2026-08-11T01:18:33.207692+00:00",
-      "fingerprint": "1ae63f4280ec5b48"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "為什麼航空公司對鋰電池日趨警惕",
-      "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "航空公司希望乘客在攜帶鋰離子電池旅行時要格外小心。",
-      "category": "politics",
-      "published_at": "2026-08-10T09:16:11+00:00",
-      "fetched_at": "2026-08-11T01:18:33.207686+00:00",
-      "fingerprint": "584e8902f6c351a9"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「最強颱風」紀錄險再刷新 白海豚登陸後北移百萬人疏散",
-      "url": "https://www.bbc.com/zhongwen/articles/c9w0n9gejzpo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "海豚颱風已登陸，為中國東部包括上海在內的地區帶來強風和暴雨。",
-      "category": "politics",
-      "published_at": "2026-08-10T05:41:30+00:00",
-      "fetched_at": "2026-08-11T01:18:33.207673+00:00",
-      "fingerprint": "655a74e1d57fbb12"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
-      "url": "https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "伊朗和阿曼都表示，關於重新開放霍爾木茲海峽的談判進展「積極」，但現在伊朗已向美國提出了一系列要求。",
-      "category": "politics",
-      "published_at": "2026-08-10T06:37:01+00:00",
-      "fetched_at": "2026-08-11T01:18:33.207662+00:00",
-      "fingerprint": "97117c41f9c62146"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Chicken Scheme 6.0",
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-11T01:18:32.965555+00:00",
-      "fingerprint": "2c3a236eede1b0e6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-11T01:18:32.965434+00:00",
-      "fingerprint": "7c4c5b27f76a0362"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-11T01:18:32.965310+00:00",
-      "fingerprint": "d7dddac5c9c6043e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-      "url": "https://everycube.alen.is/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-11T01:18:32.965195+00:00",
-      "fingerprint": "ab15954351319b90"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The UK's War on Anonymity Has Come to America",
-      "url": "https://www.effort.news/uk-lobby",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-11T01:18:32.965065+00:00",
-      "fingerprint": "8b56f91e6ea52368"
-    },
-    {
-      "source": "The Verge",
-      "title": "Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff",
-      "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
-      "summary": "The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a Nintendo Switch 2, a 256GB microSD Express card (usually $59), and [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-10T19:14:27+00:00",
-      "fetched_at": "2026-08-11T01:18:32.628435+00:00",
-      "fingerprint": "c98107d0470ab865"
-    },
-    {
-      "source": "The Verge",
-      "title": "Bluesky now lets you hide reposts from that annoying person you follow",
-      "url": "https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads",
-      "summary": "Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your feed with reposts of things you don't care about. If you follow me, I may be that [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-10T19:26:50+00:00",
-      "fetched_at": "2026-08-11T01:18:32.628429+00:00",
-      "fingerprint": "a1d2073e180234b8"
-    },
-    {
-      "source": "The Verge",
-      "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
-      "url": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
-      "summary": "If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from our guide to the best gadgets for summer travel because it can charge up to five devices at once, yet it’s small enough [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-10T21:18:15+00:00",
-      "fetched_at": "2026-08-11T01:18:32.628422+00:00",
-      "fingerprint": "b8c71c606b39ab9a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-10T22:00:00+00:00",
-      "fetched_at": "2026-08-11T01:18:32.628412+00:00",
-      "fingerprint": "d8f43f474508ca5e"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "氪星晚报 ｜搜狐：2026年Q2总收入1.36亿美元，同比增长7%；千问开放平台上线；高盛：全球AI投资今年将突破10000亿美元，美国投资接近6000亿美元",
-      "url": "https://36kr.com/p/3933544245771395?f=rss",
-      "summary": "<h2>大公司：</h2>\n  <p><strong>美的、光峰科技等成立创业投资合伙企业，出资额9286万</strong><br />36氪获悉，天眼查App显示，近日，宁波美和南旅创业投资合伙企业（有限合伙）成立，执行事务合伙人为美的创业投资管理有限公司，出资额9286万人民币，经营范围为创业投资，由江西南旅投资集团有限公司、深圳光峰科技股份有限公司等共同出资。</p>\n  <p><strong>药石科技：上半年净利润同比增长37.17%，拟10派1元</strong></p>\n  <p>36氪获悉，药石科技披露半年报，上半年营业收入10.59亿元，同比增长15.19%；归属于上市公司股东的净利润9944.49万元，同比增长37.17%；基本每股收益0.43元。拟向全体股东每10股派发现金红利1元（含税）。</p>\n  <p><strong>钶锐锶科创板IPO定于8月17日上会</strong></p>\n  <p>36氪获悉，据上交所网站披露，上交所上市审核委员会定于8月17日召开2026年第47次上市审核委员会审议会议，届时将审议广东钶锐锶数控技术股份有限公司的首发事项。</p>\n  <p><strong>阿里云将数据中心交付周期缩短至100天</strong></p>\n  <p>36氪获悉，8月10日，基于首创全模块化设计架构，阿里云已将大型AIDC数据中心的交付工期缩短至100天。同样的工期，国内传统交付周期为6至12个月，美国为12至18个月。在大幅缩短工期的同时，阿里云数据中心整体建设成本反而降低10%以上。今年，阿里云正计划将模块化数据中心的全球产能提升两倍以上。</p>\n  <p><strong>东鹏饮料在郑州成立新公司，注册资本1亿</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，郑州东鹏维他命饮料有限公司成立，法定代表人为徐仕兵，注册资本1亿人民币，经营范围包括饮料生产、食品生产、食品销售、保健食品（预包装）销售等，由东鹏饮料（集团）股份有限公司全资持股。</p>\n  <p><strong>SK海力士回应“考虑出售重庆工厂”传闻：尚未确定任何事项</strong></p>\n  <p>8月10日，SK海力士就“4万亿韩元规模中国重庆工厂推进出售”的市场传闻发布公告称，公司正在研究多种提升封装业务竞争力的方案，但截至目前尚未确定任何具体事项。SK海力士表示，若未来相关事项确定，将在确定之日起或一个月内再次披露。此前，据中新经纬援引彭博社报道，有知情人士透露，韩国SK海力士正在考虑其位于中国重庆的工厂的多种处置方案，包括引进投资者以加速业务增长。上述人士称，潜在的股权出售对该工厂的估值可能约为30亿美元（约4.2万亿韩元）。（界面）</p>\n  <p><strong>HOOLULUU发布全球首款潮玩音箱盲盒，探索“声音装置”新品类</strong></p>\n  <p>近日，HOOLULUU正式发布旗下首款产品——HOOLULUU MOOD“超频过载（OVERDRIVE）”系列，并提出“潮玩音箱盲盒”这一全新产品形态。该系列采用6+1盲盒结构，每款产品均拥有配色、造型语言、灯光与角色设定。未来，HOOLULUU将持续围绕“声音装置（Sound Installation）”拓展产品矩阵，布局角色IP、联名企划、内容与线下体验。</p>\n  <p><strong>搜狐：2026年Q2总收入1.36亿美元，同比增长7%</strong></p>\n  <p>36氪获悉，8月10日，搜狐公司公布了截至2026年6月30日未经审计的第二季度财务报告。搜狐公司第二季度总收入为1.36亿美元，较2025年同期增长7%。其中，营销服务收入为1500万美元，在线游戏收入为1.16亿美元。财报显示，归于搜狐公司的非美国通用会计准则净利润为50万美元，其中包含冲销所得税费用约1300万美元。相比之下，2025年同期净亏损为2000万美元。</p>\n  <p><strong>中国AI大模型调用量连续十五周领跑：环比增长570%，DeepSeek-V4-Flash正式版登顶</strong></p>\n  <p>根据OpenRouter最新数据测算，上周（8月3日至8月9日）全球AI大模型总调用量为69万亿Token，环比增长21.48%。其中，上榜的AI大模型中，中国AI大模型周调用量达34.25万亿Token，环比增长21.76%；同期美国AI大模型周调用量为9.17万亿Token，环比增长109.36%。中国大模型周调用量连续十五周超过美国，稳居全球首位。上周，全球调用量排名前四均为中国AI大模型。其中，DeepSeek-V4-Flash-0731（即DeepSeek-V4-Flash正式版）位居第一，周调用量达8.83万亿Token，环比增长570%；腾讯Hy3位居第二，周调用量达8.05万亿Token，环比增长67%；DeepSeek-V4-Flash-0423（即DeepSeek-V4-Flash预览版）排名第三，周调用量达5.88万亿Token，环比下滑19%。（每经）</p>\n  <h2>投融资：</h2>\n  <p><strong>星环聚能完成新一轮8.8亿元融资</strong></p>\n  <p>据星环聚能消息，近日完成新一轮(A++轮)融资，融资金额为8.8亿元人民币。本轮融资由深投控资本、深担创投、农银资本、交银投资等机构联合投资，老股东上海科创集团旗下知识产权基金等机构继续跟投。本轮融资资金将与A轮、A+轮融资资金一道，共同用于上海嘉定实验基地建设、NTST(负三角球形托卡马克)建造与运行、CTRFR-1(星环一号)设计建造，以及聚变堆级高温超导磁体与AI等离子体控制等关键技术的持续工程化推进。（第一财经）</p>\n  <h2>新产品：</h2>\n  <p><strong>千问开放平台上线</strong></p>\n  <p>36氪获悉，8月10日，千问开放平台上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入。据介绍，首批接入的伙伴覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域，只需在对话中@相关服务，或点击页面右上角的“圆点角标”进入相应智能体，就能体验从咨询、推荐到下单的完整服务。</p>\n  <h2>今日观点：</h2>\n  <p><strong>高盛：全球AI投资今年将突破10000亿美元，美国投资接近6000亿美元</strong><br />财联社8月10日电，近日，高盛分析师发布报告称，预计到2026年底，全球人工智能投资将超过1万亿美元，其中美国人工智能投资预计接近6000亿美元。高盛研究部根据其对人工智能投资的偏好估计值，推算出到2028年人工智能投资占美国 GDP 的比重。据高盛估算，美国人工智能资本支出占GDP的比重将从2026 的1.8%上升到 2027 年的2.5%，并在2028年进一步上升到 2.8%。而与此同时，全球人工智能投资占全球GDP的比重，将在2026年至2028年逐年上升，分别为0.9%、1.3%和1.4%。（财联社）</p>\n  <h2>其他值得关注的新闻：</h2>\n  <p><strong>现代汽车在首尔周边试点自动泊车机器人，明年投入运行</strong></p>\n  <p>现代汽车集团周一宣布，将在首尔西部一处公寓小区启动机器人示范项目，以此研发智能停车管理系统。该项目依托政府智慧城市监管沙盒计划开展，现代汽车、汽车零部件子公司现代威亚以及现代建设组建联合体，项目选址首尔西南始兴市的希尔斯特波浪城小区。（新浪财经）</p>",
-      "category": "tech",
-      "published_at": "2026-08-10T10:09:54+00:00",
-      "fetched_at": "2026-08-11T01:18:32.552042+00:00",
-      "fingerprint": "7acfb38de9d68f11"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "WISE2026 商业之王系列年度名册调研重磅启动",
-      "url": "https://36kr.com/p/3933570306227592?f=rss",
-      "summary": "<p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_4cc191ae6b974373bfcbe104e5fb6b76@5889148_oswg65960oswg1080oswg575_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p>纳西姆·塔勒布说过：“风会熄灭蜡烛，却能使火越烧越旺。”</p>\n  <p>2026年的商业世界，正站在这样一场大风之中。</p>\n  <p>全球经济颠簸前行，技术浪潮反复冲刷产业边界，旧秩序松动，新规则生长。对有些企业来说，这是令人窒息的逆风；但对另一些企业而言，这恰恰是让火焰烧得更旺的氧气。</p>\n  <p>回看上半年，中国GDP增速为4.7%，处于全球中高速增长梯队，同时，相较于稳健的总量增速，经济底层的结构性迭代，正成为本次发展的一个核心变化，高技术制造业增加值同比增长13.3%，数字经济总规模逼近50万亿元大关。<strong>增长的引擎，正从规模驱动，慢慢转向技术与效率驱动。</strong></p>\n  <p>转向的底层动力，来自研发强度的持续加码。当全社会研发投入强度攀升至2.8%，AI、新能源、人形机器人等领域的渗透率与出货量接连跃升，技术已不再只是某个行业的加分项，而是正在重构所有行业的基础设施。与此同时，商业航天、低轨卫星、创新药授权、低空经济等前沿赛道正密集冲刺商用拐点，跨境电商与海外仓网络将中国产品送达全球超200个国家和地区，品牌出海与文化出海让企业从“走出去”进阶为“扎下根”。</p>\n  <p>这种系统性技术竞争力的崛起，在一级市场得到了清晰映射。上半年，资金高度向硬科技集中，AI大模型、具身智能、半导体成为三大吸金主力。其中，具身智能融资额同比暴涨5倍，量子科技、商业航天等前沿赛道的增速也都在两倍以上。资本的流向，正在为下一个时代划出轨迹。</p>\n  <p>当技术成为所有行业的基础设施，当资本坚定地为未来投票，商业本身也在被重新定义，它不再只是模式与流量的博弈，而是<strong>技术深度、产业厚度与全球视野的综合角力</strong>。</p>\n  <p>这正是36氪选择在这个节点，重新审视“商业之王”标准的原因。</p>\n  <p>作为深耕科技创新与商业生态的新型服务平台，16年来，36氪见证并参与了中国商业生态的演进与蜕变。我们发现，在变化不断发生的商业环境中，真正具有长期价值的企业，不仅需要抓住时代机会，更需要推动产业进步、创造新的增长可能。</p>\n  <p>他们不只适应风向，更善于把风变成自己的火焰。</p>\n  <p><strong>基于此，36氪正式启动“WISE2026 商业之王系列年度名册”调研项目。</strong>面向年度人物、年度企业、年度焦点产品三大方向，寻找那些推动产业进化、创造商业价值、代表未来趋势的重要力量。</p>\n  <p>36氪将通过专业调研，深入洞察2026年商业生态领域的创新全貌，<strong>看见那些最具引领力、创新力与前瞻力的人；挖掘那些推动产业发展，为经济增长提供创新动能的企业；聚焦那些在不同场景中实现创新应用、重塑用户体验的产品</strong>。</p>\n  <p>本次名册，共包含3大系列，15个评选维度，分别为：</p>\n  <h3><strong>一、WISE2026 商业之王年度人物系列名册</strong></h3>\n  <p>年度人物·商业破局者</p>\n  <p>年度人物·价值发现者</p>\n  <h3><strong>二、WISE2026 商业之王年度企业系列名册</strong></h3>\n  <p>年度企业·AI产业创新企业</p>\n  <p>年度企业·具身智能先锋企业</p>\n  <p>年度企业·半导体产业突破企业</p>\n  <p>年度企业·先进制造标杆企业</p>\n  <p>年度企业·产业数智化服务企业</p>\n  <p>年度企业·大健康产业创新企业</p>\n  <p>年度企业·消费新趋势塑造企业</p>\n  <p>年度企业·出海全球化服务企业</p>\n  <p>年度企业·空天产业创新企业</p>\n  <p>年度企业·最具商业潜力企业</p>\n  <h3><strong>三、WISE2026 商业之王年度焦点产品名册</strong></h3>\n  <p>年度焦点产品（电子产品/消费产品/软件APP）</p>\n  <p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 以下为“WISE2026 商业之王系列年度名册”</strong></p>\n  <p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 申报指南</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_392cb53e357c4c1990678e9461db2706@5889148_oswg634643oswg1080oswg5336_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_9d0859dc007a465293e57b3a1f0f4715@5889148_oswg985266oswg1080oswg6661_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_6f53d0fc6cd148a49b9fe5bf09ad6b9d@5889148_oswg927019oswg1080oswg6670_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_5c6a34e448134a9f8ed08cba0d7782fa@5889148_oswg677186oswg1080oswg6527_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/E_a_CaQ5N9nGXcXqE8t_Og\" rel=\"noopener noreferrer\" target=\"_blank\">“36Kr Today”</a>，作者：36Kr&nbsp;Today，36氪经授权发布。</p>",
-      "category": "tech",
-      "published_at": "2026-08-10T10:39:24+00:00",
-      "fetched_at": "2026-08-11T01:18:32.552036+00:00",
-      "fingerprint": "5ac80865f91ed174"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "近40亿元融资背后：资本为何看好帕西尼",
-      "url": "https://36kr.com/p/3933515490884744?f=rss",
-      "summary": "<p>过去两年，大模型提升了机器人理解任务、拆解指令和规划动作的能力，视觉模型也让机器更擅长识别物体和判断空间位置。但机器人真正伸手之后，问题会迅速从“看见了什么”转向“接触之后发生了什么”。机械手把线束插进接口，视觉系统已经确认位置无误，动作仍可能失败：插入力突然增大、零件发生偏转，或者材料开始滑移。对人来说，这些判断由指尖本能完成；对机器人来��，则依赖触觉感知和控制闭环。</p>\n  <p>这也是触觉在当前具身智能产业阶段进入“聚光灯”的原因。</p>\n  <p><strong>就在行业从样机竞赛走向交付竞赛的节点，帕西尼完成新一轮10亿元融资</strong>，累计融资近40亿元；与此同时，公司总部迁至北京并完成股份制改造。把三件事放在一起看，更像一个赛道阶段切换的信号：具身感知已经不再只验证技术可行性，头部企业开始用资本、组织和生态能力放大已经形成的技术与商业优势。</p>\n  <p>据公开信息披露，本轮由全球消费电子与半导体产业巨头（结合投资方画像，本轮领投方或指向三星）、中银国际投资、鲲鹏基金、合信方册联合领投，鼎晖百孚、成都交子人工智能基金、京铭资本、津融国盛联合投资，知来资本等老股东继续加码。阵容同时覆盖产业资本、国家级金融力量、区域人工智能基金和市场化机构，为公司提供的不只是资金，也包括供应链、产业落地、治理和全球场景连接。</p>\n  <h2><strong>触觉从“可选项”变成核心控制环节</strong></h2>\n  <p><strong>触觉过去常被放在机器人零部件图谱中评价，关注点集中在维度、量程和分辨率。</strong>进入真实任务后，它的价值却更接近控制系统的一部分：机器人必须读取接触结果，判断动作是否偏离，并及时修正。</p>\n  <p><strong>传统自动化设备依靠结构化环境、固定工位和预设程序完成任务，感知只需要确认物体在不在、位置对不对。</strong>具身智能面对的是连续变化：同一个杯子在空杯、半杯和满杯状态下，需要不同夹持策略；同一根线束的角度、摩擦和材料状态变化后，插接阻力也会不同。机器人如果只能执行预先规划的动作，就仍然是更灵活的自动化设备，而不是能够适应物理世界的智能体。</p>\n  <p><strong>因此，触觉真正创造价值的方式，是进入物理闭环：</strong>传感器获得接触信息，采集系统把信息与任务和动作同步，执行端再根据反馈调整控制。任何一个环节缺失，触觉都可能停留在参数展示，难以转化为任务成功率。</p>\n  <h2><strong>具身智能原生下的全链路布局</strong></h2>\n  <p>如果只把帕西尼概括为一家触觉传感器公司，就会错过它技术体系最关键的形成逻辑。帕西尼自创立之初的目标就是加速具身智能落地。围绕这一目标，公司同步布局三大技术方向：触觉传感器、具身数据采集、触觉集成终端执行。三者并不是“先做传感器，再向上下游延伸”的时间序列，也不是业务扩张后的产品拼盘，而是从机器人真实任务反向定义技术图谱的一套并行系统。</p>\n  <p>触觉传感器负责将物理接触转化为可计算信号。基于HAPTA异构多核阵列架构，帕西尼现款产品最多可提供717路触觉信号，并兼顾高频输出、微小力识别、IP68防护和超过1000万次测量寿命。这意味着其产品不仅拥有高精准性，还具备规模装机所要求的可靠性和一致性。</p>\n  <p><strong>与感知技术同步布局的全模态采集系统，将触觉与视觉、关节状态和动作轨迹对齐，形成可供模型训练的数据</strong>；<strong>灵巧手与机器人本体则在真实任务中检验模型和控制效果。</strong>执行结果持续回流，反向迭代传感器、数据和算法。三条技术线由此形成闭环，将竞争维度从单一器件参数，推进到机器人的任务成功率与规模化交付能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_91f3160deb8c48f2bf5e26f5ada3b07d@577536001_oswg335721oswg1080oswg602_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>这一闭环并非内部自证，而是已经获得规模化应用与外部采用的双重验证。近一年度，帕西尼自研触觉芯片消耗量逼近100万颗，全模态数据被多家头部具身智能基础模型企业和大型互联网科技公司采用，公司还参与了相关国家及国际标准制定。三项进展分别体现了硬件规模化能力、数据的外部应用价值，以及公司在行业标准建设中的话语权。</p>\n  <h2><strong>资本逻辑变了：从买可能性，到买复利</strong></h2>\n  <p>再说回持续“高温”的资本区。在一个真正空白的赛道里，资本广泛播种是合理策略。技术方向尚未收敛时，多项目覆盖可以购买选择权。但当头部企业已经跨过产品化、数据闭环、商业交付和组织规模化门槛，投资逻辑就必须变化。资本审视新的具身感知项目，就要追问：后来者究竟带来了什么不可替代的增量。</p>\n  <p>它是否带来了现有方案无法覆盖的新感知模态？能否在成本、寿命、体积、功耗或一致性上实现数量级改善？能否解决新的场景问题？技术优势是否能在真实任务中反复出现？即使产品可行，追赶头部企业的时间和资本成本又是多少？</p>\n  <p><strong>如果这些问题没有答案，只是重新搭建“传感器＋灵巧手＋数据＋模型”的相似图谱，资本购买的不是创新，而是重复的不确定性。</strong>硬科技行业最容易出现的误判，是把“技术被证明”与“公司被证明”混为一谈。触觉传感器尤其容易被演示视频美化：轻轻按压、拖动或抓取一次，很多路线都能呈现直观效果；真正进入生产环境后，工程问题才开始集中出现。毕竟“路线图相似”与“产业能力相同”之间，隔着漫长的工程化过程。</p>\n  <p><strong>帕西尼的投资方覆盖汽车、物流、消费电子、人工智能和精密制造等产业方向。</strong>这样的股东结构，对具身智能企业的意义不只在资金规模。触觉技术缺少的往往是足够具体、足够重复、允许持续迭代的真实任务。</p>\n  <p>汽车产线、3C装配和物流分拣会提出完全不同的要求：材料不同，节拍不同，容错边界也不同。产业资本能够带来场景、供应链和测试标准；企业在这些场景中得到的失败数据，又会推动传感器结构、控制策略和数据采集方式改进。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_fcd26464968d429e8d241e317ed02ce0@577536001_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p><strong>这也是帕西尼比单一触觉创业项目更值得关注的原因。</strong>后来者可以从更新的论文起步，也可能在某个指标上快速领先，但技术壁垒不会因融资路演PPT中的技术路径趋同而自然形成，必须依靠持续的高强度研发投入，以及量产制造与交付经验的不断积累来构建。交付越多，企业掌握的数据越多；客户越丰富，跨本体和跨任务适配经验越多；产量越大，良率和成本控制能力越强；真实数据越多，硬件、控制和模型之间的闭环越难追赶。</p>\n  <p>在全球化环节，帕西尼核心专利已覆盖主要市场，北美、日韩和欧洲的本地化运营与交付体系正在建设。本轮产业资本的加入则进一步转化为供应链协同与海外客户验证，帕西尼的领先或许会从国内工程积累延伸为跨区域标准化交付能力。</p>\n  <h2><strong>头部位置不是结论，而是持续验证</strong></h2>\n  <p><strong>积极判断帕西尼，并不意味着回避它接下来的压力。</strong>大额订单能否按期转化为收入，跨机器人本体适配是否足够高效，数据规模能否对应真实质量，硬件业务与模型业务能否在组织上协同，都是公司迈向更大规模时必须回答的问题。</p>\n  <p>但一个更明确的行业判断已经形成：具身感知不再是一张等待资本填满的白纸，帕西尼也很难再被放在普通触觉传感器企业的坐标中评价。它以加速具身智能落地为目标，同步构建触觉传感器、具身数据采集和触觉集成终端执行，并率先把这套体系推进到商业与组织验证阶段。</p>\n  <p><strong>这也是融资、迁京和股改在同一时期发生的深层含义。</strong>企业竞争的重点已经从寻找可行路线，转向扩大已经形成的系统优势；资本竞争的重点则从补齐赛道地图，转向识别增量创新与头部复利。</p>\n  <p>具身智能的下一阶段，不会只属于“会做机器人”的公司，也不会只属于“会做传感器”的公司。真正稀缺的，是能够把接触变成数据、把数据变成控制、把控制变成稳定交付的产业系统。</p>\n  <p>而这，正是具身感知从概念热潮迈向产业基础设施的关键分水岭。</p>",
-      "category": "tech",
-      "published_at": "2026-08-10T11:17:11+00:00",
-      "fetched_at": "2026-08-11T01:18:32.552029+00:00",
-      "fingerprint": "d36fb217219eb99d"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨宇树科技最终中签率公布：0.01809759%；费大厨撤下“全国小炒肉大王”称号；官方回应“豆包上线酒店订单抽佣机制”",
-      "url": "https://36kr.com/p/3934369453522313?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>Meta发布轻量化AI模型，单张显卡即可运行</li>\n   <li>苹果被曝考虑重新设计Apple Watch&nbsp;</li>\n   <li>极氪回应车辆起火事件</li>\n   <li>商务部：初步认定原产于墨西哥和美国的进口碧根果存在倾销</li>\n   <li>阿维塔辟谣“与华为合作是非必要项”：系言论误读</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>宇树科技：IPO网上发行有效申购倍数8288.82倍，最终中签率0.01809759%</strong></p>\n  <p>宇树科技公告，公司首次公开发行股票并在科创板上市，发行价格为人民币150.8元/股。本次网上发行有效申购户数为978.46万户，有效申购股数为536.37亿股，网上发行初步中签率为0.01206444%。由于网上发行初步有效申购倍数约为8288.82倍，超过100倍，发行人和保荐人启动回拨机制，将323.6万股从网下回拨到网上。回拨后，网上最终发行数量为970.7万股，约占扣除最终战略配售数量后发行数量的30.00%，网上发行最终中签率为0.01809759%。（华尔街见闻）</p>\n  <p><strong>费大厨撤下“全国小炒肉大王”称号</strong></p>\n  <p>被网络质疑后，费大厨门店移除“全国小炒肉大王”宣传。8月10日，费大厨回应称，为响应新规，所有门店正陆续换新，宣传语将改为“精选黑猪肉·专业大厨炒”，预计8月底完成。据此前消息，7月底，中国烹饪协会宣布全面清理、撤销历年颁发的“大师”“名师”及“美食地标城市”等称号，相关证书及宣传背书效力即刻失效。随后有网友发现，费大厨使用近6年的“全国小炒肉大王”称号，是在中国烹饪协会举办的一场线上网络投票比赛中，靠参赛照片和视频赢得的，费大厨相关话题也因此多次冲上热搜。（澎湃新闻）</p>\n  <p><strong>豆包上线酒店订单抽佣机制？官方回应：酒店佣金并非广告费</strong></p>\n  <p>8月10日，通过豆包入口跳转抖音来客成交的酒店订单，将执行独立费率：11.4%的软件服务费加0.6%的支付手续费，综合费率约12%。对此，有酒店行业人士表示，此消息属实，网传照片为抖音来客后台的通知，“现在豆包推荐酒店已经要收佣金了。”7月27日，抖音生活服务学习中心曾发布《2026年抖音生活服务平台特定渠道软件服务费政策说明》，说明中提到，本政策有效期为2026年8月10日0:00至新的抖音生活服务平台特定渠道软件服务费政策生效前一日24:00，具体的软件服务费费率将通过商家来客后台向商家触达。对此，豆包公关负责人刘星回应：豆包生活服务业务目前没有付费推广，豆包推荐酒店也不收取广告费，商家不能通过付费影响推荐或排序，仅在订单成交后支付渠道服务费。（新浪科技）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Meta发布轻量化AI模型，单张显卡即可运行</strong></p>\n  <p>8月10日，Meta Platforms推出轻量化AI模型Muse Glimmer，可在单台电脑上运行，用户能够下载并根据自己的需求定制。Meta表示，Muse Glimmer是该公司Muse Spark1.2模型的“蒸馏”版本，设计重点是提高效率、尽可能降低对计算机系统配置的要求。据介绍，Muse Glimmer拥有300亿个参数，规模“小到”只需要一张显卡就能运行，其主要任务包括日程管理和文件整理等。（界面新闻）</p>\n  <p><strong>OpenAI推出GPT-5.6-Cyber模型提升高级网络安全任务能力</strong></p>\n  <p>金十数据8月11日讯，OpenAI宣布推出GPT-5.6-Cyber，并扩展网络安全计划Davbreak为经过宙核的网络安全防御人员提供更适合高级安全工作的AI模型。OpenAI表示，希望在攻击者大规模部署自主网络攻击之前，将前沿AI能力交给可信防御人员。Daybreak分为两级：Daybreak Blue提供GPT-5.6 Sol访问权限，并没有系统级网络安��防护限制；Daybreak Red 提供 GPT-5.6-Cyber 问权限，用于漏洞利用验证和高级漏洞研究。测试显示，GPT-5.6-Cyber对95%的高级网络安全任务请求作出响应，包括漏洞利用链开发、身份验证绕过和权限提升。OpenAI称，高风险能力将仅向获批准用户开放，并配备额外控制和监控措施。（金十数据APP）</p>\n  <p><strong>高盛机构预测2026年末全球人工智能整体投资规模将突破1万亿美元</strong></p>\n  <p>8月10日消息，高盛最新行业报告预测，2026年末全球人工智能总投资将突破1万亿美元，美国区域投资规模接近6000亿美元。机构测算2026至2028年，美国AI资本支出占GDP比重逐年抬升至1.8%、2.5%、2.8%；同期全球AI投资对应GDP占比分别为0.9%、1.3%、1.4%，AI对全球宏观经济拉动力度持续提升。（财联社）</p>\n  <p><strong>中国AI大模型连续十五周拿下全球调用量第一名，DeepSeek系列产品登顶单周流量榜单</strong></p>\n  <p>OpenRouter周度数据显示8.3-8.9全球大模型总调用69万亿Token，中国厂商合计34.25万亿Token，连续十五周超越美国。DeepSeek-V4-Flash正式版周调用8.83万亿Token，环比暴涨570%位居全球第一；腾讯Hy3、DeepSeek预览版分列二、三名，国产大模型流量优势持续扩大。（每日经济新闻）</p>\n  <p><strong>三星电子HBM4芯片量产良率提升至近80%，抢占AI算力存储增量需求</strong></p>\n  <p>8月10日行业消息，三星HBM4量产良率半年内从不足60%提升至近80%，达到行业黄金良率标准。公司规划Q3HBM4营收较二季度提升3倍，下半年HBM收入占整体HBM业务超60%，年末目标拿下约38%全球HBM市场份额，抢占AI算力存储增量需求。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>苹果被曝考虑重新设计Apple Watch</strong></p>\n  <p>美东时间周日，知名科技记者马克·古尔曼（Mark Gurman）指出，随着芬兰品牌Oura推出的智能健康戒指Oura Ring及其他无屏幕智能健身设备对Apple Watch形成更激烈的竞争，苹果正考虑对Apple Watch产品线进行重大调整。苹果准备着手彻底革新Apple Watch的设计理念，重新从零开始设计产品，以应对智能穿戴行业向无屏设备及更多新形态发展的趋势。尽管目前尚无确切计划公布，但据透露，过去一年间，苹果一直在考虑各种产品形状和尺寸，包括配备圆形显示屏的腕表、完全无屏幕的健身配件等。（财联社）</p>\n  <p><strong>极氪回应车辆起火事件</strong></p>\n  <p>8月10日消息，8月9日晚，就当天一辆极氪车型在宁波充电站发生起火事件，极氪汽车通过官方账号“极氪服务”进行回应。回应中称，8月9日，宁波市海曙区某充电场站，极氪品牌旗下一车辆发生过热事件，消防部门第一时间到达现场并妥善处置，事故未造成人员伤亡。获悉情况后，极氪汽车第一时间安排工作人员赶赴现场，并成立专项工作组协助处理后续事宜。经初步核实，该车辆近期曾发生严重碰撞事故，事故发生后未通过品牌官方授权服务中心进行检测及维修。目前，极氪汽车正积极配合消防及相关部门开展现场勘验和事故原因调查。具体原因，以相关部门最终调查结论为准。（央广网）</p>\n  <p><strong>拼多多上线“最快明天达”，正面切入美团、京东腹地</strong></p>\n  <p>8月10日，拼多多App首页悄然上线“最快明天达”一级核心入口，品类覆盖水果生鲜、日用百货等高频刚需，与此前仅在商品详情页、搜索结果中由算法动态展示“明天达”标识不同，此次拼多多将该服务提升至首页核心导航位，与“百亿补贴”并列。这一看似细微的产品调整，意味着拼多多正式向即时零售核心腹地发起正面冲击，国内万亿级即时零售赛道迎来又一位重量级玩家。（界面新闻）</p>\n  <p><strong>美联储哈玛克：可能需要多次加息压低通胀</strong></p>\n  <p>金十数据8月11日讯，克利夫兰联储主席哈玛克表示，当前通胀仍未回到目标水平，美联储可能需要进行多次加息。她称，一次25个基点加息“对经济不会产生太大影响”，但其不愿预判具体加息次数或最终利率水平。哈玛克认为，目前3.50%-3.75%的利率区间并未对经济形成明显限制，企业仍未因高利率减少增长投资，因此“现在是采取行动的时候”。她表示，等待越久，通胀回到2%的难度越大。哈玛克同时强调，就业市场目前没有明显问题，7月就业数据不会改变她对通胀的关注。她认为，市场只能辅助美联储，不能替代美联储采取行动。哈玛克在美联储7月的议息会议上反对维持利率不变，其倾向于加息25个基点。（金十数据APP）</p>\n  <p><strong>英特尔宣布拟议的150亿美元普通股发行计划</strong></p>\n  <p>英特尔宣布拟议的150亿美元普通股发行计划。英特尔将把所得款项用于一般公司用途。英特尔表示，在资本部署方面保持谨慎。(财联社)</p>\n  <p><strong>SK海力士回应“考虑出售重庆工厂”传闻：尚未确定任何事项</strong></p>\n  <p>8月10日，SK海力士就“4万亿韩元规模中国重庆工厂推进出售”的市场传闻发布公告称，公司正在研究多种提升封装业务竞争力的方案，但截至目前尚未确定任何具体事项。SK海力士表示，若未来相关事项确定，将在确定之日起或一个月内再次披露。（界面新闻）</p>\n  <p><strong>商务部：初步认定原产于墨西哥和美国的进口碧根果存在倾销</strong></p>\n  <p>8月10日，商务部发布对原产于墨西哥和美国进口碧根果的反倾销调查初裁。根据《中华人民共和国反倾销条例》（以下简称《反倾销条例》）的规定，2025年9月25日，商务部（以下称调查机关）发布2025年第52号公告，决定对原产于墨西哥和美国的进口碧根果（以下称被调查产品）进行反倾销立案调查。目前，调查机关初步认定，原产于墨西哥和美国的进口碧根果存在倾销，中国国内碧根果产业受到实质损害，而且倾销与实质损害之间存在因果关系。（澎湃新闻）</p>\n  <p><strong>iPhone18 Pro机型物料成本同比上涨38%，苹果或调整毛利策略以稳健出货</strong></p>\n  <p>36氪获悉，根据Trend Force集邦咨询最新手机产业研究，由于以存储器为首的零部件价格上涨，推升Apple（苹果）将发布的iPhone 18系列整机成本。以该系列的256GB版本BOM（物料清单）成本为例，预估年增幅度达38%左右，整机售价势必提高。为避免影响消费者购买意愿，Apple可能借由降低毛利的方式控制售价涨幅，以换取市占扩张。</p>\n  <p><strong>英伟达宣布将与6家金融公司合作，筹集逾5000亿美元用于AI计算</strong></p>\n  <p>英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR合作，设立独立的算力融资平台，为AI基础设施建设筹集逾5000亿美元第三方资本。英伟达8月10日已与这六家金融机构签署谅解备忘录。相关合作仍需签署最终协议后方可生效。英伟达将与这些公司合作，设立专门的大规模资金池，以具有吸引力的融资利率为英伟达客户提供资金支持。（财联社）</p>\n  <p><strong>韩国将设立超35亿美元基金，重点投资半导体材料、零部件及设备领域</strong></p>\n  <p>据报道，韩国总统秘书室室长姜勋植8月10日表示，作为建设半导体产业集群计划的一部分，韩国将设立规模5万亿韩元（约合35.2亿美元）的半导体专项基金，重点投资于有前景的芯片材料、零部件以及无晶圆厂企业。（界面新闻）</p>\n  <p><strong>阿维塔辟谣“与华为合作是非必要项”：系言论误读</strong></p>\n  <p>近日有媒体报道称，阿维塔副总裁雍军表示，不认为和华为的合作模式是“必要项”，因为阿维塔具备差异化的能力。对此，8月10日，阿维塔辟谣称，雍军原话仅指 “让华为打造专属智驾版本”的模式不必要，并非否定与华为的合作价值。目前，双方采用联创合作模式，全流程共同定义、开发产品，同时阿维塔也是引望第二大股东。（证券时报）</p>\n  <p><strong>美股三大指数集体收跌，大型科技股多数上涨</strong></p>\n  <p>36氪获悉，8月10日收盘，美股三大指数集体下跌，道指跌0.11%，纳指跌0.32%，标普500指数跌0.06%。大型科技股多数上涨，SpaceX涨超4%，奈飞涨超2%，亚马逊、微软涨超1%，谷歌、特斯拉、Meta小幅上涨；英特尔跌超4%，英伟达跌超2%，苹果跌超1%。热门中概股涨多跌少，腾讯音乐、阿里巴巴涨超3%，爱奇艺涨超2%，老虎证券、蔚来、京东、拼多多涨超1%；小鹏集团跌超1%，理想汽车、富途控股小幅下跌。</p>\n  <p><strong>香港打破142年高温纪录</strong></p>\n  <p>近日，强台风“白海豚”的外围下沉气流正为广东、香港等地带来普遍晴朗及极端酷热天气。</p>\n  <p>8月9日下午，香港多处地区气温达37℃或以上。截至8月9日下午3时30分，香港天文台总部录得最高气温36.9℃，是1884年开台有记录以来的最高气温。上水方面则录得最高气温39.8℃，是香港天文台自1980年设置自动气象站以来，在香港地区录得的最高纪录。（第一财经）</p>\n  <h2>上市进行时</h2>\n  <p><strong>百利天恒8月6日二次递交H股IPO上市申请，企业募资将全部投入ADC新药研发</strong></p>\n  <p>8月6日百利天恒向港交所重新递交上市申请，去年11月受港股医药板块行情暂缓发行。公司账面资金充足，募资全部投向全球ADC管线临床、海外运营与供应链体系搭建。（界面新闻）</p>\n  <h2>大公司财报</h2>\n  <p><strong>九号公司：上半年净利润10.08亿元，同比下降18.79%</strong></p>\n  <p>36氪获悉，九号公司披露半年报，2026年上半年，公司实现营业收入143.58亿元，同比增长22.28%；归属于上市公司股东的净利润10.08亿元，同比下降18.79%；基本每股收益14元。</p>\n  <p><strong>搜狐：2026年Q2总收入1.36亿美元，同比增长7%</strong></p>\n  <p>36氪获悉，8月10日，搜狐公司公布了截至2026年6月30日未经审计的第二季度财务报告。搜狐公司第二季度总收入为1.36亿美元，较2025年同期增长7%。其中，营销服务收入为1500万美元，在线游戏收入为1.16亿美元。财报显示，归于搜狐公司的非美国通用会计准则净利润为50万美元，其中包含冲销所得税费用约1300万美元。相比之下，2025年同期净亏损为2000万美元。</p>\n  <p><strong>长青股份：上半年净利润5395.42万元，同比增长27.62%</strong></p>\n  <p>36氪获悉，长青股份披露半年报，2026年上半年，公司实现营业收入21.66亿元，同比增长4.01%；归属于上市公司股东的净利润5395.42万元，同比增长27.62%；基本每股收益0.0863元。</p>\n  <p><strong>江波龙：上半年净利润同比增长71528.66%</strong></p>\n  <p>36氪获悉，江波龙披露半年报，2026年上半年，公司实现营业总收入240.88亿元，同比增长136.26%；归属于上市公司股东的净利润105.77亿元，同比增长71528.66%；基本每股收益25.2元。</p>\n  <h2>酷产品</h2>\n  <p><strong>微软计划于9月发布其下一代MAIA 300人工智能芯片</strong></p>\n  <p>据The Information：微软计划于9月发布其下一代MAIA 300人工智能芯片。微软认为，MAIA芯片能够以更低的成本运行其自主研发和OpenAI的模型。微软计划加大自身对MAIA的使用力度，同时积极争取大客户。(金十数据APP)</p>\n  <p><strong>整理</strong>｜李琪&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-11T00:10:43+00:00",
-      "fetched_at": "2026-08-11T01:18:32.552021+00:00",
-      "fingerprint": "9e687538606aa242"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "千亿IPO：山顶上的宇树 ｜ 深氪",
-      "url": "https://36kr.com/p/3933488511270017?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬 袁斯来</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来 杨 &nbsp; 轩</p>\n  <p>制图&nbsp;|&nbsp;邱晓芬 范馨雅</p>\n  <p>2026年的宇树总部，在旅游城市杭州都算得上是热门景点。</p>\n  <p>参观团常年出没，拉着横幅在门口合影。官方展厅有时候会开放一些散客参观通道，但据说高峰期要排队一个多月。由于大量第三方机构打着“官方合作”旗号收费带客，宇树不得不在显眼处竖起告示——“宇树没有付费参访服务！！！”</p>\n  <p>宇树周边新开的楼盘将“杭州新贵宇树盘”作为核心卖点。因为有个说法是，宇树上市后，早期员工能一人买一套滨江区的房。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_7217099a78da45f6a7dfd71ae5b7d0e4@1199336245_oswg82332oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">宇树展厅 拍摄：邱晓芬</p>\n  <p>而王兴兴的一举一动都会激起波澜。王兴兴穿黑色西装裤没系皮带；王兴兴专访后双手合十，是蒂姆库克的标志性动作；王兴兴的签字刚劲有力，彰显了“独特的个人魅力”；还有网友争论：王兴兴的MBTI到底是INTP还是INTJ。</p>\n  <p>这种狂热的气息，从民间传递到资本市场，在这个盛夏走向高潮。</p>\n  <p>2026年6月，宇树科技科创板IPO申请正式通过上交所上市委审议，从获受理到上会，前后仅73天，“火速过会”。一种看法是，在AI的大国竞争中，中国的优势在制造能力，以宇树为代表的机器人产业承载了这种期待。</p>\n  <p>宇树IPO估值为610亿。不过，<strong>“上市后的市值超过2000亿很合理，我觉得短期都有可能超过4000亿。这对比海外同类公司估值，并不算夸张。”</strong>宇树投资人早期投资人、敦鸿资产合伙人俞文超告诉36氪。不止一个人相信，宇树就是机器人界的苹果、王兴兴就是机器人界的马斯克，“上市后一切皆有可能”。</p>\n  <p>一些没有参与宇树融资的投资人则觉得难以理解，“这是疯了吗？圈子里的人已经疯狂到这个程度了？ 几千亿太夸张了！它2025年营收才17亿啊！”</p>\n  <p>从来没有一家硬件公司，能以十几亿的营收体量获取到如此亢奋的关注和估值。<strong>8月10日，宇树科创板IPO开始打新，中签率仅万分之二——对应着约219倍静态市盈率。而它所属的“通用设备制造业”行业静态市盈率只有38.56倍。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_cf1663c0f33d4c6781c3688ba5b27be9@1199336245_oswg41480oswg1080oswg562_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">4家硬件公司IPO市值与营收对比。备注：初始PE按扣非前后归母净利润孰低值计算，小米采用经调整净利润计算</p>\n  <p>在宇树当前的市值中，一部分源于宇树自身的努力，它努力长成了森林里最高的那棵树；而另一部分，无疑是国家战略、行业下注、民间情绪共同作用的结果，这些构成了它脚下高高隆起的山脉。</p>\n  <p>机器人被写入“十五五”规划，国资机构纷纷下场参投，上市通道的打开……这共同造就了过去三年具身智能赛道融资额的跳跃式攀升，百亿估值公司层出不穷，而各路产业人士也纷纷创业、跳槽，投身其中。&nbsp;</p>\n  <p>看过春晚、期待某天用上机器人保姆的老百姓目光投向它，期待分一杯羹的投资人和股民的目光投向它，机器人产业的同行眼光也投向它——宇树作为整个行业的标杆和锚点，如果它能站稳千亿级市值，那些以几十亿、上百亿乃至数百亿估值投了具身公司的投资人，就能感到心安；如果它意外破发，全行业都会为之胆寒。随着上市鼓点逼近，所有人都在躁动中等待宇树给出一个公开市场的价格答案。</p>\n  <p>于是，在所有人的目光中，宇树成为了山顶上的那棵树。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_2221a62c3e03435f9fda3211989c858c@1199336245_oswg365015oswg1080oswg944_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">宇树大事件和对应的估值变化，图片来自公开信息、访谈</p>\n  <h2><strong>估值1亿级：集体错过宇树那一年</strong></h2>\n  <p>2019年3月，当德讯投资总监周华林、投资经理邓一恒、投后负责人付郝见到王兴兴时，宇树公司账上只剩下小几十万——可王兴兴看上去一点也不着急。</p>\n  <p>周华林有些意外，因为宇树看着就不太宽裕。办公室不过是栋破旧写字楼里两小间，二三十平，看着像个实验室。墙上挂满电子元器件，地面、办公桌上散着机器狗身上的零件，几乎找不到落脚的地方。</p>\n  <p>一行人只能到一楼大堂找个空地聊聊，行人来来去去，自动门总在一开一关，间歇灌进一阵冷风。杭州的1月不过几度，他们缩着脖子，说上几句话，身上就冻僵了。“冷得我！”周华林对此印象深刻。</p>\n  <p>王兴兴对拿钱不太积极。他只想要400万，但德迅投资的创始人曾李青却拍板，想塞给他上千万。</p>\n  <p>风投对王兴兴也不太积极。当时，王兴兴创业2年，宇树估值不到1亿元，已经在投资人圈子里碰了很多次灰。</p>\n  <p>在当时，投资宇树不是主流选择。</p>\n  <p>杭州还有另一家机器人公司云深处，号称「中国版波士顿动力」。它的创始人朱秋国是浙大控制学院的教授、已经在业内小有名气，主持过国家级大项目，创业之初几乎没有缺过钱。在2019年，大多数投资人都会选云深处。</p>\n  <p><strong>2019年，云深处的估值已经达到2-3亿元，是宇树的2倍以上。</strong>“浙大的控制学院比较出名，大家肯定是选择那个创始人背景更好的”，一位投资人回忆道。</p>\n  <p>对比云深处，王兴兴和宇树显得很暗淡。初心资本的管理合伙人田江川记得，自己在内部纪要中，对王兴兴写下的评论是：「背景草根」——他不过是个普通211院校毕业的学生创业者，只在大疆工作过三个月。和不熟悉的人相处时，王兴兴还总是板着脸，看着有些紧绷。</p>\n  <p>当投资人问他，你打算怎么让机器狗赚钱？王兴兴很老实地回答：在没有电梯的小区爬楼送快递。这也是一个令投资人摇头的答案。</p>\n  <p>后来投资圈曾集体反思：为什么会错过宇树？但回到2019年，面对这样的创业者和公司，多数投资人就是“投不出手”。</p>\n  <p>田江川后来自我剖析：<strong>“问题主要出在了我精英主义的傲慢，我认为机器人行业需顶尖学府背景，王兴兴毕业于上海大学，认定这样的背景不匹配行业需求和基金偏好 ——这无疑是巨大的误判。”</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_9be8d921bb4b43f3810de366a267cc36@1199336245_oswg114375oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">宇树新总部 拍摄：邱晓芬</p>\n  <p>况且，宇树还走了一条和主流不同的技术路线。</p>\n  <p>在宇树创业的2016年前后，国内大部分机器人公司都对标波士顿动力，采用液压的路线。“那个时代就是Copy From America。”一位宇树早期投资人告诉36氪。</p>\n  <p>液压的原理是，靠高压油液推动关节里的活塞伸缩发力，把压力转化成机械力。整个过程类似于人类肌肉收缩。</p>\n  <p><strong>周华林清楚记得，自己问王兴兴：你为什么不走液压路线？王兴兴还有些生气。</strong></p>\n  <p><strong>他很直接地回答：液压一定跑不出来。第一，液压杆是高精密机械，美国人做得小且细，中国人做不了那么细；第二，液压成本降不下来；第三，液压控制的精确度不够，很难做出一些精细的动作。</strong></p>\n  <p>对比液压，王兴兴选择的电机方案无法实现高功率输出，但是操作简单、成本低，精度也更高。</p>\n  <p>事实印证了王兴兴技术判断的超前性。2024年4月，波士顿动力正式退役液压版Atlas，转头拥抱宇树自2016年就开始坚持的电驱方案。</p>\n  <p>王兴兴的思路并不学院派，而是很早就指向成本和规模化。<strong>他曾经告诉祥峰投资创始人郑俊聪，宇树研发的出发点就是低成本，高可靠性，实用性。“把四足机器人真正推向大众生活。”</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_b8eccef7c796475eb00c365ed2730266@1199336245_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">投资人拍的宇树机器人狗</p>\n  <p>为了实现这个目标，王兴兴从零开始搭建了一套自己的系统。</p>\n  <p>宇树做直驱后不久，国内机器人创业公司也开始沿用类似的思路。但这些公司都有一个模版：用瑞士Maxon的高速电机、搭配绿地谐波的谐波减速器。</p>\n  <p>这套方案的原理是，高速电机体积小转速快，但力量小，加上一个谐波减速器，就像加了一个放大器。减速器会压低电机转速，并将扭矩放大几十至数百倍，帮助机器人完成负载任务。</p>\n  <p><strong>但宇树走了一条相反的路，也就是准直驱（QDD），用低速电机、再搭配行星减速器。好处在于，低速电机虽然转速低、体积大，但本身力量大，因此降低了对行星减速器的要求，只要稍微放大一点扭矩就可以达到标准。</strong></p>\n  <p><strong>更重要的是，谐波减速器齿圈薄如蛋壳，一摔就碎，单价动辄数千元——相比之下，行星减速器是常见的工业标准件，成本才几十元，而且很耐用。</strong></p>\n  <p>除了动力系统，王兴兴甚至重新改造了行业沿用多年的结构方案。</p>\n  <p>以电机分布为例，同行沿用的基本是来自瑞士ANYbotics的方案——将两个电机装在大腿上，一个电机装在膝盖上，三个电机分别负责三个动作——这样的问题是下肢质量太重，耗电量大。</p>\n  <p>宇树的电机都集中在髋关节，小腿只留一根轻轻的连杆，可以跑很远，也减少维护难度。这种架构创新，补上了电驱路线爆发力和扭矩稍低的短板。</p>\n  <p><strong>“我看完了它的结构之后，我就觉得这是一个天才的设计。它一定是经过好多次迭代，最后就发现就是这个结构最好。”周华林对</strong>36氪<strong>表示。</strong></p>\n  <p>最终历史证明，宇树扮演了技术引领者的角色。此后国内大部分机器人公司的腿部方案，都默认沿用宇树这套“电驱+低速大电机和行星减速器+三电机全近端\"的底层设计。</p>\n  <p><strong>而太超前、太与众不同的后果，就是王兴兴根本找不到核心零件供应商。</strong></p>\n  <p>根据一位从业者回忆，当时四足机器人的供应链可以说“几乎为零”。能做关节的都是小作坊，根本没有“一体化关节”的概念，电机、减速器、控制器分散在不同供应商手里。“你要把它们拼起来，模组又大又重，狗只能勉强自己走两步，没有实用价值。”</p>\n  <p>市场上使用最多的电机追求高转速，扭矩（也就是旋转力大小）不大。但王兴兴要的电机低转速大扭矩，能带动关节运动，和主流技术路线相悖。况且，王兴兴机器人要用的是内转子电机，也就是电机在内部转，而市场上大多数都是无人机、高速吹风机使用的外转子电机。加上王兴兴设计的电机重量比行业对标产品轻一半，市场上找不到成熟标品。</p>\n  <p>能买到的电机都不好用，如果要定做，宇树早期一年订单就几十台，“去敲卧龙、鸣志这些上市公司的门，人家根本不搭理。”一名离职员工对36氪回忆。</p>\n  <p>四处碰壁后，王兴兴意识到：“整机厂要像苹果一样，核心东西自己掌握，才能按自己的想法重塑供应链，而不是被供应商卡脖子。”<strong>没办法外采，他就买来硅钢片、铜线，缠出想要的电机。</strong></p>\n  <p>“我都震惊了，这就很大疆。”周华林回忆看到王兴兴手搓电机时的感受。</p>\n  <p><strong>电机是机器人核心，如果自研，意味着整个系统都要配合电机设计。</strong>王兴兴干脆自己画减速器图纸，做电缆，买电池拼成电池包。连少数外采的控制板上，操控程序也是王兴兴用Linux敲出来的。</p>\n  <p>这种从底层代码到零部件全栈自研，成为宇树最浓厚的底色。</p>\n  <p>在深圳多年，周华林很清楚大疆对核心部件的把控到��什么地步。后来周华林知道王兴兴在大疆工作了一���时间，还和汪韬关系不错后，理解了王兴兴行事风格的起源。</p>\n  <p>“像一个小大疆”，成为德迅押注王兴兴的一个关键原因。“作为一个深圳的投资机构，我们清楚知道大疆是怎么成长起来的。”周华林表示。</p>\n  <p>但当时并非每个投资人都看到了这点。2019年宇树还未大规模开展商业化，投资人只能对人、产品做判断。</p>\n  <p>有业内人士告诉36氪，2019年，有投资机构在某硬件业大佬的推荐下尽调了宇树，但是看到这家公司的账面现金岌岌可危后，担心这笔投资成为“坏账”而退却了。也有机构负责人提出质疑：“地上跑的大疆？不应该是四个轮？为什么需要四条腿？”</p>\n  <p>对于这家非主流公司，可以拒绝它的理由太多了。</p>\n  <h2><strong>估值10亿元级：小众的商业化</strong></h2>\n  <p>要获得更广泛的认可，商业收入是一种更通行的证明。但宇树的商业化路线，投资人也没有特别买单。</p>\n  <p>因为宇树业务上限看起来并不高。很长一段时间中，宇树最坚实的现金流来自大学、科研机构。宇树为后者提供机器狗demo、供二次开发。之前这些院校做科研，只能买波士顿动力的Spot，最便宜的版本都要7.5万美元，而宇树的Aliengo便宜三分之一。2019年，宇树在一次国际展会上接触到这些客户后，就将他们当成了基本盘。</p>\n  <p>当时，其他的商业化路径看起来更具想象力：好几家做四足机器狗选择做C端家庭陪伴，都拿到了投资。但这个宏大叙事难以落地，后来被判定为至少“早了五年”。</p>\n  <p><strong>科研赛道天花板不高——2019年，宇树累计有27个客户、33台订单，交付了8台——但是一门很落地、很省心的生意。</strong></p>\n  <p>首先，科研机构成单周期长，但出手很大方。根据36氪了解，宇树最开始定价在2万到3万美元之间，后来发现客户们对价格不敏感，才拉到了4.5万美元。普通产品高端版本修改代码，再加个芯片模组后，就能以教育客户专属EDU版本，多卖数万元。</p>\n  <p>更重要的是，这群客户也不用宇树花太多心思维护。宇树只用卖标准化硬件，用户自己DIY。宇树还配上了全栈自研的开放底层接口，让教授能随意修改算法。甚至，王兴兴还亲自下场，编写了《四足机器人控制算法》供高校做课本参考。</p>\n  <p>这就避开了做B端生意高单价、但高运维成本，导致“接一个项目亏一个项目”的恶性循环。</p>\n  <p>王兴兴很清楚自己的能力边界。</p>\n  <p>创业早期，宇树一度想过，除了教育科研市场，做更多电力巡检类业务，但很快回撤。他们发现，对电网这类大客户，公司必须做场景适配，工程师要长期驻场、重交付、重集成。“你一个项目就几个人，一个项目才几十万这种客单价去做，要堆多少个项目营收才能上去？数百人左右的公司，根本不可能的。”一位宇树内部人士对36氪分析。</p>\n  <p>机器狗A1发布之后，宇树的出货量开始增加，王兴兴更是果断转向了标品。一家媒体此前曾经写到一个细节，销售团队为了拿订单、给客户承诺可以做定制化开发，每一次都会被王兴兴“痛骂”回去。</p>\n  <p>甚至在教育类市场，宇树也只聚焦大学和科研院校。对比看，当时有其他机器人公司做教育类客户，但要的是“全球教育”，年龄段覆盖幼儿园到大学，业务涵盖课程、教材、在校运营，还花了很大力气搞售后。这是个很性感的故事，上限高、门槛高。但真实回报率远不如宇树。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_e28848fb8ace4a2793b5ea034e778100@1199336245_oswg253925oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">宇树A1</p>\n  <p>而王兴兴的打法很实际。他曾经在一次采访中提到，就是 “农村包围城市”——在波士顿动力等机器人巨头的包围圈外，先找到一些简单的、客户能接受的市场。</p>\n  <p>这些小市场帮宇树跑通了早期闭环。它们锻炼了宇树的产品能力，形成从生产研发到销售的完善架构。其次，宇树在这个过程中可以发现非常多的问题，保证了一年能有一个大的机器人迭代节奏，实现批量量产。</p>\n  <p>底层的原因或许更直白：<strong>“我们公司一开始体量比较小，可能是有意的，或者说我们也只能选这条路。”</strong>王兴兴有一次坦承。某种意义上，宇树早年的弱小，恰好将它推到了一条少有人迹，但相对平坦的道路上。</p>\n  <p>作为一家硬件公司，宇树的商业逻辑一直很清晰：不断迭代性能、降低成本。 “先把硬件做好、成本降下来，大家能看到产品在卖，心里踏实。”一位员工对36氪评价。</p>\n  <p>王兴兴有技术的坚持，却没有清高。他曾经接受采访时说：“很多移动机器人产品，它是个论斤卖的东西，多重就卖多少钱，因为零部件就是材料成本，再加一部分机械成本，加工就好了。我们是论斤卖的，小的卖便宜一点，大的卖贵点，跟猪肉没多大差别。”<strong>他在2019年已经和投资人拍胸脯：“5年后，机器狗（人）完全可以做到2万元左右。”</strong></p>\n  <p>在这样的思路下，王兴兴对宇树的成本把控到了执着的程度。他会计算一个电机上有多少克金属、多少克铜、多少克塑料，然后划一个固定的底线，所有人的终点就是达到这个底线。</p>\n  <p>这种做法很容易想到马斯克做SpaceX的风格，同样也是拆解成本，将看似高不可攀的火箭拉回了地面， 分解成一张张可降本的零件、材料、工艺成本单。</p>\n  <p>一台四足机器人最大的成本就是电机，用MIT的电机直驱方案，加上行星齿轮组成的关节，成本要到整机成本的 50% 以上。</p>\n  <p><strong>宇树一只机器狗需要12个电机，如果外采，一个电机就要3000-5000元，而宇树自研，单个售价在官网1300元。 “集成商若想掌握主动权，必须自研电机与传动系统。”一位行业人士分析，“把最核心的电机、关节给做好，其他的全部都可以降，成本可以卡得很紧。”</strong></p>\n  <p>至此，宇树已经建立起了一整套降本方法论。自研产品之间的元器件可以共用，不同系列生产时，只用更换一些外观结构件。随着系列增加，宇树可以摊薄成本，到2020年机器狗A1推出时，价格就来到1万美元内。2021年，宇树发布了Go1，面向科研机构和学校销售，最低版本的售价才1.6万元，比其他家成本还低。</p>\n  <p><strong>“宇树每款产品出来，所有人震惊，‘完蛋了，被革命了’。”一位行业人士评价。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_3966e11ea361411fb0d4213bd7570ccc@1199336245_oswg105313oswg1080oswg724_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">宇树Go1 图源视觉中国</p>\n  <p>通过一手做“标品”市场，一手极致控制成本，2020年，宇树开始商业化的第二年，就实现了盈利。</p>\n  <p>不过，这个成绩在讲究“梦想上限”的风险投资人看来很不起眼。科研还是个利基赛道，哪怕宇树后来拿下全球科研60%的份额，也不过十多亿营收。这一年，机器人赛道拿钱最多的是工业机器人、手术机器人、仓储机器人，机器狗公司甚至排不上前十。</p>\n  <p>因此，宇树还是没有成为专业投资市场的“共识”。</p>\n  <p>不过，宇树也抓住了一个小机会。2021年、宇树的机器狗第一次登上春晚后。随着这次和几位明星的同台表演，宇树拿下不少B端大客户，包括巡检等。这年公司人数来到百人，有几千万的年营收。</p>\n  <p>也是这次春晚几个月后，宇树完成了一笔顺为资本领投的千万美金A轮融资，公司估值来到十亿级别。</p>\n  <p>这场春晚让宇树在一级市场露了脸，但机器狗终归是个老产品，谈不上破圈。一位投资人向36氪回忆，宇树B轮融资前，他们给宇树对接了近二十个机构，最后无一人下注。</p>\n  <p>那几年，宇树小而美地活着，但无可避免地陷入了很多技术型公司的迷思。手握专利、独家技术、能量产，但无法跨越从小众到大众的鸿沟。</p>\n  <h2><strong>估值30亿+：人形机器人东风下的“完美标的”&nbsp;</strong></h2>\n  <p>2022年10月，当马斯克在特斯拉AI日发布擎天柱时，他应该没有料到，自己会在大洋彼岸催出一家现象级公司。</p>\n  <p>宇树已经成立6年了，还是不温不火。它自给自足，有订单，有口碑，但讲不出足以打开估值上限的新故事。</p>\n  <p>在机器狗以外的赛道，王兴兴似乎没什么野心。他不是马斯克那样追逐风险的狂热分子，而是一个实用主义者。王兴兴在媒体采访中提到过，早在2021年，就有投资人问他，要不要做人形机器人，他没有入场，因为他认为“ 人形机器人已经火了很多年，马斯克做之前，这个方向已经到低谷期。我也没听说有人要买（人形机器人），圈子里都是悲观态度。”</p>\n  <p>直到特斯拉发布了擎天柱，Chat GPT全球爆发，AI智能涌现，王兴兴才决定正式立项做人形机器人。“他不这么选，他投资人都会逼着他这么选，他员工会逼着他这么选。”一位投资人说。</p>\n  <p>但最开始，王兴兴无法笃定这个项目能带来多大的回报。他只调集了3名全职员工研发人形机器人，机器狗团队时不时搭把手。后来的故事已经被讲述了无数次：这几个人只用了半年，在2023年8月就推出了第一代人形机器人H1。</p>\n  <p>H1身高180，售价65万元。但拆解看，<strong>这是个很轻巧的试水产品。H1的关节模块和电机直接复用四足大狗机器人，只是调整了一些参数，没有倾注过重资源。而且，宇树对它的定位是走科研市场， “用机器狗的架构做人形骨架，能走、能二次开发”就行，不用太完美。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_dec0d60e95a445ceb6b7e6f3c3c3c7a1@1199336245_oswg606067oswg1080oswg646_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">宇树H1 图片来自网络</p>\n  <p>这款产品承担的角色，只是在人形机器人赛道占好位。宇树或许没有想到，市场情绪的季风会变化得如此迅速。</p>\n  <p>当马斯克和GPT的两股风从硅谷吹来，国内新成立了一众人形机器人公司——智元机器人、银河通用、加速进化等等。2023年10月，工信部印发《人形机器人创新发展指导意见》，机器人赛道到了大笔押注的时刻。根据公开数据，人形机器人领域融资金额在2023年达到54.7亿元，为十年以来的峰值。</p>\n  <p>新成立的很多具身公司创始人光环耀眼，老牌机器人公司里，傅利叶比宇树更早一个月发布人形机器人，但宇树有后来者难以补上的长板：它率先跑出了利润。</p>\n  <p>一位投资人告诉36氪，2023年看了一圈人形机器人公司，唯一赚钱的就是宇树。根据招股书，2024年，宇树的营收已经来到3.93亿元，净利润9547万元。</p>\n  <p><strong>“这一波人形机器人公司才刚刚起步，上一代机器人公司都处于亏损状态，你上哪找宇树这种这么能高毛利率和收入的公司？”</strong></p>\n  <p>2024年，宇树以人形机器人的叙事，时隔两年完成了新一轮融资，金额10亿元，算当年较大的一笔融资，估值在30亿上下。</p>\n  <p>宇树还是那个宇树，它的底色没有变。只是此刻蜂拥而至的投资人们终于发现，它就是全市场最稀缺的优质标的。</p>\n  <p>它的成本控制很强悍。2024年8月，宇树又用了半年，推出了一款震动行业的产品，价格9.9万的小机器人G1。对比看，同行的成本可能都高达十多万，宇树击穿了行业底价，还能有不错的毛利。</p>\n  <p>以这样的低价，宇树的硬件可靠性却明显领先同行。郑俊聪表示<strong>，</strong>宇树把本体做到几万块，就像是当年IBM造出了PC，之后大家才能在上面开发软件生态和应用。</p>\n  <p><strong>一位前员工告诉36氪，他们产品之所以稳定，最核心的就是电机性能好。以瞬时功率为例，性能越强，意味着机器人在做剧烈动作时，能持续更久不会过热，可以在极端工况下工作更长时间。</strong></p>\n  <p>宇树的员工曾经在一次比赛上看到对手的产品没有手臂，他们还研究了很久，以为对方是故意这样设计的，结果后来才发现是摔倒后掉落了。但宇树自研电机，机器人在极限场景测试中摔倒，也不会出现彻底脱落的情况。</p>\n  <p>虽然还没有到国民热度，但当人形机器人赛道成为风投们的新共识后，宇树成了一级市场哄抢的目标。</p>\n  <p>2024年，因为某些外部原因，有的早期资方部分退出了宇树，导致老股短暂在市场上流通了一段时间。</p>\n  <p>这些老股堪称香饽饽。一名知情人士告诉36氪，当时，有机构刚释放退出消息，电话就响个不停，其他资方甚至愿意加十亿溢价接盘。这家机构里所有的同事都被电话骚扰了几天，对方只关心一件事：“你到底有没有老股？”到2024年底，宇树估值已经来到80亿。</p>\n  <p><strong>“2024年是大家对于宇树还有分歧的最后一年，现在看来正好是他快要起飞的节点，竟然有机构不到50亿出了，这种大羊毛你就该死命薅！”前述知情人士评论。</strong></p>\n  <p>这是最后的入场机会。几个月后，一切怀疑和犹豫都尘埃落定，宇树将不再只是一家创业公司，它将成为中国硬科技版图上最明亮的那块图腾。</p>\n  <h2><strong>估值120亿：国民公司的诞生</strong></h2>\n  <p>虽然表面看上去不懂变通、有些严肃，王兴兴其实明白如何借势。他曾经在媒体采访中说：当你做的事情符合时代的主旋律，好的资源都会向你倾斜。</p>\n  <p>当2024年年底，蛇年春晚导演组邀约数家人形机器人公司时，只有王兴兴没犹豫就答应了。而其他公司拒绝，各有各的“卡点”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_f0db00a8d14e4738a1fa5880953ec34c@1199336245_oswg1275432oswg1080oswg559_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《秧BOT》图片来自网络</p>\n  <p>机器人公司A拒绝，主要是因为“没有人形机器人可上”，该公司一前员工对36氪说。尽管公司早在多年前就发布了人形机器人，但量产上却没跟上，因此错过了年初春晚的节点。</p>\n  <p>机器人公司B有能够格上春晚的人形机器人、场景也算适配，但卡点却在于“账”算不过来。</p>\n  <p>机器人公司上春晚，导演组不会为此付费，所有成本都由企业自己承担。这意味着，一家机器人公司不仅要押上大量机器，还要把算法研发人员“押”在北京整整三个月。</p>\n  <p>一台1.8米高的人形机器人，每次上下场都需要两个人搬运；而2024年的人形机器人还很粗糙，算法无法通用，基本上一台机器人就要匹配一名算法工程师——按最低限度计算，投入的人力也要达到20人以上。</p>\n  <p>更棘手的是，春晚排练期恰逢年末，正是机器人公司全力扑项目交付的时候。对于这样一个极其重交付的行业来说，抽调核心人力去配合一场“不收费”的演出，本质上是一次高成本的品牌豪赌。</p>\n  <p>根据36氪了解，B公司内部曾评估，算上各种零件损耗、人力成本、往来杂费，一场节目成本达到2000万。参与春晚意味着，要为了这一个五分钟的节目花掉年营收的 1/10。<strong>“在市场还没完全起来的情况下，一般人没这个魄力，”一位知情人士表示。</strong></p>\n  <p>当其他人质疑上春晚的效用时，王兴兴却推出了筹码。</p>\n  <p>宇树以前就吃到过机器人舞台表演带来的流量红利。</p>\n  <p>2021年首登春晚、估值过十亿之后，宇树陆续参加了几次大型官方活动，包括2022年冬奥会和2023年的亚运会。2024年，宇树12台H1登上了澳门美高梅剧院，和真人一起扭秧歌——这个节目算后来春晚《秧Bot》的预热，同样都由张艺谋导演的人机共舞。</p>\n  <p>有知情人士称，平时的王兴兴，是个发现会议室遥控器用南孚电池都会@行政、让其换成白牌的老板，不过在春晚这笔开销上，王兴兴毫不犹豫。“有些重要决策是要有商业直觉和魄力的。哪怕投入产出比算不过来，但事情足够重要，长期方向正确，他也会支持团队把这事做好”，俞文超表示。</p>\n  <p>王兴兴很重视这次春晚表演。有知情人士称，当时宇树其他的订单都往后排，优先保证春晚机器人供应。演出前，他留在现场，团队连续几天不睡觉排练。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_56d3da71a94d4f21a99412d5172c77f2@1199336245_oswg74193oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026年春晚后台的王兴兴 邱晓芬拍摄</p>\n  <p>后来的效果出乎所有人预料。有参与者评论，效果“炸裂”。2025年春晚播出那天晚上，前述拒绝上春晚的一家机器人公司老板本来还在群里发过年红包，看到宇树节目后，红包直接停了，“感情很复杂，没想到他们能做那么好。”一位员工回忆。</p>\n  <p>2025年，宇树能抓住改变命运的5分钟，背后夹杂着运气，也源于过去十年的积累。<strong>“十年磨一剑，那么多年的积累，只不过是到这一刻的机缘巧合下，让它完全爆发出来，呈现在大家眼前。” 一位投资人感叹。</strong></p>\n  <p>这台节目正好踩在大国科技竞争的情绪点上。中国要证明自己的科技实力，宇树的出现恰逢其时。</p>\n  <p>春晚后，订单向宇树蜂拥而来。之前一天出货十几台，后来涨到四五十台，最忙的时候每天要发100多台机器狗和机器人。王兴兴很有危机感，他在公司大群说过：宇树发不出货，客户就会被同行抢走，所以全员提效。</p>\n  <p>那段时间，发货、装配的人数涨了一倍，员工全员到岗，连续两周都实行“早8晚10”工作制，期间只休息了一天。一位前员工回忆，“上班上到吐了。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_e3ae9dc10c174164a72d3aa60ec3ecc4@1199336245_oswg46457oswg1080oswg445_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">宇树收入占比</p>\n  <p>宇树成了一家普通投资人根本高攀不上的公司。它的估值从春晚前的80亿一路抬升，到2025年中旬完成7亿C+轮融资时，估值已经超过120亿元。投资方只有6家，包括中国移动、腾讯、阿里、蚂蚁、吉利和字节背景的锦秋。</p>\n  <p>这是宇树精心挑选的名单，据说一家头部汽车集团，最终没能进入投资名单。投资方中，有家是一把手给王兴兴亲自打电话，才拿到份额。</p>\n  <p>所有投资人心照不宣：宇树到A股IPO不会太久，这笔交易稳赚不赔。</p>\n  <h2><strong>600亿发行价、千亿共识：宇树不能走下神坛</strong></h2>\n  <p>宇树上市的意义，远不止于一家公司的上岸，它将为整个具身智能行业定调。</p>\n  <p>在宇树酝酿上市的近半年，中国具身智能行业正呈现一副疯狂爆火的图景。</p>\n  <p>2026年上半年中国具身智能融资总金额接近1000亿，一年内迅速提升了五倍。在过去的中国，几乎没有一个硬件产业有过如此夸张的资金聚拢速度。具身智能机器人也成为继大模型、 AI芯片产业链之后，2026年中国一级市场资金的第三大去处。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_3b14ddb016034ccc8a3a7c8e59c23409@1199336245_oswg59334oswg1080oswg819_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">中国具身智能融资规模与事件数</p>\n  <p>半年内，整个赛道催生出23家百亿估值的机器人公司、八家公司估值突破200亿。“去年大家还会盘一盘百亿公司，今年大家已经懒得盘了”，一位机器人领域的投资人直言。</p>\n  <p>她与36氪分享了这样的感受：上半年，任意一家头部具身智能公司，几乎隔一个月没关注，估值立马暴涨或翻倍。“以前大家讲究投小投早，但<strong>2026年的中国具身智能，只有早，没有小”</strong>。</p>\n  <p><strong>“这已经是一个二级市场的问题了，大家都有上市预期，不是一级市场的范畴。”一位投资人告诉36氪。</strong></p>\n  <p>机器人被写入“十五五”规划，国资机构纷纷下场参投，上市通道的打开……整个具身赛道���经被拱上高山。但走到上市前夜，套利者无法回避的是：这些百亿估值的公司，在公开市场的价格到底会是多少？很难判断，公共市场会不会为梦想买单。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_1bcaca66fdbc4912b49b1bec2b57e587@1199336245_oswg139893oswg994oswg1122_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026年待上市具身智能公司</p>\n  <p>很多年中，资本市场给一家中国创业公司定价有清晰的路径，也就是对标美国同类公司。“美国每出现一个一万亿美金估值的公司，中国都会对应出现数个一万亿人民币估值的公司。”投资人对36氪说。</p>\n  <p>但具身智能赛道主要在中国遍地开花，在美国找对标已经不太合适。作为中国人形机器人赛道里收入最高、毛利率最高的公司，宇树才是最好的风向标。</p>\n  <p>投资人希望宇树的IPO稳定整个行业的军心。此前，投资者对于具身智能/人形机器人的情绪常在两个极端之间摇摆——“要么觉得机器人马上进千家万户，要么悲观判断机器人落地还很遥远��，俞文超向36氪表示，而宇树的上市首先证明了，这个行业已经有百亿级的市场需求，且起码能容纳一家或多家上市公司。</p>\n  <p>同时，宇树的上市提供了价格标尺，一旦企业能够复现宇树的出货量规模、商业化能力，或者是能成为「宇树第二」、「大脑版宇树」，就有机会在资本市场获得类似的估值认可。</p>\n  <p>宇树此次登陆科创板IPO估值为609亿元，价格不低。不过，<strong>多数投资人向36氪宣称，宇树上市后大概率估值会到1500亿元，高点可能到3000亿。</strong></p>\n  <p><strong>当36氪询问判断标准是什么？一位投资人坦诚回答：“拍脑袋想的。”</strong></p>\n  <p>无论如何，早期投资人都将在二级市场获得巨额回报。“这就是20年一遇的项目。”一位宇树投资人感叹，他从这一个项目获得了数百倍的回报。他给36氪讲述了很多个投资的理由，<strong>但最后说：“我到这个岁数了，有时候想想，那时候能投中宇树，也许就是老天给我的，让我遇到了有天命的这个人。”</strong></p>\n  <p>但在第一波高昂的市场情绪消退后，宇树能维持怎样的价格？</p>\n  <p>宇树并非毫无短板。目前，宇树最大的压力来自如何给\"大脑\"补课。招股书直言，公司前期研发投入侧重本体与运动控制，在具身大模型方面投入较少，且尚未大规模开展真实数据采集与工厂部署训练。在42亿元的募资中，有一半将集中投向智能机器人模型研发。</p>\n  <p>36氪获悉，数十人的大模型团队由王兴兴直接带领。在技术不收敛的情况下，对于王兴兴和宇树来说，正像是十年前那场开荒战争的下半场。</p>\n  <p>在极度充沛的投资，和对机器人前景的憧憬下，宇树如今竞争对手如林。2026年，中国出现了400家具身智能公司，不仅包括拿到了大钱的新公司，还包括汽车公司、手机公司、硬件供应链龙头。</p>\n  <p>上市前夕，宇树内部的情绪也是分化的。</p>\n  <p>有内部人士告诉36氪，宇树为员工设置的认购门槛不低，100万起认购，按发行价无折扣购买，锁定期为一年或三年不等。</p>\n  <p>尽管条件看似苛刻，宇树研发部门几乎过半人数认购。其中，王兴兴个人出资了1500万，三位技术核心张阳光、杨知雨、吴金泽更是各自认购了900万元，这些核心高管的锁定期长达3年。</p>\n  <p>也有人在冷眼旁观。没有买期权的员工讲述了各自的担忧——有人觉得期权购买门槛过高，没有折扣；也有人担心锁定期过长，害怕行业会在一年或三年后进入波谷。</p>\n  <p>在破圈走红的一年半，宇树估值翻了近五倍（从120亿到600+亿），并迅速走到上市，但在不久前接受《TIME》杂志专访时，王兴兴却说这种“病毒式走红”给宇树和全行业带来了巨大压力。</p>\n  <p><strong>“所有人都期待宇树的技术极快飞跃，而实际上，硬核技术无法一蹴而就”，王兴兴判断，要跨过泛化性这一令人头疼的技术拐点，至少还需要2-10年。</strong></p>\n  <p>在这个燥热的夏天，这番冷静的坦承也许很快会被喧嚣所覆盖，直到某天，中国具身智能行业的真实成色终于面临淬炼。</p>\n  <p><strong>排版｜范馨雅</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260810/v2_51124729e0aa4fb19aff5ae518a5c40a@1199336245_oswg53621oswg1080oswg337_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">欢迎交流</p>\n  <p>&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-11T01:00:00+00:00",
-      "fetched_at": "2026-08-11T01:18:32.552005+00:00",
-      "fingerprint": "256fe90fcc4b1241"
-    },
-    {
-      "source": "少数派",
-      "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
-      "url": "https://sspai.com/post/113202",
-      "summary": "喜欢，从来没有一个明确的定义。<a href=\"https://sspai.com/post/113202\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-10T03:00:56+00:00",
-      "fetched_at": "2026-08-11T01:18:30.779503+00:00",
-      "fingerprint": "32edea8c590be13e"
-    },
-    {
-      "source": "少数派",
-      "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
-      "url": "https://sspai.com/post/113115",
-      "summary": "从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。<a href=\"https://sspai.com/post/113115\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "fetched_at": "2026-08-11T01:18:30.779483+00:00",
-      "fingerprint": "834c238805036409"
-    },
-    {
-      "source": "少数派",
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/113283",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/113283\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "fetched_at": "2026-08-11T01:18:30.779476+00:00",
-      "fingerprint": "fea4ff88a109a649"
-    },
-    {
-      "source": "少数派",
-      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
-      "url": "https://sspai.com/prime/story/direct-power-supply-mod",
-      "summary": "去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ...<a href=\"https://sspai.com/prime/story/direct-power-supply-mod\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "category": "tech",
-      "published_at": "2026-08-10T13:50:02+00:00",
-      "fetched_at": "2026-08-11T01:18:30.779468+00:00",
-      "fingerprint": "dc9962201d7002ce"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
-      "url": "https://sspai.com/post/113301",
-      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...<a href=\"https://sspai.com/post/113301\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-11T00:09:35+00:00",
-      "fetched_at": "2026-08-11T01:18:30.779456+00:00",
-      "fingerprint": "cea1e6b52db4005a"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7638 CNY ↑+0.28%",
-      "url": "https://www.frankfurter.app/2026-08-10?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-08-10</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7638 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0132 (+0.28%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-08-11T01:18:29.196775+00:00",
-      "fingerprint": "bce41bd1dcd83183"
     }
   ]
 }
