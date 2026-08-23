@@ -1,7 +1,177 @@
 {
-  "updated_at": "2026-08-22T00:57:37.252950+00:00",
-  "count": 206,
+  "updated_at": "2026-08-23T01:02:23.949225+00:00",
+  "count": 176,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "category": "politics",
+      "published_at": "2026-08-22T14:35:11+00:00",
+      "fetched_at": "2026-08-23T01:02:23.800404+00:00",
+      "fingerprint": "8d284c5ac0f87f1c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "category": "politics",
+      "published_at": "2026-08-22T20:02:46+00:00",
+      "fetched_at": "2026-08-23T01:02:23.800392+00:00",
+      "fingerprint": "1bf58cd1635b2822"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "category": "politics",
+      "published_at": "2026-08-22T20:10:00+00:00",
+      "fetched_at": "2026-08-23T01:02:23.800382+00:00",
+      "fingerprint": "08c432427f9a7990"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "有評論認為，最近一項針對英國人的調查顯示，他們在金錢方面過於謹慎，但BBC經濟事務編輯指出，事情並沒有這麼簡單。",
+      "category": "politics",
+      "published_at": "2026-08-23T00:12:49+00:00",
+      "fetched_at": "2026-08-23T01:02:23.755102+00:00",
+      "fingerprint": "16f6ef3d4ac8e17e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-23T01:02:23.460084+00:00",
+      "fingerprint": "7ea3027630d5487e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-23T01:02:23.459955+00:00",
+      "fingerprint": "f83cb012d1e02700"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-23T01:02:23.459811+00:00",
+      "fingerprint": "53de3fca829591e9"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-23T01:02:23.459664+00:00",
+      "fingerprint": "11e9d27303eedadd"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Scrap",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-23T01:02:23.459490+00:00",
+      "fingerprint": "068c7e8ae3f03d5c"
+    },
+    {
+      "source": "The Verge",
+      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+      "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-22T13:00:00+00:00",
+      "fetched_at": "2026-08-23T01:02:23.158052+00:00",
+      "fingerprint": "cca6661bb904a3ab"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+      "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-22T13:41:01+00:00",
+      "fetched_at": "2026-08-23T01:02:23.158046+00:00",
+      "fingerprint": "c000c6a2f06337f0"
+    },
+    {
+      "source": "The Verge",
+      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+      "summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-22T15:00:00+00:00",
+      "fetched_at": "2026-08-23T01:02:23.158039+00:00",
+      "fingerprint": "282f77d427690d18"
+    },
+    {
+      "source": "The Verge",
+      "title": "Doodle generative compositions in your browser with Musical Spirograph",
+      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+      "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-22T17:00:00+00:00",
+      "fetched_at": "2026-08-23T01:02:23.158027+00:00",
+      "fingerprint": "54c67d08d3f0e117"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力",
+      "url": "https://36kr.com/p/3949992200928641?f=rss",
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>抗癌疫苗引爆资本市场，多家公司涉及相关研发</p>\n  <p>贵州茅台回应上半年茅台酒产量下降：阶段性统计差异，全年累计产量不受影响</p>\n  <p>广州市中级人民法院依法受理恒大地产集团有限公司破产清算案</p>\n  <p>张雪回应“台湾首辆张雪机车遭查扣”&nbsp;</p>\n  <p>全球首个开源太空具身智能合作项目SpaceClaw（太空龙虾）达成战略合作</p>\n  <h2><strong>TOP 3 大新闻</strong></h2>\n  <p><strong>医院也能领结婚证了，淄博一妇幼保健院内设立婚姻登记&nbsp;</strong></p>\n  <p>不仅地铁站、银行、音乐节等场所可以陆续设立婚姻登记点位，部分地区的医院也开始提供类似便民服务。据界面新闻查询山东省淄博市临淄区妇幼保健院宣传资料获悉，今年“七夕”（8月20日）起，该院正式推出结婚登记服务，把婚姻登记、婚前医学检查、备孕指导整合在一起。农历七月初七是公认的具有东方爱情象征意义的传统节日。</p>\n  <p>该婚姻登记点设置于临淄区妇幼保健院保健楼3楼，实现婚姻登记与婚前医学检查无缝衔接。新人完成结婚登记后，无需更换地点，就可以开展婚前医学检查，同步享受孕前优生咨询、孕前优生检查、叶酸发放、科学备孕指导等服务。医院的公众号写到，这项便民服务的首批体验者感慨：“在这里领证，办完手续直接就能做婚检、咨询备孕，不用多头跑，既省心又贴心。”值得指出的是，该点位仅受理内地人士的结婚登记业务，且不办理离婚登记。下一步，当地还将持续优化窗口流程，细化办事指引，持续完善婚姻登记、婚检、备孕、孕产、儿童保健全链条服务（界面新闻）</p>\n  <p><strong>阿里巴巴发布财报：2027财年第一季度营收2690亿元，阿里云增速创22个季度新高</strong></p>\n  <p>36氪获悉，8月20日，阿里巴巴集团发布2027财年Q1财报。财报显示，第一季度阿里巴巴营收2690亿元，同比增长9%；调整后净利润207.2亿元。其中，阿里云外部商业化收入加速增长45%，增速创22个季度新高；经调整EBITA同比增长133%，EBITA利润率增至12%；AI相关产品收入连续第十二个季度实现三位数同比增长，AI已成为云增长的确定性引擎。大消费方面，中国电商业务稳健增长，CMR（客户管理收入）同比增长1%。88VIP会员规模达6400万，持续同比双位数增长。本季度，即时零售减亏速度快于市场预期，同时收入保持45%的高增长，主要由淘宝闪购和盒马所驱动。</p>\n  <p>同时，截至6月30日结束的季度内，资本支出为676.78亿元，较上年同期的386.76亿元人民币增长75%，源于持续投入AI基础建设，以满足强劲且不断增长的客户需求。同比增长显着，受多项因素驱动，包括采购周期波动、预期客户持续採用AI智能体带动的CPU算力增加，以及各类芯片组件价格上涨。平头哥已构建自研芯片体系，覆盖GPU、CPU、存储和网络芯片。依托全方位的芯片产品矩阵，实现跨计算、存储、网络的系统级硬件优化，增强在AI基础设施上的性能表现和成本效率。</p>\n  <p><strong>OpenAI进一步开放Codex的底层能力&nbsp;</strong></p>\n  <p>OpenAI近日宣布进一步开放Codex的底层能力，开发者可以基于开源的Codex Harness，将Codex的Agent能力直接集成到自己的产品和工作流中。OpenAI将Codex重新定位为一个可供开发者构建Agent产品的平台，而不再局限于App、CLI和IDE中的编程Agent。从此次调整来看，OpenAI正在强化Codex的平台属性：开发者提供具体业务场景、上下文和工具，Codex Harness负责将模型能力接入实际工作流程，让同一套Agent运行机制能够被复用到编程之外的客服、安全、运营等场景中。（太平洋科技）</p>\n  <h2><strong>AI最前沿</strong></h2>\n  <p><strong>DeepSeek-V4-Flash-Vision-Exp上线，开启多模态API服务</strong></p>\n  <p>36氪获悉，DeepSeek-V4-Flash-Vision-Exp在DeepSeek API平台上正式上线。据介绍，在纯文本能力（Agent、推理、世界知识等）方面，DeepSeek-V4-Flash-Vision-Exp与DeepSeek-V4-Flash正式版持平；在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flash-Vision-Exp相比DeepSeek-V4-Flash实现了大幅跃升，多模态Agent能力已接近Opus-4.8。</p>\n  <p><strong>科大讯飞：将于今年全球1024开发者节推出全新主力通用大模型</strong></p>\n  <p>36氪获悉，8月21日下午，在科大讯飞2026年半年度业绩说明会上，公司总裁吴晓如透露，在今年全球1024开发者节上，科大讯飞将推出基于全国产算力的全新主力通用大模型；在今年8月底，公司将先推出阶段性版本。他表示，即将推出的全新主力通用大模型将在代码能力和Token性价比上整体达到国内第一梯队，同时在全国产算力训练的通用大模型中，各项指标继续保持国内领先。</p>\n  <p><strong>GLM-5.3、DeepSeek-V4-Pro正式版接入千问AI平台</strong></p>\n  <p>36氪获悉，8月21日，据阿里云消息，阿里云MaaS扩充模型服务矩阵，GLM-5.3和DeepSeek-V4-Pro正式版现已接入千问AI平台，相关API服务同步开放，开发者可直接调用。据介绍，DeepSeek-V4-Pro、Qwen3.8-Max和Qwen-Audio系列模型已陆续开放订阅使用，用户订阅套餐后，可在Qoder、Codex等AI工具中按需切换模型。</p>\n  <p><strong>豆包：工作任务模式上新</strong></p>\n  <p>36氪获悉，8月21日，据豆包消息，豆包工作任务模式上新，技能·连接器·工作伙伴/小队现已上线。据介绍，打开豆包电脑版侧边栏，选择“技能·连接器·伙伴”，即可体验。目前，豆包内已上架超200个技能和连接器，并支持自定义新建技能。</p>\n  <h2><strong>大公司/大事件</strong></h2>\n  <p><strong>郭德纲被立案调查，多场演出延期&nbsp;</strong></p>\n  <p>澎湃新闻从大麦网获悉，近日，主办方领航象限文化（天津）有限公司发布三份演出延期公告。公告称，接剧场通知，因场地原因，经主办方与剧场协商确认，原定于2026年8月20日、21日在烟台市凤凰胶东剧院举办的两场麒麟剧社成立十周年巡演烟台站演出，以及8月22日在烟台八角湾国际会展中心举办的德云社成立三十周年系列演出之郭德纲・于谦相声专场烟台站演出，均延期举办。新的演出日期另行通知，主办方就此向观众致歉。</p>\n  <p>三场演出全部已购票订单将统一全额免手续费原路退款，无需观众自行申请。另据澎湃新闻此前报道，今年7月，郭德纲在麒麟剧社巡演武汉站演出中即兴改编经典歌曲《弹起我心爱的土琵琶》，改编内容未经报备，武汉市文旅局已立案调查。8月14日，湖北省文旅厅文化市场综合执法监督处回应，正协调处置此事。（第一财经、澎湃新闻）</p>\n  <p><strong>国家金融监管总局：对恒大人寿保险有限公司吊销业务许可证</strong></p>\n  <p>36氪获悉，国家金融监管总局发布行政处罚信息公示列表，其中包括：因保险资金运用严重不合规、向关联方输送利益，投后管理不合规，报送的报告报表存在虚假记载等，对恒大人寿保险有限公司吊销业务许可证。</p>\n  <p><strong>广州市中级人民法院依法受理恒大地产集团有限公司破产清算案</strong></p>\n  <p>36氪获悉，据广州市中级人民法院消息，8月21日，广州农村商业银行股份有限公司华夏支行以恒大地产集团有限公司不能清偿到期债务，并且资产不足以清偿全部债务为由，向法院申请对恒大地产集团有限公司破产清算。广东省广州市中级人民法院经审查认为，该申请符合《中华人民共和国企业破产法》第二条第一款的规定，于2026年8月21日裁定受理广州农村商业银行股份有限公司华夏支行对恒大地产集团有限公司的破产清算申请。</p>\n  <p><strong>贵州茅台回应上半年茅台酒产量下降：阶段性统计差异，全年累计产量不受影响</strong></p>\n  <p>贵州茅台8月21日举行2026年半年度业绩说明会。今年上半年，茅台酒基酒产量4.1万吨，较去年同期4.37万吨减少约0.27万吨。对于上半年茅台酒产量减少，贵州茅台代总经理王莉回应称，贵州茅台酒生产严格遵循“顺天应时”的传统酿造节律，每年度制酒投料时间不完全一致，报告期内的基酒产量，属于生产作业进度不同带来的阶段性统计差异，后续全年累计产量不会受此影响。（财联社）</p>\n  <p><strong>张雪回应“台湾首辆张雪机车遭查扣”&nbsp;</strong></p>\n  <p>8月20日，“张雪机车”创始人张雪发布视频回应“台湾首辆张雪机车遭查扣”，表示不清楚具体原因，并提出承担车主全部维权律师费用。张雪说：“如果车要不回来，我就再送一台车，如果送的车又被查扣，那我再送一台，不停地送，送到什么时候为止呢？送到统一为止。”（界面新闻）</p>\n  <p><strong>港交所延长新上市申请有效期</strong></p>\n  <p>36氪获悉，港交所将实施为期三年的短期豁免，延长新上市申请有效期至12个月。</p>\n  <p><strong>财政部:1-7月证券交易印花税1864亿元，同比增长99.2%</strong></p>\n  <p>36氪获悉，财政部发布2026年1一7月财政收支情况。1一7月，全国一般公共预算收入143696亿元，同比增长5.8%。其中，全国税收收入118381亿元，同比增长6.7%;非税收入25315亿元，同比增长1.6%。分中央和地方看，中央一般公共预算收入63857亿元，同比增长9.1%;地方一般公共预算本级收入79839亿元，同比增长3.3%。印花税3530亿元，同比增长38%。其中，证券交易印花税1864亿元，同比增长99.2%。</p>\n  <p><strong>中国平安回应境外保险收益征税：对平安影响几乎为零</strong></p>\n  <p>针对境外保险收益征税一事，中国平安总经理、联席首席执行官谢永林在中期业绩发布会上回应称：“这并非新的政策，市场无需过度解读；该税收政策暂未扩大至境内保险的收益；中国平安在海外的保单数量极少，影响几乎为零。”（第一财经）</p>\n  <p><strong>全球首个开源太空具身智能合作项目SpaceClaw（太空龙虾）达成战略合作</strong></p>\n  <p>36氪获悉，近日，群体智能基础模型公司超脑未来、商业航天企业未来宇航与特种机器人企业希云柔控正式达成战略合作，共同启动SpaceClaw（太空龙虾）计划。三方将分别发挥群体智能基础模型、空间飞行器与柔性机械臂优势，共同建设全球首个以开源方式推进、以真实在轨验证为目标的太空具身智能合作项目。SpaceClaw计划在合作启动后的6个月内完成首阶段在轨验证，并同步发布面向全球开发者和科研机构的太空具身智能基准OrbitBench。</p>\n  <p><strong>抗癌疫苗引爆资本市场，多家公司涉及相关研发</strong></p>\n  <p>2026年8月19日，全球肿瘤治疗迎来里程碑时刻。默沙东与莫德纳（Moderna）联合宣布，其个性化信使核糖核酸（mRNA）抗癌疫苗在III期实验研究中达到主要终点。这是全球首个在大型III期临床试验中证明有效的治疗性疫苗，从根源上降低复发风险。资本市场反响强烈。Moderna股价当日暴涨177%；默沙东亦创下2009年以来最大单日涨幅。8月20日，A股市场疫苗、生物医药板块集体上攻，多家上市公司股价迎来涨停。在mRNA疫苗这条前沿赛道，国内药企并未缺席，虽然目前暂未有直接可与Moderna对标的企业，但已有公司涉及相关领域研发。（证券时报）</p>\n  <p><strong>苹果裁撤60名VR团队员工战略重心或转向AI眼镜</strong></p>\n  <p>据报道，苹果已对Vision业务团队进行人员调整，至少60名隶属于Vision小组、从事VR相关开发的员工遭到裁员，苹果官方尚未对该消息作出回应。报道指出，本次裁员背后是苹果战略转向，该公司资源正流向AI智能眼镜，这款新品预计于2027年WWDC大会亮相，同年晚些时候上市。（新浪财经）</p>\n  <p><strong>马斯克称SpaceX目标到2030年每年发射约1万次，到2030年代末营收增长远超2000%</strong></p>\n  <p>马斯克8月20日在回应用户分享的关于美国政府计划到2030年实现每年1000次火箭发射的帖子时表示，SpaceX的目标是“到2030年实现星舰每日30次以上发射，换算成年度规模约为1万次。”同一天，马斯克回应了另一位网友的帖子，后者预测到2030年代末，SpaceX的营收将增长2090%，特斯拉的营收将增长119%。马斯克回复称：“我知道现在听上去很疯狂，但我认为SpaceX和特斯拉的表现都会超出这些预期。”（财联社）</p>\n  <p><strong>特朗普政府提前放宽夏季燃油标准，以缓解油价压力</strong></p>\n  <p>特朗普政府今年将提前终止夏季汽油防雾霾限制措施，以缓解汽油零售价高企的压力。美国环保署（EPA）8月20日发布豁免令，准许自9月1日起销售挥发度更高的汽油，而原规定生效时间为9月中旬。美国在夏季通常禁止销售此类汽油，目的是防止高温环境下汽油挥发，进而形成雾霾。美国环保署表示，此项举措将使美国汽油日供应量增加“数十万”桶。2025年，美国汽油日均总消费量为890万桶。（新浪财经）</p>\n  <p><strong>特斯拉停售太阳能屋顶瓦片，该产品已不具备经济可行性</strong></p>\n  <p>据报道，特斯拉已停止推出旗下太阳能瓦片屋面产品——太阳能屋顶。据两名熟悉该项目的消息人士透露，特斯拉已告知第三方安装商，今后将不再供应太阳能屋顶瓦片，仅提供太阳能电池板。其中一名消息人士表示，特斯拉内部认定该产品在财务层面难以为继。（新浪财经）</p>\n  <p><strong>三星SDI将出售所持三星显示公司价值4.4万亿韩元的股份</strong></p>\n  <p>三星SDI将出售所持三星显示公司价值4.4万亿韩元的股份。（财联社）</p>\n  <p><strong>日本三大车商7月在华新车销量均同比下滑，日产暴跌近6成</strong></p>\n  <p>8月20日，日本三大车商7月在华新车销量全部出炉，日产汽车销量同比暴跌58.7%至23677辆；丰田销量同比减少24.3%至11.47万辆。本田销量同比减少44.1%至25052辆。今年前7个月，日产累计在华新车销量为26.11万辆，同比减少22%；丰田累计销量80.94万辆，同比减少18%；本田累计销量23.87万辆，同比减少36%。（界面新闻）</p>\n  <p><strong>申请美国大学的外国学生出现近十年来最大降幅</strong></p>\n  <p>美国使用最广泛的大学申请平台发布的数据显示，今年秋季申请就读该国高校的国际生人数减少了约10%，创下至少十年来最大降幅。Common App 8月20日发布报告称，今年申请美国大学的外国学生人数比2025年减少了近1.6万，因特朗普政府加大了限制留学生入境的力度，包括改变签证规定。根据该报告，来自亚洲和非洲的申请数量出现了两位数的下降。欧洲学生也减少4%，打破了多年来的稳定增长势头。（新浪财经）</p>\n  <p><strong>亚航回应飞上海航班有乘客在座位上排泄：事后已开展清洁消杀&nbsp;</strong></p>\n  <p>亚洲航空从哥打京那巴鲁（亚庇）飞往上海的AK1516航班上，有乘客在座位上排泄，引发关注。8月21日，亚洲航空方面就此事回应南都N视频记者称，涉事航班机组人员于过道处发现卫生异常情况，在着陆准备期间，机组人员优先保障航班安全着陆，对现场进行了简易清理。航班落地后，第一时间安排开展后续清洁工作，后续已对涉事区域开展清洁和消杀作业。（南方都市报）</p>\n  <h2><strong>上市进行时</strong></h2>\n  <p><strong>证监会同意苏州猎奇智能创业板IPO注册</strong></p>\n  <p>36氪获悉，证监会发布关于同意苏州猎奇智能设备股份有限公司首次公开发行股票注册的批复，同意该公司首次公开发行股票并在创业板上市的注册申请。</p>\n  <p><strong>长江存储控股股份有限公司科创板IPO审核状态变更为已受理</strong></p>\n  <p>36氪获悉，上交所网站显示，长江存储控股股份有限公司首次公开发行股票并在科创板上市IPO审核状态变更为已受理。</p>\n  <h2><strong>大公司财报</strong></h2>\n  <p><strong>中汽股份：上半年净利润1.31亿元，同比增长35.32%</strong></p>\n  <p>36氪获悉，中汽股份披露半年报，2026年上半年，公司实现营业收入3.28亿元，同比增长15.3%；归属于上市公司股东的净利润1.31亿元，同比增长35.32%；基本每股收益0.1元。</p>\n  <p><strong>中国国贸：上半年净利润6.33亿元，同比增长0.17%</strong></p>\n  <p>36氪获悉，中国国贸披露半年度业绩快报，上半年营业收入18.16亿元，同比下降3.9%；归属于上市公司股东的净利润6.33亿元，同比增长0.17%；基本每股收益0.63元。</p>\n  <p><strong>李宁：上半年营收152.4亿元，同比增长2.8%</strong></p>\n  <p>36氪获悉，8月20日，李宁公司发布2026年中期业绩，营收达152.4亿元，同比增长2.8%。毛利为77.5亿元，较去年同期上升4.5%；整体毛利率为50.9%，同比提升0.9个百分点；净利润18.2亿元，净利率11.9%。</p>\n  <p><strong>中兴通讯：上半年净利润27.53亿元，同比下降45.57%</strong></p>\n  <p>36氪获悉，中兴通讯披露半年报，2026年上半年，公司实现营业收入780.25亿元，同比增长9.05%；归属于上市公司股东的净利润27.53亿元，同比下降45.57%</p>\n  <p><strong>华天科技：上半年净利润8.13亿元，同比增长259.15%</strong></p>\n  <p>36氪获悉，华天科技披露半年报，2026年上半年，公司实现营业收入105.11亿元，同比增长35.09%；归属于上市公司股东的净利润8.13亿元，同比增长259.15%；基本每股收益0.2483元。</p>\n  <p><strong>獐子岛：上半年净利润1287.14万元，同比增长26.82%</strong></p>\n  <p>36氪获悉，獐子岛披露半年报，2026年上半年，公司实现营业收入7.31亿元，同比下降5.31%；归属于上市公司股东的净利润1287.14万元，同比增长26.82%；基本每股收益0.0181元。</p>\n  <h2><strong>酷产品</strong></h2>\n  <p><strong>月泉仿生首发仿生具身智能产品矩阵</strong></p>\n  <p>36氪获悉，近日，月泉仿生与吉林省仿生机器人创新中心联合发布了自研产品矩阵，包括基于仿生拉压体机器人理论与技术打造的应手Y-Hand系列灵巧手、YQ Motors系列电机及YQ Muscles人工肌肉模组。</p>\n  <p class=\"editor-note\"><strong>整理</strong>｜李琪&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-22T01:04:32+00:00",
+      "fetched_at": "2026-08-23T01:02:22.951627+00:00",
+      "fingerprint": "7a18eda922210021"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "都是谁在买WRC上的机器人啊！",
+      "url": "https://36kr.com/p/3950374720306563?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_3c7f7c9f636749109256591e3ac8608e@6314151_oswg959943oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp; &nbsp;&nbsp;</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_286fe1150e694f6dbcd0d7283b973d01@6314151_oswg560oswg900oswg30_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp; &nbsp;&nbsp;</p>\n  <p>撰文&nbsp;|&nbsp;刘思洁 刘孜妍 刘辰艺</p>\n  <p>编辑&nbsp;|&nbsp;张薇</p>\n  <p>头图设计 | 曲枚</p>\n  <p>&nbsp;</p>\n  <p>做爆米花、打冰淇淋，机器人偶尔会出错，但没关系，一旁有工作人员协助。</p>\n  <p>在世界机器人大会现场，跨维智能的人形机器人，在一个便利店的模拟场景里“施展拳脚”。</p>\n  <p>这款机器人去年9月开始销售，早期不好卖，直到硬件迭代、成本下降，销售情况才有所改善，目前总出货量三十多台。买方有景区便利店，也有政府开办的数据采集中心。这些机器人被用来采集真机操作数据，采集来的数据则被用于模型的后训练。</p>\n  <p>和跨维智能的机器人一样，WRC上所展出的机器人们，大多数都还没有一个稳定、持续的大规模买方，其主要需求也并不来自普通大众所期待的家庭和工厂。不仅仅是人形机器人，类似机器狗形态的机器人的买方也处于一点点被验证的阶段。</p>\n  <p>本末科技一款轮足机器人被装上了配送箱，目前，这个像机器狗形态的产品是与京东合作的产物，用来尝试完成快递配送的“最后一公里”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_5eda40ae1b924ed492f01272015a8034@6314151_oswg132369oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">本末科技的“机器��”</p>\n  <p>&nbsp;</p>\n  <p>物流只是它正在尝试的应用场景之一。在已经交付的买方中，有电力公司买来陪电力工人进山巡检，由它来背重物；有隧道施工方给它加装了传感器，让它去检测隧道内部的气体含量。本末科技的一名销售还去过一趟新疆阿克苏，他对接的是一位拥有几万亩苹果园的客户，发愁苹果成熟时采摘人手不足，尝试通过二次开发，让轮足机器人能够采摘苹果。而另一个大手笔的客户则来自某军工企业，一次买了六台，还签订了接下来每年的预订合同。</p>\n  <p><strong>据Counterpoint Research数据，2026年上半年全球人形机器人出货量突破2.2万台，同比增长近300%。智元、宇树、银河通用、优必选、乐聚位列前五，且均为中国厂商。</strong>从应用结构看，娱乐表演和数据生产研究合计仍占出货量60%以上，服务引导约占19%，智能制造和仓储物流分别约占13%和5%。</p>\n  <p>机器人开始出货，现在聊“替代人”还太早。</p>\n  <p>它们更像是在被不同买方拿去验证不同的用途：<strong>训练模型、替代局部人工、引流，或者仅仅是提供一点新鲜感。</strong><br />&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_05e8887a674e44689baaa5db7940cd95@6314151_oswg2451oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <h2><strong>公共服务场所里“可见的智能”</strong></h2>\n  <p>据宇树科技招股书披露，2025年1—9月，宇树人形机器人收入中，科研教育占比达到73.60%，商业消费占17.39%，行业应用仅占9.01%。这些数据意味着什么？人形机器人不仅距离我们普通人的生活还很远，距离在实际工厂中大规模落地也还有一定距离。</p>\n  <p><strong>其实最先买机器人的，是行业内部。</strong></p>\n  <p>宇树机器人展台的一个工作人员就提到了一类行业内部的买家，他们是做算法的机构和公司。“算法开发出来之后，想知道到底好不好用，得找一个比较强的硬件去验证。如果在宇树的机器人上验证成功了，就能说明算法本身确实可行。”</p>\n  <p>行业内，数据采集中心也是一类真实买方。</p>\n  <p>乐聚智能工作人员介绍，去年公司最大一笔订单金额约八九千万元，来自一个机器人训练场，采购机器人用于数据采集。跨维智能工作人员也提到，一些地方政府的数据采集中心会采购机器人，采集真机操作数据、训练模型，再把模型部署到更多机器人上。</p>\n  <p>当然，还有更多行业内的需求来自二次开发。</p>\n  <p>本末科技那个和京东合作、装上配送箱的形态只是他们目前产品的一个展示方案，“它本身不是一个针对物流场景的狗，是一个可拆分的模块化机器人。”在实际交付中，客户会根据自己的场景继续改造。就有专门做二次开发的下游公司，买走本体后加装摄像头、传感器、人脸识别等模块，再卖给公安、化工、隧道等终端客户。</p>\n  <p><strong>政府和公共部门，构成了各类机器人最稳定的买方之一。</strong></p>\n  <p>松延动力的展台，一排妆容精致、发色各异的半身仿生机器人时不时冲着观众眨眼。这是松延动力推出的仿生人形机器人X-Head1，已经量产，过去一年卖出一两百台。目前主要面向博物馆、科技馆、企业展厅，以及政务大厅、社保大厅、机场、高铁站等公共服务场景，承担导览、讲解、咨询接待等工作。据松延动力工作人员介绍，近期较大的一笔订单来自某钢铁集团，其旗下多个工厂展厅采购了仿生机器人，替代人工进行讲解接待。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_4c9b38fad13741e484572d853a1682ed@6314151_oswg216882oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">松延动力的半身仿生机器人</p>\n  <p>公共卫生的清洁也是类似逻辑。合十思维展出的是一款商用卫生间清洁机器人，单价约20万到25万元，主要面向政府客户，也有企业和海外客户。工作人员称，截至今年6月，公司销售额已达到1亿元，卖出了约四五百台。这款机器人是底盘加机械臂的结构，机身配有吹风、喷水、吸水、刮板以及一个正在申请专利的墩布头装置，可以清洁小便池、马桶、台面和地面。在北京，机器人已经在海淀公园和奥运村的速滑馆内上岗，可以替代70%人类清洁工的工作。当然，类似套垃圾袋的工作还需要人工阿姨协作。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_2bea4f4964c84320afda04d840c647cd@6314151_oswg121628oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">合十思维的清洁机器人</p>\n  <p>奇瑞汽车旗下的一家机器人公司生产出来的仿生机器人，已经有三十多台在各地的马路上，穿上了交警执勤时的反光服，指挥起了交通。另外三台在胸口装上了一台自动挂号机，在芜湖当地的几家医院内，为病人提供导诊服务。</p>\n  <p>在公共服务的场景内，机器人不需要完全替代人，也不一定要独立完成复杂任务，只要能承担一部分重复问询、导览接待、清洁巡查，或者在政务大厅、医院、景区、展厅这样的空间里提供一种“可见的智能化”，就可能成为一笔合理的采购。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_bdf5d32faff04fd0ba941d531b369cf3@6314151_oswg2470oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <h2><strong>工厂里大量上岗的，不是人形机器人</strong></h2>\n  <p><strong>但当机器人进入工厂，其所需要面临的评判标准就变得不同了。工厂在意的，是一个机器人能不能稳定、连续地完成一个明确且重复的任务。</strong></p>\n  <p>如果以此为标准，那么目前人形机器人一定不是最好的答案。</p>\n  <p>当下的工厂其实是机器人最早、也最成熟的应用场景之一，只不过不是“人形”。在汽车、3C、锂电、光伏等制造业产线上，工业机械臂、协作机器人、AGV/AMR、视觉检测设备早已承担焊接、搬运、分拣、码垛、检测、上下料等工作。它们形态不“像人”，却稳定地在干活，投入产出也好计算。</p>\n  <p>在WRC现场，珞石机器人工作人员向我介绍，珞石的机械臂去年全年销量约1.5万台，今年上半年也已卖出1.5万台，价格从5万到50万元不等，这取决于配置和场景。他们的客户覆盖汽车厂、人形机器人制造厂等等，“只要有人生产的地方，其实都可以用到机械臂。”</p>\n  <p>法奥机器人同样以机械臂为核心产品。工作人员介绍，2024年起，法奥为各厂家生产定制臂，已经落地2000多台。此次展会上，法奥推出通用型机械臂，售价23800元，主要面向大模型和软硬件公司，支持二次开发。近期最大一笔订单来自杰克科技，买了2000多台机械臂，打造缝纫机器人。工业场景之外，法奥机械臂也已在咖啡、冰淇淋制作、摄影等商用场景落地。</p>\n  <p>这些数字与人形机器人形成了鲜明对比。Counterpoint数据显示，2026年上半年，全球人形机器人出货量总和也才只有2.2万台。<strong>可见，在已经成熟的工业场景里，机械臂和协作机器人仍是更实用的主力。</strong></p>\n  <p>工厂买机器人是为了提升效率、降低成本、保证安全。机械臂或自动化设备就能完成任务，那就没必要为一个更复杂、昂贵、难维护的人形机器人买单。</p>\n  <p>这也是为什么，许多人形机器人公司在谈“进厂”时，更多还处于特定工位的探索验证阶段。当下，人形机器人进入工厂，是在和成熟机械臂、协作机器人、AGV/AMR、视觉检测系统等既有自动化方案竞争。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_fe2f33155a8d4afa9cb9dc314cfd8727@6314151_oswg2380oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <h2><strong>文旅场景，靠机器人引流</strong></h2>\n  <p><strong>但在文旅场景中，机器人“像人”，则成为一个吸金引流的好手段。</strong></p>\n  <p>文旅场景对于机器人的容错率也更高，毕竟，机器人在景区小吃摊打爆米花、做冰淇淋，即便动作慢一点、偶尔出错，游客也更容易觉得这是一种新奇的体验。</p>\n  <p>一个仿真人形导览机器人展台前，工作人员反复向我提到它们机器人的作用是“引流”。主要面向科技馆、博物馆、图书馆、少年宫、景区、机场和会展中心，单台终端价格大约在15万到18万元，如果直采，价格可以再低几万元。机器人底部依靠托盘行走，眼睛里有摄像头，看到人后可以主动打招呼。客户可以在后台上传景区资料，让它能面向游客完成导览和讲解等工作。</p>\n  <p>工作人员说，他们已经做过华侨城、圆明园景区的服务，也接触过广西文旅、新疆文旅等客户。一些网红火锅店、串串店、服装店、鞋帽店也会租用这类机器人，租金大约每月1万元。它的用途不复杂，站在门口，把人吸引过来，和游客合影，再被上传到朋友圈、家庭群里，照片里的景区地标、品牌logo就被宣传出去了。</p>\n  <p>“这玩意儿不自然地就把人们引到你们的街道口，而且大家都喜欢发朋友圈。”工作人员说，“人家就会问，这是哪里？这就是提升景区科技感，加流量的一个密码。”</p>\n  <p>这也是文旅场景愿意先买机器人的原因。</p>\n  <p>在WRC现场，文旅景区对于机器人的需求反复出现。跨维智能的工作人员说，其机器人的一部分买方来自高流量景区。中国移动机器狗的工作人员提到，其机器人小B的应用场景包括研学基地、民宿和政企导览，其中有一家民宿购入了他家的机器人，用来给客人送咖啡。远山智行的智能助走器的最大客户也是景区，目前已落地龙门石窟、西湖、老君山、冈仁波齐、三清山等地，景区租给游客用，价格约90元/3小时。</p>\n  <p>景区购买的机器人产品不需要能精确拿起一颗螺丝钉这样的硬核能力，但也更容易形成商业闭环，让游客为体验这些机器人的服务付费即可。比如一个超大型、可以让人骑的机器狗目前已经开放预售，售价29.8万元。工作人员向我介绍其使用场景时说，可以把这个产品类比沙滩摩托，<strong>“这是新物种，你看网上那些视频，我们只要骑出去转一圈，一群人围过来。一个人不用多，50块钱行不行？三五个月回本了。”</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_7093516552d548e4a63a71e3324a8787@6314151_oswg123905oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">大咖机器人可供骑乘的“机器狗”</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_cec211c5f15f46128743b0b4f0b96182@6314151_oswg2613oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <h2><strong>200块的“机器狗”刚刚好</strong></h2>\n  <p>普通人想用机器人来干嘛？愿意花多少钱？</p>\n  <p>有人想要购买这些机器人，去替代“劳动力”。</p>\n  <p>“未来人类实验室”问星海图的工作人员，他们和京东前置仓合作的、在便利店里用来取货收银的机器人，是否零售给个人开店。销售人员回答，这类机器人需要软硬件一起做，还要根据具体场景进行二次开发和适配。如果要完成一个零售场景，整体价格大约在100万元以内。他不建议个人购买，因为目前还没办法完全把一个便利店交给机器人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_629b3494b35c443dbcf0d12a48f78321@6314151_oswg256315oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">星海图的机器人正在模拟便利店打包</p>\n  <p>&nbsp;</p>\n  <p>一个律师也在展馆里寻找适合放进律所的机器人。他想把机器人放在办公区，用来解答当事人的简单问题，需求并不复杂，“只需要一个人形”，再加上简单的人机交互。他真正看重的并不是机器人能替代律师。他觉得，当事人面对律师或法律工作者时，多少会有情绪和顾虑，反而面对机器人更愿意说。等当事人先对着机器人把问题说完，后台整理出数据，最后仍由律师给出方案。只是他的预算有限，“万把块钱就够了”。</p>\n  <p>还有人想买一台机器人放在深圳的商业街上卖东西，听完某机器人公司10万元的报价后觉得太贵了，他雇一个人每月只需要6000元。</p>\n  <p><strong>普通人更愿意为机器人付费的价格区间，则是几百元、几千元、万元上下。</strong></p>\n  <p>在展馆里，最接近家庭生活想象的，或许是一台不久将量产的、面向家庭场景的机器人。在展示现场，机器人一直不间断地完成开可乐瓶盖、叠衣服等工作，又或者戴着厨师帽，在工作人员的帮助下煮意面、陪孩子下棋。目前面向家庭场景开放租赁，租金为每月3000元，到了年底还计划出售，售价在3万元到4万元之间。工作人员向我透露，包括运费、工程师上门调配等服务，租赁的方式实际上是亏本的。</p>\n  <p>据该公司宣传，他们的机器人已经进入了500个家庭。但是它真正进入家庭后能做什么呢？展台上的工作人员告诉我，如果家里只是两个年轻人、没有孩子，机器人实际上能做的不多，“不能指望它扫地”。有1/4的租赁客户，都是对机器人好奇而尝鲜的年轻人。</p>\n  <p>在消费层面，也有人愿意为几十万元的仿真机器人付费。松延动力的工作人员介绍道，有一位头部主播正在找他们定制一款以自己面容为原型的仿生机器人，预计年底能够交付。</p>\n  <p><strong>比起大几十万，更多的人，当然更愿意付费的价格是几百元。</strong></p>\n  <p>展会开幕后的24小时内，陆吾智能的桌面机器人就卖出了30多台。实际上，这只是一个搭载着豆包大语言模型的智能硬件，外壳由3D打印制作而成，售价450元。它最大的客户群是来逛展的小朋友，一位小男孩央求着奶奶买下来，送给他作为生日礼物。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_02184c55a61d4581a9a199e03518f512@6314151_oswg79223oswg1080oswg1439_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">陆吾智能的桌面机器人</p>\n  <p>&nbsp;</p>\n  <p>“唱歌跳舞撒娇卖萌”，有展商在会场的过道里叫卖遥控机器狗，200元基础款，搭载豆包语言模型、可以智能对话的260元，两天的时间里卖了一百多台。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_ee0eaeb7c4ef4c5493849c529a0568de@6314151_oswg258615oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">一个小朋友拎着展会上买的机器狗</p>\n  <p>&nbsp;</p>\n  <p>一位年轻女性花了200元买了个最基础的版本，用来逗狗。她想要这个机器狗在前面跑，自己的棕色泰迪在后面追。<br />&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_0f594a1559014ec3a50f9933206c6e22@6314151_oswg2587oswg900oswg47_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_21b34576796e463d966ed75f30ca6ecb@6314151_oswg56928oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_cf9921356ba94eab87bc9fee0bca0f27@6314151_oswg59747oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_5aced4d7371542d88e2d72b07f8b3d0f@6314151_oswg50635oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_093b9e42b11d4ffeab423f0861d7c83b@6314151_oswg67729oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_6a6d041cee21429ba2001a022c91e7ac@6314151_oswg2783oswg900oswg74_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;&nbsp;</p>\n  <p><strong>今年WRC上有你想买回家的机器人吗？</strong></p>\n  <p><strong>欢迎在评论区分享你的看法~</strong></p>",
+      "category": "tech",
+      "published_at": "2026-08-22T07:31:33+00:00",
+      "fetched_at": "2026-08-23T01:02:22.951619+00:00",
+      "fingerprint": "17613ff44155cb34"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "科氪 | 你的下一副眼镜，会思考：雷鸟 iO 正式发布，首发 1996 元起",
+      "url": "https://36kr.com/p/3950603951258756?f=rss",
+      "summary": "<p>&nbsp;</p>\n  <p>8 月 21 日，全球领先的消费级 AR 品牌雷鸟创新（RayNeo）举办 2026 雷鸟 AI 眼镜新品发布会，正式发布全新产品系列——雷鸟 iO 系列。作为系列首款新品，雷鸟 iO 以回归眼镜本质为设计原点，重构整机结构、光学显示与镜框形态，一改 AI 眼镜粗重的固有印象，并通过全天候主动式 AI 提供知识、表达与记忆能力增强，打造行业首款“人类增强 AI 眼镜”。雷鸟 iO 首发到手价 1996 元起，提供 0 至 1000 度近视配镜方案，让 AI 眼镜从“科技尝鲜品”真正走向全天候日常佩戴。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_28518d500d304553815590f775c21641@517825446_oswg850398oswg790oswg1390_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>作为全球 AR 眼镜市场第一品牌，雷鸟创新凭借光学方案全链路自研与量产能力，持续推动消费级 AR 眼镜走向大众市场。根据 Counterpoint 与 IDC 数据，雷鸟创新在 2026 年第一季度再次位居中国及全球 AR 眼镜出货量第一，并拿下中国 618 大促和北美 Prime Day 单品销量冠军。在 AI 眼镜从概念验证走向产品竞争的关键阶段，雷鸟创新决定回归眼镜本质，推出全新 iO 系列。iO 的命名源于计算机语言中的 I/O，即 Input &amp; Output（输入与输出），代表雷鸟对 AI 时代人机交互的理解：人通过眼镜自然获取信息、表达意图，AI 理解用户需求后，再将恰到好处的内容与建议反馈到用户视野中，让眼镜成为连接人与数字世界的新入口。</p>\n  <p>&nbsp;</p>\n  <p><strong>回归眼镜本质，让科技隐于经典</strong></p>\n  <p>智能眼镜要真正进入日常，首先要让人愿意一直戴着。雷鸟 iO 从光学显示、镜框结构与整机配重三方面入手重新设计，让产品在点亮之前，先成为一副外观自然、佩戴舒适的眼镜。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_330ae4ef973d4d8f87d5bd24ee4ca887@517825446_oswg723592oswg1920oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>为打造更接近日常眼镜的镜面观感，雷鸟 iO 全面重构显示系统。全新蓝湖光波导采用三层光学结构和多层微纳纹路，使 OC 区域透过率达到 93%、非显示区达到 98% 以上，即便在复杂光线环境下，显示区域依旧几近不可见，并且其色差指数控制在了 Delta E 2.52，成为了目前行业唯一符合欧盟 EN ISO 12312-1 日常镜片安全标准的 AI 眼镜产品。全新光学引擎“萤火光引擎 Nano”，进一步压缩体积与电路面积，最终体积比一颗红豆还要小，让光学模组真正融入纤薄框型。雷鸟 iO 提供等效 33 英寸画面，双目显示架构支持调节画面远近，1800 尼特入眼亮度，户外强光下仍能清晰显示文字；同时支持全程 DC 调光，并通过 TÜV 南德无频闪、低蓝光认证。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_ed2b7f873b3f4ee09280f8e06017815d@517825446_oswg383912oswg1920oswg1080_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>外形上，雷鸟 iO 采用经典皇冠框型，以平直线条勾勒利落感，再用圆润轮廓弱化智能设备的突兀感。为把科技模块藏进日常眼镜的纤薄形态，雷鸟创新选用轻质镁铝合金前框与双层钛合金镜腿，将前框边缘平均宽度压缩至 2.25 毫米、钛合金镜腿最薄处做到&nbsp;1.15 毫米，在兼顾强度与细腻触感的同时，让正面和侧面观感更接近普通眼镜，整机重量更低至 34g，实现全天舒适佩戴体验。</p>\n  <p>为了减少手机端通知带来的频繁干扰，雷鸟 iO 设计了聚焦效率与专注的信息看板，把天气、日程、待办、世界时钟、股票订阅等高频内容直接呈现在你的视野中，手机通知也可及时同步至镜片，帮助用户快速判断信息轻重缓急。为了达到更精准的交互，全新的 Smart Crown 智能旋钮通过旋动、按压让用户可以单手快速操作确认，无需反复寻找镜腿上的触控区域，同时还支持点头确认、摇头取消的头势交互，公共场合也能自然完成操作。未来，雷鸟创新还将进一步拓展雷鸟&nbsp;iO 在第三方生态的能力，计划与支付宝、京东、高德、同程等合作伙伴推出停车缴费、快递查询和航班信息等新功能场景。</p>\n  <p>&nbsp;</p>\n  <p><strong>全天候主动式 AI：“越戴越懂你”的能力增强助理</strong></p>\n  <p>面对工作与生活中的高信息密度和高认知负荷，传统 AI 助理往往要等用户发出指令，才能在单一场景中提供帮助，也很难真正理解用户长期的习惯与需求。雷鸟 iO 从全天候佩戴出发，支持两天超长续航，让 AI 从一个等待调用的工具，变成持续在线的能力增强助理。</p>\n  <p>在底层能力方面，雷鸟 iO 以开源大模型为能力底座，首批支持 DeepSeek V4 Pro 与千问 3.7 Max，后续还将接入 Kimi K3 和雷鸟自研的 RayNeo AI 大模型，为用户提供多模型选择。在此基础上，雷鸟还依托 RayNeo 全天候记忆引擎，进一步打通物理世界信息。iO 可以通过对声音、位置等信息的处理，将记忆转化为情景、语义、行为等多种信息类型，从大规模、不连续、非结构化的真实场景数据中理解用户，并记录处理全天佩戴产生的 24 小时上下文。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_ed0bad54593c4c648ab21240cef16da9@517825446_oswg3159725oswg1920oswg1080_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>雷鸟 iO 基于全天行程、会议、生活内容打造 AI 增强型助理，全天智记功能可通过每天自动生成总结，归纳重要对话、待办事项和个人状态，帮助用户自动化管理琐事。随着信息积累，AI 可以调用历史内容理解用户的关注话题与表达习惯，再次回答时无需从零开始。用户可以回溯昨天的会议重点、口头约定的复诊时间，也可以让 AI 根据长期记录给出更贴合个人偏好的建议。基于对用户场景的判断和理解，雷鸟 iO 还开发了实时提示模式，无需用户说出指令，就能识别正在进行对话中的相关问题，并将参考答案显示在镜片上。无论是临时访谈、会议交流，还是日常遇到知识盲区，信息都能在真正需要的时刻自然出现。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_1f671bbabcab439188e37c118bf36a89@517825446_oswg1100724oswg1920oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>雷鸟 iO 配备 4 颗阵列麦克风和 1 颗骨传导麦克风，通过波束成形算法，能在多人场景中精准区分说话人身份，提升会议记录与总结效率。为提升翻译体验，雷鸟 iO 搭载技术合作伙伴时空壶的 BabelOS 3.0 智能翻译引擎，覆盖全球 55 种语言及 109 种口音。区别于逐字拼接的传统机器翻译，BabelOS 3.0 由 AI 大模型先理解完整语义，再生成更符合表达习惯的译文，并通过语义断句、润色纠错与多引擎智能调度，减少生硬直译和等待带来的交流中断。在演讲场景中，雷鸟 iO 的&nbsp;AI 提词器模式，则可跟随用户语速滚动，实时高亮正在讲述的内容，减少公开表达时频繁转移视线带来的紧张与中断。</p>\n  <p>&nbsp;</p>\n  <p><strong>让 AI 全天在线，也让隐私始终可见可控</strong></p>\n  <p>全天候 AI 需要持续接收现实世界的信息，雷鸟 iO 将隐私保护前置到产品设计，以 Privacy by Design（隐私优先设计）为原则，围绕采集状态、数据处理、用户控制和外部验证四个层面，建立从硬件到数据的隐私保护体系。</p>\n  <p>雷鸟 iO 不配备摄像头，减少不必要的视觉采集入口；镜腿上的隐私状态灯则与录音、翻译等功能模块在硬件层面绑定，只要相关功能处于工作状态，指示灯便同步亮起，无法通过软件关闭或绕过，让设备是否正在工作始终清晰可见。全天智记产生的原始对话会先在设备端完成不可逆的匿名化与脱敏，必要时上传的也只是脱敏后的结构化信息，原始内容不会以可识别的形式离开设备，所有的数据全程采用金融级别的加密标准保护。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_f6c31ffbd2d84e34929316abbada4c75@517825446_oswg172089oswg1920oswg1080_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>数据产生之后，用户仍然拥有完整的决定权：历史数据可以导出、迁移，也可以彻底删除且不可恢复；眼镜与账号一对一绑定，设备丢失后他人无法重新绑定或读取数据。雷鸟信息安全管理体系已通过 ISO 27001 与 ISO 27701 认证，并覆盖 GDPR、CE、EN 18031、CRA 等合规要求，同时引入白帽安全团队开展攻防测试，让这套从采集、处理到控制的隐私机制始终接受外部验证，确保安全可控。</p>\n  <p>&nbsp;</p>\n  <p>雷鸟 iO 以“人类增强 AI 眼镜”为产品定位，将日常佩戴、全天候主动式 AI 与可信赖的隐私保护融为一体，让 AI 从“能用”走向“值得长期佩戴”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_9c738b33733d402b88f58bf6b8f85ce6@517825446_oswg4876137oswg2160oswg3600_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>雷鸟 iO 正式售价 2499 元，首发到手价 1996元起，还有充电眼镜盒、京东 PLUS 定制版等更多选择，即日起在京东、天猫、抖音及多家线下眼镜渠道开售。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_8d16d6b33ff14830abd8ec33cd5ffc0d@517825446_oswg1039904oswg1920oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>与此同时，此前备受好评的 AI 拍摄眼镜雷鸟 V4 也推出了 32GB 版本，售价 1999 元，国补价 1699 元。</p>",
+      "category": "tech",
+      "published_at": "2026-08-22T11:22:19+00:00",
+      "fetched_at": "2026-08-23T01:02:22.951603+00:00",
+      "fingerprint": "512fde87aa94936f"
+    },
+    {
+      "source": "少数派",
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "url": "https://sspai.com/post/113675",
+      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...<a href=\"https://sspai.com/post/113675\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-22T03:00:00+00:00",
+      "fetched_at": "2026-08-23T01:02:21.161728+00:00",
+      "fingerprint": "c6de64b1b72c4b4d"
+    },
     {
       "source": "BBC World News",
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -1591,476 +1761,6 @@
       "published_at": "2026-08-16T22:54:56+00:00",
       "fetched_at": "2026-08-17T00:58:32.544684+00:00",
       "fingerprint": "62f4a4fd0a9a158b"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-      "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-      "summary": "<p>Border security tightened after social media posts call for another mass crossing into Spain’s north African territory</p><p>Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.</p><p>The attempted crossing on Saturday came two weeks after more than <a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths\">72,000 migrants surged into Ceuta</a>, causing <a href=\"https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies\">tensions within the EU</a> and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to ⁠reach European soil.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-15T18:08:21+00:00",
-      "fetched_at": "2026-08-16T01:01:03.794581+00:00",
-      "fingerprint": "41036778d9fb6b86"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "summary": "<p>Eighteen children among the people killed after ferry capsized on Lake Kariba</p><p>Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.</p><p>The ferry <a href=\"https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize\">capsized on Tuesday on Lake Kariba</a>, on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-15T19:39:07+00:00",
-      "fetched_at": "2026-08-16T01:01:03.794571+00:00",
-      "fingerprint": "90ba3a9673a32e85"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "category": "politics",
-      "published_at": "2026-08-15T19:41:57+00:00",
-      "fetched_at": "2026-08-16T01:01:03.623561+00:00",
-      "fingerprint": "9451759e9926ca1f"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "category": "politics",
-      "published_at": "2026-08-15T20:21:14+00:00",
-      "fetched_at": "2026-08-16T01:01:03.623555+00:00",
-      "fingerprint": "9d3e8903f42afdfb"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "category": "politics",
-      "published_at": "2026-08-15T20:58:31+00:00",
-      "fetched_at": "2026-08-16T01:01:03.623548+00:00",
-      "fingerprint": "be57cc06dde66fd8"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-      "category": "politics",
-      "published_at": "2026-08-15T21:49:12+00:00",
-      "fetched_at": "2026-08-16T01:01:03.623539+00:00",
-      "fingerprint": "f7053cd9143e1bb6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-16T01:01:03.331337+00:00",
-      "fingerprint": "09d6b2df80b9bbc3"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-16T01:01:03.331231+00:00",
-      "fingerprint": "441022e5503ba70a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "ChatGPT lost 22 points of web share in a year",
-      "url": "https://aicharts.grok.me/c/market-share",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-16T01:01:03.331090+00:00",
-      "fingerprint": "6db59ce1ccecd0a8"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-16T01:01:03.330976+00:00",
-      "fingerprint": "c5bb51af2e228ee5"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-16T01:01:03.330843+00:00",
-      "fingerprint": "cc46e9b7f6f7c44a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
-      "url": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
-      "summary": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from the theory behind their musical choices [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-15T15:00:00+00:00",
-      "fetched_at": "2026-08-16T01:01:03.022564+00:00",
-      "fingerprint": "f7a933a97490f9f5"
-    },
-    {
-      "source": "The Verge",
-      "title": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
-      "url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
-      "summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-15T17:00:00+00:00",
-      "fetched_at": "2026-08-16T01:01:03.022558+00:00",
-      "fingerprint": "9741056b78e1fa95"
-    },
-    {
-      "source": "The Verge",
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-15T20:45:00+00:00",
-      "fetched_at": "2026-08-16T01:01:03.022551+00:00",
-      "fingerprint": "015b3666d4504b20"
-    },
-    {
-      "source": "The Verge",
-      "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
-      "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
-      "summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit &#38; Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-15T21:56:13+00:00",
-      "fetched_at": "2026-08-16T01:01:03.022541+00:00",
-      "fingerprint": "9d66eb2ab3eb9634"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "9点1氪丨追觅首台手机售价超20万，带创始人俞浩签名；韩国宣布2030年实现登月；胖东来计划招聘20名刑期5年以上刑满释放人员",
-      "url": "https://36kr.com/p/3940086573759874?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>微信朋友圈未来不会推出二次编辑功能</li>\n   <li>遭“薅羊毛式”黑灰产诈骗，东方甄选回应</li>\n   <li>宜家拟处置上海宝山商场物业</li>\n   <li>阿里超15亿美金向中信资本出售灵犀互娱</li>\n   <li>英伟达宣布CPO交换机全面量产</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>追觅首台手机售价超20万：24K足金镶宝石，带俞浩签名</strong></p>\n  <p>8月13日，追觅手机负责人在朋友圈透露，公司已正式交付001号AURORA手机。据其透露，三万美金（约合人民币20.23万元）交易款项已全部到账，其中首付款1万美金，尾款21184美金。其称，这是 “中国智能手机历史上迄今为止卖出去单台售价最高的旗舰智能手机”。从曝光图片来看，手机不仅背面带有追觅创始人俞浩签名，而且还附带专属编码的典藏证书。证书信息显示，甄选24K足金材质，并镶嵌珍稀宝石。（钱江晚报）</p>\n  <p><strong>韩国宣布2030年实现登月</strong></p>\n  <p>8月12日，韩国总统李在明在青瓦台举行“未来增长动力七大尖端技术发布会”，并公布“七大尖端项目”战略：分别是2029年研制国产100量子比特计算机，2030年实现登月，2035年推动国产小型模块化反应堆（SMR）商业部署，并实现脑机接口产品商业化。七大方向还包括核聚变、下一代可再生能源、先进生物技术，以及关键矿产和材料供应链。李在明表示，韩国必须把握当前半导体产业带来的机遇，为后AI时代做好准备。（上游新闻）</p>\n  <p><strong>胖东来：计划招聘20名刑期5年以上刑满释放人员</strong></p>\n  <p>8月14日，胖东来发布郑州店招聘退伍边防军人及刑释人员提前公告。公告称，在本次招聘中，胖东来计划招聘100名为祖国边疆做出巨大贡献的退伍边防军人，20名刑期5年以上的刑满释放人员，并为其设立专属报名投递通道。胖东来表示，这也是基于人性的善良和美好，希望各个群体的人们都能够得到社会的尊重和关爱，能够让每个人有尊严地生活，成为文明先进生活理念的践行者和传播者，活得像光一样，照亮更多人的生命，造福国家和社会。据介绍，以上招聘人员的报名及面试流程与其他应聘者一致，具体招聘时间、岗位、人数、要求、报名方式等信息，后期将通过胖东来官方渠道正式发布。（鞭牛士）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Anthropic：Q2营收同比暴涨14倍</strong></p>\n  <p>据业内人士看到的文件显示，Anthropic PBC在向潜在投资者推介时透露，公司第二季度的营业收入较去年同期实现了约14倍的巨幅增长。文件显示，这家Claude聊天机器人开发商在最新结束的季度中报告的初步营收超过115亿美元。作为对比，其在2025年同期的营收仅为7.87亿美元，而今年第一季度则为47.3 亿美元。此外，文件还显示，Anthropic在2026年第二季度的调整后营业利润为正。据悉，目前相关数据仍处于内部复核阶段，最终结果可能会有所调整。（财联社）</p>\n  <p><strong>智谱正式发布GLM-5.3</strong></p>\n  <p>36氪获悉，智谱正式发布GLM-5.3。据介绍，与GLM-5.2相比，GLM-5.3的基座模型没变，但通过极致的后训练Scaling大大提高了模型的智能上界。GLM-5.3是编程能力最强的开源模型，在内部自建体感评测中较GLM-5.2提升50%，在包括Terminal Bench 3.0、Agents' Last Exam （CLI）在内的公开基准测试中取得开源第一。</p>\n  <p><strong>消息称苹果针对中国市场训练了一款AI模型</strong></p>\n  <p>消息人士称，苹果专门针对中国市场训练了一款AI模型，该AI模型的训练据悉得到阿里巴巴的支持。（财联社）</p>\n  <p><strong>OpenAI任命Dali Rajic为首席营收官</strong></p>\n  <p>8月13日，OpenAI宣布，Dali Rajic将加入OpenAI担任首席营收官，领导OpenAI的全球营收团队。现任首席营收官Denise Dresser将在过渡期结束后离开OpenAI，寻求其他发展机会。OpenAI称，公司产品目前每周活跃用户超过10亿，服务企业超过200万家，是去年同期的两倍，而Denise为这一切的实现做出了巨大贡献。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>旺旺董事长发内部信：公司面临重大经营危机，没有贡献的人就要被淘汰</strong></p>\n  <p>2026年8月初，旺旺集团董事长蔡衍明发布致全体旺旺人的公开信，将2026财年第一季度（4月至6月）业绩未达预期定性为“重大经营危机”，要求内部反思产品创新不足、渠道老化等问题，并推动改革。蔡衍明表示，“对公司有感情的旺旺人要痛定思痛，不合理、无效的费用就不应该花，该节省的费用一定要当作自己家的钱来节省；新的业务做法一定要勇敢、积极尝试。集团现在要的是能有贡献、有功劳的旺旺人！没有产出、没有功劳的，都会需要被淘汰！”（蓝鲸新闻）</p>\n  <p><strong>1700余件“心机商标”被宣告无效</strong></p>\n  <p>近日，国家知识产权局商标局网站公布了一批“依职权宣告无效的带有欺骗性的商标”。在公布的名单中，一些看似普通的词语成为部分企业营销宣传的工具。比如“土猪”“土鸡”“手擀”“手打”等，容易让消费者联想到散养、手工制作、品质更高等特质，属于从品质工艺进行误导；而含有“零卡”“零糖”“零添加”“劲白”等词语的商标，容易让消费者从特定成分或功效进行联想；“香港大药房”“树上熟”等名称，则是在商品的产地、来源等方面进行误导。目前，已有1782件相关商标被宣告无效。专家表示，这些商家注册商标的目的不单纯是为了起一个名称，而是把一些表达商品质量、数量、产地来源甚至功效成分的名称注册成商标，给消费者带来误导。（央视新闻）</p>\n  <p><strong>沃尔玛入华三十年，持续加大在华投资</strong></p>\n  <p>8月12日，沃尔玛中国在深圳举行三十周年活动。活动现场，沃尔玛中国围绕五座重要城市合作举行集中签约仪式。此次签约覆盖山东烟台沃尔玛及山姆业态合作意向书，北京昌平、辽宁沈阳的沃尔玛门店合作协议，以及湖北武汉、江苏南通的山姆会员商店合作协议，聚焦不同区域需求，持续拓展沃尔玛中国双业态服务网络。此外，沃尔玛中国正式揭晓全新雇主品牌“精彩由沃开始”，以行动诠释面向未来的发展战略。（品牌专题）</p>\n  <p><strong>杨子家族旗下公司上半年净利骤降近六成</strong></p>\n  <p>8月13日晚间，巨力索具（002342.SZ）披露2026年半年报，报告期公司实现营业收入13.09亿元，同比增长14.79%；归属于上市公司股东的净利润380.01万元，较上年同期935.08 万元同比下降59.36%；扣除非经常性损益后的归母净利润1099.98万元，同比增长96.48%。公司综合毛利为18.84%，同比提升0.84个百分点。营收规模实现两位数增长，但归母净利润大幅回落，扣非与归母净利润出现明显背离。（界面新闻）</p>\n  <p><strong>微信官方：朋友圈未来不会推出二次编辑功能</strong></p>\n  <p>8月14日，微信官方账号“微信派”发布《为什么朋友圈没有编辑功能？》一文。其中提到，“朋友圈现在、过去、未来都不会有二次编辑功能”。微信表示，朋友圈的英文是“Moments”，当下那一瞬间。正是因为“不可更改”，这种记录才具备绝对真实性。与其让所有人都活在“什么都可能被改过”的朋友圈里，不如让手误那几秒自己消化掉。（第一财经）</p>\n  <p><strong>腾讯混元资深研究员徐灿转岗微信WeLM</strong></p>\n  <p>36氪从相关人士处获悉，混元资深研究员徐灿在近期加入腾讯WeLM团队，从事大模型研发相关工作。多名知情人士透露，在姚顺雨接手腾讯大语言模型研发前，徐灿在混元LLM体系中担任后训练一个方向上的负责人。值得一提的是，这次转岗发生在微信持续强化自研大模型和Agent能力的阶段。6月，微信原生AI助手“小微”已进入小范围灰度测试，可通过文字或语音操作微信原生功能，并调用小程序完成服务任务。</p>\n  <p><strong>遭“薅羊毛式”黑灰产诈骗，东方甄选回应</strong></p>\n  <p>8月13日晚，东方甄选发文称，涉嫌恶意骗取东方甄选订单退款，相关犯罪嫌疑人已被警方采取强制措施。全文如下：“近日，东方甄选在订单数据日常监测中发现大量异常仅退款订单，涉及金额较大，存在'薅羊毛式'黑灰产诈骗嫌疑。公司立即固定证据并向公安机关报案，全程配合调查取证。经警方缜密工作，目前，某张姓犯罪嫌疑人因涉嫌诈骗罪，已被警方依法采取刑事强制措施，案件正在进一步办理中。东方甄选始终坚持以客户为中心，持续提升客户服务质量，注重客户体验。同时，我们对于任何触碰法律底线、违背诚信原则的行为，坚决依法维权，绝不姑息。未来，东方甄选将持续完善风控体系，加大对恶意退赔、职业索赔等行为的排查与打击力度。感谢广大客户的关心与支持！”（第一财经）</p>\n  <p><strong>SK海力士：明年将迎最严重“存储荒”</strong></p>\n  <p>8月13日，SK海力士董事长崔泰源在公司韩国总部接受了媒体专访。他在采访中再次强调了存储需求的爆发式增长，并表示明年将出现最严重的“存储荒”。他还肯定了其合作伙伴英伟达在AI基建浪潮中的重要性，并反驳了外界对SK海力士过度依赖英伟达的担忧。（财联社）</p>\n  <p><strong>宜家拟处置上海宝山商场物业</strong></p>\n  <p>界面新闻获悉，宜家中国近日就上海宝山商场物业后续安排发布说明。英格卡集团(Ingka Group)已正式委托仲量联行，代理旗下中国市场部分已停运商场自持物业的处置工作，上海宝山商场物业在列。宜家上海宝山商场2013年开业，2026年停运，接待访客近3000万人次。宜家中国表示，该自持物业位于上海市宝山区，总建筑面积约10.5万平方米，目前资产已全面清空、产权清晰，可按现状即时交付。项目未来可探索改造为社区商业综合体、融合文旅元素的体验式消费空间或其他创新业态。（界面新闻）</p>\n  <p><strong>上市公司频现1元甩卖子公司股权</strong></p>\n  <p>据记者不完全统计，2026年以来，已有十余家上市公司先后发布公告，以1元的名义对价挂牌出售旗下子公司的股权。被低价甩卖的子公司股权的标的多数业绩连续亏损，不少甚至处于资不抵债的状态。在业内人士看来，这类“白菜价”转让的表层逻辑，主要是上市公司急于将亏损资产从合并报表中剥离，优化当期的财务报表，从而保住上市资格，维持自身在资本市场的正常融资能力，但交易边界模糊，低价转让不良资产背后潜藏着更大的风险。（界面新闻）</p>\n  <p><strong>英伟达宣布CPO交换机全面量产</strong></p>\n  <p>8月14日，英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。英伟达表示，Spectrum-X Ethernet Photonics专为吉瓦级AI工厂网络需求设计，实现激光器数量减少4倍、功耗降低5倍、平均故障间隔时间（MTBI）提升10倍。该产品由台积电、矽品、Lumentum、天孚通信、鸿海等供应链伙伴参与制造、封装及组装。（界面新闻）</p>\n  <p><strong>阿里超15亿美金向中信资本出售灵犀互娱</strong></p>\n  <p>据报道，阿里旗下灵犀互娱的买方已经确定，为中信资本旗下的信宸资本（Trustar Capital），出售价格预计超过15亿（约合101亿元人民币）。（21财经）</p>\n  <p><strong>广东省首个词元经济专项金融产品“Token贷”在广州海珠发布</strong></p>\n  <p>广东省首个词元经济专项金融产品“Token贷”在广州海珠区发布。以中国银行广州分行为例，针对海珠算力中小微企业针对性研发专属融资产品——算力Token贷，按合同/Token消耗额度核定额度，可提供信用、应收账款质押、订单融资为主的担保方式，亦可组合保证、抵押等组合担保，进一步扩大额度。新公司亦可在原经营企业提供连续经营佐证材料、或提供担保的情况下按订单申请融资。据悉，中国银行前期试单授信资金已达2800万元。（界面新闻）</p>\n  <p><strong>中央汇金、证金公司退出贵州茅台前十股东</strong></p>\n  <p>8月14日晚间，贵州茅台(600519.SH)发布2026年半年度报告。报告显示，中央汇金资产管理有限责任公司、中国证券金融股份有限公司退出前十大股东。此前贵州茅台一季报显示，汇金公司持有1039.71万股，占总股本的0.83%。证金公司持有403.75万股，占总股本的0.32%。此外，华夏上证50、华泰柏瑞沪深300ETF均退出十大股东之列。报告显示，2026年上半年，贵州茅台营收907.03亿元，同比增长1.47%；利润总额614.38亿元，同比下降2.13%；净利润445.17亿元，同比下降1.95%。经营活动产生的现金流量净额706.91亿元，同比增长438.84%。（21实际经济报道）</p>\n  <p><strong>特斯拉SpaceX合并传闻再起，马斯克薪酬激励或高达8240亿美元</strong></p>\n  <p>一档播客节目指出，如果马斯克促成特斯拉和SpaceX合并，他可能获得最高8240亿美元的财富。按特斯拉去年批准的薪酬方案，马斯克在达成运营目标和市值目标后，最多可获4.23亿股特斯拉股票。华尔街认为，若特斯拉发生控制权变更，则运营目标视为达成，且市值目标也更容易达成。（财联社）</p>\n  <p><strong>德国汽车行业就业人数降至21年来最低</strong></p>\n  <p>德国联邦统计局14日发布的数据显示，德国汽车行业就业人数持续减少，今年已降至2005年以来最低水平。截至今年活跃，德国汽车行业就业人员共有约69.15人，比一年前减少4.23人，降幅为5.8%。据德新社报道，各汽车行业就业部门是德国工业部门中的人员减少最快的部门。德国汽车行业中，汽车零部件及配件供应商评判最多，就业人数同比减少7.6%；汽车制造商就业人数减少6.1%。德国其他工业部门就业人数也有所减少，但降幅相对较小。同时期，德国制造业就业人数同比减少2.7%，至529人。（研究院）</p>\n  <p><strong>美股大型科技股盘前普涨，闪迪涨超6%</strong></p>\n  <p>36氪获悉，美股大型科技股盘前普涨，截至发稿，闪迪涨超6%，英特尔涨超1%，特斯拉涨0.42%，英伟达涨0.31%，Meta涨0.26%，微软涨0.23%，亚马逊涨0.18%，谷歌涨0.07%，苹果涨0.05%。</p>\n  <h2>投融资</h2>\n  <p><strong>“亮源新创”完成数亿元Pre-A轮融资</strong></p>\n  <p>36氪获悉，近日，“亮源新创”宣布完成数亿元Pre-A轮融资。本轮融资由国科投资领投，招商局创投、襄禾资本等机构参与投资，资金将主要用于超大规模具身智能模型训练、多模态数据基础设施建设、软硬件全栈平台研发以及高人才密度的团队扩张。</p>\n  <p><strong>“什方科技”连续完成两轮融资</strong></p>\n  <p>36氪获悉，专注工业场景功能性涂层数字喷印技术的企业“什方科技”连续完成两轮融资。自B轮起至本次B+轮收官，融资总额近3亿元。由五源资本、创世伙伴创投、同创伟业及产业战略投资机构恒旭资本、小米集团、蔚来资本联合入局，多家老股东同步追加投资。</p>\n  <h2>大公司财报</h2>\n  <p><strong>Coach母公司Tapestry 2026财年营收80亿美元，同比增长14%</strong></p>\n  <p>当地时间8月13日，Coach母公司Tapestry公布2026财年第四季度及全年业绩。第四季度营收18.77亿美元，同比增长9%；营业利润4.42亿美元，上年同期营业亏损5.84亿美元。全年营收80.04亿美元，同比增长14%；营业利润19.14亿美元，上年同期为4.15亿美元；稀释后每股收益7.27美元，上年同期为0.82美元。（界面新闻）</p>\n  <p><strong>小菜园：上半年收入29.03亿元，同比增长7.0%</strong></p>\n  <p>36氪获悉，小菜园发布2026年中期业绩。报告期内，公司实现收入29.03亿元，同比增长7.0%，营收规模再创新高；净利润2.89亿元，同比下降24.3%。</p>\n  <p><strong>平安银行：上半年净利润256.96亿元，同比增3.3%</strong></p>\n  <p>36氪获悉，平安银行公告，2026年上半年营业收入706.17亿元，同比增长1.8%。归属于本行股东的净利润256.96亿元，同比增长3.3%，上年同期净利润248.7亿元。中期利润分配方案为每10股派发现金股利2.49元（含税）。</p>\n  <p><strong>贵州茅台：上半年营业收入907.03亿元，同比增长1.47%</strong></p>\n  <p>36氪获悉，贵州茅台公告，2026年上半年实现营业收入907.03亿元，同比增长1.47%；净利润445.17亿元，同比下降1.95%。</p>\n  <p><strong>生益科技：上半年净利润同比增长130.42%</strong></p>\n  <p>36氪获悉，生益科技公告，2026年上半年实现营业收入190.26亿元，同比增长50.05%；归属于上市公司股东的净利润32.87亿元，同比增长130.42%。</p>\n  <p><strong>泰佩思琦：第四季度销售额19亿美元，同比增长9%</strong></p>\n  <p>36氪获悉，泰佩思琦集团公布截至2026年6月27日的2026财年第四季度及全年业绩。第四季度销售额19亿美元，同比增长9%，按备考恒定汇率计算增长11%，主要由COACH品牌15%（按固定汇率计算为14%）的业绩增长带动。2026财年全年销售额80亿美元，同比增长14%，按备考恒定汇率计算增长17%。</p>\n  <h2>上市进行时</h2>\n  <p><strong>传音港股上市获证监会备案</strong></p>\n  <p>8月14日，中国证监会国际合作司发布关于深圳传音控股股份有限公司境外发行上市备案通知书，公司拟发行不超过132,386,200股境外上市普通股并在香港联合交易所上市。（界面新闻）</p>\n  <p><strong>优邦科技创业板IPO定于8月21日上会</strong></p>\n  <p>36氪获悉，深圳证券交易所上市审核委员会定于2026年8月21日召开2026年第53次上市审核委员会审议会议，审议东莞优邦材料科技股份有限公司。</p>\n  <p><strong>整理</strong>｜葡萄&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-15T01:06:47+00:00",
-      "fetched_at": "2026-08-16T01:01:02.904026+00:00",
-      "fingerprint": "4cae2c9c85664c91"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "中科大孵化，国内唯一通用光量子计算整机企业完成超亿融资丨36氪首发",
-      "url": "https://36kr.com/p/3940103536491910?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_ee2f8844c28f4632a64237e645a545ed@6221844_oswg638507oswg3264oswg1301_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2200</strong>字，建议阅读<strong>5</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，合肥硅臻芯片技术有限公司（以下简称“硅臻芯片”）近日完成超亿元融资。本轮融资由韦豪创芯、共达电声（002655）联合领投，华策影视（300133）、苏创投、苏金控、创领资本、后浪资本等机构跟投。融资资金将主要用于万比特专用光计算集群与通用量子计算芯片组的研发。</p>\n  <p>硅臻芯片2020年成立于合肥，核心技术源自中国科学技术大学郭光灿院士领衔的中国科学院量子信息重点实验室。公司由教育部长江学者、中国科学技术大学光学与光学工程系执行系主任陈巍，国家杰青、中国科学院量子信息重点实验室副主任任希锋，以及中科大博士、博士期间即从事光量子芯片研发的丁禹阳三位联合创始人共同创立，核心团队在集成光量子领域拥有超过20年技术积累，全部来自中科大郭光灿院士团队。</p>\n  <p>目前，硅臻芯片已构建从核心光量子器件到整机系统的完整技术布局。硅臻芯片总经理丁禹阳表示，公司成立的初衷是“基于光量子芯片技术，让量子密码、量子测量、量子计算三项技术落地到实用化”。</p>\n  <p>在具体产品落地上，硅臻走出了两条清晰的商业化路径。</p>\n  <p>量子计算方向，2025年11月，硅臻在量子科技产业大会上发布了基于硅光集成芯片的通用可编程量子计算机，可通过云平台访问接入。该整机是国内唯一可运行通用量子算法的光量子计算整机。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_e53b83bb4f4f43f29ea366f88138d60e@6221844_oswg185651oswg559oswg647_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">基于硅光集成芯片的通用可编程量子计算机（图源/企业）</p>\n  <p>此外，公司在专用光计算领域已完成5000比特级设备内部验证，基于芯片集成方案相比于同类光纤方案具有成本和性能上的绝对优势。丁禹阳透露，该产品预计在今年年底推出上市。</p>\n  <p>值得关注的是，硅臻近期在通用光量子计算领域取得关键突破。公司联合中科大量子信息重点实验室，首次在片上成功实现4光子16量子比特GHZ态、单光子4量子比特簇态的稳定生成，是目前在光量子芯片上演示的最大规模纠缠态。团队还在该平台上演示了Grover搜索算法，平均识别概率达98.7%。</p>\n  <p>量子安全方向，硅臻自主研发的QRNG-10量子随机数发生器芯片，是国内首款毫米级QRNG芯片，基于量子放大自发辐射原理，也是目前国内最先通过国家密码管理局商用密码检测中心测评的QRNG芯片。</p>\n  <p>据丁禹阳透露，该芯片已签订单约20万片，累计出货量在量子科技相关单品中位居前列。在客户拓展上，芯片已集成至SIM卡中，产品还适配于国家电网电表加密芯片及家庭摄像头等智能终端。丁禹阳预计，随着抗量子密码相关国家标准的出台，QRNG芯片年出货量可达百万片级别。</p>\n  <p>在商业化节奏上，硅臻有明确的短中长期策略：短期靠QRNG芯片造血，已验证商业模式并实现持续复购；中期靠万比特专用光计算设备贡献营收；长期则瞄准百万比特通用光量子计算机，是国内唯一直接对标PsiQuantum和Xanadu的量子计算企业。</p>\n  <p><strong>以下是硬氪与硅臻芯片总经理丁禹阳的访谈（经编辑）：</strong></p>\n  <p><strong>硬氪：市场普遍关注量子比特数量，保真度这个指标常常被忽略。硅臻怎么看这两者的关系？</strong></p>\n  <p><strong>丁禹阳：</strong>比特的数量肯定是追求的，但保真度同样关键。保真度可以理解为量子比特的质量——如果单比特保真度是99.9%，就相当于有0.1%的错误率。10个比特放在一起，正确率就是(1-0.1%)的10次方。比特数越多，保真度带来的影响越是指数级放大。</p>\n  <p>所以我们的逻辑是：比特数目和质量要同步推进，两者缺一不可。增加比特数是所有量子计算赛道的最终目标，但保真度决定了这些比特是否真正可用。</p>\n  <p><strong>硬氪：光量子计算和其他技术路线比，核心优势到底在哪？</strong></p>\n  <p><strong>丁禹阳：</strong>主要有两点。第一，我们团队本身就是做光量子出身的，有超过20年的积累。第二，光量子计算是明确能解释清楚“怎么从4个比特变到百万比特级别”的路线。</p>\n  <p>其他路线单台设备做到一定比特数后物理尺寸可能就到头了。而只有光量子可以在常温下直接通过光纤传输。其他路线最终都要转成光来传，绕不开我们的技术。</p>\n  <p><strong>硬氪：从产业视角看，硅臻走到百万比特还需要解决什么？</strong></p>\n  <p><strong>丁禹阳：</strong>这不是科研问题，是工程问题。我们是一家芯片设计公司，需要找到能在损耗、工艺上满足光量子芯片需求的晶圆厂深度合作，共同开发定制工艺。这需要大量的工程迭代，跟工厂磨工艺、调参数、反复验证。这也是为什么本轮融资要把产业资本引进来，光有技术不够，得有制造端的深度协同才能把百万比特这件事真正落地。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>韦豪创芯陆正杨：</strong>本次投资硅臻，立足于光量子计算赛道长远的商业化潜力。企业深耕硅光量子路线，设备支持常温常压工作，能够兼容成熟CMOS硅光产线，对比超导、离子阱方案拥有可观的量产成本优势，产业化前景优越。公司核心团队源自中科大量子信息实验室，兼具顶尖科研积淀和芯片落地经验，属于国内稀缺、可实现通用光量子计算机全链路自主研发的企业，构筑起深厚的技术壁垒。硅臻现已问世国内首台搭载硅光集成芯片的4比特通用可编程光量子计算机，同步布局KLM、MBQC主流技术架构，攻克高维光子编码、公里级分布式量子互联等核心技术，先发优势扎实，具备较高成长确定性。</p>\n  <p><strong>创领资本王帅：</strong>量子科技作为未来产业的领头羊，是我们认为今后至少5-10年里最值得关注的赛道，当下投资量子科技就相当于5年前投资人工智能和算力产业。硅臻芯片是创领资本系统性梳理和接触量子产业相关标的后，认为最具代表性的光量子标的，也是当前最值得关注的高性价比标的。尤其是，近期硅臻芯片在MBQC技术上的进展，标志着硅臻芯片成为国内首家实现片上构建规模化图态的光量子计算企业，让百万量子比特光量子计算机的研发落地具备现实可行性，也标志着硅臻芯片在未来有望跻身世界级光量子企业的行列。</p>",
-      "category": "tech",
-      "published_at": "2026-08-15T01:20:56+00:00",
-      "fetched_at": "2026-08-16T01:01:02.904017+00:00",
-      "fingerprint": "12da04a2e3dbf1cd"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从众筹到问鼎欧美，VITURE与XR行业的五年",
-      "url": "https://36kr.com/p/3940540064562563?f=rss",
-      "summary": "<p>大家都说，XR眼镜是一个奇怪的品类。</p>\n  <p>参数每年都在刷新，销量每年都在增长，但二手平台上，“只用过两次”“戴了半小时头晕”“吃灰半年出了”的转卖帖，好像慢慢变得比任何一个消费电子品类都密集。</p>\n  <p>行业常常将品类留不住用户、留不住用户的时间，归咎于技术还不够成熟。</p>\n  <p>VITURE创始人姜公略给出的是另一个关于“过去五年”的解释。</p>\n  <p>“2022年之前的眼镜，本质上都是投屏器，相当于一台外接显示器。但用户期待的、我们在做的，是一台电脑，一个能计算、能交互、有内容的all-in-one终端设备。”</p>\n  <p>“清晰”和“清晰又聪明”的巨大区别，指向了行业的核心矛盾。投屏器只能从技术上让用户的眼前再多出现一块大屏，但XR眼镜这个品类，如果只能回答用户一个问题，这个问题应该是：我今天为什么要多戴一副眼镜。</p>\n  <p>用了五年时间来回答这个问题的VITURE，2021年，创业开始，还是一家只有10个人的公司，在Kickstarter上打破了Oculus保持多年的众筹纪录。五年后，它成为了欧美出货量第一的XR眼镜品牌。</p>\n  <p>五年多后的8月6日，品牌成立的五周年当天，<strong>VITURE全球同步发布了Pro 2</strong>。</p>\n  <p>上市一周后，第一批用户也给出了真实体验反馈：<strong>开售一周，VITURE Pro 2斩获京东XR眼镜当周单品SKU第一，海外也成为多个亚马逊站点的Best Seller。本周，三大权威科技媒体Gizmodo，Tom's Guide及PCMag，也几乎同时给出了一致的“同价位最棒的XR眼镜体验”评价。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_2ba825a399b04a83b6e1a97bbfa1e007@5510391_oswg472995oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>新一代产品给市场带来了三个关键词：63克，1999元，可近视调节。没有更fancy的叙事，这家公司仍然在从“老问题”切入新问题，关心用户戴不戴得住、买不买得起。</p>\n  <p>这两个支点，究竟怎么才能撑起XR的真需求？</p>\n  <h2><strong>1999元的“空盒子”</strong></h2>\n  <p>在与36氪的对谈中，姜公略说，他最近养成了一个新习惯：拿起装Pro 2的眼镜盒，总觉得里面是空的，必须要打开确认一眼，才相信眼镜真的放在了里面。</p>\n  <p>一个已经做了超过五年XR眼镜的产品专家，这次终于把自己也“骗过去”了。</p>\n  <p>63克比上一代VITURE Pro轻了20%，镜框最厚处都不到18毫米，宣称是目前全行业最薄。</p>\n  <p>架构是全新的，光机做了轻量化设计，框体和镜腿用上了航空级金属和塑料材质。姜公略说，如果去掉近视调节，重量可以压到60克以下，但他们毫不犹豫地保留了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_e09602d6e5224f78a295c27043fd9bd1@5510391_oswg601595oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>取舍背后被重视的另一个数字是，中国有6亿近视人口。<strong>Pro 2支持双眼独立0到500度屈光调节，</strong>转动拨盘就能对焦，不用另配近视插片。对国内用户来说，近视调节绝对是XR眼镜的入场券，跨不过这道门槛，产品参数和场景再好也和中国市场没关系。</p>\n  <p>重量降下来以后，新的利基市场也开始水到渠成。</p>\n  <p>目前，XR眼镜行业男性用户占了八成以上，其中一个关键原因是产品太重，女性戴起来觉得压鼻子。Pro 2的前期体验里，不少女性用户都在反馈同一句话：“这是第一款我能戴的眼镜。”</p>\n  <p>XR产品适配的人群正在肉眼可见地变宽。姜公略预期，女性用户里观影人群的比例会明显高于游戏玩家，好的观影体验也会让用户自发地花更多时间在XR眼镜上进行内容消费与交互。</p>\n  <p>再看价格，<strong>1999元是VITURE第一次把旗舰级体验压进千元价位，</strong>也是同价格档位的产品里唯一用了索尼Micro-OLED屏的，完全没有妥协。索尼屏在色彩还原度、亮度和寿命上有口皆碑，行业默认是高端线的配置，得益于VITURE每年翻倍式的高曲线增长所带来的供应链议价能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_f3c4d905e480434db0bcf7dc372059bb@5510391_oswg862554oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>其他性能方面，Pro 2能达到1600尼特峰值亮度，目前是行业巅峰亮度，大白天靠窗也能看清，UltraClarity 3.0全彩超锐利把清晰度推到了新高度。以往，XR眼镜基本都可以做到中心清晰，但边缘则会稍有模糊。但这次Pro 2把字幕和暗部细节都处理得干净利落，视线从中心移到边缘时画面不会抖动或拉伸。此外，Pro 2拥有SGS A+低视觉疲劳认证，用户连续佩戴3小时不会出现明显的疲劳，被誉为一副真的可以“戴的久”眼镜。</p>\n  <p>这看似是几个简单的关键数字，但如果你过去几年买过任何一副XR眼镜，你会知道它们在实际体验中有多重要。</p>\n  <p>类比苹果的产品线定位，姜公略给Pro 2找的参照物是MacBook Air。</p>\n  <p>几代之前，MacBook Air的定位是拓展人群的入门款，配置和性能不如老款MacBook Pro，但今天的Air已经比两三年前的Pro强得多。VITURE Pro 2的逻辑一模一样：在价格和轻量化上更亲民，但在硬件上绝不廉价，把强大的性能和无感的体验，同时塞进了一副架在脸上的设备。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_971ceebc92e64cd387b3fa00e6323ddd@5510391_oswg693012oswg1080oswg510_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>“一个东西可能很贵，但只要它给用户创造的价值更多，那就是好的；如果能用更低的价格买到，价值感的增益就会更大。”姜公略说，这就是MacBook Air和本次的新品VITURE Pro 2共同分有的产品哲学。</p>\n  <p>这可能也是科技圈很多人私下称“VITURE是最具苹果感的XR公司“的原因。</p>\n  <p>上市一周后，用户的早期反馈也很真实地反映了这一点。VITURE Pro 2在小红书上被提到最多的三个词，是轻薄、清晰、近视友好。</p>\n  <p>有用户描述它“和普通太阳镜差不多重，长时间佩戴鼻梁和耳朵没什么压迫感，躺床上看剧很舒服”；还有近视用户把它称为“懒人福音”，因为转动拨盘就能对焦，省去了另配镜片的麻烦。</p>\n  <p>地铁、高铁、酒店床头，成为了“百寸巨幕”出现频率最高的几个场景。</p>\n  <p>当然，用户也会提到他们期待下一代产品能达到的体验，在XR这个还处于行业早期的品类，用户愿意分享它、夸奖它，甚至提出自己的“Wish list”期待清单，往往才是一个新品类开始被认真对待、一个电子设备被当成了日常需求的标志。</p>\n  <h2><strong>VITURE五年，三次“反直觉”</strong></h2>\n  <p>姜公略毕业于哈佛，曾经在Google硅谷总部参与过Google Glass和Material Design。他后来复盘，Google Glass的先锋性毋庸置疑，但项目的问题在于技术形态先有了，再去找使用场景。用户的第一反应永远是同一句话：我不需要它。</p>\n  <p>在这个行业里，先有鸡还是先有蛋的问题，可能并不是一个纠缠不清的因果螺旋。</p>\n  <p>2021年，姜公略和原Google Glass团队成员在北京和旧金山创立了VITURE。公司的第一条产品信条听起来就像在给自己拆台：打造XR眼镜的第一性原理，是承认用户“并没有多戴一副眼镜的需求”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_825ec0dd4af841a78ee190b4c63074c3@5510391_oswg768816oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>那么，既然用户没有天然的理由选择你，你就必须找出那个让他们无法拒绝的场景。</p>\n  <p>也就是从学会了自我证伪的第一天开始，VITURE选择了一条与行业主流相反的路。五年的时间，当初在第一性原理指引之下做出的选择，也在三个关键时刻逼出了三次可能不会被理解的决策。</p>\n  <p>“也许并不划算，但必须坦诚。”回溯过往的时候，姜公略直言。</p>\n  <p>第一次，他们决定的事情是：做一台“电脑”，不做投屏器。</p>\n  <p>2022年4月，VITURE在Kickstarter上线了第一款产品VITURE One。因为当时公司只有10个人，几乎没有营销预算，所以也没有拍一个专业的功能演示视频，而是拍了一部电影小短片：三个宿舍学生，一个人背着电视，另外两个人戴着眼镜出去旅行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_50807d9e902d48adab60e50a39a1c66b@5510391_oswg1137607oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>从头到尾只讲了一件事：旅行的路上怎么打游戏。</p>\n  <p>这条视频被不少海外用户评为Kickstarter史上最棒的众筹视频之一，因为它没有拼命解释这副眼镜能做什么，它选择直接推给你一个能立刻代入的画面。结果是众筹拿下了超过300万美元的成绩单，打破Oculus保持多年的XR眼镜品类纪录。</p>\n  <p>但对于一个新生事物来说，比用户好奇心砸出来的现金更重要的是产品形态。</p>\n  <p>VITURE One推向市场的其实并不是一副眼镜，是三件套：眼镜、颈环、魔宝坞。</p>\n  <p>这家公司自研的颈环是第一个把计算单元和眼镜结合在一起的设备，内置了YouTube、Netflix，还能远程串流PS和Xbox；魔宝坞专为Switch而生，让VITURE成为了第一个支持Switch双人同屏游戏的XR品牌；电致变色技术也是从VITURE One开始进入这个行业的。</p>\n  <p>“第一个做创新的公司永远是最难的。”姜公略告诉36氪，可以说，今天行业里常见的颈环、外置计算单元、全设备适配，全都始于那场众筹。</p>\n  <p>站在今天回看，今天的节点，在刚出发时就已经埋下了答案。</p>\n  <p><strong>第二次“拒绝”共识，是选择了先打欧美，再回中国。</strong></p>\n  <p>大多数国产硬件品牌的习惯是先在国内打磨产品，再带着成熟的经验和模板出海，VITURE则是一家”生而全球化”的公司：成立第一天，就在硅谷和北京设了双总部，市场动作的第一站直接登陆Kickstarter，直面对消费电子新品类容忍度最高、价格敏感度相对较低的第一批欧美用户。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_9e6e3a6d1b0242669acc29ecc506002b@5510391_oswg797884oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>这个选择后来被证明是相当明智的，不但帮助VITURE避开了中国市场昂贵的教育成本，直接带着一个被市场验证过的产品参与“百镜大战”，早期也成功地以众筹的方式拿到了更有想象力的资金、市场曝光度、品牌粘性，再去找供应链做创新、谈价格、滚雪球，先发优势越来越明显。</p>\n  <p>但与此同时，它也留下了一个误读：进入中国太晚，国内不少人把VITURE当成了后来者。</p>\n  <p>实际上，2022年4月，VITURE的三款产品就已经相当完整。彼时，大语言模型尚未在普通人的工作生活中平地惊雷，而现在市面上90%的智能眼镜，技术逻辑与场景概念也都还不知从何谈起。</p>\n  <p>那一年的年底，VITURE One拿下了《时代》周刊年度最佳发明奖项，是该年唯一上榜的AR/VR消费级产品。</p>\n  <p>接下来的几年，VITURE Pro长期位列多个国家亚马逊智能眼镜的畅销榜。2024年11月，它成为第一个进驻Best Buy的XR品牌，在全美200家门店销售，再铺到澳大利亚的JB Hi-Fi、欧洲Media Markt、英国Selfridges百货，席卷了全球接近500家线下超市货架。</p>\n  <p>IDC数据显示，2024年Q4 VITURE在美国AR市场份额超过50%，2026年Q1成为欧美出货量第一的XR品牌。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_085ea4cbb6dc4bec868ea2d33a90fef5@5510391_oswg103373oswg1080oswg850_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>荣归中国市场这个“故里”，却是2024年才开始的。</p>\n  <p>但中国市场与全球市场之间并没有不可逾越的壁垒，欧美实打实的出货量很容易就能成为国内早期采用者群体心目中的天然信用背书。进驻顺电和香港丰泽不久，VITURE就做到了AR眼镜销量第一。今年618，VITURE最新旗舰款Beast首次��战电商大促，一举拿下了京东XR眼镜的单品SKU销冠。CINNO Research刚刚发布的2026年第二季度报告，给出了一个更硬的数据：在国内高端AR眼镜市场，VITURE的销量和销售额双双登顶第一。</p>\n  <p><strong>第三次反直觉的决策，是最先服务那群“最难讨好”的人。</strong></p>\n  <p>当下，XR行业已经分野出好几条路径。有些厂商不做显示，做带摄像头和AI的音频眼镜，走时尚轻量化路线；有些押注一体机，赌计算平台的终局。所有人都在求变、求稳，反倒是敢在一开始被看好的“显示屏之路”上一往无前的人，已经越来越少。</p>\n  <p>但总要有人立身于强风之中。VITURE和姜公略的打法就是以“不变”的第一性原理应万变，把显示做到极致，死磕游戏玩家。</p>\n  <p>在XR这个领域里，游戏玩家是所有用户里最难伺候的。清晰度差一点会骂，延迟高一点会骂，手柄手感不对也会骂，但一旦玩爽了，忠诚度和口碑传播的欲望也是所有用户里最强的。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_34b5419d1cc84d6c99aa39955899d86c@5510391_oswg768727oswg1080oswg655_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>姜公略自己就是个重度游戏玩家，平时戴着自家眼镜打CS，世界杯期间沉迷玩EA SPORTS FC。所以他瞄准的第一个场景特别具体，就是汲取游戏专用设备的灵感，踩着任天堂的石头过河。对于游戏玩家来说，Switch和Steam Deck掌机屏幕太小，PC显示屏和电视够大但不可能随身带走，用眼镜玩游戏刚好能塞进这个市场，填上这个缝隙。</p>\n  <p>五年下来，VITURE也不负众望地围绕游戏搭了一整套软硬件生态。</p>\n  <p>包括和八位堂联名的拉伸式手柄，成为行业第一支专为XR眼镜设计的游戏手柄；自研的SpaceWalker App把多屏联动等能力免费开放给所有用户，Immersive 3D系统能把任何普通视频实时转成3D空间内容。</p>\n  <p>2025年底，VITURE与《赛博朋克2077》推出了五周年联名限定款眼镜，全球限量一万台，上线即售罄。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_130e3c89814e4de5bf32fdc20e99df9e@5510391_oswg929166oswg1064oswg568_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>对于消费电子产业来说，比官方规划更有说服力的，永远是用户们自己迸发和生长出来的用法。</p>\n  <p>有人修车的时候用XR眼镜把维修资料和教程悬浮在眼前，边看边学；有的用户深夜哄孩子睡觉以后，客厅电视开不了，但用XR眼镜还能安静看完一部电影；还有无人机玩家把它连上第一视角，有开发者在Vibe Coding的时候用它同时盯好几个AI Agent的进度。</p>\n  <p>今年5月发布的VITURE Beast，把显示能力推动到了能撑起多屏办公的水平，支持飞书、PPT、编程等多个界面同时展开，也让XR眼镜这个品类第一次从娱乐设备跨进了生产力终端的赛道。Beast能被研发出来，并迅速发售，根本原因还是在于XR眼镜兼具移动端的便携性和PC的大屏，从而衍生出了大量的生产力需求场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_6dfa59d4abbd4ba2bc401a8f91c788d8@5510391_oswg733257oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>在用户自己发现“竟然还能这样用？”之前，没有一家XR眼镜厂商敢说能在短期内做好XR办公的市场教育。</p>\n  <h2><strong>2027年，起飞，入云</strong></h2>\n  <p>姜公略对XR行业的窗口期判断，比大多数同行要理性一些。</p>\n  <p>他说，如果说2025年算是XR眼镜一个朦胧的起点，2026年会是一个确定性的起点，2027年是行业真正起飞的时候，发动机开满全力加速，2028年真正腾飞，飞机彻底离开地表。</p>\n  <p>为什么XR在大众和资本心目中，站在了一个比较微妙的节点上？</p>\n  <p>姜公略判断，是因为现在行业正处在第三阶段的前夜，“大家都在描绘一个仿佛鲸鱼跃身击浪的未来。用户觉得它很酷，但下一句就会说‘我不需要它’。”</p>\n  <p>破局之道也很简单，就是乘风而起、伺机而动、做对形态、找对场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_5101d847d3a44ff5a79b90d7d17f179e@5510391_oswg1958595oswg990oswg1238_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>至于消费电子领域一贯而言之的“iPhone时刻”，姜公略认为，很多概念都是事后追认的，在iPhone发布之前，没有人知道它长什么样，而XR的魅力和机会也正是终局形态的未知。</p>\n  <p>“我们希望不断突破行业创新的边界，回头再去看的时候，可能才会发现某个产品、某个应用，已经成为了我们所谓的iPhone时刻。”</p>\n  <p>起飞的条件现实而苛刻，但也比外界想象得快。上游三个变量同步成熟，缩短了像VITURE这样的终端厂商的弯路：</p>\n  <p>首先，最重要的仍然是芯片端。去年开始，有越来越多带空间计算能力的芯片进入眼镜品类，Beast已经搭载了原生3DoF计算能力，未来制程更高、功耗更低、算力更强。一个充分的例证是TWS耳机，以前的耳机是无源有线设备，现在已经有不错的计算能力了，在姜公略看来，眼镜会走完全一样的路。</p>\n  <p>第二个是VITURE“死磕”的显示端。Micro OLED正在进入新分辨率时代，过去几年行业标配是1080P，未来两三年会迎来换代。目前，Micro LED在480P基础上持续缩小体积，缩小到能融入普通眼镜的尺寸，下游终端就会爆发一波新的红利期。</p>\n  <p>上面提到的定价1999元的VITURE Pro 2，能在千元档的设备上用索尼Micro-OLED，本身也是这条供应链上降价曲线的产物。</p>\n  <p>第三个是传输端，无线短距传输芯片也是姜公略紧盯的行业方向。一个不可逆的大趋势是，眼镜终将走向无线化，而且这件事已经是“箭在弦上”了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_df33b63205f844459ca1159f7fd4f747@5510391_oswg718595oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>回到一开头XR眼镜为什么“用户黏性低”“买来吃灰”这个问题上，与其得出用户对新品类缺乏耐心的结论，不如先厘清产品形态和行业周期，承认有一部分细分品类就是还没到达足以留住用户的阶段，至少还没做到在某些特定的功能场景上成为比手机更好的解决方案。</p>\n  <p>在姜公略看来，沉浸式的数字体验、全天候佩戴，这两种需求场景指向的是两种完全不同的产品，虽然看起来都是智能眼镜，但产品的本质泾渭分明。</p>\n  <p>VITURE一直主攻的是前者，因为这里的供应链跑得更快、也更容易找到具有稀缺性价值的场景，全天候产品则需要继续等待上游的成熟、用户认知的合适时间点。姜公略认为，那会是未来十年到二十年里最令人兴奋的赛道之一，但不一定是现在该讲的故事。</p>\n  <p>既然没想着让用户每天像拿手机一样如影随形，那么沿着Beast的生产力工具思路发力纵深场景，就变成了一个新的增长点。因此在消费端之外，VITURE的同一套光学和显示能力也在往更专业的场景渗透。</p>\n  <p>今年AWE(世界增强现实博览会)上，VITURE和英伟达、斯坦福Cong Lab联合发布了全球首款支持英伟达XR AI平台的工业级AI眼镜&nbsp;Helix，正式进入了基因编辑、药品研发这些几乎不容出错的高门槛场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_2ef1a13021394cd6a5a0ff46e7b4c65c@5510391_oswg273635oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>五周年期间，VITURE还宣布了另一个面向中国市场的动作：和滴滴出行达成了战略合作，致力于把XR体验带进城市出行的高频场景。这周，合作率先在上海陆家嘴中心商场落了地。一辆写着“滴滴一下，视界大开”的极氪009停在商场门口，车里没有常规的车载屏，坐进去会看到一副VITURE Pro 2眼镜，戴上后146英寸的虚拟巨幕立刻在眼前展开，车厢随之变成了一个随行的私人影院、游戏间或移动办公室。</p>\n  <p>8月14日至16日，一百位滴滴V7、V8会员受邀进入VITURE XR体验间，会在45分钟之内体验这套玩法，让普通视频一键升维成3D巨幕，连上Switch 2或PS5直接在车里打主机游戏，或是借SpaceWalker展开多块虚拟办公屏。</p>\n  <p>这些新探索的背后是同一条主脉络：先让产品能在真实的生活和工作里被用起来，让用户主动发现需求，再让场景自己向外生长。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260815/v2_976c28684cd3458a8d4e607f890396b2@5510391_oswg1192995oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>说到向外生长，姜公略最近印象最深刻的一个画面，发生在一趟从旧金山飞往纽约的航班上。</p>\n  <p>飞机起飞前，他照例掏出自己的眼镜和颈环开始办公，旁边的乘客看了一眼，笑了笑，也从包里掏出了一副VITURE Beast眼镜。整整六个多小时的飞行时间，两个人从头戴到尾，心照不宣。</p>\n  <p>没人说话，但双方也都知道身边的人正在把本来无聊需要打发的飞行时间，变成一段高质量的沉浸式体验。只不过那位乘客大概率不会知道，坐在他旁边的普通用户就是VITURE的创始人。</p>\n  <p>“五年，对新生儿来说，在逐渐看见这个世界；对VITUR来说，在逐渐被这个世界看见。”</p>\n  <p>这是姜公略五周年时写给团队的话。</p>\n  <p>在承认用户“并没有多戴一副眼镜需求”的五年之后，他在香港丰泽电器门口看到了自己亲手做出来的产品，在科隆Gamescom上被游戏玩家从一件T恤logo认出来，又在旧金山的航班上和一个陌生人坐在一起，沉浸在各自的数字世界里同乘了六个小时。</p>\n  <p>在经历了这些并不宏大、但真诚而温暖的时刻以后，他得出的行业判断是：2027年，XR这架飞机会起飞。</p>\n  <p>飞机上装载的是普通人的未来，也是一家创业公司、一个品类、一个现在还在被质问“是否变得奇怪”的消费电子叙事，从被忽视、被反驳、到被认出、被需要的梦想与过程。</p>\n  <p><strong>“历史上每一场技术变革，都始于一群敢于相信和拥抱未来的人。”</strong>姜公略在五周年给团队的信里这样写道。&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-15T10:00:00+00:00",
-      "fetched_at": "2026-08-16T01:01:02.904000+00:00",
-      "fingerprint": "f407c4efe61b5c38"
-    },
-    {
-      "source": "少数派",
-      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
-      "url": "https://sspai.com/post/111974",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/111974\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-15T07:07:54+00:00",
-      "fetched_at": "2026-08-16T01:00:59.935809+00:00",
-      "fingerprint": "0ebfd6a95cf03d1a"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "American missionary kidnapped in Niger freed after nine months",
-      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "summary": "<p>Kevin Rideout, who was abducted by unknown assailants in Niamey, said to be in good health and in care of US officials</p><p>An American missionary who was kidnapped in Niger in October has been released, his organisation has said.</p><p>Serving in Mission International said<strong> </strong>Kevin Rideout “is in good health in the care of US officials” and would soon be reunited with his extended family.</p> <a href=\"https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-14T14:55:17+00:00",
-      "fetched_at": "2026-08-15T00:57:51.508033+00:00",
-      "fingerprint": "5dcea06aa0c05192"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-      "category": "politics",
-      "published_at": "2026-08-14T12:19:21+00:00",
-      "fetched_at": "2026-08-15T00:57:51.215974+00:00",
-      "fingerprint": "38d0776f11cbeee4"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "category": "politics",
-      "published_at": "2026-08-14T17:36:27+00:00",
-      "fetched_at": "2026-08-15T00:57:51.215969+00:00",
-      "fingerprint": "310b0eeed5f181d9"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-      "category": "politics",
-      "published_at": "2026-08-14T18:25:38+00:00",
-      "fetched_at": "2026-08-15T00:57:51.215963+00:00",
-      "fingerprint": "abca379e418b1f19"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-      "category": "politics",
-      "published_at": "2026-08-14T19:20:43+00:00",
-      "fetched_at": "2026-08-15T00:57:51.215952+00:00",
-      "fingerprint": "a6edac028b14724f"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「我一個月便虧了一萬四」——遭遇韓國股市暴跌的散戶們",
-      "url": "https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "韓國股市近日猛烈調整，好些散戶遭受重創，遍體鱗傷。",
-      "category": "politics",
-      "published_at": "2026-08-14T14:59:41+00:00",
-      "fetched_at": "2026-08-15T00:57:51.105538+00:00",
-      "fingerprint": "3de037707602575c"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
-      "url": "https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "據報美國海軍亞伯拉罕·林肯號航空母艦（USS Abraham Lincoln）上數以千計水兵面臨食物短缺和排污管道損壞，部分人甚至試圖跳海。",
-      "category": "politics",
-      "published_at": "2026-08-14T06:31:11+00:00",
-      "fetched_at": "2026-08-15T00:57:51.105517+00:00",
-      "fingerprint": "3718529401df2869"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
-      "url": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "台灣前總統陳水扁的女兒陳幸妤，近日因離婚一事曝光，時隔多年再次成為了台灣輿論焦點，也引起社會反思20年前媒體追訪她的倫理問題。",
-      "category": "politics",
-      "published_at": "2026-08-14T11:03:43+00:00",
-      "fetched_at": "2026-08-15T00:57:51.105506+00:00",
-      "fingerprint": "d792c19fc48f9aef"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-15T00:57:50.757983+00:00",
-      "fingerprint": "86c77befbf32bd34"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The case for overhauling American science",
-      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-15T00:57:50.757856+00:00",
-      "fingerprint": "7ed986f458d823a7"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "RISC-V: They should have known better",
-      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-15T00:57:50.757712+00:00",
-      "fingerprint": "b02a0f579620f94e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-15T00:57:50.757571+00:00",
-      "fingerprint": "aedd30b73b5e4957"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-15T00:57:50.757418+00:00",
-      "fingerprint": "034c2462b05d2238"
-    },
-    {
-      "source": "The Verge",
-      "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
-      "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
-      "summary": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Century Fox felt [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-14T18:00:00+00:00",
-      "fetched_at": "2026-08-15T00:57:50.562436+00:00",
-      "fingerprint": "54d5f68067325037"
-    },
-    {
-      "source": "The Verge",
-      "title": "Lamborghini’s flagship Revuelto levels up with SV trim",
-      "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
-      "summary": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker's tagline for the new Revuelto SV: [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-14T18:00:00+00:00",
-      "fetched_at": "2026-08-15T00:57:50.562430+00:00",
-      "fingerprint": "32ac4b05ec31c23b"
-    },
-    {
-      "source": "The Verge",
-      "title": "A RAMageddon guide to back-to-school laptop shopping",
-      "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-      "summary": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-14T18:32:47+00:00",
-      "fetched_at": "2026-08-15T00:57:50.562424+00:00",
-      "fingerprint": "d9e355ea0c339df8"
-    },
-    {
-      "source": "The Verge",
-      "title": "Samsung has new Galaxy headphones in the works",
-      "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
-      "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make these the company's first pair of over-ear headphones [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-14T19:18:45+00:00",
-      "fetched_at": "2026-08-15T00:57:50.562412+00:00",
-      "fingerprint": "cca1a97690bf9684"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "泡泡玛特的「日本老师」，在中国赚翻了",
-      "url": "https://36kr.com/p/3939155401948549?f=rss",
-      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子</p>\n  <p><strong>编辑</strong> <strong>|</strong> 张帆</p>\n  <p>8月12日，Hello Kitty的母公司三丽鸥在东京股市经历了一场“血洗”。</p>\n  <p>财报公布当日，三丽鸥股价盘中跌幅达18%，创下了近十年来的最大单日跌幅。日兴证券的分析师给出的评价很直接，“本次财报表现平淡，无超预期亮点。”</p>\n  <p><strong>这多少有点反直觉。</strong>从财报看，截至今年6月的2027财年一季度，三丽鸥的表现并不差：营收520.35亿日元，同比增长20.7%。净利润方面，公司实现155.16亿日元，同比增长9.3%。</p>\n  <p>问题出在营业利润不符合预期。</p>\n  <p>一季度，三丽鸥的营业利润为224.4亿日元，同比增长11.1%；此前市场预期的营业利润是234亿日元，相比少了近10亿日元。<strong>更关键的是，过去几个季度，三丽鸥几乎在每次财报披露后都会“上调指引”，这次却“维持不变”。</strong></p>\n  <p><strong>这等于向市场释放了一个信号，三丽鸥的增长放缓或已出现。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_5c2da2bfdbc14433ad7f33ba56190707@394564713_oswg43505oswg1022oswg570_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪根据Wind截图</p>\n  <h3><strong>一只白猫和阿里鱼</strong></h3>\n  <p>1974年，Hello Kitty诞生。这个没有嘴巴、没有固定表情、永远五头身的卡通形象，在随后的五十年里成为全球最赚钱的IP之一。它的母公司三丽鸥，也从一家礼品店逐渐发展为IP巨头。</p>\n  <p>但随后的故事并非坦途。2015财年起，三丽鸥陷入长达七年的业绩低谷，营收与利润双降，过度依赖Hello Kitty的弊端显现。</p>\n  <p>转折发生在2020年。在这一年，创始人辻信太郎的孙子辻朋邦接任社长，以“利润优先”为原则推动改革。<strong>主要措施包括——关闭亏损门店，削减大量赘余SKU，将战略重心从单一IP转向多角色运营，从自营零售转向高毛利授权，从日本本土向海外市场突围。</strong></p>\n  <p>在这一过程中，中国成为三丽鸥全球复兴的最大变量。催生这一变量的，是阿里鱼在授权运营上的系统性重构。</p>\n  <p>2022年7月，阿里旗下IP交易及创新平台阿里鱼与三丽鸥签约，获得包括Hello Kitty、美乐蒂、酷洛米在内的26个形象在中国大陆、为期五年的独家代理权，合作自2023年1月1日起生效。</p>\n  <p><strong>对阿里鱼而言，三丽鸥是业绩爆发的重要引擎。</strong></p>\n  <p>大麦娱乐（原阿里影业）财报显示，在截至2026年3月31日的财年，以阿里鱼为核心的IP衍生业务收入达到21.7亿元，同比增长60%，是公司第二大收入来源。阿里鱼在《2025全球顶级授权代理商报告》中，以41亿美元总销售额位列全球第六。</p>\n  <p><strong>同时对于三丽鸥，阿里鱼解决了其在中国市场的“渠道”与“本土化运营”两大痛点。</strong></p>\n  <p>从官方披露的数据来看，仅2024年，就有超过200家品牌与三丽鸥达成授权合作，累计3万余个SKU投入市场。</p>\n  <p>线下渠道的扩张同样激进。截至2025年12月底，三丽鸥在中国累计开出59家门店，比上一财年多了31家。这意味着，三丽鸥在中国市场不再是收过路费的IP授权，而是亲自下场卖货。</p>\n  <p>财报数据能更直观地反映三丽鸥改革的成效。</p>\n  <p>在截至今年3月的2026财年，三丽鸥营收1940亿日元，同比增长33.9%；营业利润达到793亿日元，同比增长48.4%。</p>\n  <p>其中，中国市场的销售额飙升至314.4亿日元，同比激增83.2%。酷洛米超越Hello Kitty成为中国区“销冠”，大耳狗、美乐蒂、半鱼人等角色均跻身成交榜前十。</p>\n  <p>从集团的角度看，Hello Kitty在这一财年的营收占比，已从2016年的60.6%下降到37.3%。这说明，三丽鸥已摆脱了对单一IP的依赖困境。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_e0aaf999c1b44595ac13cde3a571cbb7@394564713_oswg230345oswg834oswg645_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片截自三丽鸥《决算说明资料》</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_f3c98162c89443bbb3a1f350ad64a2cc@394564713_oswg109103oswg1080oswg609_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪根据Wind及财报制图</p>\n  <h3><strong>与泡泡玛特成为“对照组”</strong></h3>\n  <p>但三丽鸥依然在财报中披露了风险。</p>\n  <p>“作为公司增长战略的核心，公司计划重点在中国与北美两大市场扩张业务，无法保证该战略能够取得成功。”在北美，公司仍在消化税收影响，销售虽有复苏迹象但难言爆发；在中国，当市场基数达到一定量级，83.2%的高增速不可持续。</p>\n  <p>实际上，在三丽鸥蓬勃发展的这些年，后起之秀泡泡玛也在疯狂成长，尤其是自2024年起，LABUBU成为现象级IP。</p>\n  <p>而这两家公司也常被放在一起被对比。</p>\n  <p>从商业模式来看，三丽鸥与泡泡玛特都采用无叙事的形象IP。</p>\n  <p>Hello Kitty没有嘴巴，LABUBU也从不开口说话。用户可以将自己的情绪自由投射到角色本身。这种故事情节的“留白”，让IP拥有了跨越代际的生命力。</p>\n  <p><strong>曾有分析人士在东方财富网发文，将泡泡玛特概括为“三丽鸥的IP逻辑+Funko的潮玩机制+名创优品的零售效率”。从这个视角，三丽鸥算得上是泡泡玛特的“日本老师”。</strong></p>\n  <p>只不过，缺乏故事支撑的短板同样明显——IP与用户的情感联结深度有限，没有剧情的持续输出，用户的注意力易被分散。</p>\n  <p>现阶段，两家公司也都在试图通过游戏、大电影补全内容叙事能力；同时布局线下乐园，增加与用户的互动与情感联结。</p>\n  <p>当然，这样的后天努力相当不易。</p>\n  <p>双方商业模式的不同则在于，泡泡玛特是“重资产直营”。截至2025年末，泡泡玛特全球门店数达到630家，靠自有零售网络掌握定价权。另一边的三丽鸥，尽管也在中国大力扩张直营门店，却仍是“轻资产授权”的逻辑。</p>\n  <p><strong>也正因业务切入点的不同，三丽鸥与泡泡玛特从不是纯粹的竞争关系，而是重要的合作伙伴。</strong></p>\n  <p>今年3月，泡泡玛特正式发售“THE MONSTERS×三丽鸥家族系列”搪胶毛绒挂件盲盒。发售仅一分钟，泡泡玛特官方渠道即售罄，线上瞬间售出超过3万件。</p>\n  <p>三丽鸥的经典IP让LABUBU触达到更广泛的消费群体，泡泡玛特的潮玩机制也为三丽鸥注入了新的活力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_622391fac3094a5d9e6d50174a218057@394564713_oswg116802oswg1080oswg1439_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">THE MONSTERS×三丽鸥家族系列</p>\n  <p><strong>一个明确的事实是，在资本市场，两家公司都在或主动或被动的挤出泡沫。过去依赖规模与高增长的估值逻辑正被重塑，市场更看重聚焦于IP运营的精耕细作与实际转化效率。</strong></p>\n  <p>当三丽鸥连续数年的增长神话遇到增速放缓的拐点，8月12日的股价跌幅或许只是一个开始。在用“可爱”这门生意穿越周期后，三丽鸥需要继续向市场证明，自己不只会卖毛绒玩具和“授权贴纸”，而是一个能横跨内容、商品、体验和数字娱乐的综合IP集团。</p>\n  <p>某种程度上，泡泡玛特也不外如是。</p>\n  <p>*免责声明：&nbsp;</p>\n  <p>本文内容仅代表作者看法。&nbsp;</p>\n  <p>市场有风险，投资需谨慎。在任何情况下，本文中的信息或所表述的意见均不构成对任何人的投资建议。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。我们无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_9d7764e85217408e819083b0b87d3b95@394564713_oswg63834oswg901oswg571_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">关注获取更多资讯</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/2IFoas42_Oo8MFmx-c6OlA\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪财经”</a>，作者：谢芸子&nbsp;张帆，36氪经授权发布。</p>",
-      "category": "tech",
-      "published_at": "2026-08-14T09:26:14+00:00",
-      "fetched_at": "2026-08-15T00:57:50.387543+00:00",
-      "fingerprint": "b44a127cf83586cf"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "阿里灵犀再传15亿美元出售，或许这就是中国游戏行业的现实",
-      "url": "https://36kr.com/p/3939187139935369?f=rss",
-      "summary": "<p>灵犀互娱这次真的要易主了？</p>\n  <p>据彭博社报道称，亚洲私股权公司信宸资本接近达成收购阿里巴巴集团控股有限公司视频游戏业务的交易。知情人士表示，信宸资本成为了灵犀互娱最有可能的买家，其出价高于包括电子游戏制造商在内的其他竞购方。据他们透露，此次交易对这家工作室的估值可能超过15亿美元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_9c61223f7ca14d3bbd76977cd38f3454@6427981_oswg502528oswg1080oswg808_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">来源：彭博社</p>\n  <p>截至发稿，灵犀互娱以及信宸资本未作回应。</p>\n  <p>前不久的6月23日，就有多家媒体报道，阿里巴巴集团正计划出售旗下游戏业务品牌灵犀互娱，整体报价70亿至90亿元人民币（约合10.38亿~13.35亿美元），低于本次曝出的出售价格。</p>\n  <p>从市场估值和收入情况来看，灵犀互娱并非处于爆发式增长阶段，而是一个现金流稳定、增长曲线已长期平稳的成熟业务。至于为何频繁被曝业务出售，可能要从灵犀互娱的产品和发展路线说起。</p>\n  <h3>01</h3>\n  <p>灵犀最重要的现金牛产品，是《三国志·战略版》。</p>\n  <p>《三国志·战略版》上线于2019年，截至目前全球注册用户突破1亿。在Sensor&nbsp;Tower等榜单上，常年盘踞中国手游收入榜前列，是国内SLG赛道里商业化能力最稳定的产品之一。</p>\n  <p>按各大第三方平台数据，2025年这款产品月流水大致维持在1.8亿至2.5亿元区间。考虑到SLG品类本身“赛季卡包+新武将”主导收入的特性，这种量级的流水对一款上线已7年的产品而言，已属长线运营的典范。</p>\n  <p>当然，灵犀的价值和愿景不止于一个爆款。</p>\n  <p>灵犀互娱目前下辖5个研发工作室（平平无奇、南瓜、星辰、鸢、创新）和2个运营业务线（九游、交易猫）。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_e218299304f04f5e90feb6e86d5ee46a@6427981_oswg152002oswg608oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《如鸢》</p>\n  <p>其中，《三国志幻想大陆》《三国志幻想大陆2：枭之歌》是三国IP在卡牌与二创方向的延伸；《如鸢》是它在女性向三国题材上的一次成功尝试；其他诸如《救世者之树：新世界》《信长之野望：真战》等产品，也是灵犀在自研或发行方向探索的成果。</p>\n  <p>从自研和运营的产品矩阵来看，灵犀互娱试图在SLG之外建立第二条增长曲线。当然，截至目前，这些产品的体量与《三国志·战略版》还不在一个量级。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_6123869e7b734e4c8a1aea250cca9f9d@6427981_oswg125640oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《三国志幻想大陆2：枭之歌》</p>\n  <p>产品之外，灵犀的内部组织也发生过变化。</p>\n  <p>2025年8月，灵犀互娱在阿里内部的汇报线从大文娱事业群董事长樊路远调整至阿里巴巴集团CFO徐宏。在大公司里，汇报线的变动通常不是简单的组织行为。</p>\n  <p>樊路远在2024年12月的一场内部演讲曾引发争议，外界很多人也因此认为自研游戏业务难以融入阿里体系。从源头来讲，这番争议与阿里游戏的起点有关。</p>\n  <p>灵犀互娱的起源，是2017年阿里以约10亿元收购的广州简悦（由网易前COO詹钟晖创办），在并入阿里大文娱后，品牌升级为灵犀互娱。灵犀互娱从诞生之日起，就是一家带有网易系基因的游戏公司，而被阿里收编后，文化上或许始终没有完全融入阿里体系。樊路远演讲里的那句“没有阿里的血脉”，表达的也是这种长期存在的认同断层。</p>\n  <p>而徐宏接管的背景，是阿里正在推进的1+6+N业务改革。从银泰、高鑫零售，再到盒马等非核心资产的调整，所有方向看上去都指向同一件事，那就是阿里正在把重心押到AI和云计算等领域上。</p>\n  <p>换句话说，是“把游戏做成行业头部”重要，还是“这块业务能卖多少钱”更重要？这个问题的答案，或许在频繁的收购传闻中能窥探一二。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_647a2b598b5f49359383469be62bc33d@6427981_oswg1343831oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《三国志战略版》</p>\n  <p>2026年6月，灵犀互娱被传出被卖的消息。从扩张游戏版图收购灵犀，到从资本和战略层面做出回答，这中间的距离恰好是十年。</p>\n  <h3>02</h3>\n  <p>阿里收购灵犀互娱的十年，某种程度上是中国互联网公司生态扩张逻辑从兴起到退潮的一个注脚。</p>\n  <p>2014年前后，BAT同时进入边界延伸阶段：腾讯从社交向游戏延伸，百度从搜索走向内容，阿里围绕电商构建覆盖消费、娱乐、金融、服务的超级生态，影视、音乐、体育、文学、游戏，几乎所有能占据用户时间的领域都被纳入版图。</p>\n  <p>阿里做游戏的逻辑并不复杂：用户既然已经在淘宝购物、在支付宝支付，理论上也可以在阿里的生态里娱乐、消费和社交。从代理、发行到自研，从收购到投资，几乎所有路径都试过。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_969813b2a21044a3bc400ce8c1dbbf42@6427981_oswg28944oswg480oswg187_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">灵犀互娱所在的广州阿里办公区</p>\n  <p>但游戏行业后来证明，它不是一个仅依靠流量导入就能跑通的生意。</p>\n  <p>腾讯和网易占据行业头部位置，并不是因为拥有更多用户，而是因为建立起了成熟的研发体系、发行体系以及爆款生产机制。游戏本质上更接近内容工业，需要创意、研发、运营、社区和长期投入，这些能力很难通过资本或者流量快速复制。</p>\n  <p>从更长的时间尺度看，灵犀互娱的故事可以分成两段。</p>\n  <p>前一段是2017年至2019年。阿里以约10亿元收购广州简悦，团队带着网易系基因进入阿里体系。三年后，《三国志·战略版》上线。这款由灵犀互娱早期团队主导开发的三国题材SLG，打破了当时国内SLG市场的既有格局，长期稳居国内iOS畅销榜前10。从产品角度看，这是阿里游戏史上最具标志性的爆款。从组织角度看，这也是简悦系团队在阿里体系内交出的最重要的成绩单。</p>\n  <p>后一段是2019年至今。《三国志·战略版》的成功没有带来第二款同等级别的现象级产品。整个灵犀互娱的收入结构、利润结构，主要围绕这一款产品运转。当一家公司的估值越来越依赖单一产品时，它的估值逻辑就会逐渐从成长型公司向现金流资产靠拢。</p>\n  <p>而现金流资产，恰恰是最容易被摆上货架的那一类。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_adf7a13271c046ae826935c93a2a90fa@6427981_oswg157510oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《决胜巅峰》j</p>\n  <p>灵犀互娱再次易主，并非行业孤例。</p>\n  <p>以沐瞳科技为例，这家MOBA手游《Mobile&nbsp;Legends:&nbsp;Bang&nbsp;Bang》（国服：《决胜巅峰》）的开发商，2021年被字节跳动收购，2026年又被转手卖给沙特Savvy&nbsp;Games&nbsp;Group，两次交易估值从40亿美元涨至70亿美元。</p>\n  <p>五年时间，沐瞳的代表作MLBB始终是东南亚地区最头部的MOBA游戏，甚至成为了很多国家的国民级游戏，但依然阻挡不了公司两度易主。</p>\n  <p>对阿里来说，15亿美元或许是一个相对合理的估值区间。对灵犀的员工来说，这是又一次“公司是别人的、但项目还是自己的”的中国游戏行业现实。</p>\n  <p class=\"editor-note\">本文首发自<a href=\"https://mp.weixin.qq.com/s/HR1zVXj12SpKt-BkX9II-g\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪游戏”</a>。</p>",
-      "category": "tech",
-      "published_at": "2026-08-14T09:54:02+00:00",
-      "fetched_at": "2026-08-15T00:57:50.387537+00:00",
-      "fingerprint": "62b59aa4a239435d"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "独家 | 腾讯混元徐灿转岗微信WeLM，微信AI进入加速阶段",
-      "url": "https://36kr.com/p/3939234424700041?f=rss",
-      "summary": "<p>&nbsp;</p>\n  <p>文 | 李炤锋</p>\n  <p>编辑 | 张雨忻</p>\n  <p>智能涌现从相关人士处获悉，混元资深研究员徐灿在近期加入腾讯WeLM团队，从事大模型研发相关工作。</p>\n  <p>多名知情人士透露，在姚顺雨接手腾讯大语言模型研发前，徐灿在混元LLM体系中担任后训练一个方向上的负责人。值得一提的是，<strong>这次转岗发生在微信持续强化自研大模型和Agent能力的阶段</strong>。6月，微信原生AI助手“小微”已进入小范围灰度测试，可通过文字或语音操作微信原生功能，并调用小程序完成服务任务。</p>\n  <p><strong>公开招聘信息也显示，微信近期在招聘WeLM推理优化及Agent方向研究人员，徐灿的加入或将进一步补充WeLM在训练、推理及复杂任务执行方面的研发力量。</strong></p>\n  <p>这位有微软亚洲研究院背景的资深研究员，长期从事合成数据、指令数据构造及大模型后训练研究。尤其在强化学习反馈、自动评测和训练数据迭代方面的积累，与WeLM当前强化模型训练及复杂任务能力的方向具有较高契合度。</p>\n  <p>知情人士称，徐灿近两年在混元参与后训练工作的经验，可能正是WeLM看重的部分。</p>\n  <h3><strong>01 混元LLM重要成员，专注Agent和后训练方向</strong></h3>\n  <p>混元发生的这一岗位变动，与团队过去一年间的技术路线调整和人员更迭关系紧密。</p>\n  <p>徐灿在大模型行业的知名度，可以追溯到他在微软时期创建的WizardLM项目。<strong>2023年4月，他以第一作者身份发布WizardLM论文，提出Evol-Instruct方法：让大模型自动增加已有任务的难度、限制条件和推理步骤，再利用生成的复杂指令训练模型。</strong>这套方法随后被用于WizardCoder、WizardMath等项目，并逐步扩展至代码、数学、模型评估和强化学习等方向。</p>\n  <p>2025年5月，徐灿宣布离开微软，加入腾讯混元，据悉他当时已入职半年。在他之前，Swin Transformer主要作者胡瀚（近期已从腾讯离职）也于2025年初从微软亚洲研究院加入混元。此后，以胡瀚、徐灿等微软背景研究人员为代表的团队，开始使用“混元X”署名，研究覆盖多模态理解、视觉推理和大语言模型，是当时混元内部重要的技术力量。</p>\n  <p>智能涌现了解到，在这一时期，徐灿在大语言模型后训练方向承担了重要职责。</p>\n  <p><strong>2025 年下半年，随着姚顺雨加入腾讯并接手相关业务，混元团队原有的技术与组织格局开始迅速变化，徐灿的职责也发生调整。</strong></p>\n  <p>同年12月，腾讯正式官宣重组大模型研发架构，姚顺雨兼任AI Infra部和大语言模型部负责人，并以部门负责人身份向卢山和刘炽平汇报；王迪则继续担任大语言模型部副总经理，向姚顺雨汇报，徐灿也在这时转向后训练方向。</p>\n  <p>智能涌现了解到，姚顺雨入职后，混元继续从各大基模厂商团队引入研究人员。<strong>仅在后训练领域，就有至少两名某大厂核心成员进入混元，与徐灿所在团队并行推进不同技术方向。</strong></p>\n  <p>2025年下半年，一些公开报道曾将徐灿描述为混元后训练的主要负责人。但实际上，混元后训练业务在当时已经被拆分成多个小组，徐灿负责其中一个方向。据智能涌现了解，后训练团队的几个小组之间，曾围绕数据组织、系统提示词和产品工程路径等方向展开探索。</p>\n  <p>在混元几经调整后，近期徐灿的公开社交媒体显示其身份为腾讯混元Principal Researcher，即资深研究员，他今年仍时常以作者身份出现在混元相关论文中。</p>\n  <p><strong>据了解，WeLM长期保留独立的语言模型和强化学习研发能力，也需要合成数据、奖励模型和后训练经验。徐灿过去数年积累的技术经验，恰好可以在这支团队中找到新的承接空间。</strong></p>\n  <p>&nbsp;</p>\n  <h3><strong>02 混元之外，WeLM在大模型上独立探索</strong></h3>\n  <p><strong>这一次人才流动，正好卡在腾讯内部两套大模型研发体系并行运转的时间点。</strong></p>\n  <p>姚顺雨接手混元后，腾讯开始进一步整合分散在内部各团队的AI研发资源。2025年12月，TEG（腾讯技术工程事业群）新设AI Infra（人工智能基础设施）部、AI Data（人工智能数据）部和数据计算平台部，姚顺雨同时负责AI Infra部和大语言模型部。</p>\n  <p>数月后，成立近十年的腾讯AI Lab被撤销，部分研究人员并入大语言模型部，另有部分人员转入产学研合作中心。这一轮调整把模型研发、数据、训练基础设施和原有基础研究力量，进一步收拢到姚顺雨主导的混元体系内。</p>\n  <p>然而，在腾讯基础模型研发组织中，WXG（微信事业群）仍保留着相对独立的研发团队。</p>\n  <p><strong>2022年，微信团队发布中文预训练语言模型WeLM。论文披露，WeLM拥有100亿参数，在18项中文任务上超过多个同等规模模型，部分表现可匹配参数量大25倍的模型，并一度开放模型试用申请。</strong></p>\n  <p>2025年8月，微信团队又公开WeChat-YATT，这是一套面向大语言模型和多模态模型的RLHF训练框架。该框架主要解决控制器扩展、动态采样和GPU资源调度等问题，论文称其已用于训练支撑微信产品功能的模型，并面向大规模用户服务。</p>\n  <p>与此同时，一些大模型技术已经进入视频号、朋友圈的推荐和广告系统，但值得关注的是，这其中采用的模型并不都来自WeLM体系。例如，部署在视频号和朋友圈广告召回环节的LEADRE，底层使用的就是10亿参数混元模型。</p>\n  <p><strong>时间来到2026年，腾讯方面披露的技术文档显示，新一代WeLM转向高度稀疏的MoE架构。其中一个基础版本总参数约800亿，每次推理激活约30亿参数；团队随后通过深度扩展形成约1300亿参数、激活约49亿参数的变体。</strong></p>\n  <p>2026年7月9日，微信AI团队又公开Hidden Decoding研究，披露WeLM-HD4-80B和WeLM-HD4-617B两个模型。该方法在不扩大原有Transformer骨干的情况下，为每个Token增加内部计算，并首次将这类长度维度扩展方法应用到100B参数以上的MoE模型。</p>\n  <p>小微内测后，WeLM也开始被外界关注，很多解读认为，WeLM是一款专为微信训练的“低成本小模型”。</p>\n  <p>但据行业人士分析，WeLM团队着眼于驱动AI对微信进行彻底的改造，包括但不限于聊天、社交、小程序服务等场景。</p>\n  <p>这意味着，WeLM团队既要研发低激活参数模型，以提升产品部署效率；也要探索6000亿参数级别的大模型，持续突破能力上限。</p>\n  <p><strong>在这样的背景下，WeLM与混元之间在资源层面既是协作方，也是竞争者，两个团队既有阶段性的探索工作的重合，也会发生类似的人才流动。</strong></p>\n  <p><strong>两大基模团队背后，是C端AI入口之争</strong></p>\n  <p>腾讯的C端AI主力产品元宝，于今年年初上线的元宝派功能，让混元和微信两大体系在产品层出现了一次交集。</p>\n  <p>彼时，元宝派试图把AI引入多人社交场景，支持群聊总结、图片生成、共同娱乐等功能。微信团队也罕见地释放出部分传播资源，元宝派邀请可以经由微信好友、群聊和朋友圈扩散。</p>\n  <p>对元宝而言，这相当于获得了腾讯最核心的关系链入口；对微信而言，这也是一次观察AI能否重新组织社交关系的产品实验。</p>\n  <p>然而，在微信方面“有限”的资源共享的背景下，元宝并没有成长为预期中的腾讯C端突破口。</p>\n  <p>只看春节期间，元宝派和红包玩法确实一度冲上流量高点。腾讯方面披露，截至今年2月18日，元宝日活跃用户超过5000万，月活跃用户达到1.14亿。</p>\n  <p>但这轮增长红利，却并未持续沉淀。QuestMobile数据显示，红包活动结束后，元宝日活很快回落至春节前水平；到2026年3月，元宝独立App月活为5735万，未进入亿级AI应用阵营，只有豆包、千问和DeepSeek三款产品月活超过1亿。</p>\n  <p>与此同时，微信迅速落地了传闻已久的原生AI助手“小微”。它采用多模型协同路线：一些行业内测反馈显示，“小微”主模型为微信团队自研的WeLM，部分回答会调用DeepSeek。</p>\n  <p>今年6月，微信开放平台开始允许小程序接入微信AI生态：在自动模式下，平台可以读取小程序源码、分析页面结构，让微信AI直接操作；在开发模式下，开发者也可以将业务能力封装为经平台审核后供微信AI调用的技能。</p>\n  <p>从“小微”的功能形态看，Agent是微信将AI接入聊天、社交和小程序服务的关键能力，关系到AI能否真正理解需求并完成操作。徐灿在后训练和Agent方向积累的经验，或可帮助WeLM强化任务规划、工具调用及复杂任务执行能力。</p>\n  <p>WeLM被定位于重点兼顾用户隐私、微信场景适配和成本效率。面对微信庞大而复杂的用户场景，未来的微信Agent既要理解用户意图，也要在不同服务之间规划任务、调用工具并稳定完成操作。这将对模型的后训练、奖励设计、任务评估和执行稳定性提出更高要求。</p>\n  <p>在这一背景下，WeLM团队看重候选人在通用大模型后训练领域的经验，似乎在情理之中。</p>\n  <p>事实上，在混元和WeLM背后，不难发现<strong>腾讯在AI入口上有着两套组织逻辑：混元拥有更集中的算力、数据和模型研发资源；WeLM拥有微信的原生入口、内容生态、小程序服务和真实用户反馈。</strong></p>\n  <p>只是，这两套逻辑都需要一个强大的技术底座来支撑。</p>\n  <p><strong>智能涌现了解到，此前，WeLM和混元团队已共享了部分算力资源分配。此次人才转岗至WeLM，也进一步指向这两套大模型研发体系的同步运转，将在模型和产品层面进一步延续。</strong></p>",
-      "category": "tech",
-      "published_at": "2026-08-14T10:50:14+00:00",
-      "fetched_at": "2026-08-15T00:57:50.387530+00:00",
-      "fingerprint": "ffb73086ee311edc"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "氪星晚报｜五粮液出手稳价；谷歌推出Gemini 3.7 Flash模型；7月贷款利率保持低位水平",
-      "url": "https://36kr.com/p/3939192336465028?f=rss",
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3939141879627139\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>特斯拉SpaceX合并传闻再起，马斯克薪酬激励或高达8240亿美元</strong></a></p>\n  <p>一档播客节目指出，如果马斯克促成特斯拉和SpaceX合并，他可能获得最高8240亿美元的财富。按特斯拉去年批准的薪酬方案，马斯克在达成运营目标和市值目标后，最多可获4.23亿股特斯拉股票。华尔街认为，若特斯拉发生控制权变更，则运营目标视为达成，且市值目标也更容易达成。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3938552904842624\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>五粮液出手稳价</strong></a></p>\n  <p>8月13日，记者从多位经销商处获悉，五粮液约一周前向经销商下发通知，取消以前部分渠道政策，并明确第八代五粮液出货价格不得低于800元/瓶。针对低价窜货、低价抛售行为，品牌方将视情节采取罚款等处罚措施。不过，有经销商向记者表示，只要不是大范围的恶意窜货，实际执行中一般不会轻易处罚。截至发稿，五粮液官方未就此发布书面文件或公开回应。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3939100381887622\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>英伟达宣布CPO交换机全面量产</strong></a></p>\n  <p>8月14日，英伟达宣布Spectrum-X Ethernet Photonics已进入全面量产阶段，为面向AI工厂的下一代大规模扩展网络基础设施提供支持。英伟达表示，Spectrum-X Ethernet Photonics专为吉瓦级AI工厂网络需求设计，实现激光器数量减少4倍、功耗降低5倍、平均故障间隔时间（MTBI）提升10倍。该产品由台积电、矽品、Lumentum、天孚通信、鸿海等供应链伙伴参与制造、封装及组装。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3939070420286857\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>高性价比中国大模型兵临城下，美头部AI实验室大幅降价应对</strong></a></p>\n  <p>OpenAI等美国头部AI实验室近期大幅下调中端AI模型价格以留住客户，Silicon Data数据显示7月中旬以来客户采购美国头部实验室模型的实际支出已降近四分之一。AI使用成本持续走高，中国AI企业凭借模型的高性价比优势不断获取新的客户，令美国科技行业感到担忧。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3938876560505992\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>SK海力士考虑合资建设存储芯片工厂，降低资本支出和产能过剩风险</strong></a></p>\n  <p>8月14日，据报道，SK集团董事长崔泰源在接受采访时表示，SK海力士正考虑以合资方式建设新的存储芯片工厂，以降低传统行业盛衰周期下巨额资本支出和产能过剩带来的风险。崔泰源还警告称，目前存储芯片供应紧张的局面将在2027年进一步加剧。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3938675213057161\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>小马智行与Uber扩大合作，计划在欧洲5城部署超2000辆Robotaxi</strong></a></p>\n  <p>36氪获悉，小马智行与全球出行平台Uber宣布，双方进一步扩大战略合作，将在欧洲5个城市部署超过2000辆小马智行Robotaxi。标志着欧洲自动驾驶行业将迈入千辆级规模的新阶段。</p>\n  <h2><strong>新产品：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3938599102807170\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>谷歌推出Gemini 3.7 Flash模型</strong></a></p>\n  <p>8月13日，谷歌发布新版Gemini Flash。公司表示，新推出的Gemini 3.7 Flash在代码调试等编程任务上的表现优于上一代，并且更有能力一次生成接近可直接投入生产环境的代码。谷歌还表示，这些模型可以用更少的提示完成应用开发，改善开发者体验，并降低运行模型所需的词元成本。从周四起，谷歌的AI生产力智能体Gemini Spark将由3.7 Flash提供支持。</p>\n  <h2><strong>投融资：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3938720679067011\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>“亮源新创”完成数亿元Pre-A轮融资</strong></a></p>\n  <p>36氪获悉，近日，“亮源新创”宣布完成数亿元Pre-A轮融资。本轮融资由国科投资领投，招商局创投、襄禾资本等机构参与投资，资金将主要用于超大规模具身智能模型训练、多模态数据基础设施建设、软硬件全栈平台研发以及高人才密度的团队扩张。</p>\n  <h2><strong>今日观点：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3939166606327176\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>阿维塔雍军回应争议：华为“非必要项”系误读</strong></a></p>\n  <p>阿维塔科技副总裁雍军公开回应近期争议，他表示：阿维塔跟华为有着深度合作，原意是并不希望华为单独为阿维塔定制一个版本，而是做全行业共享的平台技术。阿维塔07L采用联创模式打造，车辆B柱上拥有联创标志，同时，引望团队与阿维塔协同作战，该车型上应用了诸多华为技术。此外，在顶层战略上，中国长安集团与华为于深圳已签署全域战略合作框架协议，未来，阿维塔与华为还会有更加深度的合作。</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a href=\"https://www.36kr.com/newsflashes/3939121503173764\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>7月贷款利率保持低位水平</strong></a></p>\n  <p>从中国人民银行获悉，今年以来，我国贷款利率保持低位水平，7月延续下行态势。7月份，企业新发放贷款加权平均利率略低于3%，比上年同期低约0.2个百分点；个人住房新发放贷款加权平均利率约3.1%，与上年同期基本持平。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3938653582736514\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>2025年我国安全应急装备重点领域产业规模突破1万亿元</strong></a></p>\n  <p>记者从中国电子信息产业发展研究院了解到，“十四五”以来，我国安全应急装备产业快速发展。2025年重点领域产业规模突破1万亿元，形成了覆盖安全防范、应急处置和安全应急服务的产业体系。</p>\n  <p><a href=\"https://www.36kr.com/newsflashes/3938603422891143\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>AI影视爆火催生多个新工种，人才需求正大幅攀升</strong></a></p>\n  <p>AIGC导演、AI音频编剧、AI生图师、AI抽卡师（AI视频生成师）……在头部短剧企业嘉兴九州文化传媒有限公司（下称“九州文化”），AI内容创作相关的岗位已占全员的60%，其中有不少这样充满特色的AI相关岗位。AI技术在影视行业的应用逐渐深化，AI短剧、AI漫剧等AI影视内容产量大幅提升。AI影视内容的火爆带动了相关人才需求的增长。传统影视企业的主要岗位包括策划、剪辑、导演等，而在以生产AI影视内容为主的影视企业，一批颇具特色的新岗位对AI影视人才的需求正大幅攀升。九州文化相关人士向记者介绍，公司近一年来员工总数从约3000人快速扩张至9000余人，净增6000人，新增岗位几乎全部集中于AI内容生产链条。</p>",
-      "category": "tech",
-      "published_at": "2026-08-14T13:02:49+00:00",
-      "fetched_at": "2026-08-15T00:57:50.387521+00:00",
-      "fingerprint": "224e0265e167d863"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "「意图经济」爆火背后：年轻人想做旅行里的甩手掌柜",
-      "url": "https://36kr.com/p/3939439529622917?f=rss",
-      "summary": "<p>你有没有过这种情况，旅行还没开始，人已经开始累了。</p>\n  <p>打开小红书搜目的地，划到手指发酸，几十条笔记刷下来，内容长得越来越像。同一个机位、同一句“绝美出片”、同一份“三天两夜特种兵攻略”。</p>\n  <p>想比个价，得在5、6个APP间来回横跳。攻略攒了一堆，可这些内容分散在图片、视频、长文里，没有一个能直接拿来用，<strong>最后还得打开备忘录，一条一条手动敲：Day1住哪、Day2怎么去、几点的票、中转要多久。</strong></p>\n  <p>手机里装满了APP，但最烦人的事还得自己干，相当于自带干粮给它打工。“意图经济”这个词翻红，就在于精准击中了人们对传统平台服务溢价的不满。</p>\n  <p><strong>“意图经济”翻译成人话就是：用户只管讲明白想要什么，剩下的闹心事交给机器去办。</strong>对被“旅行内耗”榨干的年轻人来说，这句话几乎带着点解放的意味，那个替你跑腿的角色，第一次可以不再是你自己。</p>\n  <p>问题是，这句话能不能兑现。</p>\n  <p>试着把这些琐事甩给AI，让它帮忙规划一下？确实省了不少划手机的时间，方案生成得又快又漂亮，可细看才发现问题不少：推荐的酒店查无此店，给出的航班时刻和实际班次对不上，甚至会出现它信誓旦旦地说某个博物馆“周一闭馆需避开”，结果公共节假日人家其实不休息的情况。</p>\n  <p>做攻略原本是为了省心，结果比上班还累。有时明明网上的信息都是真的，拼起来却不一定能走通。比如有人让你落地北京大兴机场后，两个小时直奔故宫。丝毫不考虑从机舱到网约车等候区的距离，没有40分钟根本走不下来。<strong>信息差和经验差，是攻略最难填的两个坑，</strong>一旦漏算，轻则赶不上开园、错过末班车，重则一整天的行程全部推倒重来。</p>\n  <p>所以，AI到底能不能把一趟旅行真正安排明白？</p>\n  <p><strong>最近，飞猪推出了全新的旅行AI飞猪帮帮，主打“一句话就出发”。</strong>和只负责聊天、回答问题的AI不同，它试图把旅行里的规划、搜索、预订乃至一系列琐事都接过去，让用户从“告诉它我要什么”，一路走到“事情真的办成”。</p>\n  <p><strong>行业里有个说法：凡事号称“一句话生成XX”的，大多都是智商税。</strong></p>\n  <p>为了验证它是否真能把我们从“旅行内耗”里解救出来，后浪研究所深度体验了飞猪帮帮在几个最头疼场景下的表现。接下来，就带大家看看这个长出了双手的AI&nbsp;Agent，到底能不能让人放心当个“甩手掌柜”。</p>\n  <h2><strong>别人的攻略能直接变成我的行程吗？</strong></h2>\n  <p>我选择了一篇小红书爆款笔记：“西安citywalk，湘子庙到含光门”。不用切换任何页面，把链接贴进常驻在APP底部的飞猪帮帮智能面板，然后等回答。</p>\n  <p>它倒是反应很快。几秒钟后，一份完整的3天2晚行程路书就生成了。出发地自动识别到了我当前的所在城市北京，出发日期合理性过关，按照打工人的周末游习惯，给了一个“周五晚出发、周日晚返回”的建议。</p>\n  <p>飞猪帮帮还补了一句：<strong>“相比刚才的笔记，本攻略补齐了从含光门登城墙的电梯攻略、每日动线衔接以及周边高口碑的烤肉与创意菜推荐。”</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_0600639aef8b48628e021009d21dd7a2@6062546_oswg113666oswg449oswg552_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>三天的路线摊开在地图上，按颜色区分：Day1城墙片区、Day2大雁塔片区、Day3教堂片区。走向基本贴合原笔记，但细节上又做了修正。陕西历史博物馆门票紧俏，提醒提前预约；8月西安紫外线强，建议傍晚5点后再上城墙。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_7ed1c7fe3ea84e0c90c9c52ff4eeda32@6062546_oswg100516oswg401oswg513_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>攻略是极简版的，要用的时候，可以让它动手升级成路书。</p>\n  <p>这一点与大家都在用的通用AI有很大不同。从话术来看，通用AI毫无疑问表现更好，推理过程鞭辟入里、生成方案表达优美，相比之下飞猪帮帮就略显逊色了；<strong>从可执行性来看，飞猪帮帮的优势巨大，时空和路网合理性、旅行建议针对性上更胜一筹，尤其是其详细版的路书。</strong></p>\n  <p>点开路书细看，它把原攻略里散落在图文和视频里的信息重新拆解、对齐到了飞猪的供应链上。Day1的动线是湘子庙—书院门—碑林博物馆—西安城墙—钟鼓楼广场，保留了原帖的Citywalk精髓，但每个景点下面都附了推荐理由和具体建议。</p>\n  <p>比如湘子庙逛完可以顺路去Virgo Coffee喝杯樱桃燕麦拿铁，碑林逛完建议打车或骑行去含光门，含光门遗址博物馆里有电梯直达城墙上方。<strong>这些细节原帖没提，但对于一个不爱爬楼梯的人来说，能不能找到含光门的电梯入口，体验差得不是一星半点。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_0dd68dda7d95434d984e6ac2fdf91eac@6062546_oswg223350oswg603oswg529_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_6c227e0859a24e0283af10b138faea0e@6062546_oswg236451oswg587oswg529_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>飞猪帮帮的建议给出了具体的商品：</strong>南门附近新开业的酒店，可以步行到湘子庙，非常方便；晚餐推荐永宁门的醉长安，4.6分超赞，还标了“必点两斤重的超级狮子头”；西安城墙门票53元起。东航MU2120，大兴20:30起飞，620元，可以直接预订——是的，“直接预订”的意思是，如果这个时候你愿意说“帮我下单”，它会乖乖生成订单页，让你确认费用细节后，再执行下单动作。带钱的事情，AI现阶段还是很谨慎。但单论能力，它确实已经能做到不跳转、不用点击，就在原界面内完成付款。</p>\n  <p>这些都是社交平台网红攻略或者通用AI往往不会替你操心的事。<strong>往下翻还有一张预算参考表，交通、住宿、门票分别算好，总计1737元起，甚至能拖着滑块把预算从1032元一路调整到7224元，得到不同档位的方案。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_977f3145718540fd9b0f3da4e89bce85@6062546_oswg55295oswg527oswg630_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>如果你经常担任团建组织者，还可以把这份路书以长图形式分享到微信群里，</strong>收集完“想看兵马俑”“想吃得再地道点”这些团队的意见后，截图丢回对话框。它会自动识别、参考，再给一版照顾了大家的新方案。</p>\n  <p>飞猪帮帮没有把攻略换个格式复述一遍。它把“怎么去、能不能订、多少钱”这几个原本要靠自己一条条查的东西一次性补全了。预算这块甚至给到了能拖动的可视化区间，这是普通攻略帖完全做不到的。</p>\n  <p>不过在实测中我们也发现，如果原攻略里包含了一些极度小众、未被公共数据库或飞猪平台标准化收录的冷门地标（比如某条街角网红小摊），AI在匹配精准商品时仍需人工进行二次确认。<strong>但即便如此，它已经将过去动辄需要两三个小时的“做攻略”时间，压缩到了只需确认最终方案的几分钟内。</strong>未来或许时间能更短，但是短时间和靠谱的感觉如何平衡，或许是那时飞猪的产品经理们要面对的新功课。</p>\n  <p>从一条网红攻略到一张可预订的行程单，中间那些原来需要我手动填的坑，飞猪帮帮基本都有能力帮忙填。</p>\n  <h2><strong>能不能聊着聊着就把事情搞定？</strong></h2>\n  <p>真正让我觉得交互方式变了的，还有另一个场景。</p>\n  <p>在西安行程生成后，我想调整酒店。原本推荐的酒店什么都好，但不是宠物友好，没办法让我带着狗狗一起住。传统App的筛选逻辑是：点进酒店频道—选择入住日期—勾选“允许携带宠物”—再筛选“景观房”，最后让系统按照距离排序列出具体的酒店列表。</p>\n  <p>操作路径长，而且“能看到夜景”这种感性诉求在筛选栏里基本不存在。<strong>但在飞猪帮帮的对话框里，我可以直接语音告诉它：“找一个距离湘子庙1000米以内、房间能看到夜景且宠物友好的酒店。”</strong></p>\n  <p>它理解了这个需求，给出了几家符合条件的酒店。西安钟楼永宁里亚朵酒店，距离湘子庙直线350米，标注了“允许携带宠物”和“提供亚朵标志性的舒适景观房”，点击预订就能支付。另一家是2024年新开业的希尔顿花园酒店，设施现代，且品牌通常对宠物友好。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_a3f7d2e8d753425c81ed74784836d623@6062546_oswg1362447oswg1080oswg1670_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>以前我们用App，是在学习它的语言：比如“宠物友好”藏在哪个筛选项里、怎么找“景观房”的标签。现在是App在学习我们的语言，就像聊天一样，它来翻译成它能理解的条件组合，再去匹配和执行。</p>\n  <p><strong>总的来说，AI Agent改变了App和人交互的方式。</strong></p>\n  <p>其实这就是近两年一直被讨论的LUI（语言用户界面），说白了就是不用再一层层点菜单、勾选项。直接开口说需求，AI听懂了就去执行。与之相对的是我们熟悉的GUI（图形用户界面），也就是点按钮、滑列表这种图形化操作。市面上一些打着“AI”旗号的旅行产品，做法通常是在原来的App里加一个对话框。这种逻辑是AI in X，AI更像是一个额外挂上去的功能模块。</p>\n  <p><strong>但飞猪的思路更像是X in AI，整个产品能被AI这套语言逻辑驱动起来。</strong></p>\n  <p>不过从目前的设计来看，飞猪也没有过于激进，GUI方式依然被保留下来，毕竟在给定条件的标品筛选上，姜还是老的辣。但在必要的时候，用户可以在LUI界面让AI Agent帮自己操作GUI。</p>\n  <p>作为一家商业公司，保持一些“老登”时代的产物，不是什么奇怪的事。另一方面，为了AI而AI、在用户习惯了的场景里强行做改变，可能又滑向了另一个极端。</p>\n  <p><strong>以用户的真实需求、真实效率出发，而不是从是否性感、是否有宏大叙事出发，这是飞猪帮帮目前在产品主张上给人留下的一个印象。</strong></p>\n  <p>当然，这种交互方式实测下来也不是完全没有瑕疵。毕竟“能看到夜景”这种需求，本身就比“距离1000米”更难被标准化验证。飞猪帮帮可以根据酒店的景观房、位置和已有信息进行匹配，但最终住进哪一间房、窗外到底能看到怎样的夜景，还是最好在下单前确认一下。</p>\n  <p>但把一句带着好几个限定条件的“人话”精准翻译成几家具体可订的酒店，这种“能动嘴就不动手”的操作已经让人体会到了交互方式质变所带来的爽感。</p>\n  <h2><strong>旅行中最烦人的琐事，能办成吗？</strong></h2>\n  <p>如果说规划路线和搜索酒店还算“行前准备”，那么真到了出行阶段，那些甩不掉的琐碎杂活，才是榨干年轻人出游精力的罪魁祸首。</p>\n  <p>这也是飞猪帮帮真正让我觉得惊喜的地方，<strong>它开始处理那些我明明知道该怎么办，却懒得亲自去办的琐事。</strong></p>\n  <p>比如酒店升房。如果你是某大牌酒店的会员，入住前其实可以打电话问问前台有没有免费升级房型的机会。道理大家都懂，万一捡到一个升级，几百上千块的差价就省下来了。但真正到了入住当天，大多数人的状态可能是：拖着箱子到了酒店，只想赶紧check in，前台经理面带微笑地迎接你，但因为当下没有库存，升房这茬索性就不提了。</p>\n  <p>就算提前沟通，也得自己找电话、从前台转到另外一个部门、报名字和手机再看一看。成功了当然开心，没成功也得接受现实。</p>\n  <p>这件事，现在可以直接交给飞猪帮帮了。它会自动联系酒店前台，用会员权益去询问能不能升级。<strong>发布会现场，我们听到了AI打出一通电话与酒店协商的真实录音：先说明身份和需求，再向前台确认能否从原来的房型升级到豪华大床房，得到确认后，还会再次核实订单信息。</strong>整段对话听起来和真人打电话没什么区别。</p>\n  <p>最妙的地方是，它替你争取的是一个你很容易忘记使用的权益。</p>\n  <p>值机也是一样。以前为了选一个好座位，得记得值机时间，到了点赶紧打开App，输入订单、进入值机页面，再从一大片座位里抢一个自己想要的位置。尤其是前排靠窗这种热门座位，稍微晚一点，可能就只剩下最后一排。</p>\n  <p><strong>现在可以提前告诉飞猪帮帮：“帮我值机，尽可能前排靠窗，如果没有，靠过道也可以。”等航空公司开放值机，它会自动去完成这件事。</strong>这种体验其实很像多了一个靠谱的助理：它能记住，并且长线操作这件事。让它去办事，你忙别的就好。</p>\n  <p>不过，这里飞猪也坦诚，值机功能的好用与否，不完全取决于AI能力的高低，背后还涉及到航司的接口、不同程度的授权与合作。目前值机功能只覆盖了一部分，未来扩大范围也同时需要行业侧共同为适配AI时代而做出努力。</p>\n  <p>最能体现办事能力的，还有旅行中真正出意外的时候。</p>\n  <p>假设我买了一张机票，结果临出发前航班取消了。我们的第一反应通常是自己查通知、找改签入口、打航空公司电话，改完机票之后又突然想起来：那我订的酒店怎么办？机场接送怎么办？门票怎么办？如果是中转行程就更麻烦，前一张航班变了，后面的所有安排可能跟着一起塌。</p>\n  <p>飞猪帮帮能做的是，在用户授权后持续关注航班状态。<strong>一旦收到航班取消通知，它会结合原本的旅行计划和航司改签政策，分析怎样调整对后续行程影响最小；如果同一个目的地还有接送机等关联订单，也可以进一步协助处理退改。</strong></p>\n  <p>体验下来，这种“主动办事”确实有了“智能”的感觉。</p>\n  <p>它的好用，在于真正有了连接物理世界的履约与代办能力。从过去事事都要自己设闹钟、打电话的“操心命”，到如今交代一句话就有AI在后台默默帮忙盯着进度，解决突发风险。被服务的情绪价值，可能才是人类底层最喜欢的AI创造。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260814/v2_99c61391a3a34e8392fd36aa1f39d487@6062546_oswg351oswg1080oswg43_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>当越来越多的决策与琐事可以一股脑地交给&nbsp;AI，大家会发现，<strong>它真正改变的是把人从繁琐的“旅行内耗”中彻底解脱出来，去重新享受旅行本身。</strong></p>\n  <p>再往前看一步，为什么让旅行AI真正落地的，是飞猪这类OTA（在线旅行社），而不是那些看起来无所不能的通用大模型？</p>\n  <p><strong>因为能聊和能订之间，隔着整个供应链。</strong>旅行AI真正落地的门槛，是它能不能摸到真实世界的供给。通用大模型可以给你一份看起来完美的行程单，但它不知道哪张机票真的能出票，哪间房真的能订到。而OTA多年来搭建的供应链和数据体系，恰恰是这件事的地基。所以，飞猪帮帮能做到这些，一点都不意外。</p>\n  <p>（图片源自飞猪APP截图）</p>",
-      "category": "tech",
-      "published_at": "2026-08-14T14:08:10+00:00",
-      "fetched_at": "2026-08-15T00:57:50.387506+00:00",
-      "fingerprint": "0ff327494dd2dc42"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
-      "url": "https://sspai.com/post/113434",
-      "summary": "阿里千问开放平台上线菜鸟智能体，Brave 和  Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。<a href=\"https://sspai.com/post/113434\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-14T00:52:24+00:00",
-      "fetched_at": "2026-08-15T00:57:48.928630+00:00",
-      "fingerprint": "519955c6c9e88723"
-    },
-    {
-      "source": "少数派",
-      "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
-      "url": "https://sspai.com/post/112279",
-      "summary": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。<a href=\"https://sspai.com/post/112279\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-14T02:54:21+00:00",
-      "fetched_at": "2026-08-15T00:57:48.928624+00:00",
-      "fingerprint": "dc85078408cd929f"
-    },
-    {
-      "source": "少数派",
-      "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
-      "url": "https://sspai.com/post/111709",
-      "summary": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？<a href=\"https://sspai.com/post/111709\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-14T03:44:03+00:00",
-      "fetched_at": "2026-08-15T00:57:48.928617+00:00",
-      "fingerprint": "40892d1f85e594ff"
-    },
-    {
-      "source": "少数派",
-      "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
-      "url": "https://sspai.com/post/113416",
-      "summary": "纪念并且感谢他为我们留下的推理世界。<a href=\"https://sspai.com/post/113416\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-14T07:00:00+00:00",
-      "fetched_at": "2026-08-15T00:57:48.928609+00:00",
-      "fingerprint": "ceb571bbec7d9ffd"
-    },
-    {
-      "source": "少数派",
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "url": "https://sspai.com/post/113459",
-      "summary": "📅本周新预告《不存在的罪人》正式预告8月11日，电影《不存在的罪人》发布了正式预告，将于10月2日在北美上映。迈克尔·肖沃特执导，安妮·海瑟薇、达科塔·约翰逊、乔什·哈奈特主演，当红小说家留下未竟手稿 ...<a href=\"https://sspai.com/post/113459\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-14T09:50:02+00:00",
-      "fetched_at": "2026-08-15T00:57:48.928597+00:00",
-      "fingerprint": "f3fe60adbf44247d"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7742 CNY ↑+0.40%",
-      "url": "https://www.frankfurter.app/2026-08-14?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-08-14</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7742 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0191 (+0.40%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-08-15T00:57:47.825481+00:00",
-      "fingerprint": "a99fed52104fafb0"
     }
   ]
 }
