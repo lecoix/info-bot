@@ -1,7 +1,327 @@
 {
-  "updated_at": "2026-08-26T01:01:14.733727+00:00",
-  "count": 178,
+  "updated_at": "2026-08-27T06:56:49.072754+00:00",
+  "count": 181,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
+      "summary": "<p>In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports</p><p>After three years at catering school in Accra, Abiro Wisdom was certain of one thing – he did not want to go into catering. At least not the route that he might be expected to take. His course had prepared students for working in international hotels, focusing on French, Italian and Mexican cuisine. The nutritious, homegrown food that Wisdom had eaten while growing up in Bolgatanga, northern Ghana, did not feature at all.</p><p>“I didn’t see myself there,” he says of the big chain hotels. “I felt I wouldn’t be myself working there – I wouldn’t be able to talk about the food from where I come from.”</p> <a href=\"https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-26T09:00:39+00:00",
+      "fetched_at": "2026-08-27T06:56:49.069197+00:00",
+      "fingerprint": "8080df50e654ec64"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+      "summary": "<p>The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected</p><p>A fresh outbreak of mpox <a href=\"https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa\">in Guinea Bissau</a> – the country’s first – means the virus formerly known as monkey pox is back in the headlines. So what has changed?</p><p>Since 2022, there have been <a href=\"https://worldhealthorg.shinyapps.io/mpx_global/#key-figures\">almost 190,000 lab-confirmed cases</a> of mpox reported worldwide in 145 countries. Before then, outbreaks of mpox tended to be relatively small and in a handful of African countries, where the viral infection was known to be endemic.</p> <a href=\"https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-26T11:00:12+00:00",
+      "fetched_at": "2026-08-27T06:56:49.069193+00:00",
+      "fingerprint": "f218151ed7ae95d6"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "summary": "<p>Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife trafficking</p><p>South African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered parrot eggs out of the country as authorities try to stem the tide of wildlife trafficking.</p><p>A 50-year-old Thai national was arrested at OR Tambo international airport in Johannesburg on 20 August, carrying 50 bird eggs in a homemade incubator in a hand-luggage bag, South Africa’s environment ministry said in a <a href=\"https://www.dffe.gov.za/mediarelease/arrest_allegedwildlifetrafficker\">statement</a>.</p> <a href=\"https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-26T15:09:58+00:00",
+      "fetched_at": "2026-08-27T06:56:49.069186+00:00",
+      "fingerprint": "28a568cc75fb599e"
+    },
+    {
+      "source": "BBC World News",
+      "title": "At least 12 dead as wildfires sweep through northern Algeria",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region.",
+      "category": "politics",
+      "published_at": "2026-08-27T02:10:18+00:00",
+      "fetched_at": "2026-08-27T06:56:48.875531+00:00",
+      "fingerprint": "51817b38d4e2805d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+      "url": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+      "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+      "category": "politics",
+      "published_at": "2026-08-26T15:42:45+00:00",
+      "fetched_at": "2026-08-27T06:56:48.875528+00:00",
+      "fingerprint": "d3dca065ff01b25d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
+      "category": "politics",
+      "published_at": "2026-08-26T14:42:03+00:00",
+      "fetched_at": "2026-08-27T06:56:48.875524+00:00",
+      "fingerprint": "c487942c17b25730"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "category": "politics",
+      "published_at": "2026-08-26T11:32:11+00:00",
+      "fetched_at": "2026-08-27T06:56:48.875518+00:00",
+      "fingerprint": "17d33cd49a888988"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "特斯拉為何捲入中國大規模汽車召回風波？",
+      "url": "https://www.bbc.com/zhongwen/articles/czxzdwp7re1o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "中國史上最大規模的汽車召回事件影響超過400萬輛由特斯拉、小鵬汽車、小米等公司生產的汽車。",
+      "category": "politics",
+      "published_at": "2026-08-27T00:02:54+00:00",
+      "fetched_at": "2026-08-27T06:56:48.641635+00:00",
+      "fingerprint": "2d043aeb730ea496"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "Meta案突以180億美元和解，或加快清算社交媒體兒童安全",
+      "url": "https://www.bbc.com/zhongwen/articles/cew9197pqzwo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC科技編輯佐伊·克萊曼（Zoe Kleinman）認為，我們無止境刷看負面資訊的習慣已時日無多。",
+      "category": "politics",
+      "published_at": "2026-08-27T06:36:56+00:00",
+      "fetched_at": "2026-08-27T06:56:48.641631+00:00",
+      "fingerprint": "769799deb210839a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
+      "url": "https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "近日，中國河北省被揭發收購商為達到保鮮效果，將大白菜蘸取工業甲醛，再裝車運輸到外地，事件引發官方及輿論高度關注。",
+      "category": "politics",
+      "published_at": "2026-08-26T11:07:16+00:00",
+      "fetched_at": "2026-08-27T06:56:48.641628+00:00",
+      "fingerprint": "4f747496d31254fb"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「家人在我眼前被洪水沖走了」：中尼邊境山洪倖存者憶述事發經過",
+      "url": "https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "有尼泊爾災區的倖存者告訴BBC，她的多名家人在自己的眼前被洪水沖走，而她和兒子因爬到屋頂上而得以生還。",
+      "category": "politics",
+      "published_at": "2026-08-27T06:17:23+00:00",
+      "fetched_at": "2026-08-27T06:56:48.641624+00:00",
+      "fingerprint": "efa81ea52e958565"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "西藏—尼泊爾邊境山洪暴發 上千人失蹤包括多國遊客",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "事發地點為西藏日喀則市吉隆縣接壤尼泊爾邊境，中尼兩國各500多人失聯，其中包括大批外國遊客。",
+      "category": "politics",
+      "published_at": "2026-08-27T06:18:09+00:00",
+      "fetched_at": "2026-08-27T06:56:48.641617+00:00",
+      "fingerprint": "7baaf532efbeac8d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-27T06:56:48.000159+00:00",
+      "fingerprint": "e800ee9ae57a1b53"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Pnpm 12.0",
+      "url": "https://pnpm.io/blog/releases/12.0",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-27T06:56:48.000085+00:00",
+      "fingerprint": "4ed5d2495ce7f15d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-27T06:56:47.999996+00:00",
+      "fingerprint": "637a3623554fabe9"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-27T06:56:47.999909+00:00",
+      "fingerprint": "cb7e4bbf99b47a30"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-27T06:56:47.999816+00:00",
+      "fingerprint": "aec1fae1b903de5c"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
+      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+      "summary": "If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL when you use the coupon code PIXEL11 at checkout. While the discounted price appeared at checkout [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-26T19:18:23+00:00",
+      "fetched_at": "2026-08-27T06:56:47.672165+00:00",
+      "fingerprint": "35b7efbc4d16e359"
+    },
+    {
+      "source": "The Verge",
+      "title": "All the ways Instagram and Facebook are changing for teens",
+      "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+      "summary": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as restrict their use during certain times. [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-26T20:00:00+00:00",
+      "fetched_at": "2026-08-27T06:56:47.672162+00:00",
+      "fingerprint": "d7b8767fb3e6b355"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-26T21:36:06+00:00",
+      "fetched_at": "2026-08-27T06:56:47.672158+00:00",
+      "fingerprint": "1d6661841b379093"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-26T21:40:53+00:00",
+      "fetched_at": "2026-08-27T06:56:47.672151+00:00",
+      "fingerprint": "b9ce01e97ba793c8"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪项目推荐周榜|第15期，本期热度TOP10",
+      "url": "https://36kr.com/p/3957138356206978?f=rss",
+      "summary": "<p>上一周，AI项目的竞争重点正在从“有没有模型”转向“能否进入真实业务”。有人试图把业务流程编译成智能体可调用的能力，有人从游戏、机器人数据、药企合规等细分场景切入，也有人在算力供给与冷链基础设施中寻找更具体的效率空间。</p>\n  <p>本期上榜项目横跨企业服务、具身智能、医疗健康、合成生物与供应链服务。它们共同指向一个变化：技术不再只为制造新功能，而是在重新组织一套行业的工作方式。</p>\n  <h2><strong>本周榜单</strong></h2>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260827/v2_9e61e84ec5ae47af9a59084106a7300b@5284654_oswg459866oswg1080oswg1629_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">榜单</p>\n  <p>&nbsp;</p>\n  <h2><strong>项目介绍</strong></h2>\n  <p><strong>TOP1｜独到科技</strong></p>\n  <p>独到科技提出“业务世界的 Agent 编译器”概念，试图将企业中复杂、分散的业务规则、流程和上下文，转化为智能体可理解、可调用的能力。相比单一功能型AI工具，项目更关注让智能体真正嵌入企业工作流，解决企业AI应用“能用但不好用、能演示但难交付”的问题。</p>\n  <p><strong>一句话总结 &nbsp;</strong></p>\n  <p><strong>独到科技希望为企业智能体建立一层业务理解与编排能力，让AI从回答问题走向完成真实工作。</strong></p>\n  <p>&nbsp;</p>\n  <p><strong>TOP2｜拨动一下</strong></p>\n  <p>拨动一下瞄准AI休闲游戏市场，探索生成式技术如何降低内容创作门槛、丰富游戏互动方式，并提升轻量娱乐产品的个性化体验。休闲游戏对用户反馈、玩法迭代与内容供给的要求很高，AI有机会让小团队以更低成本进行快速试错和持续运营。</p>\n  <p><strong>一句话总结 &nbsp;</strong></p>\n  <p><strong>拨动一下以AI为内容与玩法创新工具，探索下一代轻量化、强互动休闲游戏的产品形态。</strong></p>\n  <p>&nbsp;</p>\n  <p><strong>TOP3｜沨呵智慧</strong></p>\n  <p>沨呵智慧关注AI基础设施从“卖GPU”向“卖Token、卖能力、卖服务”的转变，试图通过九层架构重构算力供给的产品化与商业化路径。随着企业调用模型的需求增长，算力市场的核心问题不再只是资源供给，还包括资源调度、成本控制、使用效率与稳定交付。</p>\n  <p><strong>一句话总结 &nbsp;</strong></p>\n  <p><strong>沨呵智慧从算力服务的商业模式切入，为AI应用规模化落地提供更灵活的基础设施支持。</strong></p>\n  <p>&nbsp;</p>\n  <p><strong>TOP4｜德塔智能</strong></p>\n  <p>德塔智能与舞肌科技联合推进全身协同灵巧操作数据采集，切入具身智能训练中关键、且稀缺的高质量数据环节。人形机器人要完成复杂操作，不仅需要视觉或手部数据，更需要全身运动、力量反馈与多模态协同数据；标准化采集能力将直接影响模型训练与实际部署效果。</p>\n  <p><strong>一句话总结 &nbsp;</strong></p>\n  <p><strong>德塔智能聚焦具身智能的数据基础设施，为机器人从“看得见”走向“做得准”提供训练支撑。</strong></p>\n  <p>&nbsp;</p>\n  <p><strong>TOP5｜仿生肌肉项目</strong></p>\n  <p>仿生肌肉项目通过模仿生物肌肉的驱动与柔顺特性，尝试突破传统机器人在柔性、安全性和复杂环境适应能力上的限制。对人形机器人而言，关节与执行机构不只是“更有力量”，还要兼顾轻量、灵活、可控与安全；仿生肌肉正是连接机器人运动能力与真实场景应用的重要技术路线。</p>\n  <p><strong>一句话总结 &nbsp;</strong></p>\n  <p><strong>该项目以仿生驱动技术提升机器人的柔性执行能力，为人形机器人拓展服务与作业场景提供底层可能。</strong></p>\n  <p>&nbsp;</p>\n  <h2><strong>榜单之外——</strong></h2>\n  <p><strong>我们更关注创新背后的方向</strong></p>\n  <p>每周榜单记录的，不只是项目热度，更是一份产业变化的切片。</p>\n  <p>它记录智能体如何进入业务流程，记录机器人如何积累真实世界的数据与执行能力，也记录AI如何从概念走向基础设施、生产工具与行业服务。36氪「项目推荐」将持续关注这些正在发生的变化，让值得被看见的项目更早被看见。</p>\n  <p>每周榜单记录的，不止是项目热度，更是一份产业变化的切片。</p>\n  <p>它记录AI如何从通用能力进入专业场景，记录硬科技如何在材料、能源和制造环节积累势能，也记录创业团队如何把一个技术判断变成真实的产品与交付能力。热度会变化，但能够在真实场景中持续创造价值的项目，终将成为产业演进中的长期变量。</p>\n  <p>36氪「项目推荐」将持续寻找这些项目：让值得被看见的创新更早被看见，也让产业变化在发生之初，就留下清晰的注脚。</p>\n  <p>你的项目也想上榜？</p>\n  <p>提交你的项目</p>\n  <p>审核通过后</p>\n  <p>你的项目将发布在36氪主站</p>\n  <p>并有机会入选下期榜单</p>\n  <p><strong>36氪项目推荐，让有价值的项目更快被发现。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260827/v2_a70f17363c6742799112b3b24fd9ad65@5284654_oswg476175oswg820oswg1214_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码添加</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/h9QiuVCtK0CZJARMSHdpuw\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪项目推荐”</a>，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-08-27T02:12:39+00:00",
+      "fetched_at": "2026-08-27T06:56:47.554681+00:00",
+      "fingerprint": "022986425092d348"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "绿城老库存首次降至50%以下",
+      "url": "https://36kr.com/p/3957154259500162?f=rss",
+      "summary": "<p>8月25日，绿城中国发布截至2026年中期业绩。报告期内，绿城实现营业收入394.81亿元，同比下降26%；毛利润43.88亿元，同比下降38.7%；归母净利润8171.5万元，同比大幅下滑60.77%。早在8月10日，公司已经发布盈利预警，提前向市场提示利润大幅下滑风险。</p>\n  <p>上半年绿城整体毛利率下行至11.1%，较2025年同期下降2.3个百分点，其中核心的物业销售毛利率仅9.7%。</p>\n  <p>在业绩会上，绿城执行董事、执行总裁江峰表示，利润下降的核心原因是受行业持续调整、物业销售结转规模下降、毛利率承压及资产减值等影响。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260827/v2_0738971e45c941b6899215c0c3b06be4@6208419_oswg836845oswg1265oswg616_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">业绩发布会</p>\n  <h2><strong>01 利润表承压</strong></h2>\n  <p>“盈利方面，受房地产市场持续调整影响，2026年业绩仍然承压。”江峰预计2026年全年毛利率相比去年降幅在1—2个百分点。今年全年的结算总量也会同比下降。“2026年结转收入的项目，大部分都是2024年获取的。2024年拿的项目的利润兑现最好，但是在2024年，货地总量不多。叠加2024年主要集中在下半年获取土地。进而导致部分项目需要在2027年结转。所以2026年结转面积相比2025年会有一定幅度的下降。”</p>\n  <p>利润受到不断侵蚀的另一个主要原因是“老库存”。报告期内，绿城计提资产减值及公允价值变动损失净额19.08亿元。其中，存货减值11.9亿元，信用减值5.4亿元，商业减值1.8亿元。</p>\n  <p>执行董事、副总裁李骏在业绩会上透露，截至6月底，绿城的剩余未售货值约2215亿元，其中，2021年及以前的老库存货值为1060亿元，“占比首次跌到了50%以下”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260827/v2_3a0a8cbe37604bf1aa107355dd6d6dce@6208419_oswg331482oswg1073oswg739_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">相关数据</p>\n  <p>今年上半年绿城实现总合同销售947亿元。其中，2021年及以前老库存的销售额为97.7亿元，“完成进度达到54%，做到了时间过半，任务过半”，李骏表示，在老库存中，未开发土地的货值约560亿元。</p>\n  <p>为了尽快甩掉老库存的包袱，绿城已经把老库存去化的任务级别提升到了集团层面。据悉，绿城从集团至项目设置了一系列针对老库存去化的资源倾斜和考核措施，包括：对车位和尾盘等重难点库存去化指标分开考核，集团直接跟踪KPI指标，并与年度奖金发放强挂钩；老盘新做，一盘一策；集团全面倾斜资源，设置存量去化专职人员去协调营销、运营、财务等各条线。</p>\n  <p>根据绿城公开的数据，2022年至2026年上半年，绿城累计集体减值达到约155亿元。针对剩余的千亿老库存，还有多少减值仍需计提？</p>\n  <p>“我们没法给一个特别确定的答案。”江峰表示，减值与很多变量很多因素挂钩，绿城自己的营销策略怎么调整，库存去化是否顺利，甚至周边的竞品是不是会打价格战，都会影响到最终的减值计提金额。</p>\n  <p>绿城管理层坦言，目前公司的“安全性非常好，但是利润确实有很大的压力。”</p>\n  <p>截至6月底，绿城在手货币资金余额619亿元，有息负债降至1307亿元，平均融资成本3.2%，比去年下降了40个BP；净负债率从去年底的66.4%，继续下降至63.7%。</p>\n  <h2><strong>02 保持千亿货值拿地目标不变</strong></h2>\n  <p>上半年，绿城营业收入也出现了大幅下降。在业务结构中，下降最明显的是开发物业的销售收入。</p>\n  <p>2026上半年，绿城物业销售收入361.65亿元，同比下滑27.2%；结转面积179.29万平方米，同比下降12.4%，结转销售均价20171元/平方米，同比下跌16.9%。</p>\n  <p>收入下滑的主要原因是2024年绿城拿地减少。当年，绿城拿地42宗，权益金额只有484亿元，为2023年以来的最低，当年拿地的项目对应到了今年结算。</p>\n  <p>2024年之后，绿城提高了拿地强度。2026年，绿城定下的拿地目标是“千亿货值”。</p>\n  <p>今年上半年，绿城新增22宗土地，总可售面积为115万平方米，新增货值459亿元，位列行业第四。权益土地款186亿元，位列行业第五。</p>\n  <p>不过，绿城上半年的销售额也同步出现了下降，实现总合同销售额约947亿元，同比去年同期减少275亿元，同比降幅22.5%。</p>\n  <p>李骏解释，“公司原计划1-5月份总共要推出500亿的货值，但是实际只推出了360亿元，其余的项目将顺延到后续推出。这是我们上半年销售降幅的一个主要原因。”</p>\n  <p>预计下半年绿城将会加大拿地强度，不过管理层对上半年重点城市的土拍溢价率快速升高表示担心。</p>\n  <p>“今年上半年全国主要城市的土地供应和成交同比分别都下降了25%左右，就算下半年要增补一些量，我们预计全年也很难达到去年的水平。”李骏在业绩会上说，“第二个特点呢，土拍的竞争很激烈，一线四个城市，加上杭州这五个城市，这个今年上半年的平均的土拍溢价率达到24%，超过了去年的19%。尤其是一些核心的地段，土拍竞争强度普遍比较高。第三个，我们认为，现在整个房地产市场还是处于筑底阶段，春节后销售市场虽然有所回暖，但是持续时间还是有待观察的。我们认为在部分的热点地块，都有点属于非理性竞争。局部的这种高强度竞争，导致我们上半年确实拿地或者偏少。”</p>\n  <p>尤其是一线城市和长三角地区，是土拍高溢价频出的区域。而绿城上半年在一线和二线城市占比达到83%，长三角占比接近70%。</p>\n  <p>好消息是经过2024年、2025年两年的高强度拿地，绿城目前手中的存货比较充足。下半年，绿城可售货值1256亿元，可售面积439万平方米。其中，存量在售759亿元，占比60%，计划新推497亿元，占比40%，其中全新推盘达到280亿元。</p>\n  <p>此外，半年报数据显示，绿城上半年的合同负债重回增长区间。截至6月末，公司已售未结转金额1669亿元，其中权益部分1051亿元；合同负债1196.56亿元，较2025年末增长9.8%，这部分预售资源将成为未来1—2年的收入来源。</p>\n  <p>一个月之前，绿城完成新一轮掌舵人更换，具有“老中交”背景的赵晖接任董事会主席及行政总裁。赵晖上任之后，采取了包括成立改革小组等迅猛的革新措施。在本次业绩会上，赵晖表示，中交集团将绿城定位为城市与房地产业务板块的主要承载平台，要求公司发展品质与品牌。绿城将持续平衡规模、利润、安全三者之间的关系，不盲目追求扩张，不忽视经营质量，不放松风险防控，持续打磨住宅开发代建、绿城加生活服务多元化业务协同模式。以更务实的举措，更有力的执行，兑现全年经营承诺，坚定做到目标不变、责任不改、力度不减。</p>",
+      "category": "tech",
+      "published_at": "2026-08-27T02:25:36+00:00",
+      "fetched_at": "2026-08-27T06:56:47.554677+00:00",
+      "fingerprint": "f8bd340c504ac4fe"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "业绩快报｜提效保质，古茗上半年营收净利双增",
+      "url": "https://36kr.com/p/3957195146247559?f=rss",
+      "summary": "<p><strong>文 | 杨烁</strong></p>\n  <p>8月26日晚间，古茗发布2026年中期业绩，上半年实现收入74.7亿元，同比增长31.9%；经调整利润15.7亿元，同比大增44.4%。</p>\n  <p>这是一份相当出色的成绩单。在整个行业陷入内卷、国内新茶饮市场呈现饱和的情况下，古茗的利润增速显著快于收入增速。这足以说明，公司在规模扩张的同时，成本控制与运营提效取得实质进展。</p>\n  <p>而在最能反映门店经营质量的GMV层面，古茗上半年单店日均GMV为7800元，与上年同期基本持平；门店总GMV为197亿元，同比增长40.1%。</p>\n  <p>实际上，2026年以来，古茗就在持续提升门店经营业绩。这既得益于公司有效的产品与营销策略，也得益于广大加盟商伙伴的积极投入。</p>\n  <p>今年上半年，古茗持续深耕产品研发，不断提升产品品质，定期推出新品以保持产品吸引力。报告期内，古茗共推出51款全新饮品，并在咖啡品类方面取得重要突破。其中，包括“苦尽柑来拿铁”在内的诸多爆品获得了消费者的广泛好评。</p>\n  <p>与此同时，古茗还在门店实行了“30天鲜豆”的标准，将咖啡豆从烘焙后到门店使用的全链路控制在30天内。而新鲜好喝、高质平价的产品背后，正是古茗供应链能力的体现。</p>\n  <p>财报显示，古茗通过自有冷链仓储和物流基础设施，来储存和运输短保质期的鲜果、茶叶、鲜奶等原料，并制定了涵盖“供应采购、原料加工、仓储、运输至门店”等各阶段的供应链管理标准。</p>\n  <p>截至6月30日，公司共运营24个仓库，总建筑面积27.7万平方米，冷库容量超8.2万立方米。其中，约73%的门店位于距仓库150公里范围内，99%的门店可实现两日一配。更关键的是，古茗仓到店的配送成本控制在GMV总额的1%以下。</p>\n  <p>门店规模方面，上半年，古茗的门店总数达14351家，较去年同期的11173家增长28.4%。对连锁茶饮品牌而言，当门店数量达到一定规模，新店对老店的分流效应会逐步显现。但古茗则凭借配送网络效率的提升，不断摊薄了运营成本。</p>\n  <p><strong>此外值得关注的是，深耕下沉市场的古茗，正在不断试探高线城市。</strong></p>\n  <p>今年8月，古茗南京首店正式开业，受到当地消费者的普遍欢迎。官方数据显示，该门店开业前三天，单日最高流水达到16万元，单日最高杯数超过9000杯。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260827/v2_185993ca2a7a4fafaa170eb4b0f65b80@11416942_oswg12651208oswg2536oswg1660_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">古茗南京首店</p>\n  <p>尽管在多个场合，古茗高层都明确表示，短期内不会进入上海、北京。“因为高线城市外卖占比高、租金和人力成本高，产品定价难以覆盖成本。”但南京门店的开业，无疑给市场更多想象空间。</p>\n  <p>业内普遍认为，南京作为新一线城市，是起家于华东市场的古茗，进入高线城市相对理性的切入点。</p>\n  <p>对于古茗，高线城市的单店盈利模型能否跑通，甚至优于下沉市场，仍取决于咖啡等产品对于客单价及复购率的带动；也关乎供应链效率是否仍有提升空间，以对冲高线城市开店带来的成本提升。</p>\n  <p>但无论如何，当一家门店数超过14000家、且其中80%位于下沉市场的茶饮品牌，开始“向上迈步”，整个行业的竞争格局或发生改变。古茗的“农村包围城市”的叙述，也将进入2.0版本。&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-27T03:10:14+00:00",
+      "fetched_at": "2026-08-27T06:56:47.554673+00:00",
+      "fingerprint": "cb341b4b98b0c9ff"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "最前线｜奇点能源磴口GWh级网侧储能项目运行数据披露，综合效率超行业均值6个百分点",
+      "url": "https://36kr.com/p/3957200338205828?f=rss",
+      "summary": "<p>随着新能源装机规模持续攀升，电网对灵活调节资源的需求日益迫切，大规模储能电站正成为支撑新能源消纳、保障电力系统安全稳定运行的关键基础设施。</p>\n  <p>&nbsp;近日，奇点能源披露了其位于巴彦淖尔市磴口县的500MW/2000MWh储能项目最新运行数据。该项目是奇点能源交付的首个GWh级单体项目，也是旗舰产品Galaxy-1组串式预制舱在源网侧的规模化应用标杆。自2026年1月转入商业运营以来，电站已持续稳定运行超半年。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260827/v2_5230c74d101c4868a352d2a0e7b32466@5920579_oswg283831oswg1470oswg826_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>运行数据显示，截至2026年6月底，电站累计充电量已超过40万MWh，综合转换效率达88.5%以上。根据中电联2025年储能电站运行数据，电网侧储能平均综合效率约为82.21%，该项目效率高出行业平均水平逾6个百分点。在参与电力现货市场的场景下，效率优势将直接转化为度电成本优势，进而提升项目的收益水平。</p>\n  <p>磴口县项目全站共部署400台Galaxy-1-4G组串式预制舱和100台eLink-HV35汇流升压一体机。项目采用“All in One”设计理念，将314Ah磷酸铁锂电池、BMS、组串式PCS、消防及热管理系统集成于20尺集装箱内。组串式架构实现了电池簇级独立管理，从源头消除了簇间环流与“木桶效应”，充放电深度可达100%，能够有效提升系统可用率与在线率。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260827/v2_b82cc3d0ceb740c2a8408ab568f3b3ca@5920579_oswg199405oswg1434oswg956_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>据介绍，项目建设阶段仅用60天完成全部设备交付，7天完成整站调试及“3充3放”验证。转入商运后，在严酷的沙漠环境中，电站系统在线率近100%，未出现因设备故障导致的非计划停运。</p>\n  <p>收益方面，电站通过参与蒙西电力市场现货交易获取价差收益，同时享有放电量补贴。借助奇点能源eTrader电力交易智慧运营平台，电站可针对次日市场自动生成多套申报策略并给出AI推荐方案，在蒙西、宁夏等市场的综合运营收益长期位居区域前10%。</p>",
+      "category": "tech",
+      "published_at": "2026-08-27T03:12:51+00:00",
+      "fetched_at": "2026-08-27T06:56:47.554668+00:00",
+      "fingerprint": "144485b4eb6f4316"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "除了找投资人，FA还能怎么玩？这个“新武器”正在提升项目曝光",
+      "url": "https://36kr.com/p/3957199690022274?f=rss",
+      "summary": "<p>在融资服务越来越精细化的今天，FA（财务顾问）的价值已经不只是“帮企业找到投资人”。</p>\n  <p>对于创业公司而言，融资过程中除了资金和资源，如何让项目获得更多关注、建立市场认知，同样重要。尤其是早期项目和新兴赛道企业，在缺乏品牌知名度的情况下，<strong>“让更多人看到”本身就是一种价值。</strong></p>\n  <p>这也让AI报道工具开始成为FA提升服务附加值的新选择。</p>\n  <p>&nbsp;</p>\n  <h2><strong>从“融资撮合”到“项目传播”</strong></h2>\n  <p>传统FA服务通常围绕项目梳理、投资人匹配、融资沟通等环节展开。但一个项目能否获得关注，并不完全取决于BP写得多漂亮。</p>\n  <p>好的项目，也需要好的传播。</p>\n  <p>过去，FA如果想帮助企业进行媒体曝光，需要经历选题、写稿、修改、沟通等多个环节，成本和时间投入都比较高。</p>\n  <p>随着AI工具的发展，项目资料提炼、内容撰写、报道框架搭建等工作可以变得更加高效。FA可以在完成融资服务的同时，进一步帮助企业梳理项目亮点，将技术创新、商业模式、融资进展等内容转化为更适合公开传播的信息。</p>\n  <p>这意味着，FA的服务可以从：</p>\n  <p><strong>项目推荐 → 投资人对接</strong></p>\n  <p>进一步延伸到：</p>\n  <p><strong>项目包装 → 内容传播 → 市场曝光。</strong></p>\n  <p>对于创业者来说，这相当于多了一条让项目走向市场的路径。</p>\n  <p>&nbsp;</p>\n  <h2><strong>“曝光”正在成为FA服务的新价值</strong></h2>\n  <p>如今，市场并不缺信息，真正稀缺的是注意力。</p>\n  <p>一个拥有优秀团队和技术能力的创业项目，如果长期处于“无人知晓”的状态，获得潜在投资人、产业方关注的机会自然也会受到影响。</p>\n  <p>因此，对于FA机构而言，除了帮助企业寻找投资人，也可以进一步帮助项目获得公开曝光。</p>\n  <p>尤其是在AI时代，内容生产效率大幅提升，<strong>“融资+传播”正在成为FA服务值得探索的新组合。</strong></p>\n  <p>对于创业者，这是增加项目曝光的机会；对于FA机构，则是提升服务差异化、增强客户价值感的一种方式。</p>\n  <p>&nbsp;</p>\n  <h2><strong>让好项目被更多人看见</strong></h2>\n  <p>从这个角度来看，AI报道工具真正改变的并不只是“写文章”的效率，而是FA服务的边界。</p>\n  <p>过去，FA更多承担的是资金与项目之间的连接角色；未来，FA还可以成为企业资本价值和市场价值之间的连接者。</p>\n  <p>而对于创业者来说，如果项目正在融资，或者希望获得更多投资人、产业方及行业从业者的关注，也可以主动进行项目展示和传播。</p>\n  <p><strong>36氪项目推荐</strong>就是一个面向创业项目进行展示与曝光的入口。</p>\n  <p>创业者可以通过平台发布自己的项目，介绍项目的产品、商业模式、团队优势及融资需求，让项目获得更多公开展示的机会。</p>\n  <p>对于FA机构来说，也可以将项目推荐作为融资服务之外的一项增值服务，帮助优质项目获得更多市场曝光。</p>\n  <p><strong>融资是让项目获得资金，而传播，是让项目获得更多被发现的机会。</strong></p>\n  <p>如果你手上也有一个正在融资、希望获得更多关注的项目，不妨通过<strong>36氪项目推荐</strong>发布出来。</p>\n  <p><strong>免费提交项目链接：</strong><a href=\"https://36kr.com/seek-report-new\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>https://36kr.com/seek-report-new&nbsp;</strong></a></p>\n  <p><strong>36氪项目推荐邮件组：aireport@36kr.com</strong></p>\n  <p>客服可以扫描下方二维码联系~</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260827/v2_82444f25299549868e00ec8f9505810b@5284654_oswg124679oswg357oswg537_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码添加</p>\n  <p>&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-27T03:34:59+00:00",
+      "fetched_at": "2026-08-27T06:56:47.554655+00:00",
+      "fingerprint": "3e01250eb4a1ac00"
+    },
+    {
+      "source": "少数派",
+      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+      "url": "https://sspai.com/post/113851",
+      "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-26T07:11:40+00:00",
+      "fetched_at": "2026-08-27T06:56:43.253238+00:00",
+      "fingerprint": "d480cca87ad8e09f"
+    },
+    {
+      "source": "少数派",
+      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
+      "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+      "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260826\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "category": "tech",
+      "published_at": "2026-08-26T07:59:03+00:00",
+      "fetched_at": "2026-08-27T06:56:43.253234+00:00",
+      "fingerprint": "ed129c58a0e07c95"
+    },
+    {
+      "source": "少数派",
+      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+      "url": "https://sspai.com/post/68227",
+      "summary": "学生党到底有哪些专享福利？看这一篇就对了。<a href=\"https://sspai.com/post/68227\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-26T08:25:44+00:00",
+      "fetched_at": "2026-08-27T06:56:43.253230+00:00",
+      "fingerprint": "9104f44c340a5ecf"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等",
+      "url": "https://sspai.com/post/113873",
+      "summary": "OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。<a href=\"https://sspai.com/post/113873\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-26T23:33:04+00:00",
+      "fetched_at": "2026-08-27T06:56:43.253226+00:00",
+      "fingerprint": "a819f81dd2dd5f90"
+    },
+    {
+      "source": "少数派",
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+      "url": "https://sspai.com/post/113222",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/113222\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-27T03:01:42+00:00",
+      "fetched_at": "2026-08-27T06:56:43.253217+00:00",
+      "fingerprint": "8c78aff43a562663"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.8286 CNY ↑+0.45%",
+      "url": "https://www.frankfurter.app/2026-08-26?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-08-26</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.8286 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0218 (+0.45%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-08-27T06:56:42.080183+00:00",
+      "fingerprint": "b1e6d09175a082f4"
+    },
     {
       "source": "BBC World News",
       "title": "Mass arrests in global crackdown on West African cyber-crime networks",
@@ -1491,296 +1811,6 @@
       "published_at": null,
       "fetched_at": "2026-08-21T01:01:20.250394+00:00",
       "fingerprint": "3e18713d77a0528f"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-      "summary": "<p>Madrid government changes stance after previously saying anyone who entered territory illegally would be sent back</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/19/europe-ukraine-zelenskyy-mykhailo-fedorov-parliament-vote-corruption-probe-russia-belgium-wildfires-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>The Spanish government has U-turned and said it will allow 500 migrant children in Ceuta to relocate to the mainland.</p><p>The majority of the estimated <a href=\"https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta\">70,000 people who crossed into Ceuta</a> – a Spanish territory on the coast of north Africa – on 30 July have returned to Morocco. However, under Spanish law, the state has a duty of care to young, unaccompanied migrants until they reach the age of 18.</p> <a href=\"https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-19T14:33:24+00:00",
-      "fetched_at": "2026-08-20T00:57:35.277486+00:00",
-      "fingerprint": "7c144bfbce12c799"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
-      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-      "summary": "<p>Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief</p><p>Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.</p><p>Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador’s national intelligence service.</p> <a href=\"https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-19T20:17:39+00:00",
-      "fetched_at": "2026-08-20T00:57:35.277480+00:00",
-      "fingerprint": "6ba06db55cae6a83"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "More than 100 dead after goldmine collapses in Central African Republic",
-      "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "summary": "<p>The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continue</p><p>More than 100 people have died after an artisanal goldmine at a small village in western Central African Republic (CAR) caved in due to a landslide, local officials and aid workers said on Wednesday.</p><p>The landslide happened on Tuesday afternoon in the village of Zamboye, about 50km (31 miles) from the town of Baboua and close to the border of Cameroon. Footage on social media appeared to show an avalanche of sand descend on a group of people, likely the miners, and cover them.</p> <a href=\"https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-20T00:14:17+00:00",
-      "fetched_at": "2026-08-20T00:57:35.277468+00:00",
-      "fingerprint": "1ddef95b35e8e138"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "category": "politics",
-      "published_at": "2026-08-19T20:34:39+00:00",
-      "fetched_at": "2026-08-20T00:57:35.044710+00:00",
-      "fingerprint": "3bc02c64742477d2"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "category": "politics",
-      "published_at": "2026-08-20T00:52:28+00:00",
-      "fetched_at": "2026-08-20T00:57:35.044703+00:00",
-      "fingerprint": "366bbf987e70e2ea"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia's foreign minister says she will summon the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-      "category": "politics",
-      "published_at": "2026-08-20T00:48:57+00:00",
-      "fetched_at": "2026-08-20T00:57:35.044697+00:00",
-      "fingerprint": "257ef6a3f45c71d3"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "category": "politics",
-      "published_at": "2026-08-19T15:33:32+00:00",
-      "fetched_at": "2026-08-20T00:57:35.044688+00:00",
-      "fingerprint": "7a705b4ce5fbb10d"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
-      "category": "politics",
-      "published_at": "2026-08-19T12:47:27+00:00",
-      "fetched_at": "2026-08-20T00:57:34.939418+00:00",
-      "fingerprint": "86cd08c981a30e93"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "《牛來》為何爆紅？觀眾、導演與電影從業者解讀「粗糙」動畫的意外狂歡",
-      "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一部因製作粗糙而被網友嘲笑的中國動畫《牛來》，意外在社交網絡走紅並掀起觀影熱潮，觀眾為何從「玩梗」轉而買票支持？",
-      "category": "politics",
-      "published_at": "2026-08-19T10:33:54+00:00",
-      "fetched_at": "2026-08-20T00:57:34.939412+00:00",
-      "fingerprint": "6c9f209b56bb96fd"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
-      "url": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "從9月15日開始，中國出入境新規將開始實施，不少民眾擔心出境自由受限。但早在新規出台前，從公務員、國企人員到普通民眾，已經有不少人因為各種原因被限制出境。",
-      "category": "politics",
-      "published_at": "2026-08-20T00:07:18+00:00",
-      "fetched_at": "2026-08-20T00:57:34.939401+00:00",
-      "fingerprint": "c17da898eda42d44"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-20T00:57:34.106780+00:00",
-      "fingerprint": "960cbbee1b1e07f6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-20T00:57:34.106675+00:00",
-      "fingerprint": "38ab8230c0c76742"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-20T00:57:34.106556+00:00",
-      "fingerprint": "b106111e9875f086"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-20T00:57:34.106433+00:00",
-      "fingerprint": "a55c0c147a5d5626"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-      "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-20T00:57:34.106301+00:00",
-      "fingerprint": "f43489707895eedb"
-    },
-    {
-      "source": "The Verge",
-      "title": "Watch Valve set up the Steam Frame in its own leaked videos",
-      "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-      "summary": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardware Updates account on X. The Steam Frame is Valve's virtual-reality headset that can stream games [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-19T18:16:27+00:00",
-      "fetched_at": "2026-08-20T00:57:33.851028+00:00",
-      "fingerprint": "3ef5c5cab686fcb7"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-19T19:00:00+00:00",
-      "fetched_at": "2026-08-20T00:57:33.851022+00:00",
-      "fingerprint": "3ce595e677a9ba3c"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nielsen is leaning more on wearables to hear what people are watching",
-      "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
-      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the upcoming fall [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-19T19:53:09+00:00",
-      "fetched_at": "2026-08-20T00:57:33.851015+00:00",
-      "fingerprint": "274675f903e21a2e"
-    },
-    {
-      "source": "The Verge",
-      "title": "Does giving a camera wings dodge the FCC’s drone ban?",
-      "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-      "summary": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-19T22:35:20+00:00",
-      "fetched_at": "2026-08-20T00:57:33.851005+00:00",
-      "fingerprint": "4407db7d6bf22870"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "美债到5%，吓坏了AI投资者",
-      "url": "https://36kr.com/p/3946058108370057?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>近期，美债长端利率显著上行，推动收益率曲线呈现出典型的陡峭化特征。反映在数据上，6月29日~8月17日，10年期与30年期美债利率分别大幅上行34和45个基点（bps），而2年期美债利率在同期仅上行9个基点，期限利差迅速走扩。</p>\n  <p>更值得关注的是，美债利率在经历本轮快速冲高后：30年美债利率已升破5%，不仅超越了疫情后加息周期的高点，而且创下了2004年以来的新高；10年美债利率不仅逼近前高，亦接近2007年次贷危机时的水平。</p>\n  <p>作为全球无风险利率之锚，美债利率的快速上行引发了一轮包括权益、外汇及大宗商品在内的大类资产价格再定价，近期AI产业链的剧烈波动也包含了这一传导逻辑的影响。同时，10年美债利率的定价本身是对全球宏观经济的映射，当前的利率水平亦唤起了投资者对2007年次贷危机的惨痛回忆。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_3bbf01448a4748a396fe4a83efedc739@5426566_oswg48374oswg1028oswg590_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：10年美债利率走势；资料来源：wind，36氪</p>\n  <p>那么，驱动美债利率上行的核心因素都有哪些？美债利率上行如何影响AI链行情？</p>\n  <h2><strong>01 多重因素驱动美债长端利率上行</strong></h2>\n  <p>对于不熟悉债券的投资者，首先需要明确一个基本常识，<strong>即债券利率与资产价格呈反向关系</strong>；因此，美债利率的大幅上行，表明美债价格出现了大幅下挫。从基本面来看，本轮美债利率上行主要受资本市场供需格局的驱动；同时，通胀抬头、货币政策预期收紧等因素亦起到了重要的推动作用。</p>\n  <p>首先，<strong>美国政府的财政扩张及其带来的国债放量发行，是本轮美债长端利率上行的根本性原因</strong>。过去20年，美债总规模持续膨胀，截至2025年末已高达37.6万亿美元，是2000年的5.7万亿的6.6倍；尽管在2020年疫情发行高峰后，美债供给的年增幅回落至近20年以来的中位数水平，但在高基数下，美债实际的规模扩张依然十分迅猛。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_e532f8e0629a4088bc5c9f473cc7fd8b@5426566_oswg23861oswg948oswg650_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：美债总规模与同比增速；资料来源：wind，36氪</p>\n  <p>与此同时，美国财政受减税、刚性支出比例较高等因素的影响，美债的供给预期不弱，也在一定程度上推升了美债利率。<strong>从资产定价的逻辑来看，美债供给量的持续增长，对市场资金产生了明显的稀释作用，美债供给预期的上升，则进一步加剧了美债市场供需失衡的压力。</strong></p>\n  <p>再从需求端来看，美债的主要买家是外国官方机构与美联储，而且近年来美债买家结构的显著变化，放大了美债的价格波动。对于外国官方机构而言，在美国主权信用走弱的背景下，一部分资产配置需求从美债转向黄金、非美主权债券等资产；同时，美联储在上一轮加息周期持续缩表后，减持了大量的美债，沃什上任后若继续缩表，将进一步减持美债。</p>\n  <p>随着美债两大传统买家的持有量显著回落，美债的承接需求不得不大幅转向资本市场中的金融机构，比如银行、养老金、对冲基金、保险等。鉴于不同类型机构对投资收益、风控指标、汇兑成本、投机空间等要素的偏好与容忍度皆有不同，<strong>当商业化主体成为美债重要的接盘方，美债市场的投资策略趋于多元化，美债利率的波动加大也是意料之中的事儿。</strong></p>\n  <p>值得注意的是，<strong>AI链资本开支扩张掀起的一轮发债潮，构成了驱动美债利率上行的一大边际力量</strong>。公开资料显示，亚马逊、Alphabet、Meta、微软、甲骨文五家科技巨头2025年发行的信用债总额超过了1200亿美元；截至2025年10月，AI相关的债券规模已高达1.2万亿美元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_2450bb79ea294784af0ceae7c194cefa@5426566_oswg48249oswg1080oswg611_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：大厂AI相关债务规模；资料来源：华福证券，36氪</p>\n  <p>当前的美债持有人结构中，金融机构占据重要地位，机构投资者与外国官方机构、美联储等美债的传统买家相比，配置需求更偏向投资收益与投机。因此，在AI发债潮的影响下，大批兼备优质信用与高收益的信用债涌入债券市场，与美债形成了一定的竞争关系，故而在有限范围内对美债形成了挤出效应，在边际上推动了美债利率的上行。</p>\n  <p>在宏观与政策层面，<strong>美债长端利率高企本质上反映的是通胀抬头与货币政策收紧预期</strong>。当前美国通胀距离政策目标仍有差距，而且今年以来的通胀反复抬头显示出的韧性，推升了长端利率包含的通胀风险溢价，而美联储货币政策紧盯通胀与就业的双目标制，以及沃什偏鹰的政策倾向，均指向市场正对远期通胀路径与货币紧缩风险进行了再定价。</p>\n  <h2><strong>02 美债利率走高对AI链将产生哪些影响？</strong></h2>\n  <p>就收益率曲线的形态而言，近期美债长端利率冲高推动收益率曲线走向陡峭化；短端利率方面，基于当前沃什偏鹰派的政策取向，短端利率未来依然面临不小的上行压力。一旦加息预期兑现，短端利率将快速上行，驱动收益率曲线转向平坦化，即由所谓的“熊陡”切换到“熊平”。</p>\n  <p>在加息周期中，美债长短端利率双双高企、收益率曲线平坦化，将导致全球无风险定价之锚的中枢出现系统性抬升，由此产生的高利率环境与偏紧的货币政策，将导致全球股票市场集体承压，特别是以AI链为代表的科技股，其持续研发投入与资本开支对融资环境的变化更加敏感，因此受到的影响亦将更加显著。</p>\n  <p>回顾历史，2006~2007年次贷危机爆发前夕，美债收益率曲线在相当长的时间里非常平坦，尽管利率高企与收益率曲线平坦对股市带来了一定的估值压力，但股市真正的调整则发生在危机爆发之后。由此可见，利率高企并非股市转熊的触发器，其核心影响在于持续对股票市场施加估值压力：不仅削弱了高估值资产的性价比，也会更容易刺破拥挤交易，加剧资产价格的波动。</p>\n  <p>再看本轮的AI链牛市，热点主要集中在硬件方面，当前相关企业强劲的业绩与整体向好的预期，是本轮结构性牛市的基本面基础。然而，基于上述论述，美债利率走高对相关标的带来的估值压力难以避免。尤其是存储板块，在前期积累了可观收益与交易一度极端拥挤的背景下，<strong>利率因素导致的估值压力上升是诱发近期行情阶段性调整、获利回吐的重要因素之一。</strong></p>\n  <p>从资产定价的底层逻辑来看，当前AI链所面临的考验与2007年次贷危机前夕局面有着极高的相似性：次贷危机的爆发，始于居民租金的收益率难以支撑美国的高房价泡沫（持有成本）；如今，AI巨头投入天量资本开支，同样依赖下游商业化兑现来实现投资回报的闭环。</p>\n  <p>目前，Anthropic的ARR（年度经常性收入）增长斜率已经明显放缓，这意味现金流无法覆盖高杠杆债务与高估值的矛盾已经开始显现，而利率高企会进一步加剧这两大矛盾。未来，市场可能会依据ARR放缓来重新评估资本开支的力度；<strong>而股票投资者出于次贷危机带来的心理阴影，对AI链相关企业的估值重估则已经反映在当前的资产定价之中了。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_de0a47e9141648b9ac9121981b1cb221@5426566_oswg165089oswg1080oswg618_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：OpenAI与Anthropic的ARR；资料来源：国金证券，36氪</p>\n  <p>此外，美债利率走高也将进一步改变AI大厂的财务行为。为支撑巨额资本开支，大厂们在利率进一步冲高的时间窗口前集中发债、锁定利息是明智之举。受其影响，天量信用债在短期内集中涌入债券市场，挤占了市场存量流动性，加剧了长端利率居高不下的态势，其结果是最终抬高了宏观层面的长期融资门槛，AI链亦将难逃其苦。</p>\n  <p>*免责声明：</p>\n  <p>本文内容仅代表作者看法。</p>\n  <p>市场有风险，投资需谨慎。在任何情况下，本文中的信息或所表述的意见均不构成对任何人的投资建议。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。我们无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。</p>",
-      "category": "tech",
-      "published_at": "2026-08-19T06:20:35+00:00",
-      "fetched_at": "2026-08-20T00:57:33.755075+00:00",
-      "fingerprint": "e14c37bea564ff29"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪研究院 | 2026年中国商业航天产业发展研究报告",
-      "url": "https://36kr.com/p/3946102154951813?f=rss",
-      "summary": "<p>当前，商业航天已成为各国科技竞争的核心赛道，也是中国战略性新兴产业中增长最为活跃的领域之一。经过十余年的产业发展，中国商业航天正从技术验证期迈向规模化运营期。政策层面，商业航天已连续多年被写入政府工作报告，2026年政府工作报告进一步将航空航天纳入“新兴支柱产业”。技术层面，2026年7月10日，长征十号乙完成全球首次海上网系回收验证；2026年8月19日，蓝箭航天朱雀三号遥二成功实现我国首款运载火箭一子级陆地回收试验，推动可重复使用火箭技术加快迈入工程验证深化阶段。与此同时，卫星柔性产线陆续投产，单星制造成本与周期持续下降，产业基础能力稳步夯实。市场层面，卫星遥感、卫星通信等服务已在城市精细化管理、应急服务和公共服务等B/G端场景实现较为深入的应用，并在手机直连卫星、汽车直连卫星等消费领域加速拓展。然而，产业仍面临诸多结构性挑战：运载能力与批产效率等相较国际头部企业仍有差距，核心部件国产化率有待提升，频轨资源“先占先得”的规则进一步放大了产业发展的紧迫性。</p>\n  <p>在此背景下，36氪研究院发布《2026年中国商业航天产业发展研究报告》，系统梳理产业发展脉络与生态格局，深度解析产业链上下游的发展动向，构建涵盖发展潜力、创新能力、商业化能力与资本化能力的四维企业评价体系，并结合典型企业实践，系统研判行业未来发展趋势，旨在为行业参与者提供相对客观、系统、前瞻的研究参考。</p>\n  <h2><strong>中国商业航天由探索验证迈入规模化发展阶段，产业规模与核心能力持续突破</strong></h2>\n  <p>在政策、技术、需求三重驱动之下，中国商业航天产业规模快速增长。根据赛迪数据，2025年中国商业航天市场规模达2.83万亿元，同比增长21.7%，2026年预计将突破3.5万亿元。产业链各环节实现多点突破：火箭发射能力持续提升，根据国家航天局数据，2025年商业发射达50次，创历史新高；卫星制造从“定制化”向“工业化”转型，国内部分头部企业年产能已达百颗级，规模化制造能力初步形成；千帆星座与GW星座加速组网，卫星互联网进入批量部署阶段。全球竞争格局呈现以中美为核心的双极态势，中国依托多元技术路线并行探索，加速缩小与美国的技术差距，并以独特的产业模式与制度优势，加快构建具有国际竞争力的商业航天产业体系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_6560e4b022604f5d88835ffe22751430@6292127_oswg36977oswg1083oswg394_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>中国商业航天产业正加快形成核心部件自主供给、航天器规模交付与卫星应用协同发展的产业生态</strong></h2>\n  <p>商业航天产业链各环节正协同推进。上游核心部件正从单件突破走向国产化、标准化与批量供给：液体火箭发动机供给进入专业化产线建设阶段，航天电子器件实施分级替代策略，复合材料与增材制造推动航天器轻量化，通信载荷与用户终端向高集成、低功耗方向发展。中游环节聚焦规模化交付能力建设：可重复使用火箭技术取得实质性突破，长征十号乙完成全球首次海上网系回收，朱雀三号遥二成功完成我国首款运载火箭一子级陆地回收试验，工程验证重点正从单次回收向回收子级复飞与高频运营延伸；卫星制造加速向标准化、模块化与柔性产线转型；海南商业航天发射场常态化投用，单工位周转效率持续提升，为高频次发射提供基础设施保障。下游应用端，低轨卫星互联网进入持续组网阶段，规模部署正带动星箭场协同扩容；北斗高精度服务向终端、平台与运营体系延伸，已在精准农业等垂直场景实现规模化应用；遥感服务供给持续扩张，AI智能解译大幅提升数据应用效率，大规模星座为遥感服务跨行业复制和商业化运营提供基础。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_a71814e8e3554d5889074d88a23813d4@6292127_oswg74166oswg1083oswg512_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>国家队与民企多主体竞合格局加速成型，资本与产业资源向头部城市和企业集中</strong></h2>\n  <p>商业航天市场参与者加速涌入，国家队与民营企业协同创新，形成“国家队引领、民企深耕”的多主体竞合共生格局。区域层面，京津冀、长三角、大湾区、西部四大产业带与特色产业集群功能互补，初步形成从研发制造到应用服务的空间框架。资本市场方面，一级市场融资持续活跃，据相关统计，2026年上半年融资总额超150亿元，资金高度集中于火箭发射与卫星制造赛道，并加速向头部城市及企业集中。同时，国资参与度在过去一年从41%跃升至59.8%，成为一级市场重要资金来源。二级市场方面，随着IPO政策窗口明显拓宽，商业航天企业资本化进程提速，产业梯队分化进一步加剧。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_1b6692a68b9146cb9595ffea08eafe33@6292127_oswg216432oswg1168oswg813_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>“4+15+27”评价体系推动企业竞争力走向量化验证</strong></h2>\n  <p>36氪研究院针对商业航天高技术壁垒、长周期投入、强资本驱动的产业特征，构建了覆盖发展潜力、创新能力、商业化能力与资本化能力四个维度的“4+15+27”企业竞争力评价指标体系（即4个一级指标、15个二级指标、27个三级指标）。指标体系遵循全面性与聚焦性并重、行业特征与分类可比兼顾、标准化与可验证兼顾、现实表现与前瞻价值结合四项原则，旨在以量化方式呈现企业的综合竞争力、能力结构与发展阶段，为产业研究、企业对标、投资判断和政策评估提供相对统一的分析框架。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_fa89d68ad1ed4c44a1d1c69c77c000f6@6292127_oswg82362oswg1067oswg1523_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>未来，太空算力、在轨服务与制度完善将共同拓展商业航天产业边界</strong></h2>\n  <p>中国商业航天产业正沿算力扩容、业态升级与产业成熟三大方向演进。太空智算将推动部分数据处理任务由地面前移至卫星端，未来卫星可在轨完成数据筛选、目标识别和智能推理，有效缩短遥感监测和应急响应链路，提高星地通信资源的利用效率。返回式实验平台有望在短期内率先形成商业化服务能力；中期来看，随着星座资产扩张，在轨检查、燃料补加、部件维修与碎片清除等专业服务需求将持续释放；长期而言，商业载人活动与地外资源利用将进一步拓展太空经济边界。未来，商业航天将形成覆盖技术研发、生产试验、发射运行和数据应用的全生命周期治理体系，公共试验和中试平台将降低企业技术验证门槛，国际化运营将进一步扩大商业航天软基础设施的能力边界，中国有望形成具有全球影响力的商业航天发展路径。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_856c4480e73e49f998f15c6ba89852e7@6292127_oswg79170oswg1132oswg534_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>本报告就如下重点问题进行研究：</strong></p>\n  <ul>\n   <li>中国商业航天产业经历了怎样的发展路径？当前处于何种发展阶段？</li>\n   <li>推动中国商业航天产业发展的核心驱动力有哪些？</li>\n   <li>全球商业航天竞争格局呈现怎样的态势？中美之间的技术差距与差异化发展路径体现在哪些维度？</li>\n   <li>商业航天产业链上游、中游、下游各环节分别呈现哪些结构特征与发展新动向？</li>\n   <li>核心部件国产化、火箭回收复用、卫星批量制造等关键领域取得了哪些突破？面临哪些瓶颈？</li>\n   <li>中国商业航天的市场格局呈现怎样的特征？产业区域分布呈现怎样的空间格局？</li>\n   <li>商业航天一级市场融资结构与资本流向呈现哪些变化？</li>\n   <li>商业航天企业IPO的驱动因素有哪些？当前资本化进程呈现怎样的特征？</li>\n   <li>“4+15+27”评价体系如何刻画商业航天企业综合竞争力？有哪些典型代表性企业？</li>\n   <li>面向未来，中国商业航天产业将沿哪些方向演进？商业航天产业边界如何拓展？</li>\n  </ul>\n  <p>&nbsp;</p>\n  <p>更多精彩内容，详见《2026年中国商业航天产业发展研究报告》，点击<a href=\"https://pan.baidu.com/s/1nW8lNjWRZ5vswUCkraZoxA?pwd=gjxw\" rel=\"noopener noreferrer\" target=\"_blank\">下载链接</a>，提取码：gjxw</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_7efd7411aaba45e3878d0ac209b151a5@6292127_oswg5584102oswg3570oswg5052_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_821ccfa62abd4baeb739f1722fef59c7@6292127_oswg1680488oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_3b619dc855eb469aa90cbfd8b4f17386@6292127_oswg611920oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_8a3eabbcfd5f4ddd94e3d17fa4db466a@6292127_oswg395434oswg3570oswg5052_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_12ad88225248412cbce3f3ebb53ffa24@6292127_oswg1499830oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_21956757d6fc40bc98b8db394c6a7285@6292127_oswg2062683oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_5feb3f3cb9b14dc8a15cb041be7e3441@6292127_oswg2085186oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_9b3c23763e1c4f249b25ae9776e9381a@6292127_oswg2001830oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_ca3a568513024bd7a2800c538b0d3d2f@6292127_oswg1937369oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_0c03032da64a4b2f9433080b7057bdcd@6292127_oswg1622998oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_543e5028b85a4ffabbf3f89db5858ddc@6292127_oswg1703680oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_59f83f25dcd1465bb9929e77e4fae70e@6292127_oswg1659765oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_f77ce07785ca4759a9eaa68e9af112df@6292127_oswg1859952oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_9df3a1f7a6c84a4aa7a6b7ad11ad0e47@6292127_oswg359241oswg3570oswg5052_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_daf37947e96d44ed953eabcf08d762b8@6292127_oswg3815863oswg3570oswg5052_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_34e8c5f09d9b4aa58f47f93046114e18@6292127_oswg1862370oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_e055b0c18ecb4d10a7eb398ad140e29d@6292127_oswg1729995oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_9737b76b4c574f9fba602cb98839d505@6292127_oswg1711049oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_aea7f938223248f39a3d1cd428d5ad04@6292127_oswg1728228oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_0342cf491b5d450685abb75f10d5b506@6292127_oswg1785345oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_9bc6c5b964ba4519bf4e6281498ce36c@6292127_oswg1624425oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_f92972e4a2a041e4bd0a8406e8e5b803@6292127_oswg1705206oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_96033a3c3a8c4c5faaa52c1d8d30ae31@6292127_oswg1582989oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_242703ad1eb74cf79a1e3cf6abc360d8@6292127_oswg1773554oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_a7f83c1f97544bf496052950f7270515@6292127_oswg1794959oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_8ad2373859e94bcdb9322bc59c0e933d@6292127_oswg1788895oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_7214e7b00b34408e9223490b02fb2914@6292127_oswg356038oswg3570oswg5052_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_c631326a2c784735b6b9ed213c1b1e23@6292127_oswg1630834oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_c602c3ff844840da979c86547fd8600a@6292127_oswg1902795oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_02203004b27f46e8a017c4913aaedcb4@6292127_oswg1764845oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_9e792aca5bd74d9a890737fd8712fb6d@6292127_oswg2827962oswg3570oswg5052_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_ef4f8c21a6754446afae536082bc1f7c@6292127_oswg2433113oswg3570oswg5052_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_65d5542730f246f6b24841b08b77ca00@6292127_oswg1486776oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_3a58180531d3461e818c2c9c8402ecae@6292127_oswg1829141oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_decc5aea6b09479fa0eb3e99b107fd28@6292127_oswg1554774oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_fb3f6fbca74d40f89acaccf51eececb1@6292127_oswg1837969oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_8308f093930a454f85515dc6e7ad4fd9@6292127_oswg1442430oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_69490b73cd9d400baa5e5ec125fe9f3f@6292127_oswg392034oswg3570oswg5052_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_df96518d677c42aeb4afd9580607a48d@6292127_oswg1819676oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_6b8566f40107425bb9642031bb29e760@6292127_oswg1339472oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_8f10a3c9466247ee804cd153139f1b13@6292127_oswg1726007oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_fb525108a6d549e89ceda0e8baf24a3c@6292127_oswg1923069oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_be8f821454fd41a5aa82092265bde97d@6292127_oswg1671903oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_8e6d7b0e45f847b69599f082b1c69fc4@6292127_oswg1680897oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_2f63afe92ded47b7a05ae20be571aa49@6292127_oswg1846359oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_5c0dbbfa6697494fae633870542b5759@6292127_oswg2034424oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_fd40cad5c58f44b088f131336b1c913a@6292127_oswg2110098oswg3570oswg5052_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_162423bce38a4b33b0d77cf1966e5def@6292127_oswg2070672oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_2a8548f2f2554dde9f7f780c4d9767e1@6292127_oswg2049497oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_80d3ba7e1b244b87b644875b037425a9@6292127_oswg1744336oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_9396a6e1aa294968965732e3b6711d4e@6292127_oswg1844347oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_c73a6b5d59154ea1bb906496e25b440d@6292127_oswg1727205oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_f141861b53794ceba92b950c926d6e13@6292127_oswg1928336oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_0cf78de50092414d9a740562eb5d61e9@6292127_oswg1711812oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_be0a1053de7d4a94b2363c896c554a27@6292127_oswg1864186oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_ec62e26e86364d39a4dee83ee1e3a457@6292127_oswg1904665oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_6c892bbeb83647f88e7fc625728fd126@6292127_oswg2222332oswg3570oswg5052_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_5e3b577f3cc14623b80fca1fcb13868e@6292127_oswg2674301oswg3570oswg5052_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_095fd4bdd6b847958ab545275f5257d3@6292127_oswg2134907oswg3570oswg5052_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_81e53e6d08a4436ba3e73a717c6cf4af@6292127_oswg355679oswg3570oswg5052_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_3c5f75444b3547af95239a7b84c64eb3@6292127_oswg1675329oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_e192e9bcd40d4843a337beb3c5cc9e56@6292127_oswg1707100oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_db7d73d9b7c64bc799c3099b3f3c834b@6292127_oswg1802146oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_ed0a452387284da38dfc52f9e4c1b861@6292127_oswg1436871oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_cd9efcb918b04f64829cc003d2d56f2c@6292127_oswg1003787oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_dd2b3f53f17c40a684c118bdaabd7e68@6292127_oswg518191oswg3570oswg5052_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-19T08:30:00+00:00",
-      "fetched_at": "2026-08-20T00:57:33.755069+00:00",
-      "fingerprint": "021518f9dc639184"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从矿山到动力电池｜清研精准第二个具身智能垂类中试场景落地",
-      "url": "https://36kr.com/p/3946264412339335?f=rss",
-      "summary": "<p>开展首日，清研精准将动力电池真实生产场景“搬到”展会现场，集中呈现汽车电池包接插件插拔、零部件抓取与装配等典型任务。这是继榆林矿用场景之后，清研精准落地的第二个具身智能垂类中试场景，标志着其工程化能力开始从矿山向汽车与新能源制造领域跨场景复制。目前，该场景已在某头部动力电池厂商实现规模化数据采集，并打通从真实数采、数据治理、仿真验证到模型训练与真机应用的完整闭环。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_9ef8bd54b9a14041a5e02a00c8c0827d@5284654_oswg997626oswg1271oswg708_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">|清研精准已在头部动力电池厂实现真实场景规模化落地</p>\n  <h2><strong>01聚焦动力电池，还原真实工业任务</strong></h2>\n  <p>现场设置动力电池场景落地展示、虚拟仿真互动体验、跨场景复刻与实景实训三大板块。观众可以近距离观察机器人执行接插件插拔、零部件抓取与装配，也可以通过虚拟仿真了解真实任务如何被数字化复现，以及机器人操作能力如何从数据采集、虚拟训练逐步走向真机执行。</p>\n  <p>此次展示并非单一的机器人动作演示，而是对具身智能进入真实工业场景所需完整能力链条的集中呈现。</p>\n  <h2><strong>02从数据到真机的工程闭环</strong></h2>\n  <p>在动力电池场景中，清研精准重点展示了五个方面的能力：</p>\n  <p>一是<strong>真实场景数据采集与处理能力</strong>。围绕电池包接插件插拔、零部件抓取与装配等任务，采集操作过程、场景环境和物体状态等数据，并完成数据清洗、整理与后处理。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_d20571e4800d44e4a81c4f0cf27f547e@5284654_oswg1009450oswg1268oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片2</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_5bd9d8e4a1d747cbbceab78703e2e44a@5284654_oswg1233696oswg1268oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片3</p>\n  <p>二是<strong>数字孪生与场景复刻能力</strong>。将真实设备、工序和操作对象映射到虚拟环境，在数字空间中复现动力电池典型任务，为机器人训练和验证提供基础。</p>\n  <p>三是<strong>仿真推演与虚实同步验证能力</strong>。通过虚拟仿真扩展不同任务状态和操作条件，并将虚拟环境中的训练结果与真机操作进行对照，持续识别和缩小虚实差异。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_e1a4196cce3f44c0835d7a0900cf0025@5284654_oswg601989oswg1725oswg654_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片4</p>\n  <p>四是<strong>灵巧操作与动作映射能力</strong>。通过操作数据采集及与三指灵巧手的同步映射，推动机器人完成接近、对位、抓取、插拔和装配等连续动作。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260819/v2_146d311134c84abea475b48f7077adc2@5284654_oswg1127749oswg1268oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图5</p>\n  <p>五是<strong>中试验证与现场接管能力</strong>。在进入实际生产环境前，对数据、模型、设备和任务流程进行反复训练与评测，再将经过验证的能力接入真机，并根据执行结果持续迭代。</p>\n  <h2><strong>03从第一站到第二站，验证跨场景复制能力</strong></h2>\n  <p>此前，清研精准首个具身智能垂类中试场景已在榆林矿用场景落地，形成从真实数据采集、数据治理、仿真训练、中试验证到现场部署的工程闭环。</p>\n  <p>此次动力电池场景落地，是清研精准对这套工程化能力的再次验证。从矿山到动力电池，作业环境、操作对象和具体工序发生了变化，但背后的落地路径保持一致：从真实产业需求中选择任务点，完成场景与设备标定，采集真实操作数据，开展数据治理、仿真验证，再将经过训练与评测的能力接入真机，并通过现场反馈持续迭代。</p>\n  <p>清研精准所强调的“跨场景复制”，并不是将同一个模型不经适配直接应用于不同产业，而是复用已经形成的数据工具、仿真平台、中试流程和工程经验，再根据新的场景与任务完成针对性适配和验证。</p>\n  <h2><strong>04持续建设工业具身智能基础设施</strong></h2>\n  <p>清研精准由清华大学孵化，是一家面向具身智能垂类场景规模化落地的物理AI企业。依托八年来在自动驾驶、新能源及工业领域的数据积累与工程实践，公司构建了“具身数据引擎、场景仿真验证工具链、垂类世界模型”三位一体的核心能力，贯通真实数采、数据治理、合成数据、仿真推演、验证评测与模型迭代全链路。</p>\n  <p>目前，清研精准解决方案已落地全球30多个国家，覆盖新能源整车、动力电池、储能、核心零部件、矿山、电力等领域，深度服务百余家头部企业。</p>\n  <p>从首个矿用场景到第二个动力电池场景，清研精准正在通过一个个真实垂类场景，持续验证具身智能工程化落地与跨场景复制能力，推动机器人从算法和演示走向真实工业任务。未来，公司将持续完善工业具身智能基础设施，构建“一套底座、一个模型、百个垂类场景应用”的物理AI体系，加速具身智能在更多产业场景中的规模化、产业化落地。</p>",
-      "category": "tech",
-      "published_at": "2026-08-19T09:48:10+00:00",
-      "fetched_at": "2026-08-20T00:57:33.755063+00:00",
-      "fingerprint": "f180ae83afb0cd8e"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "氪星晚报｜台积电先进封装CoWoS产能供不应求，订单爆满；小米新一代人形机器人剧透：双足、1.7米左右、全身66个自由度；《全民医疗保障“十五五”规划》发布",
-      "url": "https://36kr.com/p/3946071336287361?f=rss",
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3946136565890185\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>消息称三星电子目标今年9月率先完成1d nm DRAM内存研发</strong></a></p>\n  <p>据TheBell，近日，据业内人士透露，三星电子目标2026年9月率先完成1d nm DRAM内存研发，2026年12月进入量产转移阶段，2027年上半年启动生产线建设，有望2027年底实现首批量产。（财联社）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3946045509336193\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>台积电先进封装CoWoS产能供不应求，订单爆满</strong></a></p>\n  <p>据台湾经济日报报道，台积电先进封装CoWoS产能供不应求，订单爆满。传先进封装后段部分订单外溢到英特尔旗下马来西亚厂，以部分产能合作支持，服务共同大客户，打破过往生态系惯例。除了有利台积电前段先进制程出货，法人也看好，与两大业者重叠的供应链日月光投控、载板龙头欣兴、家登集团等可望同步沾光。业界8月18日指出，全球先进封装产能瓶颈在后段放量速度低于前段制程，预期台积电对更多供应厂商加入后段的产能乐见其成，可让前段制程加速出货。（财联社）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3946069994208385\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>鸿海加码越南、墨西哥子公司，或扩增CPO、AI服务器产能</strong></a></p>\n  <p>据台湾经济日报，鸿海昨日公告，增资越南子公司3.584亿美元（约新台币114.75亿元），外界推测是扩增CPO产能；同步公告增资墨西哥子公司4.6亿墨西哥披索（约新台币8.59亿元），外界推测主要是扩增AI服务器产能。（财联社）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3946084542545283\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>小米新一代人形机器人剧透：双足、1.7米左右、全身66个自由度</strong></a></p>\n  <p>从小米方面了解到，小米即将首次展示的下一代人形机器人身高约为1.70米，体重66公斤，全身有66个自由度，其中一半自由度集中在手部。目前，该款机器人为样机阶段，国内首展后会在欧洲展出。2022年，小米发布全尺寸人形机器人“铁大”，比特斯拉Optimus原型机亮相早了近两个月。铁大身高1.77米，体重52公斤，拥有21个关节自由度。此后小米少有机器人方面的消息露出。（每经网）</p>\n  <h2><strong>新产品：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3946082910125446\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Cerebras推出CS-4系统对标英伟达，称其推理速度可达GPU服务器的30倍</strong></a></p>\n  <p>AI芯片公司Cerebras System于当地时间周二发布了全新机架式AI系统CS-4，该公司称，CS-4系统在单用户场景下，每秒输出token的能力可达传统GPU服务器的30倍。Cerebras CS-4内置3颗WSE-3 Turbo晶圆级处理器。公司表示，WSE-3 Turbo是迄今为止规模最大的AI处理器，集成了4万亿个晶体管。业内指出，这套系统面向AI推理，而非模型训练。它采用静态随机存取存储器（SRAM），而非行业常用的动态随机存取存储器（DRAM）。（财联社）</p>\n  <h2><strong>投融资：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3946121529408899\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>AI芯片创企Etched融资7亿美元，近一个月估值翻番至210亿美元</strong></a></p>\n  <p>当地时间8月18日，AI芯片创企Etched宣布完成7亿美元新一轮融资，公司估值达210亿美元。本轮融资由简街领投，凯鹏华盈、红杉资本、a16z、Tiger Global、贝恩资本风险投资公司、Neo、Primary、Stripes、Positive Sum和黑石等跟投。Etched同时宣布简街成为其首位客户。此前，Etched在上月完成C轮融资，当时公司估值为103亿美元。（界面）</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3946008105614472\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>北京火箭大街商业航天智能测运控中心正式启用</strong></a></p>\n  <p>36氪获悉，据北京亦庄微信公众号消息，8月19日，朱雀三号重复使用运载火箭在东风商业航天创新试验区成功将“鸿鹄03星”送入预定轨道，并完成我国首次运载火箭一子级陆地支腿回收。在距离发射场1000多公里的北京亦庄，全国首个开放式商业航天测运控共享平台——北京火箭大街商业航天智能测运控中心于当天正式启用，并开展了此次历史性发射任务的全过程星、箭测控，实现了“亦庄箭、亦庄星、亦庄测”。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3945921710636419\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>《全民医疗保障“十五五”规划》发布</strong></a></p>\n  <p>国家医保局今天（19日）发布《全面医疗保障“十五五”规划》。“十五五”期间基本医疗保险参保率每年保持在95%左右；长期护理保险制度覆盖所有统筹地区；基本医疗���险目录内住院费用基金支付比例职工基本医疗保险稳定在80%左右，城乡居民基本医疗保险稳定在70%左右；即时结算基本医疗保险基金支出覆盖率从2025年的70%左右提高到80%以上；所有统筹地区将实现生育津贴直接发放到个人。（央视新闻）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3945901753187463\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>嫦娥七号计划近日择机实施发射，器箭组合体完成垂直转运</strong></a></p>\n  <p>嫦娥七号探测器和长征五号遥十四运载火箭在中国文昌航天发射场完成技术区相关工作，器箭组合体19日上午垂直转运至发射区。据中国载人航天工程办公室介绍，嫦娥七号探测器、长征五号遥十四运载火箭分别于4月、7月运抵发射场，先后完成了总装、测试等准备工作。目前，发射场设施设备状态良好，后续将按计划开展发射前各项功能检查、联合测试、推进剂加注等工作，计划近日择机实施发射。（新华社）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3946176175422848\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>上海：推进第六代移动通信技术（6G）试��网实现智能协同并部署商用</strong></a></p>\n  <p>36氪获悉，上海市人民政府办公厅印发《上海市“数字上海”建设“十五五”规划》。其中提出，加快推动“双万兆城市”建设，推动50吉比特无源光网络在重点场景规模部署，增强型第五代移动通信技术（5G-A）实现中心城区及郊区重点区域覆盖，300米以下低空公共航路实现移动通信网络全线覆盖，率先规模部署通感一体基站。推动海域网络实现近海30公里第五代移动通信技术（5G）覆盖，探索“基站上船”“船间中继”模式。推进卫星互联网实现“千帆星座”规模组网并部署商用。推进第六代移动通信技术（6G）试验网实现智能协同并部署商用。规模部署低空智联网、城市物联网。加快量子通信技术研发和设施布局。深化互联网第六版协议技术（IPv6）创新和融合应用。</p>",
-      "category": "tech",
-      "published_at": "2026-08-19T12:08:59+00:00",
-      "fetched_at": "2026-08-20T00:57:33.755054+00:00",
-      "fingerprint": "a62e8d14d61d7867"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨买火车票放零食被要求让座，12306回应；宇树科技上市庆功照流出；章子怡套现3个亿",
-      "url": "https://36kr.com/p/3947086287158404?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>智谱：GLM-5.3 API即日起正式上线</li>\n   <li>宇树创始人王兴兴身家超1300亿</li>\n   <li>2026七夕档票房破亿</li>\n   <li>迪士尼与旗下美国广播公司起诉美联邦通讯委员会</li>\n   <li>比尔盖茨名下豪华度假村因维护不善面临1亿美元索赔</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>2个人买3张火车票放零食占座，被无座乘客要求让座，12306回应</strong></p>\n  <p>8月18日，据媒体报道，两个小女孩买了三张火车硬座票，旁边的一名无座女乘客想坐，商量无果找来列车员调解。女乘客：“大家都在一个车上，互相体谅对不对。”列车员：“座位是她们的，跟我说没用。” 随后，“买票占座放零食这座位能让吗”话题登上热搜，引发关注热议。部分网友表示，买了票不让也正常，也有部分网友疑惑：2个人买3张票，不是本人座位是否有处置权？</p>\n  <p>8月19日，万维视频致电12306官方热线，接线工作人员表示，正常情况下1个人只能买1张票，因此此类情况需看该座位车票是不是本人名下的，如是本人名下的，则需要依据本人意愿协商处理。针对网友疑惑的2人买3张票是否有处置权的问题，该工作人员进一步解释称，乘客购买了几个人的车票，那么这几张票都是属于购票者范畴内的，其他人要使用座位的话，也需要征求本人同意的。（万唯视频）</p>\n  <p><strong>宇树科技上市庆功照流出，“投资教父”沈南鹏、王力宏露面</strong></p>\n  <p>8月19日，“A股人形机器人第一股”宇树科技正式在科创板挂牌上市。截至当日收盘，宇树科技涨460.34%，报845元/股。上市后，宇树科技举办上市后答谢午宴。据了解，宇树科技董事长王兴兴、中国“投资教父”沈南鹏以及歌手王力宏露面。流出的现场照片显示，王力宏坐1号桌，并与沈南鹏相谈甚欢。目前，宇树科技对此暂无回应。红杉中国通过宁波红杉、厦门雅恒合计持有宇树科技2589.95万股，发行后持股比例为6.4%。以当日收盘价市值3417.72亿元计算，其持有市值约219亿元。（新浪科技）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260820/v2_0c6d6d877f06487682ed9abfc6860d03@1200352198_oswg667392oswg690oswg789_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片：新浪科技</p>\n  <p><strong>章子怡套现3个亿</strong></p>\n  <p>4年间，演员章子怡投的几百万，变成了3个亿。8月11日晚间，港股上市公司上美股份（02145.HK）发布公告，拟通过全资附属公司上海青道收购上海怡页生物科技有限公司合计29%的股权，交易总代价约3.84亿元。其中，知名演员章子怡控股的共青城大脚投资合伙企业（有限合伙）出售所持上海怡页23%股权，对价约3.045亿元；上美股份副总裁刘明出售所持6%股权，对价约7943.96万元。</p>\n  <p>据天眼查信息，共青城大脚投资合伙企业 (有限合伙) 成立于2018年，位于江西省九江市，是一家以从事商务服务业为主的企业。企业注册资本300万人民币。大脚投资由章子怡持股99%、其父章元孝持股1%。此次交易完成后，上美股份对上海怡页的直接持股比例将由51%提升至80%，章子怡仍保留约6%股权，刘明保留5%股权。上美股份在公告中明确，交易完成后，大脚投资仍持有上海怡页约6%股权，章子怡品牌联合创始人身份不变，并继续担任“newpage 一页”品牌代言人。（界面新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Anthropic业绩反超OpenAI，增速远超行业预期</strong></p>\n  <p>OpenAI的增长势头正遭遇严峻考验。这家ChatGPT的开发商二季度收入环比增幅仅为18%，不仅令部分投资者失望，更在与竞争对手Anthropic的对比中相形见绌——后者同期收入不仅超过OpenAI，增速更是远超行业预期。</p>\n  <p>8月19日，据华尔街日报援引知情人士报道，OpenAI二季度收入为67亿美元，较一季度的57亿美元增长18%，与此同时运营亏损进一步扩大，令公司在备受期待的IPO前景上蒙上阴影。相比之下，Anthropic同期收入超过115亿美元，不仅环比增幅逾140%，更是首次在季度收入上超越这家成立更早的竞争对手，并实现小幅运营盈利。ChatGPT增长放缓、Anthropic旗下编程工具Claude Code大获成功，正迫使OpenAI重新审视其商业策略并重组管理团队。OpenAI方面则向投资者表示，随着7月份一批新模型的发布，公司增速已在三季度有所回升。（华尔街见闻）</p>\n  <p><strong>Cerebras推出CS-4系统对标英伟达，称其推理速度可达GPU服务器的30倍</strong></p>\n  <p>AI芯片公司Cerebras System于当地时间8月18日发布了全新机架式AI系统CS-4，该公司称，CS-4系统在单用户场景下，每秒输出token的能力可达传统GPU服务器的30倍。Cerebras CS-4内置3颗WSE-3 Turbo晶圆级处理器。公司表示，WSE-3 Turbo是迄今为止规模最大的AI处理器，集成了4万亿个晶体管。业内指出，这套系统面向AI推理，而非模型训练。它采用静态随机存取存储器（SRAM），而非行业常用的动态随机存取存储器（DRAM）。（财联社）</p>\n  <p><strong>智谱：GLM-5.3 API即日起正式上线</strong></p>\n  <p>36氪获悉，据智谱消息，GLM-5.3 API 8月19日起正式上线。模型擅长复杂编码、防御性网络安全以及长程任务。目前，GLM-5.3已接入ZCode等编码平台，并纳入GLM Coding Plan。API已开放调用，定价与GLM-5.2保持不变。模型权重将于下8月28日开源。</p>\n  <p><strong>美国多州收紧数据中心建设，AI扩张面临监管压力</strong></p>\n  <p>美国宾夕法尼亚州州长乔什·沙皮罗发布行政命令，对数据中心建设实施严格限制，要求项目先获得地方政府批准，才能申请州级许可，并需遵守节水标准、承担新增用电成本及解决自身电力供应问题。沙皮罗表示，大量数据中心项目涌入宾州，其中部分开发商忽视当地社区利益。随着AI投资快速增长，美国多州开始限制数据中心扩张，以应对电力、环保和社区压力。纽约州已推动大型数据中心环境许可最长暂停一年；长期支持数据中心发展的得州州长格雷格·阿博特也暂停部分新项目审批并展开审查。（新浪财经）</p>\n  <p><strong>OpenAI在模型逃逸入侵事件后暂停强化训练两周，并公布新的安全措施</strong></p>\n  <p>OpenAI8月18日表示，在7月份其AI模型从受控测试环境中失控并入侵人工智能公司Hugging Face及其他四个未具名服务的系统后，已暂停了部分AI训练工作两周。该公司还公布了新的操作规范，称此举旨在防止未来训练过程中出现AI模型失控的情况。该公司表示，部分AI训练工作——包括其“计划中规模最大的前沿强化学习训练”——目前仍处于暂停状态，而小规模的训练和评估仍在继续。同时，其他面向客户的产品研发和相关工作也在持续推进。（新浪财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>宇树创始人王兴兴身家超1300亿</strong></p>\n  <p>8月19日，宇树科技正式登陆科创板，开盘大涨629.44%报1100元/股，总市值达4449亿元。以150.80元/股的发行价计算，中一签可赚47.46万元。 招股书显示：创始人王兴兴直接持股21.43%，通过员工持股平台间接持股9.84%，合计31.29%。以此计算，创始人王兴兴身家超1300亿元。（每日经济新闻）</p>\n  <p><strong>梁文锋打新宇树科技浮盈11亿</strong></p>\n  <p>8月19日，宇树科技正式登陆科创板，开盘大涨629.44%报1100元/股，总市值达4449亿元。以150.80元/股的发行价计算，中一签可赚47.46万元。此次作为“杭州六小龙”之一的宇树科技上市，背后股东可谓明星云集。梁文锋旗下深度求索、幻方量化和九章资产通过战略配售、网下打新合计获配约119.16万股。以发行价计算，梁文锋打新宇树科技浮盈超11亿元。（中新经纬）</p>\n  <p><strong>雷军打新宇树科技狂赚152亿</strong></p>\n  <p>8月19日，宇树科技正式登陆科创板，开盘大涨629.44%报1100元/股，总市值达4449亿元。以150.80元/股的发行价计算，中一签可赚47.46万元。此次作为“杭州六小龙”之一的宇树科技上市，背后股东可谓明星云集。经梳理发现，雷军创办的顺为资本关联方Astrend IV持有1610.6万股，浮盈超152亿元。（中新经纬）</p>\n  <p><strong>美股三大指数集体收涨，特斯拉涨超4%</strong></p>\n  <p>36氪获悉，8月19日收盘，美股三大指数集体上涨，纳指涨0.16%，道指涨0.22%，标普500指数涨0.21%。纳斯达克生物科技指数大涨6.4%，创下六年来最大涨幅；Moderna涨超176%，默沙东涨超12%。大型科技股多数上涨，特斯拉涨超4%，奈飞涨超3%，亚马逊、苹果涨超2%，微软、Meta、谷歌小幅上涨；英伟达跌近1%。热门中概股涨多跌少，理想汽车、名创优品涨超4%，拼多多涨超3%，腾讯音乐、百度、小鹏集团涨超2%，哔哩哔哩、京东、老虎证券、蔚来涨超1%；爱奇艺跌超8%，微博跌超1%。</p>\n  <p><strong>京东发布机器人战略</strong></p>\n  <p>36氪获悉，据京东黑板报，2026世界机器人大会上，京东出任WRC全球战略合作伙伴，并重磅发布机器人战略布局，立足供应链、服务、技术三大维度，明确在机器人领域的发展规划。供应链层面，截至2028年，京东将在机器人领域投入百亿资源，助力100个品牌独立销售额破10亿。服务层面，未来5年，京东将建立覆盖全球超100个国家的售后服务能力，创造超10万名机器人售后服务工程师新就业岗位；建立80个RoboBase机器人基地，打造机器人全生命周期服务平台。技术层面，京东附身智能JoyInside加速打造 “AI Home” 智能生态，预计年内实现包含机器人产品在内的超千万终端设备接入。</p>\n  <p><strong>多地宣布调整最低工资标准</strong></p>\n  <p>近期，多地宣布今年起上调最低工资标准。日前，广东省人民政府印发《关于调整我省最低工资标准的通知》，决定从2026年9月1日起调整提高月最低工资标准和非全日制小时最低工资标准。此次调整后全省分为三类标准。</p>\n  <p>其中，广州、深圳执行一类标准，广州市调整为2680元/月，深圳市调整为2700元/月，对应的非全日制小时最低工资标准均为25.4元/小时。二类标准调整为2300元/月，执行地区为珠海、佛山、东莞、中山，对应的非全日制小时最低工资标准为21.9元/小时。三类标准调整为2040元/月，执行地区为汕头、韶关、河源、梅州、惠州、汕尾、江门、阳江、湛江、茂名、肇庆、清远、潮州、揭阳、云浮，对应的非全日制小时最低工资标准为20.2元/小时。</p>\n  <p>山西从10月1日起提高最低工资标准。此次调整后，山西省全日制用工月最低工资标准划分为三档，一类地区2350元、二类地区2250元、三类地区2150元。同步上调小时最低工资标准，全日制用工小时最低工资标准依次为一类13.5元、二类12.9元、三类12.4元；非全日制用工小时最低工资标准依次为一类25.3元、二类24.2元、三类23.3元。</p>\n  <p>根据新疆人社微信公众号，《关于调整新疆维吾尔自治区最低工资标准的通知》显示，调整自治区最低工资标准，调整后的最低工资标准于2026年10月1日起执行。此次调整后，全日制用工的月最低工资标准三个档次分别为2270元、2080元、1930元。非全日制用工的小时最低工资标准，3个档次分别为22.7元、20.8元、19.3元。根据《最低工资规定》，省、自治区、直辖市范围内的不同行政区域可以有不同的最低工资标准。厦门大学经济学系副教授丁长发说，不同地区的经济发展和收入存在明显差异，因此最低工资标准也会有所不同。（第一财经）</p>\n  <p><strong>宇树科技今年成立两家新公司</strong></p>\n  <p>36氪获悉，据媒体报道，8月19日，宇树科技高开629%，报1100元，单签收益为47.46万元，总市值达4449亿元。天眼查App显示，宇树科技股份有限公司成立于2016年8月，注册资本约3.6亿人民币，法定代表人为王兴兴，经营范围包括智能机器人的研发、智能机器人销售、工业机器人制造等，由王兴兴、汉海信息技术（上海）有限公司等共同持股。对外投资信息显示，今年以来，该公司已成立上海拓天智联科技有限公司、杭州宇树星盟科技有限公司。</p>\n  <p><strong>iPhone18发布会或定档9月9日</strong></p>\n  <p>一年一度的苹果秋季发���会时间或许来了。据外媒报道，苹果可能将在9月9日举办新品发布会，新一代iPhone系列或将亮相。除了性能、影像、AI等常规升级外，此前备受关注的苹果首款折叠屏iPhone也持续引发讨论。（微博数码）</p>\n  <p><strong>2026七夕档票房破亿</strong></p>\n  <p>36氪获悉，据猫眼专业版数据，截至11时30分，2026年七夕档（8月19日）累计票房破亿，《欢迎来龙餐馆》《空枪》《奥德赛》暂列七夕档票房榜前三位。</p>\n  <p><strong>上海地铁票价优化方案公布</strong></p>\n  <p>上海地铁票价优化的听证方案公布。8月19日下午，上海市发改委发布了优化轨道交通票价机制听证会第二次公告，公开了听证会参加人名单和听证方案等，并将于8月19日至9月6日广泛征集社会各界意见和建议，社会公众可以通过发送电子邮件或邮寄信件方式提出。公告显示，票价优化听证方案包括两种，在起乘价、起乘间距、加价间距调整幅度上有差异。总体来看，两个方案调整幅度基本相当。同一时间，申通地铁集团推出轨道交通计次票、满额优惠方案等优惠措施，希望能够减少通勤乘客，特别是长距离通勤乘客的出行成本。</p>\n  <p>经有关部门初步测算，在实施新的票价机制和优惠措施后，方案一平均每人次票价将从4.23元提高至5.22元，提高0.99元；方案二平均每人次票价将从4.23元提高至5.2元，提高0.97元。但如果乘客购买计次票，乘客在方案一机制下享受的优惠幅度会较方案二微高。（第一财经）</p>\n  <p><strong>需求激增、价格上涨，两大存储龙头上半年净利润增超10倍</strong></p>\n  <p>存储巨头兆易创新半年报显示，上半年实现营业收入115.66亿元，同比增长178.67%；净利润68.57亿元，同比增长1091.5%。普冉股份同日披露的半年报显示，上半年实现营业收入39.59亿元，同比增长336.67%；净利润8.27亿元，同比增长1929.65%。AI算力建设带动存储芯片需求激增、价格上涨，成为业绩大增的共同原因。（证券时报）</p>\n  <p><strong>创业板指低开低走跌超6%，全市场逾百股跌停</strong></p>\n  <p>8月19日，市场全天调整，三大指数低开低走。沪深两市成交额2.51万亿，较上一个交易日放量1103亿。盘面上，市场热点较为杂乱，全市场超5000只个股下跌，逾百股跌停。从板块来看，煤炭板块逆势走强，宝泰隆、陕西黑猫、大有能源、美锦能源涨停。化工板块异动拉升，红四方3连板，华锦股份、中毅达涨停。房地产板块表现活跃，我爱我家、南都物业涨停。农业板块反复活跃，京粮控股3连板。银行板块逆势拉升，江苏银行创历史新高。下跌方面，高位股集体退潮，爱丽家居、一鸣食品、金螳螂、桂发祥跌停。人形机器人概念震荡下挫，中大力德、巨轮智能、五洲新春、晋拓股份跌停。截至收盘，沪指跌2.4%，深成指跌5.01%，创业板指跌6.26%。（财联社）</p>\n  <p><strong>迪士尼与旗下美国广播公司起诉美联邦通讯委员会</strong></p>\n  <p>当地时间8月18日，华特迪士尼及旗下美国广播公司（ABC）对美国联邦通讯委员会（FCC）提起诉讼，指控该机构试图挑战其广播牌照并规管其访谈节目《观点》（The View）的行为属于非法。（界面新闻）</p>\n  <p><strong>三星电子据悉因需求激增上调芯片代工价格，最高涨幅达15%</strong></p>\n  <p>据知情人士透露，由于AI芯片需求导致产能趋紧，三星电子已将部分先进芯片代工服务的新订单价格上调最高15%。（界面新闻）</p>\n  <p><strong>消息称三星电子目标今年9月率先完成1d nm DRAM内存研发</strong></p>\n  <p>据TheBell，近日，据业内人士透露，三星电子目标2026年9月率先完成1d nm DRAM内存研发，2026年12月进入量产转移阶段，2027年上半年启动生产线建设，有望2027年底实现首批量产。（财联社）</p>\n  <p><strong>保时捷回应“2030年前停产Taycan”：精简衍生车型，并非砍掉整个车系</strong></p>\n  <p>近日，德国媒体报道称，保时捷计划于2030年前停产其首款纯电轿车Taycan。据称，保时捷工会委员会已原则上与管理层达成协议，同意在2030年前后逐步结束Taycan的生产，但尚未形成正式书面文件。对此，保时捷德国总部回应称：公司正在精简Taycan的衍生车型数量以降低产品复杂度，而非砍掉整个车系。短期内，没有停产Taycan的计划。我们已为该车型投入大量资源，并将根据市场需求的变化，持续评估其未来发展。Taycan是保时捷首款纯电动四门运动轿车，于2019年首次亮相，此后推出多个版本并进行年度改款。市场层面，Taycan全球交付量于2023年达到峰值约4.1万辆，此后逐年下滑：2024年约2.9万辆，2025年约1.6万辆，2026年上半年仅约6000辆。在中国市场，2026年前5个月销量仅110辆，月均约22台，市场表现持续承压。（经济观察报）</p>\n  <p><strong>下周起，CHATGPT广告将拓展至31个欧洲国家</strong></p>\n  <p>OpenAI宣布，下周起，ChatGPT广告将拓展至31个欧洲国家。（新浪财经）</p>\n  <p><strong>谷歌宣称其AI可承担前沿部署工程师的工作</strong></p>\n  <p>谷歌云数据库产品副总裁兼总经理安迪·古特曼表示，尽管谷歌云近期宣布计划招聘数百名前沿部署工程师，协助客户基于Gemini开发应用，但目前公司正在用AI自动化这批专业顾问面向大型企业的部分工作，主要负责企业数据治理。古特曼表示，谷歌已经意识到这种高度依赖人力模式的局限性。“如果你想要激活企业全部数据，靠招人是不足以实现目标的。（新浪财经）</p>\n  <p><strong>SK海力士：计划3年累计自由现金流50%以上用于股东回报</strong></p>\n  <p>SK海力士8月19日公告称，计划在2025年至2027年政策期内，将累计自由现金流的50%以上用于股东回报，并通过自有股份回购及注销、现金分红等方式提升股东价值，同时考虑包括固定股息和特别股息在内的扩大分红方案。</p>\n  <p>SK海力士表示，随着公司持续创造可观的自由现金流，将提前实施股东回报。鉴于近期股价被认为低于公司内在价值，公司决定实施规模达40万亿韩元的自有股份回购及注销，以优化资本配置并提升股东价值。（界面新闻）</p>\n  <p><strong>比尔盖茨名下豪华度假村因维护不善面临1亿美元索赔</strong></p>\n  <p>据报道，美国亿万富翁比尔・盖茨位于加勒比海尼维斯岛的一处豪华度假村，因物业状况问题面临索赔金额达1亿美元的诉讼。尼维斯四季度假村（Four Seasons Resorts Nevis）业主协会上周起诉了尼维斯峰控股公司。业主们指控，度假村收费高昂，园区环境脏乱、设施破败，基础设施问题严重。四年间他们自掏腰包额外花费140万美元用于电力及基础设施修缮。业主协会要求尼维斯峰控股公司解决上述问题，或是赔付超1亿美元，用以赔偿业主认定的资产价值损失。（新浪财经）</p>\n  <p><strong>特斯拉上线豆包大模型</strong></p>\n  <p>36氪获悉，据火山引擎消息，特斯拉上线豆包大模型。据介绍，特斯拉车机现已陆续推送。</p>\n  <p><strong>现代汽车印度公司将于9月起提价，涨幅最高1%</strong></p>\n  <p>现代汽车印度公司8月19日表示，今年9月起，旗下所有车型价格将上调至多1%，具体涨幅因车型和配置而异。该公司将此次涨价归因于投入成本和商品成本上涨、运营费用增加以及持续的地缘政治和宏观经济不确定性。（界面新闻）</p>\n  <p><strong>美国财政部宣布将长期国债回购操作规模至少扩大一倍</strong></p>\n  <p>美国财政部8月19日宣布，将扩大长期名义附息国债（10‑20年期、20‑30年期品种）的流动性支持回购操作规模，单轮操作上限将从此前的20亿美元提升到至少40亿美元。这一调整将于当地时间9月9日生效，并将持续至本季度末（2026年11月4日）。（界面新闻）</p>\n  <p><strong>OpenAI首席财务官：公司或将在2027年上市，甚至更早</strong></p>\n  <p>据两位知情人士透露，OpenAI首席财务官弗莱尔在8月19日的全员会议上向员工表示，公司将在2027年上市；倘若业务持续高速增长，也有可能更早登陆公开市场。（新浪财经）</p>\n  <p><strong>花旗称贝森特出手令美元付出代价，建议客户采用策略加以应对</strong></p>\n  <p>花旗集团认为，美国财政部长斯科特·贝森特为压低长期借贷成本而采取的最新举措可能会导致美元在短期内走弱。财政部8月19日扩大10至30年期国债回购规模的公告导致长债收益率走低并推动美元跌至5月中以来的最低水平。花旗策略师Dirk Willer等人在研报中指出，遏制收益率的努力可能会使美元承受压力。 “以如此方式降低利率的主要代价就是货币走弱，” 他们写道。花旗建议客户面对此举利用美元为押注高收益新兴市场货币融资，因后者“在当前环境下也应表现不错”。该行此前青睐用加元和瑞士法郎作为融资货币。策略师们还认为黄金有上涨空间，并放弃了对久期的低配策略，理由是收益率曲线的长端更为受制且预计美联储接下来的两次会议上不会加息。他们说，“投资者现阶段可能不得不平仓陡化交易，转而重新买入黄金并卖出”美元。（财联社）</p>\n  <p><strong>Stripe收购OpenRouter</strong></p>\n  <p>Stripe 8月19日表示，计划收购初创公司OpenRouter，这家金融科技公司正扩展至人工智能模型市场。交易条款未披露，知情人士称，交易价格约为75亿美元，其中15亿美元分配给OpenRouter创始人。不到三个月前，OpenRouter刚刚以约13亿美元的估值融资1.13亿美元。（新浪财经）</p>\n  <p><strong>Marvell与谷歌就开发定制半导体产品达成商业协议</strong></p>\n  <p>8月19日，Marvell Technology宣布与谷歌就为后者开发定制半导体产品达成商业协议。此次扩展的合作关系涵盖一系列与TPU生态系统关联的定制芯片项目，包括AI推理加速器、存储控制器、网络接口控制器、内存接口控制器和近内存计算。为配合此次合作，Marvell于8月18日向谷歌发行一份认股权证，允许后者以每股206.58美元的行权价格购买至多5897万股公司普通股。（界面新闻）</p>\n  <h2>上市进行时</h2>\n  <p><strong>奇瑞旗下机器人子公司AiMoga正考虑独立上市</strong></p>\n  <p>奇瑞旗下机器人子公司AiMoga正考虑独立上市。（财联社）</p>\n  <p><strong>长江存储IPO辅导状态变更为“辅导验收”</strong></p>\n  <p>36氪获悉，据证监会网站披露，长江存储控股股份有限公司IPO辅导状态变更为“辅导验收”，辅导券商为中信证券和中信建投。</p>\n  <p><strong>本末动力（北京）科技股份有限公司递表港交所</strong></p>\n  <p>36氪获悉，港交所文件显示，8月19日，本末动力（北京）科技股份有限公司向港交所提交上市申请书，独家保荐人为中信证券（香港）有限公司。</p>\n  <h2>大公司财报</h2>\n  <p><strong>微博：二季度总营收4.538亿美元，调整后运营利润1.254亿美元</strong></p>\n  <p>36氪获悉，微博发布2026年第二季度财报。财报显示，微博二季度总营收4.538亿美元（约合人民币30.8亿元），其中广告营收3.81亿美元（约合人民币25.84亿元），二季度调整后运营利润1.254亿美元（约合人民币8.46亿元），调整后运营利润率达到28%。用户方面，截至二季度末，微博的月活跃用户达到5.61亿，日活跃用户达到2.54亿。</p>\n  <p><strong>香港交易所：上半年股东应占溢利为105.68亿元，同比增长24%</strong></p>\n  <p>36氪获悉，香港交易所发布2026年中期业绩，2026年上半年收入及其他收益和溢利创历来半年度新高。上半年收入及其他收益为167.02亿元，较2025年上半年上升19%；股东应占溢利为105.68亿元，较2025年上半年上升24%。</p>\n  <p><strong>快手：第二季度财报营收355亿元，同比增长1.4%</strong></p>\n  <p>36氪获悉，快手发布2026年第二季度财报。财报显示，快手第二季度实现营收355亿元，同比增长1.4%；包含线上营销服务和以电商及可灵AI为主的其他服务在内的核心商业收入同比增长7.4%；经调整净利润39亿元。用户方面，快手应用平均日活跃用户达到4.12亿，平均月活跃用户达到7.97亿，创历史新高。二季度，快手双关私信用户数同比增长超过15%。</p>\n  <p><strong>金山办公：上半年营业收入33.13亿元，同比增长24.69%</strong></p>\n  <p>36氪获悉，金山办公披露半年报，上半年公司实现营业收入33.13亿元，同比增长24.69%；经调整后净利润为10.87亿元，同比增长28.29%。公司上半年研发投入11.52亿元，同比增长20.17%，费用率约35%。WPS个人业务实现收入20.14亿元，同比增长15.20%，WPS Office国内累计年度付费用户数为4825万，同比增长15.44%。</p>\n  <p><strong>韵达股份：7月快递服务业务收入46.43亿元，同比增长12.69%</strong></p>\n  <p>36氪获悉，韵达股份公告，7月快递服务业务收入46.43亿元，同比增长12.69%；完成业务量21.72亿票，同比增长0.46%；快递服务单票收入2.14元，同比增长12.04%。</p>\n  <p><strong>圆通速递：上半年净利润31.75亿元，同比增长73.44%</strong></p>\n  <p>36氪获悉，圆通速递披露半年报，2026年上半年，公司实现营业收入388.93亿元，同比增长8.39%；归属于上市公司股东的净利润31.75亿元，同比增长73.44%；基本每股收益0.9276元。公司拟每10股派发现金红利1.2元（含税）。</p>\n  <p><strong>申通快递：7月快递服务业务收入53.7亿元，同比增长25.26%</strong></p>\n  <p>36氪获悉，申通快递公告，2026年7月快递服务业务收入53.7亿元，同比增长25.26%；完成业务量26.03亿票，同比增长19.34%；快递服务单票收入2.06元，同比增长4.57%。</p>\n  <p><strong>恒瑞医药：上半年净利润44.65亿元，同比增长0.34%</strong></p>\n  <p>36氪获悉，恒瑞医药披露半年报，2026年上半年，公司实现营业收入154.56亿元，同比下降1.94%；归属于上市公司股东的净利润44.65亿元，同比增长0.34%；基本每股收益0.68元。</p>\n  <p><strong>赛力斯：上半年营业收入574.93亿元，同比下降7.87%</strong></p>\n  <p>36氪获悉，赛力斯披露半年报，上半年营业收入574.93亿元，同比下降7.87%；净亏损17.17亿元，上年同期净利润29.41亿元。</p>\n  <h2>投融资</h2>\n  <p><strong>AI芯片创企Etched融资7亿美元，近一个月估值翻番至210亿美元</strong></p>\n  <p>当地时间8月18日，AI芯片创企Etched宣布完成7亿美元新一轮融资，公司估值达210亿美元。本轮融资由简街领投，凯鹏华盈、红杉资本、a16z、Tiger Global、贝恩资本风险投资公司、Neo、Primary、Stripes、Positive Sum和黑石等跟投。Etched同时宣布简街成为其首位客户。此前，Etched在上月完成C轮融资，当时公司估值为103亿美元。（界面新闻）</p>\n  <h2>酷产品</h2>\n  <p><strong>小米新一代人形机器人剧透：双足、1.7米左右、全身66个自由度</strong></p>\n  <p>从小米方面了解到，小米即将首次展示的下一代人形机器人身高约为1.70米，体重66公斤，全身有66个自由度，其中一半自由度集中在手部。目前，该款机器人为样机阶段，国内首展后会在欧洲展出。2022年，小米发布全尺寸人形机器人“铁大”，比特斯拉Optimus原型机亮相早了近两个月。铁大身高1.77米，体重52公斤，拥有21个关节自由度。此后小米少有机器人方面的消息露出。（每日经济新闻）</p>\n  <p><strong>整理</strong>｜葡萄</p>",
-      "category": "tech",
-      "published_at": "2026-08-19T23:48:59+00:00",
-      "fetched_at": "2026-08-20T00:57:33.755038+00:00",
-      "fingerprint": "29781067e889d9fb"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等",
-      "url": "https://sspai.com/post/113607",
-      "summary": "Spotify 上线「播放列表备注」功能、Windows Server 2022 即将结束主流更新等。<a href=\"https://sspai.com/post/113607\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-19T00:30:54+00:00",
-      "fetched_at": "2026-08-20T00:57:31.837554+00:00",
-      "fingerprint": "a23723cfb330f530"
-    },
-    {
-      "source": "少数派",
-      "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian",
-      "url": "https://sspai.com/post/111936",
-      "summary": "让纸书上的划线，回到你的数字笔记里。<a href=\"https://sspai.com/post/111936\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-19T02:54:52+00:00",
-      "fetched_at": "2026-08-20T00:57:31.837548+00:00",
-      "fingerprint": "c64f6c4a9eaf5f58"
-    },
-    {
-      "source": "少数派",
-      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
-      "url": "https://sspai.com/post/113588",
-      "summary": "本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ...<a href=\"https://sspai.com/post/113588\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-19T07:20:08+00:00",
-      "fetched_at": "2026-08-20T00:57:31.837526+00:00",
-      "fingerprint": "7bc0da4b768e4bf0"
-    },
-    {
-      "source": "少数派",
-      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
-      "url": "https://sspai.com/post/113618",
-      "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...<a href=\"https://sspai.com/post/113618\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-19T09:39:05+00:00",
-      "fetched_at": "2026-08-20T00:57:31.837514+00:00",
-      "fingerprint": "945aaca8c99f839c"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7678 CNY ↓-0.56%",
-      "url": "https://www.frankfurter.app/2026-08-19?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-08-19</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7678 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0270 (-0.56%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-08-20T00:57:30.436455+00:00",
-      "fingerprint": "564f09290f45b2b1"
     }
   ]
 }
