@@ -1,7 +1,237 @@
 {
-  "updated_at": "2026-08-28T08:44:50.404580+00:00",
-  "count": 183,
+  "updated_at": "2026-08-29T05:22:03.346520+00:00",
+  "count": 182,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
+      "summary": "<p>Police hunt two suspects after historic 200-carat piece is snatched from Austrian museum during opening hours</p><p>Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.</p><p>Authorities in the capital released <a href=\"https://www.polizei.gv.at/wien/lpd/fahndung/fahndungd63b.html?nwid=6e726f654138564e4a4e733d&amp;ctrl=3734335266674d385951343d&amp;nwo=0\">pictures of the suspects</a> captured by security cameras during the heist at the Museum of Applied Arts (MAK), amid a rash of spectacular smash-and-grab thefts from European cultural institutions.</p> <a href=\"https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-28T14:46:25+00:00",
+      "fetched_at": "2026-08-29T05:22:03.342421+00:00",
+      "fingerprint": "2f544778befcbc8a"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+      "category": "politics",
+      "published_at": "2026-08-28T19:40:45+00:00",
+      "fetched_at": "2026-08-29T05:22:03.164381+00:00",
+      "fingerprint": "92a9405bef465639"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "category": "politics",
+      "published_at": "2026-08-29T00:32:17+00:00",
+      "fetched_at": "2026-08-29T05:22:03.164376+00:00",
+      "fingerprint": "d0a7eaed86c1c85d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "category": "politics",
+      "published_at": "2026-08-29T02:42:27+00:00",
+      "fetched_at": "2026-08-29T05:22:03.164371+00:00",
+      "fingerprint": "b7867d1cc526d36b"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "category": "politics",
+      "published_at": "2026-08-29T03:54:11+00:00",
+      "fetched_at": "2026-08-29T05:22:03.164363+00:00",
+      "fingerprint": "a530abfe5bd1c248"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國科技公司新嘗試：「性愛」機器人，瞄準「陪伴經濟」",
+      "url": "https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "近年來，中國的「陪伴經濟」異軍突起，AI和機器人技術的高速發展亦給這個市場注入諸多新的可能。",
+      "category": "politics",
+      "published_at": "2026-08-28T08:51:11+00:00",
+      "fetched_at": "2026-08-29T05:22:02.960841+00:00",
+      "fingerprint": "7169231e3977d9b7"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "尼泊爾—西藏泥石流：逾2000人遇難或失聯，中國總理赴前線意味著什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/c980env4n78o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "在中國，災難應對往往也帶有政治訊號。尤其是中共中央總書記作出「重要指示」，或總理、副總理親赴現場，通常意味著北京把事件視為需要高度關注和統籌應對的重大危機。",
+      "category": "politics",
+      "published_at": "2026-08-28T11:41:29+00:00",
+      "fetched_at": "2026-08-29T05:22:02.960832+00:00",
+      "fingerprint": "92b9a4244bc4b8bd"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-29T05:22:02.017178+00:00",
+      "fingerprint": "c6c03c6a260f5392"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-29T05:22:02.017095+00:00",
+      "fingerprint": "6b67b7c843708761"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-29T05:22:02.016996+00:00",
+      "fingerprint": "6fd2644d171d9462"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-29T05:22:02.016907+00:00",
+      "fingerprint": "07aca43e12d4379f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-29T05:22:02.016798+00:00",
+      "fingerprint": "bd488c1cb70b7284"
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-28T16:28:40+00:00",
+      "fetched_at": "2026-08-29T05:22:01.739050+00:00",
+      "fingerprint": "7750fe415e7d78b5"
+    },
+    {
+      "source": "The Verge",
+      "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+      "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+      "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-28T17:03:07+00:00",
+      "fetched_at": "2026-08-29T05:22:01.739045+00:00",
+      "fingerprint": "7547235726dbecee"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "summary": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next generation and a great family of devices for Helix, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-28T22:03:13+00:00",
+      "fetched_at": "2026-08-29T05:22:01.739040+00:00",
+      "fingerprint": "b7176f501527f63f"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google further buries search results under AI mode",
+      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-28T22:48:11+00:00",
+      "fetched_at": "2026-08-29T05:22:01.739032+00:00",
+      "fingerprint": "d0e5614bdcb44a1f"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "「聚焦太空内生价值」，算力上天的中国路径与现实切口｜OpenTalk回顾",
+      "url": "https://36kr.com/p/3959033085459844?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260828/v2_2288ba5e08b54ad4ad822aebc5cb41dd@6413691_oswg1716597oswg4540oswg2688_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>8月26日，国务院新闻办公室举行新闻发布会，工业和信息化部介绍“十五五”时期加快推进新型工业化有关情况。会上明确，<strong>未来五年将加快打造航空航天、低空经济等新兴支柱产业，加快新一代通信网、算力网规划建设，</strong>加强6G技术研发。商业航天与算力基础设施的政策信号再一次密集释放。</p>\n  <p>就在当天下午，36氪举办了以<strong>「太空算力的中国长跑：趋势、路线和解法」</strong>为主题的OpenTalk直播活动，邀请<strong>中科天算董事长兼CEO刘垚圻、数字太空创始人兼董事长王世金、元航资本创始合伙人陈东</strong>作为分享嘉宾，就太空算力的需求场景、技术路径、中国路线的差异化逻辑、产业机遇与投资方向等话题展开了深入分享，并与观众进行了在线互动。</p>\n  <p>以下是本场直播的干货总结，欢迎阅读、分享与收藏。</p>\n  <h2><strong>太空算力的“4G时代”还有多远</strong></h2>\n  <blockquote>\n   <p><strong>分享嘉宾：</strong>刘垚圻，中科天算董事长兼CEO，“天算计划”总指挥，CCF容错计算专委副秘书长。研究方向为天基计算、空天算力网。深度参与我国多套卫星互联网系统设计论证、标准设计与试验验证系统建设等，完成极光系列星载计算机研制与部署。相关成果发表论文/���利百余篇。获得“6G星辰青年科学家”称号，入选新百星计划、“高创计划·青年人才托举工程”等。</p>\n   <p><strong>分享关键词：</strong>天基计算基础设施、天基大模型、天基信息生态、太空原生技术</p>\n  </blockquote>\n  <p>关于太空算力是真需求还是伪命题，行业目前仍没有定论。从需求端看，地面数据中心面临电力、土地、散热的多重约束；从能力端看，SpaceX将发射成本压低百倍，下注太空算力芯片和算力星座。但反对者认为，太空数据中心成本短期内难与地面拉平，原生技术也尚未突破。对此刘垚圻的判断是：<strong>能源、生存环境、信息基础设施的边界都在拓展，太空算力是这一逻辑的自然延伸。</strong></p>\n  <p>落到短期路径上，遥感智能化和通信智能化是两条清晰的落地主线。</p>\n  <p><strong>遥感智能化：</strong>把遥感图像处理中的辐射定标、反射率计算、坐标系转换等环节，以及目标识别、变化检测等智能模型，都转化为算法任务，其核心资源需求是并行算力，也就是单位时间内可执行的运算次数。</p>\n  <p><strong>通信智能化：</strong>一座地面基站覆盖约一平方公里、服务数百个用户，而一颗卫星的波束覆盖上千平方公里，由此带来的网络规划与网络优化问题，同样要用算力解决。</p>\n  <p><strong>当卫星的角色从数据采集者转变为实时服务提供者，更值得关注的是消费级应用的颠覆性机会。</strong>他举了一个例子：未来卫星可以通过调动高光谱相机和各类传感器为渔民定位鱼群位置，同时提供渔具使用、收网时间、售卖价格等智能建议。类似这样的应用，可能会像当年的滴滴、饿了么一样从卫星互联网中生长出来，重新定义人与物理世界的交互方式。</p>\n  <p>他把今天的卫星互联网比作“1G时代”：跨入2G，稳定网络与低价资费将催生海量用户和数据；而随着未来遥感能力和通信带宽能力的跃升，那些看似非刚需的碎片化应用也许将复刻移动互联网4G时代的爆发路径，掀起卫星互联网的新浪潮。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260828/v2_c06de440aaf04e1ba7f9bc62e596ae6c@6413691_oswg310361oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">卫星互联网的发展轨迹推演</p>\n  <p>在技术层面，刘垚圻认为太空环境的物理边界清晰，辐射、温差、真空、失重都有规律可循，不是混沌系统，因此算力上天是可以逐步突破的工程问题，本质上都是在“攒一台适用于太空的稳定可靠、输出正确结果的电脑”。</p>\n  <p>中科天算曾在2024年做过一次验证：通过远程上注将大模型部署到一颗在轨卫星上，成功实现了在轨的图像识别与问答。这个实验的意义在于跑通了“智能更新”的完整链路——就像手机更新APP一样，卫星智能也可以在轨更新。</p>\n  <p>在生态层面，他的主张是开源开放：<strong>用开放的技术体系降低太空应用开发的门槛，最终指向AI时代的算力平权。</strong>地面的算力输出受基建和地缘影响，而太空则具备让不同国家、地区、行业的人民形成本地特色应用生态的能力。这是太空算力带给全球的价值所在。</p>\n  <h2><strong>中国路线：不拼算力，只拼价值</strong></h2>\n  <blockquote>\n   <p><strong>分享嘉宾：</strong>王世金，数字太空创始人兼董事长、总裁，二级研究员，空天数智技术联合实验室主任。中国电子学会、中国管理科学学会等多个行业协会、学术杂志、领域专家组专家。曾于中国科学院空间中心工作25年，是我国卫星环境及效应探测领军人。获新世纪百千万人才工程国家级人选，载人航天、探月工程等突出贡献奖。获国家科学技术进步二等奖1项、部委级科技进步一等奖5项、二等奖1项、三等奖1项。授权发明专利50项。</p>\n   <p><strong>分享关键词：</strong>太空价值内生化、战略可计算化、卫星智驾、太空大脑、算力迁移</p>\n  </blockquote>\n  <p>中美太空算力的底层逻辑截然不同。美国的太空算力叙事有其特定前置条件：电网受限、土地私有化，叠加星舰可能带来的成本曲线，因此有强烈动力把数据中心搬上天。中国的约束条件集中在算力芯片和发射成本，不能照搬同一条路线图。基于这一判断，王世金提出了中国太空算力长跑的五个逻辑——</p>\n  <p><strong>1. 太空价值内生：</strong>传统的太空价值依托地面实现，运行管控、数据处理、应用服务都依赖地面测控站。未来，目标识别、数据融合、自主规划等将逐步在太空形成闭环，这一转变在军事领域已经率先发生。</p>\n  <p><strong>2. 太空体系价值：</strong>通信和遥感星座达到一定规模后，太空的体系价值才得以显现。未来太空体系能力将取决于环境、对象、资源、网络、行为、价值和决策之间的动态耦合和系统配置。</p>\n  <p><strong>3. 算力迁移：</strong>算力向太空迁移的根本原因是时间约束，感知决策链必须要小于风险处置窗口。碎片碰撞预警、太阳风暴响应、动目标监视、星地协同等场景需要快速决策，太空算力是这种低时延决策的基础设施。</p>\n  <p><strong>4. 星地协同：</strong>太空侧处理时间敏感、高频发生、规则明确的任务，地面负责体系推演、规则制定和重大决策。判断标准可以总结为三个方面：价值是目标、时延是标尺��风险是底线。</p>\n  <p><strong>5. 太空大脑：</strong>卫星大脑让单星具备自主的“感知-计算-决策-行动”能力，太空大脑则是连接多星、多网、多任务和地面系统的体系智能，包含世界模型、星地算力、泛在网络、群体智能和决策闭环五个要素。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260828/v2_dc29791388e4444ca4783f9a5bdd529c@6413691_oswg267108oswg1080oswg604_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">我国太空算力的未来发展逻辑</p>\n  <p>太空环境风险应对是当下最迫切的需求。近年来，太阳风暴已造成各国卫星批量损失。星链在2025年实现了没有地面干预的情况下，卫星端自主应对太阳风暴和碰撞碎片，这说明“太空问题太空解决”是可行的路径。对中国而言，算力星座尚未大规模部署，<strong>先把环境风险的星上感知与自主应对能力建起来，是太空算力落地前最务实的第一步。</strong></p>\n  <p>太空是纯粹的物理世界，因果规律是基本约束。王世金认为，<strong>太空的大脑智能必须建立在感知、认知、行为的因果闭环之上，这是太空智能与地面AI最本质的区别。</strong></p>\n  <p>基于此，数字太空在过去10年时间里持续打磨星地数智平台，依托数字太空本体大模型，实现对全球在轨卫星状态、空间环境和碎片态势的实时感知，聚焦星座运行管控与碰撞风险预警，提供太空环境效应评估和防护方案。同时面向遥感和通信星座，提供星地协同与决策服务，形成了知天、管天、卫天、用天的产品矩阵。</p>\n  <h2><strong>太空算力的产业机遇与投资价值</strong></h2>\n  <blockquote>\n   <p><strong>分享嘉宾：</strong>陈东，元航资本创始合伙人。拥有30年研发、管理、创业和投资经验，横跨航天电子、无线通信与硬科技产业。先后任职于大型国有军工集团、世界500强跨国通讯技术企业、信息技术创业公司等。2015年加入元航资本成为创始合伙人，专注于航空航天、新一代信息技术、具身智能、新能源等赛道，先后主导投资星河动力、航天驭星、云遥宇航、空间致航、巨擎科技等代表性项目。</p>\n   <p><strong>分享关键词：</strong>商业航天、太空算力、股权投资</p>\n  </blockquote>\n  <p><strong>太空算力是AI与商业航天两大硬科技赛道的交汇点，具有巨大的商业和投资价值。大国竞争正在从“制天权”转向“制算权”。</strong></p>\n  <p>需求端看，AI训练导致全球算力需求激增，地面数据中心面临能源供给瓶颈。卫星技术自身也在倒逼算力上星——传统遥感卫星90%以上的数据因带宽限制无法及时回传，星上AI实时处理能将遥感时效压缩至秒级，推动服务模式从“影像交付”转向“结果交付”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260828/v2_438022550c3a48cbb381aaae971ca8de@6413691_oswg262454oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">太空算力产业驱动力分析</p>\n  <p>在阶段划分上，“天数天算”在2030年之前将是主旋律，数据在太空采集后直接处理，仅回传高价值结论。“地数天算”会在2030至2035年间逐步展开，将利用太空太阳能供电与低温真空优势，承接地面训练或推理任务。2035年之后可能进入天地融合算力阶段。</p>\n  <p><strong>陈东判断，在短时间内，天基算力无法替代地面算力。</strong>太空分布式算力集群之间的激光链路速率和稳定性远不如地面光纤，算力衰减较大。天地算力实现池化，按需调用、互为备份才是现实路径。此外，地面算力中心可能因自然灾害受损，而太空算力将形成天然的抗毁备份。</p>\n  <p>火箭是整个产业链的核心变量，占太空算力总成本的30%-40%。目前中美发射成本差距依然明显，但中国可复用火箭的进展是乐观的：长征十号乙实现海上网系回收，朱雀三号完成陆地回收，2026年多款可复用火箭密集首飞。而火箭发动机的下一步发展方向是大推力高比冲闭式循环发动机，液氧煤油和液氧甲烷两条路线将长期并存。</p>\n  <p>除了火箭，星载AI芯片、太空能源和散热系统也是必须啃下的硬骨头。星载AI芯片面临抗辐照、低功耗、高算力密度三重技术挑战，国内抗辐照重离子实验装置稀缺，这些基础设施本身也是一个投资机会；能源方面，晶硅、钙钛矿路线具有明显的成本优势；散热方面，两相流散热、机热一体化设计、可展开辐射器是关键技术方向。</p>\n  <p>观察2026年商业航天资本市场，一级市场一季度超10家企业完成近百亿融资，二级市场概念指数累计涨幅超35%。多家企业的科创板和港股IPO已获实质进展，预计2026—2027年将出现IPO小高峰，A+H双轨退出通道逐步打通。</p>\n  <h2><strong>关于太空算力，大家都在讨论什么？</strong></h2>\n  <p>我们挑选了直播互动环节部分代表性问题和嘉宾解答，经编辑整理呈现。</p>\n  <p><strong>Q1：太空算力到底解决了哪些地面算力解决不了的问题？</strong></p>\n  <p><strong>刘垚圻：</strong>从三个层面看。宏观上，计算机体系结构的原则是“需求离计算越近越好”，太空算力能让计算靠近数据产生的地方，降低时延和带宽代价。中观上，南极科考、第三世界国家不具备建设地面基建的条件，卫星网络能辐射全球，让每个人都可以使用。微观上，像应急救灾和国防监测这些场景需要秒级决策，数据传回地面再算来不及，必须在天上算完，只回传判断结果。</p>\n  <p><strong>Q2：未来3—5年是否还是高投入周期？经济账怎么算？</strong></p>\n  <p><strong>刘垚圻：</strong>可以把天上和地面的算力中心成本拆开对比。建设成本上，地面买地建楼的成本逐年提升，而太空火箭发射成本逐年下降。采购成本上，芯片、机柜、散热等硬件成本未来可能趋于一致。维护成本上，地面需要维修、安保、保洁，人力成本持续上升；太空需要机器人，初期价格高，但规模化部署后成本会越来越低。真正决定节奏的关键变量其实是卫星网络什么时候建成，没有网络的算力，其实和孤岛无异。</p>\n  <p><strong>Q3：太空原生技术和地面技术上星的本质区别是什么？</strong></p>\n  <p><strong>刘垚圻：</strong>目前上天的工业级器件本质还是电子器件，面对高能粒子的轰击，天然存在着材料缺陷和工艺缺陷。长期看，太空原生材料和物理机制可能更重要。比如光子器件不惧辐照、不聚热量，钙钛矿在真空环境中天然适用。未来如果能在物理、数学机理上取得突破，可能会重新指导计算机和芯片的设计。</p>\n  <p><strong>Q4：哪些任务可以由卫星自主决策，哪些必须地面授权？判断标准是什么？</strong></p>\n  <p><strong>王世金：</strong>标准就是时间约束。碎片碰撞规避、太空环境应对等需要快速决策的场景，数据在哪里产生、风险在哪里出现，处置就该放在哪里。地面负责制定规则和方法，而规则约束下的快速响应要交给星上。</p>\n  <p><strong>Q5：卫星快速变轨会不会影响其服务能力？</strong></p>\n  <p><strong>王世金：</strong>会，而且影响很大。举个例子：洛杉矶大火时，一颗卫星为躲避碎片临时变轨，星下点发生漂移，等它回到原定位置拍照时，着火点已经不在视场内了。从通信角度看，星链波束与地面终端的对准角度只有一两度，一次强太阳风暴导致的轨道突变都可能使捕获时间变长，甚至一次过境都无法完成捕获。太空是一个强耦合体系，任何轨道变动都可能波及多项任务执行，所以变轨决策必须要放在体系层面来完成。</p>\n  <p><strong>Q6：现在做太空算力，初创公司还有机会吗？</strong></p>\n  <p><strong>陈东：</strong>这是一个长达10—20年的长周期赛道，可以容纳很多创业公司。只要能做出产品特色，在这个大盘子里就有一席之地。长坡厚雪，值得新晋创业者在这个赛道上努力。</p>\n  <p><strong>Q7：太空算力的第一批付费客户可能是谁？</strong></p>\n  <p><strong>陈东：</strong>我认为会在“天数天算”的客户里产生。新发射的不少遥感卫星和SAR卫星都装备了大算力的在轨算力模块，能直接把结果跑出来传回地面。未来的第一批付费用户一定会是有真实场景、真实落地需求的客户。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260828/v2_1fd3c2ffb2034b1aa9e9334b1cfde545@6413691_oswg920oswg400oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">更多直播精彩，欢迎扫描上方二维码观看回放</p>",
+      "category": "tech",
+      "published_at": "2026-08-28T10:26:32+00:00",
+      "fetched_at": "2026-08-29T05:22:01.652622+00:00",
+      "fingerprint": "184fe6bba46a1218"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "碧桂园2026上半年营收441亿元",
+      "url": "https://36kr.com/p/3959209330621577?f=rss",
+      "summary": "<p>8月28日，碧桂园（02007.HK）发布2026年中报，实现营业收入约441亿元，尽管仍处于阶段性亏损，但较去年同期减亏约16.3%；总资产约7455亿元，净资产约310亿元，持续保持为正。</p>\n  <p>根据中报，其影响利润的主要原因主要有：一是伴随集团进入保交房收尾阶段，当期交付量大幅缩减导致营业收入下降；二是房企收入结转存在滞后性，前期高地价成本项目在降价去化环境中集中结转，对利润造成负面影响；三是受宏观经济环境、行业环境及对手方负面财务状况等多重不利因素影响，计提了约62亿元存货减值以及约38亿金融资产和财务担保减值损失；四是录得其他收入及收益约41亿元，主要来自以公允价值计量且其变动计入损益的金融负债公允价值变动和债务重组收益。同时严格控制支出，其中上半年销管费用持续降至约32亿元，同比下降19.7%。</p>\n  <p>2026年1-6月，碧桂园累计权益合同销售金额约142.5亿元，权益销售面积约182.5万平方米，其销售趋势与国家统计局口径下全国新建商品房销售基本同步。碧桂园方面表示，其销售整体比较平稳，正按经营节奏有序推进。</p>\n  <p>值得关注的是，根据克而瑞数据，2026年1-7月中国房企操盘面积排行榜中，碧桂园重返行业前十。</p>\n  <p>碧桂园“一体两翼”战略亦在顺利落地。作为“两翼”之一，凤凰智拓建管依托全产业链优势，上半年新拓湖北巴东海拓滨江府住宅开发、安徽宿州萧县商业地块、广州AI云谷产业园等全过程委托管理服务项目，同时将触角延伸至城市配套服务更新领域，承接华南知名国际学校及高中校区改造项目，利用暑假40天的窗口期高效完成校园设施全方位功能提升。截至目前累计承接代管代建项目超200个。</p>\n  <p>“另一翼”的腾越建科则持续深耕构建建筑机器人、新型装配式建筑、BIM数字化深度融合的智能建造体系。截至目前已有28款建筑机器人投入商业化应用，累计交付超5200台次，应用面积超4000万平方米。</p>",
+      "category": "tech",
+      "published_at": "2026-08-28T13:16:31+00:00",
+      "fetched_at": "2026-08-29T05:22:01.652617+00:00",
+      "fingerprint": "dfe4467bb631e161"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "9点1氪丨苹果折叠屏平均售价或达1.7万元；4年亏200亿，康佳拟主动退市；全球亿万富豪达3795人，创历史新高",
+      "url": "https://36kr.com/p/3959891464748418?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>国家发改委：自8月28日24时起，国内汽、柴油（标准品）价格每吨分别上调375元、360元</p>\n  <p>阿里吴泳铭入选《时代》AI百大人物，与李飞飞同为封面唯二华人面孔</p>\n  <p>Anthropic首款在物理世界运行的AI工具问世</p>\n  <p>比尔·盖茨：中美需要合作应对AI风险</p>\n  <p>米哈游法务部：编造米哈游“外包歧视”虚假信息，侵权人被依法采取强制措施&nbsp;</p>\n  <p>孙宇晨回应景甜微博</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>苹果折叠屏平均售价或达1.7万元，备货量在千万级别</strong></p>\n  <p>苹果秋季新品发布会已定档9月9日（北京时间9月10日凌晨），新任CEO约翰•特努斯有望携苹果首款折叠屏iPhone完成首秀。这款可能被命名为iPhone Ultra的设备或具备类似iPad mini的实用性，展开后可变形成平板电脑形态，折起来又能装进口袋。</p>\n  <p>综合MacRumors、9to5Mac、AppleInsider等多方爆料、预测，iPhone Ultra将成为苹果史上最贵的iPhone，备货量在千万级别。256GB版本的iPhone Ultra起售价可能在1999美元左右。而IDC分析师预计，该手机的平均售价可能达到2500美元（约合人民币1.7万元），更高存储版本售价甚至高至3000美元（约合人民币2万元）。（256GB版本的iPhone Ultra起售价可能在1999美元左右。而IDC分析师预计，该手机的平均售价可能达到2500美元（约合人民币1.7万元），更高存储版本售价甚至高至3000美元（约合人民币2万元）。（财联社）</p>\n  <p><strong>四年累计亏损约200亿，康佳拟主动退市</strong></p>\n  <p>8月27日晚间，上市34年、曾被誉为“国内彩电第一股”的*ST康佳A发布重磅公告，公司董事会审议通过主动退市方案，拟撤回A、B股在深交所上市交易，退市后转入全国股转系统退市板块挂牌转让。消息一出，迅速引发资本市场、家电行业与广大股民热议，不少网友感慨童年国民品牌落幕，大量持仓投资者直面资产缩水难题。（封面新闻）</p>\n  <p><strong>最新财富报告：全球亿万富豪达3795人创历史新高</strong></p>\n  <p>全球亿万富豪的财富达到前所未有的高度，他们正把资金投入各项用途：收购体育球队、资助慈善事业，并打造影响力更大的平台。财富情报机构Altrata的最新数据显示，2025年全球亿万富豪人数创下历史新高，达到3795人。他们的总财富暴涨12.8%，达到创纪录的15.1万亿美元，接近标普500指数成分股总市值的四分之一。（新浪财经）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Anthropic首款在物理世界运行的AI工具问世</strong></p>\n  <p>Anthropic发布公告称即将推出专为物理世界设计的AI工具“模型硬件标准”（MHS），可让AI自主操作各类可编程科研、制造设备。该工具可将硬件集成时间从数周甚至数月缩短至数小时甚至几分钟，支持24小时自主实验运行。（新浪财经）</p>\n  <p><strong>Hark与英伟达达成多年战略合作，将采用Vera Rubin平台推进个性化AI</strong></p>\n  <p>8月27日，美国人工智能初创公司Hark宣布与英伟达达成多年战略合作，双方将围绕个性化智能体AI展开技术合作，并基于英伟达下一代Vera Rubin平台部署吉瓦级计算能力。（界面新闻）</p>\n  <p><strong>OpenAI发布公开信，呼吁采取网络防御行动</strong></p>\n  <p>当地时间8月27日，OpenAI发布一封呼吁全球加强网络防御的公开信，由包括Anthropic、AWS、谷歌、微软、OpenAI和甲骨文在内的100多家组织联名签署。该公司表示：“随着全球各地模型能力不断提升，“借助人工智能发起的网络攻击将变得愈发广泛和复杂。”（界面新闻）</p>\n  <p><strong>Meta预估每年在Anthropic AI支出最高可达100亿美元</strong></p>\n  <p>据报道，Meta公司内部今年一度预测，每年可能在Anthropic公司的AI模型上投入高达100亿美元。（财联社）</p>\n  <p><strong>比尔·盖茨：中美需要合作应对AI风险</strong></p>\n  <p>微软创始人比尔·盖茨26日撰文称，人工智能（AI）飞速发展带来公平性问题，其要么成为有史以来最强大的“均衡器”，要么成为最严重的不公之源。要解决AI带来的社会问题，美国和中国需要进行合作。在这篇长达6000字的文章里，盖茨结合他在微软和盖茨基金会的经历，分享了AI的两面性——既带来巨大机遇，又潜藏多重风险。他称，AI已经具备惊人的能力并正以令人难以置信的速度不断进化，首次能够替代甚至超越人类的认知能力，“向AI新时代的过渡也将成为人类历史上最动荡的时期之一”。（环球网）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>文件显示SHEIN通过港股IPO筹资17亿美元</strong></p>\n  <p>据文件显示，SHEIN通过港股IPO筹资17亿美元，以每股48.56港元的价格发行约2.8亿股股票。（财联社）</p>\n  <p><strong>孙宇晨回应景甜微���</strong></p>\n  <p>8月27日晚，孙宇晨在社交平台发布长文《我的女友景甜》，8月28日上午8时，景甜通过个人微博回应：“我过去，现在，未来，都不会为钱出卖我的爱情，更不会出卖我的灵魂。我依然相信爱情，我依然眼光不行，我依然智慧欠奉。但我相信法律，相信善良，相信终究会有的正义和公平。时间会证明一切。”</p>\n  <p>孙宇晨通过时代周报回应：“我还没看到这个，因为这几天在香港有个很重要的行业活动，我的日程都很满。希望借这个机会，与同行进行交流，来推动整个行业的发展。我想剩下的事情都交给法律和律师去处理，这中间可能需要一些时间。我已经表达了自己内心很多的感受，已经不会再对这件事情想太多了。”（时代周报）</p>\n  <p><strong>米哈游法务部：编造米哈游“外包歧视”虚假信息，侵权人被依法采取强制措施</strong></p>\n  <p>2026年7月26日，一张来源不明、沉寂数月的聊天截图，突然在某社交平台上迅速传播，内容聚焦在“甲醛安全”与“外包歧视”上。数小时后，一个名为“王大雄”的账号出现在评论区，并留下一句话——“米哈游，新园区都知道了”，意指其本人也在同一个园区是知情者，截图中在甲醛测试过程中对外包人员进行职场歧视的公司是米哈游，并强行将“某公司上海新办公室”与米哈游北杨新园区关联。</p>\n  <p>8月28日，米哈游法务部发文表示，经核实，上述截图无论内容还是形式，与米哈游均无任何关联。疑似同园区某游戏企业的员工王某雄，其在无任何事实依据的情况下，编造并传播上述不实信息，对公司名誉造成严重损害。公司法务部于第一时间完成固证，并立即向公安机关报案，公安机关以寻衅滋事案立案侦查，侵权人王某雄已被依法采取强制措施。（界面新闻）</p>\n  <p><strong>阿里吴泳铭入选《时代》AI百大人物，与李飞飞同为封面唯二华人面孔</strong></p>\n  <p>8月27日晚，《时代》杂志揭晓2026年全球AI领域最具影响力的百大人物（TIME100 AI 2026），阿里巴巴集团CEO吴泳铭因带领阿里巴巴成为全球AI开源的领军者，入选“AI领导者”类别，并与SpaceX CEO埃隆·马斯克、亚马逊创始人杰夫·贝索斯、OpenAI联合创始人山姆·奥特曼等一起位列杂志封面中央，成为“焦点人物”。</p>\n  <p>《时代》杂志在评语中写道：“自1999年马云创立公司以来，阿里巴巴不断刷新自己的角色，从在线交易平台、电子支付平台，乃至物流创新者。现在，在CEO吴泳铭的带领下，这家公司正完成最重要的一次转型——成为全球开源AI的领军者。”（封面新闻）</p>\n  <p><strong>消息称美团LongCat通用Agent团队负责人顾奇将离职创业</strong></p>\n  <p>消息称美团LongCat Team主任研究员、通用Agent团队负责人顾奇即将离职。顾奇将在多模态模型领域创业，正在跟VC接触。公开资料，顾奇是LongCat系列模型核心贡献者，LongCat-Flash-Thinking-2601模型负责人。他毕业于清华大学数学科学系，加入美团之前，他曾在字节跳动Seed-LLM-Code团队以及蚂蚁集团担任研究员。（新浪财经）</p>\n  <p><strong>华为轮值董事长徐直军：预计鸿蒙生态今年年底突破1亿用户</strong></p>\n  <p>在鸿蒙生态大会2026上，华为轮值董事长徐直军表示，当前鸿蒙原生应用突破10万个，在HarmonyOS手机上可获取的应用超过40万个。截至8月20日，装载HarmonyOS 6终端设备数已突破8000万台，预计今年第四季度突破1亿用户。这意味着，鸿蒙生态今年年底突破1亿用户的规模临界点，进入增长新阶段。（财联社）</p>\n  <p><strong>三部门：推行“交房即交证”</strong></p>\n  <p>36氪获悉，住房城乡建设部、自然资源部、金融监管总局发布关于完善商品住房销售制度的通知。通知要求，推行“交房即交证”。现房销售前，一般应办理房屋首次登记。优化商品住房销售中涉及的买卖合同网签、不动产登记、抵押贷款办理等环节流程，强化工作协同，推动商品住房交付时购房人同步取得不动产权证书。</p>\n  <p><strong>苹果公司：iCloud贵州项目健康发展，将持续投资贵州深耕数字经济</strong></p>\n  <p>贵州省委副书记、省长李炳军会见出席2026中国国际大数据产业博览会的美国苹果公司副总裁、大中华区董事总经理葛越一行。李炳军表示，希望苹果公司进一步加大在黔投资布局，不断巩固良好合作基础，推动取得更多务实成果。贵州将为包括苹果公司在内的广大外资企业在黔发展提供优质服务。葛越表示，苹果公司iCloud项目落地贵州以来实现持续健康发展，苹果公司愿持续投资贵州、深耕数字经济发展，为中国用户提供世界一流的服务。（证券时报）</p>\n  <p><strong>德国疾控机构数据显示，德国今年已有大约1.58万人死于高温，为10年来最高</strong></p>\n  <p>德新社援引罗伯特·科赫研究所27日发布的数据报道，截至8月中旬，德国大约1.58万人死于高温，其中9600人因6月底的极端高温死亡，另有4000人在8月头两周的热浪中死亡。报道说，过去10年间，德国另外两个高温致死人数较多的年份为2018年和2019年，分别有9500人和7600人死亡。</p>\n  <p>今年的死者绝大多数是老年人，其中85岁及以上人群超过半数。女性死者多于男性死者，该机构说这是因为德国老年人中女性占比更大。罗伯特·科赫研究所说，今年死亡人数为保守估算，实际人数可能更高。一些人的死因与高温直接关联，例如中暑；多数人的死亡则由高温叠加基础疾病共同引发。（新华网）</p>\n  <p><strong>谷歌将支付2.6亿英镑，就应用开发者集体诉讼达成和解</strong></p>\n  <p>当地时间8月27日，据报道，谷歌已同意支付2.6亿英镑（约合3.54亿美元），就一起英国集体诉讼达成和解。该诉讼指控这家美国公司滥用市场支配地位，向应用开发者收取过高佣金。根据原告及其律师发表的声明，竞争上诉法庭将于9月举行听证会，审议是否批准该和解协议。报道称，自2018年8月起通过Play Store分发应用销售数字内容的英国注册应用开发者，若未选择退出，则有资格获得潜在赔偿。（界面新闻）</p>\n  <p><strong>Alphabet市值蒸发逾7000亿美元，投资者对其人工智能业务优势打下问号</strong></p>\n  <p>过去一年大部分时间里，Alphabet Inc．一直是大型科技股中表现最强劲的公司之一，投资者押注其将成为人工智能热潮的最大赢家之一。该公司股价在截至5月13日的12个月累计上涨逾150%，并于当天创下历史新高，在同期标普500指数成分股中跻身表现最好的25家公司之列，远远跑赢其他“科技七巨头”。但此后势头发生逆转。市场开始担心这家谷歌母公司出现人才流失，同时质疑其在AI领域是否正在失去领先优势。Alphabet股价目前较峰值下跌约15%，市值蒸发逾7000亿美元，并成为这段时间拖累标普500指数点位最多的个股。（新浪财经）</p>\n  <p><strong>美国联邦贸易委员会据悉就YouTube封禁用户账号展开调查</strong></p>\n  <p>当地时间8月27日，据报道，知情人士透露，美国联邦贸易委员会（FTC）自去年以来一直在调查Alphabet旗下YouTube是否因封禁用户账号而违反了消费者保护法。目前已处于准备潜在诉讼的最后阶段。知情人士称，此次调查着重于审查该平台在封禁账号或降低内容曝光度时，是否违反其用户政策。调查正在审查，用户是否可能因公司内容政策的误导而注册该服务，认为自己被允许发布某些内容，结果这些内容后来被删除或账号被封禁。报道称，目前尚不清楚该机构的调查涵盖哪些账号。YouTube尚未被指控存在不当行为，调查也可能在不采取任何执法行动的情况下结束。（界面新闻）</p>\n  <p><strong>欧盟实施包装新规，小微企业叫苦</strong></p>\n  <p>“一股不满浪潮正席卷欧盟的小微企业群体。”欧盟的《包装和包装废弃物法规》（PPWR）自8月12日开始部分生效以来，遭到欧洲小微企业主们越来越激烈的批评，称这一新包装规定给他们带来了不成比例的重负。据“欧洲动态网”26日报道，欧洲议会议长萝伯塔·梅措拉当天承认，这项包装新规对中小型企业造成了“僵化且适得其反”的负担。（环球网）</p>\n  <p><strong>美联邦政府被裁禁止拉黑AI公司Anthropic</strong></p>\n  <p>美国加州北区联邦地区法院法官当地时间8月27日裁定，美国国防部将美国人工智能（AI）企业安特罗匹克（Anthropic）公司列入黑名单属于非法行为。法官丽塔·林在裁决书中写道：“无可争议的事实记录表明，美国国防部的行为构成了对宪法第一、第五修正案的违反。事实记录进一步表明，美国国防部长赫格塞思将Anthropic指定为‘供应链风险’的决定违反了相关法定框架……且属于武断和反复无常的行为，这一点不存在实质性争议。”（央视新闻）</p>\n  <p><strong>神舟二十三号航天员乘组圆满完成出舱活动</strong></p>\n  <p>据中国载人航天工程办公室消息，北京时间2026年8月28日13时59分，经过约5.5小时的出舱活动，神舟二十三号乘组航天员朱杨柱、张志远、黎家盈密切协同，在空间站机械臂和地面科研人员配合支持下，完成太阳翼舱外维修、空间碎片防护装置安装等任务，出舱航天员朱杨柱、张志远已安全返回天和核心舱，出舱活动取得圆满成功。航天员朱杨柱时隔3年再度漫步太空，航天员张志远首次执行出舱任务。（央视新闻）</p>\n  <p><strong>国家发改委：自8月28日24时起，国内汽、柴油（标准品）价格每吨分别上调375元、360元</strong></p>\n  <p>36氪获悉，据国家发改委，8月14日国内成品油价格调整以来，国际市场原油价格震荡运行，本次调价的前10个工作日平均价格高于上次调价前10个工作日平均价格。根据国际市场油价变化情况，自8月28日24时起，国内汽、柴油（标准品）价格每吨分别上调375元、360元。</p>\n  <p><strong>纳指收跌0.5%，芯片股走弱，英伟达跌超4%</strong></p>\n  <p>美股三大指数收盘集体下跌，道指跌0.02%，纳指跌0.52%，标普500指数跌0.25%。本周，道指累涨0.53%，纳指累涨0.85%，标普500指数累涨0.49%。“科技七巨头”多数上涨，亚马逊涨3.97%，微软涨1.68%，苹果涨1.63%，谷歌涨1.53%，Meta涨1.21%，特斯拉跌1.71%，英伟达跌4.57%。芯片股走弱，费城半导体指数跌3.47%，ARM跌超6%，应用材料、Cerebras Systems跌超4%，英特尔、台积电、AMD、阿斯麦、希捷科技跌超2%。（界面新闻）</p>\n  <p><strong>丰田要求供应商降价</strong></p>\n  <p>有消息称，丰田公司于27日表示，要求零部件供应商削减原材料成本并降低价格。不过丰田公司称该行为并非一刀切，而是根据具体情况单独协商。丰田中国方面28日回应称，上述事项是针对日本的情况，和中国没有关系。（第一财经）</p>\n  <h2>投融资</h2>\n  <p><strong>“Popi AI”完成种子轮融资</strong></p>\n  <p>36氪获悉，近日，AI内容创业公司“Popi AI”完成种子轮融资，本轮投资方为浦东AI种子基金。公司此前已获得百度风投数千万元融资。本轮融资后，Popi AI将继续推进Creator Agent、Popi.MCN以及自有IP矩阵建设，并进一步完善AI内容生产、运营和商业化体系。</p>\n  <p><strong>“瞬原科技”完成两轮数千万元融资</strong></p>\n  <p>36氪获悉，“瞬原科技”宣布完成第二轮数千万元人民币融资，领投方为社保基金中关村自主创新专项基金（君联资本担任管理人），厚雪资本，云启资本跟投。本轮融资完成后，瞬原科技将在全球范围内招募优秀人才，扩大技术优势，同时启动海外市场布局。据了解，6月初瞬原科技完成了首轮数千万元融资，由龙芯创投领投，藕舫天使、社保基金中关村自主创新专项基金跟投。</p>\n  <h2>上市进行时</h2>\n  <p><strong>Anthropic据悉最早10天后将公布招股书，IPO已至最后冲刺阶段</strong></p>\n  <p>据知情人士称，Anthropic计划在美国劳动节（9月7日）后公布其IPO招股说明书，并可能在9月下旬或10月初在美上市。该公司拟允许现有股东在IPO中出售股份，部分股东的禁售期可能超过180天，这将降低IPO后的抛售压力。目前尚不清楚在Anthropic此次IPO中，新发行的股票和现有股东出售的股票各占多少比例。但报道称，Anthropic希望在IPO中筹集至少1300亿美元以扩张算力，这将超过6月上市的SpaceX，当时其筹集了860亿美元。（财联社）</p>\n  <p><strong>上海剧星传媒股份有限公司递表港交所</strong></p>\n  <p>36氪获悉，港交所文件显示，上海剧星传媒股份有限公司向港交所提交上市申请书，独家保荐人为浦银国际。</p>\n  <h2>大公司财报</h2>\n  <p><strong>长鑫科技：上半年营业收入1503.1亿元，同比增长873.64%</strong></p>\n  <p>36氪获悉，长鑫科技披露半年报，2026年上半年，公司实现营业收入1503.1亿元，同比增长873.64%；净利润776.05亿元，上年同期亏损23.32亿元，同比扭亏为盈。</p>\n  <p><strong>美团：第二季度实现收入1046亿元，同比增长14.4%</strong></p>\n  <p>36氪获悉，美团披露2026年第二季度及半年业绩报告，二季度，美团实现收入1046亿元，同比增长14.4%。随着行业竞争趋于理性，叠加二季度旺季效应，公司各项业务恢复稳健增长，经营利润环比由负转正。二季度，美团继续加强AI能力建设，公司季度研发投入同比增长22.5%至77亿元，占总收入的7.3%。</p>\n  <p><strong>农业银行：上半年营业收入4111.22亿元，同比增加11.18%</strong></p>\n  <p>36氪获悉，农业银行披露半年报，2026年上半年，公司实现营业收入4111.22亿元，同比增加11.18%；净利息收入3122.44亿元，同比增加10.54%；归属于母公司股东的净利润1463.81亿元，同比增加4.93%；基本每股收益0.4元。</p>\n  <p><strong>TCL科技：上半年净利润38.08亿元，同比增长102.19%</strong></p>\n  <p>36氪获悉，TCL科技披露半年报，2026年上半年，公司实现营业收入886.48亿元，同比增长3.61%；归属于上市公司股东的净利润38.08亿元，同比增长102.19%；基本每股收益0.1861元。</p>\n  <p><strong>蓝色光标：上半年净利润2.11亿元，同比增长119.28%</strong></p>\n  <p>36氪获悉，蓝色光标披露半年报，2026年上半年，公司实现营业收入345.62亿元，同比增长6.80%；归属于上市公司股东的净利润2.11亿元，同比增长119.28%；基本每股收益0.059元。</p>\n  <p><strong>云南白药：上半年净利润37.01亿元，同比增长1.88%</strong></p>\n  <p>36氪获悉，云南白药披露半年报，2026年上半年，公司实现营业收入218.84亿元，同比增长2.95%；归属于上市公司股东的净利润37.01亿元，同比增长1.88%；基本每股收益2.07元。</p>\n  <p><strong>中金公司：上半年净利润81.99亿元，同比增长89.35%</strong></p>\n  <p>36氪获悉，中金公司披露半年报，2026年上半年，公司实现营收193.02亿元，同比增长50.47%；归属于母公司股东的净利润81.99亿元，同比增长89.35%。</p>\n  <p><strong>苏宁易购：上半年归母净利润1.27亿元，同比增长161.41%</strong></p>\n  <p>36氪获悉，苏宁易购发布2026年半年度报告。上半年，公司实现归属于上市公司股东净利润1.27亿元，同比增长161.41%；经营活动产生的现金流量净额16.21亿元，同比增长8.75%。</p>\n  <p><strong>五粮液：上半年净利润87.53亿元，同比增长89.3%</strong></p>\n  <p>36氪获悉，五粮液披露半年报，2026年上半年，公司实现营业收入284.17亿元，同比增长20.87%；归属于上市公司股东的净利润87.53亿元，同比增长89.3%。</p>\n  <p><strong>京东方A：上半年净利润52.48亿元，同比增长61.62%</strong></p>\n  <p>36氪获悉，京东方A披露半年报，2026年上半年，公司实现营业收入1031.32亿元，同比增长1.83%；归属于上市公司股东的净利润52.48亿元，同比增长61.62%；基本每股收益0.14元。</p>\n  <p><strong>名创优品：上半年总营收115.0亿元，同比增长22.4%</strong></p>\n  <p>36氪获悉，名创优品披露半年报，2026年上半年，集团总营收115.0亿元，同比增长22.4%；毛利率44.3%，净利润9.6亿元，同比增长5.6%，经调整净利润（Non-IFRS）为12.2亿元。名创优品品牌营收105.1亿元，同比增长21.6%；其中中国内地营收64.5亿元，同比增长26.2%，创近三年同期最快增速。</p>\n  <p class=\"editor-note\"><strong>整理</strong>｜李琪&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-29T00:52:26+00:00",
+      "fetched_at": "2026-08-29T05:22:01.652610+00:00",
+      "fingerprint": "ba8a949a47685037"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "拿下中石油体系超百台订单，这家公司为特危化场景提供“巡操一体”机器人丨36氪首发",
+      "url": "https://36kr.com/p/3959929849642113?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260829/v2_186cc37c6fdd45599827dbd7ef18c004@6221844_oswg74422oswg1707oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2600</strong>字，建议阅读<strong>6</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，特危化工业具身机器人公司——玄创机器人已完成数千万元A1轮融资，投资方包括前海方舟、光洋股份和西湖科创投。资金将主要用于数据管线搭建、VLA模型与JEPA世界模型的训练部署，以及标准化产品的备货与生产。</p>\n  <p>玄创机器人成立于2022年12月，长期深耕油气、化工等特危化工业场景，专注于特种具身智能机器人的发展与应用。</p>\n  <p>公司核心团队主要来自哈尔滨工业大学，技术成果源于哈工大机器人研究所及福建（泉州）先进制造技术研究院的研发转化。创始人及CEO傅喆拥有哈尔滨工业大学、伯明翰大学、谢菲尔德大学、帝国理工的教育背景，曾就职舍弗勒等大型外企负责能源板块业务。</p>\n  <p>整体来看，传统人工方式在极端环境中效率低、风险高，且行业面临严重的人员老化与劳动力缺口。并且，在“十五五”规划推动下，高危作业场景无人化已成为明确趋势。</p>\n  <p>“行业的紧迫性正在加速需求释放。”傅喆透露，“今年中石油从去年的POC项目采购转向了批量采购，这说明POC结果得到了相关运营单位的认可。”</p>\n  <p>经济性是另一重驱动力。傅喆表示，在某化学企业的落地案例中，客户能在一年半内就回收成本。经济性的优势带动了不少化工企业都开始正式部署特种机器人。</p>\n  <p>特危化工业的设备资产规模大、装置密集、运行连续性强，对机器人的实时性与确定性有极高要求。传统巡检机器人主要依托预设程序和固定轨道作业，能够替代人工完成高强度、高频次的标准化任务，但无法应对复杂的非结构化环境。</p>\n  <p>玄创机器人的技术核心是自研的AEGIS系统架构。研发负责人陶金博士认为，大模型虽然聪明，但无法直接满足高危工业场景对可靠性的要求。</p>\n  <p>AEGIS的逻辑为三层分工：上层负责理解任务并做决策，中间层对动作进行推演，底层则是一道安全屏障（一旦大模型发出不合理指令，系统能在毫秒内拦截）。三层解耦让决策的“慢”和控制的“快”互不干扰，保证了实时性。</p>\n  <p>在模型训练上，玄创机器人目前也主要在做三件事：一是用已部署的机器人采集真实场景数据，结合业主分享的操作数据进行积累；二是搭建自有仿真平台，用仿真数据弥补真实数据不足的问题；三是部署VLA执行模型，同时基于开源JEPA世界模型做测试，为后续自研基座模型做准备。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260829/v2_a9304c0df3f74e53a6d8becc5baaf197@6221844_oswg262586oswg793oswg793_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">防爆空地一体巡检机器人（图源/企业）</p>\n  <p>产品层面，公司的产品体系已从单一巡检扩展为巡检与巡操一体双线并行。巡检线涵盖轮式、挂轨、履带式三种构型，均已通过防爆加本质安全双认证，并新增了空地协同和双轮足两款构型，前者用无人机搭配基站巡检高塔等高点位，后者专攻窄通道和低矮空间。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260829/v2_dd14390f70654543a58a921cae380e7c@6221844_oswg263102oswg744oswg929_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">防爆双轮足巡检机器人（图源/企业）</p>\n  <p>傅喆强调，巡操一体是接下来的主打方向，区别于传统巡检机器人“只发现不处理”，它可以通过双臂执行机构直接完成操作任务，实现巡检与操作双线并行。目前该产品以遥操形式执行任务并同步采集数据，目标是2030年前实现常规作业自主化，2035年前实现复杂场景自主化。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260829/v2_5b414402204c4fda87ceaf3509cb57db@6221844_oswg176077oswg656oswg656_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">防爆巡检一体化机器人（图源/企业）</p>\n  <p>目前，玄创机器人在手订单已过亿元。其中，公司与中石油新疆油田体系签订的超百台已完成首批次交付，并以每月20台的速度持续推进，同时公司也已中标了首个海外油田智能化项目。</p>\n  <p>产能上，公司标准化总装线首台套设备已于7月30日下线，产线由上市公司光洋股份合作共建。客户拓展正从油气化工有色金属等其他危化工业场景延伸，海外市场则采用央企出海、经销商与直营三线并进的策略，重点布局中东、东南亚及俄罗斯。</p>\n  <p>除了设备销售，玄创还在探索工业服务作为第二增长曲线。针对石化化工行业中小企业有刚需但无力大额采购的现状，公司在衢州、宁波等地已启动试点，以部署机器人并提供厂区生产安全监测运营服务的方式按服务收费，有望覆盖大量中小客户并带来持续性收入。</p>\n  <p><strong>以下为硬氪与公司创始人及CEO傅喆的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：在特危化工业场景做具身智能，跨界的难度体现在哪里？</strong></p>\n  <p><strong>傅喆：</strong>这个行业真正的门槛不在实验室，在现场。防爆认证只是入场券，真正难的是理解作业流程和安全规范。一个拧阀门的动作，不同场站、不同工况下的力矩要求、操作顺序都不一样，这些经验没有写在任何一篇论文里，算法再强，也绕不开对行业know-how的积累。</p>\n  <p>我们在这个行业里泡了很多年，光现场采集的真实场景数据就覆盖了油气田、炼化、储运等多个环节，这是花时间堆出来的，短时间内没法复制。</p>\n  <p><strong>硬氪：遥操模式在客户那里接受度高吗？</strong></p>\n  <p><strong>傅喆：</strong>一开始客户也有疑虑，觉得遥操还是人在操作，不算真正的无人化。但我们跟他们算了一笔账：以前工人要穿戴全套防护装备、冒着泄漏风险去拧阀门按开关，现在坐在中控室里通过屏幕操作机器人就能完成，本质上是把人的核心价值从“危险劳动”转移到了“决策与监控”上。工人的安全风险大幅降低了，工作效率反而更高了。客户算清楚这笔账之后，接受度比我们预想的要高。而且遥操本身就是数据采集的过程，每干一次活，模型就进步一点，这是走向完全自主的必经之路。</p>\n  <p><strong>硬氪：你们现在的产品形态为什么以轮式、挂轨、履带为主，而不是人形？</strong></p>\n  <p><strong>傅喆：</strong>人形机器人确实很热，但我们在选择产品形态时只有一个标准：场景需要什么我们就做什么。</p>\n  <p>化工厂是高危场景，客户对可靠性的要求远高于对形态的追求。轮式底盘在平地效率更高，挂轨更适合固定路线巡检，履带应对复杂地形，双轮足解决窄通道，每种构型都是针对具体问题设计的。</p>\n  <p>我们目前的判断是，在特危化工业场景里，轮式、履带、轨道等传统构型加双臂的执行方案，比双足人形更可靠、更经济、更容易落地。等到技术更成熟、客户对形态有明确需求的时候，我们再做也不迟。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>前海方舟投资负责人：</strong>特危化工业具身是少数需求刚性、合规驱动、可批量交付的落地赛道。玄创没有简单堆砌大模型与硬件，而是独创驾驭工程架构补齐工业安全短板，形成差异化技术壁垒，同时已沉淀大量头部工业客户与真实工况数据，商业化闭环清晰，看好公司长期赛道龙头潜力。</p>\n  <p><strong>西湖科创投投资负责人：</strong>西湖科创投持续布局硬科技与工业AI赛道，玄创团队具备系统算法、防爆硬件、项目交付全链条能力。本轮加码将助力公司加速产品研发，并拓展长三角标杆客户，带动区域特种机器人产业集群发展。</p>\n  <p><strong>光洋股份产业负责人：</strong>光洋深耕精密伺服、传动零部件制造多年，与玄创防爆执行硬件、运动控制需求高度协同。本次战略投资将实现上下游深度绑定，依托上市公司供应链、量产制造能力，帮助玄创快速降低整机成本、提升交付产能，共同打造国产特种具身机器人完整产业链。</p>",
+      "category": "tech",
+      "published_at": "2026-08-29T01:29:14+00:00",
+      "fetched_at": "2026-08-29T05:22:01.652597+00:00",
+      "fingerprint": "9ab3416b6eb36d9d"
+    },
+    {
+      "source": "少数派",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/113944",
+      "summary": "📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...<a href=\"https://sspai.com/post/113944\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-28T09:44:32+00:00",
+      "fetched_at": "2026-08-29T05:21:58.901213+00:00",
+      "fingerprint": "362ce280d2296ce2"
+    },
+    {
+      "source": "少数派",
+      "title": "2026 烟灶选购指南",
+      "url": "https://sspai.com/post/112775",
+      "summary": "如何在新老国标换代这一年买到合适自己的烟机灶具呢？<a href=\"https://sspai.com/post/112775\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-29T01:20:06+00:00",
+      "fetched_at": "2026-08-29T05:21:58.901203+00:00",
+      "fingerprint": "19827a786fdfcf8e"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.8354 CNY ↑+0.07%",
+      "url": "https://www.frankfurter.app/2026-08-28?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-08-28</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.8354 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0035 (+0.07%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-08-29T05:21:55.391196+00:00",
+      "fingerprint": "c7b56214eef4d1ca"
+    },
     {
       "source": "The Guardian - World",
       "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
@@ -1591,246 +1821,6 @@
       "published_at": "2026-08-22T03:00:00+00:00",
       "fetched_at": "2026-08-23T01:02:21.161728+00:00",
       "fingerprint": "c6de64b1b72c4b4d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-      "category": "politics",
-      "published_at": "2026-08-21T05:47:32+00:00",
-      "fetched_at": "2026-08-22T00:57:36.956328+00:00",
-      "fingerprint": "3231ffb9e3b1cd0d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "One killed in sword attack at Swedish school",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-      "category": "politics",
-      "published_at": "2026-08-21T21:03:24+00:00",
-      "fetched_at": "2026-08-22T00:57:36.956322+00:00",
-      "fingerprint": "07a53490b13ac994"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
-      "category": "politics",
-      "published_at": "2026-08-21T19:49:56+00:00",
-      "fetched_at": "2026-08-22T00:57:36.956315+00:00",
-      "fingerprint": "d8cfd88b4fd70dac"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "category": "politics",
-      "published_at": "2026-08-21T05:00:57+00:00",
-      "fetched_at": "2026-08-22T00:57:36.956305+00:00",
-      "fingerprint": "b0800952dcb4888b"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
-      "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "這是台灣相隔短短一年後再有公投，也是當地近8年來，第4度舉行公投。BBC中文整理了此次三大公投的背景和重點。",
-      "category": "politics",
-      "published_at": "2026-08-21T13:47:30+00:00",
-      "fetched_at": "2026-08-22T00:57:36.650008+00:00",
-      "fingerprint": "85eda76e05fa8334"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "法庭認為，支聯會雖未使用或鼓吹暴力手段，但中國《香港國安法》頒布後，三人仍堅持「結束一黨專政」行動綱領，屬於「顛覆國家政權」罪中的「其他非法手段」。",
-      "category": "politics",
-      "published_at": "2026-08-21T13:24:42+00:00",
-      "fetched_at": "2026-08-22T00:57:36.650001+00:00",
-      "fingerprint": "739c4b57576304be"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "特朗普想與金正恩做朋友，韓國恐要為此付出代價",
-      "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美韓聯合軍事演習提前結束，此時北韓正處於實力強勢的位置。",
-      "category": "politics",
-      "published_at": "2026-08-21T09:40:09+00:00",
-      "fetched_at": "2026-08-22T00:57:36.649990+00:00",
-      "fingerprint": "80502033cc161a8d"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-22T00:57:36.184267+00:00",
-      "fingerprint": "37043a392a5360c1"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-22T00:57:36.184137+00:00",
-      "fingerprint": "dc6f0a5929be4e99"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-22T00:57:36.183992+00:00",
-      "fingerprint": "46b6a8516986c3e1"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-22T00:57:36.183843+00:00",
-      "fingerprint": "404ef0e0d6981e27"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-22T00:57:36.183687+00:00",
-      "fingerprint": "acd943a5b9656967"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-      "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-      "summary": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a statement to [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-21T19:44:55+00:00",
-      "fetched_at": "2026-08-22T00:57:35.884318+00:00",
-      "fingerprint": "bdb361cc1d60e534"
-    },
-    {
-      "source": "The Verge",
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-21T21:25:50+00:00",
-      "fetched_at": "2026-08-22T00:57:35.884312+00:00",
-      "fingerprint": "7c3227e89061b9d2"
-    },
-    {
-      "source": "The Verge",
-      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-      "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-21T22:13:34+00:00",
-      "fetched_at": "2026-08-22T00:57:35.884306+00:00",
-      "fingerprint": "8ae89ac8295241aa"
-    },
-    {
-      "source": "The Verge",
-      "title": "HoverAir’s transforming modular drone has already been halted in the US",
-      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-21T22:14:11+00:00",
-      "fetched_at": "2026-08-22T00:57:35.884296+00:00",
-      "fingerprint": "eaac9111649bb58a"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪2024年度中国最具影响力产业投资暨十大领域年度名册｜正式发布",
-      "url": "https://36kr.com/p/3949029563677824?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_c28e1c45300a4e55965726e554aeb1f1@5352461_oswg49093oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <blockquote>\n   <p>向内求。</p>\n  </blockquote>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_5d5baccdf58f493d9c63cc74118d7016@5352461_oswg300oswg1080oswg57_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>出品｜</strong>36氪创投研究院</p>\n  <p>2024年，全球经济格局正在经历深刻调整，世界产业链的格局也在急剧转变中。在环境变革的持续影响下，中国风险投资乃至整个金融市场，都处在一个漫长的调整期。</p>\n  <p>这一点，从募资、退出数据上就可见端倪：2024上半年新募集基金数量和募资规模均大幅下降，分别接近50%和23%，且其中大笔基金来源以国资、地方政府、产业龙头为主，携带着精准服务区域招商引资、严格把控风险、支持中小企业和科技创新发展等要求。</p>\n  <p>退出难度也一并升级。IPO方面持续收缩，上半年中企IPO数量82家，同比下降62%，其中获得VC/PE支持接近共55家企业。这个数字在2023年上半年是139家。而被给予厚望的“并购”和“S交易”，实际在操作层面也是步履蹒跚。</p>\n  <p>在以国资主导的当下，风险投资早就不仅仅是为超额收益而存在，而是背负了更多元的意志。</p>\n  <p>6月19日，国务院办公厅印发《促进创业投资高质量发展的若干政策措施》指出，发展创业投资是促进科技、产业、金融良性循环的重要举措。其中涉及的私募基金监管规范化、多层次资本市场高质量发展以及新质生产力的加速培育，对当下匍匐前行的机构们、提出了新的历史任务。</p>\n  <p>在此背景之下，投资机构不但要在寻常“募投管退”运作中不断精进自身，还需要从全局出发、形成强有力的“产业生态”影响力、号召力；从内到外、由浅至深的建立基于ESG理念的投资脉络……与此同时，协助被投企业渡过难关也是应有之义，尤其当下所涉及的供应链安全、数据安全、跨境产业链整合与运营等等棘手问题。</p>\n  <p>部分头部双币基金拆分本土团队、设立独立品牌，在本土市场全面聚焦“科技创新”前沿产业，例如人工智能、具身智能等；完全本土基因的机构们，则是收敛选择、持续深耕先进制造、芯片/半导体、医疗健康、新能源/新材料等等领域；而背靠产业龙头企业的CVC们则是向产业纵深走去，提振整个产业在国际化竞争中的地位。</p>\n  <p>这或许是历史上最为冲突又混乱的一段时期：关键性科学技术在疯狂更迭、日新月异，产业变革正在悄然发生，玩家们在困境中寻找一线生机。</p>\n  <p>至此时刻，基于“36氪股权投资市场在线调研系统”（https://touzi.36kr.com/）收集的申报者们在“募投管退”环节的整体表现，具体包括：1）管理规模；2）近3+1年的投资活跃度、明星项目情况、portfolio公司后续获得新融资的项目数量；3）退出回报水平；以及4）在各个关键产业（ESG投资）的影响力等细分维度。</p>\n  <p>评选出2024年36氪“中国最具影响力产业投资基金”、“中国十大领域产业投资基金/投资人”，“中国最佳ESG投资实践投资机构”。</p>\n  <p>以下是全名单：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_502b869ad5774005b5d5fbd211614d8a@5352461_oswg469969oswg1080oswg5905_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_c850906877ab48159992fa9b2ed90e8f@5352461_oswg242812oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_1d48caa0e8e245b8aa21cfc17998565f@5352461_oswg263407oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_10d8cc01d5724bccbb1752e4bc9d37f3@5352461_oswg237674oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_002aa3593c2c4d5480d53c67355fe36b@5352461_oswg252746oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_5b2b8974d16740c2bd8e28d215768b0b@5352461_oswg232834oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_781be5febd7f450cb481d29498fbad85@5352461_oswg255866oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_4e31338bf19549c4ac6fd22b32ac8bdd@5352461_oswg236142oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_084b66d8b08f4dfbb19a608606c1524d@5352461_oswg260205oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_5033b539691741cfb20f389d255f94b6@5352461_oswg236655oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_ef3b36989bfd4ad1a7aa326a9b6c25b6@5352461_oswg258964oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_9a7dffd26dba493eb2ae77a1cdfabbe7@5352461_oswg235407oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_7d59d8f24ddc4a5293cb714bba52c839@5352461_oswg257954oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_3509f8022285415aa6c066da55c3c671@5352461_oswg232248oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_f1db242fc0c34a7396d5c2e408eabe5b@5352461_oswg253812oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_09388a36ac8643b9810cd0a8a2d90690@5352461_oswg234765oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_3431129b966b4498976344403ee301e5@5352461_oswg256333oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_e5ae653d3dbb42b18d03c82cf392be3a@5352461_oswg237422oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_0ad5480bc0074ced8ad6ec5b9e318a68@5352461_oswg259499oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_5a4b494564434fc1b8a239daba8fc50a@5352461_oswg242765oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_5297c02c7efc412fb36655aa98b85451@5352461_oswg261771oswg1080oswg2917_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_d93f172b31a245ef8121307525e53e82@5352461_oswg459361oswg1080oswg5905_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>与此同时，我们还向市场广泛征集，试图找到一群顺应市场变化、深耕产业的精品投行，评选出“中国最具影响力/成长力精品投行”、“中国最具影响力并购重组/企业融资精品投行”，以及“中国十大领域精品投行”。&nbsp;</p>\n  <p>主要评选维度包括最近3+1年内，并购/融资领域服务项目（轮次）数量、并购/融资涉及资金规模、明星项目数量、服务周期与效率。最终，我们找到了当下依然值得被关注的精品投行们。&nbsp;</p>\n  <p>以下是全名单：&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_15f9704f6ee84025af554663828bd72d@5352461_oswg138756oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_44aae6b96c8647ed883f40d64959c77e@5352461_oswg142841oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_6bf652d4c492464c940bb1bec9712c37@5352461_oswg107232oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_76b297952897420b940a46de2baa7448@5352461_oswg106200oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_b547452af88a4c9e9dd137745fd4af26@5352461_oswg86130oswg1080oswg1936_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_54515bccad94469e9a4280927868f2f0@5352461_oswg84021oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_dc7dee9d143e4c9ea9e9956150f04834@5352461_oswg84716oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_853c884d8ec049caada307e1c1a7fba8@5352461_oswg85310oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_4e0c814eda104b4d8cb78e5c9317680b@5352461_oswg85946oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_e7222f36b5dc434a8fe66346594fb019@5352461_oswg84846oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_c93338c819014587ae6f7fd641c0b4f0@5352461_oswg86300oswg1080oswg1936_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_c3977d9aad4447eb923e3913a79364a8@5352461_oswg86120oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_5b0a19f60a7847b8ab032a0022182a12@5352461_oswg83887oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_98e2b1b3972a4c8f8eab5cece3f884d3@5352461_oswg84993oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_83ec655cc0744d27b6d14e41825c9eeb@5352461_oswg1954oswg1080oswg87_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-08-21T09:32:38+00:00",
-      "fetched_at": "2026-08-22T00:57:35.787841+00:00",
-      "fingerprint": "39742a276b6d2b6b"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "卫星终端量产、数据平台开放，「天行探索」完成数千万天使+轮融资｜36氪首发",
-      "url": "https://36kr.com/p/3948924484107395?f=rss",
-      "summary": "<p>36氪获悉，卫星互联网连接与数据服务提供商北京天行探索科技有限公司（以下简称“天行探索”）<strong>已完成数千万天使+轮融资，由陆石投资和梅花创投共同出资。这也是陆石投资继天使轮独家投资后的连续加注。</strong></p>\n  <p>本轮资金将主要用于产品研发与生产，以及多体制融合中试平台和软件平台的搭建，重点强化团队设计、开发、测试三个环节的能力。</p>\n  <p>天行探索成立于2025年4月，是36氪长期关注的企业。创始人告诉36氪，公司<strong>高轨高通量和低轨物联网终端均已进入批量生产和销售阶段</strong>，目前主要收入来自终端硬件销售，其中交通（车载、越野、户外）场景贡献了90%以上的营收。</p>\n  <p>海外业务也开始产生实际收入：设备月均销售千套，形成了相对稳定的客户群体。团队也正在为无人船、无人艇进行定制化卫星通信产品测试，预计年底前逐步进行海洋业务的市场拓展。</p>\n  <p>此外，<strong>天行探索目前正在与奇瑞、比亚迪、长安等多家具备越野属性和有海外业务布局的车企推进合作</strong>，短期内将以软件前装和硬件后装精品模式先行渗透，硬件前装合作也将随着车型适配的验证测试逐步推进。</p>\n  <h2><strong>一年三步走：上新、量产、扩张</strong></h2>\n  <p>过去一年，天行探索在产品生产研发、组织规模、资源整合等多方面都取得了一定进展。</p>\n  <p>组织布局上，先后在青岛、哈萨克斯坦、深圳三个区域新设立了分支机构：加上此前已有的成都团队，形成了“北京运营中心+成都研发中心+多个场景/区域业务主体”的结构。</p>\n  <p>在资源层面，先后与中国卫通、铱星中国、时空道宇、长光卫星等卫星资源方开展战略合作。</p>\n  <p>产品侧进展最为显著。</p>\n  <p>去年10月，天行探索发布卫星终端原型产品；今年4月，高轨高通量和低轨物联网硬件终端分别进入批量生产和销售阶段。软件方面，行者Adventure APP今年5月起正式对外公测，目前注册用户数千个，近期日新增注册量持续走高。车机版软件也已同时对外发布。今年6月，运营服务平台正式上线。</p>\n  <p>在创始人看来，产品进展的背后，是团队交付速度和落地能力的体现。在不到一年时间内完成两轮产品迭代并推动批产，这种从定义到落地的全流程能力，叠加应用层赛道逐步明确的机会，也正是机构愿意在这一阶段继续加注天行探索的原因。</p>\n  <h2><strong>硬件做入口，平台做生态</strong></h2>\n  <p>经过一年开发迭代，天行探索逐步形成了“硬件终端+软件应用+数据平台”的完整架构。</p>\n  <p>硬件端分为三个层级——面向后装市场的便携终端“行者mini”、支持高轨高通量卫星通信的高性能终端“行者Pro”、面向车规级前装的“行者S-BOX”控制盒。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_33873ce4c2fc4994a890edf0f430886a@6413691_oswg132390oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">便携终端“行者mini”</p>\n  <p>软件端包括手机APP和车机APP，可与硬件互联实现定位、轨迹和报警数据的实时回传；也可脱离硬件独立运行，提供线路规划、组队通信、精品路书等功能，以更低门槛触达用户。目前，APP端仍以免费策略获客，未来将通过数据增值服务实现付费转化。</p>\n  <p>数据层则由“行者Horizon平台”作为支撑，通过整合多星座资源，为车载场景提供路况预测、预警提示和决策支持等增值服务。</p>\n  <p>在天行探索的设想中，<strong>Horizon平台的定位并不仅局限于服务自有产品，而是更具开放性的应用共享生态入口。</strong></p>\n  <p>平台从设计之初就预留了标准化API接口，便于第三方终端产品按统一规范快速接入。这意味着，用户未来无需再为选择哪家星座、适配哪类网络而困扰，只要接入Horizon平台，就能在同一个服务体系中获得连接能力。</p>\n  <p>不过这一目标的实现仍需时间。目前不同星座之间的底层接口尚未打通，天行探索的策略是自上而下、逐步推进——先打通部分星座的上层协议，让用户在应用侧使用起来；随着客户规模和商业闭环的形成，再逐步向物理层深入，最终实现真正意义上的跨星座通信与服务。</p>\n  <h2><strong>不只解决0到1</strong></h2>\n  <p>卫星通信领域的门槛不仅在于达成某项底层协议，更大的挑战是如何让已有技术在真实场景中可靠地工作。</p>\n  <p>这也反映在天行探索自身的实践路径上。</p>\n  <p>自2025年10月以来，天行探索先后参与了阿拉善英雄会、N35穿越、环塔拉力赛、青戈赛等多场赛事活动的通信保障工作。目前，团队已跟随赛方及各大车队完成了约20万公里的实路测试，在持续颠簸、极端温差的环境中反复测试对星算法和传输稳定性，并在发现问题后远程即时调优算法，再重新投入验证使用。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_336b9aefc29e425cbb80a63297bc9e12@6413691_oswg164138oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">硬件终端在沙漠环境中进行测试</p>\n  <p><strong>“只有不断地深入场景，不断地打磨产品，才能在卫星互联网应用领域解决更多从1到10、从10到100的问题。”</strong>创始人认为，类似的场景化精细打磨，是传统卫星终端厂商相对薄弱的环节，也是天行探索的差异化所在。</p>\n  <p>但产品可靠只是第一步。如果只解决“连上天”的问题，卫星通信将仍是小众低频的赛道。</p>\n  <p>天行探索对卫星互联网应用产业的判断是：2027年前后进入网络运营期，2030年进入信息增值期。届时，竞争的核心将不再是用哪家的终端，而是建立连接之后，能在网络上跑什么数据、给用户提供何种价值。</p>\n  <p>基于此，天行探索将商业模式拆解为四层：硬件终端、流量运营、场景增值和数据服务。</p>\n  <p>在创始人看来，天行探索未来的定位是产品定义者和提供商，<strong>核心是贯穿“连接—数据—场景”的一体化意识</strong>——在生产适配典型场景的硬件终端的同时，规划数据服务，通过整合通导遥数据、搭建生态平台，把连接能力转化为可规模化交付的服务能力。</p>\n  <p>目前，天行探索正在申请电信增值服务相关资质，计划于下半年开启新一轮融资。</p>",
-      "category": "tech",
-      "published_at": "2026-08-21T10:22:10+00:00",
-      "fetched_at": "2026-08-22T00:57:35.787835+00:00",
-      "fingerprint": "58ba79188dfd8e99"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "泡泡玛特要把去年赚的钱全分了",
-      "url": "https://36kr.com/p/3949149310975362?f=rss",
-      "summary": "<p><strong>作者 |&nbsp;</strong>谢芸子</p>\n  <p><strong>编辑</strong>&nbsp;<strong>|</strong>&nbsp;张帆</p>\n  <p>8月20日盘后，泡泡玛特交出了2026年中期答卷。</p>\n  <p>摊开财报来看，喜忧参半的底色十分明显：上半年营收171.7亿元，同比增长23.8%；经调整后净利润51.6亿元，同比增长9.5%。营收仍在增长，净利润增速却已滑落至个位数；毛利率69.7%，相较去年同期微降0.6个百分点。</p>\n  <p>资本市场用下跌回应这份成绩单。</p>\n  <p>财报次日，泡泡玛特股价跌超3%，总市值回落至1984亿港元。这与LABUBU火遍全球时、市值冲破4359亿港元的盛况，不可同日而语。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_a462a6fe1c114824b6521b42fd0ee6b8@394564713_oswg88636oswg729oswg446_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪截自财报</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_377ea5e914904c588729fa7eb87cb9a9@394564713_oswg44985oswg1056oswg579_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片截自Wind</p>\n  <p>如果拉一条时间轴，2025年的泡泡玛特还在狂飙——全年营收371.2亿元，同比增长184.7%。彼时公司创始人王宁表示，“感觉今年300亿很轻松”。</p>\n  <p>狂飙的代价则在2026年集中显现。</p>\n  <p>半年报业绩会上，王宁直言，今年是“经营调整年”，上半年的压力比预想的大，下半年压力只会更大，“大概率完不成年初定的20%的增长目标”。</p>\n  <p>这个“完不成”的预判，与单季度的数据形成对照。</p>\n  <p>今年一季度，泡泡玛特体收益同比增长75%-80%，中国市场甚至翻倍；但到了二季度则明显放缓。参考上半年整体增速，二季度的增速可能降至个位数。</p>\n  <p><strong>与之伴随的，是海外市场的“急刹车”。</strong></p>\n  <p>2025年，海外业务还是泡泡玛特最强劲的增长引擎：全年海外收入162.68亿元，同比增长292%，收入占比从31.8%提升至43.8%，美洲地区增速一度高达748%。</p>\n  <p>然而2026年上半年，海外业务营收49.72亿元，同比下滑11%。亚太地区收入25.8亿元，下降9.7%；美洲大跌16.5%至18.9亿元；唯有欧洲增长5.9%，实现收入5.1亿元。海外收入的占比也从去年全年的43.8%，骤降至约29%。</p>\n  <p>这背后的原因是多重的。</p>\n  <p>泡泡玛特首席运营官司德表示，去年海外的高增长很大程度由LABUBU拉动，大量新增用户缺乏潮玩文化认知，对品牌其他IP不熟悉；而海外团队多为去年新入职，“专业积淀甚至不及普通用户”。</p>\n  <p>更现实的痛点在于供应链。管理层在业绩会上提到，美国市场“能运过去的量很少，可能最终需要空运的费用又很高”。</p>\n  <p>销量下滑与运输的困难直接反映在存货方面。截至2026年上半年，泡泡玛特存货周转天数已从2025年末的123天升至201天。存货余额从54.7亿元增至61亿元。海外扩张的粗放式增长，正在回归精细化运营。</p>\n  <p><strong>IP结构的变化，是半年报的另一条暗线。</strong></p>\n  <p>LABUBU所在的THE MONSTERS家族，上半年营收44.5亿元，仍居第一，但收入占比已从2025年的38.1%降至26%，同比下降7.5%。这个曾以一己之力撑起泡泡玛特全球声量的超级IP，正在经历自然的生命周期回调。</p>\n  <p>接棒的是星星人。</p>\n  <p>上半年，泡泡玛特共有6个IP破10亿、11个IP过亿，IP矩阵的多元化确有进展。其中，星星人带来的营收达到26.5亿元，同比暴涨580.6%，收入占比从2.8%跃升至15.4%，成为集团第二大IP。</p>\n  <p>此外，CRYBABY、DIMOO、SKULLPANDA、Hirono小野等主流IP均保持双位数增长。司德尤其表示，SKULLPANDA、Hirono小野乃至Nyota、Peach Riot，都在欧美市场获得了不错的表现。</p>\n  <p><strong>2026年以来，泡泡玛特先后推出“Nyota小小瞬间”搪胶系列与“Nyota×樱桃小丸子”联名系列，也表明公司对“腰部IP”的持续投入。</strong></p>\n  <p>再从产品品类划分，毛绒玩具实现收入98.3亿元，同比增长60%，为集团贡献了57.2%的收入。手办类产品保持相对稳定，上半年实现销售收入51.9亿元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_ba880de0776f4211b8d9b560d777ce48@394564713_oswg887692oswg1268oswg568_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">泡泡玛特上半年新品；图片截自官方微博</p>\n  <p>不过隐忧同样存在。</p>\n  <p>今年上半年，MOLLY收入9亿元，同比大跌33.6%。这也是MOLLY这位“元老”，自2023年起首次跌出十亿阵营。</p>\n  <p>司德称，MOLLY会在年底或者明年上半年，有较大的突破性产品推出。“我们希望可以帮助MOLLY在传统产品线之外，让大家看到一些更亮眼的、不太一样的产品形式。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_1cb2f85f25e2437e9605fbbc946892a3@394564713_oswg116611oswg750oswg567_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪截自财报</p>\n  <p>市场观望的同时，泡泡玛特也需要“保卫利润”。</p>\n  <p>报告期内，公司毛利率为69.7%，较同期下降了0.6个百分点，主要由于海外收入占比下降，同时受国际局势不稳定因素影响，原材料成本上涨。</p>\n  <p>各项费用方面，上半年的销售费用及管理费用较去年同期增长了8.95亿元。原因在于，报告期内全球增加的105家线下门店。尽管经调整后，泡泡玛特的净利率仍维持在30%的水平。</p>\n  <p>而在今年下半年，泡泡玛特仍计划在海外市场开出更多新店。对于中国市场，升级焕新也会持续进行。但王宁强调——今年不会追求特别激进的、增收不增利的成长模式。</p>\n  <p>这意味着，泡泡玛特已将利润增长置于规模扩张之上。</p>\n  <p>此外，为了回应资本市场的焦虑，公司也将在未来6个月启动20亿至50亿元的股份回购计划。</p>\n  <p>这并非临时起意。今年3月业绩发布后，泡泡玛特股价下跌，公司也在6个交易日内连续回购近14亿港元。年初至今，泡泡玛特已累计回购约17.4亿港元。</p>\n  <p><strong>值得注意的是，粗略计算，叠加上半年执行的约32亿元的派息分红，泡泡玛特今年“分红加回购”的支出在67亿至96亿元之间。公司去年的净利润为127.8亿元，经营性现金流为108亿元。</strong></p>\n  <p><strong>换句话说，泡泡玛特要把去年赚的钱“全分了”，这家公司正在用“极高的股东回报”，稳住投资人的信任，对冲未来业绩的不确定性。</strong></p>\n  <p>综合来看，2026年中期的泡泡玛特，折射出的是公司处于高速增长换挡期的复杂光谱。在未来，星星人能否承接住压力、海外市场能否恢复元气、LABUBU大电影能否持续推进、泡泡玛特能否真正成为一家IP平台，还要在下半年乃至更长的时间揭晓。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_9d162da84c574d77a9bf79eb1fbcd7f8@394564713_oswg68085oswg901oswg518_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">关注获取更多资讯</p>",
-      "category": "tech",
-      "published_at": "2026-08-21T11:29:24+00:00",
-      "fetched_at": "2026-08-22T00:57:35.787828+00:00",
-      "fingerprint": "2a3bee9454faa276"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "氪星晚报｜中科曙光超节点产品亮相安徽算力大会；广州市中级人民法院依法受理恒大地产集团有限公司破产清算案；科大讯飞：将于今年全球1024开发者节推出全新主力通用大模型",
-      "url": "https://36kr.com/p/3946071687921026?f=rss",
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3948915740753287\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>苹果裁撤60名VR团队员工 战略重心或转向AI眼镜</strong></a></p>\n  <p>据报道，苹果已对Vision业务团队进行人员调整，至少60名隶属于Vision小组、从事VR相关开发的员工遭到裁员，苹果官方尚未对该消息作出回应。报道指出，本次裁员背后是苹果战略转向，该公司资源正流向AI智能眼镜，这款新品预计于2027年WWDC大会亮相，同年晚些时候上市。（新浪财经）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3948909849738376\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>马斯克称SpaceX目标到2030年每年发射约1万次，到2030年代末营收增长远超2000%</strong></a></p>\n  <p>马斯克周四在回应用户分享的关于美国政府计划到2030年实现每年1000次火箭发射的帖子时表示，SpaceX的目标是“到2030年实现星舰每日30次以上发射，换算成年度规模约为1万次。” 同一天，马斯克回应了另一位网友的帖子，后者预测到2030年代末，SpaceX的营收将增长2090%，特斯拉的营收将增长119%。马斯克回复称：“我知道现在听上去很疯狂，但我认为SpaceX和特斯拉的表现都会超出这些预期。”（财联社）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3948826792115589\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>豆包：上线技能·连接器·工作伙伴</strong></a></p>\n  <p>36氪获悉，8月21日，据豆包消息，豆包工作任务模式上新，技能·连接器·工作伙伴/小队现已上线。据介绍，打开豆包电脑版侧边栏，选择“技能·连接器·伙伴”，即可体验。目前，豆包内已上架超200个技能和连接器，并支持自定义新建技能。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3948811662539912\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>韩国互联网巨头Kakao拟分拆核心业务以加强AI能力</strong></a></p>\n  <p>韩国互联网巨头Kakao公司周五表示，计划将包括其热门即时通讯服务KakaoTalk在内的主要业务拆分为两个独立实体，以加强其人工智能（AI）能力。该公司在一份监管文件中表示，将公司拆分为KakaoAI和KakaoX的计划已在董事会会议上获得批准。Kakao计划于明年1月1日前完成分拆，并于1月27日重新上市KakaoAI。（新浪财经）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3948989558947203\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>中科曙光超节点产品亮相安徽算力大会</strong></a></p>\n  <p>36氪获悉，8月21日，安徽算力产业生态大会期间，中科曙光无线缆箱式超节点scaleX40作为“算力产业新技术新业态成果”，在大会上重点展示。该超节点面向企业级AI场景，采用正交无线缆一级互联架构，单节点集成40张GPU，总算力超28PFLOPS，可将部署周期从数月缩短至数小时。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3948769575566725\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>广州市中级人民法院依法受理恒大地产集团有限公司破产清算案</strong></a></p>\n  <p>36氪获悉，据广州市中级人民法院消息，8月21日，广州农村商业银行股份有限公司华夏支行以恒大地产集团有限公司不能清偿到期债务，并且资产不足以清偿全部债务为由，向法院申请对恒大地产集团有限公司破产清算。广东省广州市中级人民法院经审查认为，该申请符合《中华人民共和国企业破产法》第二条第一款的规定，于2026年8月21日裁定受理广州农村商业银行股份有限公司华夏支行对恒大地产集团有限公司的破产清算申请。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3949066882497926\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>追觅扫地机获欧睿认证：全球首创180℃蒸汽源技术</strong></a></p>\n  <p>近日，追觅扫地机获得欧睿国际权威认证，搭载的“180℃蒸汽源”技术系全球首创。据了解，追觅X60 Pro Steam扫地机可以在8秒内制备180℃蒸汽，通过四路加压喷射，让高温蒸汽充分作用于地面污渍，配合75℃热水洗拖功能，快速瓦解重油污、脚印泥渍等顽固污垢，让地面干净如新。截至目前，追觅已进入全球120个国家和地区市场，并在全球30个国家获市占第一，10个国家市场份额超50%。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3949065247227010\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>贵州茅台董事长陈华：适配真实消费、防止中间炒作的价格体系和机制已搭建完毕</strong></a></p>\n  <p>8月21日，贵州茅台召开2026年半年度业绩说明会，董事长陈华表示，今年以来，公司建立和完善“随行就市、相对平稳、供需适配、量价平衡”的动态价格调整机制，7个月来已经进行五次市场价格动态调整，产品零售价格接轨市场零售价。目前，茅台酒主力产品在“i茅台”对社会开放销售，全系产品在全国43家自营店向社会开放销售。至此，能够适配真实消费、防止中间炒作的价格体系和机制已经搭建和塑造完毕。（证券时报）</p>\n  <h2><strong>新产品：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3948746932583555\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>五一视界与联合影像成立合资公司，推出AperData产品</strong></a></p>\n  <p>36氪获悉，五一视界与联合影像成立合资公司深圳万物临场智能科技，聚焦具身智能数据基础设施。合资公司发布软硬一体数据平台AperData，贯通数据采集与训练交付，发布两日订单超1万套，首批产品将于8月底量产交付，并进一步拓展智驾、具身及空天领域。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3948941687225736\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>全新深蓝G318上市</strong></a></p>\n  <p>36氪获悉，8月21日，深蓝汽车在2026成都国际车展上正式发布全新深蓝G318。新车提供华为乾崑与天枢领航两套智能辅助驾驶系统，共推出四驱舒享天枢版、四驱舒享乾崑版、四驱空悬乾崑版三款配置车型。与此同时，\"公路磁悬浮\"深蓝L06全新特别版也迎来首秀。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3949028903566720\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>科大讯飞：将于今年全球1024开发者节推出全新主力通用大模型</strong></a></p>\n  <p>36氪获悉，8月21日下午，在科大讯飞2026年半年度业绩说明会上，公司总裁吴晓如透露，在今年全球1024开发者节上，科大讯飞将推出基于全国产算力的全新主力通用大模型；在今年8月底，公司将先推出阶段性版本。他表示，即将推出的全新主力通用大模型将在代码能力和Token性价比上整体达到国内第一梯队，同时在全国产算力训练的通用大模型中，各项指标继续保持国内领先。</p>\n  <h2><strong>其他值得关注的新闻：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3949037799554181\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>国家发展改革委召开“两重”建设工作推进会，督促各地有力有效加快重大项目建设</strong></a></p>\n  <p>36氪获悉，据国家发展改革委，8月20日，国家发展改革委党组成员、副主任岳修虎同志主持召开“两重”建设工作推进会，天津、内蒙古、江苏、浙江、河南、广东等6省（区、市）分别做了发言。会议重点通报全国“两重”建设项目实施进展情况，布置下一步重点工作，要求各地加大督促力度，真抓实干、有力有效加快推动重大项目建设。国家发展改革委投资司负责同志参加会议。</p>",
-      "category": "tech",
-      "published_at": "2026-08-21T12:12:53+00:00",
-      "fetched_at": "2026-08-22T00:57:35.787820+00:00",
-      "fingerprint": "8b2f20791a2af313"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "成本超12亿的《诡秘之主》，能否成为快手自研游戏的破局点？",
-      "url": "https://36kr.com/p/3949238923181444?f=rss",
-      "summary": "<p>文丨果脯</p>\n  <p>由同名IP小说改编的MMO网游《诡秘之主》，今天终于端上桌了。</p>\n  <p>自2023年首曝以来，《诡秘之主》游戏就已经收获了大量关注，其首曝视频在B站获得了超600万的播放量，不久后的实机场景演示更是突破700万。</p>\n  <p>上线前，这款产品还在TapTap收获了210万的预约，成为TapTap里市场预约量最高的MMO新作。在MMO逐步式微的当下，这数据显然相当难得。而上线后，这款产品也不出预料登顶了iOS免费榜。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_d7427141e0e641a68448a294359ac18b@6202862_oswg48233oswg457oswg397_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">七麦数据iOS免费榜</p>\n  <p>不可否认，《诡秘之主》游戏绝对算得上一款“含着金钥匙”出生、具有极大野心的产品。其IP原著小说是起点近几年以来最出圈的现象级作品之一，曾打破多项网文纪录，而开发团队则是快手旗下的弹指宇宙，要人有人要钱有钱。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_f7c85b33c3aa4853969fa9f6376eb283@6202862_oswg621042oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">原著作者的寄语</p>\n  <p>而据官方公告，游戏整体基于UE5打造，项目组成员超600人，迄今包含推广费用在内项目总成本已经超过12亿元人民币。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_1778621b35044ae3a022ea6de4fa406f@6202862_oswg19064oswg682oswg210_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方公众号的推文QA</p>\n  <p>放眼整个行业，这样的起步也相当少见。</p>\n  <p>“究竟该改编成一款怎样的游戏？”</p>\n  <p>这既是游戏首曝初期项目组一度反复思考的问题，也是所有IP粉丝最为好奇的一点。</p>\n  <p>弹指宇宙作为快手旗下的自研游戏厂牌，《诡秘之主》无疑是其迄今为止最重磅的项目，也是一张风险最高的Joker牌。</p>\n  <p>做好了，Joker自然是王牌，《诡秘之主》无疑能够基于大IP加持赚得盆满钵满，IP粉丝也能收获一个心满意足的结果，同时还可以进一步吸引许多未曾看过原著的新用户。但如果做砸了，那Joker恐怕就成了真小丑，从项目组到弹指宇宙，乃至快手，都得从成本到口碑付出代价。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_84638d343ea44cd3a55948f07f7b0e03@6202862_oswg376679oswg1080oswg601_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏官方海报</p>\n  <p>从公测给出的答案来看，他们最终还是选择了一套比较克制、但又相当肯砸钱的打法。</p>\n  <p>二测前后，《诡秘之主》官方主动披露了开发团队的构成背景。其中，制作人是前雷火祝融工作室总监徐杰，他同时也是前《逆水寒》制作人。大部分核心团队成员，也都来源于业内多家头部大厂，都是具有多年MMO经验的开发者。</p>\n  <p>所以，《诡秘之主》最终走的也是团队最擅长、最有经验的路径，即复刻当年网易改编温瑞安小说《逆水寒》的路子。</p>\n  <p><strong>就实际体验来看，这套路径复刻得相当彻底——甚至连官号营销风格都学了七八分。</strong></p>\n  <p>《诡秘之主》许多玩法体系和商业化模式，能从《逆水寒》的诸多成功版本里看到不少影子，大到日常本、周本乃至大月卡的资源调度、节奏安排，小到系统框架、操作模式等底层设计逻辑。</p>\n  <p>比如《诡秘之主》将玩家的日常行动分成了游玩和获取奖励两大板块。玩家可在“躺赢”系统里体验当天的推荐玩法，并获得活力（即体力）奖励，而活力则用于开启各类奖励。当然，活力也能随时间自然恢复。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_4cc858fc737349eba2e1e89d9b16fce4@6202862_oswg820195oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“躺赢”系统</p>\n  <p>这一系列设计，《逆水寒》已经验证数年，基本上不会出现踩雷的情况。</p>\n  <p>但若按网友所说，把《诡秘之主》粗暴地类比成“西幻风格的换皮《逆水寒》”，其实多少有失公正。</p>\n  <p>就像战牧法是MMO的职业核心框架，当下《逆水寒》的整体框架无疑是最安全的选择，并且也是徐杰及团队最了解的设计。在笃定做传统MMO的情况下，他们沿用这套熟悉的框架无可厚非。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_2885a66e117343e6b00f566e93033bf9@6202862_oswg377546oswg1080oswg482_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏职业海报</p>\n  <p>而有了更安全的基础，《诡秘之主》也才有条件和更多成本去做一些无从参考的设计。这往大了说，是怎么基于UE5开创一款新时代的MMO，往小了说，是怎么围绕IP去设计游戏的美术、叙事等内容设计。</p>\n  <p>毕竟，大家都觉得《诡秘之主》游戏属于“天胡开局”，但它的创作也同样走在行业内难度较大的一条道上。现在，MMO的市场热度在下降、IP改编天然不被看好，可谓是Buff多，Debuff也不少。</p>\n  <p>比如他们在美术层面应该下了挺大的功夫，并且游戏背景中的维多利亚时代风格，市面上乃至历史上其实缺乏比较符合当下审美的相关设计。《诡秘之主》游戏想做好这点，无疑相当于从零开始。</p>\n  <p>目前来看游戏的美术设计基本可圈可点。从最早期的实机场景演示，到游戏里整座廷根城镇的大小风景、服装设计、人文奇观，都可以让不熟悉IP的玩家感到耳目一新。而熟悉原著的用户，大概率也能迅速将小说中的各个场景与游戏联系在一起。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_8918cf5767fb4f67b48567fed6a3bae9@6202862_oswg623028oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">初入廷根CG</p>\n  <p>只不过，IP故事还强调各类悬疑莫测的克系表达，这同时也需要恰到好处的美术设计来辅助表达。力度轻了，可能传递不出诡秘与恐怖感，而用力过猛，又容易变成特效乱飞，设计难度比较接近强调氛围营造的中式恐怖。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_77a19bfaddc942789fb6e53cf9c3b82e@6202862_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">雨景动图</p>\n  <p>而在氛围设计上，UE5引擎无疑能提供一个较高的上限。但游戏首日并没有开放太多的主线剧情，目前还很难针对“做得好不好”下一个定论。</p>\n  <p>可以确定的是，《诡秘之主》游戏在叙事和衍生玩法方面倒是已经交出了一个还算及格的答卷。</p>\n  <p>在叙事方面，《诡秘之主》游戏最初给人的感觉是玩家扮演小说主角，以游戏的形式重新跑一遍原著剧情。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_027d415b77754ad0bfe3a256119106b5@6202862_oswg467696oswg1080oswg602_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">最初的实机场景+故事对白演示</p>\n  <p>这看似是一个保本不出错的选项，但其实存在更多问题：在尊重原著用户的基础上，剧情往往很难做较大改动，这意味着游戏系统、版本节奏会受到极大限制。<strong>最终，《诡秘之主》游戏的选择是“我全都要”。</strong></p>\n  <p>游戏目前分成了两条故事线。其中，原创剧情故事线发生在原著剧情结局的两年后，玩家扮演一位被克莱恩，或者说整个塔罗会选定的角色，带着拯救世界危机的使命出现在廷根。有着原著作者“爱潜水的乌贼”监制，整体原创内容线基本都符合原作基调，并且部分原创支线在测试期间就已经收获了大量玩家的好评。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_c3ec938e8cef4782b185f5fbd2eab38f@6202862_oswg524372oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">NPC“魔术师”</p>\n  <p>而同时，《诡秘之主》游戏也通过“灰雾之上”任务线，完整保留了原著的所有剧情——完整到所有台词一句都没有增减，原话完全保留的程度。</p>\n  <p>一些城镇里的琐碎剧情，游戏还将其分布在了廷根的大街小巷之中，玩家路过时能够选择交互触发。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_4c9e4a991be149e68872505e4dd2ac4c@6202862_oswg980143oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">原著中的搬家剧情</p>\n  <p>这对IP用户无疑是一个天大的好消息，毕竟大家过去已经吃过太多IP改编“毁原作”的苦了。</p>\n  <p>此外游戏还提供了第三人称越肩的沉浸视角供玩家选择。哪怕对MMO整体内容不太感冒的用户，也完全可以将其当成一个IP衍生单机产品体验。</p>\n  <p>当然，前提是你能忽略里面一些MMO味儿过重的设计。比如剧情里砸开一个箱子，玩家要先后交互两次。</p>\n  <p>而在外围玩法中，《诡秘之主》游戏也铺设了大量的可体验内容。</p>\n  <p>在“探秘”系统里，游戏分成了“秩序世界”和“城市暗面”两大模块，整体涵盖了射击、解谜、肉鸽乃至跑团等多种趣味小玩法。</p>\n  <p>以“城市暗面”板块为例，它涵盖了大量符合阴暗基调的长支线剧情，并提供了竞速、战斗等多种玩法挑战。而在每天晚上8点后，游戏还会开启“疯抢之夜”，NPC和玩家都不再受到廷根法律的约束，像“五星好市民”般互相抢夺地图上的资源。</p>\n  <p>如果玩家运气够好，还有机会获得“零元购凭证”，能免费兑换任意商场直售外观。并且从列表看，游戏明天还会额外开启“越狱”玩法。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_b11cd415176e40c09a119a1e98e53707@6202862_oswg749245oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏内“探秘”系统板块</p>\n  <p>此外，游戏也加入了比较独特的GVG玩法模式“四皇之战”，最多允许上千玩家分成4大阵营同屏竞技。而针对其中的硬核玩家，他们搭建了特殊的“战略服”，只允许赛区积分排名前四的俱乐部进入，共16家。最终胜出的俱乐部，能获得一套专属外观和永久战旗。</p>\n  <p>说实话，在MMO当中，这种内容插入的体量已经大到有些不计成本了，而未来随着版本更新，官方大概率还会保持着这种节奏持续推出更多的外围玩法内容。<strong>如此一来，几乎对内容有任何需求的玩家，都可以在《诡秘之主》游戏里找到自己感兴趣的部分。</strong></p>\n  <p>就《诡秘之主》游戏的公测表现来看，尽管上半年官方一直在强调“抓住MMO最核心的乐趣”——事实上他们也确实这么做了，产品的内容丰富度依旧超出了多数人的预期。</p>\n  <p>而他们实际的产品思路也自然呼之欲出。</p>\n  <p><strong>《诡秘之主》游戏套用了头部同类游戏的IP改编路径，并且希望借助IP本身的题材、风格，从诸多武侠、仙侠类MMO中找到一个更新的可能性，进一步增加赛道内容的丰富度。</strong></p>\n  <p>毕竟过去提起西幻MMO，大家基本上都是想到那堆如出一辙的经典设定，即多种族、多职业、大世界。而就像IP原著打破了网文升级的惯用路径和叙事节奏，《诡秘之主》游戏也想打破过去玩家们对MMO的固有印象和自我束缚，为赛道找到新的可能性。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_4f9b6638bb424769b83deed90a649228@6202862_oswg506047oswg1080oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方地区海报</p>\n  <p>说白了，《诡秘之主》游戏团队虽然走��老路，但也有着自己的想法，不希望始终沿袭MMO传统路径和IP改编的刻板路径，而是想找到品类新的分岔口和未曾被覆盖的地方。</p>\n  <p>当然，现在的《诡秘之主》或许还不算完全体，距离所谓“用UE5革新MMO”的口号也还有一定距离，比如如何做好游戏优化、持续平衡玩家需求、做出与其他MMO差异化的特色内容等等。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260821/v2_dfd461d391e546439caa0b8b59affe0d@6202862_oswg377001oswg1080oswg675_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方KV</p>\n  <p>而在产品之外，弹指宇宙自身面临的挑战同样不少。</p>\n  <p>尽管弹指宇宙已经成立4年，用的大多也是行业老兵，但《诡秘之主》游戏作为团队最早期一路同步推进过来的首款核心产品，肯定会受到弹指宇宙与快手之间的磨合与阵痛期带来的影响——就像很多网友对弹指宇宙的质疑，都来源于公司前面三款产品的表现不佳。</p>\n  <p>况且，阿里、字节等过去互联网出身的公司，都已经在自研游戏板块遭遇过或大或小的滑铁卢。</p>\n  <p>从今年初快手内部的组织架构调整变化看，带有强互联网基因的公司往往会将游戏、短剧、小说统一划分为“内容消费”。<strong>但更多时候，游戏与其他两者的商业逻辑存在较大区别，一概而论，反而容易陷入吃力不讨好的尴尬境地。</strong></p>\n  <p>不同的是，与灵犀、朝夕光年相比，弹指宇宙具有更高的独立性和话语权，在内部也仍旧算是年轻创新的业务线。快手能否做到其他同类公司未能实现的业务扩展，或许也看《诡秘之主》未来的持续表现了。</p>\n  <p>本文首发自<a href=\"https://mp.weixin.qq.com/s?__biz=MzkzOTY5MTQyNQ==&amp;tempkey=MTM4OF8rZ0tlNEdhRGw2b3ZPaWVrVHBGVlBreDI0VFBPUHJsd1A4U1FqSUJ1QmVUaWhQQnRsSWpuRjlxeVNMbW85LWQ3MXpLMm1aVlNZTU5XNGRqTURDRm9YV1lab3BwV0Z5YlBqREZ5NVUwdHNaOWExejZuU0ZvQ3hnYmZfQ2tmSHlOeDc0ejk0MGdOOVpDTWotcXFBV3dQb3hEVzBHYzNyRS00U01GXy1Rfn4%3D&amp;chksm=c2ec466bf59bcf7d5b4db152bbaf2e6cc142f80745ea0b7e136e003610afefdcbfb198f85940&amp;token=519955091&amp;lang=zh_CN#rd\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪游戏”</a>。</p>",
-      "category": "tech",
-      "published_at": "2026-08-21T12:21:36+00:00",
-      "fetched_at": "2026-08-22T00:57:35.787805+00:00",
-      "fingerprint": "a5698256d0aa5cdc"
-    },
-    {
-      "source": "少数派",
-      "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
-      "url": "https://sspai.com/post/113586",
-      "summary": "Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。<a href=\"https://sspai.com/post/113586\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-21T03:05:01+00:00",
-      "fetched_at": "2026-08-22T00:57:34.042011+00:00",
-      "fingerprint": "b42246fcf0c0a477"
-    },
-    {
-      "source": "少数派",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "url": "https://sspai.com/post/113693",
-      "summary": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...<a href=\"https://sspai.com/post/113693\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-21T10:08:59+00:00",
-      "fetched_at": "2026-08-22T00:57:34.042000+00:00",
-      "fingerprint": "d483f30f2815e61b"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.8174 CNY ↑+0.83%",
-      "url": "https://www.frankfurter.app/2026-08-21?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-08-21</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.8174 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0396 (+0.83%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-08-22T00:57:32.695154+00:00",
-      "fingerprint": "cd7889bb45ef938d"
     }
   ]
 }
