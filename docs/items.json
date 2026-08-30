@@ -1,7 +1,147 @@
 {
-  "updated_at": "2026-08-29T05:22:03.346520+00:00",
-  "count": 182,
+  "updated_at": "2026-08-30T03:17:01.619070+00:00",
+  "count": 179,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "category": "politics",
+      "published_at": "2026-08-30T00:17:25+00:00",
+      "fetched_at": "2026-08-30T03:17:01.395183+00:00",
+      "fingerprint": "ca35f9e87b44af0e"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "category": "politics",
+      "published_at": "2026-08-29T17:52:42+00:00",
+      "fetched_at": "2026-08-30T03:17:01.395177+00:00",
+      "fingerprint": "6c1cb9b3b374720c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "category": "politics",
+      "published_at": "2026-08-29T20:13:16+00:00",
+      "fetched_at": "2026-08-30T03:17:01.395171+00:00",
+      "fingerprint": "333e649a48445a60"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
+      "url": "https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "接二連三的失敗，令外界對機械人全面接管披薩餐廳製作流程的前景失去信心。",
+      "category": "politics",
+      "published_at": "2026-08-30T00:14:20+00:00",
+      "fetched_at": "2026-08-30T03:17:01.310292+00:00",
+      "fingerprint": "9c9773f685462441"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-30T03:17:01.137163+00:00",
+      "fingerprint": "35813736c58834f7"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-30T03:17:01.137050+00:00",
+      "fingerprint": "e3da32ecd14689cd"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-30T03:17:01.136917+00:00",
+      "fingerprint": "7ccb97bb9a47c2f1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-30T03:17:01.136782+00:00",
+      "fingerprint": "c22348ede2f35da5"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-30T03:17:01.136644+00:00",
+      "fingerprint": "05502ae5938a9d5e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
+      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-29T16:01:13+00:00",
+      "fetched_at": "2026-08-30T03:17:01.011483+00:00",
+      "fingerprint": "ddf8ba8f44ba3147"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-29T18:19:53+00:00",
+      "fetched_at": "2026-08-30T03:17:01.011478+00:00",
+      "fingerprint": "f593ff968abe8d62"
+    },
+    {
+      "source": "The Verge",
+      "title": "Alt-right troll Milo Yiannopoulos has been deported",
+      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-29T19:49:59+00:00",
+      "fetched_at": "2026-08-30T03:17:01.011471+00:00",
+      "fingerprint": "ba931cbc7c43f49f"
+    },
+    {
+      "source": "The Verge",
+      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+      "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-29T20:59:26+00:00",
+      "fetched_at": "2026-08-30T03:17:01.011459+00:00",
+      "fingerprint": "94db180b35f01cb4"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "业绩快报 | 荔枝冰奶五十天卖出1700万杯，茶百道上半年“质效双增”",
+      "url": "https://36kr.com/p/3960415196052873?f=rss",
+      "summary": "<p><strong>文 | 杨烁&nbsp;</strong></p>\n  <p>8月28日，茶百道披露中期业绩。上半年营收26.55亿元，同比增长6.2%；期内利润实现3.45亿元，同比增长3.5%。</p>\n  <p>业绩会上，公司管理层将增长归因于一个核心逻辑——不盲目追求门店数量的堆砌，而是以产品创新和供应链效率为双轮，驱动终端经营质量的实质性提升。</p>\n  <p>今年上半年，茶百道加大了产品研发力度，围绕“鲜果、鲜奶、咖啡”等核心原料建立品类矩阵。</p>\n  <p>其中，“荔枝冰奶”在五十余天的销售周期内，累计销量超过1700万杯。茶百道也围绕这一优势品类，陆续推出“芭乐、葡萄、柠檬”等多款风味冰奶产品，形成清晰的矩阵式布局。</p>\n  <p>茶百道对产品的理解，不仅是“好喝”一个维度。2026年以来，公司又推出了以“实在木薯甜品碗”为代表的替餐类产品、以“佛手柑柠檬水”为代表的替水类产品。</p>\n  <p>两大新品类的推出，悄然改变了门店的时间属性。现阶段的茶百道，已明显从传统下午茶的单一模式，延伸至“早餐、轻食、日常补水”等多元化的消费场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260829/v2_10d7c5c3b8894488bd11f2259014e3d6@11416942_oswg262954oswg1707oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>产品边界不断拓宽，对后端供应链的响应速度提出了更高要求。</strong></p>\n  <p>报告期内，茶百道全国仓配中心增至27个，水果统配率提升至91%，约95%的门店每周可获得两次及以上的配送。从产地到门店实现全程冷链的高效供应，既保证了门店端的产品与服务质量，也极大降低了供应商的试错成本。</p>\n  <p>与此同时，公司也在保证一、二线城市基本盘的同时，不断向低线城市下探。截至报告期末，<strong>茶百道门店总数增至8863家。其中，中国三线及以下城市的门店数同比增长7.2%。</strong></p>\n  <p>值得提及的是，基于全国化的门店网络布局，茶百道正积极推进“茶饮+咖啡”业务的协同发展，并成功推出了多款高质价比的咖啡产品。上半年，茶百道的现磨咖啡机已覆盖超过2700家门店，超出年初预期。</p>\n  <p>另在会员方面，茶百道的注册会员数突破2亿大关。这意味着，茶百道拥有了一个规模庞大的私域流量池。</p>\n  <p>相信在未来，伴随咖啡业务进入盈利周期、会员体系不断提升，茶百道的中长期成长有望进一步增强。</p>",
+      "category": "tech",
+      "published_at": "2026-08-29T09:47:11+00:00",
+      "fetched_at": "2026-08-30T03:17:00.882768+00:00",
+      "fingerprint": "5d19c54d230de0a6"
+    },
     {
       "source": "The Guardian - World",
       "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",
@@ -1651,176 +1791,6 @@
       "published_at": "2026-08-23T23:13:55+00:00",
       "fetched_at": "2026-08-24T01:00:28.189356+00:00",
       "fingerprint": "0c2fa7d89b075f71"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "category": "politics",
-      "published_at": "2026-08-22T14:35:11+00:00",
-      "fetched_at": "2026-08-23T01:02:23.800404+00:00",
-      "fingerprint": "8d284c5ac0f87f1c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "category": "politics",
-      "published_at": "2026-08-22T20:02:46+00:00",
-      "fetched_at": "2026-08-23T01:02:23.800392+00:00",
-      "fingerprint": "1bf58cd1635b2822"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-      "category": "politics",
-      "published_at": "2026-08-22T20:10:00+00:00",
-      "fetched_at": "2026-08-23T01:02:23.800382+00:00",
-      "fingerprint": "08c432427f9a7990"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "有評論認為，最近一項針對英國人的調查顯示，他們在金錢方面過於謹慎，但BBC經濟事務編輯指出，事情並沒有這麼簡單。",
-      "category": "politics",
-      "published_at": "2026-08-23T00:12:49+00:00",
-      "fetched_at": "2026-08-23T01:02:23.755102+00:00",
-      "fingerprint": "16f6ef3d4ac8e17e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-23T01:02:23.460084+00:00",
-      "fingerprint": "7ea3027630d5487e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-23T01:02:23.459955+00:00",
-      "fingerprint": "f83cb012d1e02700"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-23T01:02:23.459811+00:00",
-      "fingerprint": "53de3fca829591e9"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-23T01:02:23.459664+00:00",
-      "fingerprint": "11e9d27303eedadd"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-23T01:02:23.459490+00:00",
-      "fingerprint": "068c7e8ae3f03d5c"
-    },
-    {
-      "source": "The Verge",
-      "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-      "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-      "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-22T13:00:00+00:00",
-      "fetched_at": "2026-08-23T01:02:23.158052+00:00",
-      "fingerprint": "cca6661bb904a3ab"
-    },
-    {
-      "source": "The Verge",
-      "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-22T13:41:01+00:00",
-      "fetched_at": "2026-08-23T01:02:23.158046+00:00",
-      "fingerprint": "c000c6a2f06337f0"
-    },
-    {
-      "source": "The Verge",
-      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-      "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-      "summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-22T15:00:00+00:00",
-      "fetched_at": "2026-08-23T01:02:23.158039+00:00",
-      "fingerprint": "282f77d427690d18"
-    },
-    {
-      "source": "The Verge",
-      "title": "Doodle generative compositions in your browser with Musical Spirograph",
-      "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-      "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-22T17:00:00+00:00",
-      "fetched_at": "2026-08-23T01:02:23.158027+00:00",
-      "fingerprint": "54c67d08d3f0e117"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力",
-      "url": "https://36kr.com/p/3949992200928641?f=rss",
-      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>抗癌疫苗引爆资本市场，多家公司涉及相关研发</p>\n  <p>贵州茅台回应上半年茅台酒产量下降：阶段性统计差异，全年累计产量不受影响</p>\n  <p>广州市中级人民法院依法受理恒大地产集团有限公司破产清算案</p>\n  <p>张雪回应“台湾首辆张雪机车遭查扣”&nbsp;</p>\n  <p>全球首个开源太空具身智能合作项目SpaceClaw（太空龙虾）达成战略合作</p>\n  <h2><strong>TOP 3 大新闻</strong></h2>\n  <p><strong>医院也能领结婚证了，淄博一妇幼保健院内设立婚姻登记&nbsp;</strong></p>\n  <p>不仅地铁站、银行、音乐节等场所可以陆续设立婚姻登记点位，部分地区的医院也开始提供类似便民服务。据界面新闻查询山东省淄博市临淄区妇幼保健院宣传资料获悉，今年“七夕”（8月20日）起，该院正式推出结婚登记服务，把婚姻登记、婚前医学检查、备孕指导整合在一起。农历七月初七是公认的具有东方爱情象征意义的传统节日。</p>\n  <p>该婚姻登记点设置于临淄区妇幼保健院保健楼3楼，实现婚姻登记与婚前医学检查无缝衔接。新人完成结婚登记后，无需更换地点，就可以开展婚前医学检查，同步享受孕前优生咨询、孕前优生检查、叶酸发放、科学备孕指导等服务。医院的公众号写到，这项便民服务的首批体验者感慨：“在这里领证，办完手续直接就能做婚检、咨询备孕，不用多头跑，既省心又贴心。”值得指出的是，该点位仅受理内地人士的结婚登记业务，且不办理离婚登记。下一步，当地还将持续优化窗口流程，细化办事指引，持续完善婚姻登记、婚检、备孕、孕产、儿童保健全链条服务（界面新闻）</p>\n  <p><strong>阿里巴巴发布财报：2027财年第一季度营收2690亿元，阿里云增速创22个季度新高</strong></p>\n  <p>36氪获悉，8月20日，阿里巴巴集团发布2027财年Q1财报。财报显示，第一季度阿里巴巴营收2690亿元，同比增长9%；调整后净利润207.2亿元。其中，阿里云外部商业化收入加速增长45%，增速创22个季度新高；经调整EBITA同比增长133%，EBITA利润率增至12%；AI相关产品收入连续第十二个季度实现三位数同比增长，AI已成为云增长的确定性引擎。大消费方面，中国电商业务稳健增长，CMR（客户管理收入）同比增长1%。88VIP会员规模达6400万，持续同比双位数增长。本季度，即时零售减亏速度快于市场预期，同时收入保持45%的高增长，主要由淘宝闪购和盒马所驱动。</p>\n  <p>同时，截至6月30日结束的季度内，资本支出为676.78亿元，较上年同期的386.76亿元人民币增长75%，源于持续投入AI基础建设，以满足强劲且不断增长的客户需求。同比增长显着，受多项因素驱动，包括采购周期波动、预期客户持续採用AI智能体带动的CPU算力增加，以及各类芯片组件价格上涨。平头哥已构建自研芯片体系，覆盖GPU、CPU、存储和网络芯片。依托全方位的芯片产品矩阵，实现跨计算、存储、网络的系统级硬件优化，增强在AI基础设施上的性能表现和成本效率。</p>\n  <p><strong>OpenAI进一步开放Codex的底层能力&nbsp;</strong></p>\n  <p>OpenAI近日宣布进一步开放Codex的底层能力，开发者可以基于开源的Codex Harness，将Codex的Agent能力直接集成到自己的产品和工作流中。OpenAI将Codex重新定位为一个可供开发者构建Agent产品的平台，而不再局限于App、CLI和IDE中的编程Agent。从此次调整来看，OpenAI正在强化Codex的平台属性：开发者提供具体业务场景、上下文和工具，Codex Harness负责将模型能力接入实际工作流程，让同一套Agent运行机制能够被复用到编程之外的客服、安全、运营等场景中。（太平洋科技）</p>\n  <h2><strong>AI最前沿</strong></h2>\n  <p><strong>DeepSeek-V4-Flash-Vision-Exp上线，开启多模态API服务</strong></p>\n  <p>36氪获悉，DeepSeek-V4-Flash-Vision-Exp在DeepSeek API平台上正式上线。据介绍，在纯文本能力（Agent、推理、世界知识等）方面，DeepSeek-V4-Flash-Vision-Exp与DeepSeek-V4-Flash正式版持平；在需要视觉理解的Agent Benchmark上，DeepSeek-V4-Flash-Vision-Exp相比DeepSeek-V4-Flash实现了大幅跃升，多模态Agent能力已接近Opus-4.8。</p>\n  <p><strong>科大讯飞：将于今年全球1024开发者节推出全新主力通用大模型</strong></p>\n  <p>36氪获悉，8月21日下午，在科大讯飞2026年半年度业绩说明会上，公司总裁吴晓如透露，在今年全球1024开发者节上，科大讯飞将推出基于全国产算力的全新主力通用大模型；在今年8月底，公司将先推出阶段性版本。他表示，即将推出的全新主力通用大模型将在代码能力和Token性价比上整体达到国内第一梯队，同时在全国产算力训练的通用大模型中，各项指标继续保持国内领先。</p>\n  <p><strong>GLM-5.3、DeepSeek-V4-Pro正式版接入千问AI平台</strong></p>\n  <p>36氪获悉，8月21日，据阿里云消息，阿里云MaaS扩充模型服务矩阵，GLM-5.3和DeepSeek-V4-Pro正式版现已接入千问AI平台，相关API服务同步开放，开发者可直接调用。据介绍，DeepSeek-V4-Pro、Qwen3.8-Max和Qwen-Audio系列模型已陆续开放订阅使用，用户订阅套餐后，可在Qoder、Codex等AI工具中按需切换模型。</p>\n  <p><strong>豆包：工作任务模式上新</strong></p>\n  <p>36氪获悉，8月21日，据豆包消息，豆包工作任务模式上新，技能·连接器·工作伙伴/小队现已上线。据介绍，打开豆包电脑版侧边栏，选择“技能·连接器·伙伴”，即可体验。目前，豆包内已上架超200个技能和连接器，并支持自定义新建技能。</p>\n  <h2><strong>大公司/大事件</strong></h2>\n  <p><strong>郭德纲被立案调查，多场演出延期&nbsp;</strong></p>\n  <p>澎湃新闻从大麦网获悉，近日，主办方领航象限文化（天津）有限公司发布三份演出延期公告。公告称，接剧场通知，因场地原因，经主办方与剧场协商确认，原定于2026年8月20日、21日在烟台市凤凰胶东剧院举办的两场麒麟剧社成立十周年巡演烟台站演出，以及8月22日在烟台八角湾国际会展中心举办的德云社成立三十周年系列演出之郭德纲・于谦相声专场烟台站演出，均延期举办。新的演出日期另行通知，主办方就此向观众致歉。</p>\n  <p>三场演出全部已购票订单将统一全额免手续费原路退款，无需观众自行申请。另据澎湃新闻此前报道，今年7月，郭德纲在麒麟剧社巡演武汉站演出中即兴改编经典歌曲《弹起我心爱的土琵琶》，改编内容未经报备，武汉市文旅局已立案调查。8月14日，湖北省文旅厅文化市场综合执法监督处回应，正协调处置此事。（第一财经、澎湃新闻）</p>\n  <p><strong>国家金融监管总局：对恒大人寿保险有限公司吊销业务许可证</strong></p>\n  <p>36氪获悉，国家金融监管总局发布行政处罚信息公示列表，其中包括：因保险资金运用严重不合规、向关联方输送利益，投后管理不合规，报送的报告报表存在虚假记载等，对恒大人寿保险有限公司吊销业务许可证。</p>\n  <p><strong>广州市中级人民法院依法受理恒大地产集团有限公司破产清算案</strong></p>\n  <p>36氪获悉，据广州市中级人民法院消息，8月21日，广州农村商业银行股份有限公司华夏支行以恒大地产集团有限公司不能清偿到期债务，并且资产不足以清偿全部债务为由，向法院申请对恒大地产集团有限公司破产清算。广东省广州市中级人民法院经审查认为，该申请符合《中华人民共和国企业破产法》第二条第一款的规定，于2026年8月21日裁定受理广州农村商业银行股份有限公司华夏支行对恒大地产集团有限公司的破产清算申请。</p>\n  <p><strong>贵州茅台回应上半年茅台酒产量下降：阶段性统计差异，全年累计产量不受影响</strong></p>\n  <p>贵州茅台8月21日举行2026年半年度业绩说明会。今年上半年，茅台酒基酒产量4.1万吨，较去年同期4.37万吨减少约0.27万吨。对于上半年茅台酒产量减少，贵州茅台代总经理王莉回应称，贵州茅台酒生产严格遵循“顺天应时”的传统酿造节律，每年度制酒投料时间不完全一致，报告期内的基酒产量，属于生产作业进度不同带来的阶段性统计差异，后续全年累计产量不会受此影响。（财联社）</p>\n  <p><strong>张雪回应“台湾首辆张雪机车遭查扣”&nbsp;</strong></p>\n  <p>8月20日，“张雪机车”创始人张雪发布视频回应“台湾首辆张雪机车遭查扣”，表示不清楚具体原因，并提出承担车主全部维权律师费用。张雪说：“如果车要不回来，我就再送一台车，如果送的车又被查扣，那我再送一台，不停地送，送到什么时候为止呢？送到统一为止。”（界面新闻）</p>\n  <p><strong>港交所延长新上市申请有效期</strong></p>\n  <p>36氪获悉，港交所将实施为期三年的短期豁免，延长新上市申请有效期至12个月。</p>\n  <p><strong>财政部:1-7月证券交易印花税1864亿元，同比增长99.2%</strong></p>\n  <p>36氪获悉，财政部发布2026年1一7月财政收支情况。1一7月，全国一般公共预算收入143696亿元，同比增长5.8%。其中，全国税收收入118381亿元，同比增长6.7%;非税收入25315亿元，同比增长1.6%。分中央和地方看，中央一般公共预算收入63857亿元，同比增长9.1%;地方一般公共预算本级收入79839亿元，同比增长3.3%。印花税3530亿元，同比增长38%。其中，证券交易印花税1864亿元，同比增长99.2%。</p>\n  <p><strong>中国平安回应境外保险收益征税：对平安影响几乎为零</strong></p>\n  <p>针对境外保险收益征税一事，中国平安总经理、联席首席执行官谢永林在中期业绩发布会上回应称：“这并非新的政策，市场无需过度解读；该税收政策暂未扩大至境内保险的收益；中国平安在海外的保单数量极少，影响几乎为零。”（第一财经）</p>\n  <p><strong>全球首个开源太空具身智能合作项目SpaceClaw（太空龙虾）达成战略合作</strong></p>\n  <p>36氪获悉，近日，群体智能基础模型公司超脑未来、商业航天企业未来宇航与特种机器人企业希云柔控正式达成战略合作，共同启动SpaceClaw（太空龙虾）计划。三方将分别发挥群体智能基础模型、空间飞行器与柔性机械臂优势，共同建设全球首个以开源方式推进、以真实在轨验证为目标的太空具身智能合作项目。SpaceClaw计划在合作启动后的6个月内完成首阶段在轨验证，并同步发布面向全球开发者和科研机构的太空具身智能基准OrbitBench。</p>\n  <p><strong>抗癌疫苗引爆资本市场，多家公司涉及相关研发</strong></p>\n  <p>2026年8月19日，全球肿瘤治疗迎来里程碑时刻。默沙东与莫德纳（Moderna）联合宣布，其个性化信使核糖核酸（mRNA）抗癌疫苗在III期实验研究中达到主要终点。这是全球首个在大型III期临床试验中证明有效的治疗性疫苗，从根源上降低复发风险。资本市场反响强烈。Moderna股价当日暴涨177%；默沙东亦创下2009年以来最大单日涨幅。8月20日，A股市场疫苗、生物医药板块集体上攻，多家上市公司股价迎来涨停。在mRNA疫苗这条前沿赛道，国内药企并未缺席，虽然目前暂未有直接可与Moderna对标的企业，但已有公司涉及相关领域研发。（证券时报）</p>\n  <p><strong>苹果裁撤60名VR团队员工战略重心或转向AI眼镜</strong></p>\n  <p>据报道，苹果已对Vision业务团队进行人员调整，至少60名隶属于Vision小组、从事VR相关开发的员工遭到裁员，苹果官方尚未对该消息作出回应。报道指出，本次裁员背后是苹果战略转向，该公司资源正流向AI智能眼镜，这款新品预计于2027年WWDC大会亮相，同年晚些时候上市。（新浪财经）</p>\n  <p><strong>马斯克称SpaceX目标到2030年每年发射约1万次，到2030年代末营收增长远超2000%</strong></p>\n  <p>马斯克8月20日在回应用户分享的关于美国政府计划到2030年实现每年1000次火箭发射的帖子时表示，SpaceX的目标是“到2030年实现星舰每日30次以上发射，换算成年度规模约为1万次。”同一天，马斯克回应了另一位网友的帖子，后者预测到2030年代末，SpaceX的营收将增长2090%，特斯拉的营收将增长119%。马斯克回复称：“我知道现在听上去很疯狂，但我认为SpaceX和特斯拉的表现都会超出这些预期。”（财联社）</p>\n  <p><strong>特朗普政府提前放宽夏季燃油标准，以缓解油价压力</strong></p>\n  <p>特朗普政府今年将提前终止夏季汽油防雾霾限制措施，以缓解汽油零售价高企的压力。美国环保署（EPA）8月20日发布豁免令，准许自9月1日起销售挥发度更高的汽油，而原规定生效时间为9月中旬。美国在夏季通常禁止销售此类汽油，目的是防止高温环境下汽油挥发，进而形成雾霾。美国环保署表示，此项举措将使美国汽油日供应量增加“数十万”桶。2025年，美国汽油日均总消费量为890万桶。（新浪财经）</p>\n  <p><strong>特斯拉停售太阳能屋顶瓦片，该产品已不具备经济可行性</strong></p>\n  <p>据报道，特斯拉已停止推出旗下太阳能瓦片屋面产品——太阳能屋顶。据两名熟悉该项目的消息人士透露，特斯拉已告知第三方安装商，今后将不再供应太阳能屋顶瓦片，仅提供太阳能电池板。其中一名消息人士表示，特斯拉内部认定该产品在财务层面难以为继。（新浪财经）</p>\n  <p><strong>三星SDI将出售所持三星显示公司价值4.4万亿韩元的股份</strong></p>\n  <p>三星SDI将出售所持三星显示公司价值4.4万亿韩元的股份。（财联社）</p>\n  <p><strong>日本三大车商7月在华新车销量均同比下滑，日产暴跌近6成</strong></p>\n  <p>8月20日，日本三大车商7月在华新车销量全部出炉，日产汽车销量同比暴跌58.7%至23677辆；丰田销量同比减少24.3%至11.47万辆。本田销量同比减少44.1%至25052辆。今年前7个月，日产累计在华新车销量为26.11万辆，同比减少22%；丰田累计销量80.94万辆，同比减少18%；本田累计销量23.87万辆，同比减少36%。（界面新闻）</p>\n  <p><strong>申请美国大学的外国学生出现近十年来最大降幅</strong></p>\n  <p>美国使用最广泛的大学申请平台发布的数据显示，今年秋季申请就读该国高校的国际生人数减少了约10%，创下至少十年来最大降幅。Common App 8月20日发布报告称，今年申请美国大学的外国学生人数比2025年减少了近1.6万，因特朗普政府加大了限制留学生入境的力度，包括改变签证规定。根据该报告，来自亚洲和非洲的申请数量出现了两位数的下降。欧洲学生也减少4%，打破了多年来的稳定增长势头。（新浪财经）</p>\n  <p><strong>亚航回应飞上海航班有乘客在座位上排泄：事后已开展清洁消杀&nbsp;</strong></p>\n  <p>亚洲航空从哥打京那巴鲁（亚庇）飞往上海的AK1516航班上，有乘客在座位上排泄，引发关注。8月21日，亚洲航空方面就此事回应南都N视频记者称，涉事航班机组人员于过道处发现卫生异常情况，在着陆准备期间，机组人员优先保障航班安全着陆，对现场进行了简易清理。航班落地后，第一时间安排开展后续清洁工作，后续已对涉事区域开展清洁和消杀作业。（南方都市报）</p>\n  <h2><strong>上市进行时</strong></h2>\n  <p><strong>证监会同意苏州猎奇智能创业板IPO注册</strong></p>\n  <p>36氪获悉，证监会发布关于同意苏州猎奇智能设备股份有限公司首次公开发行股票注册的批复，同意该公司首次公开发行股票并在创业板上市的注册申请。</p>\n  <p><strong>长江存储控股股份有限公司科创板IPO审核状态变更为已受理</strong></p>\n  <p>36氪获悉，上交所网站显示，长江存储控股股份有限公司首次公开发行股票并在科创板上市IPO审核状态变更为已受理。</p>\n  <h2><strong>大公司财报</strong></h2>\n  <p><strong>中汽股份：上半年净利润1.31亿元，同比增长35.32%</strong></p>\n  <p>36氪获悉，中汽股份披露半年报，2026年上半年，公司实现营业收入3.28亿元，同比增长15.3%；归属于上市公司股东的净利润1.31亿元，同比增长35.32%；基本每股收益0.1元。</p>\n  <p><strong>中国国贸：上半年净利润6.33亿元，同比增长0.17%</strong></p>\n  <p>36氪获悉，中国国贸披露半年度业绩快报，上半年营业收入18.16亿元，同比下降3.9%；归属于上市公司股东的净利润6.33亿元，同比增长0.17%；基本每股收益0.63元。</p>\n  <p><strong>李宁：上半年营收152.4亿元，同比增长2.8%</strong></p>\n  <p>36氪获悉，8月20日，李宁公司发布2026年中期业绩，营收达152.4亿元，同比增长2.8%。毛利为77.5亿元，较去年同期上升4.5%；整体毛利率为50.9%，同比提升0.9个百分点；净利润18.2亿元，净利率11.9%。</p>\n  <p><strong>中兴通讯：上半年净利润27.53亿元，同比下降45.57%</strong></p>\n  <p>36氪获悉，中兴通讯披露半年报，2026年上半年，公司实现营业收入780.25亿元，同比增长9.05%；归属于上市公司股东的净利润27.53亿元，同比下降45.57%</p>\n  <p><strong>华天科技：上半年净利润8.13亿元，同比增长259.15%</strong></p>\n  <p>36氪获悉，华天科技披露半年报，2026年上半年，公司实现营业收入105.11亿元，同比增长35.09%；归属于上市公司股东的净利润8.13亿元，同比增长259.15%；基本每股收益0.2483元。</p>\n  <p><strong>獐子岛：上半年净利润1287.14万元，同比增长26.82%</strong></p>\n  <p>36氪获悉，獐子岛披露半年报，2026年上半年，公司实现营业收入7.31亿元，同比下降5.31%；归属于上市公司股东的净利润1287.14万元，同比增长26.82%；基本每股收益0.0181元。</p>\n  <h2><strong>酷产品</strong></h2>\n  <p><strong>月泉仿生首发仿生具身智能产品矩阵</strong></p>\n  <p>36氪获悉，近日，月泉仿生与吉林省仿生机器人创新中心联合发布了自研产品矩阵，包括基于仿生拉压体机器人理论与技术打造的应手Y-Hand系列灵巧手、YQ Motors系列电机及YQ Muscles人工肌肉模组。</p>\n  <p class=\"editor-note\"><strong>整理</strong>｜李琪&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-08-22T01:04:32+00:00",
-      "fetched_at": "2026-08-23T01:02:22.951627+00:00",
-      "fingerprint": "7a18eda922210021"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "都是谁在买WRC上的机器人啊！",
-      "url": "https://36kr.com/p/3950374720306563?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_3c7f7c9f636749109256591e3ac8608e@6314151_oswg959943oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp; &nbsp;&nbsp;</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_286fe1150e694f6dbcd0d7283b973d01@6314151_oswg560oswg900oswg30_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp; &nbsp;&nbsp;</p>\n  <p>撰文&nbsp;|&nbsp;刘思洁 刘孜妍 刘辰艺</p>\n  <p>编辑&nbsp;|&nbsp;张薇</p>\n  <p>头图设计 | 曲枚</p>\n  <p>&nbsp;</p>\n  <p>做爆米花、打冰淇淋，机器人偶尔会出错，但没关系，一旁有工作人员协助。</p>\n  <p>在世界机器人大会现场，跨维智能的人形机器人，在一个便利店的模拟场景里“施展拳脚”。</p>\n  <p>这款机器人去年9月开始销售，早期不好卖，直到硬件迭代、成本下降，销售情况才有所改善，目前总出货量三十多台。买方有景区便利店，也有政府开办的数据采集中心。这些机器人被用来采集真机操作数据，采集来的数据则被用于模型的后训练。</p>\n  <p>和跨维智能的机器人一样，WRC上所展出的机器人们，大多数都还没有一个稳定、持续的大规模买方，其主要需求也并不来自普通大众所期待的家庭和工厂。不仅仅是人形机器人，类似机器狗形态的机器人的买方也处于一点点被验证的阶段。</p>\n  <p>本末科技一款轮足机器人被装上了配送箱，目前，这个像机器狗形态的产品是与京东合作的产物，用来尝试完成快递配送的“最后一公里”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_5eda40ae1b924ed492f01272015a8034@6314151_oswg132369oswg1080oswg809_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">本末科技的“机器��”</p>\n  <p>&nbsp;</p>\n  <p>物流只是它正在尝试的应用场景之一。在已经交付的买方中，有电力公司买来陪电力工人进山巡检，由它来背重物；有隧道施工方给它加装了传感器，让它去检测隧道内部的气体含量。本末科技的一名销售还去过一趟新疆阿克苏，他对接的是一位拥有几万亩苹果园的客户，发愁苹果成熟时采摘人手不足，尝试通过二次开发，让轮足机器人能够采摘苹果。而另一个大手笔的客户则来自某军工企业，一次买了六台，还签订了接下来每年的预订合同。</p>\n  <p><strong>据Counterpoint Research数据，2026年上半年全球人形机器人出货量突破2.2万台，同比增长近300%。智元、宇树、银河通用、优必选、乐聚位列前五，且均为中国厂商。</strong>从应用结构看，娱乐表演和数据生产研究合计仍占出货量60%以上，服务引导约占19%，智能制造和仓储物流分别约占13%和5%。</p>\n  <p>机器人开始出货，现在聊“替代人”还太早。</p>\n  <p>它们更像是在被不同买方拿去验证不同的用途：<strong>训练模型、替代局部人工、引流，或者仅仅是提供一点新鲜感。</strong><br />&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_05e8887a674e44689baaa5db7940cd95@6314151_oswg2451oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <h2><strong>公共服务场所里“可见的智能”</strong></h2>\n  <p>据宇树科技招股书披露，2025年1—9月，宇树人形机器人收入中，科研教育占比达到73.60%，商业消费占17.39%，行业应用仅占9.01%。这些数据意味着什么？人形机器人不仅距离我们普通人的生活还很远，距离在实际工厂中大规模落地也还有一定距离。</p>\n  <p><strong>其实最先买机器人的，是行业内部。</strong></p>\n  <p>宇树机器人展台的一个工作人员就提到了一类行业内部的买家，他们是做算法的机构和公司。“算法开发出来之后，想知道到底好不好用，得找一个比较强的硬件去验证。如果在宇树的机器人上验证成功了，就能说明算法本身确实可行。”</p>\n  <p>行业内，数据采集中心也是一类真实买方。</p>\n  <p>乐聚智能工作人员介绍，去年公司最大一笔订单金额约八九千万元，来自一个机器人训练场，采购机器人用于数据采集。跨维智能工作人员也提到，一些地方政府的数据采集中心会采购机器人，采集真机操作数据、训练模型，再把模型部署到更多机器人上。</p>\n  <p>当然，还有更多行业内的需求来自二次开发。</p>\n  <p>本末科技那个和京东合作、装上配送箱的形态只是他们目前产品的一个展示方案，“它本身不是一个针对物流场景的狗，是一个可拆分的模块化机器人。”在实际交付中，客户会根据自己的场景继续改造。就有专门做二次开发的下游公司，买走本体后加装摄像头、传感器、人脸识别等模块，再卖给公安、化工、隧道等终端客户。</p>\n  <p><strong>政府和公共部门，构成了各类机器人最稳定的买方之一。</strong></p>\n  <p>松延动力的展台，一排妆容精致、发色各异的半身仿生机器人时不时冲着观众眨眼。这是松延动力推出的仿生人形机器人X-Head1，已经量产，过去一年卖出一两百台。目前主要面向博物馆、科技馆、企业展厅，以及政务大厅、社保大厅、机场、高铁站等公共服务场景，承担导览、讲解、咨询接待等工作。据松延动力工作人员介绍，近期较大的一笔订单来自某钢铁集团，其旗下多个工厂展厅采购了仿生机器人，替代人工进行讲解接待。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_4c9b38fad13741e484572d853a1682ed@6314151_oswg216882oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">松延动力的半身仿生机器人</p>\n  <p>公共卫生的清洁也是类似逻辑。合十思维展出的是一款商用卫生间清洁机器人，单价约20万到25万元，主要面向政府客户，也有企业和海外客户。工作人员称，截至今年6月，公司销售额已达到1亿元，卖出了约四五百台。这款机器人是底盘加机械臂的结构，机身配有吹风、喷水、吸水、刮板以及一个正在申请专利的墩布头装置，可以清洁小便池、马桶、台面和地面。在北京，机器人已经在海淀公园和奥运村的速滑馆内上岗，可以替代70%人类清洁工的工作。当然，类似套垃圾袋的工作还需要人工阿姨协作。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_2bea4f4964c84320afda04d840c647cd@6314151_oswg121628oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">合十思维的清洁机器人</p>\n  <p>奇瑞汽车旗下的一家机器人公司生产出来的仿生机器人，已经有三十多台在各地的马路上，穿上了交警执勤时的反光服，指挥起了交通。另外三台在胸口装上了一台自动挂号机，在芜湖当地的几家医院内，为病人提供导诊服务。</p>\n  <p>在公共服务的场景内，机器人不需要完全替代人，也不一定要独立完成复杂任务，只要能承担一部分重复问询、导览接待、清洁巡查，或者在政务大厅、医院、景区、展厅这样的空间里提供一种“可见的智能化”，就可能成为一笔合理的采购。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_bdf5d32faff04fd0ba941d531b369cf3@6314151_oswg2470oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <h2><strong>工厂里大量上岗的，不是人形机器人</strong></h2>\n  <p><strong>但当机器人进入工厂，其所需要面临的评判标准就变得不同了。工厂在意的，是一个机器人能不能稳定、连续地完成一个明确且重复的任务。</strong></p>\n  <p>如果以此为标准，那么目前人形机器人一定不是最好的答案。</p>\n  <p>当下的工厂其实是机器人最早、也最成熟的应用场景之一，只不过不是“人形”。在汽车、3C、锂电、光伏等制造业产线上，工业机械臂、协作机器人、AGV/AMR、视觉检测设备早已承担焊接、搬运、分拣、码垛、检测、上下料等工作。它们形态不“像人”，却稳定地在干活，投入产出也好计算。</p>\n  <p>在WRC现场，珞石机器人工作人员向我介绍，珞石的机械臂去年全年销量约1.5万台，今年上半年也已卖出1.5万台，价格从5万到50万元不等，这取决于配置和场景。他们的客户覆盖汽车厂、人形机器人制造厂等等，“只要有人生产的地方，其实都可以用到机械臂。”</p>\n  <p>法奥机器人同样以机械臂为核心产品。工作人员介绍，2024年起，法奥为各厂家生产定制臂，已经落地2000多台。此次展会上，法奥推出通用型机械臂，售价23800元，主要面向大模型和软硬件公司，支持二次开发。近期最大一笔订单来自杰克科技，买了2000多台机械臂，打造缝纫机器人。工业场景之外，法奥机械臂也已在咖啡、冰淇淋制作、摄影等商用场景落地。</p>\n  <p>这些数字与人形机器人形成了鲜明对比。Counterpoint数据显示，2026年上半年，全球人形机器人出货量总和也才只有2.2万台。<strong>可见，在已经成熟的工业场景里，机械臂和协作机器人仍是更实用的主力。</strong></p>\n  <p>工厂买机器人是为了提升效率、降低成本、保证安全。机械臂或自动化设备就能完成任务，那就没必要为一个更复杂、昂贵、难维护的人形机器人买单。</p>\n  <p>这也是为什么，许多人形机器人公司在谈“进厂”时，更多还处于特定工位的探索验证阶段。当下，人形机器人进入工厂，是在和成熟机械臂、协作机器人、AGV/AMR、视觉检测系统等既有自动化方案竞争。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_fe2f33155a8d4afa9cb9dc314cfd8727@6314151_oswg2380oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <h2><strong>文旅场景，靠机器人引流</strong></h2>\n  <p><strong>但在文旅场景中，机器人“像人”，则成为一个吸金引流的好手段。</strong></p>\n  <p>文旅场景对于机器人的容错率也更高，毕竟，机器人在景区小吃摊打爆米花、做冰淇淋，即便动作慢一点、偶尔出错，游客也更容易觉得这是一种新奇的体验。</p>\n  <p>一个仿真人形导览机器人展台前，工作人员反复向我提到它们机器人的作用是“引流”。主要面向科技馆、博物馆、图书馆、少年宫、景区、机场和会展中心，单台终端价格大约在15万到18万元，如果直采，价格可以再低几万元。机器人底部依靠托盘行走，眼睛里有摄像头，看到人后可以主动打招呼。客户可以在后台上传景区资料，让它能面向游客完成导览和讲解等工作。</p>\n  <p>工作人员说，他们已经做过华侨城、圆明园景区的服务，也接触过广西文旅、新疆文旅等客户。一些网红火锅店、串串店、服装店、鞋帽店也会租用这类机器人，租金大约每月1万元。它的用途不复杂，站在门口，把人吸引过来，和游客合影，再被上传到朋友圈、家庭群里，照片里的景区地标、品牌logo就被宣传出去了。</p>\n  <p>“这玩意儿不自然地就把人们引到你们的街道口，而且大家都喜欢发朋友圈。”工作人员说，“人家就会问，这是哪里？这就是提升景区科技感，加流量的一个密码。”</p>\n  <p>这也是文旅场景愿意先买机器人的原因。</p>\n  <p>在WRC现场，文旅景区对于机器人的需求反复出现。跨维智能的工作人员说，其机器人的一部分买方来自高流量景区。中国移动机器狗的工作人员提到，其机器人小B的应用场景包括研学基地、民宿和政企导览，其中有一家民宿购入了他家的机器人，用来给客人送咖啡。远山智行的智能助走器的最大客户也是景区，目前已落地龙门石窟、西湖、老君山、冈仁波齐、三清山等地，景区租给游客用，价格约90元/3小时。</p>\n  <p>景区购买的机器人产品不需要能精确拿起一颗螺丝钉这样的硬核能力，但也更容易形成商业闭环，让游客为体验这些机器人的服务付费即可。比如一个超大型、可以让人骑的机器狗目前已经开放预售，售价29.8万元。工作人员向我介绍其使用场景时说，可以把这个产品类比沙滩摩托，<strong>“这是新物种，你看网上那些视频，我们只要骑出去转一圈，一群人围过来。一个人不用多，50块钱行不行？三五个月回本了。”</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_7093516552d548e4a63a71e3324a8787@6314151_oswg123905oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">大咖机器人可供骑乘的“机器狗”</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_cec211c5f15f46128743b0b4f0b96182@6314151_oswg2613oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <h2><strong>200块的“机器狗”刚刚好</strong></h2>\n  <p>普通人想用机器人来干嘛？愿意花多少钱？</p>\n  <p>有人想要购买这些机器人，去替代“劳动力”。</p>\n  <p>“未来人类实验室”问星海图的工作人员，他们和京东前置仓合作的、在便利店里用来取货收银的机器人，是否零售给个人开店。销售人员回答，这类机器人需要软硬件一起做，还要根据具体场景进行二次开发和适配。如果要完成一个零售场景，整体价格大约在100万元以内。他不建议个人购买，因为目前还没办法完全把一个便利店交给机器人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_629b3494b35c443dbcf0d12a48f78321@6314151_oswg256315oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">星海图的机器人正在模拟便利店打包</p>\n  <p>&nbsp;</p>\n  <p>一个律师也在展馆里寻找适合放进律所的机器人。他想把机器人放在办公区，用来解答当事人的简单问题，需求并不复杂，“只需要一个人形”，再加上简单的人机交互。他真正看重的并不是机器人能替代律师。他觉得，当事人面对律师或法律工作者时，多少会有情绪和顾虑，反而面对机器人更愿意说。等当事人先对着机器人把问题说完，后台整理出数据，最后仍由律师给出方案。只是他的预算有限，“万把块钱就够了”。</p>\n  <p>还有人想买一台机器人放在深圳的商业街上卖东西，听完某机器人公司10万元的报价后觉得太贵了，他雇一个人每月只需要6000元。</p>\n  <p><strong>普通人更愿意为机器人付费的价格区间，则是几百元、几千元、万元上下。</strong></p>\n  <p>在展馆里，最接近家庭生活想象的，或许是一台不久将量产的、面向家庭场景的机器人。在展示现场，机器人一直不间断地完成开可乐瓶盖、叠衣服等工作，又或者戴着厨师帽，在工作人员的帮助下煮意面、陪孩子下棋。目前面向家庭场景开放租赁，租金为每月3000元，到了年底还计划出售，售价在3万元到4万元之间。工作人员向我透露，包括运费、工程师上门调配等服务，租赁的方式实际上是亏本的。</p>\n  <p>据该公司宣传，他们的机器人已经进入了500个家庭。但是它真正进入家庭后能做什么呢？展台上的工作人员告诉我，如果家里只是两个年轻人、没有孩子，机器人实际上能做的不多，“不能指望它扫地”。有1/4的租赁客户，都是对机器人好奇而尝鲜的年轻人。</p>\n  <p>在消费层面，也有人愿意为几十万元的仿真机器人付费。松延动力的工作人员介绍道，有一位头部主播正在找他们定制一款以自己面容为原型的仿生机器人，预计年底能够交付。</p>\n  <p><strong>比起大几十万，更多的人，当然更愿意付费的价格是几百元。</strong></p>\n  <p>展会开幕后的24小时内，陆吾智能的桌面机器人就卖出了30多台。实际上，这只是一个搭载着豆包大语言模型的智能硬件，外壳由3D打印制作而成，售价450元。它最大的客户群是来逛展的小朋友，一位小男孩央求着奶奶买下来，送给他作为生日礼物。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_02184c55a61d4581a9a199e03518f512@6314151_oswg79223oswg1080oswg1439_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">陆吾智能的桌面机器人</p>\n  <p>&nbsp;</p>\n  <p>“唱歌跳舞撒娇卖萌”，有展商在会场的过道里叫卖遥控机器狗，200元基础款，搭载豆包语言模型、可以智能对话的260元，两天的时间里卖了一百多台。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_ee0eaeb7c4ef4c5493849c529a0568de@6314151_oswg258615oswg1080oswg1441_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">一个小朋友拎着展会上买的机器狗</p>\n  <p>&nbsp;</p>\n  <p>一位年轻女性花了200元买了个最基础的版本，用来逗狗。她想要这个机器狗在前面跑，自己的棕色泰迪在后面追。<br />&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_0f594a1559014ec3a50f9933206c6e22@6314151_oswg2587oswg900oswg47_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_21b34576796e463d966ed75f30ca6ecb@6314151_oswg56928oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_cf9921356ba94eab87bc9fee0bca0f27@6314151_oswg59747oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_5aced4d7371542d88e2d72b07f8b3d0f@6314151_oswg50635oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_093b9e42b11d4ffeab423f0861d7c83b@6314151_oswg67729oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_6a6d041cee21429ba2001a022c91e7ac@6314151_oswg2783oswg900oswg74_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp; &nbsp;&nbsp;</p>\n  <p><strong>今年WRC上有你想买回家的机器人吗？</strong></p>\n  <p><strong>欢迎在评论区分享你的看法~</strong></p>",
-      "category": "tech",
-      "published_at": "2026-08-22T07:31:33+00:00",
-      "fetched_at": "2026-08-23T01:02:22.951619+00:00",
-      "fingerprint": "17613ff44155cb34"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "科氪 | 你的下一副眼镜，会思考：雷鸟 iO 正式发布，首发 1996 元起",
-      "url": "https://36kr.com/p/3950603951258756?f=rss",
-      "summary": "<p>&nbsp;</p>\n  <p>8 月 21 日，全球领先的消费级 AR 品牌雷鸟创新（RayNeo）举办 2026 雷鸟 AI 眼镜新品发布会，正式发布全新产品系列——雷鸟 iO 系列。作为系列首款新品，雷鸟 iO 以回归眼镜本质为设计原点，重构整机结构、光学显示与镜框形态，一改 AI 眼镜粗重的固有印象，并通过全天候主动式 AI 提供知识、表达与记忆能力增强，打造行业首款“人类增强 AI 眼镜”。雷鸟 iO 首发到手价 1996 元起，提供 0 至 1000 度近视配镜方案，让 AI 眼镜从“科技尝鲜品”真正走向全天候日常佩戴。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_28518d500d304553815590f775c21641@517825446_oswg850398oswg790oswg1390_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>作为全球 AR 眼镜市场第一品牌，雷鸟创新凭借光学方案全链路自研与量产能力，持续推动消费级 AR 眼镜走向大众市场。根据 Counterpoint 与 IDC 数据，雷鸟创新在 2026 年第一季度再次位居中国及全球 AR 眼镜出货量第一，并拿下中国 618 大促和北美 Prime Day 单品销量冠军。在 AI 眼镜从概念验证走向产品竞争的关键阶段，雷鸟创新决定回归眼镜本质，推出全新 iO 系列。iO 的命名源于计算机语言中的 I/O，即 Input &amp; Output（输入与输出），代表雷鸟对 AI 时代人机交互的理解：人通过眼镜自然获取信息、表达意图，AI 理解用户需求后，再将恰到好处的内容与建议反馈到用户视野中，让眼镜成为连接人与数字世界的新入口。</p>\n  <p>&nbsp;</p>\n  <p><strong>回归眼镜本质，让科技隐于经典</strong></p>\n  <p>智能眼镜要真正进入日常，首先要让人愿意一直戴着。雷鸟 iO 从光学显示、镜框结构与整机配重三方面入手重新设计，让产品在点亮之前，先成为一副外观自然、佩戴舒适的眼镜。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_330ae4ef973d4d8f87d5bd24ee4ca887@517825446_oswg723592oswg1920oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>为打造更接近日常眼镜的镜面观感，雷鸟 iO 全面重构显示系统。全新蓝湖光波导采用三层光学结构和多层微纳纹路，使 OC 区域透过率达到 93%、非显示区达到 98% 以上，即便在复杂光线环境下，显示区域依旧几近不可见，并且其色差指数控制在了 Delta E 2.52，成为了目前行业唯一符合欧盟 EN ISO 12312-1 日常镜片安全标准的 AI 眼镜产品。全新光学引擎“萤火光引擎 Nano”，进一步压缩体积与电路面积，最终体积比一颗红豆还要小，让光学模组真正融入纤薄框型。雷鸟 iO 提供等效 33 英寸画面，双目显示架构支持调节画面远近，1800 尼特入眼亮度，户外强光下仍能清晰显示文字；同时支持全程 DC 调光，并通过 TÜV 南德无频闪、低蓝光认证。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_ed2b7f873b3f4ee09280f8e06017815d@517825446_oswg383912oswg1920oswg1080_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>外形上，雷鸟 iO 采用经典皇冠框型，以平直线条勾勒利落感，再用圆润轮廓弱化智能设备的突兀感。为把科技模块藏进日常眼镜的纤薄形态，雷鸟创新选用轻质镁铝合金前框与双层钛合金镜腿，将前框边缘平均宽度压缩至 2.25 毫米、钛合金镜腿最薄处做到&nbsp;1.15 毫米，在兼顾强度与细腻触感的同时，让正面和侧面观感更接近普通眼镜，整机重量更低至 34g，实现全天舒适佩戴体验。</p>\n  <p>为了减少手机端通知带来的频繁干扰，雷鸟 iO 设计了聚焦效率与专注的信息看板，把天气、日程、待办、世界时钟、股票订阅等高频内容直接呈现在你的视野中，手机通知也可及时同步至镜片，帮助用户快速判断信息轻重缓急。为了达到更精准的交互，全新的 Smart Crown 智能旋钮通过旋动、按压让用户可以单手快速操作确认，无需反复寻找镜腿上的触控区域，同时还支持点头确认、摇头取消的头势交互，公共场合也能自然完成操作。未来，雷鸟创新还将进一步拓展雷鸟&nbsp;iO 在第三方生态的能力，计划与支付宝、京东、高德、同程等合作伙伴推出停车缴费、快递查询和航班信息等新功能场景。</p>\n  <p>&nbsp;</p>\n  <p><strong>全天候主动式 AI：“越戴越懂你”的能力增强助理</strong></p>\n  <p>面对工作与生活中的高信息密度和高认知负荷，传统 AI 助理往往要等用户发出指令，才能在单一场景中提供帮助，也很难真正理解用户长期的习惯与需求。雷鸟 iO 从全天候佩戴出发，支持两天超长续航，让 AI 从一个等待调用的工具，变成持续在线的能力增强助理。</p>\n  <p>在底层能力方面，雷鸟 iO 以开源大模型为能力底座，首批支持 DeepSeek V4 Pro 与千问 3.7 Max，后续还将接入 Kimi K3 和雷鸟自研的 RayNeo AI 大模型，为用户提供多模型选择。在此基础上，雷鸟还依托 RayNeo 全天候记忆引擎，进一步打通物理世界信息。iO 可以通过对声音、位置等信息的处理，将记忆转化为情景、语义、行为等多种信息类型，从大规模、不连续、非结构化的真实场景数据中理解用户，并记录处理全天佩戴产生的 24 小时上下文。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_ed0bad54593c4c648ab21240cef16da9@517825446_oswg3159725oswg1920oswg1080_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>雷鸟 iO 基于全天行程、会议、生活内容打造 AI 增强型助理，全天智记功能可通过每天自动生成总结，归纳重要对话、待办事项和个人状态，帮助用户自动化管理琐事。随着信息积累，AI 可以调用历史内容理解用户的关注话题与表达习惯，再次回答时无需从零开始。用户可以回溯昨天的会议重点、口头约定的复诊时间，也可以让 AI 根据长期记录给出更贴合个人偏好的建议。基于对用户场景的判断和理解，雷鸟 iO 还开发了实时提示模式，无需用户说出指令，就能识别正在进行对话中的相关问题，并将参考答案显示在镜片上。无论是临时访谈、会议交流，还是日常遇到知识盲区，信息都能在真正需要的时刻自然出现。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_1f671bbabcab439188e37c118bf36a89@517825446_oswg1100724oswg1920oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>雷鸟 iO 配备 4 颗阵列麦克风和 1 颗骨传导麦克风，通过波束成形算法，能在多人场景中精准区分说话人身份，提升会议记录与总结效率。为提升翻译体验，雷鸟 iO 搭载技术合作伙伴时空壶的 BabelOS 3.0 智能翻译引擎，覆盖全球 55 种语言及 109 种口音。区别于逐字拼接的传统机器翻译，BabelOS 3.0 由 AI 大模型先理解完整语义，再生成更符合表达习惯的译文，并通过语义断句、润色纠错与多引擎智能调度，减少生硬直译和等待带来的交流中断。在演讲场景中，雷鸟 iO 的&nbsp;AI 提词器模式，则可跟随用户语速滚动，实时高亮正在讲述的内容，减少公开表达时频繁转移视线带来的紧张与中断。</p>\n  <p>&nbsp;</p>\n  <p><strong>让 AI 全天在线，也让隐私始终可见可控</strong></p>\n  <p>全天候 AI 需要持续接收现实世界的信息，雷鸟 iO 将隐私保护前置到产品设计，以 Privacy by Design（隐私优先设计）为原则，围绕采集状态、数据处理、用户控制和外部验证四个层面，建立从硬件到数据的隐私保护体系。</p>\n  <p>雷鸟 iO 不配备摄像头，减少不必要的视觉采集入口；镜腿上的隐私状态灯则与录音、翻译等功能模块在硬件层面绑定，只要相关功能处于工作状态，指示灯便同步亮起，无法通过软件关闭或绕过，让设备是否正在工作始终清晰可见。全天智记产生的原始对话会先在设备端完成不可逆的匿名化与脱敏，必要时上传的也只是脱敏后的结构化信息，原始内容不会以可识别的形式离开设备，所有的数据全程采用金融级别的加密标准保护。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_f6c31ffbd2d84e34929316abbada4c75@517825446_oswg172089oswg1920oswg1080_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>数据产生之后，用户仍然拥有完整的决定权：历史数据可以导出、迁移，也可以彻底删除且不可恢复；眼镜与账号一对一绑定，设备丢失后他人无法重新绑定或读取数据。雷鸟信息安全管理体系已通过 ISO 27001 与 ISO 27701 认证，并覆盖 GDPR、CE、EN 18031、CRA 等合规要求，同时引入白帽安全团队开展攻防测试，让这套从采集、处理到控制的隐私机制始终接受外部验证，确保安全可控。</p>\n  <p>&nbsp;</p>\n  <p>雷鸟 iO 以“人类增强 AI 眼镜”为产品定位，将日常佩戴、全天候主动式 AI 与可信赖的隐私保护融为一体，让 AI 从“能用”走向“值得长期佩戴”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_9c738b33733d402b88f58bf6b8f85ce6@517825446_oswg4876137oswg2160oswg3600_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>雷鸟 iO 正式售价 2499 元，首发到手价 1996元起，还有充电眼镜盒、京东 PLUS 定制版等更多选择，即日起在京东、天猫、抖音及多家线下眼镜渠道开售。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260822/v2_8d16d6b33ff14830abd8ec33cd5ffc0d@517825446_oswg1039904oswg1920oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>与此同时，此前备受好评的 AI 拍摄眼镜雷鸟 V4 也推出了 32GB 版本，售价 1999 元，国补价 1699 元。</p>",
-      "category": "tech",
-      "published_at": "2026-08-22T11:22:19+00:00",
-      "fetched_at": "2026-08-23T01:02:22.951603+00:00",
-      "fingerprint": "512fde87aa94936f"
-    },
-    {
-      "source": "少数派",
-      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-      "url": "https://sspai.com/post/113675",
-      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...<a href=\"https://sspai.com/post/113675\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-22T03:00:00+00:00",
-      "fetched_at": "2026-08-23T01:02:21.161728+00:00",
-      "fingerprint": "c6de64b1b72c4b4d"
     }
   ]
 }
