@@ -1,7 +1,247 @@
 {
-  "updated_at": "2026-08-30T03:17:01.619070+00:00",
-  "count": 179,
+  "updated_at": "2026-08-31T03:12:24.727944+00:00",
+  "count": 183,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "summary": "<p>More traumatised civilians are arriving every day at ‘shockingly overcrowded’ El Obeid and camps on its outskirts</p><p>Humanitarian conditions in the Sudanese city of El Obeid and two camps on its outskirts are dire and deteriorating, according to people on the ground, as civilians displaced by fighting between the Sudanese Armed Forces and Rapid Support Forces (RSF) militia continue to pour in from the surrounding countryside.</p><p><a href=\"https://www.unocha.org/publications/report/sudan/mr-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-briefing-security-council-humanitarian-situation-sudan-24-august-2026\">The UN says </a>more than 15,000 families have arrived since mid-July, joining more than 200,000 people who arrived in the first half of the year, according to government figures <a href=\"https://www.savethechildren.net/news/sudan-nearly-39000-displaced-children-arrive-el-obeid-six-months-city-close-breaking-point\">cited</a> by Save the Children.</p> <a href=\"https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-08-30T06:00:48+00:00",
+      "fetched_at": "2026-08-31T03:12:24.723679+00:00",
+      "fingerprint": "4a4f24c3ca430c96"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "category": "politics",
+      "published_at": "2026-08-30T17:49:31+00:00",
+      "fetched_at": "2026-08-31T03:12:24.527968+00:00",
+      "fingerprint": "daf3d567c0452ce7"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Iceland votes against restarting EU membership talks",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "category": "politics",
+      "published_at": "2026-08-30T16:11:44+00:00",
+      "fetched_at": "2026-08-31T03:12:24.527962+00:00",
+      "fingerprint": "8e64d147ff7d8873"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says the attack killed several civilians and is the first known US strike on Iran since late July.",
+      "category": "politics",
+      "published_at": "2026-08-30T23:53:03+00:00",
+      "fetched_at": "2026-08-31T03:12:24.527955+00:00",
+      "fingerprint": "b02f234897e52497"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "category": "politics",
+      "published_at": "2026-08-30T20:02:43+00:00",
+      "fetched_at": "2026-08-31T03:12:24.527945+00:00",
+      "fingerprint": "8c0ca5cb5229b79a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "她放下演藝事業，回愛丁堡拯救家裏的中餐館",
+      "url": "https://www.bbc.com/zhongwen/articles/czjzdlvly70o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "母親經營了30年的餐廳正在走下坡。因此，賀灕灑暫停了自己的演藝事業，回到蘇格蘭的家裏試一把。",
+      "category": "politics",
+      "published_at": "2026-08-31T00:15:53+00:00",
+      "fetched_at": "2026-08-31T03:12:24.478895+00:00",
+      "fingerprint": "d26df99023e18796"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "西方官員：俄羅斯加大強硬言論，但仍避免與北約爆發戰爭",
+      "url": "https://www.bbc.com/zhongwen/articles/cy8zyg119dyo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "西方官員稱，普京當局可能會繼續對北約成員國採取「混合行動」攻勢，但不會直接動武。",
+      "category": "politics",
+      "published_at": "2026-08-31T00:15:46+00:00",
+      "fetched_at": "2026-08-31T03:12:24.478888+00:00",
+      "fingerprint": "a5843b6f2cb5f92e"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "為何台灣公視屢陷預算爭議？",
+      "url": "https://www.bbc.com/zhongwen/articles/c4gjd85e03xo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "作為開播28年的公共媒體，為何台灣公視反覆陷入預算爭議？預算及董事會人事為何多次成為台灣朝野政黨交鋒的焦點？",
+      "category": "politics",
+      "published_at": "2026-08-31T00:15:40+00:00",
+      "fetched_at": "2026-08-31T03:12:24.478882+00:00",
+      "fingerprint": "0d28ff3e55f90497"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國：氣候變暖導致尼泊爾—西藏泥石流災難",
+      "url": "https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "中方調查專家稱，造成泥石流的冰岩崩從發生到衝擊西藏吉隆口岸僅約6到7分鐘。",
+      "category": "politics",
+      "published_at": "2026-08-30T05:58:22+00:00",
+      "fetched_at": "2026-08-31T03:12:24.478875+00:00",
+      "fingerprint": "70e8a078ebfd6703"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國審查西藏口岸遭洪災衝擊畫面，當地災民情況我們所知甚少",
+      "url": "https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "一些關於這場致命山洪暴發最驚人的畫面，中國官方媒體未對公眾播放。",
+      "category": "politics",
+      "published_at": "2026-08-30T12:37:59+00:00",
+      "fetched_at": "2026-08-31T03:12:24.478865+00:00",
+      "fingerprint": "5ba777fb8c536192"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Why do I lose my passion and want to do nothing?",
+      "url": "https://news.ycombinator.com/item?id=49505014",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-31T03:12:24.017917+00:00",
+      "fingerprint": "deac5befb128e919"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-31T03:12:24.017788+00:00",
+      "fingerprint": "1eb9fb784b9d5dd8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-31T03:12:24.017647+00:00",
+      "fingerprint": "ac6e7e3c37d7027f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-31T03:12:24.017510+00:00",
+      "fingerprint": "50a1b279676ed29b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-08-31T03:12:24.017355+00:00",
+      "fingerprint": "e6e8629f34d5778b"
+    },
+    {
+      "source": "The Verge",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-30T15:35:10+00:00",
+      "fetched_at": "2026-08-31T03:12:23.916387+00:00",
+      "fingerprint": "6bfed2ab471f8cf4"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+      "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+      "summary": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will conduct an unprecedented survey of the universe. Its field of view [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-30T16:36:39+00:00",
+      "fetched_at": "2026-08-31T03:12:23.916381+00:00",
+      "fingerprint": "71eb4da3b372a65e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+      "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+      "summary": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-Life 2: Episode 3, content cut from Portal 2, and a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-30T19:14:08+00:00",
+      "fetched_at": "2026-08-31T03:12:23.916374+00:00",
+      "fingerprint": "7972dd28c790f4cf"
+    },
+    {
+      "source": "The Verge",
+      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-08-30T21:18:59+00:00",
+      "fetched_at": "2026-08-31T03:12:23.916364+00:00",
+      "fingerprint": "431ebf7a4d824629"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨官方回应“建议取消ETC设备使用”；追觅起诉小红书，要求平台配合披露用户身份信息；李国庆回应卖掉当当股份做公益",
+      "url": "https://36kr.com/p/3962669143620737?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>国 内金饰克价一夜大跌近40元</p>\n  <p>官方通报“用敌敌畏给餐厅消杀”</p>\n  <p>长鑫存储回应起诉美国国防部</p>\n  <p>建设银行已开放存量客户个人房贷延期至40年申请</p>\n  <p>索尼、华纳起诉Anthropic，指控其公然窃取知识产权</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>官方回应“建议取消ETC设备使用”&nbsp;</strong></p>\n  <p>近期，交通运输部针对“高速公路无卡便捷通行模式推广”等问题进行回应。交通运输部公路局相关负责人表示，当前设置ETC车道的目的在于提升高速公路通行效率、优化公众高速出行体验，同时促进物流业降本增效。通行频次高的车主，可根据个人需求自主自愿选择办理ETC设备，通过合作银行线下网点、ETC官方服务小程序、支付宝相关服务入口等多种正规线上线下渠道便捷申领ETC设备。</p>\n  <p>同时，为进一步提升高速公路通行效率、便利群众出行，交通运输部当前已印发《高速公路“手机+”无卡便捷通行实施方案（2026-2028年）》，积极稳妥推广“手机+”无卡便捷通行模式。（财联社）</p>\n  <p><strong>追觅起诉小红书，要求平台配合披露用户身份信息</strong></p>\n  <p>第一财经记者查询法院开庭信息得知，追觅科技（苏州）有限公司因名誉权纠纷起诉行吟信息科技（上海）有限公司（小红书国内核心运营主体公司），该案将于9月8日在上海市黄浦区人民法院开庭。</p>\n  <p>针对追觅起诉小红书一事，据接近小红书的法律人士表示，该诉讼源自追觅要求平台配合披露某自媒体用户的真实身份信息。追觅认为该用户涉嫌侵权，起诉平台属于网络侵权纠纷里常见的\"披露身份\"法定程序。据了解，该自媒体账号于去年11月发布了一篇关于追觅组织架构调整的内容。（第一财经）</p>\n  <p><strong>李国庆回应卖掉当当股份做公益</strong></p>\n  <p>36氪获悉，8月29日，李国庆在社交平台发布视频称，“去年60岁时卖掉当当股份，拿出5000万做公益！比钱更重要的是，把爱传递出去，我相信人间值得！”李国庆透露，这笔5000万元捐赠一分为二，其中2500万元进入李享生活公益基金，由其创立的会员制电商平台“李享生活”旗下的公益部运作；另外2500万元进入李国庆张丹红公益基金，作为双方家族内部基金运作。两个基金虽然都关注儿童和教育领域，但“决策权、决策流程不一样”。李国庆称，基金项目的定位为“资助型”，不是自己下场去做。</p>\n  <h2>AI最前沿</h2>\n  <p><strong>谷歌、OpenAI、Meta正与日本官方机构和本土企业联手，打击激增的网络诈骗案件</strong></p>\n  <p>市场消息：谷歌、OpenAI、Meta正与日本官方机构和本土企业联手，打击激增的网络诈骗案件。（新浪财经）</p>\n  <p><strong>OpenAI将终止向Cursor提供模型服务，马斯克回应</strong></p>\n  <p>据多家外媒报道，当地时间28日，美国开放人工智能研究中心（OpenAI）宣布，计划停止向美国太空探索技术公司（SpaceX）旗下AI编程平台——“光标”代码编辑器（Cursor）提供模型服务。OpenAI在社交媒体上发文称，已通知SpaceX，拟定终止日期为2026年11月12日。</p>\n  <p>OpenAI表示，作出该决定是基于“过往经验”。因为马斯克旗下多家公司曾出现违约行为，无法确信SpaceX会在服务条款框架内使用技术。对此，马斯克在X平台回应称“毫不在意”，并称OpenAI首席执行官阿尔特曼和总裁布罗克曼“两人完全不值得信任，偷走了一个开源非营利组织”。今年6月，SpaceX宣布以600亿美元全股票交易方式收购Cursor的母公司Anysphere，并于本月初完成这笔收购。据悉，马斯克此前曾向OpenAI发起1500亿美元索赔诉讼，指控OpenAI与阿尔特曼背弃最初的非营利使命。而OpenAI方面则表示，马斯克试图夺取公司控制权。（央视财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>国内金饰克价一夜大跌近40元</strong></p>\n  <p>36氪获悉，北京时间29日早间，现货黄金收跌2.95%，跌破4500美元/盎司，报4453.67美元/盎司。隔夜市场上，美联储主席沃什在杰克逊霍尔全球央行年会发表讲话。沃什表示，如果美国的基础通胀不能清晰且足够快速地向2%目标回落，美联储“还有工作要做”。29日，国内多家品牌金饰价格集体大幅下调，老庙黄金足金饰品报1345元/克，单日大跌39元；老凤祥足金饰品报1348元/克，单日大跌36元；周生生足金饰品报1344元/克，单日大涨37元。</p>\n  <p><strong>蜜雪冰城会员总量达5亿</strong></p>\n  <p>36氪获悉，8月30日，蜜雪冰城宣布，其会员总量达5亿。</p>\n  <p><strong>长鑫科技宣布LPDDR6量产，峰值速率达12800Mbps</strong></p>\n  <p>长鑫科技宣布自主研发的新一代低功耗内存LPDDR6实现量产，并将首批搭载于小米18 Fold折叠旗舰手机。据悉，这是全球LPDDR6产品首次落地商用，标志着国内存储企业首次在高端内存标准上实现全球首发量产跨越。据长鑫半年报披露，长鑫LPDDR6芯片通过架构创新及数据传输优化技术，充分释放数据传输潜力，峰值速率达12800Mbps，芯片最高容量 16GB。（财联社）</p>\n  <p><strong>机器人踢掉女孩牙齿，涉事方回应</strong></p>\n  <p>近日，“湖北襄阳一女孩在科技馆被机器人踢掉牙齿”一事引发热议。8月28日，南都N视频记者从当地相关部门获悉，事发时涉事机器人正在调试演练，目前涉事方已与家属达成和解。该馆运营服务方合肥安达创展科技股份有限公司方面表示，“赔偿细节暂不公开，机器人是宇树品牌。”据该科技馆介绍，目前宇树机器人表演仍在定期推出。</p>\n  <p>据了解，2025年11月12日，湖北襄阳一名女孩随幼儿园到襄阳市科技馆参观时，被机器人突然抬腿踢中面部，致使多颗乳牙被踢落。相关图片显示，该女孩多颗乳牙脱落，且面部留下疤痕。（南都N视频、第一财经）</p>\n  <p><strong>厦门通报“一消杀公司用敌敌畏给数十家餐厅消杀”：6人被刑拘&nbsp;</strong></p>\n  <p>近日，针对媒体报道的厦门绿林森环境科技有限公司使用敌敌畏为餐饮门店消杀问题，厦门市成立联合调查组。经调查，该公司相关行为涉嫌违法违规，性质十分恶劣。公安机关已对法定代表人庄某臣、股东曾某鸣、业务培训主管李某等6名犯罪嫌疑人依法刑事拘留，案件正在进一步侦办中。经全面排查该公司提供消杀服务的经营主体，并委托具有检验检测资质的机构对场所环境、餐厨用具等进行检测，结果显示相关指标符合安全标准。（央视新闻）</p>\n  <p><strong>长鑫存储回应起诉美国国防部&nbsp;</strong></p>\n  <p>有消息称，长鑫存储于美国东部时间8月28日向美国国防部提起诉讼。8月29日，长鑫存储向记者表示，公司向美国哥伦比亚特区地方法院提起诉讼，指控美国国防部错误地将其列入“中国军事企业”清单，该公司2025年1月被首次列名。长鑫存储不是军事企业，仅研发和生产用于商业及民用领域的DRAM（动态随机存取存储器）产品，未用于军事用途。（第一财经）</p>\n  <p><strong>章建平退出美年健康十大股东</strong></p>\n  <p>8月30日，根据美年健康2026年半年报，截至2026年6月30日，十大股东名单未见章建平的身影；而根据美年健康2026年一季报，截至2026年3月31日，章建平持有公司6625.74万股股份，为公司第十大股东。（界面新闻）</p>\n  <p><strong>建设银行已开放存量客户个人房贷延期至40年申请</strong></p>\n  <p>8月28日，人民银行、金融监管总局联合发布相关房地产信贷管理新规，将个人住房贷款期限由最长30年延长至最长不超过40年，具体期限由购房人与商业银行协商确定。8月30日，财联社记者采访获悉，建设银行已开始落实相关政策。建行客服人员表示，客户可以向银行申请延长贷款期限，银行将根据申请延长期限的具体原因、还款来源以及后续还款安排等因素综合评估，合理确定可延长的具体年限。按照建行目前执行口径，延长期限最长不超过原贷款期限的一半，且原贷款期限与延长期限合计不超过40年。例如，若客户原贷款期限为30年，最多可申请延长10年；若原贷款期限为10年，最多可延长5年。建行客服人员表示，该行自政策发布之日起（2026年8月28日）开始执行最新规定。（财联社）</p>\n  <p><strong>苹果Siri功能跳票赔17亿</strong></p>\n  <p>针对苹果Siri虚假宣传的集体诉讼，近日迎来新进展。苹果已同意支付2.5亿美元（约合人民币17亿元）达成和解，符合条件的美国iPhone用户，单台设备最高可获95美元赔偿。此次争议源于苹果此前将Apple Intelligence加持的个性化Siri，作为iPhone 15和iPhone 16系列的重要卖点，并在宣传中展示多项AI能力。然而2025年3月，苹果确认部分核心Siri功能将延期上线，随后有消费者提起集体诉讼，认为苹果的相关宣传影响了购买决策。（每日经济新闻）</p>\n  <p><strong>超123亿，2026电影暑期档已超去年同档期总票房</strong></p>\n  <p>网络平台数据显示，截至8月30日13时，2026年暑期档电影总票房（含预售）突破123.4亿元，超过2025年暑期档收官总票房，实现暑期档票房连续两年增长。（央视新闻）</p>\n  <p><strong>中国石油：聘任龚真直为副总裁</strong></p>\n  <p>36氪获悉，中国石油8月30日公告，公司于2026年8月28日召开第十届董事会第二次会议，审议并通过了《关于聘任公司副总裁的议案》，聘任龚真直担任公司副总裁，任期与第十届董事会任期一致。</p>\n  <p><strong>中信证券：AI在Q2集中体现，而能化接下来可能逐步升温</strong></p>\n  <p>中信证券研报指出，2022年后A股“结构性快速轮动”是常态，极高轮动速度持续时间一般在1~2个月，高速轮动背后的共性是盈利上修的广度不足，可持续的主线稀缺。当前，贸易摩擦步入高发期，汇兑损益的影响也在放大，出海作为A股最重要的业绩线索之一遭遇估值约束，制约了行情的宽度，容易形成行业快速轮动的市场状态。打破僵局需要新的变化，近期的AI进展强化了算力需求快速增长的既有趋势，但不足以改变远期商业化叙事，若后续看到类似RSI、防蒸馏等可能的新变化出现则有望打开远期估值空间。在行情快速轮动的阶段，主要的风格策略当中，赢家大部分是“低估值系”策略，不过其中只有PB-ROE策略在快速轮动环境下明显占优，且策略收益率随着轮动速度提升而进一步增强，动量策略则是快速轮动阶段最受损的策略，高轮动下市场机会或将更多体现为具备业绩支撑品种的估值修复。配置上，我们在中期策略中提出“AI+能化”的杠铃结构，AI在Q2集中体现，而能化接下来可能逐步升温。（财联社）</p>\n  <p><strong>订单排到年底，千亿液冷赛道加速升温</strong></p>\n  <p>全球AI硬件功耗持续攀升，传统风冷散热瓶颈凸显。随着新建智算中心加速落地、传统机房风冷改液冷需求集中释放，液冷产业迎来爆发增长期，多家液冷企业订单排至年底。据了解，当前传统的风冷技术不能很好解决高功率算力芯片散热问题，全浸没式液冷成为一种解决方案，就像给发烫的服务器“泡冷水澡”。近日，国内首个浸没式液冷算力方舱投入运行，对四种不同冷却液进行严苛的兼容性测试。这个项目聚焦算力方舱液冷冷却液的研究，研发出兼具经济性与散热性的低价冷却液，同时基于硅油、合成油、再生变压器油及氟化液四种冷却液进行兼容性研究，破解数据中心高耗能难题。业内人士表示，随着技术的迭代和成本下降，浸没式液冷有望逐步替代传统冷板式液冷装置。(央视财经)</p>\n  <p><strong>索尼、华纳起诉Anthropic，指控其公然窃取知识产权</strong></p>\n  <p>几家全球大型音乐出版商周五晚间提起重磅诉讼，称该案是“史上规模最大、性质最为恶劣的持续性知识产权盗窃行为之一”。本次诉讼拉开序幕，一场围绕音乐、人工智能以及新技术时代知识产权保护的较量或将持续数年。原告诉状（共48页）写道：“被告Anthropic及其创始人达里奥·阿莫代伊、本杰明·曼大规模非法通过种子下载、网页爬取、下载受版权保护作品，以此开发、运营Anthropic的Claude系列人工智能模型，并借此攫取巨额利润。”原告还指控Anthropic盗版数千首受版权保护音乐作品，要求就每一项侵权作品索赔数十万美元。这并非Anthropic首次被指控盗用内容训练模型。2025年9月，该公司达成美国历史上金额最高的版权和解，向作者与出版商支付15亿美元。（新浪财经）</p>\n  <p><strong>a16z旗下机器时代基金筹集11亿美元，将投向芯片、机器人等硬件领域</strong></p>\n  <p>当地时间8月28日，硅谷知名风险投资公司Andreessen Horowitz（a16z）宣布硬件正式确立为公司的核心方向，并为旗下机器时代基金（Machine Age Fund）筹集11亿美元。该基金将投资于AI运行所依赖的所有计算机基础设施，包括芯片、内存、网络和存储，还包括运行AI的完整系统：从数据中心到机器人，再到家用AI设备。该公司介绍，其最近投资了多家硬件公司，包括Unconventional AI、Nexthop、Volta、Atoms和Mind Robotics。（界面新闻）</p>\n  <h2>上市进行时</h2>\n  <p><strong>优地机器人：拟全球发售4500万股H股</strong></p>\n  <p>36氪获悉，优地机器人公告，公司拟全球发售45,000,000股H股，香港发售股份2,250,000股H股，国际发售股份42,750,000股H股；发售价不超每股19.55港元；预期股份将于2026年9月9日开始在香港联交所买卖。</p>\n  <p><strong>燧原科技：首次公开发行股票并在科创板上市网上路演公告</strong></p>\n  <p>36氪获悉，燧原科技公告称，公司首次公开发行股票并在科创板上市的申请已获证监会同意注册。本次拟公开发行新股4303.5173万股，占发行后总股本的10%。发行人和联席主承销商将于2026年9月1日14:00-17:00举行网上路演，投资者可通过上证路演中心或上海证券报·中国证券网参与。</p>\n  <h2>大公司财报</h2>\n  <p><strong>中国国航：2026年半年度净亏损22.86亿元</strong></p>\n  <p>36氪获悉，中国国航发布2026年半年度报告，实现营业收入892.68亿元，同比增长10.54%；归属于上市公司股东的净利润为亏损22.86亿元。小财注：公司Q2净利润亏损40亿，之前预告区间为-43.14亿--38.14亿，Q1净利润17.14亿，据此计算，Q2净利润环比由盈转亏。</p>\n  <p><strong>三一重工：上半年净利润56.9亿元 同比增长9.13%</strong></p>\n  <p>36氪获悉，三一重工8月30日披露半年报，公司上半年实现营业收入533.06亿元，同比增长19.7%；归属于上市公司股东的净利润56.9亿元，同比增长9.13%；基本每股收益0.6217元/股。报告期内，公司业绩主要受到国内和国际销售均同比增长的影响。</p>\n  <p><strong>中国石油：上半年净利润同比增长22%</strong></p>\n  <p>36氪获悉，中国石油发布2026年半年度报告，实现营业收入15274.91亿元，同比增长5.3%；归属于母公司股东净利润1039.36亿元，同比增长22.0%。</p>\n  <p><strong>京沪高铁：上半年归母净利润67.71亿元，同比增长7.21%</strong></p>\n  <p>36氪获悉，京沪高铁8月30日披露半年报，公司上半年实现营业收入218.42亿元，同比增长3.94%；归属于上市公司股东的净利润67.71亿元，同比增长7.21%；基本每股收益0.1384元/股。</p>\n  <p><strong>中国黄金：上半年归母净利润2.79亿元，同比下降12.35%</strong></p>\n  <p>36氪获悉，中国黄金8月30日披露半年报，公司上半年实现营业收入249亿元，同比下降19.93%；归属于上市公司股东的净利润2.79亿元，同比下降12.35%；基本每股收益0.17元/股。公司拟向全体股东每10股派发现金股利0.92元（含税）。报告期内，公司业绩主要受到黄金产品销量同比下降、营业成本及各项费用变动，以及存货金额增加和经营性应付项目减少等因素的影响。</p>\n  <h2>酷产品</h2>\n  <p><strong>华为Mate XT 2非凡大师即将发布，余承东：展翼三折叠形态，业界最薄、尺寸最大</strong></p>\n  <p>8月30日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东发文介绍三折叠手机新形态，即将于9月7日发布的华为Mate XT 2非凡大师为展翼三折叠形态，手机通过左右翻折双翼展开。“3.5mm超纤薄机身内首次容纳内外两块屏幕，展开之后，依旧是业界最薄、尺寸最大的折叠屏手机！”余承东写道。（界面新闻）</p>\n  <p><strong>整理</strong>｜娃娃菜&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-08-30T23:58:52+00:00",
+      "fetched_at": "2026-08-31T03:12:23.753484+00:00",
+      "fingerprint": "4b87b895feedb059"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "爱诗科技投资、主做精品内容，AI影视公司折叠完成数百万美元融资｜36氪融资首发",
+      "url": "https://36kr.com/p/3954709821258889?f=rss",
+      "summary": "<p>36氪获悉，8月，AI数字影视公司上海折叠视觉设计有限公司（简称“折叠”）完成了数百万美元的种子轮战略投资，由爱诗科技投资。</p>\n  <p>此次融资将主要用于扩充创意人才和技术团队、AI工作流的搭建，以及IP的采购与开发。</p>\n  <p>折叠的主营业务并不完全是正热的AI短剧，而是基于传统流程及AI混制的中长番、动画电影，以及广告等。如今，这部分业务在国内外市场的需求增速明显，而AI混制有较高的传统内容制作和大模型应用能力的结合要求，创始团队成员Sam提到“国内平台对于传统+AI的反应速度是特别快的，目前折叠也在配合一些混制方向的业务。”</p>\n  <p>去年公司还交付过红果短剧评级为S级的内容，如今在AI短剧侧，折叠暂时采用跑量的策略——因为门槛足够低，还能沉淀数据资产、挖掘人才。</p>\n  <p>伴随着国内各家大模型的升级迭代，视频生成领域已经成为AI赛道落地最快、商业化毛利较高的场景这一，并造就了AI短剧这一风口。36氪曾获悉，几乎占据AI短剧赛道主导地位的Seedance2.0，毛利达到70%以上，成为字节旗下火山引擎最赚钱的业务之一。</p>\n  <p>只是今年年初还能快速获���的赛道，如今因为国家管控政策的出台，以及供给端产能过剩，已经成为一片红海。挣快钱的时期过去后，行业开始考虑如何做IP，用AI触及更高的商业天花板。折叠是其中一员。</p>\n  <p>团队创始人Cage及Hisun是数字艺术家，具备优秀的审美能力及创作能力。创始团队均来自内容平台、版权及AI技术公司，让公司具备审美能力的同时，也可以更好地链接行业资源。</p>\n  <p>他们认为，越自动化的内容，距离精品越远，“AI可以让我们更轻松做出60分的内容，但100分的内容需要懂AI技术又有传统审美的人参与进来。”</p>\n  <p>折叠整体的人员构成就是这样一群既懂内容也懂技术的人，构成了其核心竞争力，Sam表示，公司有些导演、制片、美术每天都在研究如何把自己“蒸馏”成各类Skill，好把更多的时间留给思考。</p>\n  <p>目前市面上内置多个Agent的工具、模型，仍然难以满足一家产量较大的公司生产过程中足够细分的需求和团队配合，建设自己的生产流程依然是必要的。因此，折叠还搭建了自己的AI工作流程，包括剧本拆解、提示词生成、角色设定等Agent，用于降本增效。</p>\n  <p>以AI为原点，加上可观的人员规模——折叠在多个城市拥有百人级产能团队。公司高品质内容的月产能可以达到5000分钟，约等于40部电影。</p>\n  <p>折叠还组建了专门的技术团队，除了内部AI影视内容生产流程的搭建以外，还支持AI游戏的改编和产出。</p>\n  <p>游戏是IP开发中商业天花板更高的品类，打造轻量游戏的制作能力，有助于公司进一步完善自身的IP开发能力。</p>\n  <p>包括“爱优腾芒”以及B站在内的视频平台，都在探索用AI融入、改造已有的内容生产流程。“大家对究竟是用AI改造现有内容的生产流程，还是打造AI原生内容尚没有定论，因为还没有看到一个非常现象级的Case跑出来，但能确定AI是未来的方向。”Sam表示。</p>\n  <p>折叠则是爱诗科技押注的细分方向之一，后者如此表示自己的投资逻辑：AI内容进入审美淘汰赛后，经典CG反而变成稀缺生产力，AI视频正在从Prompt红利进入审美壁垒阶段，具备传统CG能力+模型边界能力感知的团队会成为下一代精品内容公司核心生产范式的定义者。</p>\n  <p>目前，折叠已与多个平台达成合作，用AI混制推进平台IP影视化，预计今年年底陆续有相关精品内容上线。同时也正在筹备登陆院线的AI混制动画电影。</p>\n  <p>Sam说，AI只是一种工具和手段，长短也不是关键，本质上还是好内容在哪里，观众的注意力就在哪里。</p>",
+      "category": "tech",
+      "published_at": "2026-08-31T00:15:00+00:00",
+      "fetched_at": "2026-08-31T03:12:23.753476+00:00",
+      "fingerprint": "7cac70da7ac23034"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发｜中科大团队做太空智能计算平台获超亿元融资，博华、经纬、高瓴等联合押注",
+      "url": "https://36kr.com/p/3958987031133568?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>本文约3500字，建议阅读7分钟</p>\n  </blockquote>\n  <p>硬氪获悉，专注太空智能计算与卫星智能化的「中科密位」近期完成A1轮及A2轮融资，两轮融资总额超亿元，投资方包括博华产投、经纬创投、高瓴创投、宇石空间、中新集团、BV百度风投、鑫睿资本、华控基金、科大硅谷创投等。IO资本担任独家财务顾问。本轮融资阵容覆盖航天产业资本、头部创投机构及产业方，为公司进一步拓展太空智能计算及智能卫星核心系统业务提供了产业资源支持。</p>\n  <p>对于商业航天而言，随着卫星数量持续增加，如何处理海量在轨数据、降低数据下传压力，以及让卫星更加智能、具备自主运行能力，正成为新的基础设施需求。</p>\n  <p>中科密位由中国科学技术大学和上海处理器中心孵化，团队在智能计算体系结构和太空工程领域持续攻关近10年。<strong>公司创始人王子彦曾任某人工智能芯片上市公司副总裁，联合创始团队成员均来自中科大软件学院。</strong></p>\n  <p>中科密位定位于“太空智能计算与卫星智能化解决方案构建者”，构建“星智能—岛计算、星岛协同智能”的新一代智能星座计算架构。目前，<strong>公司的核心产品包括高可靠太空计算机硬件、星上服务化操作系统，以及面向星座分布式协同的计算架构。</strong></p>\n  <p><strong>硬件层面，中科密位推出了全国产化异构智能计算系统“洪塃”，覆盖从模组到整机再到系统多种形态。</strong>该产品具备硬件、固件、软件、系统四级可靠性，支持全轨道面恶劣辐照环境，主要解决卫星在有限功耗、有限体积以及强辐射环境下的高密度智能计算问题，同时支持CPU、GPU、NPU、FPGA等不同类型芯片协同工作。其计算能力可按需模块化组合，计算热控一体交付，覆盖从几十Tops级别至数十Pops太空计算需求。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260828/v2_193638d4d9fe42678c69b7a928e7dae1@5920579_oswg905175oswg1226oswg690_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p><strong>软件层面，中科密位推出了面向异构智能计算的服务化操作系统“玹黃OS”。</strong>其对底层不同类型的计算硬件进行统一抽象，让开发者无需针对不同芯片分别进行开发和适配，而是可以通过统一的软件环境调用底层算力，从而降低智能应用的开发与部署门槛，提高算法迭代效率。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260828/v2_715b491a68c5469486de303080fa4977@5920579_oswg498810oswg1209oswg680_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>在单星具备智能计算能力之外，公司同时自研了“星—岛”协同计算架构。其中，“星”指搭载智能计算能力的传感卫星，“岛”则为部署在太空中的算力节点卫星，为传感卫星提供在轨算力补给和算力接入。这一架构下，卫星可以与其他卫星以及太空算力节点星进一步形成协同，单个卫星可以在轨完成目标识别、任务规划、数据判读等工作，同时对于计算需求更高的任务，则可以进一步调用其他节点的算力。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260828/v2_e7002c4ec5e141b691c51278bf6ee249@5920579_oswg742773oswg1265oswg712_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>商业化路径来看，中科密位目前已经形成从标准产品到系统解决方案的多层次服务模式。一方面，公司可以提供“洪塃”模组、整机等标准化软硬件产品；另一方面，也可以根据不同卫星任务提供定制化的智能计算系统，并进一步延伸至帮助卫星制造和星座运营企业提供灵活敏捷和更低成本的研发、工业化制造能力等支撑服务。</p>\n  <p>目前，中科密位的产品已经应用于商业航天、国家重大专项、载人航天、深空探测等领域。公司披露，团队早期近十年积累，已支持四颗星携带算力产品在轨稳定运行，最长的在轨运行时间已经接近5年；公司目前在研产品25+颗，是国内唯一具备低、中、高全轨道面全国产化太空计算产品交付能力的公司。</p>\n  <p>以下为硬氪与创始人王子彦交流节选：</p>\n  <p><strong>硬氪：团队从18年开始做“算力上天”的研发，当时的研发和现在有什么不同吗？</strong></p>\n  <p>王子彦：整个计算上天的工作是随着国内半导体和基础工业产业链的演进不断迭代的。早期我们用的是算力和功耗都相对较小的芯片，解决的是小模型推理问题。而且这些支撑我们形成积累的任务，都有极高的航天工程要求，从0到1的挑战很大，但是对我们现在的能力锻炼是全方面综合性的，这是我们的幸运。</p>\n  <p>现在计算芯片的能力不断提升，制程不断突破，对于现在的研发，挑战是全方面的，我们始终关注工程可实现和商业可闭环两个出发点，既要考虑受限的卫星平台工作环境约束，还要考虑大功率器件的抗辐照和真空散热问题，同时还要考虑与星上应用的适配优化，以及高时变、非稳态通信环境下整体计算架构的优化，对于团队的技术栈要求非常的全面，对于工程化能力要求提出了更高要求。</p>\n  <p><strong>硬氪：从早期的小算力芯片到现在的大算力载荷，技术难度提升了哪些？硬件和软件分别面临什么挑战？</strong></p>\n  <p>王子彦：早期我们上天的芯片算力和功耗都小，卫星的任务也很聚焦，我们可以针对具体的应用来优化一个专用的系统。现在星上的应用需求更加泛化，对计算的需求也更大，面临很多家不同的AI芯片，架构的差异化和软件栈的碎片化都是对应用泛化的挑战；同时太空计算面临的能源供给、重量、功耗密度、散热全都被约束在一个受限的范围内，系统软件架构必须适配这些极端条件，操作系统、任务调度、分布式协同都需要重新设计。</p>\n  <p>再从具体的硬件层面看，大算力AI芯片本身就是一种典型的低压大电流的芯片，核压大概是0.75到0.85伏，但是核内电源可能会达到将近一两百安培，对于要在太空环境可靠工作的产品来看，整个系统的外部电源、Flash、Nor Flash这些存固件、保证系统启动和安全的外围部件等等，是更显著的系统级短板，怎么样去设计整个太空计算模组的最小单元的可靠性的架构，这个其实就是我们一直在做的工作。我们的工作从小芯片到大芯片，技术栈一直是围绕着轨道可靠性、抗辐照、散热一系列的工作，这些工作是有共性和连续性的。</p>\n  <p><strong>硬氪：如何理解“星-岛”协同的规划，未来为什么一定会出现“算力岛”？</strong></p>\n  <p>王子彦：举个简单例子，现在一颗卫星上如果同时装高功率的传感设备（比如X波段雷达）和高功率的计算设备，会出现“开机一分钟，充电一小时”的情况。因为卫星平台资源受限，很难同时承载两个高功率组件。</p>\n  <p>当前我们还不具备Starlink那样大规模通信组网的能力，我们的地面站也很难广域全球部署，这些约束，都会对未来更大规模的星座建设、运营带来制约。</p>\n  <p>当轨道上传感卫星越来越多，伴随轨道数据激增，计算任务需求大量增加时，就必须有专门的算力卫星来服务整个星座。这个“算力岛”可以同轨伴飞，为传感卫星提供计算能力；当星间激光通信等技术更大规模应用后，还能实现异轨协同、按需接入算力，甚至可以代替部分地面站对星座的运控、规划等能力。简单说，过去的卫星是“眼睛”，现在我们要给“眼睛”加上“脑子”，但单颗卫星装不下足够大的“脑子”，所以需要专门的、更大容量的星座级“大脑”。这是未来的发展方向，也是我们在持续规划的。</p>\n  <blockquote>\n   <p>投资方观点：</p>\n   <p>博华产投董事总经理周睿哲：在轨智能计算是空天信息产业走向深度应用的核心。密位科技拥有国内稀缺的太空智能计算全栈自研能力，完成多星在轨实践，打通技术研发到工程交付闭环，补齐商业航天星座智能化的底层能力。本次投资是博华产投在太空算力赛道的关键布局，助力其与博华已投星座产业链实现深度协同。我们将依托产业网络，助力密位科技拓展更多行业场景，推动国产天基智能计算技术规模化落地。</p>\n   <p>经纬创投：中科密位是航天智能化的核心标的，芯片定制合作、工程化能力、国家队生态三重壁垒，构成较好先发优势。卫星智能化是十五五规划重要方向，星链新一代卫星也从单纯通信卫星转为智能载荷卫星，密位的产品定位更适合中国国情。</p>\n   <p>宇石空间：中科密位在太空智能计算领域具备突出的技术领先优势，围绕星上计算机、异构算力架构、星载热控、轻量化模型部署等关键技术形成成熟积累，攻克太空环境下器件抗辐照、算力调度、星上操作系统等系列难点，技术路径高度匹配宇石空间智能星座与太空超算中心双线技术路线。中科密位创始团队源自中科大体系，兼具科研院所深厚技术积淀、头部产业大厂工程化落地经验，既懂航天环境约束，又精通AI算力软硬件开发，科研功底扎实、产业化执行力强。宇石空间本次投资通过产业链深度绑定，实现技术协同、能力互补，共同推进太空算力星座产品迭代与在轨验证。</p>\n   <p>BV百度风投执行董事崔轲迪：中科密位创始人王子彦及其团队长期专注于太空智能计算，在近十年的持续探索中，对航天工程约束与智能计算技术演进形成了深刻理解。子彦总既具备智能计算领域的技术积累，也拥有将技术真正带入复杂航天场景的工程实践能力，这种长期主义和工程思维是中科密位持续构筑产品能力的重要基础。我们尤其看重团队从早期小算力芯片到如今大算力载荷、从单星计算到“星—岛”协同架构的持续演进，其背后体现的是对太空计算长期发展方向的判断与坚持。期待中科密位可以持续推动国产太空智能计算能力从单点突破走向体系化发展</p>\n   <p>科大硅谷创投：中科密位深耕太空算力与智能计算国产化领域，以分布式太空智能计算架构为核心，填补国内异构智能计算操作系统空白，实现太空算力技术的重大突破。科大硅谷创投投资中科密位，以实际行动践行了“投早投小投硬科技”的投资战略，也与蜀山区重点布局的空天信息、人工智能等未来产业方向高度契合。</p>\n  </blockquote>",
+      "category": "tech",
+      "published_at": "2026-08-31T02:50:27+00:00",
+      "fetched_at": "2026-08-31T03:12:23.753461+00:00",
+      "fingerprint": "539480ba0afd2c98"
+    },
+    {
+      "source": "少数派",
+      "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
+      "url": "https://sspai.com/post/113974",
+      "summary": "我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...<a href=\"https://sspai.com/post/113974\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-30T07:00:00+00:00",
+      "fetched_at": "2026-08-31T03:12:22.247841+00:00",
+      "fingerprint": "11360c8bba8fae0d"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：GTA 6 引发请假玩游戏热潮",
+      "url": "https://sspai.com/post/114022",
+      "summary": "<p>GTA 6 引发请假玩游戏热潮</p><p>Sam Altman 为 OpenAI 高管定制豪华表</p><p>海信发布 A10 系列墨水屏手机</p><p>Pixel 11 削减内存安全特性，GrapheneOS 考虑放弃支持</p><p>「承重」等 Claude 滥用词在 GitHub 蔓延</p><p>工信部曝光车企监督检查典型案例</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/114022\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-08-30T22:59:06+00:00",
+      "fetched_at": "2026-08-31T03:12:22.247830+00:00",
+      "fingerprint": "6f0c5842f89efbbf"
+    },
     {
       "source": "BBC World News",
       "title": "Canada installs large Lake Ontario sign in latest jab at US",
@@ -1591,206 +1831,6 @@
       "published_at": null,
       "fetched_at": "2026-08-25T00:59:37.140454+00:00",
       "fingerprint": "edbda1ff129f4dfb"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-      "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-      "summary": "<p>Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state</p><p>A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.</p><p>The incident occurred less than a week after the government announced plans to close the ⁠site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash ⁠floods each year in crowded, underdeveloped cities across parts of West Africa.</p> <a href=\"https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-08-23T22:16:53+00:00",
-      "fetched_at": "2026-08-24T01:00:30.207016+00:00",
-      "fingerprint": "563ed414c99dce9c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-      "category": "politics",
-      "published_at": "2026-08-23T12:52:08+00:00",
-      "fetched_at": "2026-08-24T01:00:30.075350+00:00",
-      "fingerprint": "016cef994c746bb2"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "category": "politics",
-      "published_at": "2026-08-23T18:17:37+00:00",
-      "fetched_at": "2026-08-24T01:00:30.075344+00:00",
-      "fingerprint": "f7b43bd3e635344a"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-      "category": "politics",
-      "published_at": "2026-08-23T12:56:43+00:00",
-      "fetched_at": "2026-08-24T01:00:30.075329+00:00",
-      "fingerprint": "76b3c55b50c41fcc"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "如何不用鬧鐘就能起床？",
-      "url": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "只要稍微安排睡眠，自然起床其實很容易。",
-      "category": "politics",
-      "published_at": "2026-08-23T05:58:45+00:00",
-      "fetched_at": "2026-08-24T01:00:30.023951+00:00",
-      "fingerprint": "bae3b3e74779a9b5"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "老乾媽陶華碧教會我們的七件事",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "陶華碧憑藉其老乾媽辣椒醬帝國脫貧，蛻變成「中國最火辣的女人」，並成為風靡全球的網絡熱話。",
-      "category": "politics",
-      "published_at": "2026-08-24T00:02:12+00:00",
-      "fetched_at": "2026-08-24T01:00:30.023945+00:00",
-      "fingerprint": "3071c580639c3a91"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
-      "url": "https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "軍方表示，這些襲擊「意圖製造動盪」，目前沒有任何組織承認責任。",
-      "category": "politics",
-      "published_at": "2026-08-23T13:56:41+00:00",
-      "fetched_at": "2026-08-24T01:00:30.023932+00:00",
-      "fingerprint": "064cf112074c191a"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美加貿易協議談崩 卡尼面臨關鍵考驗",
-      "url": "https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC分析：加拿大總理卡尼將必須讓民眾相信，他放棄與白宮談判的這場豪賭，將值得承受隨之而來的後果。",
-      "category": "politics",
-      "published_at": "2026-08-23T13:56:22+00:00",
-      "fetched_at": "2026-08-24T01:00:30.023922+00:00",
-      "fingerprint": "0461c8051c906852"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-24T01:00:29.919709+00:00",
-      "fingerprint": "d9678b8041f918c4"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-24T01:00:29.919585+00:00",
-      "fingerprint": "b36cfabda6fb0569"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-24T01:00:29.919442+00:00",
-      "fingerprint": "149a75083aa9a72b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-24T01:00:29.919305+00:00",
-      "fingerprint": "d354d3ee177b5e60"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-24T01:00:29.919152+00:00",
-      "fingerprint": "a895c739bfa512f3"
-    },
-    {
-      "source": "The Verge",
-      "title": "Grand Theft Auto VI exists in its own universe",
-      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Four years ago, fans [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-23T12:00:00+00:00",
-      "fetched_at": "2026-08-24T01:00:29.754704+00:00",
-      "fingerprint": "e13ab8a098c26f14"
-    },
-    {
-      "source": "The Verge",
-      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-      "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
-      "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-23T15:00:00+00:00",
-      "fetched_at": "2026-08-24T01:00:29.754697+00:00",
-      "fingerprint": "5513ecd64357391e"
-    },
-    {
-      "source": "The Verge",
-      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-      "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year after [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-23T19:14:37+00:00",
-      "fetched_at": "2026-08-24T01:00:29.754688+00:00",
-      "fingerprint": "677531eebb41e966"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨小红书“因遭举报上市失败”？警方：造谣者已被行拘；加拿大9月8日起对美国征收报复性关税 ；多个高职专业起薪超过部分本科专业",
-      "url": "https://36kr.com/p/3952761839795331?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>DeepSeek调整峰谷计费规则，周末全天按低谷时段价格计费</li>\n   <li>TikTok将支付4亿美元与美国司法部和解</li>\n   <li>阿里巴巴拟配售800亿港元新股，全部投入AI建设</li>\n   <li>民生人寿回应开除属相不合员工传闻</li>\n   <li>电影《牛来》票房突破4000万</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>小红书“因遭举报上市失败”？警方：造谣者已被行拘</strong></p>\n  <p>近日，上海黄浦区一企业向黄浦警方报案称某自媒体博主发布内容为“知名企业上市失败”的不实帖文，对公司声誉造成负面影响。黄浦公安分局网安部门接报后迅速开展调查，锁定了该账号运营者莫某。经查，莫某在网上看到相关公司诉讼纠纷的信息，抱着博眼球的心态、在并未核实真伪的情况下，杜撰“企业上市失败”，随后发布在证券投资平台。相关帖文被社交平台自媒体引用、转发，造成一定恶劣影响。最终，莫某因虚构事实扰乱秩序的违法行为被黄浦警方依法处以行政拘留处罚。同时，责令其删除相关内容并进行澄清。新京报贝壳财经记者多方核实获悉，该平台企业为小红书。7月下旬，有较多传言称“小红书已于6月底前秘密提交IPO申请”，但因前员工举报其“上市合规”问题而受阻。对此，小红书方面回应：目前流传的IPO相关信息均不属实。（新京报）</p>\n  <p><strong>加拿大：9月8日起对美国征收报复性关税</strong></p>\n  <p>当地时间8月22日，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。卡尼表示，反制关税将涵盖乳制品、钢铁、家电、纸浆与造纸以及电子产品等多个领域。此前报道美国总统特朗普7月20日签署多个公告，依据《斯穆特-霍利关税法》第338条款对从加拿大进口的红酒、曲棍球棒和水泥等数百项特定商品加征50%关税。（央视新闻）</p>\n  <p><strong>多个高职专业起薪超过部分本科专业</strong></p>\n  <p>根据高等教育管理数据研究机构麦可思研究数据，2025届本科毕业生平均月收入6435元，高职为4882元。若把高职收入最高的10个专业类和本科收入最低的10个专业类放在一起进行对比，可看到前7的高职专业类，毕业半年后月收入已经超过本科尾部的6个专业类。这7个专业类分别是热能与发电工程类、铁道运输类、化工技术类、机电设备类、非金属材料类、机械设计制造类、新能源发电工程类。其中，高职专业类中起薪最高的热能与发电工程类，2025届毕业生平均月收入为5840元，已经超过13个本科专业类。位居第二的是铁道运输类，2025届毕业生平均月收入为5751元，超过11个本科专业类。（第一财经）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>DeepSeek调整峰谷计费规则，周末全天按低谷时段价格计费</strong></p>\n  <p>DeepSeek宣布于8月23日（周日）00:00起调整峰谷计费规则。调整后，周末（周六、周日）全天不再区分峰谷时段，统一按低谷时段价格收取调用费用。工作日（周一至周五）继续执行原有峰谷分段计费。新规则生效前产生的费用，仍按原计费标准结算。（界面新闻）</p>\n  <p><strong>OpenAI将GPT-5.6 Sol模型API定价下调两成以上</strong></p>\n  <p>当地时间8月21日，OpenAI官方在其开发者社区公告称，GPT-5.6 Sol模型API和积分定价将在未来3个月内下调20%以上。现已通过API提供，并逐步向符合条件的ChatGPT Work和Codex积分套餐开放。Pro、Plus 和 Business 订阅用户的使用价格保持不变。（界面新闻）</p>\n  <p><strong>Anthropic聘请谷歌芯片定制芯片项目创始人，为进军自研半导体做准备</strong></p>\n  <p>Anthropic已聘请谷歌定制芯片项目创始人Amir Salek，为这家AI实验室进军自研半导体领域做准备。Anthropic周五表示，Salek将加入Anthropic的算力团队，并向James Bradbury汇报。Salek曾负责谷歌的张量处理单元(TPU)业务直至2022年，并参与推出了前七代TPU芯片。Anthropic目前从英伟达、谷歌和亚马逊等多个供应商采购芯片，但近期已释放出建立自有芯片业务的意愿。竞争对手OpenAI也在采取类似行动。这家ChatGPT开发商已发布与博通共同开发的Jalapeno芯片，并计划今年晚些时候开始使用。（财联社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>TikTok将支付4亿美元与美国司法部和解</strong></p>\n  <p>当地时间8月21日，美国司法部宣布与TikTok、字节跳动及其关联实体（统称“TikTok”）达成一项金额为4亿美元的和解协议，以解决有关其遵守《儿童在线隐私保护法》及其实施细则（COPPA）的诉讼。 根据和解协议，TikTok将立即支付3亿美元，并在法院撤销此前针对TikTok前身Musical.ly作出的同意令后，再支付1亿美元。该和解协议是COPPA案件中迄今获得的最大赔偿金额之一。这起诉讼始于2024年8月。当时，美国司法部与美国联邦贸易委员会共同起诉 TikTok Inc.、ByteDance Ltd. 及其关联实体，指控其在明知用户未满13岁的情况下，仍允许儿童创建普通TikTok账户，并在未通知父母、也未获得父母同意的情况下收集和保留个人信息。（第一财经）</p>\n  <p><strong>追觅汽车高管已密集开启外部求职，项目员工出现批量离职与被裁</strong></p>\n  <p>近日媒体第一财经对追觅汽车苏州的办公区域进行了实地探访，在9-11楼的办公区域中，有大片工位处于闲置状态。 内部员工李达（化名）表示，高峰期公司人数达到七八百人，9楼大约有四分之三的工位有同事在办公。 目前，星空计划正在按照8月份的裁员名单进行裁员，而这样的裁员动作两个多月前就开始了，每一波大概裁掉25%。 而苏州兆睿人才管理咨询有限公司总经理盛金龙则告诉第一财经，从今年5月开始，就已经有大批追觅汽车员工在网上求职，光总监级别都有20多人。 自去年8月追觅高调宣布跨界造车至今，仅仅过去不到1年的时间。（第一财经）</p>\n  <p><strong>东航APP新增超售让座、立减50选项：如遇超售要起身让座</strong></p>\n  <p>快科技8月23日消息，近日，东方航空APP推出购票新选项：用户在购买经济舱机票时，支付页面会出现“超售让座，立减50”的可选项目，自愿勾选该选项，票价直接减免50元，但同时需要接受对应的出行约束。 根据 APP 内提示，勾选该选项的旅客会成为航班的超售自愿者。一旦航班发生超售情况，旅客需要配合航司的行程调整安排。&nbsp;</p>\n  <p>同时提示写明，该选择确认之后无法撤销，也不支持单独退订，旅客可以按照东航超售服务方案拿到相应补偿。（快科技）</p>\n  <p><strong>电影《牛来》票房突破4000万</strong></p>\n  <p>据灯塔专业版数据，8月22日晚，电影《牛来》票房突破4000万大关。《牛来》8月5日公映，首日票房342元，公映10日票房7711元。因制作粗糙被群嘲，意外引爆全民猎奇围观，8月15日《牛来》综合票房及场次暴涨。8月18日票房突破2000万大关，8月20日该片票房又突破3000万元关口，目前，AI预测总票房超6000万元。（蓝鲸新闻）</p>\n  <p><strong>阿里巴巴拟配售800亿港元新股，全部投入AI建设</strong></p>\n  <p>阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设，进一步巩固阿里在AI领域的全球领先地位。（大河财立方）</p>\n  <p><strong>民生人寿回应开除属相不合员工传闻</strong></p>\n  <p>近日，网上流传的一张爆料截图显示，民生人寿董事长把和自己生肖属相不合的人全部裁员。另有报道称，工作多年的员工如果学历不是一本也要被裁。对此，民生人寿客服表示，公司已对网络上的造谣内容进行证据保全。对于编造、扩散此类虚假信息的机构或个人，公司将通过法律途径追究其法律责任，提醒广大网友甄别网络信息真伪，不信谣、不传谣。公司一切信息均以官方发布内容为准。（中国新闻网）</p>\n  <p><strong>特斯拉、吉利、小鹏、东风、小米等启动车辆召回，因门把手存在安全隐患</strong></p>\n  <p>近日，根据市场监管总局公告，多家车企因门把手安全问题召回多款汽车，包括中国一汽、北汽蓝谷、东风汽车、奇瑞、吉利、小鹏、零跑、特斯拉等。此次车企召回多款车型的原因主要是因为门把手。具体为：由于车内应急机械拉手与内饰颜色接近，不易识别和操作。当发生严重碰撞导致整车低压系统失效等极端情形时，可能影响驾乘人员快速开启车门逃生和车外人员救援，存在安全隐患。（财联社）</p>\n  <p><strong>时代少年团巡演LOGO被指与F1商标高度相似，F1法务团队介入调查</strong></p>\n  <p>据北青娱见报道，因时代少年团巡演logo和F1商标高度相似涉嫌侵权，F1法务团队已就此事正式立案调查，时代峰峻则紧急对演唱会官方摄制视频中出现的logo进行了打码处理。时代少年团赛车主题巡演的logo被指与Formula 1商标高度相似，F1官方发函表示，在收到全球车迷举报后，已将案件移交全球品牌保护法务团队，并组建专项调查小组评估侵权损失。（第一财经）</p>\n  <p><strong>朱炳仁·铜饰品掉色怪“汗液”，创始人致歉</strong></p>\n  <p>近日，有多位消费者反映，朱炳仁·铜饰品存在掉色问题。其中，一则视频称：“几百块的铜饰佩戴一个月竟掉色了，朱炳仁·铜创始人回应说‘你的汗液异于常人’”，引发大量关注。在该视频中，一只铜质“小老鼠”挂件的正反面部分露出银白色。8月21日，朱炳仁·铜创始人、董事长朱军岷接受潮新闻采访时表示，“网传的回应，是一年多前做的科普视频中的一句话，被人断章取义，移花接木了。”但朱军岷承认，视频中出现质量瑕疵的“小老鼠”产品确实出自朱炳仁·铜。对此，朱军岷表示致歉，并称愿意作出弥补措施。（界面新闻）</p>\n  <p><strong>同程旅行完成收购嘀嗒出行</strong></p>\n  <p>8月21日，同程旅行发布公告称，已完成对嘀嗒出行的要约收购。公告显示，同程旅行共收到有效接纳股份910,755,954股，占嘀嗒出行已发行总股本约88.74%。收购完成后，嘀嗒出行将保持品牌及运营独立。同程旅行表示，计划寻求保持嘀嗒出行港股上市地位不变。（财联社）</p>\n  <p><strong>服务器机房电力故障，导致车主App线上功能无法使用，东风日产致歉</strong></p>\n  <p>8月23日，东风日产发布致歉公告。公告称，因服务器机房电力故障，导致车主App登录、远程控制等线上功能出现无法使用的情况，正在全力抢修，力争尽快恢复服务。本次突发情况不影响车辆正常驾驶，建议车主随身携带物理钥匙，保障正常出行。如有紧急情况，请第一时间拨打专营店电话，服务人员将协助处理。功能恢复后将第一时间告知。（第一财经）</p>\n  <p><strong>泰康保险集团聘任总裁刘挺军为CEO，董事长陈东升不再兼任</strong></p>\n  <p>2026年8月22日，在成立30周年之际，泰康保险集团宣布治理结构调整：创始人、董事长陈东升先生不再兼任首席执行官，回归并专注公司战略、团队、风险、文化以及重大事项决策，继续发挥核心领导作用；聘任公司总裁刘挺军先生出任公司首席执行官。（界面新闻）</p>\n  <p><strong>苹果拟在Siri和Vision Pro团队裁员超200人</strong></p>\n  <p>据报道，苹果公司将裁减Siri和Vision Pro团队员工，涉及超200个岗位。苹果在一份声明中表示，做出这些调整旨在“推动业务发展，为用户提供最佳体验”，公司同时也会新设岗位。（界面新闻）</p>\n  <p><strong>英伟达服务器传出涨价消息，涨幅获将超过15%</strong></p>\n  <p>据媒体援引知情人士透露，多家“英伟达最大客户”已被告知，由于内存芯片成本飙升，搭载英伟达人工智能芯片的服务器价格将会上涨，很多情况下涨幅将超过15%。这一轮涨价将适用于明年年初出货的系统，包括搭载Vera Rubin和Grace Blackwell芯片组合的服务器。具体涨幅将取决���使用的英伟达芯片，以及服务器采用的内存配置。（财联社）</p>\n  <p><strong>美国将向联合国支付7.25亿美元拖欠会费</strong></p>\n  <p>央视新闻记者当地时间8月21日获悉，一份美国国务院致国会的通知显示，特朗普政府已启动向联合国支付7.25亿美元的程序，用于偿还美国拖欠联合国的部分会费，预计将在特朗普下月赴纽约出席联合国大会并发表讲话前完成支付。不过，这7.25亿美元还不到美国欠款总额的20%。（央视新闻）</p>\n  <p><strong>金饰克价逼近1400元</strong></p>\n  <p>8月22日，现货黄金现涨1.86%，达4603.25美元/盎司。国内黄金饰品价格对比显示，多家黄金珠宝品牌当日公布的境内足金首饰价格较昨日有所上调，老凤祥报价1388元/克，单日涨32元；老庙黄金报价1391元/克，单日涨34元；周生生报价1387元/克，单日涨22元。（界面新闻）</p>\n  <p><strong>章建平二季度大调仓：退出两只资源股前十大股东，新进中际旭创第九大股东</strong></p>\n  <p>随着上市公司2026年半年报的不断披露，“牛散”章建平的持股动向也逐渐清晰。据证券时报记者统计，截至目前，章建平（不排除重名可能性）二季度新进中际旭创第九大股东，同时退出多只个股前十大股东。中际旭创半年报显示，章建平新进为第九大股东，持有593.48万股。按中际旭创6月30日的收盘价1270元/股计算，章建平的持股市值超过75亿元。此外，章建平二季度还退出多只个股前十大股东，包括四川黄金、北方稀土、东材科技等。一季度末，章建平曾现身多只资源股前十大股东，除了上述四川黄金、北方稀土，还有西部材料，西部材料目前未披露半年报。（证券时报）</p>\n  <h2>大公司财报</h2>\n  <p><strong>中国石化：上半年净利润256亿元 同比增长19.3%</strong></p>\n  <p>36氪获悉，中国石化发布2026年中期业绩报告。按中国企业会计准则，公司实现营收14366亿元，归属于母公司股东净利润256亿元，同比增长19.3%。同时，公司注重股东回报，董事会决定派发本次中期股息每股0.105元，现金派息率达49.5%。公司连续五年实施境内外股份回购，积极维护企业价值和股东利益。</p>\n  <p><strong>江铃汽车：上半年归母净利润7.39亿元，同比增长0.83%</strong></p>\n  <p>36氪获悉，江铃汽车发布2026年半年度报告，公司上半年实现营业收入193.62亿元，同比增长7.02%；归属于上市公司股东的净利润7.39亿元，同比增长0.83%；基本每股收益0.86元/股。</p>\n  <p><strong>东方甄选2026财年业绩：自营产品GMV占比超过一半</strong></p>\n  <p>8月22日消息，东方甄选发布的2026财年业绩报告显示，财年总营收同比增长36.3%。本财年，东方甄选毛利为20亿元，同比增加45.2%，经营利润为6.6亿元人民币。截至2026年5月31日，东方甄选总体GMV达102亿元，其中，自营产品带来的GMV为54亿元，占总GMV约52.6%。报告期内，东方甄选累计推出1009款自营产品。东方甄选执行总裁孙进表示，新财年，自营品研发和上新会继续加速。今年东方甄选在杭州新开直播间，包括自营服饰号、自营食品号、自营个护美妆号，杭州基地两个月前完成租赁装修。（界面新闻）</p>\n  <h2>上市进行时</h2>\n  <p><strong>希音的香港IPO定价区间为47.6港元-49.5港元</strong></p>\n  <p>36氪获悉，希音在港交所公告，公司启动全球发售，合计初步发售2.799925亿股B类股份，其中香港公开发售2799.93万股、占比约10%，国际发售2.519932亿股、占比约90%。发售价区间为每股47.60港元至49.50港元，每手买卖单位100股。预期股份将于2026年9月1日在联交所开始买卖。</p>\n  <h2>酷产品</h2>\n  <p><strong>特斯拉无人驾驶电动车Cybercab发布会定档</strong></p>\n  <p>特斯拉在社交平台宣布，将于2026年9月3日在美国得州奥斯汀举行Cybercab发布会。据了解，今年4月，特斯拉无人驾驶电动车Cybercab在北美正式投产，称该车由AI驱动，无需方向盘、踏板和后视镜。（财联社）</p>\n  <p><strong>人形机器人超越人类男子400米世界纪录</strong></p>\n  <p>第二届世界人形机器人运动会于8月23日下午决出400米项目冠军。在400米（大型组）决赛中，天工机器人夺冠，现场显示成绩为38.15秒，该成绩已超越人类男子400米世界纪录（43.03秒），也刷新了该项目的纪录。亚军和季军都被荣耀机器人包揽，分别是追风仔仔（39.45秒）、惊鸿动力队（39.66秒）。去年该项目的冠军由高羿科技（搭载宇树H1机器人）获得，当时成绩为1分28.03秒（88.03秒），今年冠军的提速幅度令人瞩目。（第一财经）</p>\n  <p><strong>整理</strong>｜昌怡</p>",
-      "category": "tech",
-      "published_at": "2026-08-23T23:57:31+00:00",
-      "fetched_at": "2026-08-24T01:00:29.690539+00:00",
-      "fingerprint": "299596f16e3d050f"
-    },
-    {
-      "source": "少数派",
-      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
-      "url": "https://sspai.com/post/113002",
-      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。<a href=\"https://sspai.com/post/113002\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-23T03:00:00+00:00",
-      "fetched_at": "2026-08-24T01:00:28.189374+00:00",
-      "fingerprint": "8dd6dd4251e446bd"
-    },
-    {
-      "source": "少数派",
-      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
-      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
-      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href=\"https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "category": "tech",
-      "published_at": "2026-08-23T07:25:29+00:00",
-      "fetched_at": "2026-08-24T01:00:28.189367+00:00",
-      "fingerprint": "ce1838979d073fb1"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
-      "url": "https://sspai.com/post/113767",
-      "summary": "<p>九家车企召回近 430 万辆不易识别应急拉手汽车</p><p>英伟达达成 70 亿美元合作，研发顶级开放权重模型</p><p>高院发布著作权新司法解释，网络转载不允许先转后付</p><p>买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘</p><p>国际加紧制定统一月球时间</p><p>个人消费贷贴息政策扩展覆盖买车、装修等</p><p>看看就行的小道消息</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/113767\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-08-23T23:13:55+00:00",
-      "fetched_at": "2026-08-24T01:00:28.189356+00:00",
-      "fingerprint": "0c2fa7d89b075f71"
     }
   ]
 }
