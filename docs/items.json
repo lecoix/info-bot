@@ -1,7 +1,197 @@
 {
-  "updated_at": "2026-09-06T02:36:46.214098+00:00",
-  "count": 200,
+  "updated_at": "2026-09-07T02:34:29.419983+00:00",
+  "count": 205,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "category": "politics",
+      "published_at": "2026-09-06T20:52:12+00:00",
+      "fetched_at": "2026-09-07T02:34:28.959744+00:00",
+      "fingerprint": "802b3bc782a05eda"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "category": "politics",
+      "published_at": "2026-09-07T00:57:38+00:00",
+      "fetched_at": "2026-09-07T02:34:28.959732+00:00",
+      "fingerprint": "02d4bb0d362b6d85"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+      "category": "politics",
+      "published_at": "2026-09-06T23:02:45+00:00",
+      "fetched_at": "2026-09-07T02:34:28.959722+00:00",
+      "fingerprint": "7a87cd6da87e6c20"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "不同版本的世界地圖有哪些正確及錯誤之處？",
+      "url": "https://www.bbc.com/zhongwen/articles/crm9k8pggjvo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "聯合國決計採用新的世界地圖來反映非洲的真實面積。但讓我們仔細看看不同版本的世界地圖有哪些正確和錯誤之處。",
+      "category": "politics",
+      "published_at": "2026-09-06T04:35:53+00:00",
+      "fetched_at": "2026-09-07T02:34:28.909375+00:00",
+      "fingerprint": "ab1df95ad7128ae3"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
+      "url": "https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "計劃、組織和記住家務活不成比例地落在母親身上——以下是一些幫助她們的技巧。",
+      "category": "politics",
+      "published_at": "2026-09-07T00:03:27+00:00",
+      "fetched_at": "2026-09-07T02:34:28.909369+00:00",
+      "fingerprint": "770e0eb6aeda878b"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
+      "url": "https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "一場喜馬拉雅山冰岩崩造成的泥石流，摧毀了尼泊爾超過10%的發電能力。",
+      "category": "politics",
+      "published_at": "2026-09-06T05:19:17+00:00",
+      "fetched_at": "2026-09-07T02:34:28.909355+00:00",
+      "fingerprint": "7b373c005b9c2307"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "歐洲國家接連提走北美黃金儲備所為何事",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "荷蘭已將86噸閃閃發亮的黃金儲備從美國遷移至其他地方，究竟發生了甚麼事？",
+      "category": "politics",
+      "published_at": "2026-09-07T00:03:22+00:00",
+      "fetched_at": "2026-09-07T02:34:28.909345+00:00",
+      "fingerprint": "51e0539ebe2d35bb"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The NX bit is not just about security",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-07T02:34:28.603553+00:00",
+      "fingerprint": "f9d8b20d2b85d15f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-07T02:34:28.603426+00:00",
+      "fingerprint": "d0e645f9ae1a95ae"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-07T02:34:28.603278+00:00",
+      "fingerprint": "16cfe9c67e9a8fb2"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Ponytail: Lazy Senior Engineer Skill",
+      "url": "https://ponytail.dev/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-07T02:34:28.603116+00:00",
+      "fingerprint": "9e707c0fbcabf8c5"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-07T02:34:28.602962+00:00",
+      "fingerprint": "2cfe7e0a9cc6d3f8"
+    },
+    {
+      "source": "The Verge",
+      "title": "Boox’s tiny Picco e-reader should land in November",
+      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-06T16:28:58+00:00",
+      "fetched_at": "2026-09-07T02:34:28.283736+00:00",
+      "fingerprint": "0d615389cf0d32f8"
+    },
+    {
+      "source": "The Verge",
+      "title": "Europe has its first commercial orbital rocket",
+      "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-06T19:04:22+00:00",
+      "fetched_at": "2026-09-07T02:34:28.283731+00:00",
+      "fingerprint": "0e5a7a74ebb7a10c"
+    },
+    {
+      "source": "The Verge",
+      "title": "An Amazon cargo plane crashed at Miami International Airport",
+      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-06T20:56:38+00:00",
+      "fetched_at": "2026-09-07T02:34:28.283724+00:00",
+      "fingerprint": "0f88b0f3ab8277ee"
+    },
+    {
+      "source": "The Verge",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-06T23:36:04+00:00",
+      "fetched_at": "2026-09-07T02:34:28.283715+00:00",
+      "fingerprint": "d5c736f2ff6288d2"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨耐克将被移出标普100指数；iPhone折叠版定价或14999元起；财政部将发行特别国债，支持8家中央金融企业补充资本",
+      "url": "https://36kr.com/p/3972584225747209?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>Kimi、MiniMax即将在天猫开店</li>\n   <li>lululemon股价“腰斩”，超23亿美元市值蒸发</li>\n   <li>紫金矿业就财报文字错误致歉</li>\n   <li>泡泡玛特王宁到访LVMH集团总部，集团掌门人率家族成员接待</li>\n   <li>“国家反诈AI”APP上线</li>\n   <li>特斯拉Robotaxi下月或实现全天候运营</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>市值大幅缩水，耐克将被移出标普100指数</strong></p>\n  <p>近日标普道琼斯指数公司将耐克（NKE.N）剔出标普100指数。本次调整将于9月21日美股开盘前正式生效，这也是耐克历史上第一次离开该大盘旗舰指数名单。</p>\n  <p>回溯过去五年，耐克股价自2021年创下历史高点之后开始持续下行，截至本次指数调整消息落地，从历史最高点算起股价五年累计跌幅约79%，公司总市值蒸发超2200亿美元。近期耐克股票交易价格回落至38至40美元区间，创下近12年来的价格新低，曾经市值稳居数千亿美元的行业龙头，市值规模出现断崖式回落。（财联社）</p>\n  <p><strong>运营商晒iPhone 18售价，折叠版预计14999元起</strong></p>\n  <p>9月5日，海外运营商沃达丰泄露定价数据，iPhone 18系列涨幅约10%远低于此前传闻的大幅抬价，Pro版美版起售价仅涨约100美元，首款折叠屏iPhone Ultra美版约1999-2099美元，测算国行预计Pro版9999元起、折叠版14999元起。（快科技）</p>\n  <p><strong>财政部将发行特别国债，支持8家中央金融企业补充资本</strong></p>\n  <p>财政部将于近期发行3000亿元特别国债，支持8家中央金融企业补充核心一级资本。当日，工商银行、农业银行、进出口银行、中国信保、中国人保、中国人寿集团、中国太平、中国再保等8家中央金融企业分别发布了增资计划。业内人士表示，此次财政部对8家中央金融企业增资，属于“未雨绸缪”的前瞻性安排，是支持中央金融企业高质量发展、助力宏观经济行稳致远的主动作为。</p>\n  <p>保险方面，财政部向中国人寿保险（集团）公司注资350亿元，向中国人保定向增发募集不超过150亿元，向中国太平注资70亿元，三家合计570亿元。此次注资将有效增强保险机构的风险抵御能力，推动偿付能力等关键指标稳健提升，夯实长期可持续发展根基。</p>\n  <p>银行方面，工商银行拟募资不超过1000亿元，其中财政部认购700亿元，中国烟草及其关联企业认购300亿元；农业银行拟募资不超过1600亿元，其中财政部认购1300亿元，中国烟草、地方烟草及双维投资等认购300亿元。两家银行募集资金在扣除发行费用后，将全部用于补充核心一级资本。（财联社）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI称需要扩大对齐失范事件的披露范围</strong></p>\n  <p>OpenAI：针对模型能力发展的新阶段，我们需要扩大对齐失范事件的披露范围。目前，我们以及更广泛的人工智能行业，尚未建立明确标准，用以报告在训练、评估以及部署阶段出现的对齐失范问题。其中既包含不属于传统安全事件，但有助于理解人工智能行为、预判未来风险的各类案例。我们正在搭建一套相关框架，将在未来数周对外公布；与此同时，我们正就上述问题与全球数十家政府监管机构开展协作。（新浪财经）</p>\n  <p><strong>Kimi、MiniMax即将在天猫开店</strong></p>\n  <p>智谱电商平台首店落地天猫后，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售Token订阅套餐产品。（上证报）</p>\n  <p><strong>Anthropic预计9月底才公布招股说明书</strong></p>\n  <p>媒体引知情人士报道，Anthropic预计将在美国11月中期选举开始前的几天完成上市。报道称，两名知情人士透露，招股说明书预计要到9月底才会公布，而不是按照此前时间表最早于下周发布。知情人士还表示，包括上市时间在内的相关计划仍可能发生变化。（新浪财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>玛莎拉蒂回应被曝与华为合作：不对市场传闻或猜测发表评论</strong></p>\n  <p>日前，据媒体报道，Stellantis集团正就旗下豪华品牌玛莎拉蒂与华为、江淮汽车开展长期产业合作谈判。9月4日，另有媒体报道称，双方已进入深度磋商阶段，计划将华为鸿蒙智行平台应用于玛莎拉蒂车型，目标是2027年底推出首款联合开发的量产车。报道还提及合作模式或将采用双品牌策略：该车型在中国市场以尊界豪华品牌销售，面向全球市场则挂玛莎拉蒂车标。</p>\n  <p>9月5日，Stellantis集团亚太区执委会成员、传播副总裁王超回应：“作为正常业务运营的一部分，Stellantis集团持续与全球行业伙伴就不同议题保持沟通与交流，始终致力于为客户提供最佳的出行解决方案。我们不对市场传闻或猜测发表评论。正如此前所宣布的，玛莎拉蒂品牌的未来战略及发展规划将于今年12月在意大利摩德纳（Modena）举办的投资者日活动上正式公布。在此之前，我们不对任何相关市场传闻或猜测作进一步评论。”（每日经济新闻）</p>\n  <p><strong>lululemon股价“腰斩”，超23亿美元市值蒸发</strong></p>\n  <p>9月4日美股lululemon股价跌17.38%，创八年多来新低，超23亿美元市值蒸发。今年以来，该股累计跌幅已超52%。此前一天，lululemon发布2026财年第二季度财报，在第二季度，公司全球净营收为24.16亿美元，同比下降约4%；按固定汇率口径下降5%。净利润为3.29亿美元，低于去年同期的3.709亿美元。</p>\n  <p>这3.29亿美元净利润里藏着一笔意外之财——当季公司确认了1.345亿美元的IEEPA关税退款及410万美元相关利息，为每股收益贡献了约0.86美元。剔除这笔一次性收益后，调整后EPS约为2.06美元，同比实际降幅超过三成。（每日经济新闻）</p>\n  <p><strong>紫金矿业就财报文字错误致歉</strong></p>\n  <p>近日，紫金矿业（HK2899）2026年半年度中被发现多处基础性文字错误引发热议。</p>\n  <p>9月5日，紫金矿业（HK2899）发布《关于定期报告财务报表附注部分相关文字错误的更正公告》。公告称，经核查，上述错误不涉及定期报告中的财务数据、会计科目及经营指标，不会对公司已披露各期定期报告的真实性、准确性、完整性产生实质影响。紫金矿业（HK2899）表示，“公司谨向投资者和相关单位致以诚挚歉意。后续，公司将进一步完善内部信息披露管理制度，严格校核审批流程，同时加强与年审会计师事务所的沟通协调，避免此类问题再次发生。”（新浪财经）</p>\n  <p><strong>泡泡玛特王宁到访LVMH集团总部，集团掌门人率家族成员接待</strong></p>\n  <p>据新浪科技消息，近日，泡泡玛特创始人王宁和LVMH集团主席兼CEO Bernard Arnault（贝尔纳·阿尔诺）在法国巴黎LVMH集团总部会面，这也是二人首次会面，王宁还现场赠送阿尔诺一只拉布布。据悉，王宁现场赠送阿尔诺的是MEGA LABUBU 十周年纪念款，属于全球限定发售款式。据了解，一同参与会面的还有LVMH集团大公主、迪奥Dior首席执行官Delphine Arnault（德尔菲娜·阿尔诺）以及LVMH集团核心高管、LV全球CEO Pietro Beccari（皮埃特罗·贝卡里）。（新浪科技）</p>\n  <p><strong>多国推进黄金储备本土化布局</strong></p>\n  <p>全球多国都在加快调整黄金储备存放布局，降低对欧美单一托管体系的依赖。自2013年起，多国陆续启动海外黄金储备回迁。世界黄金协会2026年央行黄金储备调查显示，过去12个月里，19%的央行提高了国内黄金储备比例，或者把储备地点做了多元化配置，一年前这个比例只有7%，寄存于纽约、伦敦金库的央行数量持续减少。（CCTV国际时讯）</p>\n  <p><strong>问界回应“预制车”传闻：纯属谣言，已报案</strong></p>\n  <p>针对近期网络上有关问界M6某车型为“预制车”、“穿越车”的传闻，问界汽车发文表示，通过对车辆识别代号核实查证，该车辆的实际制造年月为“2026-7”，相关自媒体账号所发布或转载的车辆铭牌信息系经过P图或AI修改生成的虚假信息，由此而产生的公司生产“预制车”“穿越车”的说法纯属谣言。该公司表示，网络不是法外之地，目前其已保留证据并向公安机关报案。（财联社）</p>\n  <p><strong>A股再现主动退市，多元化退市格局持续完善</strong></p>\n  <p>2026年，A股主动退市已现三起案例。从年初德邦股份成为年内首家主动退市公司，到瓦轴B因控股股东发起全面要约收购而私有化退市，再到8月底“彩电第一股”*ST康佳A拟以股东会决议方式主动撤回A股和B股上市，主动退市成为这些上市公司“不约而同”的选择。“主动退市在法律上是一种止损策略。”广东华誉品智律师事务所郭嗣彦律师对记者表示，对于*ST康佳A这类困境企业，主动退市可为公司保留更多自主权，为后续资产重组或引入战略投资者创造更灵活的空间。（上证报）</p>\n  <p><strong>国内首款AI辅助创新药获批上市</strong></p>\n  <p>据西湖大学消息，由西湖大学、西湖实验室、西湖制药联合研发的创新药——盐酸伊司特韦片（商品名：艾普司韦）近期正式获得国家药品监督管理局附条件批准上市。这是西湖大学首款完全自主研发的1类创新药，用于成人轻型、中型新型冠状病毒感染的治疗。1类创新药是中国药品注册分类中的最高级别，代表从0到1的源头创新，其核心在于拥有全新的化学结构、全新的作用机制，且具备明确的临床价值。（财联社）</p>\n  <p><strong>就业超预期引爆加息恐慌，比特币失守8万</strong></p>\n  <p>据Woofun AI消息，周五美国公布的就业数据大幅超越市场预期，直接触发市场对美联储维持紧缩政策的担忧，Bitcoin价格随即跌破80,000美元关口。宏观流动性收紧预期迅速传导至衍生品市场。9月加息25基点的概率由52%跃升至59%。Woofun AI整理数据显示，2年期美国财政部债券收益率飙升7.6个基点，10年期与30年期分别上行3.2个基点和1个基点；美元指数（DXY）上涨0.3%至99.3点。高收益率提升了美元资产吸引力，而强势美元则加剧了加密资产的融资成本，形成双重压制。（新浪财经）</p>\n  <p><strong>“国家反诈AI”APP上线</strong></p>\n  <p>为进一步提升防范电信网络诈骗工作的信息化、智能化水平，帮助群众有效识诈防诈，近日，公安部刑侦局指导，上海市公安局自主研发的“国家反诈AI”APP正式上线。 “国家反诈AI”APP融合了大语言、多模态模型和智能体技术，用户通过手机输入可疑场景，该APP即可完成风险研判、识别诈骗套路、推送典型案例，从“文字+语音+视频”等多个维度拆解诈骗手法，提供识别防范对策。（新华社）</p>\n  <p><strong>特斯拉股价重挫近6%，市值一夜蒸发近6000亿元</strong></p>\n  <p>截至9月4日（周五）美股收盘，特斯拉股价大幅收跌，报354.08美元/股，跌幅达5.92%，盘中最大跌幅超6%，收盘市值13985亿美元，较上一个交易日蒸发约880.5亿美元（约合人民币5909亿元）。消息面上，美东时间周四，Cybercab（赛博无人驾驶电动车）正式在美国奥斯汀投入运营，而在美国得克萨斯州奥斯汀举行的Cybercab活动上，由于披露的新信息有限，未能满足投资者预期。这场活动仅限受邀者参加，没有现场直播，首席执行官马斯克也未现身。此外，美国国家公路交通安全管理局（NHTSA）当天对约1000辆Cybercab展开监管审查，重点审查特斯拉用于证明车辆符合联邦机动车安全标准的流程及技术数据。（每日经济新闻）</p>\n  <p><strong>韩国今年累计出口额7094亿美元破纪录</strong></p>\n  <p>韩国关税厅最新统计显示，截至9月5日下午1时，韩国今年累计出口额为7094亿美元，超过去年全年的7093亿美元历史最高纪录。据韩国方面消息称，今年尽管面临中东局势等严峻外部环境，但在半导体带动下，韩国主要出口品类保持增长。今年前8个月，韩国半导体出口额为2812亿美元，同比增长169.6%。半导体在整体出口中所占比重达到40.6%。（证券时报）</p>\n  <h2>投融资</h2>\n  <p><strong>AI初创公司Gimlet完成3亿美元融资</strong></p>\n  <p>AI初创公司Gimlet完成3亿美元融资，由Andreessen Horowitz领投，估值达30亿美元。���财联社）</p>\n  <h2>酷产品</h2>\n  <p><strong>特斯拉Robotaxi下月或实现全天候运营</strong></p>\n  <p>9月6日消息，特斯拉AI负责人Ashok Elluswamy日前在社媒平台X称，特斯拉Robotaxi自动驾驶无人出租车距离“实现24小时全天候运营”已经不远。他表示，待“v15计划中的下一项技术”完成整合后，24小时全天候运营将在“下个月左右”上线。 目前特斯拉Robotaxi服务在美国已实现每周7天运营，运营时间为每天6时至22时，覆盖奥斯汀、达拉斯、休斯敦、迈阿密、奥兰多和坦帕等城市。（新浪财经）</p>\n  <p><strong>整理</strong>｜何雨婷</p>",
+      "category": "tech",
+      "published_at": "2026-09-07T00:01:50+00:00",
+      "fetched_at": "2026-09-07T02:34:28.088435+00:00",
+      "fingerprint": "573d54d243bb7552"
+    },
+    {
+      "source": "少数派",
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
+      "url": "https://sspai.com/post/114076",
+      "summary": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...<a href=\"https://sspai.com/post/114076\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-06T07:00:00+00:00",
+      "fetched_at": "2026-09-07T02:34:26.487643+00:00",
+      "fingerprint": "720a9bf308d81129"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+      "url": "https://sspai.com/post/114250",
+      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。<a href=\"https://sspai.com/post/114250\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-07T00:20:41+00:00",
+      "fetched_at": "2026-09-07T02:34:26.487632+00:00",
+      "fingerprint": "05b204b04a3f3653"
+    },
     {
       "source": "The Guardian - World",
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
@@ -1861,146 +2051,6 @@
       "published_at": "2026-08-30T22:59:06+00:00",
       "fetched_at": "2026-08-31T03:12:22.247830+00:00",
       "fingerprint": "6f0c5842f89efbbf"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-      "category": "politics",
-      "published_at": "2026-08-30T00:17:25+00:00",
-      "fetched_at": "2026-08-30T03:17:01.395183+00:00",
-      "fingerprint": "ca35f9e87b44af0e"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "category": "politics",
-      "published_at": "2026-08-29T17:52:42+00:00",
-      "fetched_at": "2026-08-30T03:17:01.395177+00:00",
-      "fingerprint": "6c1cb9b3b374720c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "category": "politics",
-      "published_at": "2026-08-29T20:13:16+00:00",
-      "fetched_at": "2026-08-30T03:17:01.395171+00:00",
-      "fingerprint": "333e649a48445a60"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「烤過頭」了嗎？機械人薄餅製造商為何難逃失敗命運",
-      "url": "https://www.bbc.com/zhongwen/articles/c20ln8nrzn4o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "接二連三的失敗，令外界對機械人全面接管披薩餐廳製作流程的前景失去信心。",
-      "category": "politics",
-      "published_at": "2026-08-30T00:14:20+00:00",
-      "fetched_at": "2026-08-30T03:17:01.310292+00:00",
-      "fingerprint": "9c9773f685462441"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-30T03:17:01.137163+00:00",
-      "fingerprint": "35813736c58834f7"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "RISC-V is now officially supported by CPython",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-30T03:17:01.137050+00:00",
-      "fingerprint": "e3da32ecd14689cd"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-30T03:17:01.136917+00:00",
-      "fingerprint": "7ccb97bb9a47c2f1"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "FreeCORE TrueNAS Core – Continued",
-      "url": "https://freecore.org/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-30T03:17:01.136782+00:00",
-      "fingerprint": "c22348ede2f35da5"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-08-30T03:17:01.136644+00:00",
-      "fingerprint": "05502ae5938a9d5e"
-    },
-    {
-      "source": "The Verge",
-      "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-      "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
-      "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-29T16:01:13+00:00",
-      "fetched_at": "2026-08-30T03:17:01.011483+00:00",
-      "fingerprint": "ddf8ba8f44ba3147"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-29T18:19:53+00:00",
-      "fetched_at": "2026-08-30T03:17:01.011478+00:00",
-      "fingerprint": "f593ff968abe8d62"
-    },
-    {
-      "source": "The Verge",
-      "title": "Alt-right troll Milo Yiannopoulos has been deported",
-      "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-      "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-29T19:49:59+00:00",
-      "fetched_at": "2026-08-30T03:17:01.011471+00:00",
-      "fingerprint": "ba931cbc7c43f49f"
-    },
-    {
-      "source": "The Verge",
-      "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-      "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-      "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-08-29T20:59:26+00:00",
-      "fetched_at": "2026-08-30T03:17:01.011459+00:00",
-      "fingerprint": "94db180b35f01cb4"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "业绩快报 | 荔枝冰奶五十天卖出1700万杯，茶百道上半年“质效双增”",
-      "url": "https://36kr.com/p/3960415196052873?f=rss",
-      "summary": "<p><strong>文 | 杨烁&nbsp;</strong></p>\n  <p>8月28日，茶百道披露中期业绩。上半年营收26.55亿元，同比增长6.2%；期内利润实现3.45亿元，同比增长3.5%。</p>\n  <p>业绩会上，公司管理层将增长归因于一个核心逻辑——不盲目追求门店数量的堆砌，而是以产品创新和供应链效率为双轮，驱动终端经营质量的实质性提升。</p>\n  <p>今年上半年，茶百道加大了产品研发力度，围绕“鲜果、鲜奶、咖啡”等核心原料建立品类矩阵。</p>\n  <p>其中，“荔枝冰奶”在五十余天的销售周期内，累计销量超过1700万杯。茶百道也围绕这一优势品类，陆续推出“芭乐、葡萄、柠檬”等多款风味冰奶产品，形成清晰的矩阵式布局。</p>\n  <p>茶百道对产品的理解，不仅是“好喝”一个维度。2026年以来，公司又推出了以“实在木薯甜品碗”为代表的替餐类产品、以“佛手柑柠檬水”为代表的替水类产品。</p>\n  <p>两大新品类的推出，悄然改变了门店的时间属性。现阶段的茶百道，已明显从传统下午茶的单一模式，延伸至“早餐、轻食、日常补水”等多元化的消费场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260829/v2_10d7c5c3b8894488bd11f2259014e3d6@11416942_oswg262954oswg1707oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>产品边界不断拓宽，对后端供应链的响应速度提出了更高要求。</strong></p>\n  <p>报告期内，茶百道全国仓配中心增至27个，水果统配率提升至91%，约95%的门店每周可获得两次及以上的配送。从产地到门店实现全程冷链的高效供应，既保证了门店端的产品与服务质量，也极大降低了供应商的试错成本。</p>\n  <p>与此同时，公司也在保证一、二线城市基本盘的同时，不断向低线城市下探。截至报告期末，<strong>茶百道门店总数增至8863家。其中，中国三线及以下城市的门店数同比增长7.2%。</strong></p>\n  <p>值得提及的是，基于全国化的门店网络布局，茶百道正积极推进“茶饮+咖啡”业务的协同发展，并成功推出了多款高质价比的咖啡产品。上半年，茶百道的现磨咖啡机已覆盖超过2700家门店，超出年初预期。</p>\n  <p>另在会员方面，茶百道的注册会员数突破2亿大关。这意味着，茶百道拥有了一个规模庞大的私域流量池。</p>\n  <p>相信在未来，伴随咖啡业务进入盈利周期、会员体系不断提升，茶百道的中长期成长有望进一步增强。</p>",
-      "category": "tech",
-      "published_at": "2026-08-29T09:47:11+00:00",
-      "fetched_at": "2026-08-30T03:17:00.882768+00:00",
-      "fingerprint": "5d19c54d230de0a6"
     }
   ]
 }
