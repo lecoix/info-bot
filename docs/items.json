@@ -1,7 +1,197 @@
 {
-  "updated_at": "2026-09-12T02:51:52.170000+00:00",
-  "count": 179,
+  "updated_at": "2026-09-13T02:50:14.619684+00:00",
+  "count": 180,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Six Nigerians extradited to US over $6m online romance scam",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+      "summary": "<p>Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South Africa</p><p>Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through <a href=\"https://apnews.com/article/scams-online-scams-ai-internet-safety-phishing-fraud-takeaways-b1350fd421cce73ac585a649b07332d5\">online romance scams</a> were extradited to the United States on Friday.</p><p><a href=\"https://www.theguardian.com/world/southafrica\">South African</a> police confirmed they were to be extradited earlier on Friday, while <a href=\"https://citizen.digital/article/six-nigerians-extradited-to-us-over-alleged-ksh700m-romance-scams-n390051#google_vignette\">local news</a> in Africa confirmed that the Directorate for Priority Crime Investigation, known as the Hawks, facilitated their handover to officials from the US Federal Bureau of Investigation and Secret Service at Cape Town international airport, in collaboration with Interpol South Africa.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-09-12T14:05:45+00:00",
+      "fetched_at": "2026-09-13T02:50:14.615282+00:00",
+      "fingerprint": "80923c185408fd79"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
+      "url": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
+      "summary": "<p>Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi Kijanangoma</p><p>Uganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal forebears as ⁠his Tooro kingdom looked to put ⁠<a href=\"https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute\">a bitter succession battle</a> behind ​it.</p><p>Oyo’s appointed successor, the news anchor Edward Rukidi Kijanangoma, cast nine coffee berries into the grave at the Karambi Royal Tombs, marking the formal handover of power in the western Ugandan kingdom.</p> <a href=\"https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-09-12T15:09:05+00:00",
+      "fetched_at": "2026-09-13T02:50:14.615272+00:00",
+      "fingerprint": "3161179d2a911128"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "category": "politics",
+      "published_at": "2026-09-12T21:25:28+00:00",
+      "fetched_at": "2026-09-13T02:50:14.291906+00:00",
+      "fingerprint": "c111500f49ee2ee0"
+    },
+    {
+      "source": "BBC World News",
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+      "category": "politics",
+      "published_at": "2026-09-13T00:49:08+00:00",
+      "fetched_at": "2026-09-13T02:50:14.291900+00:00",
+      "fingerprint": "c9650075632b52f8"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "category": "politics",
+      "published_at": "2026-09-12T12:15:50+00:00",
+      "fetched_at": "2026-09-13T02:50:14.291894+00:00",
+      "fingerprint": "8c61ee59a26eb869"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "category": "politics",
+      "published_at": "2026-09-12T21:16:47+00:00",
+      "fetched_at": "2026-09-13T02:50:14.291884+00:00",
+      "fingerprint": "b9d28eb17909bcfb"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-13T02:50:13.717168+00:00",
+      "fingerprint": "cb582fe8866219d8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-13T02:50:13.717043+00:00",
+      "fingerprint": "bacf7aac6987233e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-13T02:50:13.716899+00:00",
+      "fingerprint": "9c531c254f4ca75a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-13T02:50:13.716762+00:00",
+      "fingerprint": "64f575e9b4f6fe64"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-13T02:50:13.716609+00:00",
+      "fingerprint": "a42624e10e76cfd4"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+      "url": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+      "summary": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-12T16:35:00+00:00",
+      "fetched_at": "2026-09-13T02:50:13.460679+00:00",
+      "fingerprint": "3820a8e27354b4cd"
+    },
+    {
+      "source": "The Verge",
+      "title": "StarCraft returns in 2030 as an open-world shooter",
+      "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+      "summary": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-12T20:08:09+00:00",
+      "fetched_at": "2026-09-13T02:50:13.460672+00:00",
+      "fingerprint": "7588b9fa1ae76cfc"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-12T21:16:28+00:00",
+      "fetched_at": "2026-09-13T02:50:13.460666+00:00",
+      "fingerprint": "b10d7fa5e19ae5db"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-12T21:41:36+00:00",
+      "fetched_at": "2026-09-13T02:50:13.460654+00:00",
+      "fingerprint": "593440c97619d82b"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "主题演讲：中国太空钙钛矿光伏与新一代空间能源系统开拓者｜36氪2026产业未来大会",
+      "url": "https://36kr.com/p/3978950863485960?f=rss",
+      "summary": "<p>2026年，产业投资进入深水区，资本、技术与产业加速融合，旧的投资逻辑不再使用，新的共识正在诞生。2026产业未来大会聚焦新周期机遇，共探产业未来与“中国之光”的诞生。 9月9日至10日，由36氪主办的2026产业未来大会以“深水之上，共振新生”为主题的在北京亦庄举行。来自国资平台、产业投资基金、企业CVC、创新企业及专家学者走到一起，聚焦量子科技等未来产业走向产业化。大会深度探讨当下前沿技术与产业视角，集中展示超导、光量子、离子阱等技术路线突破，分享大量具体产业场景、产业体系搭建、与异构计算前景。共同探讨科技产业投资的未来。</p>\n  <p>以下对话，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260911/v2_426a35ec45fe452a94584ec2445d70e8@6301044_oswg825109oswg828oswg552_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p><strong>演讲者：烁威光电 联合创始人&amp;CTO 徐帆</strong></p>\n  <p>徐帆：感谢主持人的介绍，也感谢产业未来大会的邀请。我是来自烁威光电的徐帆。今天向大家介绍一下烁威光电在太空钙钛矿光伏领域的发展思路和现状。这个题目也体现了公司的愿景：成为中国太空钙钛矿光伏与新一代空间能源系统领域的开拓者和领军者。</p>\n  <p>我的汇报主要分为三个部分。首先是行业与市场格局。早期，包括马斯克在内的产业参与者已经在太空光伏领域进行了多种尝试；同时，国家“十五五”规划也把商业航天、新能源、新材料等纳入重要战略方向。</p>\n  <p>在相关政策支持下，我们认为从2026年开始，太空光伏迎来了一个重要的发展窗口。随着低轨星座进入密集发射阶段，卫星数量不断增加，单星功率也从早期小功率卫星向未来大功率卫星演变。对于中低轨卫星而言，太阳能仍然是最主要、最成熟的能源获取方式。</p>\n  <p>从市场空间看，相关应用将从通信、导航、遥感卫星，逐步延伸到太空算力卫星，以及更长期的天基能源基础设施。我们判断，随着空间基础设施不断发展，市场规模有望从千亿元级走向十万亿元级甚至更高。再看卫星能源系统的发展趋势，以Starlink卫星为例，太阳翼面积已经从初代的20多平方米增加到目前的数百平方米，这也反映出单星功率需求正在不断提升。</p>\n  <p>右侧是算力卫星的公开示意图。可以看到，太阳翼设计面积达到600平方米，翼展约70米，几乎与波音747客机翼展相当。如果全部采用现有高成本技术，仅太阳翼一项，单星成本就会达到极高水平。</p>\n  <p>因此，未来空间能源技术的发展将持续追求更低成本、更高效率和更高能质比，这也回到我们公司的核心方向：研发新一代钙钛矿太空光伏技术。目前主流太空光伏技术主要有两类。</p>\n  <p>第一类是晶硅，第二类是砷化镓。我国目前采用较多的是第二代砷化镓薄膜电池，但砷化镓的成本仍然是影响其大规模应用的重要因素，单平方米售价可达20万至30万元。面对未来大规模卫星部署和商业航天市场的极速发展，成本高昂的砷化镓电池将面临成本降低的挑战。</p>\n  <p>我们团队选择的钙钛矿光伏属于第三代新型光伏技术，原料储备丰富、成本较低，同时兼容柔性衬底，能够较好满足未来太空应用需求。相比之下，砷化镓受稀有金属材料和高成本等因素制约；第一代晶硅作为过渡方案，在进一步提升效率、降低重量等方面也面临一定挑战。钙钛矿技术与太空应用场景具有较好的适配性，在轻量化方面具有明显潜力，有望实现约80%的减重；同时电池效率也有很高的发展空间；更重要的是，从材料和制造体系来看，其成本具有较大的下降潜力，裸片成本有望达到当前砷化镓的约1/20。我们认为，到2028年左右，钙钛矿有望与砷化镓形成多技术路线并存的格局；从中长期看，随着技术成熟度和可靠性的持续提升，钙钛矿有望成为太空光伏和空间能源领域的重要技术路线之一。</p>\n  <p>第二部分，介绍一下我们公司的情况。</p>\n  <p>我们公司全称为北京烁威光电科技有限公司，研发总部以及太空光伏相关产线都位于亦庄经开区。公司成立于2023年4月，目前是国家高新技术企业、科技型中小企业、创新性中小企业和北京市知识产权试点单位。</p>\n  <p>我们团队在专利、标准和论文方面都有较丰富的积累，目前拥有50余项专利。昨天，我们联合中国星网、上海空间电源研究所等单位，共同发布了行业首个面向太空应用的钙钛矿太阳能电池技术规范标准，同时也获得了十四五国家重点研发计划科技示范产品等荣誉。</p>\n  <p>国内地面光伏企业很多，但太空光伏并不是地面光伏的简单延伸。我们从多个维度把它归纳为五重门槛：无论是光谱条件、光伏电池本身，还是空天环境、评价验证和供应链体系，太空光伏与地面光伏都存在显著差异，因此需要建立一套更加针对空间应用的技术、产品和验证体系。</p>\n  <p>烁威光电团队具有较强的航天原生背景。早在2018年，公司核心成员就开始围绕临近空间开展相关工作；此后从2023年公司成立开始，持续聚焦钙钛矿太空应用场景。2024年至2026年，公司也逐步形成了与两支“国家队”深度合作的格局。</p>\n  <p>我们团队的航天技术积累，从距离地表约35公里的临近空间开始，目前已经面向上千公里以及未来更远的深空场景。2018年8月，团队首席科学家依托北京大学、西北工业大学、中科院空天院，将相关钙钛矿电池搭载在临近空间气球上开展试验；2021年，首席科学家涂用广教授担任美国NASA相关项目评审专家；2023年公司成立后，全面聚焦钙钛矿太空应用，并与航天科技集团上海空间电源研究所持续开展研究合作；2025年，我们联合上海空间电源研究所、西北工业大学、上海交通大学在空间电源全国重点实验室下成立柔性光伏技术联合实验室；2026年6月，深空探测实验室战略入股公司，双方开始进一步深化战略合作，未来将继续围绕深空能源开展探索。</p>\n  <p>目前，我们与两支“国家队”保持深度合作。</p>\n  <p>我们与811所成立了联合实验室，未来将依托811所在轨搭载通道，在军品项目联合申报、后续量产采购和股权合作等方面开展合作。</p>\n  <p>在深空探测实验室方面，我们主要面向深空能源，联合成立了深烁空间电力应用联合创新中心，围绕未来规模化空间星座、地球轨道、地外星体轨道、行星探测等方向开展前沿研究。</p>\n  <p>这也使我们成为国内唯一同时与两大国家级太空能源科研力量开展深度合作的钙钛矿企业。我们不仅关注近期的太空光伏应用，也在积极布局更长期的深空能源。</p>\n  <p>在空天光伏技术体系方面，面对复杂的空天环境，我们围绕单晶化钙钛矿、抗辐照稳定性、太空光谱适配等方向，在宇航级材料、工艺和电池衬底等方面进行了重点布局和研发。</p>\n  <p>在产品布局上，我们采取“刚柔并济”的路线：既有刚性钙钛矿电池，也有可卷绕、薄型化的柔性钙钛矿产品。相关产品已经获得国内外及航天院所的测试检测报告，航天科技集团也出具了公司产品应用场景证明，以及稳定性相关报告，整体测试表现良好。</p>\n  <p>这是我们推出的“御曦”系列产品矩阵，包括三款面向宇航级应用的钙钛矿电池芯片。产品名称取自国学经典，分别命名为“天垣”“垂云”“太素”三个系列。</p>\n  <p>天垣系列主要具备刚性和轻量化优势，面向低成本空间应用，未来适合通导遥卫星的批量替代场景。</p>\n  <p>垂云系列的核心优势是柔性可卷绕，具有较高收纳比，未来适用于大型算力卫星、大型空间站、星座等场景。</p>\n  <p>太素系列是基于钙钛矿技术的叠层电池，效率可达到30%以上，未来能够满足卫星对更小占用面积和更高单位面积功率的需求。</p>\n  <p>基于这三款钙钛矿电池芯片，今年3月我们在深圳商业航天展会上发布了行业首款系统级钙钛矿太阳翼“御曦天垣”系列。该产品主要搭载刚性、轻量化的天垣电池芯片，实现从电池片到太阳翼整板系统的集成。产品3月发布，很快就获得了首笔太阳翼订单。同时，今年我们也将密集开展常态化卫星搭载和临空测试，加速验证产品在真实环境中的性能表现。</p>\n  <p>这也关系到我们的企业定位。刚才提到，太空光伏供应链与地面光伏存在明显差异。商业航天过去市场规模相对有限，因此除传统“国家队”体系外，相关市场化供应链在部分环节仍处于不断完善的过程中。</p>\n  <p>因此，我们也针对供应链进行了一系列布局，包括为航天级钙钛矿材料和部件寻找合适供应商；同时依托811所、深空实验室等国家级研究机构，推进一批面向太空级材料的测试和工艺需求。</p>\n  <p>我们主要通过四个抓手推进合作：依托空间电源全国重点实验室联合实验室开展季度会议，并邀请产业、政府、媒体和投资人参与；牵头军品项目申报；联合深空实验室参与顶层指南编写；以及争取在量产后进入国家队优先采购体系。我们认为，这些布局将有助于进一步提升公司在太空钙钛矿光伏领域的影响力。</p>\n  <p>最后介绍公司的发展愿景。我们认为，太空钙钛矿光伏的整体商业化路径可以分为三个阶段。2026年至2028年处于验证期，技术成熟度尚未达到9至10级，因此这一阶段需要通过持续测试、搭载和迭代，让产品可靠性逐步获得客户认可。</p>\n  <p>2028年以后将逐步进入商业化阶段，主要销售电池片、太阳翼以及电源系统等偏系统级产品；2030年以后，随着大型星座建设推进，公司将在合适情况下向能源服务型企业发展。</p>\n  <p>根据整体规划，早期将面向通信、导航、遥感卫星，以钙钛矿光伏电池片逐步拓展应用；中长期则进一步面向新一代太空能源系统，以及未来空间能源基础设施建设。</p>\n  <p>欢迎感兴趣的投资机构与我们进一步交流和对接。</p>\n  <p>以上是我的全部汇报，感谢大家聆听。谢谢！</p>",
+      "category": "tech",
+      "published_at": "2026-09-12T03:10:14+00:00",
+      "fetched_at": "2026-09-13T02:50:13.298486+00:00",
+      "fingerprint": "403ce58b0a046f4c"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "外滩大会：AI新人类，登场",
+      "url": "https://36kr.com/p/3980309439265793?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_5abccdfab33540bfaa5645f4cbeb0c75@19153231_oswg10132977oswg2738oswg3134_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>九月的黄浦江畔，又一年外滩大会如约而至，</p>\n  <p>1场主论坛、40余场见解论坛，600余位嘉宾都聚在外滩大会讨论“共创AI新经济”。</p>\n  <p>这次科技盛会气质不同了，如果只盯着老牌大咖，你可能会错过今年真正的主角——</p>\n  <p>主论坛上，青年科学家与诺奖得主同台，具身智能一线的青年创业者和学者集体亮相；</p>\n  <p><strong>官方更是早早定调：95后创业者与投资人，将成为本届大会的“年轻新势力”；另一边，大会的黑客松AI Coding大赛吸引的上万名参赛者，近七成不满18岁，最小的只有6岁。</strong></p>\n  <p>聚光灯，正在悄悄转向最年轻的一代。这里已是AI新人类的主场。</p>\n  <p>我们一个个看。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_3be094fc62a64da8b5018ba4b9509a96@19153231_oswg58345oswg899oswg876_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_cccbd47c417e4ac799c30e7d7666a92b@19153231_oswg916922oswg1754oswg1291_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>陈博远的履历表上，学术和创始人两个身份始终同时推进。北大元培学院入学后，大一即进组做科研、同年中稿NeurIPS，此后又拿下NeurIPS Oral（全球录取率不足0.5%）和ACL 2025最佳论文（全球仅四篇，另一篇中国团队出自DeepSeek）。另一头，2026年初，尚未毕业的他就和师兄吉嘉铭创立逆矩阵科技（Physis），做通用世界基座模型，成为估值最高的00后AI公司之一。</p>\n  <p><strong>在本科还没读完时，他已经跳过了“毕业、进大厂、再谈理想”的全部中间环节，直奔产业线——这条路径本身，就是AI原生一代的入场方式。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_591727f90c7b423c8a43b2dd407eb2fa@19153231_oswg809410oswg1754oswg1292_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>安歌大概是这份名单里最小的“AI技术原住民”——9岁，拿下外滩大会黑客松一等奖得主。她把一场七天的深山陶艺夏令营，做成了线上作品《泥土实验室：泥土变形记》：没有编程基础，以ChatGPT、Kimi为主、Claude为辅，用口语化沟通的方式两天迭代到7.4版本；作品用原生JavaScript+Canvas写成，零框架零依赖，整座数字博物馆都被浓缩在一条链接里。</p>\n  <p><strong>对她来说，AI不是需要专门学习的新技术，而是从小就在手边的表达方式。这就是AI native人类最写实的模样。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_4d99a87c434449d5bab4befa74ff6a65@19153231_oswg52417oswg899oswg787_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_22b994b52aeb4766aa3b7072078617bd@19153231_oswg603197oswg1080oswg795_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>王梦迪的学术履历，几乎重新定义了“快”。14岁从北京八中少年班考入清华，24岁拿下MIT博士学位，29岁成为普林斯顿当年最年轻的终身教授，2024年摘得控制领域最高荣誉之一Donald P. Eckman奖——这个奖项每年全球仅授予一人。如今她执掌普林斯顿AI加速创新中心，研究重心转向“让科学可验证”的基础设施，她把原本需要数月的石墨烯实验流程自动化、封装成API供全球科研机构调用，还在探索面向实验室的智能操作系统LabOS。</p>\n  <p><strong>这位不靠熬年限站上学术塔尖的青年人才，将继续探索AI如何成为加速全人类科学发现的底层引擎。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_0221c7edc5f14ad785dd54fc5228bc92@19153231_oswg408192oswg1080oswg733_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>杨灵是典型的“成果先行”型学者，他曾在普林斯顿大学ECE/Princeton AI Lab博士后研究员，现已回国入职北大国际机器学习研究中心，助理教授、研究员、博导一步到位。在北大期间，他创立了Discovery Intelligence Group与Gen-Verse开源社区，项目累计千万级使用量，70余篇论文发表于NeurIPS、ICML、ICLR等顶会，多篇拿下Oral（Top 1%）、Spotlight（Top 3%）与Best Paper Award。</p>\n  <p><strong>未来，学者的价值不再需要论资排辈，纯看学术成果的输出。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_e60c759e8e244d3fadc966292d193ccf@19153231_oswg57819oswg899oswg863_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_1a7e2bf17c0f4c509b3774170452f155@19153231_oswg1088494oswg1754oswg1285_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>沈宇军是带着硬核的学术履历走向产业一线的人。清华电子系出身、博士毕业于香港中文大学，师从汤晓鸥教授，在CVPR、ICCV、NeurIPS等顶会顶刊发表论文百余篇，Google Scholar引用逾万次。2024年起，他出任蚂蚁灵波首席科学家，今年带队一口气开源多款具身智能模型、发布全栈大脑2.0，引领“具身原生”新范式。</p>\n  <p><strong>在学界与产业之间，他把论文编码进了机器人的“大脑”里——学术最硬的人，正在离产线最近的地方。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_4c050b193ee947e589c8310b065ddb90@19153231_oswg1280638oswg1754oswg1369_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>许华哲身上有一种罕见的反转——在明星独角兽的巅峰时刻选择离开，自己下场造一家新公司。他是“伯克利归国四子”之一，清华叉院助理教授、博导，顶刊顶会论文五十余篇，拿过机器人顶会CoRL'23最佳系统论文奖。2026年2月，他离开星海图创立破壳机器人，四个月即完成近亿美元Pre-A轮融资。</p>\n  <p><strong>他不把人形机器人送进工厂拧螺丝，而是直奔最难的C端家庭通用机器人。混乱的家庭空间才是通用智能最好的训练场，产业这一棒，他要自己跑。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_63cece6be3ca483194fc1009f0ea702c@19153231_oswg48506oswg899oswg786_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_af8b58137e7a4a54ae0a13c53238b6de@19153231_oswg946792oswg1754oswg1353_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>吴迪的商业嗅觉，是在公司最难的时候被验证的。2023年，公司账上现金流紧张时，他带队不跟随当时主流的“2D升3D”捷径，死磕“原生3D”路线——2024年发布的原生3D大模型框架CLAY拿下国际图形学顶会SIGGRAPH最佳论文提名，并基于此发布了全球首个原生3D大模型产品Hyper3D Rodin，直接引领了全行业的主流技术转向。如今公司B端客户数与收入已超过行业其他公司总和，海外收入占比80%，2026年CES上黄仁勋的主题演讲就采用了其技术。</p>\n  <p><strong>他坚持科研从第一天起就必须“Production-Ready”，把60%-70%的收入继续投入研发——对这代创业者来说，商业化不是终点，而是从始而终的路线。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_a9e0f15ef60a482b837cea8ed9fc4389@19153231_oswg45959oswg899oswg785_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_fe06305519d546e485aebc060b71b535@19153231_oswg1020331oswg1754oswg1291_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>中科大计算机背景的孙东来自称“全干工程师”，一个人包揽产品全栈。他的创业习惯是先验证再动手：写Dreamoo第一行代码前，他先发了一条梦境记录调研帖，零投放炸出二三十万浏览，产品上线一个月即获4000多用户并拿到融资。Dreamoo被收购后，他又从软件跨入硬件创立默造MuteVox——从自己在公共场合不方便开口与AI交流的痛点出发，做出一款可穿戴消音面罩。产品从黑客松原型到上线京东众筹只用了一个月，首月获千余人支持，默造目前已完成Pre-Seed和Seed两轮百万元级融资。此外，他还是“徽客松”发起人、奇绩F25孵化项目成员，获评“小红书最佳00后开发者”。</p>\n  <p><strong>一个人，从写代码、做应用，到跑工厂、打磨硬件，他将“全干工程师”的能力延伸到了新的创业领域。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_8d486150a3434628a86091377a521996@19153231_oswg640956oswg1754oswg1291_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>山音的工作室只有一个人，却能完成过去一整个剧组的事。上戏戏文本科、港岭南艺术科技与商业硕士毕业，进入AI影像领域后，他开始尝试把过去需要多个影视工种协作完成的工作，压缩进更小的创作单元中。他的作品《积木》获得2025 Inspiring Asia最佳AI影片，并入围FIRST惊喜影展；《狗事》获得新片场AI大赛金奖、VACAT瓦卡奖银奖及AI Internal Film Festival最佳实验电影；《阿明的一天》入围大众电影百花奖AIGC推优单元。</p>\n  <p><strong>相比传统影视团队固定的工种分配，山之音工作室更接近于一个小型创作核心，AI对山音最大的改变，是把过去分散在许多工种之间的创作控制权，重新交回了一部分给创作者本人。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_1d1e9ca96b2e4821ada2ce0933da6bbc@19153231_oswg52190oswg899oswg785_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_bfb00f103f4a426bb31220f78041ccf8@19153231_oswg781478oswg1754oswg1229_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>小狮日记大概是程序员里最会打鼓的、鼓手里最懂IT的。做过IT工程师的他，如今转型为粉丝数百万的科技创意博主。他曾在家里复刻哈利波特的魔杖，随手一指就能随便开关家电，他还做过一朵会自己上班的宠物“电子云”，做过模拟汽车颠簸的“总裁哄睡床”，他总能把有趣的生活灵感变成实体，用一种带有诗意的眼光，发挥AI技术的优势。</p>\n  <p><strong>他的产品展现了技术可以如何抚慰人心，像他这样的跨界创作者，为AI领域带来了更多人文关怀的色彩。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260912/v2_3e8d59e9430a4678b819f57760e9edd4@19153231_oswg296oswg459oswg45_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>你可能已经意识到，外滩大会的面貌和许多人想象中不太一样了。</p>\n  <p>今年大会的主题追问，从“AI能做什么”变成了“AI如何创造新的增长”。</p>\n  <p><strong>当AI从生成走向执行，这届年轻人的务实恰好踩在了行业的转向点上。</strong></p>\n  <p>技术周期的闸门一旦打开，就不会只开一条缝。</p>\n  <p>今天他们站上了论坛和赛场，明天或许就能改写产业与规则本身。</p>\n  <p>大幕刚刚拉开，可以期待，AI新人类们会带来更多惊喜时刻。</p>\n  <p>&nbsp;</p>\n  <ul>\n   <li>策划：许嘉婧</li>\n   <li>视觉：曲枚</li>\n  </ul>",
+      "category": "tech",
+      "published_at": "2026-09-12T11:26:17+00:00",
+      "fetched_at": "2026-09-13T02:50:13.298476+00:00",
+      "fingerprint": "39f74a543bdd3a4b"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "获达晨财智、元禾璞华数千万投资，这家物理AI企业自研WMM世界机理模型丨36氪首发",
+      "url": "https://36kr.com/p/3981147673345033?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260913/v2_99b5bd833209489584c4f485bed69339@6221844_oswg276717oswg1269oswg772_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2900</strong>字，建议阅读<strong>7</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，元始智能科技（南通）有限公司（简称“元始智能”）已完成数千万元Pre-A轮与Pre-A+轮融资，分别由达晨财智与元禾璞华投资。资金将主要用于产品研发团队扩建与标准化产品矩阵的打造。</p>\n  <p>这家成立于2022年7月的公司，是一家面向工业场景的物理AI公司，长期目标是让AI理解物理世界的状态与规律，并在真实环境中稳定行动。落到当前的产品上，就是以自研WMM（World Mechanism Model）世界机理模型为核心的软硬一体解决方案：在成熟的存量工业装备上叠加边缘端智能处理器与工艺包，让设备从“自动化”走向“自主化”。</p>\n  <p>元始智能由CEO金骏阳博士和CTO董云龙博士带领，核心成员具有剑桥大学、清华大学、华中科技大学等高校背景，以及华为等科技企业的产业经验。公司的核心技术主要基于华中科技大学袁烨教授团队近十八年来在系统辨识、复杂动力学与机理建模领域的研究积累。早期，这些研究主要在CPS系统建模与控制框架下展开，如今为公司的物理AI工作提供方法基础。在公司的产品体系里，这套积累正被转化为可工程交付的机理模型、工具链与工艺包。</p>\n  <p>公司成立后，技术层面延续物理AI方向，应用层面则明确聚焦工业落地。</p>\n  <p>这一选择基于两个判断：一是机床、机械臂和专用设备等工业装备已运行多年，硬件系统成熟、控制边界清晰，工艺目标也可检验；二是公司团队在高校阶段就已围绕航空航天、船舶轨交等场景完成大量技术验证，并承担多项国家级重大专项，具备把机理建模能力沉淀为工业产品的产业基础。</p>\n  <p>“物理AI是人工智能下一步的创新浪潮，”元始智能判断，“以前AI主要处理数据，做单向信息流转、采集、分析、展示。现在产业界希望AI真正介入物理世界，和装备做动态交互。”</p>\n  <p>要实现这个跃迁，元始智能认为AI需要理解当前状态、预见动作后果，并在物理约束下可靠行动。这也是公司产品架构的设计主线——模型、工具链与边缘硬件围绕同一套物理约束协同工作。</p>\n  <p>硬氪了解到，元始智能的核心技术是自研的WMM（World Mechanism Model）世界机理模型，它同时是公司全栈产品包的技术底座。其核心思路是在模型学习中引入动力学结构和物理约束，让数据用于辨识规律，减少对全工况数据覆盖的依赖。</p>\n  <p>这也体现了元始智能对技术路线的理解：“WMM仍然使用数据，只是不把全部知识都交给数据去记忆。模型要学到的，不只是如何完成一次任务，还有动作如何改变物理世界。”公司希望，通过机理约束与数据学习的结合，提升模型在工况变化时的可控性与可解释性。</p>\n  <p>而WMM的两个技术重点均针对工业落地痛点：</p>\n  <p>其一，提高连续过程的稳定性。通过Koopman隐空间动力学约束，模型不仅预测“下一步动作”，也学习系统随时间的演化，目标是降低多步预测与控制中的误差累积。</p>\n  <p>其二，探索跨任务的规律复用。团队尝试将Grasp（抓取）、Twist（旋拧）、Insert（插入）等基础操作沉淀为可复用的物理模块，再根据新任务进行组合与适配。这一路线希望减少每个任务都从头学习的成本，实际复用程度仍需在具体设备和工况中检验。</p>\n  <p>目前，元始智能的产品形态是软硬一体化解决方案，目标是为存量装备逐步增加感知、判断和自主调整能力：硬件层面是PRIMACT R100实时物理智能平台，承载核心模型算法与工业交互接口，支持本地部署、本地推理；软件层面包含工具链和工艺包——工具链用于开发和适配工业AI模型，工艺包则针对具体设备和工艺场景，将物理规律与控制逻辑沉淀为可复用的行业模块。</p>\n  <p>“我们不是纯软件公司，”元始智能强调，“在工业里，要交互的对象是物理装备，光有软件形态不够，必须通过硬件接口去控制设备。这是公司坚持软硬一体产品路线的原因。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260913/v2_1f11ea2267bf48f088c2535cc193810b@6221844_oswg303849oswg1080oswg578_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">PRIMACT R100实时物理智能平台（图源/企业）</p>\n  <p>基于这套软硬一体的产品，公司希望在尽量保留原有控制系统和生产流程的前提下，对存量工业设备做智能化升级。工业客户把可靠性放在第一位，这意味着产品不仅要能够接入，还必须在时延、扰动和长期运行等约束下证明自身价值。</p>\n  <p>据公司介绍，目前元始智能已与中航工业、中核集团、中船重工、中国中车、中天科技等十余家行业客户开展合作与验证，提供数字建模与预测性维护、精密控制等多种智能化解决方案。</p>\n  <p><strong>以下为硬氪与元始智能的访谈内容节选（经编辑）：</strong></p>\n  <p><strong>硬氪：为什么选择从工业具身智能场景切入来做？</strong></p>\n  <p><strong>元始智能：</strong>我们关注的长期问题，是让机器理解真实世界，并在其中稳定行动。但通用能力需要在具体场景中逐步建立。元始智能选择先做能交付、能验收的场景，而不是一开始就追求一个模型适用所有设备。</p>\n  <p>工业不一样。工业装备已经成熟了，加工机床、机械臂、专用设备都是用了很多年的东西，工艺目标和控制边界也比较清晰。我们的产品就是给它们增加感知、判断和自主调整能力，让装备从“自动化”逐步走向“自主化”。先解决一个工艺问题，跑稳一台设备，再把经过验证的规律复用到下一台设备，这是我们选择的路径。</p>\n  <p><strong>硬氪：与其他物理AI公司相比，最大的差异在哪里？</strong></p>\n  <p><strong>元始智能：</strong>技术路线上，我们更强调在模型学习中引入动力学结构和物理约束。工业数据往往有限，试错成本又很高，不能依赖穷尽所有工况来训练模型。我们的思路是让有限数据用于辨识规律，并在工况变化时检验这些规律能否继续成立，这是核心差异。</p>\n  <p>从商业化角度看，我们关注的不只是单次任务能否完成，还包括设备在扰动下能否保持稳定、换一种工况后需要多少重新调试，以及工程师能否理解系统的判断。团队与行业客户开展的合作与验证，就是在这些具体问题上检验技术，而不只是展示一次演示效果。</p>\n  <p><strong>硬氪：接下来产品迭代的重点方向是什么？</strong></p>\n  <p><strong>元始智能：</strong>核心是做端侧轻量化和推理效率提升，让更复杂的模型在有限算力和严格时延约束下稳定运行。</p>\n  <p>为什么要做端侧？部分工业场景的数据不能出工厂，有些场景还存在联网限制，所以模型必须能本地部署、本地推理。这是物理AI在这些场景落地的硬约束。</p>\n  <p>我们还会继续把“工具链+工艺包”体系做深，让同一行业内的适配成本持续降低。原始工业数据可以留在客户现场，团队需要沉淀的是可迁移的动力学结构、算法模块与部署方法。每一台新设备接入，已验证的知识能复用多少、适配时间能缩短多少，是衡量产品化水平更直接的尺度。</p>\n  <p>更长远看，我们并不把自己限定在某一种工业设备上。机床、机械臂和移动操作机器人形态不同，却都要处理同一组问题：感知当前状态，理解系统如何演化，预见动作后果，并在约束中可靠行动。今天的边缘处理器、工具链和工艺包，是这些能力的产品载体；WMM则指向能够跨设备、跨任务复用的基础能力。</p>\n  <p>从大处着眼、从小处着手，这和“农村包围城市”的思路相通：先让一个工艺跑稳，再让能力在一类设备上复制，最后把规律沉淀为平台。我们希望，WMM能沿着这条路径，由局部的确定性逐步走向更广泛的通用性，成为能够理解并作用于物理世界的通用人工智能（AGI）的一项基础能力。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p>Pre-A+轮投资方元禾璞华表示：“AI的下一站是真正介入并控制物理世界。元始智能是我们在这一方向上看到的稀缺标的：团队把在动力学与机理建模领域的多年积累，沉淀为了标准产品，并用军工级的可靠性要求验证了产品力。元始通过为AI注入物理规律，让模型在数据稀缺、可靠性至上的工业场景中也能稳定、可迁移地工作，这件事情拥有巨大的产业价值。”</p>",
+      "category": "tech",
+      "published_at": "2026-09-13T01:13:10+00:00",
+      "fetched_at": "2026-09-13T02:50:13.298460+00:00",
+      "fingerprint": "c6c80dedf4a05aca"
+    },
+    {
+      "source": "少数派",
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "url": "https://sspai.com/post/114461",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114461\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-12T07:00:00+00:00",
+      "fetched_at": "2026-09-13T02:50:11.725168+00:00",
+      "fingerprint": "6ad7062b57c53c73"
+    },
     {
       "source": "The Guardian - World",
       "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
@@ -1611,186 +1801,6 @@
       "published_at": "2026-09-07T00:20:41+00:00",
       "fetched_at": "2026-09-07T02:34:26.487632+00:00",
       "fingerprint": "05b204b04a3f3653"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
-      "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-      "summary": "<p>Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs</p><p>An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday.</p><p>The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concerning security and crime.</p> <a href=\"https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-05T18:00:15+00:00",
-      "fetched_at": "2026-09-06T02:36:46.210189+00:00",
-      "fingerprint": "34642662f3f087d3"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-      "category": "politics",
-      "published_at": "2026-09-06T01:54:29+00:00",
-      "fetched_at": "2026-09-06T02:36:46.027722+00:00",
-      "fingerprint": "6bf5510e96074446"
-    },
-    {
-      "source": "BBC World News",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "category": "politics",
-      "published_at": "2026-09-05T21:29:38+00:00",
-      "fetched_at": "2026-09-06T02:36:46.027717+00:00",
-      "fingerprint": "4b30f7f6e65510ca"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "category": "politics",
-      "published_at": "2026-09-05T22:44:07+00:00",
-      "fetched_at": "2026-09-06T02:36:46.027712+00:00",
-      "fingerprint": "3e20e544fc3cfc55"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
-      "category": "politics",
-      "published_at": "2026-09-06T02:24:16+00:00",
-      "fetched_at": "2026-09-06T02:36:46.027703+00:00",
-      "fingerprint": "e51208de54ed4214"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "機器人開始索要小費，但錢到底進了誰的口袋？",
-      "url": "https://www.bbc.com/zhongwen/articles/cn5dx6gqxn9o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "自疫情以來，人們被索要小費的場合比以往任何時候都多，而且往往是由數字支付系統主動提示的。消費者抱怨這是一種「情感勒索」，而建議小費的百分比還在不斷攀升。儘管有些人嘲笑美國人「失控」的小費文化，但它正蔓延全球。",
-      "category": "politics",
-      "published_at": "2026-09-06T02:02:19+00:00",
-      "fetched_at": "2026-09-06T02:36:45.957083+00:00",
-      "fingerprint": "97a95326a9aac06b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-06T02:36:45.425205+00:00",
-      "fingerprint": "83d3effa43049b37"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-06T02:36:45.425126+00:00",
-      "fingerprint": "630bf109ed96599c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-06T02:36:45.425030+00:00",
-      "fingerprint": "ffb29772a913ef66"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-06T02:36:45.424942+00:00",
-      "fingerprint": "6403f7898e7b10c2"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-06T02:36:45.424836+00:00",
-      "fingerprint": "6a2258e1c0b90d7f"
-    },
-    {
-      "source": "The Verge",
-      "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-      "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-      "summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast Awards four years in a row. Holloway's goal has [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-05T15:00:00+00:00",
-      "fetched_at": "2026-09-06T02:36:45.292625+00:00",
-      "fingerprint": "b7c9082e1e68fe91"
-    },
-    {
-      "source": "The Verge",
-      "title": "CD sales are booming as physical media continues its resurgence",
-      "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-      "summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-05T16:49:33+00:00",
-      "fetched_at": "2026-09-06T02:36:45.292620+00:00",
-      "fingerprint": "3c803508656819f2"
-    },
-    {
-      "source": "The Verge",
-      "title": "iPhone Handoff will seamlessly share one number between two phones",
-      "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-      "summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-05T20:53:58+00:00",
-      "fetched_at": "2026-09-06T02:36:45.292615+00:00",
-      "fingerprint": "87a2888927b7f4f0"
-    },
-    {
-      "source": "The Verge",
-      "title": "Explore the globe in field recordings",
-      "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-      "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-05T21:31:34+00:00",
-      "fetched_at": "2026-09-06T02:36:45.292608+00:00",
-      "fingerprint": "1fdfa6bf0e2f0ff7"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "群星集结海岛逐浪，9月11日《PEL奇遇时光三亚篇》斗鱼直播重磅开启",
-      "url": "https://36kr.com/p/3968898900095491?f=rss",
-      "summary": "<p>PEL夏季赛圆满收官，赛场烽烟落幕，但电竞热爱永不降温，对于职业选手和满怀期待的玩家们来说，新的旅程也即将开启。</p>\n  <p>9月11日，由斗鱼与《和平精英》联合推出的电竞直播综艺《PEL奇遇时光三亚篇》将正式开启。本次直播内容集结了全明星阵容，PEL明星选手带队，斗鱼平台头部主播及优质电竞KOL齐聚三亚，将在碧海椰林之间展开一场持续四天的海岛竞技之旅。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260904/v2_2732ab58e9204a7ebc0de73420fe06f2@16519798_oswg1423082oswg1155oswg650_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《PEL奇遇时光三亚篇》</p>\n  <h3><strong>PEL全明星阵容齐聚三亚，海岛冒险之旅启程</strong></h3>\n  <p>《PEL奇遇时光三亚篇》将由TEC·33Svan、深圳STE·芷田、杭州KSG.吒宝、杭州LGD·猫猫四位PEL职业选手带队，集结职业选手、斗鱼主播、电竞KOL、专业主持多重圈层嘉宾，在椰林海风间组队迎接各类挑战，阵容含金量拉满，队员间的化学反应值得期待。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260904/v2_e0b27e9cf40d48f8909c034a5f13750c@16519798_oswg2163903oswg2136oswg948_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">明星选手齐上阵</p>\n  <p>浙江RSG无痕、福州NV·Ydd、4AM·mingskr、LTG魏无羡、TJB·白小纯等一众实力人气PEL职业选手；惜兮未曦CCVC、若若跑的贼快、艾琳、百变姑姑肖淑洁等斗鱼平台头部人气主播；Dy花老湿、苏哲、武子弈、幸福等知名KOL及PEL专业主持小鱼也将全程参与，全员齐聚三亚，解锁沉浸式海岛奇遇电竞之旅。</p>\n  <h3><strong>四天高强度挑战自我，冒险奖杯花落谁家？</strong></h3>\n  <p>9月11日-14日的四天时间里，嘉宾们将参加神秘⼈“P岛主”特设的奇遇冒险杯赛，以组别为单位展开“奇遇冒险杯”的竞技之旅。赛程层层递进，分别从团队协作、体力意志、综合素养与全局策略四大维度展开角逐，搭配阶梯式现金的奖励方式，充分调动每位嘉宾的竞技热情与胜负欲。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260904/v2_89931b9ec567412a941a79cdbbc5ef1a@16519798_oswg926273oswg1198oswg649_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《PEL奇遇时光三亚篇》</p>\n  <p>9月11日开播首日，全体嘉宾正式集结三亚，开启破冰互动，通过雷神小赛、PEL团队运动会等趣味比拼，快速拉近队员距离，凝聚团队默契。值得一提的是，队员中将安排三名卧底全程隐匿身份完成专属任务，四天赛程里卧底是否被成功识破揪出，也将直接左右最终战队成绩与比赛结果。</p>\n  <p>次日，四大战队将迎来体能与意志的试炼，以海上5KM接力赛为重头戏，沙滩热身、室内游戏及和平精英手游对抗赛轮番登场，从体能挑战到电竞赛场，全方位考验选手的爆发力、耐力与临场抗压能力。第三日则继续跳出传统电竞赛场，以趣味料理王大赛为核心，考验各战队的统筹规划能力、团队配合度与临场创意，解锁选手与主播赛场之外的不同魅力。</p>\n  <p>收官日将在水上乐园开启终极策略博弈，迎来卧底指认环节，最终决出本次奇遇冒险之旅的“精英冒险队”。紧张刺激的竞技对抗过后，松弛治愈的全员狂欢之夜将为整场活动画上圆满句号。直播期间，平台还将开放在线投票通道，观众可自主投票选择挑战内容，全程参与节目进程，让每一轮比拼都充满未知与惊喜，大幅提升节目互动性与观赏性。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260904/v2_5c38b0e63d5344f5abf5cb7a36b4d171@16519798_oswg921564oswg1075oswg603_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《PEL奇遇时光三亚篇》</p>\n  <p>此前，斗鱼《和平精英冒险之旅》已先后走过长白山、阿勒泰、舟山等地，邀请选手、主播们来到线下，结合地域特色推出了一系列内容丰富的直播节目。本次落地三亚，《PEL奇遇时光三亚篇》内容升级，平台继续发挥以游戏为核心的社区优势、主播生态及内容运营能力，通过优质PGC内容持续深化厂商合作，并为广大电竞爱好者带来更加新鲜有趣的内容体验。</p>\n  <p>当“特种兵”化身“冒险家”，嘉宾们将在椰风海韵里碰撞出怎样的新鲜火花？9月11日至9月14日，锁定斗鱼官方直播间，一同见证这场南国奇遇冒险吧。</p>",
-      "category": "tech",
-      "published_at": "2026-09-05T08:00:00+00:00",
-      "fetched_at": "2026-09-06T02:36:45.150927+00:00",
-      "fingerprint": "f565113ef9f5c63e"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "别谈具身和AI，欧洲不相信「黑科技」｜直击IFA 2026",
-      "url": "https://36kr.com/p/3970179970036225?f=rss",
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>2026年9月，柏林的初秋被雨水浸透，展览中心灰色的建筑群在晨光里安静展开，像一台刚启动的精密设备。在这座信奉“工程师文化”的城市，习惯用确定性和流程感丈量一切。</p>\n  <p>想看点不同寻常产品的人，来IFA会非常失望。</p>\n  <p>你看不到会飞的扫地机，场馆里也没有人形机器人做家务。大门外，招牌最醒目的仍然是赞助商常客TCL。</p>\n  <p>科技记者、自媒体人大概率会有些无聊，但如果你是个经销商、或者想为新家添置一些新家电，来这里一定能找到解决方案。</p>\n  <p>活动现场，我们随处可见带有IFA图标的彩色背板，“The future is now.”这句标语被挂在展馆的许多角落，字样格外显眼。</p>\n  <p>但IFA是个实用主义的展会。每台设备旁边都贴着技术参数卡和适用场景说明，法国用户手握着扫地机地盘，反复对比抹布结构差异，确认机械臂的实际作用；还有专门从荷兰、澳洲飞来的经销商围着一台割草机，半蹲下身研究底盘刀片。它是企业们做生意、找客户的场地，不是秀技术肌肉的展示台。</p>\n  <p>围观的人最爱问的只有一句话：你这个产品到底现在能解决什么问题？</p>\n  <p>所以，任何还想做海外市场的企业，不能也不敢缺席IFA。 根据IFA展会官方统计，今年共有928家中国内地企业参展，加上84家香港展商，中国参展商总数突破千家，在1900多家参展商中占比近半。这个数字同比2025年增长了近35%。它热度仍然很高，我们去德国参会的签证提前一个月跨城申请，而平常淡季，通常只需要半个月。</p>\n  <p>即便人潮涌动，这里还是少了一些新闻。不同于拉斯维加斯CES的兴奋和炫目，IFA的气质是另一种色彩，它严肃、克制、务实。在柏林这个古老的城市，举办了102年的IFA还是那样平静稳定，一切都不慌不忙。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_34f4ec6a51cf4301b9d94ef8abf4b169@6022551_oswg117673oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">IFA场馆外追觅广告大屏（图源/硬氪拍摄）</p>\n  <h2>别聊AI和具身，告诉我怎么割草地</h2>\n  <p>对穗升科技创始人王时远来说，IFA并不是陌生的战场。过去很多次，他是以安克高管的身份站在这里，熟稔地操盘着这套中国硬件出海不可缺席的标准打法。</p>\n  <p>直到2026年柏林，他换了一重完全不一样的身份，作为一家初创AI硬件公司的创始人，守在相比以往并不算大的展位上。</p>\n  <p>身份切换带来的视角冲击很强烈。他依旧能看到熟悉的展会喧嚣，也读出了完全不一样的市场信号。</p>\n  <p>欧洲似乎被抛在AI浪潮之后。一个很微妙的细节反复在展位上演：当他用国内惯常的话语体系聊AI Agent、Memory硬件概念时，现场观众的反应普遍迟缓，很难快速理解。他只能说：“这能用AI搭建一个属于你自己的全天知识库”，对方立刻开始追问具体怎么用、数据怎么存、能不能适配现有工作流。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_1a57450aa8b546edbc5f26345ade34ba@6022551_oswg82879oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">穗升科技展台上，王时远与海外用户交流（图源/硬氪拍摄）</p>\n  <p>而国内追逐了整整两年的“具身智能”热潮，在IFA现场几乎找不到回声。</p>\n  <p>走进任何一个机器人品牌的展台，基本听不到世界模型、空间智能这类词汇。展台屏幕上循环播放的不是机器人翻跟头的炫酷动作，而是割草机在雨后湿滑的斜坡上停住、扫地机的机械臂探入桌椅腿缝隙、擦窗机器人紧贴弧形玻璃边缘滑过。</p>\n  <p>一位参展商半开玩笑地向硬氪总结道，“在深圳，你要是不在PPT里写两页‘具身智能’，投资人都不理你；但在柏林，你要是不把草坪割好，用户当场就走人。”&nbsp;</p>\n  <p>这句话背后，是一整套关于技术叙事明显的区域性差异。</p>\n  <p>欧洲用户经历了一次身份转换。未岚大陆欧洲业务总经理Ryan Kong向硬氪表示，其人群属性正从“技术关注者”转变为“体验结果关注者”。</p>\n  <p>“现场用户的提问方式彻底改变，他们不再追问技术原理，而是细致到问每个零件怎么影响割完的草坪效果。”Ryan Kong说。</p>\n  <p>过去几年，割草机器人赛道迭代速度极快，每代产品都能带来肉眼可感知的体验升级。随着渗透率抬升，欧洲用户正逐步完成从“找产品”到“找体验”再到“找品牌”的认知演进。以德国为代表的高渗透率市场，已经率先进入第三阶段。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_62c2b306258740fbbb0187b3eb6bc66c@6022551_oswg225165oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">未岚大陆展台上的模拟草坪（图源/硬氪拍摄）</p>\n  <p>这种变化直接反映在今年的IFA展台设计上。未岚大陆不再只讲无边界、三合一导航这些概念，而是开始讲“刺猬”。在欧洲自然保护意识盛行的背景下，把“避开刺猬”纳入产品叙事，意味着品牌开始从技术参数的比拼转向满足当地的价值主张。</p>\n  <p>库犸则在展区梳理了一条十年四代产品的演进路径，直观展示每一代产品所解决的具体问题：能不能爬坡、会不会滑下来、边角能不能割干净。“用户先是学会了用真实使用效果评判产品好坏，然后才具备辨别品牌差异的能力。”库犸全球品牌负责人Angel表示。割草机器人的竞争，正在从技术参数的比拼转向体验承诺的交付。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_c8a570b79ff644f1b9a86dc8cd7f3098@6022551_oswg223428oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">库犸展出消费级及商用级割草机器人、泳池机器人（图源/硬氪拍摄）</p>\n  <p>耐士劳的展台叙事今年也发生明显转向，户外庭院生态微缩场景成为展示重点。割草机器人穿行于模拟果园，通过自主规划路径，展示复杂环境下的稳定定位与自主导航能力；通过现场草坪场景的爬坡演示大坡度工况下的运动控制能力。消费级产品外，耐士劳今年还首次展出了商用割草机器人，产品版图从家庭庭院延伸至高尔夫球场、足球场等专业草坪场景。</p>\n  <p>这些转变直接体现了企业在IFA的投入逻辑。品类教育走向成熟，对参展厂商来说，其核心目标不再是渠道拓展，而是借助展会直观让用户感受到，这些产品足够可靠、实在。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_8fc07b7fba31409eb4adafd903d45f9a@6022551_oswg150659oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">耐士劳割草机器人产品矩阵（图源/硬氪拍摄）</p>\n  <p>“技术到底解决具体客厅、院子里的什么真实问题，才是欧洲市场评判好坏的唯一标尺。”追觅扫地机器人业务总裁孟佳告诉硬氪。</p>\n  <p>“这里几乎没有人会问我们，扫地机搭载的究竟是哪家供应商的雷达，也几乎没有人追问背后用了什么AI大模型。”孟佳发现，欧洲媒体和经销商问的问题往往更直接，比如“机械臂能伸进桌椅腿多深”“蒸汽拖地杀的是什么菌”等细节，用户也更关心“能不能避开宠物的呕吐物”。</p>\n  <p>这些琐碎的问题在柏林展馆里或许显得“不够前沿”，但却足够具体、直接，指向的是一种高度务实的决策习惯，用户和渠道把产品拆解成一个个真实场景中的具体动作，逐一验证它的可用性。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_13191162556c44a5a3c3f7d786c64081@6022551_oswg135880oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">追觅展出系列扫地机器人产品（图源/硬氪拍摄）</p>\n  <p>隔着幕墙的另一个世界，国内舆论正热烈讨论具身智能、世界模型、AI大模型落地。柏林展馆里，人形机器人大多安静地站在角落，像一个技术点缀，而不是故事主角。</p>\n  <p>沿着展馆一路走过去，扑面而来的是一种笃定的务实感。黑白电品牌占据了最大面积的展位，TCL、美的、海信的展台被布置成完整的厨房或客厅场景，冰箱、烤箱、洗碗机、洗衣机依次排开，参展观众可以直接拉开门，摸一摸内壁的材质，感受一下关门的手感。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_fc4b24ccd92b4979abbbb4388dcea0da@6022551_oswg113483oswg1080oswg750_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">TCL展台上（图源/硬氪拍摄）</p>\n  <p>手机配件、储能电源、办公设备等这些以往在国内展会、CES上被被匆匆略过的背景板，没什么话题性，也谈不上新鲜感。但在IFA，它们分布在各自独立的场馆内，品类划分清晰明确：你想找什么类型的产品，顺着路牌走过去就能找到。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_8a415aa5834f405aa736bac19462ea4d@6022551_oswg107080oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">穗升科技展出的AI Memory硬件Memoket（图源/硬氪拍摄）</p>\n  <p>产品摆在台面上，标签写着参数和价格，像一份安静的货架目录。概念和原型在这里并不受欢迎，展厅里多数展台陈列着成熟、确定、已经量产的产品。</p>\n  <p>技术名词在欧洲市场更多扮演着帮助用户理解的“解释工具”角色，而非“营销卖点”。&nbsp;</p>\n  <p>AI硬件公司和具身智能，零星分布在各个角落。相比家电厂商动辄几百平的展区，它们大多只是一个格子间、一张桌子、几台样机。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_be3d4c4235bb418fa91e3ee324684384@6022551_oswg96975oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">CyboPal桌面机器人（图源/硬氪拍摄）</p>\n  <p>Looki展台上，几台穿戴相机错落陈列。现场工作人员没有过多展开AI算法或Agent功能的介绍，只用一句话让路过的参观者停下脚步，“这是一台旅行记录相机，你戴着它出游、逛展、参加聚会，它就能自动帮你完成记录。”另一边，观众的好奇也跟此前如出一辙，更关心实实在在电池续航、存储扩容、极端环境下可靠性等问题。</p>\n  <p>追觅在IFA 2026现场搭建了一个完整的家庭场景，用ECHO S1单臂轮式机器人演示了一套完整的家务流程，从识别散落的脏衣物、打开洗衣机门、依次放入滚筒、自动设定洗涤程序并启动。整个过程中，没有炫技式的空翻或舞蹈，只有与日常生活直接相关的动作链条。</p>\n  <p>我们基本没有看到人形机器人，连头部公司银河通用也只是摆了几台不能动的样机。少数还有动作的机器人，包括魔法原子展台一只套着熊猫外壳的四足机器人。因为“可爱”，它吸引了一些视线，但它周围的参观者最关注的问题还是：“这个东西什么时候能上市？”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_534485628e33456b9be3c68c6d62df3c@6022551_oswg125656oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">魔法原子展台的“熊猫”在演示中（图源/硬氪拍摄）</p>\n  <h2>中国公司必须在场</h2>\n  <p>柏林展览中心内，中国厂商的展位越铺越广，各家发布会和现场演讲也越办越密。</p>\n  <p>但展台背后的故事已经发生变化。</p>\n  <p>过去，中国企业参加IFA的目标很单纯：刷存在感、见渠道、拿订单。展会是一支大喇叭，把产品信息广播出去就行。</p>\n  <p>如今，出海竞争白热化。在欧洲这样重视线下经销商系统的区域，中国公司要到现场才能抓住它们的诉求。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_48bba233d6db48dcadb94c9dc7cbe776@6022551_oswg153058oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">海外观众在清闲智能上试用动态人机工学椅（图源/硬氪拍摄）</p>\n  <p>“以前欧洲渠道商关注‘性价比’，现在越来越看重‘质价比’，你的品牌是不是可靠、产品是否真正符合欧洲本土用户的使用习惯，关系到大家能合作多久，以及未来几年渠道的生意该怎么做。”孟佳说。</p>\n  <p>这也是IFA在媒体上没太多声量，但厂商们挤预算也要参展的关键原因。欧洲终究还是一个保守的市场。欧洲渠道商还没有形成去中国选品牌的习惯，所以IFA带来的本地化线下触达，是一笔必须承担的显性成本。“如果只看本地服务价格，会觉得性价比不高，但这个成本必须花，没有办法去计算性价比。”科沃斯相关负责人告诉硬氪。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_7e12cac99dca408ab83a26ade0f6d8bf@6022551_oswg149862oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">科沃斯&amp;添可展台上，现场观众试用洗地机（图源/硬氪拍摄）</p>\n  <p>不过，在投入逻辑集体转向效率的当下，IFA的价值坐标正在被重新定义，从“让更多人知道我”，转向“让关键的人信任我”。展位面积不再是衡量投入的标尺，真正的竞争发生在展馆之外。</p>\n  <p>“欧洲渠道不会因为一封邮件或者线上投放就接纳你，做生意首先要成为对方的‘朋友’，建立信任圈。”云鲸智能全球品牌负责人Icey Bin说。云鲸今年在IFA展馆附近独立举办了品牌发布会，定向邀请全球媒体和渠道伙伴。</p>\n  <p>说到底，欧洲不是靠小投入赌爆款的地方。会场上的交流和展示只做到了“被看见”，但能不能真正登上KA卖场货架，背后是整套本地化能力，不是靠一次展位搭建就能完成。</p>\n  <p>IFA结束后，真正的考验才刚刚开始。欧洲渠道商要求的“质价比”比想象中更严苛，合规认证的清单比想象中更长，售后服务的投入比预估中更重。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_8defd718508d4bd1b42dd2479bd87c36@6022551_oswg145745oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">云鲸2026秋季全球品牌发布会现场（图源/硬氪拍摄）</p>\n  <p>美的相关负责人也告诉硬氪，对美的而言，IFA是“长期经营欧洲市场的重要触点，而不是一次孤立的营销活动”。这种定位决定了它的评估方式，“不是展位面积有多大，不是现场签了多少单，而是客户沟通质量、品牌影响力和后续业务机会。”</p>\n  <p>说到底，欧洲不是靠小投入赌爆款的地方。会场上的交流和展示只做到了“被看见”，但能不能真正登上KA卖场货架，背后是整套本地化能力，不是靠一次展位搭建就能完成。IFA结束后，真正的考验才刚刚开始。欧洲渠道商要求的“质价比”比想象中更严苛，合规认证的清单比想象中更长，售后服务的投入比预估中更重。&nbsp;&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_092e60a681ad4dd79a5f6671d1fbb61f@6022551_oswg154517oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">影石展位上出现了巨大的X6模型机（图源/硬氪拍摄）</p>\n  <p>当然，对于以穗升科技为代表的创业公司，IFA的价值更为直接。预算有限，它们无法在展馆核心位置拿大展位，但IFA的全球辐射力天然地充当了精准流量的过滤器。</p>\n  <p>王时远告诉硬氪，仅9月4日一天，就有数十个渠道商直奔他们展位。这些渠道商中既有德国本地代理，也有来自南欧、东欧、中东、菲律宾甚至日本的渠道商。其中一位日本代理商完全不会讲英文，两个人就那么“拿着手机，讲一句翻译一句”，依然坐下来聊了很久。</p>\n  <p>对于初创公司而言，这种精准流量的转化效率，往往比展位大小更能决定参展的实际价值。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260905/v2_6b34a19cffaf4125a563ec0c88f72b90@6022551_oswg148042oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;浩瀚在现场搭建的微型景观（图源/硬氪拍摄）</p>\n  <p>柏林傍晚六点，展馆开始清场，人员陆续离场。灯光渐次暗下来，广播里用德语和英语循环播放着闭馆通知。</p>\n  <p>“The Future is Now”的彩色背板还立在展厅入口，醒目依旧。在欧洲，“未来”似乎有不同的意味。这里似乎慢了半拍，但在其他地区的人跟随者AI狂奔时，IFA的温吞却代表另一种市场仍然存在：有些无聊，节奏太慢、但更审慎，某些时刻甚至让人有更多安全感。</p>\n  <p>几天前，王时远特意去柏林最大的消费电子零售卖场MediaMarkt实地走访，发现偌大的门店里，“只有一个AI产品，就是Meta的眼镜”。</p>\n  <p>他能感知到一个强烈的市场信号：AI硬件在欧洲仍处于极其早期的阶段。“这里面竞争相对小，但需求大，”他说，“机会才刚刚开始——不，应该说，还没真正开始。”</p>\n  <p>IFA开幕时，ChatGPT发布新模型。世界还在向前狂奔，但在柏林，这些展馆里的企业，决定抛掉那些遥远的故事。它们回到商业的起点，一单一单地把生意做下去。</p>",
-      "category": "tech",
-      "published_at": "2026-09-05T11:00:00+00:00",
-      "fetched_at": "2026-09-06T02:36:45.150914+00:00",
-      "fingerprint": "f801f8dd652259da"
-    },
-    {
-      "source": "少数派",
-      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
-      "url": "https://sspai.com/post/114040",
-      "summary": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。<a href=\"https://sspai.com/post/114040\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-05T08:00:01+00:00",
-      "fetched_at": "2026-09-06T02:36:43.631379+00:00",
-      "fingerprint": "d1cc99152fc6eb0e"
     }
   ]
 }
