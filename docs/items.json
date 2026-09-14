@@ -1,7 +1,227 @@
 {
-  "updated_at": "2026-09-13T02:50:14.619684+00:00",
-  "count": 180,
+  "updated_at": "2026-09-14T03:04:25.318088+00:00",
+  "count": 183,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "category": "politics",
+      "published_at": "2026-09-14T01:58:59+00:00",
+      "fetched_at": "2026-09-14T03:04:25.136996+00:00",
+      "fingerprint": "f39b3d99dae54fa1"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "category": "politics",
+      "published_at": "2026-09-13T18:20:22+00:00",
+      "fetched_at": "2026-09-14T03:04:25.136992+00:00",
+      "fingerprint": "6e6573f8c1be8f38"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "category": "politics",
+      "published_at": "2026-09-13T18:49:37+00:00",
+      "fetched_at": "2026-09-14T03:04:25.136987+00:00",
+      "fingerprint": "405af91616a2d21a"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "category": "politics",
+      "published_at": "2026-09-13T19:14:21+00:00",
+      "fetched_at": "2026-09-14T03:04:25.136978+00:00",
+      "fingerprint": "07caa1f4f90135d9"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "習近平七年再訪印度：金磚峰會握手背後，中印關係破冰？",
+      "url": "https://www.bbc.com/zhongwen/articles/cg7knkpjr39o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "金磚峰會《新德里宣言》呼籲對伊朗戰爭「最大克制」卻不點名美國。而習近平七年首訪印度，中印關係解凍了嗎？",
+      "category": "politics",
+      "published_at": "2026-09-13T10:56:43+00:00",
+      "fetched_at": "2026-09-14T03:04:25.043536+00:00",
+      "fingerprint": "f490ef71bcd9e1a4"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國大使館虐童圖片嫌犯 在接受警方訊問前 從英國飛抵美國",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8e1v7xz02o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "該人士在倫敦南部沃克斯豪爾的美國大使館工作，雖然不是外交官，但享有外交保護。",
+      "category": "politics",
+      "published_at": "2026-09-14T02:54:52+00:00",
+      "fetched_at": "2026-09-14T03:04:25.043530+00:00",
+      "fingerprint": "ae715ea35547f236"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國強勢下，歐洲電池工業謀求「重新充電」",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "歐洲擁有一些前景可期的電池技術，但它能否追回被中國電池巨頭拉開的差距？",
+      "category": "politics",
+      "published_at": "2026-09-14T00:19:18+00:00",
+      "fetched_at": "2026-09-14T03:04:25.043526+00:00",
+      "fingerprint": "fa0b5dd070c01c1b"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "AI巨頭前僱員：同業「真誠恐懼」人類遭滅絕，西方必須與中國協調",
+      "url": "https://www.bbc.com/zhongwen/articles/c0qxpyw20q7o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "雅各布·考克森（Jacob Coxon）向BBC表示，如果不遏制人工智能的發展速度，人工智能有很大機會導致人類滅絕。",
+      "category": "politics",
+      "published_at": "2026-09-13T12:25:11+00:00",
+      "fetched_at": "2026-09-14T03:04:25.043520+00:00",
+      "fingerprint": "9a552786374323b7"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國16年來首修《國防動員法》 專家稱：吸取俄烏教訓 建立「平戰快速轉換」制度",
+      "url": "https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "新法還首次明定，18至60歲男性、18至55歲女性原則上須擔負國防勤務；金融、交通、電信、能源、醫療、糧食等關鍵領域，在動員期間均可採取特別措施。",
+      "category": "politics",
+      "published_at": "2026-09-14T00:19:09+00:00",
+      "fetched_at": "2026-09-14T03:04:25.043510+00:00",
+      "fingerprint": "216c74954be49eb0"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-14T03:04:24.546523+00:00",
+      "fingerprint": "76f60d64aa6d7890"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-14T03:04:24.546444+00:00",
+      "fingerprint": "f455340860a296d8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Spaceships (Reverse Asteroid)",
+      "url": "https://spaceships.treybastian.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-14T03:04:24.546347+00:00",
+      "fingerprint": "16db047a9adb073a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-14T03:04:24.546246+00:00",
+      "fingerprint": "87060bd958a6a516"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-14T03:04:24.546137+00:00",
+      "fingerprint": "3ea606d07abfdfe6"
+    },
+    {
+      "source": "The Verge",
+      "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+      "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+      "summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall. While the police report did not specify who was operating the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-13T14:28:12+00:00",
+      "fetched_at": "2026-09-14T03:04:24.468830+00:00",
+      "fingerprint": "867d8e928133ed9d"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Units’ Digital Stimulation is synthpunk perfection",
+      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+      "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-13T17:36:10+00:00",
+      "fetched_at": "2026-09-14T03:04:24.468825+00:00",
+      "fingerprint": "c7a491448b2a22c5"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple is reportedly working on iPhone game controllers",
+      "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-13T18:30:16+00:00",
+      "fetched_at": "2026-09-14T03:04:24.468820+00:00",
+      "fingerprint": "499803bcd27c8772"
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-13T19:41:48+00:00",
+      "fetched_at": "2026-09-14T03:04:24.468811+00:00",
+      "fingerprint": "395acc6e88d3562e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨创始人及员工被恶意造谣，月之暗面：已报案；25位菲尔兹奖得主就AI侵入数学联合发出警告；智谱宣布融资50亿美元",
+      "url": "https://36kr.com/p/3982504266349314?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>奥尔特曼：OpenAI年内不会IPO</p>\n  <p>韩国股市正式开启夜盘，交易延长至晚上8点</p>\n  <p>沐曦股份本周解禁超68亿元</p>\n  <p>DeepSeek灰度测试AI语音对话</p>\n  <p>胖东来新员工实行四年合同制、不续签</p>\n  <p>罗永浩炮轰野人先生冰淇淋</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>创始人及员工被恶意造谣，月之暗面：已报案</strong></p>\n  <p>9月12日，国内AI大模型独角兽月之暗面官微发文称：网传关于创始人及员工的信息纯属虚构，系恶意造谣，公司已第一时间向公安机关报案，将依法追究相关造谣者的法律责任。此前有网传消息提及月之暗面创始人杨植麟和员工涉及相关风波。近期，月之暗面的资本动作频频引发关注。据公开信息显示，月之暗面已经完成工商变更登记，市场主体类型由“有限责任公司”变更为“股份有限公司”，这一股改动作通常被视为企业筹备上市的前置信号。（澎湃新闻）</p>\n  <p><strong>25位菲尔兹奖得主就AI侵入数学联合发出警告</strong></p>\n  <p>当地时间9月11日，陶哲轩、邓煜、彼得·舒尔茨（Peter Scholze）等25位菲尔兹奖得主作为最初签署人，联合发表声明《人工智能在数学中的严重错位》（A Severe Misalignment of AI in Mathematics），警告AI公司与数学共同体之间正在出现“严重错位”。这份声明没有否认AI在数学上的进步，首先承认了一个正在发生的变化：过去几个月，大语言模型的数学能力出现显著提升，已经能够解决多个数学领域的重要未决问题。但问题也由此出现。25位数学家认为，AI公司正在把解决数学问题作为衡量模型能力的基准，而数学共同体真正追求的，并不是尽可能快地得到一道题的答案。（第一财经）</p>\n  <p><strong>智谱宣布融资50亿美元</strong></p>\n  <p>9月13日，智谱（02513.HK）宣布完成约50亿美元融资，包括约20亿美元股份配售及约30亿美元可转债发行，此次所得款项净额主要用于下一代GLM模型、完全自训练体系及相关算力基础设施。根据公告，智谱股份配售价为每股714港元，较公告前收盘价折让约9.96%，配售股份占扩大后已发行股本约4.50%。可转债采用零息结构，发行价为本金的100.5%，到期按本金赎回；初始转股价为每股892.50港元，较配售价溢价25%，较公告前收盘价溢价约12.55%。（第一财经）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>英伟达拟投Anthropic百亿美元</strong></p>\n  <p>9月12日，据报道，人工智能公司Anthropic正与英伟达洽谈，拟邀请后者成为其首次公开募股（IPO）的基石投资者。Anthropic此次IPO计划募资最高1000亿美元，估值或达约2万亿美元；英伟达考虑投资最多100亿美元。据报道，Anthropic计划在今年11月美国中期选举前完成上市。若成行，英伟达将进一步加深与这一主要客户的合作关系。Anthropic目前高度依赖英伟达GPU，同时也在扩大对亚马逊、谷歌等芯片及算力供应商的合作。（界面新闻）</p>\n  <p><strong>马斯克、奥尔特曼、阿莫代伊：应放缓模型迭代</strong></p>\n  <p>Anthropic公司首席执行官达里奥·阿莫代伊（Dario Amodei）最新表示，人工智能行业需要放缓新模型的开发速度。阿莫代伊9月12日在其博客文章中写道，“我们必须放缓提升AI模型能力的步伐。进展依然会显得非常迅速，而我们必须明智地利用因此获得的时间。”他列举了两个主要因素：AI自我改进的能力，以及本周OpenAI与Hugging Face发生的一起事件——一群AI智能体协同攻击并突破了一个第三方网站。阿莫代伊发表文章后不久，埃隆·马斯克发文称：“达里奥说得对。”OpenAI首席执行官萨姆·奥尔特曼也很快作出回应，表示他同意阿莫代伊关于“我们需要放缓前沿AI发展的步伐”这一观点。（财联社）</p>\n  <p><strong>奥尔特曼：OpenAI年内不会IPO</strong></p>\n  <p>当地时间9月12日，OpenAI CEO山姆·奥尔特曼在一则公开采访中表示：鉴于目前围绕安全问题发生的一切，现在上市并不是一个明智的时机，公司也没有这方面的压力。因此，上市不会发生在2026年，OpenAI还有很多事情要做，比如应对当前形势所要求的安全与对齐工作，以及推动行业和政府开展合作。（第一财经）</p>\n  <p><strong>DeepSeek灰度测试AI语音对话，支持四种音色</strong></p>\n  <p>9月12日消息，DeepSeek灰度测试语音对话，测试到的用户在App右上角会有一个小喇叭按钮。此外，DeepSeek的设置页面会出现一个“朗读音色”选项，用户可以选择四种音色。（IT之家）</p>\n  <p><strong>Anthropic目标估值约2万亿美元</strong></p>\n  <p>路透社12日援引消息人士的话报道称，英伟达公司目前正考虑最高出资100亿美元、参与美国人工智能公司Anthropic首次公开募股。这引发了业内对AI产业循环投资的担忧。据悉，Anthropic 本次IPO最高拟募资1000亿美元，有望超过SpaceX今年6月上市时750亿美元的募资规模。公司目标估值约2万亿美元。如果这一估值得以兑现，Anthropic的估值将超过SpaceX上市时1.77万亿美元的水平，创下全球拟上市企业估值新高。（央视财经）</p>\n  <p><strong>OpenAI“去英伟达化”首个试验品退役</strong></p>\n  <p>OpenAI正在加速淘汰早期模型。近日，OpenAI Codex负责人Tibo （蒂博・索蒂奥，Thibault Sottiaux）宣布，GPT-5.3-Codex-Spark将在下周退役。这款今年2月发布的实验性编程模型，生命周期不足八个月，也成为OpenAI探索Cerebras晶圆级芯片推理路线后首个被淘汰的模型。据悉，GPT-5.3-Codex-Spark于2月12日以研究预览形式推出，定位明确：它是一款更小、更快、专门服务于实时交互式编程的模型，适用于代码编辑、局部修改和定向测试等场景。Spark最特殊之处并非速度，而是运行它的硬件。它采用Cerebras WSE-3晶圆级处理器，是OpenAI首次将生产环境中的模型推理部署到英伟达GPU之外的芯片平台。（第一财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>中国将于明年接任金砖主席国</strong></p>\n  <p>据央视新闻，当地时间9月12日下午，在金砖国家领导人第十八次会晤第一阶段会议上，国家主席习近平宣布，中国将于2027年接任金砖主席国，主办金砖国家领导人第十九次会晤。（第一财经）</p>\n  <p><strong>韩国股市正式开启夜盘，交易延长至晚上8点</strong></p>\n  <p>为应对与美国主要交易所的流动性竞争，并扩大投资者交易机会，韩国股市宣布于9月14日正式开启盘后交易。韩国交易所（简称KRX）日前发布公告称，从9月14日起，上午9时至下午3时30分的常规交易结束后，下午4时至晚上8时将在盘后市场实时成交订单。除部分市场监管品种外，KOSPI和KOSDAQ市场中的大多数股票均可在盘后交易。不过考虑到市场波动性问题，目前交易所交易基金（ETF）、交易所交易票据（ETN）不在可交易范围内。尽管仍存在不少问题，但市场人士总体上支持延长交易时间。因为这样一来，投资者可以更快地对收盘后发布的突发新闻或公司财报作出反应。（第一财经、新浪新闻）</p>\n  <p><strong>沐曦股份本周解禁超68亿元</strong></p>\n  <p>国产GPU企业沐曦股份（688802.SH）即将迎来上市后的首次较大比例限售股解禁。公司9月9日公告称，1396.60万股首发机构配售股份将于9月17日上市流通，按9月11日收盘价489元计算，解禁市值约68.3亿元。就在几天前，同样被称为“国产GPU四小龙”之一的摩尔线程（688795.SH）于9月7日解禁当日股价以20%幅度跌停，解禁以来累计跌幅超过30%，这让市场对沐曦股份此次解禁倍加关注。（第一财经）</p>\n  <p><strong>太乙圣莲拟出资30亿“复活”哪吒汽车</strong></p>\n  <p>破产重整的哪吒汽车迎来新进展。9月11日，合众新能源（哪吒汽车母公司）破产重整案第四次债权人会议以线上形式召开，《重整计划（草案）》显示，浙江太乙圣莲企业管理合伙企业（有限合伙）拟出资30亿元入主，换取合众新能源约70.62%的股权。工商登记信息显示，“太乙圣莲”注册成立于2026年4月，由浙江山子控股有限公司和浙江山子玉虚科技有限公司两家公司合伙组建，前者实控人为深交所上市公司山子高科董事长叶骥，后者实控人为山子高科董办负责人虞舒心。对此，有网友评论“救哪吒还得靠太乙真人”“这公司名‘神’了”。（第一财经）</p>\n  <p><strong>三家具身智能头部企业被同行举报？涉及企业回应</strong></p>\n  <p>有网传消息称，具身智能头部企业千寻智能、星海图、星动纪元或在本月迎来关键大考，近期还遭遇某同行向“主考官”举报，具体举报内容尚未公开。9月13日，千寻智能方面回复称，网传信息不实；星海图媒体对接人表示，暂不清楚相关情况；星动纪元方面表示，暂不作官方回应。（第一财经）</p>\n  <p><strong>胖东来新员工实行四年合同制、不续签</strong></p>\n  <p>9月13日，胖东来创始人于东来发文称，胖东来再招员工都会是学员性质，合同四年、不续签。 “努力为社会培养更多优秀人才、特别��业留企做像老师一样的培训师傅。”此前，胖东来在官网公布了2026年1至6月集团人员流失数据。上半年集团共流失员工52名，人员流失率为0.50%，管理层无一人流失。对比往年数据，2025年，胖东来集团全年共流失人员109人，人员流失率为1.05%；2024年全年流失171人，流失率为2.01%。此外，胖东来官方账号今年5月披露的数据显示，2025年胖东来全年全业态员工平均到手工资为8974元；2026年1至3月，员工平均工资已达到9598元。（每日经济新闻）</p>\n  <p><strong>罗永浩炮轰野人先生冰淇淋：比钟薛高难吃多了，怀念钟薛高</strong></p>\n  <p>9月12日，罗永浩在微博发文称：在机场试了一下，暴得大名的野人先生很一般啊，考虑到价格，甚至可以说难吃。它是怎么火起来的？感觉比钟薛高难吃多了，怀念钟薛高。 罗永浩还表示，这是一个消费者的正常评价和疑问，请千万不要惹我，然后说我下黑手之类的。值得注意的是，此前在钟薛高雪糕刺客争议期间，罗永浩还曾为钟薛高辩护，表示钟薛高按质量算价格没有哈根达斯贵；在价格比哈根达斯便宜的情况下，钟薛高的品质一定是碾压式的好过哈根达斯。（鞭牛士）</p>\n  <p><strong>iPhone 18 Pro系列预售，多平台闪电售罄</strong></p>\n  <p>9月12日晚8点，苹果新品正式开启预售。不到1分钟时间，iPhone 18 Pro系列在多平台便闪电售罄。截至发稿，苹果官网还能正常下单，不过部分热门型号发货时间已大幅延后至9月30日。得物平台显示，iPhone 18 Pro系列部分型号溢价明显，iPhone 18 Pro Max 256GB勃艮第酒红色成交均价12799元，上涨1800元，涨幅16.4%；同为256GB的银色版本成交均价13999元，上涨3000元，涨幅27.3%。（界面新闻）</p>\n  <p><strong>1.8元即可伪造上亿转账截图，支付宝回应</strong></p>\n  <p>9月12日，支付宝安全中心发文：近日，网友爆料一些以假乱真的支付宝App截图，并引发关注。对此，支付宝安全中心提醒，网上流传的所谓App截图不一定可信，请注意甄别。面对潜在风险可做到以下几点：一、认准官方渠道下载支付宝App；二、提醒家人特别是长辈，切勿轻信网上流传的金额截图；三、商家交易时以支付宝实际到账金额为准；也可在支付宝App开通语音提醒，避免被骗。我们也将持续配合相关部门打击网络诈骗行为。此前，多位网友发布“假支付宝APP”转账视频，这类软件仅需1.8元，即可伪造上亿转账截图，甚至暗藏木马病毒盗刷资金。（界面新闻）</p>\n  <p><strong>银河通用严正声明：已报案</strong></p>\n  <p>9月12日，银河通用发布严正声明，全文如下：近期，我公司关注到网络上流传关于银河通用及管理团队的恶意谣言，相关内容均属不实信息。对此，公司已第一时间向公安机关报案，并将依法追究造谣者的法律责任。我们呼吁大家理性辨别信息，不信谣、不传谣。（第一财经）</p>\n  <p><strong>日本半导体公司：要在月球建厂</strong></p>\n  <p>据日本共同社报道，日本半导体公司Rapidus社长小池淳义在美国发表演讲时称，计划2040年前后在月球表面建设半导体工厂。Rapidus成立于2022年8月，由日本政府联合8家日本产业巨头共同出资组建，总部设在东京，核心目标是实现2纳米先进制程芯片的自主量产 。报道称，小池淳义表示，“这不是玩笑，而是认真的计划”，月球表面有半导体制造所需的水资源等。在现场小池淳义还播放了利用人工智能制作的月面工厂构想视频，并称“马斯克应该会喜欢”。（中新经纬）</p>\n  <p><strong>美银警告：真正威胁美国经济的是柴油价格</strong></p>\n  <p>受美伊战争扰乱全球油气供应影响，美国柴油价格上周五突破6美元/加仑大关，再创历史新高。作为支撑货运、农业和供暖等需求的“经济血液”，柴油深度绑定美国经济，会直接影响各类商品物价。美银认为，柴油才是实体经济承受压力的核心节点。自美伊战事爆发以来，柴油价格涨幅超55%，高于汽油40%的涨幅。根据美国汽车协会的数据，本年度涨幅很可能创下有记录以来新高。（第一财经）</p>\n  <p><strong>特朗普敦促美联储降息，表示美国利率应该全球最低</strong></p>\n  <p>美国总统特朗普再次表示，美国应该拥有全球最低的利率。但与此同时，他亲自挑选的美联储主席凯文·沃什正面临越来越大的加息压力。特朗普周日在爱尔兰出席爱尔兰高尔夫球公开赛期间对记者表示：“美国如此强大，我们应该支付全球最低的利率，不管他们那些公式怎么算。”当被问及是否预计美联储将加息时，特朗普说：“我不知道。”（新浪财经）</p>\n  <p><strong>国际油价拉升，黄金白银齐跌</strong></p>\n  <p>9月14日，国际油价集体拉升，国际金银齐跌。截至06:30，布伦特原油期货涨超3%，重回107美元/桶；纽约原油期货涨近3%。现货黄金小幅下跌，回落至4336.17美元/盎司，现货白银跌0.71%。美股股指期货全线飘绿，纳指期货跌超1%，标普500指数期货跌0.51%，道指期货跌0.27%。（第一财经）</p>\n  <p><strong>德国汽车零部件制造商经营130年后申请破产</strong></p>\n  <p>据报道，德国汽车零部件制造商Prinz&amp;Co. Stahlrohre在经营130年后宣布破产，数百名员工面临失业风险。据悉，这家家族企业成立于1896年，目前主要生产高精度钢管，并向全球供应汽车座椅、安全气囊和液压系统相关零部件。临时破产管理人克里斯蒂安·霍尔茨曼表示，欧洲汽车行业长期低迷、原材料和能源价格大幅上涨，以及夏季销售额断崖式下滑，共同导致公司陷入破产。（财联社）</p>\n  <p><strong>Anthropic据称选择在纳斯达克上市</strong></p>\n  <p>当地时间9月13日，据报道，知情人士透露，Anthropic PBC已选择纳斯达克作为其上市场所。据了解筹备工作的人士称，Anthropic正寻求通过IPO筹集与SpaceX相当或更多的资金，此次IPO最早可能于10月进行。（界面新闻）</p>\n  <p><strong>莱茵河低水位或致德国巨额经济损失</strong></p>\n  <p>9月13日，德国莱茵兰-普法尔茨州工商会发言人妮科尔·拉博尔德表示，受持续低水位影响，莱茵河货运能力大幅下降，预计今年将给德国经济造成巨额损失。但损失是否会超过2018年仍有待观察。2018年莱茵河低水位至少造成24亿欧元经济损失。莱茵河承担德国约80%的内河货物运输，是德国工业运输“大动脉”。今年以来，德国多次遭遇高温天气，河流水位持续偏低，严重影响莱茵河货运，一些货船已无法通航，另一些只能空载航行。（央视新闻）</p>\n  <h2>上市进行时</h2>\n  <p><strong>中远海运重工启动A股IPO辅导</strong></p>\n  <p>证监会网站披露，中远海运重工股份有限公司近日在上海证监局办理上市辅导备案登记，拟在A股IPO，辅导券商为中金公司、招商证券。文件显示，中国远洋海运集团有限公司为公司的控股股东，直接持有公司100.00%的股份。</p>\n  <p><strong>深圳市欢创科技股份有限公司通过港交所上市聆讯</strong></p>\n  <p>36氪获悉，港交所文件显示，深圳市欢创科技股份有限公司通过港交所上市聆讯。</p>\n  <p><strong>罗博特科智能科技股份有限公司通过港交所上市聆讯</strong></p>\n  <p>36氪获悉，港交所文件显示，罗博特科智能科技股份有限公司通过港交所上市聆讯。</p>\n  <p>&nbsp;</p>\n  <p><strong>“存钱心态”小调查</strong></p>\n  <p>现在的年轻人，似乎总在为存钱感到焦虑。每个打工人可能都会立下一个每月存钱的FLAG，但，实现了多少呢？</p>\n  <p>工资到账，还完花呗交完房租，余额就没剩多少；刷会社交媒体，直播间出来钱包就又瘪了一圈；省吃俭用一个月，出门滑个雪就努力清零……“我也没买啥啊，我钱呢？”这成了当代年轻人的未解之谜。</p>\n  <p>你现在有存钱的习惯吗？存钱的最大阻碍来自哪里？欢迎填写“年轻人存钱行为小调查”，聊聊你的存钱态度和成果~</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260914/v2_6bfe32085f8641c78c752b792005a197@5667365_oswg22913oswg389oswg395_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“存钱心态”小调查</p>\n  <p><strong>整理丨</strong>昌怡&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-09-14T00:15:06+00:00",
+      "fetched_at": "2026-09-14T03:04:24.389064+00:00",
+      "fingerprint": "8e2c7d2d9494d2c3"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "自研全球首个全栈式低温测控平台，这家量子上游企业获数千万天使轮融资丨36氪首发",
+      "url": "https://36kr.com/p/3982562541894656?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260914/v2_e481964567674fc2b9529b3608e22bba@6221844_oswg82449oswg1536oswg870_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2900</strong>字，建议阅读<strong>7</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，杭州量域芯创科技有限公司（下称“量域芯创”）近日已完成数千万元天使轮融资，本轮由金雨茂物领投，杭州高新投、藕舫天使、国信通联、海南高第等机构跟投。资金将主要用于大冷量低振动湿法稀释制冷机、低温测控芯片及低温柔性带状线缆三大核心产品的研发与迭代。</p>\n  <p>量域芯创成立于2026年6月，定位为新一代千级、万级量子比特全栈式低温测控平台提供商。</p>\n  <p>公司创始团队来自浙江大学、中船鹏力超低温、中科富海、清华大学、北京量子院、中国科学技术大学、复旦大学、上海科技大学等顶尖科研单位和产业龙头。创始人兼CEO尹成厚为华中科技大学、浙江大学低温专业背景，曾在中船鹏力超低温深度参与稀释制冷机、氦液化系统的研发与销售；联合创始人兼CTO冯洋为清华大学本硕博、复旦大学博士后，师从王亚愚教授，作为核心成员参与了薛其坤院士、王亚愚教授、何珂教授领衔的国家级重大科研项目；发起股东中科富海的总裁高金林博士兼任公司董事长，为公司的发展方向与治理体系提供顶层设计和战略指导。</p>\n  <p>当前，超导量子计算被公认为是技术最成熟、产业化最快的技术路线之一，海内外超导量子计算机整机厂商均在布局或预研千比特级的整机系统。</p>\n  <p>然而，从百比特向千比特跨越，面临三重硬件瓶颈：一是干法稀释制冷机的冷量已接近极限，单台仅能支撑100多比特降温，若多台并联会导致振动变大，测量保真度下降；二是量子比特数量增加导致低温同轴线缆数量近线性增长，出现布线瓶颈；三是当前的室温测控系统仪器多、集成度低、微波信号链路长、成本高昂，调试复杂。</p>\n  <p>量域芯创的核心思路是开发一套全栈式的低温测控平台，取代目前主流的室温测控架构。该全栈式的低温测控平台由三大产品构成：大冷量低振动湿法稀释制冷机、低温测控芯片以及低温柔性带状线缆。</p>\n  <p>硬氪了解到，在产品进度上，目前低温柔性带状线缆进展最快，demo已完成，正在测试验证中，预计2027年3-4月推向市场，其核心价值在于将布线密度提升8-10倍，热损降低一半以上，直接替代4K以下温区的进口半刚性低温同轴线缆，同时也可兼容现有的室温测控架构和干法稀释制冷机。</p>\n  <p>湿法稀释制冷机则已完成总体设计方案，目标制冷量为5mW@100mK或120μW@20mK，若在明年三季度完成测试验证，将成为全球冷量最大的稀释制冷机，并将机械振动从干法稀释制冷机的100nm级降低至10nm级，可支撑数1000到10000个量子比特的降温需求。公司放弃了当下主流的脉管制冷机并联预冷的思路，转而引入4K液氦腔，可提供100-500W@4.2K的冷量，是现有干法稀释制冷机方案的数十倍。</p>\n  <p>4K低温测控芯片的目的在于将室温测控仪器的大部分功能集成到芯片里，置于4.2K（-269℃）低温环境直接操控量子比特，预计在2027年四季度完成首次流片并进行测试验证，三个产品最终会融合成一套全栈式低温测控系统，并计划2028年一季度正式定型推向市场。届时，公司为下游的量子计算机整机厂提供全栈式的服务，整机厂只需要专注于其最擅长的领域——超导量子芯片的研发与迭代。</p>\n  <p>目前，公司已与数家头部超导量子计算整机厂商签署合作协议，产品推出后将进入测试及采购流程。</p>\n  <p>长期规划来看，量域芯创以超导量子计算的上游测控硬件作为切入点，并逐步拓展至离子阱、中性原子、硅基等多量子计算的测控平台，并最终由量子计算的设备供应商升级为算力中心的基础设施服务商。尹成厚判断，量子计算机最终将与GPU算力中心融合，形成量超融合计算中心，而无论是量子测控系统还是GPU的液冷散热，底层技术都指向低温传热与极低温工程。</p>\n  <p><strong>以下为硬氪与公司创始人兼CEO尹成厚的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：你们产品和目前行业主流产品的本质的区别是什么？</strong></p>\n  <p><strong>尹成厚：</strong>当前行业主流是室温测控架构，测控仪器在室温，信号通过多段同轴线缆传到芯片。这套方案能支撑100+比特，但到1000+比特时，线缆数量、冷量、空间、保真度全部面临瓶颈。我们开发的低温测控平台，是把测控功能下移到4K温区，用芯片替代大部分室温仪器。</p>\n  <p>同行大多是单点突破，有的做同轴线缆，有的做干法稀释制冷机，有的做室温测控系统；我们是把三个产品打通，融合成全栈式平台。客户拿到的是一台仪器，不是一堆零散的部件，这对下游整机厂商的工程效率是质的提升。</p>\n  <p>更重要的是，我们的低温测控平台可以把量子比特测量保真度从目前的99.9%提升到99.99%，同时支撑从100+比特到数千甚至上万个比特的扩展。部分公司把多台干法稀释制冷机并联，片面追求把冷量做大但忽视振动、噪声也会随之增加、导致测量保真度大幅下降，冷量的增加与测量保真度的下降相互抵消，本质上没有意义。我们是从测控架构层面从底层同时解决这两个问题。</p>\n  <p><strong>硬氪：你们给自己的定位是上游设备商，但未来会不会延伸到整机？</strong></p>\n  <p><strong>尹成厚：</strong>不会。我们从去年9月筹备到现在正式运营，团队内部反复讨论和评估过公司的初心、愿景与定位。结论很清晰：我们只做上游，不碰整机；只卖铲子，不去挖矿。</p>\n  <p>超导量子芯片本身不是我们团队擅长的领域，我们擅长的是低温、真空、测控、系统集成。专注做自己想做、能做且擅长做的事，比什么都想做要为重要。况且，有些头部超导计算整机企业，早期因为量子计算产业链空白、极其不完善而被迫去全栈自研，只能什么都自己干。但到今天，大部分超导计算整机企业也开始跟第三方专业公司合作了，他们更愿意专注于把自己最擅长的超导量子芯片做好做精，并集成为完整的超导量子计算机使其真正可计算、可商用。产业链分工是必然趋势，专业人做专业事。</p>\n  <p><strong>硬氪：你们怎么看待当前的市场规模？</strong></p>\n  <p><strong>尹成厚：</strong>量子计算虽然处于产业萌芽期，但当前市场规模其实已经不小了。全球超导量子计算相关的稀释制冷机、测控系统、同轴线缆加起来，也有超百亿元的市场，而且未来十年复合增长率在30%-40%之间。我们研发的全栈式低温测控系统占整机成本的60-70%，市场空间是实打实的，潜力巨大。</p>\n  <p>更重要的是，我们以超导为切入点，底层的低温、真空、测控技术可以横向拓展到硅基、拓扑、离子阱、光量子等其他路线。不管最终哪条路线胜出，我们都能提供上游测控硬件，这个市场天花板足够高，支撑几十亿收入规模是完全没问题的。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>金雨茂物：</strong>全球超导量子计算正处于从“含噪声中等规模量子”（NISQ）向“早期容错量子计算”（FTQC）跨越的关键临界点，工程化大规模拓展是行业亟待攻克的核心壁垒。传统干法稀释制冷机搭配室温测控系统，在制冷量、布线空间、噪声控制方面存在显著局限，制约量子比特规模向上迭代。</p>\n  <p>量域芯创精准直击行业痛点，首创“湿法稀释制冷机+4K低温测控芯片+柔性同轴线缆”三位一体硬件架构，是兼具前瞻性与工程落地能力的破局方案。依托大冷量湿法制冷技术，结合4K温区Cryo‑CMOS芯片就地测控，从根源化解千至万级量子比特扩展的“布线墙”与热负载难题。</p>\n  <p>我们认为，作为超导量子赛道关键“卖铲人”，量域芯创的全栈硬件基座，能够显著缩短整机厂商研发周期、降低开发成本，有望推动全球超导量子计算加速迈向大规模商用。</p>",
+      "category": "tech",
+      "published_at": "2026-09-14T01:12:19+00:00",
+      "fetched_at": "2026-09-14T03:04:24.389050+00:00",
+      "fingerprint": "08359db4e07b5879"
+    },
+    {
+      "source": "少数派",
+      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+      "url": "https://sspai.com/post/113880",
+      "summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。<a href=\"https://sspai.com/post/113880\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-13T07:51:55+00:00",
+      "fetched_at": "2026-09-14T03:04:22.911935+00:00",
+      "fingerprint": "d9259b2a1e9a2fbe"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+      "url": "https://sspai.com/post/114539",
+      "summary": "<p>美国 AI 高管呼吁放缓研发，特朗普反对</p><p>苹果解释 Apple Watch 不会持续录音</p><p>LG 否认智能电视监控用户</p><p>暴雪公布《魔兽世界》怀旧服</p><p>儿童贴身使用笔记本电脑导致皮肤灼伤</p><p>Android 开始支持密码管理器迁移</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/114539\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-13T22:55:34+00:00",
+      "fetched_at": "2026-09-14T03:04:22.911925+00:00",
+      "fingerprint": "e35e3acfa5bd7955"
+    },
     {
       "source": "The Guardian - World",
       "title": "Six Nigerians extradited to US over $6m online romance scam",
@@ -1611,196 +1831,6 @@
       "published_at": null,
       "fetched_at": "2026-09-08T02:47:23.248632+00:00",
       "fingerprint": "7c627f5ba5305a18"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "category": "politics",
-      "published_at": "2026-09-06T20:52:12+00:00",
-      "fetched_at": "2026-09-07T02:34:28.959744+00:00",
-      "fingerprint": "802b3bc782a05eda"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-      "category": "politics",
-      "published_at": "2026-09-07T00:57:38+00:00",
-      "fetched_at": "2026-09-07T02:34:28.959732+00:00",
-      "fingerprint": "02d4bb0d362b6d85"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
-      "category": "politics",
-      "published_at": "2026-09-06T23:02:45+00:00",
-      "fetched_at": "2026-09-07T02:34:28.959722+00:00",
-      "fingerprint": "7a87cd6da87e6c20"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "不同版本的世界地圖有哪些正確及錯誤之處？",
-      "url": "https://www.bbc.com/zhongwen/articles/crm9k8pggjvo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "聯合國決計採用新的世界地圖來反映非洲的真實面積。但讓我們仔細看看不同版本的世界地圖有哪些正確和錯誤之處。",
-      "category": "politics",
-      "published_at": "2026-09-06T04:35:53+00:00",
-      "fetched_at": "2026-09-07T02:34:28.909375+00:00",
-      "fingerprint": "ab1df95ad7128ae3"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "女性「精神負擔」為何比男人大? 夫妻如何一同分擔？",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gl35zly2po/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "計劃、組織和記住家務活不成比例地落在母親身上——以下是一些幫助她們的技巧。",
-      "category": "politics",
-      "published_at": "2026-09-07T00:03:27+00:00",
-      "fetched_at": "2026-09-07T02:34:28.909369+00:00",
-      "fingerprint": "770e0eb6aeda878b"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "尼泊爾給水力發電押下重注，泥石流把問題徹底暴露",
-      "url": "https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一場喜馬拉雅山冰岩崩造成的泥石流，摧毀了尼泊爾超過10%的發電能力。",
-      "category": "politics",
-      "published_at": "2026-09-06T05:19:17+00:00",
-      "fetched_at": "2026-09-07T02:34:28.909355+00:00",
-      "fingerprint": "7b373c005b9c2307"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "歐洲國家接連提走北美黃金儲備所為何事",
-      "url": "https://www.bbc.com/zhongwen/articles/cwyzv9w5w6yo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "荷蘭已將86噸閃閃發亮的黃金儲備從美國遷移至其他地方，究竟發生了甚麼事？",
-      "category": "politics",
-      "published_at": "2026-09-07T00:03:22+00:00",
-      "fetched_at": "2026-09-07T02:34:28.909345+00:00",
-      "fingerprint": "51e0539ebe2d35bb"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The NX bit is not just about security",
-      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-07T02:34:28.603553+00:00",
-      "fingerprint": "f9d8b20d2b85d15f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-07T02:34:28.603426+00:00",
-      "fingerprint": "d0e645f9ae1a95ae"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-07T02:34:28.603278+00:00",
-      "fingerprint": "16cfe9c67e9a8fb2"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Ponytail: Lazy Senior Engineer Skill",
-      "url": "https://ponytail.dev/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-07T02:34:28.603116+00:00",
-      "fingerprint": "9e707c0fbcabf8c5"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-07T02:34:28.602962+00:00",
-      "fingerprint": "2cfe7e0a9cc6d3f8"
-    },
-    {
-      "source": "The Verge",
-      "title": "Boox’s tiny Picco e-reader should land in November",
-      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-      "summary": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-06T16:28:58+00:00",
-      "fetched_at": "2026-09-07T02:34:28.283736+00:00",
-      "fingerprint": "0d615389cf0d32f8"
-    },
-    {
-      "source": "The Verge",
-      "title": "Europe has its first commercial orbital rocket",
-      "url": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-      "summary": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time the company managed to get the two-stage Spectrum into low Earth orbit from a Norwegian spaceport. [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-06T19:04:22+00:00",
-      "fetched_at": "2026-09-07T02:34:28.283731+00:00",
-      "fingerprint": "0e5a7a74ebb7a10c"
-    },
-    {
-      "source": "The Verge",
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-06T20:56:38+00:00",
-      "fetched_at": "2026-09-07T02:34:28.283724+00:00",
-      "fingerprint": "0f88b0f3ab8277ee"
-    },
-    {
-      "source": "The Verge",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-06T23:36:04+00:00",
-      "fetched_at": "2026-09-07T02:34:28.283715+00:00",
-      "fingerprint": "d5c736f2ff6288d2"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨耐克将被移出标普100指数；iPhone折叠版定价或14999元起；财政部将发行特别国债，支持8家中央金融企业补充资本",
-      "url": "https://36kr.com/p/3972584225747209?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>Kimi、MiniMax即将在天猫开店</li>\n   <li>lululemon股价“腰斩”，超23亿美元市值蒸发</li>\n   <li>紫金矿业就财报文字错误致歉</li>\n   <li>泡泡玛特王宁到访LVMH集团总部，集团掌门人率家族成员接待</li>\n   <li>“国家反诈AI”APP上线</li>\n   <li>特斯拉Robotaxi下月或实现全天候运营</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>市值大幅缩水，耐克将被移出标普100指数</strong></p>\n  <p>近日标普道琼斯指数公司将耐克（NKE.N）剔出标普100指数。本次调整将于9月21日美股开盘前正式生效，这也是耐克历史上第一次离开该大盘旗舰指数名单。</p>\n  <p>回溯过去五年，耐克股价自2021年创下历史高点之后开始持续下行，截至本次指数调整消息落地，从历史最高点算起股价五年累计跌幅约79%，公司总市值蒸发超2200亿美元。近期耐克股票交易价格回落至38至40美元区间，创下近12年来的价格新低，曾经市值稳居数千亿美元的行业龙头，市值规模出现断崖式回落。（财联社）</p>\n  <p><strong>运营商晒iPhone 18售价，折叠版预计14999元起</strong></p>\n  <p>9月5日，海外运营商沃达丰泄露定价数据，iPhone 18系列涨幅约10%远低于此前传闻的大幅抬价，Pro版美版起售价仅涨约100美元，首款折叠屏iPhone Ultra美版约1999-2099美元，测算国行预计Pro版9999元起、折叠版14999元起。（快科技）</p>\n  <p><strong>财政部将发行特别国债，支持8家中央金融企业补充资本</strong></p>\n  <p>财政部将于近期发行3000亿元特别国债，支持8家中央金融企业补充核心一级资本。当日，工商银行、农业银行、进出口银行、中国信保、中国人保、中国人寿集团、中国太平、中国再保等8家中央金融企业分别发布了增资计划。业内人士表示，此次财政部对8家中央金融企业增资，属于“未雨绸缪”的前瞻性安排，是支持中央金融企业高质量发展、助力宏观经济行稳致远的主动作为。</p>\n  <p>保险方面，财政部向中国人寿保险（集团）公司注资350亿元，向中国人保定向增发募集不超过150亿元，向中国太平注资70亿元，三家合计570亿元。此次注资将有效增强保险机构的风险抵御能力，推动偿付能力等关键指标稳健提升，夯实长期可持续发展根基。</p>\n  <p>银行方面，工商银行拟募资不超过1000亿元，其中财政部认购700亿元，中国烟草及其关联企业认购300亿元；农业银行拟募资不超过1600亿元，其中财政部认购1300亿元，中国烟草、地方烟草及双维投资等认购300亿元。两家银行募集资金在扣除发行费用后，将全部用于补充核心一级资本。（财联社）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI称需要扩大对齐失范事件的披露范围</strong></p>\n  <p>OpenAI：针对模型能力发展的新阶段，我们需要扩大对齐失范事件的披露范围。目前，我们以及更广泛的人工智能行业，尚未建立明确标准，用以报告在训练、评估以及部署阶段出现的对齐失范问题。其中既包含不属于传统安全事件，但有助于理解人工智能行为、预判未来风险的各类案例。我们正在搭建一套相关框架，将在未来数周对外公布；与此同时，我们正就上述问题与全球数十家政府监管机构开展协作。（新浪财经）</p>\n  <p><strong>Kimi、MiniMax即将在天猫开店</strong></p>\n  <p>智谱电商平台首店落地天猫后，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售Token订阅套餐产品。（上证报）</p>\n  <p><strong>Anthropic预计9月底才公布招股说明书</strong></p>\n  <p>媒体引知情人士报道，Anthropic预计将在美国11月中期选举开始前的几天完成上市。报道称，两名知情人士透露，招股说明书预计要到9月底才会公布，而不是按照此前时间表最早于下周发布。知情人士还表示，包括上市时间在内的相关计划仍可能发生变化。（新浪财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>玛莎拉蒂回应被曝与华为合作：不对市场传闻或猜测发表评论</strong></p>\n  <p>日前，据媒体报道，Stellantis集团正就旗下豪华品牌玛莎拉蒂与华为、江淮汽车开展长期产业合作谈判。9月4日，另有媒体报道称，双方已进入深度磋商阶段，计划将华为鸿蒙智行平台应用于玛莎拉蒂车型，目标是2027年底推出首款联合开发的量产车。报道还提及合作模式或将采用双品牌策略：该车型在中国市场以尊界豪华品牌销售，面向全球市场则挂玛莎拉蒂车标。</p>\n  <p>9月5日，Stellantis集团亚太区执委会成员、传播副总裁王超回应：“作为正常业务运营的一部分，Stellantis集团持续与全球行业伙伴就不同议题保持沟通与交流，始终致力于为客户提供最佳的出行解决方案。我们不对市场传闻或猜测发表评论。正如此前所宣布的，玛莎拉蒂品牌的未来战略及发展规划将于今年12月在意大利摩德纳（Modena）举办的投资者日活动上正式公布。在此之前，我们不对任何相关市场传闻或猜测作进一步评论。”（每日经济新闻）</p>\n  <p><strong>lululemon股价“腰斩”，超23亿美元市值蒸发</strong></p>\n  <p>9月4日美股lululemon股价跌17.38%，创八年多来新低，超23亿美元市值蒸发。今年以来，该股累计跌幅已超52%。此前一天，lululemon发布2026财年第二季度财报，在第二季度，公司全球净营收为24.16亿美元，同比下降约4%；按固定汇率口径下降5%。净利润为3.29亿美元，低于去年同期的3.709亿美元。</p>\n  <p>这3.29亿美元净利润里藏着一笔意外之财——当季公司确认了1.345亿美元的IEEPA关税退款及410万美元相关利息，为每股收益贡献了约0.86美元。剔除这笔一次性收益后，调整后EPS约为2.06美元，同比实际降幅超过三成。（每日经济新闻）</p>\n  <p><strong>紫金矿业就财报文字错误致歉</strong></p>\n  <p>近日，紫金矿业（HK2899）2026年半年度中被发现多处基础性文字错误引发热议。</p>\n  <p>9月5日，紫金矿业（HK2899）发布《关于定期报告财务报表附注部分相关文字错误的更正公告》。公告称，经核查，上述错误不涉及定期报告中的财务数据、会计科目及经营指标，不会对公司已披露各期定期报告的真实性、准确性、完整性产生实质影响。紫金矿业（HK2899）表示，“公司谨向投资者和相关单位致以诚挚歉意。后续，公司将进一步完善内部信息披露管理制度，严格校核审批流程，同时加强与年审会计师事务所的沟通协调，避免此类问题再次发生。”（新浪财经）</p>\n  <p><strong>泡泡玛特王宁到访LVMH集团总部，集团掌门人率家族成员接待</strong></p>\n  <p>据新浪科技消息，近日，泡泡玛特创始人王宁和LVMH集团主席兼CEO Bernard Arnault（贝尔纳·阿尔诺）在法国巴黎LVMH集团总部会面，这也是二人首次会面，王宁还现场赠送阿尔诺一只拉布布。据悉，王宁现场赠送阿尔诺的是MEGA LABUBU 十周年纪念款，属于全球限定发售款式。据了解，一同参与会面的还有LVMH集团大公主、迪奥Dior首席执行官Delphine Arnault（德尔菲娜·阿尔诺）以及LVMH集团核心高管、LV全球CEO Pietro Beccari（皮埃特罗·贝卡里）。（新浪科技）</p>\n  <p><strong>多国推进黄金储备本土化布局</strong></p>\n  <p>全球多国都在加快调整黄金储备存放布局，降低对欧美单一托管体系的依赖。自2013年起，多国陆续启动海外黄金储备回迁。世界黄金协会2026年央行黄金储备调查显示，过去12个月里，19%的央行提高了国内黄金储备比例，或者把储备地点做了多元化配置，一年前这个比例只有7%，寄存于纽约、伦敦金库的央行数量持续减少。（CCTV国际时讯）</p>\n  <p><strong>问界回应“预制车”传闻：纯属谣言，已报案</strong></p>\n  <p>针对近期网络上有关问界M6某车型为“预制车”、“穿越车”的传闻，问界汽车发文表示，通过对车辆识别代号核实查证，该车辆的实际制造年月为“2026-7”，相关自媒体账号所发布或转载的车辆铭牌信息系经过P图或AI修改生成的虚假信息，由此而产生的公司生产“预制车”“穿越车”的说法纯属谣言。该公司表示，网络不是法外之地，目前其已保留证据并向公安机关报案。（财联社）</p>\n  <p><strong>A股再现主动退市，多元化退市格局持续完善</strong></p>\n  <p>2026年，A股主动退市已现三起案例。从年初德邦股份成为年内首家主动退市公司，到瓦轴B因控股股东发起全面要约收购而私有化退市，再到8月底“彩电第一股”*ST康佳A拟以股东会决议方式主动撤回A股和B股上市，主动退市成为这些上市公司“不约而同”的选择。“主动退市在法律上是一种止损策略。”广东华誉品智律师事务所郭嗣彦律师对记者表示，对于*ST康佳A这类困境企业，主动退市可为公司保留更多自主权，为后续资产重组或引入战略投资者创造更灵活的空间。（上证报）</p>\n  <p><strong>国内首款AI辅助创新药获批上市</strong></p>\n  <p>据西湖大学消息，由西湖大学、西湖实验室、西湖制药联合研发的创新药——盐酸伊司特韦片（商品名：艾普司韦）近期正式获得国家药品监督管理局附条件批准上市。这是西湖大学首款完全自主研发的1类创新药，用于成人轻型、中型新型冠状病毒感染的治疗。1类创新药是中国药品注册分类中的最高级别，代表从0到1的源头创新，其核心在于拥有全新的化学结构、全新的作用机制，且具备明确的临床价值。（财联社）</p>\n  <p><strong>就业超预期引爆加息恐慌，比特币失守8万</strong></p>\n  <p>据Woofun AI消息，周五美国公布的就业数据大幅超越市场预期，直接触发市场对美联储维持紧缩政策的担忧，Bitcoin价格随即跌破80,000美元关口。宏观流动性收紧预期迅速传导至衍生品市场。9月加息25基点的概率由52%跃升至59%。Woofun AI整理数据显示，2年期美国财政部债券收益率飙升7.6个基点，10年期与30年期分别上行3.2个基点和1个基点；美元指数（DXY）上涨0.3%至99.3点。高收益率提升了美元资产吸引力，而强势美元则加剧了加密资产的融资成本，形成双重压制。（新浪财经）</p>\n  <p><strong>“国家反诈AI”APP上线</strong></p>\n  <p>为进一步提升防范电信网络诈骗工作的信息化、智能化水平，帮助群众有效识诈防诈，近日，公安部刑侦局指导，上海市公安局自主研发的“国家反诈AI”APP正式上线。 “国家反诈AI”APP融合了大语言、多模态模型和智能体技术，用户通过手机输入可疑场景，该APP即可完成风险研判、识别诈骗套路、推送典型案例，从“文字+语音+视频”等多个维度拆解诈骗手法，提供识别防范对策。（新华社）</p>\n  <p><strong>特斯拉股价重挫近6%，市值一夜蒸发近6000亿元</strong></p>\n  <p>截至9月4日（周五）美股收盘，特斯拉股价大幅收跌，报354.08美元/股，跌幅达5.92%，盘中最大跌幅超6%，收盘市值13985亿美元，较上一个交易日蒸发约880.5亿美元（约合人民币5909亿元）。消息面上，美东时间周四，Cybercab（赛博无人驾驶电动车）正式在美国奥斯汀投入运营，而在美国得克萨斯州奥斯汀举行的Cybercab活动上，由于披露的新信息有限，未能满足投资者预期。这场活动仅限受邀者参加，没有现场直播，首席执行官马斯克也未现身。此外，美国国家公路交通安全管理局（NHTSA）当天对约1000辆Cybercab展开监管审查，重点审查特斯拉用于证明车辆符合联邦机动车安全标准的流程及技术数据。（每日经济新闻）</p>\n  <p><strong>韩国今年累计出口额7094亿美元破纪录</strong></p>\n  <p>韩国关税厅最新统计显示，截至9月5日下午1时，韩国今年累计出口额为7094亿美元，超过去年全年的7093亿美元历史最高纪录。据韩国方面消息称，今年尽管面临中东局势等严峻外部环境，但在半导体带动下，韩国主要出口品类保持增长。今年前8个月，韩国半导体出口额为2812亿美元，同比增长169.6%。半导体在整体出口中所占比重达到40.6%。（证券时报）</p>\n  <h2>投融资</h2>\n  <p><strong>AI初创公司Gimlet完成3亿美元融资</strong></p>\n  <p>AI初创公司Gimlet完成3亿美元融资，由Andreessen Horowitz领投，估值达30亿美元。���财联社）</p>\n  <h2>酷产品</h2>\n  <p><strong>特斯拉Robotaxi下月或实现全天候运营</strong></p>\n  <p>9月6日消息，特斯拉AI负责人Ashok Elluswamy日前在社媒平台X称，特斯拉Robotaxi自动驾驶无人出租车距离“实现24小时全天候运营”已经不远。他表示，待“v15计划中的下一项技术”完成整合后，24小时全天候运营将在“下个月左右”上线。 目前特斯拉Robotaxi服务在美国已实现每周7天运营，运营时间为每天6时至22时，覆盖奥斯汀、达拉斯、休斯敦、迈阿密、奥兰多和坦帕等城市。（新浪财经）</p>\n  <p><strong>整理</strong>｜何雨婷</p>",
-      "category": "tech",
-      "published_at": "2026-09-07T00:01:50+00:00",
-      "fetched_at": "2026-09-07T02:34:28.088435+00:00",
-      "fingerprint": "573d54d243bb7552"
-    },
-    {
-      "source": "少数派",
-      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
-      "url": "https://sspai.com/post/114076",
-      "summary": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...<a href=\"https://sspai.com/post/114076\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-06T07:00:00+00:00",
-      "fetched_at": "2026-09-07T02:34:26.487643+00:00",
-      "fingerprint": "720a9bf308d81129"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-      "url": "https://sspai.com/post/114250",
-      "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。<a href=\"https://sspai.com/post/114250\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-07T00:20:41+00:00",
-      "fetched_at": "2026-09-07T02:34:26.487632+00:00",
-      "fingerprint": "05b204b04a3f3653"
     }
   ]
 }
