@@ -1,7 +1,277 @@
 {
-  "updated_at": "2026-09-22T03:01:10.183642+00:00",
-  "count": 224,
+  "updated_at": "2026-09-23T03:01:21.313122+00:00",
+  "count": 222,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "How Ceuta, football and Israel are shaping Morocco's election",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "category": "politics",
+      "published_at": "2026-09-22T20:59:00+00:00",
+      "fetched_at": "2026-09-23T03:01:21.168213+00:00",
+      "fingerprint": "a0d4c8b969aca2a6"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "category": "politics",
+      "published_at": "2026-09-22T21:36:55+00:00",
+      "fetched_at": "2026-09-23T03:01:21.168209+00:00",
+      "fingerprint": "9474722a1fbe0050"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+      "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+      "category": "politics",
+      "published_at": "2026-09-22T06:03:22+00:00",
+      "fetched_at": "2026-09-23T03:01:21.168203+00:00",
+      "fingerprint": "b1866916a2584832"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "category": "politics",
+      "published_at": "2026-09-23T02:57:00+00:00",
+      "fetched_at": "2026-09-23T03:01:21.168195+00:00",
+      "fingerprint": "d5298c203a11d4d7"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "外星生命會讓我們生病嗎？太空微生物帶來哪些風險",
+      "url": "https://www.bbc.com/zhongwen/articles/crq5xp9n7gv2o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "數十年來，我們一直在尋找地球以外的生命。然而，如果我們發現的是微生物，就必須確保它們不會令我們染病。",
+      "category": "politics",
+      "published_at": "2026-09-23T00:29:19+00:00",
+      "fetched_at": "2026-09-23T03:01:21.077850+00:00",
+      "fingerprint": "9bbfe3670ade601d"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「雙休購」爆紅與下架：一個網購平台如何撬動勞工權益討論",
+      "url": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "提倡雙休的民間自發平台「雙休購」曇花一現後快速被下架，中國打工人開始在社交媒體上要求雙休正當權利。學者指這樣的消費抵制是正向的發展。",
+      "category": "politics",
+      "published_at": "2026-09-22T10:03:59+00:00",
+      "fetched_at": "2026-09-23T03:01:21.077841+00:00",
+      "fingerprint": "b8c19d3c8d4b1f42"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "習近平訪美的「僵局控管」：中美如何枱上握手、枱下算計？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckp84p0pzydgo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "專家分析，美中兩國各自想要的東西不同，其中習近平更想要時間，「他一邊想盡可能獲得美國技術和市場，一邊積極降低對美國的依賴性。在這個情況下，中美彼此交易但沒有互信，追求和穩不求和解。」",
+      "category": "politics",
+      "published_at": "2026-09-23T00:29:23+00:00",
+      "fetched_at": "2026-09-23T03:01:21.077826+00:00",
+      "fingerprint": "a1e97597c0be3581"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-23T03:01:20.858721+00:00",
+      "fingerprint": "5783fcfac469d0c9"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-23T03:01:20.858642+00:00",
+      "fingerprint": "1bc897209ba05336"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-23T03:01:20.858545+00:00",
+      "fingerprint": "d3d216ac01163a70"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-23T03:01:20.858455+00:00",
+      "fingerprint": "0dd3bed5c7dd1c27"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-23T03:01:20.858333+00:00",
+      "fingerprint": "608eb672ebb7d160"
+    },
+    {
+      "source": "The Verge",
+      "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+      "url": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "summary": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when a Saudi startup called Ceer unveiled a pair of hyper-angular, spaceship-like EVs, with plans to [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-22T20:14:54+00:00",
+      "fetched_at": "2026-09-23T03:01:20.769103+00:00",
+      "fingerprint": "f63cc9a7e2c10b1d"
+    },
+    {
+      "source": "The Verge",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-22T20:52:40+00:00",
+      "fetched_at": "2026-09-23T03:01:20.769098+00:00",
+      "fingerprint": "b55c6cd1054ed866"
+    },
+    {
+      "source": "The Verge",
+      "title": "Paramount will need to release way more movies to make this merger work",
+      "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+      "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-22T22:26:07+00:00",
+      "fetched_at": "2026-09-23T03:01:20.769093+00:00",
+      "fingerprint": "d61a616bfa3150ff"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-23T00:17:17+00:00",
+      "fetched_at": "2026-09-23T03:01:20.769084+00:00",
+      "fingerprint": "a86391fe9862bd89"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "url": "https://36kr.com/p/3994316084214534?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_095a79a0b8f84838987f5d6050deaf66@6301044_oswg370065oswg1125oswg633_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>2026年，出海的关键词正在从“增量”转向“经营”，企业关注的重点也从抢占机会，转向本地团队、供应链、渠道、品牌与合规等一整套长期能力的建设。36氪以“潮起之时，靠岸相见”为主题举办2026 East Forward出海大会，邀请来自消费、科技、制造等不同领域的出海企业，以及投资机构与全球化服务商，共同讨论企业走出去之后，如何在复杂多变的全球市场中建立更稳固的经营能力，找到长期经营与增长的路径。</p>\n  <p>2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。</p>\n  <p>过去几年，汽车、新能源、跨境电商、AI应用……越来越多中国企业进入全球市场。然而，一次市场突破、一轮业绩增长，并不意味着全球化已经完成。当出海从试水走向常态，真正的挑战也开始从“怎么出去”，转向“怎么留下来”。规则与市场环境持续变化，供应链、渠道和本地团队需要重新搭建，品牌也要面对不同文化和消费习惯的考验。过去行业反复讨论“要不要出海”，今天更需要回答的是：走出去之后，企业能不能活下来、扎下去、稳定经营，并最终形成自己的全球竞争力。</p>\n  <p>9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward出海大会在上海举行。来自新能源汽车、跨境电商、AI与智能硬件、内容出海、消费电子及新消费品牌等领域的企业，与投资机构及物流、金融、营销、人力、并购等全球化服务商汇聚现场，从共同面对的经营难题，到不同产业各自的出海路径，一起讨论中国企业全球化的下一程，如何走得更稳、更深，也更远。大会开场，36氪副总裁谢作强开幕致辞中提到，出海对于中国企业并不陌生，传统意义上的“出海卖货”，中国企业早在过去几十年就已经能够成熟应对，当下真正的难题是——品牌能否在海外立得住，账在当下能否算得清、经营能否应对各种治理、合规挑战。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_56e8bb093cda440daeba2e877b655020@6301044_oswg488179oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪副总裁谢作强开幕致辞</p>\n  <h2><strong>从“走出去”到“活下来”，出海进入长期经营</strong></h2>\n  <p>企业真正进入海外市场之后，最先遇到的一道必答难题往往不是增长，而是经营。</p>\n  <p>长江商学院战略学教授、副院长滕斌圣“从走出去到活下来”为题的演讲，将中国企业出海放在“全球化2.0”的变化中重新审视。过去相对稳定的全球产业链正在转向更加复杂的网状结构，企业不能仅是产品出海，还需找准定位，在贸易壁垒与地缘政治之下分散风险，并围绕自身特点，在进入路径、核心竞争力、本地生态、创新能力和合规方面建立长期经营能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_8c3bf806b0354b11a31888459659fb22@6301044_oswg547519oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">长江商学院战略学教授、副院长滕斌圣 “走出去到活下来”主题演讲</p>\n  <p>这一问题也延伸到“从出口到扎根”的圆桌讨论中。产品能卖出去，不代表真正进入市场一一如何理解当地用户、建立本地供应链、形成品牌认知、管理跨区域团队，才是企业进入海外之后绕不开的课题。邓白氏中国区产品和解决方案总监、出海业务负责人谢惠淇提到，企业出海时容易低估当地市场的变化速度，团队初具规模时可以跟踪客户信息，但随着规模扩大，分散在各部门的销售、财务、售后信息缺少整合，就开始造成经营错判与资源错配。从目标市场选择、合作伙伴识别，到客户信用、账期和回款风险管理，企业需要建立持续更新、可信的商业数据而非仰仗个人判断。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_a73ada05aba54c46afad92fbb9dc6ae5@6301044_oswg74278oswg1080oswg498_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">邓白氏出海业务负责人谢惠淇在“从出口到扎根：中国企业如何完成海外本地化？”圆桌会议上发言</p>\n  <p>随着企业经营逐渐成熟，市场和渠道不断增加，AI正在成为商业体系中的新入口。Shopify亚洲商务负责人Vivey Wan围绕AI如何改变消费者发现商品和完成购买的方式展开分享。她提到，从电子商务走向移动商务用了约15年，从移动商务到社交电商用了9年，而从“社交电商走向今天的智能体代理商务，可能只用了7年”。渠道迭代正在明显加速，出海企业需要更快适应新的消费入口。对商家而言，AI并不是对传统搜索的简单替代，而是在广告、搜索、邮件之外增加新的触达和交易渠道，Shopify现在所做的一切，实际上都是，如何让你的品牌在AI渠道里更容易被发现、被理解、被信任、被购买。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_ed19dfffdc7a489b89fdeea302b3e5d9@6301044_oswg530438oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Shopify亚洲商务负责人Vivey Wan “AI成为商业新入口，构建面向未来的全球增长底座”主题演讲</p>\n  <p>然而，同样是AI赋能，时下流行的内容出海面临另一套问题。掌阅科技CEO孙凯围绕“AI短剧出海”分享内容产品进入全球市场的新变化。过去三个月，AI短剧平均制作成本下降75%，供给量在半年内增长约300%。但生产门槛与效率降低并不意味着创作者普遍受益，爆款和利润反而进一步向优质内容集中。孙凯认为，AI短剧不是传统短剧的简单分支，国内内容也不能依靠翻译直接复制出海，决定内容能否能跑通的，依然是IP、故事能力以及对不同市场付费习惯和内容需求的把握：“2026年的短剧，恰如2016年的短视频：市场空间才刚刚打开。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_cde8aa4f3a4a49b58051b8df9504359a@6301044_oswg635889oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">掌阅科技CEO孙凯 “掌阅·AI短剧出海”主题演讲</p>\n  <p>从市场认知到数字入口，从经营底座到内容本地化，出海真正进入深处之后，需要补上的能力远比“把东西卖出去”更多。在关于“品牌全球化”的圆桌上，来自阿里云、Ocean Stone以及小满科技的嘉宾也将问题进一步落到长期增长：一次爆款、一个渠道甚至一个市场的成功，都不能直接等同于全球化。企业还需要把品牌、客户、数据与经营系统真正连接起来，将核心判断掌握在自己手中，同时借助外部生态补齐能力。进入AI时代，重复性工作可以更多交给工具，但人的认知、判断与审美反而变得更加重要。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_f5c514fba4fe4802ad896d14f07ad933@6301044_oswg946875oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“品牌全球化：如何构建长期增长能力？”圆桌</p>\n  <h2><strong>不同赛道，不同打法：全球化开始比经营能力</strong></h2>\n  <p>共性问题之外，不同行业也正在形成各自的全球化路径。</p>\n  <p>对于已经建立制造和规模优势的企业，下一步不再只是增加出口量，而是如何真正融入本地经营。在“从3000万到世界一流：长安汽车如何把速度转化为全球信任”主题演讲中，长安汽车分享自身如何从产品贸易走向制造、投资、服务与品牌协同的全球经营模式，产品也从“全球同步”进一步转向“全球原生、区域定制”，通过本地团队、服务网络和合作生态真正进入不同市场。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_6312c5efc7e7490b894fc8121667ecdb@6301044_oswg579862oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">长安汽车海外品牌公关总监Peter Larko “从3000万到世界一流：长安汽车如何把速度转化为全球信任”主题演讲</p>\n  <p>许多成熟的出海企业，面对增长问题也开始从单点突破转向系统构建。在关于“AI如何重塑商业”的圆桌中，与会嘉宾围绕全球市场复杂度、企业内部数据协同，以及AI能力如何真正进入经营体系展开讨论。Shopify资深解决方案工程师梁妍将重点落在全球经营的统一底座上。她提到，企业进入更多市场后，首先要找到统一的数据源，把商品、库存、渠道和区域运营真正连接起来；进入AI时代后，还需要进一步打通不同AI渠道，让商品能够被AI理解、发现和转化。AI规模化也不是简单增加工具，而是先把“发现问题—判断—行动—复盘”的完整链路跑通，再复制到更多市场和团队中。通过Shopify，商家可以在同一平台上管理一套产品、运营一个覆盖不同国家和市场的独立站，同时借助平台已打通的AI渠道，免去逐一对接、部署和维护的繁琐工作，从而更高效地拓展全球市场、抢占出海先机。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_52942a3557324df29804f0509488f7f6@6301044_oswg706750oswg1080oswg718_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“AI重塑全球商业，品牌如何建立面向未来的增长优势”圆桌</p>\n  <p>AI正在快速改变内容出海的生产和分发方式。在关于“速度与人心”的圆桌中，来自昆仑万维、柠萌国际、41财经的企业嘉宾将讨论进一步落到内容效率之外：当AI让生产、测试和本地化的成本不断下降，内容供给越来越充足，真正稀缺的反而是对“什么是好内容”的判断，以及对不同市场文化、情绪和用户需求的理解。AI可以放大效率，但从选题、故事到本土化表达，最终决定内容能否打动用户的，仍然是人的判断与市场洞察。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_de12caadb79c4b40a395bd50871ce7a5@6301044_oswg862842oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“速度与人心：AI让内容无限生成，‘打动人心’归谁管”圆桌</p>\n  <p>当企业越走越远，资本和服务体系的作用也在发生变化。在“产业资本的新航线”圆桌上，来自赛文思、九阳产业基金、PMI（项目管理协会）中国及连连支付的嘉宾，围绕“钱应该花在哪里”展开讨论。相比过去更看重流量和短期转化，企业开始把更多预算投入本地化、品牌建设、组织能力、合规与风险管理。资本的价值也不再只是提供资金，而是帮助企业降低判断和试错成本，并连接渠道、供应链与专业服务等长期资源。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_593764a67ff34c168eef2f762234ec19@6301044_oswg945867oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">“产业资本的新航线：出海下半场，钱该投向哪里”圆桌</p>\n  <p>不同赛道有不同打法，但背后的判断正在趋于一致：全球化已经越来越难依靠一个单点优势取胜。产品可以帮助企业打开市场，而真正决定企业能否长期留下来的，是能不能持续把产品、组织、供应链和市场连接起来。</p>\n  <h2><strong>从“走出去”到“走下去”，出海需要更多后方能力</strong></h2>\n  <p>当全球化从一次增长机会变成长期经营，出海也不再只是品牌自己的事情。</p>\n  <p>大会同期发布了East Forward·出海全球化领航企业、East Forward·出海全球化拓新企业及East Forward·出海全球化筑路企业三份名册，从已经形成全球化能力的企业、持续开拓新市场的企业，到支撑全球经营的服务生态，记录中国企业全球化进程中的不同参与者。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_cb53b4b5925a46ca84be9962200ff33b@6301044_oswg1045579oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_24988d214ac5434b8a72a83915debae4@6301044_oswg1014888oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_f9ad444fadcb49d9b6f45a143d91e35e@6301044_oswg974687oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">大会同期发布East Forward名册</p>\n  <p>这背后也是一项明显的变化：今天谈论出海，已经很难只关注站在最前面的品牌。支付、物流、合规、技术、营销、金融、人力和专业服务，共同决定一家企业进入新市场之后能不能顺利运行。</p>\n  <p>主论坛之外，East Forward出海资源对接会进一步把讨论从“怎么看”推进到“怎么办”。本次对接会共28家企业参与洽谈，品牌方、服务机构和产业资源围绕真实业务需求与经营心得展开交流与直接匹配。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_d7057018aaf4439a86b9d8ff7aed63dc@6301044_oswg1037442oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">潮起之时，靠岸相见——East Forward出海资源对接会</p>\n  <p>相比继续寻找下一个所谓的出海风口，对接会更关注企业已经发生的具体问题：进入市场后哪里卡住了、缺少什么资源、谁能够真正帮助解决。品牌方、服务机构和产业资源在更直接的场景中完成匹配，让大会上的讨论进一步回到真实业务。</p>\n  <p>从分享经验，到解决问题，“靠岸”的价值也正在这里变得具体。</p>\n  <h2><strong>潮起之后，全球化进入长期经营</strong></h2>\n  <p>一天的讨论下来，一个变化越来越清晰：中国企业全球化面对的问题，已经不再只是“怎样走出去”，而是“怎样一直走下去”。</p>\n  <p>当企业真正进入不同市场，很多过去可以分开解决的问题开始交织在一起。产品、品牌、供应链、技术、合规与组织能力互相影响，一个环节的短板，都可能改变整个海外业务的结果。全球化因此也越来越难用一个数字衡量。</p>\n  <p>出口量、GMV和海外收入仍然重要，但真正决定一家企业全球化成色的，是它能不能理解不同市场、建立本地组织、应对规则变化，并把一次成功转化为可以持续复制的能力。这或许也是中国企业出海进入下一阶段之后最重要的变化：全球化正在从一次向外扩张，变成企业自身能力的一次重新建设。</p>\n  <p>“潮起之时，靠岸相见”。36氪也将继续走进中国企业全球化发生的现场，记录企业如何在不同市场建立新的能力，连接品牌、产业、资本与全球化服务生态，让已经走出去的人分享经验，也让正在寻找方向的人，更快找到下一程的答案。</p>",
+      "category": "tech",
+      "published_at": "2026-09-22T08:33:06+00:00",
+      "fetched_at": "2026-09-23T03:01:20.689244+00:00",
+      "fingerprint": "8e5c2dc2d810c44e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪研究院 | 2026年中国AI Agent行业发展研究报告",
+      "url": "https://36kr.com/p/3993945763314432?f=rss",
+      "summary": "<p>当前，中国人工智能产业正站在从大模型能力跃迁到智能体规模落地的关键节点上。随着基础模型在多模态理解、长上下文推理与工具调用等能力上持续成熟，AI的价值重心正在从“理解与对话”转向“决策与执行”。对企业而言，数字化转型走向纵深，不再满足于单点工具提效，而是要求AI打通跨系统业务链路、替代人工完成标准化多步骤工作，真正嵌入生产流程；对个人而言，数字生活场景日益丰富，用户也不再满足于信息检索式的问答，而是期待AI能够代办日程、整合信息、处理事务，成为随叫随到的智能助手。两股需求共同指向同一种新的智能形态——AI&nbsp;Agent：它以大模型为决策大脑，集成环境感知、长期记忆、规划推理与工具调用能力，能够在少人工干预下自主理解目标、拆解任务、调用工具并交付结果，标志着AI从响应信息向自主执行的关键跃迁。</p>\n  <h2><strong>01.AI Agent 进入生产力验证与商业化放量的早期阶段</strong></h2>\n  <p>中国AI Agent市场已从概念验证迈向生产力验证，企业通用Agent率先进入商业化落地阶段，行业垂直Agent加速从试点走向规模化，个人消费Agent快速探索，端侧与具身Agent则处于生态布局和早期验证阶段。据CIDC数据，2025年中国企业级AI Agent市场规模已达212亿元，预计2029年将达到3,320亿元，产业整体仍处于早期，但商业化扩张速度明显加快。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_3a729dc39e96445f8086e9f981b2d5e7@12547972_oswg30740oswg1095oswg496_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>02.Agent产业价值由模型能力向任务执行与结果交付迁移</strong></h2>\n  <p>基础模型能力持续提升、推理成本下降，大模型正从相对稀缺的智能资源逐步转变为可调用、可组合的通用能力，产业竞争重点也由参数规模和模型性能逐步转向任务完成能力、业务适配能力和单位任务成本。Agent真正创造的价值，不再是提供更好的回答，而是持续调用工具、连接系统并最终完成任务、交付结果。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_fc6774689bfd4cf1b0a6baf626bb7927@12547972_oswg67399oswg1103oswg542_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>03.企业级Agent正在从应用构建工具升级为智能基础设施</strong></h2>\n  <p>随着Agent进入真实业务环境，企业需求已由快速搭建一个Agent转向对开发、评测、部署、运行、监控和持续优化的全生命周期管理，Agent平台正在由单纯的应用开发工具升级为企业级智能基础设施。同时，Agent与Workflow开始形成协同架构，连接、可观测、权限和安全治理逐渐成为规模化落地的关键能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_4cd8807fafeb42e9bfdfab40db130466@12547972_oswg44700oswg1083oswg445_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_4b251e362a5c4331bb8973e8a4d37dbf@12547972_oswg39142oswg1113oswg334_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>本报告重点研究问题如下：</strong></p>\n  <ul>\n   <li>推动AI Agent行业发展的核心驱动力主要包括哪些？</li>\n   <li>AI Agent行业发展现状是怎样的？当前处于哪一发展阶段？</li>\n   <li>AI Agent产业链上、中、下游分别由哪些环节构成？各环节有哪些最新发展动态？</li>\n   <li>AI Agent市场有哪些主要参与主体？各类主体分别具备哪些竞争优势？</li>\n   <li>AI Agent行业有哪些代表性企业？其发展路径对行业同类企业有何借鉴意义？</li>\n   <li>未来三到五年，AI Agent行业将呈现哪些技术、产品、生态、治理等哪些发展趋势？</li>\n  </ul>\n  <p>更多精彩内容，详见《2026年中国AI Agent行业发展研究报告》，点击<a href=\"https://pan.baidu.com/s/1axYViiioKzaz2Xm0utXEqw?pwd=wj7f\" rel=\"noopener noreferrer\" target=\"_blank\">下载链接</a>，提取码：wj7f</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_57281b0c1c9d44708c453128f4cfdfe8@12547972_oswg1179620oswg794oswg1123_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_094c286270fb4fd393821235a768b1e4@12547972_oswg110651oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_efa7fac54ec6436fb9fec0e17b868ac3@12547972_oswg48042oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_1e789163dcf24470868e8fb90c108d03@12547972_oswg47300oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_b346ccd7ea93437e93d6a71becd8b3e8@12547972_oswg110444oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_828ce03e5c8f42718cd63d118a3170f1@12547972_oswg93573oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_dffc702ac1d647a69def24d385dbb697@12547972_oswg119378oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_8cabd05a62d143cf9b12f7c7455f7cfe@12547972_oswg120980oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_90aba8a908194b9abae6da465610bbe5@12547972_oswg123219oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_91a50bd10b56463c885dcf63e11bc79e@12547972_oswg92706oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_bc22eb0fb6c3493aac0a1ce5d676fa4f@12547972_oswg96283oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_f2487ab6d88f49bfbd488620b02019ff@12547972_oswg50386oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_3122d711be2440679e169ccb299e86b5@12547972_oswg282199oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_40fe10a0af124aedb6db9c2c919edee5@12547972_oswg115461oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_9e57e12cd25b4218a81da2d9b848c84c@12547972_oswg109756oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_0471bbd60a7d4e2081a934d72fa7f732@12547972_oswg104721oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_a7161100f3c74f0cb375e6f691751f16@12547972_oswg106182oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_5a88ca842c9a47e4bf81c88868b34a6d@12547972_oswg105157oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_562ea5d4068b4e5998c5f3ecd0be0299@12547972_oswg106020oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_1331a9fe58fd4679b2487330999e9971@12547972_oswg127634oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_e1eb4429f58e414dbd9eb203e79a7988@12547972_oswg113944oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_dc1508cbb841441a93c10a3190872bbd@12547972_oswg118499oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_b74065df4c764d5f9f940474e194aa97@12547972_oswg117377oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_c5675d3cabbb4fc187d2fb51cac9ce24@12547972_oswg50899oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_af2e50b4795642ba94ce4d58ff374bcb@12547972_oswg109832oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_037aae2300c3410a93bbd0556bc0b770@12547972_oswg123509oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_a588295942a8415582f4a5eb3bc740e6@12547972_oswg228981oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_d4d7b8a40abe43ca9d2ec777d3cfb92c@12547972_oswg112092oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_71670853da7548a8b0056d115d819a6c@12547972_oswg104404oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_252367efe06e4bf28599fae19aa3f44b@12547972_oswg105275oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_e4d7c8fc1e1d4b8f9abfc10a6aa51f4e@12547972_oswg106859oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_beb772c0e464483ab02c6fb06e11672b@12547972_oswg94369oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_e778b5b0c39d4bbc85427720869a12ff@12547972_oswg46468oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_0ecdf1a0b5a44a47befdf999e0822626@12547972_oswg109341oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_14720409a63f4f0c8a852abd9ccfd103@12547972_oswg107196oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_b196d753894c4be5995e348de352397e@12547972_oswg103987oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_edfd593cd6b14a7f8b5641afc95011a9@12547972_oswg109586oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_c1de51da1c4a414d99fe7d9d67441984@12547972_oswg95030oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_b9661f659b6c4fceaaf06486cde72132@12547972_oswg69868oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260922/v2_32bea023ba2b4f2fbe14068696f14dbc@12547972_oswg76145oswg794oswg1123_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>",
+      "category": "tech",
+      "published_at": "2026-09-22T23:30:00+00:00",
+      "fetched_at": "2026-09-23T03:01:20.689240+00:00",
+      "fingerprint": "6098773f62398396"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "海面具身智能公司半年完成3亿融资，曾获李泽湘、高秉强、阿里、元禾系等投资｜硬氪首发",
+      "url": "https://36kr.com/p/3992518229818372?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;黄楠</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，海面具身智能公司「欧卡智舶」近日完成数亿C轮融资，半年累计规模达3亿元，本轮由西高投领投，元禾璞华、三元资本跟投。资金将主要用于海面物理AI的技术迭代、船舶通用大脑APAS系统的场景拓展，以及C端水上休闲业务的产品推进。</p>\n  <p>本轮融资距离上一轮交割仅间隔半年。自2019年正式开启商业化进程以来，欧卡智舶已获得多轮资本加持，投资方包括姚期智院士创立的图灵创投、李泽湘教授旗下XbotPark及HKX基金、高秉强教授旗下Brizan Ventures、阿里巴巴创业者基金、厚雪资本与元禾重元等机构。</p>\n  <p>欧卡智舶聚焦海面具身智能赛道，专注船舶智能驾驶技术研发与水面具身机器人产业应用，围绕“AI for Boats”战略，已构建“通用大脑+本体终端”的一脑多体产品架构。其底层以全栈自研的海面物理AI为基底，上层通过船舶智能驾驶系统ORCA-APAS（Advanced Pilot Assistance System），将智驾能力向不同船型、不同水域及不同应用场景规模化复用。</p>\n  <p>创始人兼CEO朱健楠博士毕业于西北工业大学，在校期间即主导水面无人驾驶技术研究，后与合伙人程宇威、池雨豪联合创办欧卡智舶，是全球最早一批投入水面无人驾驶研发的团队之一。多位核心成员曾就职于大疆、华为等头部科技企业，具备从算法研发到硬件量产的全链条经验。其研发人员占比超70%，已累计取得200多项核心专利。</p>\n  <p>欧卡智舶是全国唯一同时获得中国船级社四项核心认可证书的企业，具备最高合规等级船舶全无人驾驶能力。截至目前，公司已在全球13个国家落地了超千艘无人船艇，累计无人化航行里程超200万公里。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260923/v2_41b5918d2e4f4481be0b4b0198fa8a22@6022551_oswg96332oswg1080oswg635_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">船舶智驾系统 应用于海上无人艇（图源/企业）</p>\n  <p>海洋，正在成为具身智能落地的一片特殊场域。</p>\n  <p>海面作业的人力缺口正在持续扩大，高风险属性也愈发突出。BIMCO与国际航运公会（ICS）最新数据显示，2026年全球商船队已面临约4万名持证高级船员缺口；相比2021年，高级船员需求增长23.1%，预计到2030年还需要新增约12万名高级船员。</p>\n  <p>与此同时，海事巡检、风电油气运维、海上作业等场景同样长期面临“缺人难招、有人难留”的困境。恶劣海况、连续值守与高风险作业环境，又进一步放大了人员安全与供给压力。</p>\n  <p>“海面作业场景对无人系统的需求，有其独特的价值逻辑。”欧卡智舶创始人兼CEO朱健楠告诉硬氪。不同于陆地机器人，其核心逻辑是用机器协助、并替代部分人力来实现降本增效，海洋场景则在此基础上，还增加了安全与人身风险两重刚性约束。</p>\n  <p>“海洋的作业场景更需要无人化，因为它的高危、它的高价值，它的ROI测算，只是如何去解决非标和特别的研发问题。行业现在要做的，是从需求共识走向产品共识，再到产品的标准化和量变。”朱健楠说。</p>\n  <p>海面作业面临一组与陆地场景截然不同的底层约束，它必须面对持续变化的风浪洋流、高盐雾腐蚀、离岸通信遮挡，以及浪涌扰动带来的动态安全风险。这也就决定了，海面智能化不能直接平移陆地无人驾驶的技术方案，必须从海面物理规律出发完成体系化重构。</p>\n  <p>这正是欧卡智舶切入的核心赛道，推动海面作业从人力驱动模式，转向AI具身智能主导的智能化作业范式。</p>\n  <p>欧卡智舶构建了一套海面物理AI的完整闭环，从数据飞轮、物理躯干到具身大脑，形成“技术研发—产品量产—规模交付—数据回流—算法迭代”的全栈能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260923/v2_1d375c551c6c4bca955a8843458c5837@6022551_oswg75380oswg1080oswg478_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">欧卡智舶产品架构图（图源/企业）</p>\n  <p>底层是数据飞轮。欧卡智舶已积累5000万级水面和海面样本集，覆盖不同水域类型、光照条件、风浪等级和季节变化，构建了全球首个覆盖海面自动驾驶多模态与水面垃圾样本的数据集。数据按类别划分，既有面向无人艇的，也有面向航运和内河内湖的，形成了全数据要素的覆盖。</p>\n  <p>中层是物理躯干。在核心部件层面，团队自研了毫米波雷达、域控制器等关键硬件。其中，域控制器采用多路输入、模块化输出的架构设计，可以接入发动机、毫米波雷达、视觉、激光雷达、声呐、流速计等不同来源的数据，预留了25路传感器接口，输出端则统一为决策指令与执行信号。</p>\n  <p>这意味着，无论客户是航运船还是游艇，底层硬件接口都是标准化的，差异主要体现在输入数据类型上，比如航运船可能接的是四推进器加侧推、声呐，游艇仅需要单推进器或双推进器。通过系统层面的配置切换，即可适配从小艇到大型商货船的不同需求。</p>\n  <p>上层为整套方案的关键——具身大脑，即船舶智能驾驶系统ORCA-APAS。这套系统依托感知识别、定位解算、规划决策与运动控制一整套算法链路，可以提供船舶环境感知、自主航行、主动避障、自动靠离泊等能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260923/v2_7b0ae7db36664b4da339432a9e8d7814@6022551_oswg102198oswg960oswg656_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">ORCA-APAS应用于海上巡逻艇（图源/企业）</p>\n  <p>针对不同智能化等级与业务场景，APAS划分了A、B、C三套子系统：A系统主打海上风电、公安海警、渔政海事等全无人特种船体场景，覆盖远程遥控直至完全自主运行的完整能力；B系统主要服务游艇、公务艇等中小型船艇，聚焦高级辅助航行体验；C系统则面向大型商货船，重点实现智能航行与航路优化。</p>\n  <p>这套“一脑多体”架构的核心，在于通用大脑的跨船型复用能力。同一套算法底座，适配不同智能化等级需求和应用场景，实现全水域、全船型、全航速、全场景的L2至L4级智能驾驶覆盖。</p>\n  <p>商业化落地上，欧卡智舶并未选择同时铺开，而是沿着一条梯度路径推进，以B端场景为起点建立数据与交付闭环，再向C端延伸；以低速水域验证技术稳定性，再向高速、远海场景拓展。</p>\n  <p>B端是欧卡智舶当前主要的营收来源。围绕智慧水域运维，公司已形成覆盖水面清洁、海上运维、环境巡检和应急救援的产品矩阵，由无人清洁船、无人割草船到水利巡检船、海洋无人艇，产品线沿场景需求逐步延展。客户实测数据显示，其环卫船作业效率达到人工的3到5倍，综合运营成本降低40%以上。朱健楠向硬氪透露，其环卫船业务复购率持续提高，收入相比去年已翻番。</p>\n  <p>智慧滨水经济则是B端能力向更广泛场景的延伸。欧卡智舶推出了“漾、汐、漫”三款产品，形成覆盖高、中、大众消费群体的滨水经济产品矩阵，漾是具备L4级自动驾驶能力的水上超级空间，汐是面向景区观光场景的新能源智能游船，漫是主打亲水休闲体验的水上露营平台。目前智能游船已进入50个景区，文旅场景的商业闭环正在逐步成型。</p>\n  <p>C端水上休闲是欧卡智舶最新布局的方向。公司瞄准海洋智能游艇品类，已于近期在法国戛纳游艇展完成产品首发。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260923/v2_ff70104a11b14d60841d42798523c648@6022551_oswg186714oswg1080oswg602_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">欧卡智舶智能电动游艇（图源/企业）</p>\n  <p>除了整机游艇外，欧卡智舶船舶智驾系统APAS也在向更轻量化的水上娱乐硬件渗透。桨板正是其中一个已进入规模化出货的品类。</p>\n  <p>公司同北美头部桨板品牌达成合作，将船舶智驾系统APAS嵌入其桨板产品。通过定航定速、悬停停靠（AutoParking）等功能，可大幅降低水上操作门槛，让入门用户也能快速上手。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260923/v2_1e4b2058b51f4b499a96a12ea123e444@6022551_oswg97661oswg1080oswg640_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">APAS在桨板产品上应用（图源/企业）</p>\n  <p>当前，欧卡智舶正加快推进全球化布局，海外业务成为公司重要增长极。公司已与东南亚、荷兰等国家和地区的客户达成合作，为当地船艇提供智能驾驶解决方案。</p>\n  <p>海面具身智能的核心价值，远不是把陆地上的无人驾驶技术搬到海上，而在于从海面场景的本质需求出发，重新定义感知、决策与控制的逻辑。</p>\n  <p>欧卡智舶以海面物理AI为底座，用通用大脑实现跨船型、跨场景的智驾能力复用，用本体终端覆盖从水域运维到滨水经济的多元场景。从B端的降本增效与安全替代，到C端水上休闲设备的智能化渗透，欧卡智舶正试图在海面这一特殊场域中，构建从技术到产品到商业化的完整闭环。</p>\n  <p><strong>以下为硬氪与欧卡智舶创始人兼CEO朱健楠的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：基于 “一脑多体” 架构，船舶智驾系统APAS需要适配多元船型与水域工况。从模型训练和大脑架构层面，你们如何平衡底座通用性和各场景的专项性能？</strong></p>\n  <p><strong>朱健楠：</strong>这个问题可以从数据通用性、应用层调度，以及硬件算力分级三个层面来看。</p>\n  <p>首先底座通用性的建设来自数据与系统架构。欧卡智舶自研的域控制器搭载了双GPU，具体到数据采集阶段，我们就按照水域类型、光照条件、风浪等级、季节做精细化标签，数据集覆盖无人作业艇、航运船舶、内河内湖等多元工况。除了海南、舟山、湖州、西安、南通多处测试基地持续产出样本，在真实场景数据不断训练算法。</p>\n  <p>在应用侧，APAS可以进一步划分A、B、C三套智驾子系统。A系统服务海上风电、渔政海事这类全无人特种船体；B系统面向桨板、游艇这类消费级水上娱乐装备；C系统适配内河与远洋航运。我们并不会专门为每个场景开发一套独立硬件，而是让通用大脑保持不变，通过切换工作模式完成适配，以此实现能力复用。</p>\n  <p>在此基础之上，还要应对不同工况带来的泛化难度差异。从内河低速走向远海高速，环境扰动不断变大，模型泛化难度是逐级提升的。内河内湖低速场景相对友好；远海、高海况下，海浪扰动强，对感知控制的挑战会陡增。为此，我们对域控制器也做了分级，高算力版本双GPU可达到100TOPS算力，面向远海复杂工况；低算力版本40TOPS，满足内河低速场景需求。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260923/v2_8d4ea023af9246ea9cc3c812a5979477@6022551_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">船舶智驾系统应用于226m远洋散货船-嘉通轮（图源/企业）</p>\n  <p>当前，这套体系可以覆盖绝大多数50节船型，远海场景也可支撑，能够匹配现阶段绝大多数业务需求。这套“通用预训练数据底座+软件模式隔离+硬件算力分级”的组合，也是我们用来缓解多域数据带来的性能冲突，平衡通用能力与场景专项表现的核心手段。</p>\n  <p><strong>硬氪：欧卡智舶同时布局ToB和ToC两条线，从商业化逻辑来看，这两类业务在价值创造方式、付费主体和规模化路径上有什么差异？</strong></p>\n  <p><strong>朱健楠：</strong>本质差异在于价值主张不同。</p>\n  <p>ToB的业务逻辑，核心是把AI和自动驾驶当成效率工具来用，客户买的是降本增效和安全合规。付费方大多是作业方或运营方，决策链条偏理性，ROI算得清楚。由于海洋作业场景高风险、高人力成本、高价值产出等特性，其天然适合无人化，这些是刚需。</p>\n  <p>目前，行业正在从需求共识走向产品共识，下一步是标准化和规模化复制。但这个方向的难点、痛点也很明确，场景非标、研发投入大、交付周期长，怎么把非标需求收敛成标准化产品，是ToB能不能起量的关键。</p>\n  <p>面向C端市场，关键在于用户把智能化与体验升级绑定，价值锚点是便捷性和驾乘感受。终端用户的决策往往更感性，品牌认知和体验感知的权重更高。</p>\n  <p>衔接的来看，大趋势其实已经很清晰。不管是京东、小鹏等国内头部大厂入局游艇赛道，还是阿兹慕等海外老牌游艇厂商开始拥抱AI，智能、新能源游艇已经成为市场热议的方向。但现在行并不缺趋势共识，缺的是一套完整的端到端落地解决方案，即能让用户实实在在感知到，水上智能化究竟能带来怎样的体验。</p>\n  <p>这也是为什么欧卡智舶团队没有只做智驾方案对外输出，而是选择孵化自有整机品牌。先把产品做出来，让市场看见智能电动游艇真实的产品形态与价值，后续再去谈规模化推广。</p>",
+      "category": "tech",
+      "published_at": "2026-09-23T01:30:00+00:00",
+      "fetched_at": "2026-09-23T03:01:20.689235+00:00",
+      "fingerprint": "dd1a49512f596210"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨雷军否认打新宇树挣100亿；罗永浩宣布播客暂停更新；Meta Muse爆火，扎克伯格身价一日暴涨1600亿元",
+      "url": "https://36kr.com/p/3995341472125056?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>贝森特将Hugging Face事件归责OpenAI管理层，称责任在人而非AI</p>\n  <p>7天免费试用却扣费958元，多邻国被质疑诱导消费</p>\n  <p>微信新版本上线私密发表功能，朋友圈可一键仅自己可见</p>\n  <p>苹果高管：不建议给iPhone贴膜</p>\n  <p>白宫宣布推出“特朗普电视”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>雷军回应打新宇树赚了100多亿：不是我投的，不是打新</strong></p>\n  <p>9月21日晚，雷军在露营直播中回应了关于宇树科技上市后其“打新赚翻”的说法。雷军表示，投资宇树的主体是顺为资本，并非其个人出资。顺为是宇树A轮唯一投资方，他与创始人王兴兴相识十余年。该笔投资属于一级市场早期天使风险投资，并非二级市场打新套利。雷军谈及初衷，称自己早年融资不易，二十年来一直推动国内天使投资，扶持初创青年，这也是小米与顺为布局产业链、生态链的一环。他呼吁媒体不要为流量制造话题，笔下留情。直播中，雷军还回应了此前访问宇树科技，“脚踹机器人”的趣事。他称踢机器人是创始人王兴兴提议的测试，并赞叹其平衡性出色。（界面新闻）</p>\n  <p><strong>罗永浩宣布播客暂停更新</strong></p>\n  <p>9月22日，有网友留言询问能不能更新播客节目《罗永浩的十字路口》，罗永浩回复：卷进舆论漩涡期间，为了避免连累嘉宾，原则上是不播的，其实已经录好的有好几期了。近日，罗永浩差评野人先生、罗永浩与西贝贾国龙的纠纷等频频登上热搜引发关注。（第一财经）</p>\n  <p><strong>Meta Muse爆火，扎克伯格身价一日暴涨1600亿元</strong></p>\n  <p>当地时间9月21日，Meta股价大涨近12%，推动公司创始人马克·扎克伯格的估计净资产单日增加约250亿美元，升至2536亿美元。福布斯称，此次上涨主要受富国银行上调Meta目标股价，以及投资者对Meta新款自主AI助手Muse的信心推动富国银行当天将Meta目标股价从640美元上调至796美元，并维持“增持”评级。Meta本月早些时候新推出的人工智能（AI）智能体Muse上线后迅速登上移动应用排行榜榜首，可自主完成预订旅行、发送邮件及管理联网家居设备等任务。扎克伯格此前将Muse视为Meta实现“个人超级智能”的一步。（界面新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Muse被亚马逊火速封禁&nbsp;</strong></p>\n  <p>Meta的最新AI代理Muse，本质上是一款可以替用户“动手”的AI助手，核心能力是自主执行任务，包括订票、处理邮件、调用Meta旗下社交媒体等。9月21日当天，Meta股价大涨，被视为AI代理成为主流的信号。但在AI代理获得消费市场青睐的同时，它与互联网平台的冲突也暴露出来。</p>\n  <p>9月20日，亚马逊封禁Muse的操作，用户让Muse在亚马逊下单时会收到警告：“未经授权的AI代理违反亚马逊使用条款。”亚马逊回应称，从未授权Muse进行相关操作，而Muse在执行任务时也不会主动表明自己的AI身份，同时还可能接触和存储用户的账户信息、订单记录等数据。公司曾试图说服Meta将亚马逊排除在Muse的操作范围之外，但未能成功，因此最终选择禁止Muse代替用户在平台上购物。Meta尚未就亚马逊的封禁作出回应。（21世纪经济报道）</p>\n  <p><strong>PayPal与Meta合作，支持通过AI智能体购物支付</strong></p>\n  <p>9月22日，PayPal宣布与Meta达成合作，将支持PayPal用户通过Meta旗下Muse个人AI智能体，在全球PayPal商户中实现购物和结账。（界面新闻）</p>\n  <p><strong>知情人士：DeepSeek将向联合国安理会介绍AI风险</strong></p>\n  <p>9月22日，据媒体报道，两位知情人士透露，中国人工智能初创企业DeepSeek将于本周向联合国安理会通报人工智能带来的风险。联合国安理会将于当地时间9月23日召开会议，讨论人工智能与国际安全问题。（中新经纬）</p>\n  <p><strong>OpenAI再推两款GPT-6模型：Sol、Luna定价降50%</strong></p>\n  <p>美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。</p>\n  <p>此次两款模型的另一个核心看点是价格：OpenAI宣布，GPT-6 Sol和GPT-6 Luna的API价格较GPT-5.6的促销定价还低50%。OpenAI称，这是由于其进一步提升了缓存和推理效率，并将节省的成本直接让利给用户。根据OpenAI公告，Sol和Luna即日起面向Plus、Pro、Business、Enterprise及Edu用户，在ChatGPT Work和Codex中提供，同时开放API；免费版和Go版用户则可以在桌面端应用中体验GPT-6 Luna。（网易科技）</p>\n  <p><strong>Claude Opus 5.5发布，典型任务运行成本降低40%</strong></p>\n  <p>9月22日，Anthropic发布Claude Opus 5.5，这是Claude 5.5系列的首款模型。按照Anthropic的定位，Opus仍是Claude三条主力产品线中能力最强、价格最高的一档。与两个月前发布的Opus 5相比，Opus 5.5并没有继续强调单纯扩大模型规模，而是将重点放在三个方向：提升编程、计算机操作和知识工作能力，降低完成真实任务的总体成本，以及强化复杂任务中的行为约束。Anthropic称，Opus 5.5在多数工作中的表现已经达到Claude Fable 5.1的水平，但典型任务的运行成本比Opus 5降低约40%。（新浪科技）</p>\n  <p><strong>小米发布MiMo-V2.6模型</strong></p>\n  <p>36氪获悉，小米9月22日凌晨正式发布并开源了全新的Xiaomi MiMo-V2.6系列。团队表示，MiMo-V2.6系列包含Pro和Flash两个原生全模态模型。MiMo-V2.6-Pro在Artificial Analysis Intelligence Index（AA综合智能指数）中取得46分，但与最强的闭源模型Claude Fable5.1和GPT-6 Astra相比，仍有差距。团队称，MiMo-V2.6系列沿用V2.5系列的API定价，MiMo-V2.6-Pro刷新了国产模型的性价比纪录：在同等智能水平下，价格为海外模型的1/20至1/60。</p>\n  <p><strong>贝森特将Hugging Face事件归责OpenAI管理层，称责任在人而非AI</strong></p>\n  <p>美国财政部长斯科特·贝森特表示，近期涉及OpenAI先进人工智能模型的黑客事件，责任在于该公司的管理层，但他并未进一步暗示可能会产生什么后果。“关于Hugging Face事件，责任在OpenAI管理层，而不是一群智能体，”贝森特周一接受采访时表示。他说，自己赞同麻省理工学院研究实验室联席主席Daniel Huttenlocher的观点，即“应该由人类负责，而不是AI”。（新浪财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>英伟达市盈率降至十多年来最低</strong></p>\n  <p>9月22日消息，据报道，英伟达未来12个月预期市盈率已降至不足17倍，为十余年来低位，约为2025年估值的一半。尽管公司预计2027财年营收和净利润分别增长90%和99%，但内存芯片等关键零部件成本上升正挤压利润率，分析师预计第四财季毛利率将降至72%以下。英伟达股价今年以来上涨22%，但涨幅落后于多数芯片股。市场同时担忧AI资本开支持续性及Meta、谷歌等大客户自研AI芯片可能加剧竞争。（界面新闻）</p>\n  <p><strong>吴泳铭：2032年阿里云数据中心规模将超20GW</strong></p>\n  <p>36氪获悉，9月22日，阿里巴巴CEO吴泳铭在云栖大会表示，当前客户AI需求非常强劲，将全力投入AI基础设施建设，目标到2032年阿里云运营的全球数据中心规模超过20GW。当天，平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。据悉，平头哥AI芯片的年出货量将大幅提升。</p>\n  <p><strong>钟薛高创始人力挺西贝：西贝要是倒了，是中国餐饮行业的倒退</strong></p>\n  <p>9月20日晚，钟薛高创始人林盛在个人账号直播中，谈及西贝倒闭传言。林盛称西贝要是真的倒了，肯定是中国餐饮行业的倒退，西贝一直是在品质、质量安全管理、原材料管理做得非常好的企业，是餐饮行业内的标杆性企业。近日，“西贝被曝将彻底倒闭”的话题登上微博热搜。有大V发文称，西贝将在两三个月内彻底倒闭。（每日经济新闻）</p>\n  <p><strong>中国工信新闻：“去宁德化”论调要不得</strong></p>\n  <p>36氪获悉，工信部旗下媒体中国工信新闻发文表示，最近一段时间，“去宁德化”在新能源汽车行业被反复炒作。车企调整供应链、增加供应商、布局自研，本是正常的市场行为，却被不断包装成“去宁德化”，甚至渲染成整车企业与动力电池企业之间的对立。热闹背后，真正值得讨论的不是“谁替代谁”，而是中国新能源汽车进入高质量发展阶段，究竟需要怎样的产业竞争。舆论如果动辄鼓吹“去某某化”，把本土龙头企业与产业链其他企业人为对立起来，并不符合中国汽车产业今天所处的发展阶段。（中国工信新闻）</p>\n  <p><strong>苹果高管：不建议给iPhone贴膜&nbsp;</strong></p>\n  <p>近日，苹果硬件工程副总裁 Tom Marieb 在公开采访中明确表态，不建议普通用户给 iPhone 额外贴屏幕保护膜。他坦言，每次看到有人给 iPhone 屏幕贴保护膜的时候，自己都会感到浑身不自在，因为团队在屏幕耐刮和耐磨方面进行了大量研发，希望用户直接体验原厂屏幕。</p>\n  <p>此番言论引发网友热议。不少数码爱好者直接指出，无论消费级手机玻璃的材料性能再怎么迭代升级，至今都没有哪家厂商能做出完全扛住环境里无处不在的石英颗粒的玻璃。据了解，第二代超瓷晶面板玻璃首次应用于 iPhone 17 系列，其抗刮擦能力是前一代的三倍。iPhone 18 Pro 和 iPhone Duo 的正面屏幕均配备了这种第二代超瓷晶面板。（21世纪经济报道）</p>\n  <p><strong>7天免费试用却扣费958元，多邻国被质疑诱导消费</strong></p>\n  <p>近日，多位网友在社交平台发帖，质疑多邻国（Duolingo）的“会员免费试用”业务故意诱导消费，存在“免费陷阱”。有网友表示，自己免费使用多邻国三四个月，之后在App内看到Super Duolingo家庭套餐“7天免费体验”的订阅入口，点击完成订阅后，并未出现7天试用倒计时，而是直接被扣除738元年度订阅费用。也有网友称，多邻国扣款前没有任何提醒，一个多月后，自己才发现；另有网友表示，自己订阅了免费试用七天后，被扣了958元。9月22日，界面新闻就上述质疑多次致电多邻国，截至发稿前电话未接通。（界面新闻）</p>\n  <p><strong>中塑股份暴涨超900%，中一签最高浮盈超26万元</strong></p>\n  <p>新股N中塑复牌后继续拉升涨超900%，最高报580元。若按该价格计算，投资者中一签(500股)浮盈约26.24万元。资料显示，中塑股份主要从事改性工程塑料的研发、生产和销售。（界面新闻）</p>\n  <p><strong>沃尔玛中国调整双业态采购负责人</strong></p>\n  <p>36氪获悉，沃尔玛中国宣布两项核心采购线人事任命，涉及山姆会员商店与沃尔玛商店两大业态。任命内容显示，现任美国山姆会员商店非食品采购高级副总裁Sean Jackson将外派至中国，出任山姆会员商店首席采购官，直接向山姆会员商店业态总裁刘鹏汇报。与此同时，现任沃尔玛中国副总裁、山姆会员商店非食品采购负责人Amber Bynum调任沃尔玛商店首席采购官，向沃尔玛商店业态总裁祝骏汇报，计划10月中旬正式到岗，未来一个月内完成岗位交接。</p>\n  <p><strong>企业境外反垄断合规指引修订草案公开征求意见</strong></p>\n  <p>市场监管总局9月22日就《企业境外反垄断合规指引(修订草案征求意见稿)》公开征求意见，进一步引导我国企业增强海外反垄断合规意识，防范相关法律风险。意见反馈截止日期为2026年9月29日。为帮助企业了解域外最新反垄断监管趋势，本次修订总结并新增了反垄断立法和执法变化，如在垄断协议、滥用市场地位、经营者集中等专章中嵌入境外反垄断执法机构对数字经济的关注。明确了欧盟、美国、德国等司法辖区最新经营者集中申报标准等，提示企业关注外商投资安全审查和外国补贴审查制度。针对域外反垄断诉讼和调查高发的趋势，在行政罚款及刑事责任外，新增了主要司法辖区关于发起私人民事诉讼的规定。(央视新闻)</p>\n  <p><strong>国家发改委：推动北斗产业规模在5年内超过1万亿元</strong></p>\n  <p>国家发展改革委政策研究室副主任、委新闻发言人李超9月22日在国家发展改革委9月份新闻发布会上说，推动北斗产业规模在5年内超过1万亿元，实现北斗规模应用的市场化、产业化和国际化新突破。(新华财经)</p>\n  <p><strong>微信新版本上线私密发表功能，朋友圈可一键仅自己可见</strong></p>\n  <p>近日有网友发现，微信更新至8.0.78版本后，朋友圈新增“私密发表”入口，发布内容将自动设为仅自己可见，发布后也可调整为公开状态。此前发布私密朋友圈，需要在发布页手动选择权限，新入口简化了操作流程。据实测，该功能正处于安卓、iOS端灰度测试阶段，部分用户暂未收到更新推送，无法看到该入口，后续将分批上线。本次版本更新还升级了微信内置小微AI，新增好友对话、图片解读、AI相册存储、写真生成、图片扩图能力。同时优化多项细节：好友资料页增加备注编辑快捷入口，内置相机支持焦段快速切换与微距模式，聊天列表左滑按钮、弹窗菜单采用圆角与液态玻璃新视觉样式。（极目新闻）</p>\n  <p><strong>杉杉股份：拟51.06亿元投建年产15万吨锂离子电池负极材料一体化基地项目</strong></p>\n  <p>36氪获悉，杉杉股份公告，公司拟投资建设内蒙古杉杉科技年产15万吨锂离子电池负极材料一体化基地项目，总投资约51.06亿元，其中固定资产投资约43.18亿元。项目建设期17个月，计划2027年3月开工，2028年7月竣工。项目建成后将形成年产15万吨负极材料一体化产能，并配套5万吨石墨化产能。本次投资尚需提交股东会审议，并需取得环评、能评等审批备案。</p>\n  <p><strong>白宫宣布推出“特朗普电视”</strong></p>\n  <p>美国白宫9月21日宣布推出“特朗普电视”，美国媒体称之为“一个在YouTube平台全天候24小时播放特朗普政府过往活动的流媒体频道”。当晚，题为“特朗普电视：精华电视台”的直播活动在白宫官方YouTube频道上线，首先播出了特朗普今年7月3日在拉什莫尔峰（俗称“总统山”）的演讲。白宫在社交媒体上发文说，“‘特朗普电视’现已开播。全天候24小时、实时更新，汇集过往精彩瞬间、重要公告以及本届政府最新、最重要的内容，都在同一处。”美国媒体报道说，尚不清楚“特朗普电视”是否会现场直播特朗普及其政府的活动。（界面新闻）</p>\n  <p><strong>沙特据报重启东西输油管道，或于周二恢复延布港出口</strong></p>\n  <p>9月22日，据报道，沙特阿拉伯已重启东西输油管道，并可能于当天晚些时候恢复从红海延布港出口原油，管道目前以低速输油。(界面新闻)</p>\n  <p><strong>全球油轮运费飙升，超大型油轮运价暴涨超400%</strong></p>\n  <p>美伊冲突爆发半年多，叠加霍尔木兹海峡通航持续受阻，全球石油运输市场迎来极端行情，超大型油轮运价比冲突前暴涨超400%，运往亚洲的油价随之走高。数据显示，休斯顿运往亚洲的原油，每桶运费约26美元，占到WTI原油期货价格的四分之一。9月中东至中国航线超大型油轮日租金突破100万美元，达到冲突前5倍以上。高昂运费推高船东收益，不少亚洲炼油厂放弃中东原油，转向更近货源采购，中小油轮运价同步上涨。</p>\n  <p>运价走高源于海峡地缘风险抬升航运风险溢价，油轮绕行非洲南端，拉长运输周期、损耗有效运力。当前美伊尚未达成协议，运费短期大概率维持高位，加剧全球输入型通胀。（21世纪经济报道）</p>\n  <p><strong>诺和诺德宣布裁掉1.3万个岗位</strong></p>\n  <p>去年9月份宣布要裁员9000人的诺和诺德，于9月21日在伦敦举办的资本市场日上披露了最终减员情况。诺和诺德方面表示，通过本轮组织调整，公司节约成本超100亿（15.35亿美元）丹麦克朗，帮助公司重新投向商业化与研发；过往调整累计涉及约1.3万个岗位，目前全球全职员工为6.6万人。诺和诺德本轮人员优化背后，核心动因是支撑公司七成以上营收的王牌产品司美格鲁肽，正面临增长承压的挑战。2026年上半年，诺和诺德司美格鲁肽产品组合（包括降糖以及减重适应证在内），合计销售额为1121.93亿丹麦克朗（约175.25亿美元），收入已落后竞品礼来的替尔泊肽约102亿美元。（第一财经）</p>\n  <p><strong>第二大股东清仓离场，绿茶集团股价较高点近腰斩&nbsp;</strong></p>\n  <p>港股绿茶集团（06831.HK）上市仅1年4个月，第二大股东合众集团旗下Partners Gourmet 已通过场外交易清仓全部持股，彻底退出。截至9月22日收盘，绿茶集团报4.995港元/股，涨幅1.52%；对比2025年7月9.81港元的历史高点，股价回撤49.08%，近乎腰斩。</p>\n  <p>早在今年4月，公司便披露该股东合计出售1.0614亿股，占总股本15.96%，交易完成后将不再持股。（界面新闻）</p>\n  <p><strong>美心月饼打六折冲上热搜，五星酒店月饼被三折甩卖&nbsp;</strong></p>\n  <p>记者走访多家线下商超发现，即便离中秋还有四五天，月饼促销潮已然开启。美心、半岛、英记、荣华等传统高端月饼品牌多款礼盒，在线下普遍打出7-9折。而在香港本地，叠加支付方式优惠，美心月饼部分产品在促销期间折扣已低至六折。二手平台上多数五星级酒店月饼礼盒三折甩卖，价格低至200元以下。一位经销商表示，深圳JW万豪月饼礼盒官方售价298元至498元，目前最低99元；成都W酒店原价258元月饼礼盒149元可到手；广州丽思卡尔顿原价388元雅致礼盒仅售110元，428元专属礼盒也只卖228元。（界面新闻）</p>\n  <p><strong>美股三大指数涨跌不一，闪迪涨超6%</strong></p>\n  <p>36氪获悉，9月22日收盘，美股三大指数涨跌不一，纳指涨0.45%，标普500平收，道指跌0.36%；大型科技股有涨有跌，闪迪涨超6%，美光涨5%，特斯拉、英伟达、苹果小幅上涨，亚马逊、谷歌跌超1%，微软、Meta小幅下跌；热门中概股普涨，蔚来、拼多多、理想汽车、网易涨超1%，哔哩哔哩、阿里巴巴、京东、百度、小鹏集团小幅上涨。</p>\n  <p><strong>港交所拟降交易审批门槛，新股分拆上市锁定期缩至一年</strong></p>\n  <p>香港交易所继续推进上市机制改革，并展开为期10周的公众咨询。咨询文件中披露，本次改革涉及多项上市公司交易及分拆业务上市的简化安排。继上一阶段上市机制改革瞄准新股，本轮第二阶段的上市机制改革聚焦发行人上市后的持续监管规定，涵盖须予公布的交易、关连交易及分拆上市三大范畴。新规旨在使香港上市发行人日后进行重大收购、出售及分拆子公司上市，变得更加灵活快捷。根据现行港股《上市规则》，上市发行人进行的交易须按资产、盈利、收益、代价等百分比率划入不同类别：规模测试达到5%但低于25%的交易属“须予披露的交易”，只需刊发公告；达到25%但低于75%（出售事项）或100%（收购事项）的属“主要交易”，须刊发通函并经股东大会批准；规模更大的交易则归入“非常重大的收购事项”及“非常重大的出售事项”两个类别。（财新网）</p>\n  <h2>上市进行时</h2>\n  <p><strong>彤程新材开启招股，9月29日上市交易</strong></p>\n  <p>9月21日，半导体光刻胶公司彤程新材公告，拟全球发售6811.87万股H股，香港公开发售于当日9时启动，预期9月29日于联交所上市交易。公司发售价区间为39.00–44.00港元/每股，按区间均价41.5港元测算，本次H股募资约28.27亿港元。</p>\n  <p><strong>欢创科技：拟全球发售1158.88万股H股，发售价58.85港元</strong></p>\n  <p>36氪获悉，欢创科技公告，公司拟全球发售11588800股H股，香港发售股份1158900股H股，国际发售股份10429900股H股，另有15%的超额配股权；发售价为每股58.85港元；预期股份将于2026年9月30日开始在香港联交所买卖。</p>\n  <h2>投融资</h2>\n  <p><strong>红杉、云启领投，“华超神控”完成2亿元Pre-A轮融资</strong></p>\n  <p>近日，非侵入AI脑机接口公司“华超神控”（BCI-Sonics）宣布完成2亿元人民币Pre-A轮融资。本轮融资由红杉中国与云启资本联合领投，比邻星投资、元禾控股、徐汇科创投、德石投资跟投，老股东经纬创投、德联资本持续加注。循光资本持续担任独家战略财务顾问。所募资金将用于产品研发、核心人才引进、临床研究推进和AI基础设施建设。此前，公司已相继完成由经纬创投领投的天使轮和由德联资本、道远资本联合领投的天使+轮融资，成立至今累计融资近3亿元。</p>\n  <p><strong>“智冉医疗”获超6亿元融资</strong></p>\n  <p>36氪获悉，侵入式脑机接口公司“智冉医疗”完成了新一轮融资，估算本轮融资金额超6亿元人民币。其中，顺禧基金、济峰资本、君联资本、红杉资本、国寿资本、元生创投、顺为资本、美团龙珠、中关村科学城、杏泽资本、佳银资本、中科创星、华盖资本、丹麓资本等参与投资。按此前公开信息，自去年8月完成超3亿元A轮融资至今，智冉累计融资超过12亿元。</p>\n  <p><strong>“龙讯旷腾”完成亿元级B1轮融资</strong></p>\n  <p>36氪获悉，近日AI4S企业“龙讯旷腾”完成亿元级B1轮融资，老股东同创伟业持续加码，国泰海通开元和中新资本联合投资。此次融资将用于研发团队扩充、干湿闭环搭建、商务体系建设。</p>\n  <p><strong>“庆为航空”完成超5000万元新一轮融资</strong></p>\n  <p>36氪获悉，“庆为航空”近日完成超5000万元新一轮融资，由中信建投资本、光谷科创投、江西金控资本联合投资。这是公司继高瓴创投、松禾资本、梅花创投之后，在半年内完成的第三轮融资。资金将主要用于加速高安全等级（DAL A）电传飞控计算平台和智能座舱显示系统的研发与适航进程。</p>\n  <h2>酷产品</h2>\n  <p><strong>苹果新款Mac mini和Mac Studio今日上市</strong></p>\n  <p>9月22日，苹果宣布新款Mac mini和Mac Studio正式上市。Mac mini搭载M6或M5 Pro芯片，起售价分别为899美元和1699美元；Mac Studio搭载M5 Max或M5 Ultra芯片，起售价分别为2499美元和5499美元。（财联社）</p>\n  <p><strong>整理丨李琪</strong></p>",
+      "category": "tech",
+      "published_at": "2026-09-23T01:55:19+00:00",
+      "fetched_at": "2026-09-23T03:01:20.689228+00:00",
+      "fingerprint": "9672f7cc8a26ef81"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "当所有项目都开始说同一种话，如何让你的项目脱颖而出？",
+      "url": "https://36kr.com/p/3995396694610049?f=rss",
+      "summary": "<p>如果最近看过不少创业项目介绍，可能会发现一个有意思的变化：</p>\n  <p><strong>很多项目越来越像了。</strong></p>\n  <p>AI+教育、AI+营销、AI+客服、AI+医疗；智能硬件、机器人、企业服务、行业解决方案……</p>\n  <p>再往下看几段，往往又是熟悉的表达：</p>\n  <p>“通过AI技术提升效率。”</p>\n  <p>“解决行业长期存在的痛点。”</p>\n  <p>“打造下一代智能化解决方案。”</p>\n  <p>这些话不能说错。</p>\n  <p>但问题是，当越来越多项目都在使用同一套语言介绍自己时，<strong>真正不同的东西反而越来越难被发现。</strong></p>\n  <p>&nbsp;</p>\n  <h3><strong>01 先从一个熟悉的标签开始</strong></h3>\n  <p>尤其是早期项目。</p>\n  <p>很多团队其实已经做了不少事情：产品有了，客户有了，技术也经过了验证。</p>\n  <p>但到了介绍自己的时候，最后留下来的往往只有几个标签：</p>\n  <p>AI、机器人、平台、SaaS、智能制造。</p>\n  <p>标签很容易理解，却很难让人真正记住一个项目。</p>\n  <p>同样是做AI，有的团队解决的是一个非常具体的工作流程；同样是机器人，有的项目真正改变的是某个细分行业的生产方式。</p>\n  <p>如果只看一句项目简介，这些差异很容易被忽略。</p>\n  <p>&nbsp;</p>\n  <h3><strong>02 真正有意思的东西，往往藏在标签下面</strong></h3>\n  <p>一个项目到底值不值得关注，很多时候不是看它用了什么热门概念。</p>\n  <p>更值得看的，可能是几个很具体的问题：</p>\n  <p><strong>为什么有人开始做这件事？</strong></p>\n  <p><strong>产品到底解决了什么问题？</strong></p>\n  <p><strong>有没有真实的用户愿意使用？</strong></p>\n  <p><strong>项目现在走到了哪一步？</strong></p>\n  <p>这些信息看起来没有那么“热闹”，却更容易让一个项目从一堆相似的项目里真正区别出来。</p>\n  <p>而对于早期项目来说，这些变化本身也值得被记录。</p>\n  <p>&nbsp;</p>\n  <h3><strong>03 不是所有项目一开始就有标准答案</strong></h3>\n  <p>创业项目很少是一开始就完整的。</p>\n  <p>可能最初只是一个想法，后来做出了产品；</p>\n  <p>可能先有技术，再慢慢找到具体的应用场景；</p>\n  <p>也可能产品已经上线，但团队还在不断调整商业模式。</p>\n  <p>所以，有些项目值得关注，并不是因为它现在已经足够成熟，而是因为<strong>它正在发生变化。</strong></p>\n  <p>这也是36氪「项目推荐」持续寻找项目的一个原因。</p>\n  <p>我们希望看到的，不只是已经被大量讨论的热门项目，也包括那些正在产品验证、市场探索和商业化过程中的新项目。</p>\n  <p>&nbsp;</p>\n  <h3><strong>04 把项目真正做过的事情讲出来</strong></h3>\n  <p>基于这些项目，36氪「项目推荐」也在持续推出不同的内容形式。</p>\n  <p><strong>「36氪项目新势榜」</strong></p>\n  <p>每周从项目推荐中发现正在成长的新项目，通过榜单集中呈现，让更多项目有机会进入行业视野。</p>\n  <p><strong>「项目开麦」</strong></p>\n  <p>通过视频采访，让项目团队直接讲清楚自己在做什么、为什么做，以及目前走到了哪一步。</p>\n  <p>比起一套标准化的项目介绍，我们更希望听到项目本身的故事。</p>\n  <p>因为创业项目真正有意思的地方，往往不是那几个熟悉的标签，而是：</p>\n  <p><strong>一个团队为什么决定解决这个问题，以及他们已经走了多远。</strong></p>\n  <p>如果你正在做一个项目，或者身边有正在做新产品、新技术、新业务的团队，也可以把项目推荐给36氪「项目推荐」。</p>\n  <p>不需要先把自己包装成一个成熟项目。</p>\n  <p>把现在正在做的事情讲清楚，就够了。</p>\n  <p><strong>有些项目值得关注，恰恰是因为它还在变化。</strong></p>\n  <p>&nbsp;</p>\n  <p>📌&nbsp;<strong>免费提交项目：</strong><br /><a href=\"https://36kr.com/seek-report-new\" rel=\"noopener noreferrer\" target=\"_blank\">https://36kr.com/seek-report-new</a></p>\n  <p>📮&nbsp;<strong>项目推荐联系邮箱：</strong><br /><a href=\"mailto:aireport@36kr.com\">aireport@36kr.com</a></p>\n  <p><strong>客服可以扫描下方二维码联系～</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260910/v2_61e9fced05214f5881a6e6e2ad218743@5284654_oswg50025oswg216oswg210_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码添加！</p>\n  <p><strong>36氪「项目推荐」</strong></p>\n  <p><strong>让好项目，更早被看见。</strong></p>",
+      "category": "tech",
+      "published_at": "2026-09-23T02:48:28+00:00",
+      "fetched_at": "2026-09-23T03:01:20.689215+00:00",
+      "fingerprint": "fa03522ba766abfa"
+    },
+    {
+      "source": "少数派",
+      "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
+      "url": "https://sspai.com/post/114823",
+      "summary": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...<a href=\"https://sspai.com/post/114823\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-22T02:44:06+00:00",
+      "fetched_at": "2026-09-23T03:01:19.245437+00:00",
+      "fingerprint": "952b4f492c305980"
+    },
+    {
+      "source": "少数派",
+      "title": "Coast：用十年经验，给记账这件事一个「终点」",
+      "url": "https://sspai.com/post/114479",
+      "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-22T06:39:39+00:00",
+      "fetched_at": "2026-09-23T03:01:19.245386+00:00",
+      "fingerprint": "5ac750e89d86e937"
+    },
+    {
+      "source": "少数派",
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+      "url": "https://sspai.com/post/114551",
+      "summary": "黄金时代「时尚与科技结合」的浪漫。<a href=\"https://sspai.com/post/114551\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-22T08:11:03+00:00",
+      "fetched_at": "2026-09-23T03:01:19.245381+00:00",
+      "fingerprint": "c60641ac5079e05b"
+    },
+    {
+      "source": "少数派",
+      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+      "url": "https://sspai.com/post/114878",
+      "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...<a href=\"https://sspai.com/post/114878\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-22T14:00:00+00:00",
+      "fetched_at": "2026-09-23T03:01:19.245375+00:00",
+      "fingerprint": "92beb1258d8d1437"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
+      "url": "https://sspai.com/post/114889",
+      "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。<a href=\"https://sspai.com/post/114889\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-22T23:30:05+00:00",
+      "fetched_at": "2026-09-23T03:01:19.245365+00:00",
+      "fingerprint": "5aec27c5c5425ef6"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7639 CNY ↓-0.31%",
+      "url": "https://www.frankfurter.app/2026-09-22?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-09-22</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7639 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0150 (-0.31%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-09-23T03:01:18.063377+00:00",
+      "fingerprint": "9d29f328dcb12e38"
+    },
     {
       "source": "The Guardian - World",
       "title": "Banished to alien lands: Trump’s secret deportation deals",
@@ -1951,296 +2221,6 @@
       "published_at": null,
       "fetched_at": "2026-09-16T03:02:53.168662+00:00",
       "fingerprint": "9843d742a8f9a8c0"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
-      "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
-      "summary": "<p>Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds</p><p>The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.</p><p>If Monday’s flotation of Dangote Petroleum Refinery and Petrochemicals on the Nigerian exchange goes to plan, then Aliko Dangote will add a further $23bn (£17bn) to his $35bn net worth.</p> <a href=\"https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-14T12:38:51+00:00",
-      "fetched_at": "2026-09-15T03:06:26.750085+00:00",
-      "fingerprint": "9379438944ff81f5"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "The London hospital funded by donors who invested in the slave trade",
-      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
-      "summary": "<p>St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans</p><p>Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.</p><p>The Great Hall was a grand, formal space where governors weighed their philanthropic donations and drafted their wills, many while investing in the stock of companies built on the trafficking of enslaved Africans. Today, many of those donors are commemorated in acrylic gold paint on the boards.</p> <a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-14T13:00:58+00:00",
-      "fetched_at": "2026-09-15T03:06:26.750075+00:00",
-      "fingerprint": "e23cc8caa2ff7077"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
-      "category": "politics",
-      "published_at": "2026-09-14T14:08:12+00:00",
-      "fetched_at": "2026-09-15T03:06:26.517468+00:00",
-      "fingerprint": "58fbd384e0294ab0"
-    },
-    {
-      "source": "BBC World News",
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "category": "politics",
-      "published_at": "2026-09-14T11:31:39+00:00",
-      "fetched_at": "2026-09-15T03:06:26.517447+00:00",
-      "fingerprint": "49139d83bc01d4e6"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「贏了就是贏了」？Hyrox北京賽選手失禁奪冠為何引發爭議",
-      "url": "https://www.bbc.com/zhongwen/articles/c74e1wv1xkzo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一名澳洲籍選手在比賽期間懷疑失禁，排泄物沾染賽道和比賽設施，她繼續作賽並最終奪冠，事後一度發文稱「A win is a win（贏了就是贏了）」。事件引發「體育精神」的爭議，也有學者分析Hyrox商業化的速度，可能已超過其管理能力。",
-      "category": "politics",
-      "published_at": "2026-09-14T09:03:04+00:00",
-      "fetched_at": "2026-09-15T03:06:26.424738+00:00",
-      "fingerprint": "ce8470c50ba4753a"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "俄烏戰場為何或會迎來新一批朝鮮軍人",
-      "url": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "朝鮮（北韓）士兵於2024年底被平壤派遣，與俄羅斯部隊並肩作戰，試圖擊退烏克蘭的一次攻勢。烏克蘭總統澤連斯基表示，俄羅斯沃羅涅日地區正進行準備，以接收新一批朝鮮部隊。",
-      "category": "politics",
-      "published_at": "2026-09-14T11:25:51+00:00",
-      "fetched_at": "2026-09-15T03:06:26.424731+00:00",
-      "fingerprint": "bb5c4cb436633f53"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "喜馬拉雅山冰川融化加速，印度經濟面臨什麼風險？",
-      "url": "https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "最新研究警告，喜馬拉雅山冰川正在加速融化，威脅印度的水資源、經濟及社區。",
-      "category": "politics",
-      "published_at": "2026-09-15T00:17:23+00:00",
-      "fetched_at": "2026-09-15T03:06:26.424725+00:00",
-      "fingerprint": "4d601dfa9f21a57e"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美國取消燃煤和燃氣發電廠排放限制",
-      "url": "https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美國國家環境保護局（EPA）表示，此舉將為國家節省數十億美元，並降低能源價格。",
-      "category": "politics",
-      "published_at": "2026-09-15T02:37:42+00:00",
-      "fetched_at": "2026-09-15T03:06:26.424718+00:00",
-      "fingerprint": "370aeb3167745a13"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "9月9日，就近期在中國引起轟動的「星宇股份解約107位應屆生」事件，上交所向星宇股份下發監管工作函，港交所延緩其上市審核，此前，公司董事長周曉萍已公開道歉。",
-      "category": "politics",
-      "published_at": "2026-09-15T00:17:18+00:00",
-      "fetched_at": "2026-09-15T03:06:26.424709+00:00",
-      "fingerprint": "8a55aafaa223f840"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-15T03:06:26.236089+00:00",
-      "fingerprint": "55b4afb58b0bb543"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-15T03:06:26.235954+00:00",
-      "fingerprint": "d31813a3aa335b59"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-15T03:06:26.235789+00:00",
-      "fingerprint": "7591806ea80f1f15"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-15T03:06:26.235650+00:00",
-      "fingerprint": "b54bfac470e15413"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-15T03:06:26.235495+00:00",
-      "fingerprint": "85519a8f6e295c80"
-    },
-    {
-      "source": "The Verge",
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-14T21:21:42+00:00",
-      "fetched_at": "2026-09-15T03:06:25.984436+00:00",
-      "fingerprint": "ab0b67bb40bdb005"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple Home’s new security camera features cost as much as $60 a month",
-      "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-      "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible security cameras saw, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-14T22:28:52+00:00",
-      "fetched_at": "2026-09-15T03:06:25.984430+00:00",
-      "fingerprint": "b33734e74769006c"
-    },
-    {
-      "source": "The Verge",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-14T22:59:41+00:00",
-      "fetched_at": "2026-09-15T03:06:25.984424+00:00",
-      "fingerprint": "752a4ec6492b7270"
-    },
-    {
-      "source": "The Verge",
-      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-      "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valve designer Pierre-Loup [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-15T00:13:47+00:00",
-      "fetched_at": "2026-09-15T03:06:25.984414+00:00",
-      "fingerprint": "d7d4f6eed21789a8"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "最前线丨从消费电子到AIoT生态，绿联的产品边界突围",
-      "url": "https://36kr.com/p/3983259337800710?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260914/v2_0badae05ce5f4f88a5ee2b8c4d4db54f@6221844_oswg694706oswg2150oswg1428_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>在消费电子行业，风口轮转的速度往往以季度计。一家公司如果长期固守原有品类赛道，很难持续跟上技术迭代与需求变迁。</p>\n  <p>面对行业现状，绿联做出新的战略调整。9月12日，绿联科技在厦门举办品牌全球发布会，正式发布了充电安全生态与AIoT生态产品。</p>\n  <p>从消费电子起家，到如今切入AI NAS、家庭智能体与本地算力设备，绿联正在探索更具行业普遍性的核心课题：在竞争激烈且快速变化的消费科技领域，一家公司如何构建穿越周期的长期竞争力？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260914/v2_3c78c6ff6d904a58a5540022ad8f0faf@6221844_oswg13294861oswg5377oswg3586_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">发布会活动现场（图源/企业）</p>\n  <p>绿联的起点，是较为大众熟知的充电类和办公拓展类产品。硬氪在现场获悉，绿联目前在全球拥有超过3亿用户。2025年，绿联在泛拓展类消费电子产品实现全球出货量第一；2026上半年，全球充电创意产品业务同比增长超50%。</p>\n  <p>近年来整个行业对“充电”这件事的定义正在发生变化。用户的需求不再停留在“充得快”，而是向“充得安全、用得省心”迁移。随后，工信部组织制定了强制性国家标准《移动电源安全技术规范》，于2026年4月发布，设置12个月过渡期，被业内称为“史上最严”移动电源安全标准。</p>\n  <p>绿联也是新国标起草单位之一，其创始人张清森在采访中表示，新国标不是简单迭代，而是“指数级的改变”，在安全与成本层面都大幅提高了行业门槛，因此“未来不是所有企业都能做充电宝”。</p>\n  <p>从纵向来看，绿联发布了其“充电安全生态”，从源头安全、过程智能防护、全流程品质保障到数字化安全可视，将安全能力从单一产品延展至多品类、多场景。而横向来看，AI NAS与AIoT则是绿联的横向突围。</p>\n  <p>从官方数据得知，2026上半年，绿联智能存储业务同比增长超85%；AINAS iDX系列在Kickstarter众筹平台募资超880万美元，拿下NAS品类全球众筹第一名。这些数据表明，绿联在存储赛道已经建立起一定的全球认知。</p>\n  <p>张清森在采访中将HomeAgent描述为“AIoT的中枢”：提供中央存储与算力，并通过协议将算力分享给灯、扫地机、3D打印机等设备。这意味着，绿联并不满足于做一台存储硬件，而是试图成为家庭本地算力的调度中心。</p>\n  <p>这一思路的合理性在于，当前多数AIoT设备若单独加入AI能力，成本高且算力闲置率高，而集中式算力复用可以显著降低整体成本。</p>\n  <p>而发布会上亮相的MasterAgent，则进一步强化了这一逻辑。作为全球首款搭载NVIDIA Jetson Thor T5000的本地AI智能体存储设备，其算力高达2070 TFLOPs，可在本地运行122B大模型。结合Arm架构CPU与NVIDIA GPU，绿联可以根据不同细分市场的性能要求灵活配置主控方案。</p>\n  <p>这背后是绿联对AI从云端走向边缘和本地的趋势判断：让AI从云端工具进入家庭、学习、办公等真实场景。</p>\n  <p>目前，绿联的AIoT生态产品线已涵盖HomeAgent、MasterAgent、智能摄像头、智能音箱、智能相框等。张清森在采访中解释了这一布局的逻辑：以家庭场景为中心，空间检测需要“眼睛、嘴巴、耳朵”，因此自然衍生出家庭摄像头、智能音箱与智能相框。这套系统协同起来，形成一套家庭智能管家式的系统，让用户在任何时间、任何地方都能接触到系统的存在。</p>\n  <p>但绿联也清楚，自建生态无法覆盖所有场景。张清森明确表示，未来会开放第三方生态，“烟感等各种智能AIoT数据都加进来”，并引入更强的算力与AI技能，如翻译、文生视频、文生图等。</p>\n  <p>这种开放姿态，与绿联对NAS系统的判断有关：张清森认为，现有操作系统大多不是为AIoT设计的，而NAS系统“最匹配AIoT”，具备先发条件去切入AIoT生态。</p>",
-      "category": "tech",
-      "published_at": "2026-09-14T13:06:44+00:00",
-      "fetched_at": "2026-09-15T03:06:25.828594+00:00",
-      "fingerprint": "d1d24f433f10e905"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从「流量依赖」到「信任复利」，跨境电商的下一个增长公式是什么？｜超级会氪厅",
-      "url": "https://36kr.com/p/3982902160063239?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260914/v2_2b3662e6b33346c48d47acf91de42ff9@6385117_oswg3426588oswg2985oswg1403_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>过去几年，跨境电商的核心增长逻辑高度依赖广告投放。铺货、测款、投流、起量，一套标准动作下来，只要流量成本低于利润空间，生意就能滚动起来。</p>\n  <p>但到了2026年，这套公式正在失效，跨境电商经历着一场从流量到信任的深刻转向。一方面是流量成本持续走高，另一方面平台规则加速演变，Shopee、TikTok Shop、Lazada等电商平台的佣金水平也有所上调，叠加广告与物流成本，综合运营压力倍增，多数卖家利润停滞或下滑。&nbsp;</p>\n  <p>流量驱动的粗放增长走到尽头，行业开始重新思考，什么才是可持续的增长引擎？</p>\n  <p>在成本高压与平台规则趋紧的双重挤压下，卖家的增长路径正面临前所未有的挑战——而解方，恰恰指向一个曾被忽视的变量：消费者信任。</p>\n  <h2><strong>流量越来越贵，信任成为新的“硬通货”</strong></h2>\n  <p>流量成本的持续攀升，倒逼出海企业重新审视增长逻辑。过去“投流即增长”的模式面临严峻挑战，广告投放ROI持续走低，单纯依赖平台流量的卖家正在被不断上涨的成本挤压利润空间。</p>\n  <p>与成本结构变化同步发生的，是消费者决策逻辑的演变。信任正从“加分项”变为影响转化率的关键因素。</p>\n  <p>独立站的崛起也在进一步印证这一趋势，加速分食市场份额，成为越来越多出海品牌沉淀用户关系、积累品牌资产的主阵地。</p>\n  <p>虽然DTC模式的用户粘性与长期价值显著优于传统平台模式，但也伴随着新的挑战。一方面，获客成本持续走高，优秀品牌的首单净利润不断走低，复购率成为拉高整体客户终身价值的关键。另一方面，品牌在从“平台铺货”走向“自主品牌”的过程中，面临着品牌价值稀释的核心困扰。</p>\n  <p>依赖广告投放拉动的粗放增长，正逐步被精细化运营与品牌信任建设所取代。<strong>信任，正在成为跨境电商最稀缺的资产。</strong>如何让域名、官网、品牌内容等“信任基建”真正支撑起长期的品牌价值，如何在电商平台与独立站之间建立统一的品牌信任体系，成为出海企业必须回答的问题。</p>\n  <h2><strong>AI重塑跨境电商，流量分配逻辑被改写</strong></h2>\n  <p>另一个容易被忽视的维度是：AI正在同时从两个方向重塑电商流量的分配逻辑。</p>\n  <p>一方面，亚马逊、TikTok Shop等主流电商平台正加速将AI能力嵌入站内推荐与搜索系统，用AI导购、智能问答等功能替代传统的关键词与广告排序逻辑；另一方面，AI购物代理、生成式搜索等平台外的AI渠道，也在绕过传统电商入口直接连接消费者与品牌。</p>\n  <p><strong>品牌因此面临双重挑战：既要被平台内的AI系统识别和推荐，也要被平台之外的AI代理“看懂”并推荐。</strong>这意味着当AI代理开始替消费者做购物决策时，品牌能否被AI系统准确理解、索引和推荐，直接影响流量的获取能力。</p>\n  <p>在传统的搜索和广告逻辑下，品牌可以通过竞价排名和关键词优化获得曝光；但在AI推荐逻辑下，产品的结构化数据、用户评价、品牌内容的丰富度，以及域名的可信度，都将成为AI系统判断推荐与否的重要依据。</p>\n  <p>当流量越来越贵、消费者越来越谨慎、AI正在重塑整个流量分配逻辑时，信任不再是一个抽象的品牌概念，而是可以被量化、被运营、被积累的核心资产。</p>\n  <p><strong>2026年9月16日，36氪携手威瑞信「深水规则」出海系列沙龙，走进中国企业出海的战略枢纽城市——上海，特别邀请到威瑞信大中华区高级总监张志、乐歌股份跨境业务品牌经理张翼飞、Ocean Stone管理合伙人杨飞、阿里云中小企业应用高级产品专家王霄等嘉宾，分别带来超级观点与实战分享。</strong></p>\n  <p>嘉宾们将围绕“从‘流量依赖’到‘信任复利’——品牌信任如何成为跨境电商的终极壁垒？”主题，聚焦“品牌信任如何成为终极壁垒”这一核心命题，探讨跨境电商从“流量依赖”到“信任复利”的增长新公式。分享前沿洞察与一线实战经验，并与参会企业展开深度探讨。欢迎出海企业的创始人、CEO及品牌、运营、海外业务负责人报名参与，共同探索AI时代下的跨境电商增长新路径。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260914/v2_51ab1f664e1643dd84178880f9e4525a@6385117_oswg2843386oswg1080oswg7304_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-09-14T13:38:35+00:00",
-      "fetched_at": "2026-09-15T03:06:25.828588+00:00",
-      "fingerprint": "8449e408aab1de89"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨选手赛中失禁污染赛道，HYROX中国宣布整改；机构预计美股明年将暴跌21%；苹果推出Siri人工智能",
-      "url": "https://36kr.com/p/3983906594257667?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <p>铠侠据悉考虑赴美上市融资100亿美元</p>\n  <p>被罗永浩吐槽后，野人先生当天涨粉超3万</p>\n  <p>胖东来新员工实行四年合同制，到期后不续签</p>\n  <p>特朗普访爱期间取消爱尔兰威士忌关税</p>\n  <p>现代汽车集团据报暂不考虑明年推动波士顿动力IPO</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>选手赛中失禁污染赛道，HYROX中国宣布整改</strong></p>\n  <p>9月12日HYROX北京站，澳大利亚女选手Joanna比赛中突发腹泻失禁，污染赛道与公用器械，仍坚持完赛夺冠，引发关于赛场卫生、裁判处置、判罚尺度的网络热议。9月14日赛事方发布整改公告，坦言全球竞赛规则缺少该类突发状况处置条款，现场未能第一时间干预。赛事方称事发后已封闭消杀污染区域、赛后更换全部地毯；同时将向全球总部提案完善竞赛细则，升级赛前、赛中场地器械消杀流程，并宣布将对网暴选手者予以禁赛处理。（界面新闻）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260915/v2_9fd631c3c2af4a90ba483c6159fd3d1e@5667365_oswg202532oswg1080oswg1528_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">配图</p>\n  <p><strong>机构预计美股明年将暴跌21%，“AI主导股市繁荣或将破灭”</strong></p>\n  <p>据媒体当地时间13日报道，分析师称，美国股市正处于泡沫后期，明年势将暴跌21%，而美国国债收益率突破5%将标志着货币紧缩新时代。投资者应趁还能享受的时候享受2026年最后几个月，因为由AI主导的股市繁荣即将破灭。据上述报道，英国知名经济研究机构凯投宏观（Capital Economics）高级市场经济学家詹姆斯·赖利（James Reilly）重申了此前的预测：标普500指数今年底将收于8250点，较9月11日收盘上涨7.7%，随后到2027年底将暴跌21%至6500点。（中新经纬）</p>\n  <p><strong>苹果推出Siri人工智能</strong></p>\n  <p>苹果推出Siri人工智能。Siri人工智能今日开始以英语进行测试，未来将扩展至5种语言。Siri人工智能在iOS、iPadOS和watchOS上初期将无法在欧盟使用。（财联社）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>DeepSeek-V4.1-Flash上线千问AI平台</strong></p>\n  <p>36氪获悉，9月14日，阿里云宣布，DeepSeek-V4.1-Flash正式上线千问AI平台，相关API服务与Token Plan同步开放。</p>\n  <p><strong>全球首个人工智能+脑机接口标准在中国发布</strong></p>\n  <p>国家药监局9月14日批准发布中国第三个脑机接口医疗器械标准，也是全球第一个采用人工智能技术处理脑电数据的脑机接口医疗器械产品标准，新标准将于明年9月1日起正式实施。据了解，新标准系统规范了脑机接口医疗器械的数据采集、处理、标注、存储和访问等全流程的技术要求和测试方法，帮助企业破解脑机接口医疗器械在数据集质量控制尺度不统一、建设过程不规范等共性问题。（央视新闻）</p>\n  <p><strong>马斯克称极有信心在明年将英伟达AI计算机送入太空</strong></p>\n  <p>当地时间9月13日，马斯克在社交平台上回复用户时表示：“我极有信心，SpaceX明年将把英伟达VR NLV72 AI计算机送入太空。”（界面新闻）</p>\n  <p><strong>宇树科技升级G1机器人</strong></p>\n  <p>36氪获悉，宇树科技14日宣布，人形机器人G1全面升级，正式推出G1+。G1+围绕运动性能、感知交互、智能体验三大维度一次性带来6项升级，在保留G1高性价比定位的同时，重点补强颈部灵活性、关节电机输出与热管理、视觉与触觉感知、供电续航以及远场语音交互能力。标准版G1+含税售价为9.5万元，面向科研与深度开发场景的G1+EDU售价暂未公布。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>央行：9月15日将开展5000亿元买断式逆回购操作，期限为6个月</strong></p>\n  <p>36氪获悉，央行称，为保持银行体系流动性充裕，2026年9月15日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展5000亿元买断式逆回购操作，期限为6个月（181天），到期日为2027年3月15日（遇节假日顺延）。</p>\n  <p><strong>高瓴90后合伙人严文韬或将出任DeepSeek CFO</strong></p>\n  <p>9月14日，记者从多个独立信源处获悉，DeepSeek的CFO即将到岗，最接近最终人选的是高瓴创投合伙人严文韬，后者目前已经在走离职程序中。另有信源表示，五源资本、红杉资本、龙珠资本等国内多家头部投资机构的负责人都就该岗位与梁文锋进行过交流。但这场围绕核心高管席位的争夺，始终都保持着神秘。多位业内人士认为，应聘是假，借机会交流与沟通，甚至是了解潜在投资机会是真。另据接近DeepSeek的人士透露，梁文锋希望该名CFO是位90后。（凤凰网科技）</p>\n  <p><strong>卫龙进口魔芋粉涉二氧化硫超标被拦截退回，客服：该批原料没有用于任何产品</strong></p>\n  <p>近年来魔芋爽为卫龙核心业务增长点的关键品类，日前一批进口原料“翻车”的话题让卫龙冲上热搜。海关总署披露的信息显示，卫龙从印尼进口的162吨魔芋粉因二氧化硫超标而被拦截。9月14日，卫龙电商平台客服回应北京青年报记者称，该批原料已按法规退回，没有用于任何卫龙产品，与卫龙在售产品无关。</p>\n  <p>针对本次海关拦截原料一事，食品行业专家建议卫龙需正视舆情与品控问题，主动发布官方公告，完整披露问题原料处置流程、排查结果，公开全套检测数据，并引入第三方权威机构复核校验。同时需全面升级供应商准入、抽检与溯源体系，从源头筑牢原料安全防线，挽回公众信任。（新浪新闻）</p>\n  <p><strong>美股三大指数集体收跌，大型科技股涨跌不一</strong></p>\n  <p>36氪获悉，9月14日收盘，美股三大指数集体下跌，道指跌0.29%，纳指跌0.56%，标普500指数跌0.48%。大型科技股涨跌不一，英特尔跌超5%，英伟达跌超3%，特斯拉、亚马逊跌超1%；奈飞、谷歌涨超3%，Meta涨超2%，微软涨超1%，苹果小幅上涨。热门中概股涨多跌少，爱奇艺涨超4%，理想汽车涨超3%，网易、拼多多涨超2%，小鹏集团涨超1%；富途控股跌超1%，蔚来，阿里巴巴小幅下跌。</p>\n  <p><strong>债券和股票融资在社融资增量占比已超过贷款</strong></p>\n  <p>根据测算，今年前8个月，债券和股票融资在社会融资规模增量中的占比升至50.31%，已超过贷款占比，较五年前同期高出近20个百分点。其中，企业债券在社会融资规模增量中的占比升至11.67%，较上年同期提升约5.8个百分点。（证券时报）</p>\n  <p><strong>被罗永浩吐槽后，野人先生当天涨粉超3万</strong></p>\n  <p>9月12日下午，罗永浩发博说在机场尝了最近爆火的冰淇淋品牌野人先生，\"很一般，考虑到价格甚至可以说难吃，它是怎么火起来的\"，还补刀\"比钟薛高难吃多了，怀念钟薛高\"。他特意在文末标注：这只是消费者的正常评价，\"请千万不要惹我\"。</p>\n  <p>罗永浩吐槽野人先生事件后，野人先生账号当天涨粉3万、近30天涨粉40万，目前品牌官方尚未回应。工作人员表示会将问题反馈领导。评论区网友：不要回复。（中国蓝新闻）</p>\n  <p><strong>英伟达、Palantir等据报限制使用OpenAI和Anthropic最先进AI模型</strong></p>\n  <p>9月14日，据报道，英伟达、Palantir和Booz Allen Hamilton正要求OpenAI、Anthropic提供新的安全保障，并减少或停止使用两家公司最先进的AI模型。据报道，Palantir已说服Anthropic承诺对所有模型提供“不可撤销”的零数据保留（ZDR）保障。部分企业正转向使用自研AI模型处理更敏感的业务任务。</p>\n  <p><strong>胖东来新员工实行四年合同制，到期后不续签</strong></p>\n  <p>9月13日，胖东来创始人于东来发文称，“今后！胖东来再招员工都会是学员性质。公司尽力培养员工学习懂得科学文明的生活理念和生活方式、学习独立人格和相关技术！合同四年、不续签、走向社会、努力为社会培养更多优秀人才，特别专业留企做像老师一样的培训师傅！希望这个群体做事品质生活轻松阳光、更多人像光一样能为社会带来更多美好的力量！”于东来还在评论区表示，未达到目标的员工没有合格证书，未来可以在胖东来网上公开查询到此类信息。（北京日报、澎湃新闻）</p>\n  <p><strong>广汽集团回应紧急停牌，因重要事项未公告A+H股双双临停</strong></p>\n  <p>9月14日上交所停复牌信息显示，广汽集团（601238）因重要事项未公告，9月14日全天停牌。同日，广汽集团港股盘前亦临停，截至早盘竞价结束，大幅高开8.64%，报2.325港元/股。广汽集团工作人员回应称：“停牌是今天上午紧急发生的，因为今天收市后将发布一个重要公告，但具体时间待定，公告内容暂时无法透露。”对于周末发酵的“一汽与广汽将进行持股联营或战略重组”传闻，广汽集团未予回应。（财联社、第一财经）</p>\n  <p><strong>iPhone 18 pro“跌”至9099元，不支持无理由退货</strong></p>\n  <p>9月10日，Apple正式发布iPhone 18 Pro系列及首款折叠屏iPhone Duo。14日上午，有电商平台上的iPhone 18 Pro价格直降900元，256G的iPhone 18 Pro售价9099元。记者注意到，该平台要求现场签收，配合快递人员拆封、激活，激活后不支持7天无理由退换货。对此，钱江视频记者咨询了客服人员，其表示该产品因有现场签收要求，拆封激活后不支持7天无理由退货，但如果拆封后有质量问题，可凭官方检测单7天退15天换。（钱江视频）</p>\n  <p><strong>程序员运行代码删掉公司89TB数据，获刑五年十个月</strong></p>\n  <p>算法工程师王某用公司算力干私活，代码运行超17小时后才被运维发现中止，导致AI游戏部门自研文生3D、渲染模型及全部训练数据共89TB被删，模型训练系统瘫痪，研发项目全部停摆。后公司报警，王某获刑五年十个月，赔偿20.4万元。系北京市首例破坏人工智能模型刑事案件。（央视网）</p>\n  <p><strong>苹果客服回应iPhone 17大降价：目前苹果官方网站并未发布任何降价通知</strong></p>\n  <p>9月14日，iPhone17大降价登上热搜，iPhone 17标准版在部分苹果授权店叠加优惠和国补后可低至5499元，相当于便宜1300元；iPhone 17 Pro标准版则能便宜500元。对此，苹果客服回应称：“目前苹果官方网站并未发布任何降价通知。”对于第三方渠道的降价行为，客服提醒消费者需警惕风险。</p>\n  <p>此外，客服确认iPhone 17 Pro和iPhone 17 Pro Max已在官方渠道下架，但线下苹果直营零售店可能仍有部分库存，具体价格需到店咨询，因官方目前未提供指导价。苹果方面建议消费者优先选择官方渠道，以确保产品质量与售后权益。（中新经纬）</p>\n  <p><strong>三星、海力士拒绝韩国电力25万亿韩元预付款计划</strong></p>\n  <p>9月14日，据报道，三星电子和SK海力士已拒绝韩国电力公司提出的两家公司合计预付25万亿韩元电费、分5年支付的提议。报道称，两家公司认为，在行业未来环境存在不确定性的情况下，提前支付巨额款项可能会对其中长期业务战略造成负担。韩国电力曾提议三星和SK海力士分别预付20万亿韩元和5万亿韩元电费，并表示这些预付款资金将主要投资于核心电网基础设施。（财联社）</p>\n  <p><strong>特朗普访爱期间取消爱尔兰威士忌关税</strong></p>\n  <p>美国总统唐纳德・特朗普周日宣布，取消对爱尔兰威士忌征收的关税，以此恢复爱尔兰威士忌与苏格兰、北爱尔兰威士忌之间的公平竞争环境。这项出人意料的声明，是在他为期两天的爱尔兰访问行程尾声发布。（新浪财经）</p>\n  <p><strong>迈克尔·戴尔家族办公室据报牵头77亿美元收购Baldwin</strong></p>\n  <p>迈克尔·戴尔旗下家族办公室DFO Management与Sequence Holdings组成的财团，接近达成将美国保险经纪商The Baldwin Group私有化的协议。据知情人士，拟议报价为每股32.50美元，对应企业价值约77亿美元；若最后阶段未出现障碍，交易可能很快公布。（新浪财经）</p>\n  <p><strong>现代汽车集团据报暂不考虑明年推动波士顿动力IPO</strong></p>\n  <p>据报道，现代汽车集团旗下人形机器人公司波士顿动力明年不太可能进行首次公开募股（IPO）。现代汽车集团高管表示，波士顿动力尚未实现旗舰产品Atlas的大规模部署，目前仍处于亏损状态。现代汽车集团尚未公开披露波士顿动力潜在上市的时间表或估值目标。（界面新闻）</p>\n  <p><strong>法国就15岁以下未成年人社媒禁令向欧盟提交新版法案</strong></p>\n  <p>当地时间9月14日，法国总统马克龙在社交媒体发文宣布，法国政府当天已向欧盟委员会通报禁止15岁以下未成年人使用社交媒体的新版本法案。此前，法国宪法委员会以相关规定对青少年言论和通信自由构成“过度侵犯”为由，于8月否决了原法案。新方案不再直接列出禁止使用的社交媒体平台，而是拟对约10项具有危害性或成瘾性的功能进行限制，包括视频自动播放、夜间推送通知、与陌生账号交流等。同时，该方案允许13岁至15岁未成年人在法定监护人同意的情况下获得豁免。（央视新闻）</p>\n  <p><strong>加拿大总理将访欧，寻求欧盟“准成员国”特殊地位</strong></p>\n  <p>加拿大总理卡尼将于9月15日至17日访问法国斯特拉斯堡和英国利物浦，寻求进一步加强与欧洲的关系。据美国方面13日消息，卡尼此行寻求加拿大获得欧盟“准成员国”的特殊地位。（央视新闻）</p>\n  <p><strong>亚马逊计划在迈阿密空难后暂停与21 Air合作</strong></p>\n  <p>当地时间9月13日，亚马逊公司在其新闻博客上表示，在上周末发生那起悲剧性事件后，公司决定暂停与21 Air的运营合作，该公司是7598号航班的运营商。亚马逊发言人Kelly Nantel表示，公司将继续支持相关调查。据央视新闻报道，当地时间9月6日下午2时左右，美国亚马逊公司一架从波多黎各起飞的波音767-300型货运飞机在迈阿密国际机场着陆时冲出跑道，引发大规模紧急响应，机场暂停运营。迈阿密-戴德县警察与消防部门联合举行发布会表示，事故目前已造成至少5人死亡、5人受伤。（新浪财经）</p>\n  <p><strong>美光、闪迪赴韩争抢半导体核心人才，三星加码薪酬与股权激励应对挖角</strong></p>\n  <p>据媒体报道，半导体竞争的主战场，已经转向人才争夺战。三星电子为守住市场龙头地位，不得不着手保护核心人才；与此同时，美光、闪迪等全球竞争对手也涌入韩国，争抢高带宽内存（HBM）与NAND闪存设计人才。能否抢到足够多、能左右技术差距的核心人才，已经成为下一代存储器市场的胜负关键。三星电子正通过提高绩效奖金、扩大股权奖励予以应对。今年上半年，员工数量较去年小幅减少，但薪酬总额、账面薪酬成本等指标均出现上涨。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>铠侠据悉考虑赴美上市融资100亿美元</strong></p>\n  <p>据报道，铠侠考虑在美国上市，拟融资100亿美元。知情人士称，铠侠一直在与美国银行、高盛和摩根大通洽谈。（财联社）</p>\n  <p><strong>Anthropic据报仍计划2026年上市，AI安全争议未改变IPO计划</strong></p>\n  <p>9月14日，据报道，人工智能公司Anthropic仍可能于2026年进行首次公开募股（IPO），并已决定选择纳斯达克上市。尽管近期AI安全、产品责任和监管问题受到关注，这些因素目前并未改变公司的上市计划。据报道，Anthropic认为，成为上市公司后接受更高程度的信息披露和外部监督，反而有助于提升AI安全透明度。公司仍需要通过资本市场筹集资金，短期内推迟IPO并依靠私募融资虽可行，但长期退出资本市场并不现实。（界面新闻）</p>\n  <p><strong>印度汽车零部件厂商Victura选定罗斯柴尔德担任3亿至4亿美元印度IPO顾问</strong></p>\n  <p>据印度媒体《Mint》援引两位不愿具名知情人士消息报道，汽车零部件厂商Victura集团选定罗斯柴尔德作为顾问，统筹其印度上市事宜。消息人士透露，Victura已与投行开展初步磋商。公司预计在未来数月敲定相关中介机构，有望于明年晚些时候上市。募资所得资金或将用于业务扩张。（新浪财经）</p>\n  <h2>投融资</h2>\n  <p><strong>智谱完成约50亿美元融资</strong></p>\n  <p>9月13日，智谱（02513.HK）宣布完成约50亿美元融资，包括约20亿美元股份配售及约30亿美元可转债发行，此次融资主要用于下一代GLM模型、完全自训练体系及相关算力基础设施。根据公告，智谱股份配售价为每股714港元，较公告前收盘价折让约9.96%，配售股份占扩大后已发行股本约4.50%。可转债采用零息结构，发行价为本金的100.5%，到期按本金赎回；初始转股价为每股892.50港元，较配售价溢价25%，较公告前收盘价溢价约12.55%。</p>\n  <p>零息与溢价发行的组合，是本轮融资的重要信号。随着研发预算与资金安排进一步明确，智谱持续开展训练实验、推进模型迭代和完善算力体系的资本基础得到增强，为参与下一阶段全球前沿模型竞争增加了筹码。（每日经济新闻）</p>\n  <p><strong>“量域芯创”完成数千万元天使轮融资</strong></p>\n  <p>36氪获悉，“量域芯创”近日已完成数千万元天使轮融资，本轮由金雨茂物领投，杭州高新投、藕舫天使、国信通联、海南高第等机构跟投。资金将主要用于大冷量低振动湿法稀释制冷机、低温测控芯片及低温柔性带状线缆三大核心产品的研发与迭代。</p>\n  <p><strong>“兆默真空”完成亿元A轮融资</strong></p>\n  <p>36氪获悉，近日，“兆默真空”宣布完成亿元A轮融资，由中科创星领投，哇牛资本、凯风创投、正景资本跟投，老股东上海半导体产投持续加注。融资资金将主要用于产能扩充、核心技术研发迭代、市场开拓及团队建���。</p>\n  <h2>酷产品</h2>\n  <p><strong>豆包手机助手发布消费者版本，首款新机将于9月16日正式开售</strong></p>\n  <p>36氪获悉，9月14日，豆包手机助手消费者版本正式发布。豆包手机助手以豆包App为基础，与手机厂商在系统层面展开合作，围绕交互、任务执行、本地记忆及检索等核心体验，进一步探索AI在手机中的应用。</p>\n  <p><strong>特斯拉Cybercab将在国内亮相，仅为静态展示</strong></p>\n  <p>9月14日，特斯拉宣布，赛博无人驾驶电动车Cybercab将于9月17日-27日在北京、上海公开亮相，地点分别为北京华贸特斯拉体验店和上海兴业太古汇LG1层北厅。特斯拉提醒，此次仅为静态展示。产品及服务在不同区域的上市情况受推出计划、法规要求、监管机构批准等因素影响，请以当地市场实际法规要求和最终发布为准。（新浪科技）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260915/v2_2d3f56c8cd834e2a88ee505d4c409dfb@5667365_oswg685421oswg1080oswg633_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">配图</p>\n  <p><strong>古尔曼称苹果将推出iPhone Duo Max，未来还有SE和Mini</strong></p>\n  <p>近日彭博社记者马克·古尔曼在最新一期《Power On》专栏中透露，苹果将在未来几年推出iPhone Duo Max机型，并解读了苹果最终选用“Duo”作为后缀、放弃其他名称的原因。</p>\n  <p>据TechWeb报道，古尔曼明确提到，iPhone Duo Max是最有可能率先到来的衍生机型，将配备更大的屏幕尺寸，面向追求平板级视觉体验的用户群体，更适合视频观看、游戏和多任务处理。此外，古尔曼还预测苹果可能推出配置精简的iPhone Duo SE，以更低售价吸引预算敏感型消费者；以及采用翻盖式设计的iPhone Duo Mini，主打便携性。（IT之家）</p>\n  <p>&nbsp;</p>\n  <p><strong>“存钱心态”小调查</strong></p>\n  <p>现在的年轻人，似乎总在为存钱感到焦虑。每个打工人可能都会立下一个每月存钱的FLAG，但，实现了多少呢？</p>\n  <p>工资到账，还完花呗交完房租，余额就没剩多少；刷会社交媒体，直播间出来钱包就又瘪了一圈；省吃俭用一个月，出门滑个雪就努力清零……“我也没买啥啊，我钱呢？”这成了当代年轻人的未解之谜。</p>\n  <p>你现在有存钱的习惯吗？存钱的最大阻碍来自哪里？欢迎填写“年轻人存钱行为小调查”，聊聊你的存钱态度和成果~</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260915/v2_7fce615d04494c06aad28898cce4e142@5667365_oswg22913oswg389oswg395_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小调查</p>\n  <p><strong>整理丨王浩阳</strong></p>",
-      "category": "tech",
-      "published_at": "2026-09-15T00:03:39+00:00",
-      "fetched_at": "2026-09-15T03:06:25.828581+00:00",
-      "fingerprint": "3b4511f41fc90b1b"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "前高通算法研发经理跨界AI算力板检测，获近亿元战略投资丨36氪首发",
-      "url": "https://36kr.com/p/3983995421440769?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260915/v2_2172732829d244f3b1e044ce36b54a27@6221844_oswg560754oswg1920oswg1080_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2500</strong>字，建议阅读<strong>5</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，深圳康微视觉技术有限公司（以下简称“康微视觉”）近日已完成近亿元Pre-A轮融资。本轮由南京精智达清源投资基金领投，川商基金及老股东清源资本跟投，投中资本担任独家财务顾问。资金将主要用于扩充研发与运营团队、扩大产能以应对爆发式订单增长，以及下一代产品与技术平台的研发。</p>\n  <p>康微视觉2019年成立于深圳，是一家专注于高端泛半导体光学检测设备的高新技术企业。核心团队多毕业于西安交通大学与华中科技大学，创始人兼CEO张晖拥有近20年算法芯片化与产品化经验，曾任职高通负责芯片算法研发，后以CTO身份联合创立智能驾驶公司前向启创，该公司于2019年被上市公司收购。团队兼具芯片端算法、智能驾驶视觉感知与精密设备落地三重基因。</p>\n  <p>2019年，张晖与团队从被收购的智能驾驶公司退出后，开始寻找新的方向。当时市场上一个被忽视的结构性机会引起了他的注意：全球高端PCB检测设备市场长期由美国康代、奥宝（现KLA）以及台湾牧德科技、由田新技��家上市公司垄断，四家合计年营收超过30亿元。</p>\n  <p>与此同时，AI算力爆发正推动PCB产业向高阶HDI、IC载板方向升级，线路越来越细、层数越来越多、微孔密度越来越大，传统的2D检测手段已无法满足三维缺陷检测需求。</p>\n  <p>需求的爆发源于AI算力基建带来的检测标准升级。张晖观察到：“以前高端PCB的3D检测主要在实验室做抽检，一个料号可能只抽一张板。现在英伟达要求每一张板都需要用3D来检，检测量从抽检变成了全检。”</p>\n  <p>而康微视觉团队此前的技术积累恰好与之重叠。张晖告诉硬氪：“智能驾驶的核心是基于视觉感知做车辆、行人、车道线的识别，同时也涉及视觉与激光雷达深度图的融合。高端半导体的AOI检测正在从2D走向3D，我们在智能驾驶中积累的AI算法、多传感器融合经验，可以迁移过来。”</p>\n  <p>团队花了前三年时间与设备公司合作提供核心算法方案，以此补齐设备工程化经验，2022年正式推出自主品牌设备，2024年实现规模化订单签约及量产交付。</p>\n  <p>目前康微视觉的核心产品线涵盖四大方向：纯3D AOI、2D+3D Hybrid混合AOI、微孔检测设备以及成品外观检查设备。其中最具差异化竞争力的是2D+3D混合成像技术。</p>\n  <p>此前业界通常将2D AOI与实验室级3D设备分开使用，但康微视觉创新性地将原本应用于半导体领域的线扫式光谱共焦传感器引入高端PCB检测，在一台设备上同时完成表观缺陷（如油墨异色、色差）与三维形貌（如断差、凹陷）的检测，且效率基本匹配。</p>\n  <p>张晖解释：“近两三年新型3D传感器出现，速度和精度能够与2D做到匹配，这让我们能够把实验室设备变成产线设备。”</p>\n  <p>在AI应用层面，康微视觉与市面上常见的“外挂式”AI方案有本质区别。多数第三方AI公司仅将深度学习作为插件放置在AOI设备后端做缺陷复判，而康微视觉从资料解析、特征提取到缺陷分类的整个检测链条中均内嵌自研AI框架，包括基于模板差分融合的TempDCF网络、主动负样本挖掘的DHNM框架等。在具体性能指标上，3D检测精度可达±1微米，检出率超99.9%，误检率控制在5%以内。</p>\n  <p>据张晖透露，公司2026年营收较前一年度预计实现数倍增长。目前公司已进入国内多家千亿级PCB上市公司的供应链，终端客户覆盖英伟达、谷歌、华为等全球头部科技公司。</p>\n  <p>对于市场竞争格局，张晖认为康微视觉已跨越单纯的国产替代阶段。“我们在AI算力板这个细分领域，跟海外厂商相比不是追赶，而是拉出了一个代差。我们在头部客户那里迭代了几年，设备速度比过去的产品快几倍，精度提升几倍，价格还更有优势。”在他看来，AI算力基建不仅拉动了设备数量需求，更重塑了检测设备的技术门槛，这恰恰是具备AI原生能力的新玩家的机会窗口。</p>\n  <p>谈及AI算力升级对行业的进一步影响，张晖表示康微视觉在高端PCB检测的基础上，正将创新技术拓展至其他AI算力核心器件的检测，以弥合客户全面升级的检测需求与传统设备能力之间的断层。目前在光模块检测等领域，已经完成了相应产品的开发。</p>\n  <p><strong>以下为硬氪与康微视觉创始人张晖的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：康微视觉的核心壁垒是什么？</strong></p>\n  <p><strong>张晖：</strong>首先是先发优势带来的数据与场景积累。我们在AI算力板检测上与头部客户深度绑定、快速迭代，设备速度与精度已经与竞品拉开一个代差。其次是全栈自研能力，从光学模组、运动控制到AI算法，我们都自己掌握。第三是量产交付能力，高端PCB产线对设备稳定性要求极高，我们通过了头部客户严苛验证并持续复购，这不是短期能复制的。</p>\n  <p><strong>硬氪：AI技术对半导体检测行业的改变究竟有多大？</strong></p>\n  <p><strong>张晖：</strong>改变是结构性的。传统AOI基于专家系统和逻辑规则，面对越来越复杂的板子，误报率、漏检率急剧上升。我们从底层就用AI做特征提取和目标检测，框架完全是深度学习原生的。另外，AI算力需求本身也在倒逼检测设备升级，英伟达这类客户把全检变成标准，传统设备根本接不住这种量级和精度的要求，这就是我们的窗口期。</p>\n  <p><strong>硬氪：下一阶段的主要挑战是什么？</strong></p>\n  <p><strong>张晖：</strong>我们目前面临的最大挑战集中在两个层面。首先是交付能力的考验。面对爆发式的订单增长，保证稳定供货是首要任务。我们现有产能约为年产200台，目前产线已接近满负荷运转，为此我们正计划将产能扩充至年产500台，这一目标预计在三年内完成，产线将继续保留在深圳。其次是产品和市场的纵深拓展。在研发端，我们将持续提升AI算力板检测设备的性能，巩固技术代差优势，并以此为基础，向日本揖斐电、台湾三大载板巨头等世界级客户渗透。</p>\n  <p>同时，我们会依托本轮领投方精智达清源基金在半导体产业内的资源，向技术壁垒更高的先进封装检测领域延伸，目前我们正与韩国技术团队合作，共同开发针对HBM等先进封装场景的检测方案。在市场端，我们计划将海外营收占比从目前的10%（主要覆盖台湾、韩国、东南亚）逐步提升至30%左右，真正实现从“国产替代”到“全球领跑”的跨越。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>本轮领投方精智达清源基金表示：</strong>我们坚定看好AI算力硬件迭代背景下的检测设备新机遇。高阶HDI与IC载板作为AI服务器良率命门，其微孔与线路检测与量测精度直接决定整板可靠性上限。康微视觉是国内稀缺的高阶HDI/IC载板3D-AOI全栈方案提供商，在全球率先突破难度最大的3D图形填孔检测，亦是极少数满足头部AI硬件厂商整板全检要求的设备商，已全面实现对海外巨头的弯道超车，获得多家PCB巨头认可。我们将持续在技术迭代、生态协同及规模化发展等方面为公司赋能，并助力公司进一步切入光模块检测与Wafer 3D检测等前沿赛道，打开更广阔的成长天花板。</p>",
-      "category": "tech",
-      "published_at": "2026-09-15T01:30:16+00:00",
-      "fetched_at": "2026-09-15T03:06:25.828572+00:00",
-      "fingerprint": "f24f3232184a6fe7"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "58秒出杯，能拉花的咖啡机器人，在全球70国卖出600万杯",
-      "url": "https://36kr.com/p/3984040347139078?f=rss",
-      "summary": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;文&nbsp;|&nbsp;冯亚玲、杨越欣</p>\n  <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;编辑&nbsp;|&nbsp;阿至</p>\n  <p>点单、萃取、拉花、出杯，机械臂一气呵成，不到1分钟，一杯定制拉花图案的咖啡从玻璃窗中递出。2026年8月北京世界机器人大会现场，这台高约两米，宽约一米五的氦豚机器人“咖啡馆”COFE+吸引到不少参展观众的注意。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260915/v2_4825e1dc0ab2485198346e95abda8f91@6244039_oswg96656oswg1080oswg1071_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">COFE+北美（得克萨斯州）客户在儿童医院点位制作的3D打印咖啡</p>\n  <p>氦豚机器人成立于2018年，是国内较早进入咖啡机器人赛道的企业之一。与行业内多数企业“拿着技术找场景”的路径不同，2017年开始，氦豚机器人从场景需求倒推技术研发，8年间产品迭代8次。</p>\n  <p>传统咖啡店中，房租、人工、装修摊销合计占总成本的60%至70%，并且面临上涨压力。<strong>相比之下，氦豚机器人的“移动咖啡馆”在保证咖啡口感和拉花效果的前提下，投资成本仅为其70%左右。</strong></p>\n  <p>目前产品已落地全球近4000个点位，包括美国哈佛大学、麻省总医院、新加坡国立大学、丹佛机场、吉隆坡机场、谷歌总部，以及达沃斯论坛、全国两会等会议现场，累计完成600万杯饮品产出。</p>\n  <p><strong>1.自研机器人零部件，可定制拉花图案</strong></p>\n  <p>2018年决定做咖啡机器人时，氦豚机器人依据的不是技术判断，而是产业经济学判断：“不是我们给机器人找咖啡场景，是咖啡这个行业本身就需要更自动化的方式。”氦豚机器人联合创始人韩非子表示，“我们不单纯追逐技术热点，而是以打造长久稳定干活的新生产力为目标。”</p>\n  <p>他算了一笔账：星巴克、瑞幸等咖啡馆的成本结构中，房租、人工和装修摊销折旧占到总成本的60%-70%，并且还在持续上涨。与此同时，能稳定拉花的咖啡师普遍培训成本高但流动率高。</p>\n  <p>而咖啡作为全世界工业化程度最高、标准化程度最高的饮品之一，消费频次高、工艺工序成熟，口感可量化，磨豆、萃取、打奶泡等流程的工具已经实现一定程度工业化，本身就具备被机器人替代的产业基础。</p>\n  <p>2019年上半年，氦豚机器人第一台样机在上海长宁区一栋写字楼落地，但投入使用后出现很多问题：消费者不知道怎么使用，无法分辨哪杯是自己的，不知道下单后要等多久。</p>\n  <p>除了市场端使用体验的不足，生产端也没有现成的供应链可用。以往外带咖啡均由咖啡师手动完成扣盖动作，市面上没有自动压盖机的需求；机器人的糖浆机和制冰机如何精准控制比例也需要解决。</p>\n  <p>于是氦豚机器人只好自己设计模组，找工厂生产。“自研零部件非常痛苦，但做成了就是护城河。”韩非子说，“我们申请了120多项发明等专利，形成了1200多项技术诀窍和2800多组工艺参数。”</p>\n  <p>供应链问题解决后，氦豚机器人开始在产品迭代上下功夫，不断提高用户体验，到第六代产品时，已经可以支持拉花和定制任意打印图案。</p>\n  <p>韩非子介绍：“拉花能否成功不是动作控制精准与否，而是流体力学的问题。”具体来说，机器人拉花是通过流体力学建模，计算奶泡在浓缩咖啡表面的流动、扩散和堆叠规律，将拉花转化为一组可测量、可计算的物理变量。消费者上传任意图片或文字后，算法实时反推出对应的奶流控制参数，机械臂即可在咖啡表面生成定制化图案。</p>\n  <p>最新推出的第七代咖啡机器人又进一步优化了磨豆萃取参数，在追求出品稳定性之外升级口感。2026年5月虹桥机器人咖啡大赛的人机对决中，第七代产品经专业裁判品鉴，口感维度评分已不低于人类咖啡大师。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260915/v2_8d14bdb87c3b4f86b655842b04f0f029@6244039_oswg111040oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">氦豚机器人“咖啡馆”上海外滩南京路步行街点位</p>\n  <p><strong>2.提供多种售卖模式，投资成本为连锁咖啡店70%</strong></p>\n  <p>目前氦豚机器人在全球已布局4000多个点位，其中仅有40个为直营店，用于产品测试和收集用户反馈，其他点位由B端合作伙伴负责本地化运营。<strong>“我们不是卖咖啡机器人设备，而是输出可稳定盈利的机器人轻店整体解决方案。”韩非子表示。</strong></p>\n  <p>氦豚机器人与B端客户的合作有5种模式，根据客户的需求灵活匹配：</p>\n  <p>代理模式下，客户使用氦豚机器人的品牌，主要投放到机场、旅游景点等场景。</p>\n  <p>采购模式下，客户购买设备并投放到自有物业。</p>\n  <p>定制模式面向大品牌和500强企业，客户可以使用自有品牌，也可以调整机器人产品外观。</p>\n  <p>租赁模式面向金融机构、政府机构、事业单位等不能跨业经营的主体。</p>\n  <p>联营模式面向地标建筑等重要场景，氦豚机器人负责投入设备。</p>\n  <p>氦豚机器人还整合了上游咖啡豆、奶品、糖浆等原物料供应链，基于不同市场对口味进行调整并持续开发新品，在出品口感和种类丰富度上，氦豚机器人对标瑞幸等连锁咖啡品牌。“机器人咖啡馆的本质仍然是咖啡服务，味道才是王道。”韩非子表示。</p>\n  <p>在终端定价上，氦豚机器人根据点位所在地单杯咖啡的价格动态调整，同时保持开店成本控制在连锁品牌门店的70%。</p>\n  <p><strong>3.新兴市场补基建，欧美市场重合规</strong></p>\n  <p>早在2021年，氦豚机器人就已开启出海步伐，第一笔意向订单来自迪拜世博会主办方的50台咖啡机器人采购计划。</p>\n  <p>当时正值疫情期间，中外人员往来需要隔离28天，设备出关流程繁琐，海外现场调试难度大。虽然亮相迪拜世博会可能会赔钱，但韩非子决定克服一切困难：“这是验证产品在其他国家真实场景中的难得机会，比如不同气候、电压、支付体系和消费习惯下的适配性。”</p>\n  <p>借此契机，氦豚机器人成立专门的海外团队，此后三年间，在不同国家小批量投放产品，检测产品稳定性并收集一线运营数据。</p>\n  <p>韩非子列出的待验证问题包括：<strong>在巴西这样的潮湿国家，电路和物料受潮怎么办？在中东干燥多静电的环境下，精密传感器会不会受干扰？日本的小店、小门、窄通道环境下，设备带轮子能不能自由进出？当地水质软硬、矿物质含量不同，会不会影响咖啡最终的口感？</strong></p>\n  <p>产品在不同环境下实现稳定运转、各国认证陆续拿全、远程售后体系建立起来后，韩非子判断，公司已经具备了大规模拓展海外市场的条件。</p>\n  <p>东南亚、中东等新兴市场是氦豚机器人率先切入的区域。</p>\n  <p>这些地区咖啡消费处于增长期，机会多，但是基础设施条件相对“落后”。比如部分中东国家仍以现金为主要支付方式，东南亚各国的移动支付平台则各自为政，导致设备进入不同国家时，需要对接多个不同的支付系统。</p>\n  <p>其次，不少地区的通信网络仍停留在2G-4G阶段，网络不稳定、网速慢，部分网络不支持IoT设备连接，直接限制了依赖远程运维和数据传输的机器人设备的正常运行。为此氦豚机器人专门引入相应人才，研发出AI智能调配的微通讯系统，实现“一机行全球”。</p>\n  <p>在欧美、日韩等成熟市场，氦豚机器人又面临另一种困难。这些市场的消费者虽然对无人设备的接受度较好，但也对咖啡品质有更高要求，合规标准也更严格。</p>\n  <p>以食品接触材料为例，与咖啡、牛奶、水直接接触的萃取头、奶管、水箱、杯架等部件，必须分别符合美国FDA、欧盟EC1935/2004、日本食品卫生法标准，并通过迁移测试，确保有害物质不会进入饮品。</p>\n  <p>设备清洁方面，奶路系统需要有标准化的高温消毒流程和可追溯的清洁记录，无人设备还须具备自动清洁和到期提醒机制；在国际机场、医院等国家部委对食品卫生、消防顶格管控的地方，也需要具备防毒、防疫、防火等更高功能。</p>\n  <p>为达到这些苛刻要求，氦豚机器人将合规能力前置到产品设计阶段，而非进入市场后再补证。咖啡产品对标专业级咖啡馆的监管要求，操作、耗材、清洗全链路可溯源，保证每一杯咖啡的制作数据都可以追溯到具体的物料批次和设备运行参数。</p>\n  <p><strong>截至2026年8月，氦豚机器人的COFE+已覆盖全球70个国家和地区，落地超200座国际城市。</strong></p>\n  <p>韩非子总结，海外市场的本地化适配分为两个层面：语言界面、菜单配方、支付方式、品牌色彩、拉花图案和饮品种类等软件与内容层，不影响设备结构，较易实现。</p>\n  <p>电压、插头、当地认证、水路、水质、耗材等接口与合规层则需要转换为适配本地标准，这背后的运动控制、流体算法、机体机构本体等核心部件保持全球统一。“在结构底层做定制，企业后期一定会混乱，售后体系会埋下巨大隐患。”韩非子解释。</p>\n  <p>在他的定义里，氦豚机器人不是一家机器人公司，而是一家新消费公司。“氦豚机器人瞄准的是新经济、新业态、新模式，用机器人技术重构咖啡这门传统生意的成本结构和消费体验。”</p>\n  <p>未来氦豚机器人将向零部件更少、覆盖品类更多、消费体验更强、更智能的方向迭代，海外业务则进一步深耕本地化和精细化运营。“我们希望重新发明咖啡馆，推动咖啡消费步入轻店时代。”他说道。</p>",
-      "category": "tech",
-      "published_at": "2026-09-15T02:21:01+00:00",
-      "fetched_at": "2026-09-15T03:06:25.828556+00:00",
-      "fingerprint": "4835c0e90b02dd84"
-    },
-    {
-      "source": "少数派",
-      "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」",
-      "url": "https://sspai.com/post/114410",
-      "summary": "每年九月都是苹果用户最期待的时节——苹果发布新一代iPhone。当新机到手，你可能也要随之给手上的配件更新换代。巧了，这一次，少数派给大家带来了一款颠覆以往所有磁吸支架形态的产品，它够薄、够轻、够好用 ...<a href=\"https://sspai.com/post/114410\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-14T03:00:00+00:00",
-      "fetched_at": "2026-09-15T03:06:24.038997+00:00",
-      "fingerprint": "9bb42e21501f4e47"
-    },
-    {
-      "source": "少数派",
-      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试",
-      "url": "https://sspai.com/post/114453",
-      "summary": "照片能证明它被拍过，但不能证明镜头前是真的。<a href=\"https://sspai.com/post/114453\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-14T07:16:23+00:00",
-      "fetched_at": "2026-09-15T03:06:24.038990+00:00",
-      "fingerprint": "b6f6b585a305eb36"
-    },
-    {
-      "source": "少数派",
-      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
-      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
-      "summary": "用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。<a href=\"https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "category": "tech",
-      "published_at": "2026-09-14T08:35:27+00:00",
-      "fetched_at": "2026-09-15T03:06:24.038983+00:00",
-      "fingerprint": "8de909fd6669f708"
-    },
-    {
-      "source": "少数派",
-      "title": "派评｜近期值得关注的 App",
-      "url": "https://sspai.com/post/114577",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/114577\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-14T09:24:02+00:00",
-      "fetched_at": "2026-09-15T03:06:24.038976+00:00",
-      "fingerprint": "8ce35be024c1b3c4"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
-      "url": "https://sspai.com/post/114593",
-      "summary": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等<a href=\"https://sspai.com/post/114593\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-15T00:06:40+00:00",
-      "fetched_at": "2026-09-15T03:06:24.038964+00:00",
-      "fingerprint": "0f27fef203c1557a"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7827 CNY ↓-0.60%",
-      "url": "https://www.frankfurter.app/2026-09-14?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-09-14</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7827 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0290 (-0.60%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-09-15T03:06:22.553055+00:00",
-      "fingerprint": "3beb5d9427ec7192"
     }
   ]
 }
