@@ -1,7 +1,207 @@
 {
-  "updated_at": "2026-09-25T03:08:53.646937+00:00",
-  "count": 186,
+  "updated_at": "2026-09-26T03:12:57.190927+00:00",
+  "count": 176,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "category": "politics",
+      "published_at": "2026-09-25T23:20:48+00:00",
+      "fetched_at": "2026-09-26T03:12:57.009011+00:00",
+      "fingerprint": "2551dd230f049d95"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "category": "politics",
+      "published_at": "2026-09-25T20:47:49+00:00",
+      "fetched_at": "2026-09-26T03:12:57.009005+00:00",
+      "fingerprint": "cef9fc91331bcf00"
+    },
+    {
+      "source": "BBC World News",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+      "category": "politics",
+      "published_at": "2026-09-26T02:50:56+00:00",
+      "fetched_at": "2026-09-26T03:12:57.008999+00:00",
+      "fingerprint": "b26cc2f8862a6966"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "category": "politics",
+      "published_at": "2026-09-25T23:38:48+00:00",
+      "fetched_at": "2026-09-26T03:12:57.008988+00:00",
+      "fingerprint": "6096d6a184eb3059"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "近年愈來愈多中國漁船在越南外海活動，部分更有執法和政府船隻伴隨。研究人員認為，這不只是捕魚，也涉及北京在南海的主權聲索和地緣政治盤算，而越南漁民的生計和作業空間正受到愈來愈大壓力。",
+      "category": "politics",
+      "published_at": "2026-09-25T07:22:44+00:00",
+      "fetched_at": "2026-09-26T03:12:56.950966+00:00",
+      "fingerprint": "bbc4a6721c27a693"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "多名美國科技和金融界巨頭有份出席，部份人士更與兩國領導人同桌。但近日高調警告人工智能風險的企業Anthropic代表未有出席。",
+      "category": "politics",
+      "published_at": "2026-09-25T06:00:47+00:00",
+      "fetched_at": "2026-09-26T03:12:56.950960+00:00",
+      "fingerprint": "2d5852d57d302a60"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "分析指出，北京此次的表述更為直接，並試圖掌握峰會後的敘事主導權，未來台灣在美中台三角關係中的角色可能進一步被「邊緣化」。",
+      "category": "politics",
+      "published_at": "2026-09-25T10:23:53+00:00",
+      "fetched_at": "2026-09-26T03:12:56.950953+00:00",
+      "fingerprint": "e36bec527a918b66"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美中各從「白宮習特會」得到什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "外界關注的人工智能、稀土等迫切議題，兩國似乎未有明顯進展。但有學者向BBC中文分析，會談最重要的成就在於展示兩國關係「正面友好的氛圍和形象」。",
+      "category": "politics",
+      "published_at": "2026-09-25T12:15:11+00:00",
+      "fetched_at": "2026-09-26T03:12:56.950942+00:00",
+      "fingerprint": "0b8992f22340742b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-26T03:12:56.319601+00:00",
+      "fingerprint": "63f0cec3bf1f729b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-26T03:12:56.319492+00:00",
+      "fingerprint": "38be6ea6b4966762"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-26T03:12:56.319365+00:00",
+      "fingerprint": "3562ff4b1e12416a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-26T03:12:56.319241+00:00",
+      "fingerprint": "325d3ee537dadcef"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-26T03:12:56.319098+00:00",
+      "fingerprint": "9973f8e7ebb5939a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creating manufacturing snags, like issues [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-25T17:01:36+00:00",
+      "fetched_at": "2026-09-26T03:12:56.023698+00:00",
+      "fingerprint": "d23e876d1f601e8d"
+    },
+    {
+      "source": "The Verge",
+      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+      "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+      "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-25T17:23:30+00:00",
+      "fetched_at": "2026-09-26T03:12:56.023692+00:00",
+      "fingerprint": "2f1cb0ea1ba12a23"
+    },
+    {
+      "source": "The Verge",
+      "title": "Phones don’t have lights",
+      "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+      "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-25T17:42:59+00:00",
+      "fetched_at": "2026-09-26T03:12:56.023685+00:00",
+      "fingerprint": "f43edf4211ac9ef1"
+    },
+    {
+      "source": "The Verge",
+      "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+      "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at Amazon when you enter the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-25T18:18:57+00:00",
+      "fetched_at": "2026-09-26T03:12:56.023672+00:00",
+      "fingerprint": "1cd84880b7200e24"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
+      "url": "https://36kr.com/p/3998754973749376?f=rss",
+      "summary": "<p>过去一年，AI 编程和办公工具在 PC 端快速普及，但手机上的AI体验仍以单次问答和图片处理为主。高通今年想证明的是——端侧AI也能进入到更多生活和工作场景了。</p>\n  <p>2026年，骁龙峰会上，高通与阶跃星辰、无量火科技、江波就演示了一个典型案例——端侧30B-MoE模型完成的工作链条：仅仅用本地的模型，AI读懂一封邮件，提取行程信息，同步日历，推荐航班和酒店，再草拟一封回复。</p>\n  <p>特别之处在于，这是一段需要理解、规划和连续执行的任务，并且完全在端侧完成。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260925/v2_61e9c5c7422d4f79b6ab49a69667791f@2057308263_oswg2724727oswg1402oswg1048_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">高通公司总裁兼首席执行官安蒙（Cristiano Amon）</p>\n  <p>如果说两年前高通主要在证明大模型能装进手机，今年它更想证明，装进去的模型能够承担更完整的工作。</p>\n  <p>2024年，高通自研Oryon CPU开始搭载在手机上，展示了端侧大模型的可能性；而在2025年，第五代骁龙8至尊版引Personal Scribe和个人知识图谱，将直接智能体写进产品方向。</p>\n  <p>到了今年，AI界的新故事进入到以Claude Code为主的代码和办公大战。现在，高通开始让旗舰芯片进入2nm双旗舰、30B-MoE部署和更完整的任务流程，这都意味着能够共同和模型、infra厂商拓展新的应用场景。</p>\n  <p>“智能体 AI 并不仅仅是为终端新增一个功能。它实际上创造了一种全新的终端工作流程。”高通公司总裁兼首席执行官安蒙（Cristiano Amon）在主题演讲中表示。</p>\n  <p>但当AI从一个功能变成一段工作流程，高通要解决的也不仅仅是是让下一代芯片更快。智能体需要更强的本地能力，也依赖快速更新的模型、应用接口与终端协作。</p>\n  <p>进入2026年，芯片厂商们的一个共同趋势是：能力边界在扩大，竞争边界同样在扩大。对高通而言，这种扩展不只是从手机走向 PC、眼镜、汽车和数据中心，还包括围绕模型适配、软件工具和跨终端协作补齐能力。</p>\n  <h2>从让手机部署模型，到让智能体持续工作</h2>\n  <p>如果为今年的骁龙峰会总结唯一的关键词，“智能体”绝对排在第一位。高通的一切更新——都是在为更复杂的AI任务，重新分配手机里的计算资源。</p>\n  <p>比如，第六代骁龙8至尊版与超级至尊版双旗舰，均采用2nm工艺。搭载了超级至尊版的设备，高通不只是把频率拉到5GHz，其中CPU负责工具调用和任务调度，NPU承担模型推理，低功耗感知单元处理后台信息，为不同类型的AI工作分配专属计算通道。</p>\n  <p><strong>这背后的变化是，AI不再只在用户提问时工作，还要在后台保留信息、等待时机并接续任务。</strong>在以往，一次问答或修图是单次调用；智能体则要反复读取上下文、调用工具、在任务间切换。</p>\n  <p>缓存、内存带宽和低功耗感知，因此变得重要了——最起码，手机不能因多了一个常驻智能体就持续发烫、迅速耗电。</p>\n  <p>这并不是今年才出现的方向。2025年发布的第五代骁龙8至尊版，就已经已强调Personal Scribe、个人知识图谱和低功耗感知中枢。</p>\n  <p>而在今年，高通在缓存、NPU共享内存和感知能力上的升级，更像是对既有方向的持续补强——让更多信息得以保留，让任务切换与持续运行更可靠。</p>\n  <p>不过，这并不是把所有AI计算留在本地，而是让终端承担更有价值的一部分。手机掌握日历、邮件等个人信息，高通的新双Micro NPU架构性能提升85%，同时功耗降低20%，直观提升了个人记录（Personal Scribe）能力——提升本地处理低时延、离线可用和减少数据上传的潜力；复杂任务仍可调用云端。</p>\n  <p><strong>如今，更大体量的模型开始与完整的本地办公流程结合。</strong>对比2024年，最多7B的模型能够部署在端侧，在这次峰会上，高通就已经和阶跃达成合作。如今，30B的MoE模型在参考设计上完成的邮件理解、行程规划和日历同步，是一次可感知的跨越。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260925/v2_f7fe73e029624c22bfd75cf3b49357f9@2057308263_oswg2529733oswg1412oswg1056_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">高通技术公司高级副总裁兼手机业务总经理Chris Patrick</p>\n  <p><strong>而更复杂的 AI 应用，如今也可以由多个模型的分工完成，而不只是一个模型变得更大。这为应用生态创业者提供了空间。</strong></p>\n  <p>比如，在AI公司Deepgram展示的AI播客应用中，NPU上的语音模型负责转写并区分发言者，GPU上的Gemma模型理解话题、生成追问建议——一边听清谁说了什么，一边判断接下来该问什么。这让“异构计算”变成了读者可理解的场景。不过工作人员也提到需联网检索核查，整个应用并非完全离线。</p>\n  <p><strong>AI智能眼镜也是一个典型品类。过去一年的变化，也能说明高通这样的芯片厂商，如何让新AI硬件逐步突破能力上限</strong>。2025年6月 AWE 上，高通AR1芯片的升级款骁龙AR1+ Gen 1已用原型眼镜演示Llama 3.2-1B本地运行，高通强调芯片更小、功耗更低以适应镜腿和电池约束；今年，高通则进一步为AR1、AR1+对提供多模态1比特模型的支持。</p>\n  <p>高通也在逐步拓展对开发者生态的支持。今年推出的高通START计划中，就提供AR1+模组、软件平台和参考设计——非科技厂商的集成门槛也在降低，判断是研发支持越来越贴近品类需求，而非只把手机芯片缩小。</p>\n  <p>除此之外，高通也推出了全新的Adreno Neural Fusion，带来增强的移动游戏，借助AI实现智能的图形渲染，从而带来更沉浸的游戏体验、更丰富的视觉效果，和更持续的游戏时长。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260925/v2_9db45d69389b441f975a77a330112320@2057308263_oswg1998894oswg1398oswg1058_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">高通新一代Adreno</p>\n  <p><strong>但芯片能支持什么，与智能体最终能替用户完成什么，仍然不是一回事。</strong>高通公司中国区董事长孟樸对36氪表示，跨终端持续服务的个人智能体，可能到2027-2028年，才会比较稳定地开始逐步落地。</p>\n  <h2>AI 时代的芯片厂商：迭代更快，挑战更多元</h2>\n  <p>高通在 AI 时代，如今的状态可以说是四面开战，压力并不小。这一部分来自新市场的吸引力，另一部分来自也要守住旧市场的压力。</p>\n  <p>移动时代，成就高通的基础是通信专利与芯片平台两条业务。而进入大模型时代，以数据中心为主的庞大需求，已让英伟达获得庞大收入——2027财年，英伟达第二季度数据中心收入达890亿美元。</p>\n  <p>高通也没有放过这个市场。此前，高通提出2029财年非手机收入400亿美元的目标，并推进数据中心业务。动机不难理解：守住手机之外，还得找到新的增长引擎。</p>\n  <p><strong>但在争取新增长之前，高通可能首先得适应一个比手机换代更快的模型市场。</strong>“过去，智能手机完成适配后，可能9个月甚至12个月都无需再调整；而现在，大模型每3个月，甚至更短时间内就会迭代一次。”高通公司中国区董事长孟樸对36氪在内的媒体表示。</p>\n  <p>模型版本和能力更新快，不代表底层计算结构以同样速度完全变化。更准确的挑战在于：在相对稳定的计算基础上，用软件调度、可配置能力和持续验证承接快速迭代。</p>\n  <p>更深的一层变化是，合作正从模型发布后的适配，前移到模型设计环节。2026年展示的四方合作的分工说明了这一点——高通提供计算平台，阶跃提供模型，无量火优化推理与调度，江波龙处理存储协同；AI Hub则试图复用优化成果、降低部署门槛。</p>\n  <p><strong>竞争新的竞争指标是：新模型出来后，谁能更快、以更可控的成本交付可用体验。</strong></p>\n  <p>端侧智能体是整个市场都在追逐的机会，9月，几乎所有主流厂商的新品都覆盖了端侧和智能体。比如，9月15日，联发科发布天玑9600系列，9600 Pro同样采用2nm，强调低功耗常驻感知，宣称支持30B-MoE端侧运行。</p>\n  <p>更复杂的竞争也会来自客户一侧：一边采购高通芯片，一边也在把关键能力试图掌握在自己手中。比如小米玄戒 O1进入量产，苹果在iPhone 16e上推出自研C1基带等等。而进入数据中心，也绕不开客户与竞争对手身份重叠的局面。英伟达之外，谷歌自研TPU也在争取训练和推理负载——而谷歌在终端上又是高通的重要合作伙伴。</p>\n  <p><strong>当竞争同时发生在多个市场，高通还必须回答一个实际问题：这些新能力，客户负担得起是前提，但如何真正高效地应用起来？</strong></p>\n  <p>孟樸提到：“随着技术的进步，芯片中需要叠加的技术越来越多，成本也会因此越来越高。”在他看来，一款产品展示当前技术能够达到的上限，另一款则更注重效率，以应对高成本、支持终端厂商。技术能力向前推进，能否被客户采用仍要过成本这一关。</p>\n  <p>至少，让智能体稳定地在移动设备上运行，还有多重挑战。“不能做错任务，不能过度占用内存，还不能增加续航负担，起码不能比手动操作还慢。”一位半导体行业人士总结。</p>\n  <p><strong>现在，芯片行业正在进入多线混战。高通需要守土开疆，还必须成为耦合大模型厂商、AI应用之间的长期协作者。</strong>对高通来说，下一轮胜负不只取决于它能把多大的模型装进终端，更取决于能否让不断变化的模型，及时变成用户愿意反复使用的产品。</p>",
+      "category": "tech",
+      "published_at": "2026-09-26T00:30:24+00:00",
+      "fetched_at": "2026-09-26T03:12:55.960849+00:00",
+      "fingerprint": "27d66159bce30292"
+    },
+    {
+      "source": "少数派",
+      "title": "本周看什么 | 最近值得一看的 6 部作品",
+      "url": "https://sspai.com/post/114957",
+      "summary": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...<a href=\"https://sspai.com/post/114957\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-25T09:30:00+00:00",
+      "fetched_at": "2026-09-26T03:12:54.174083+00:00",
+      "fingerprint": "0c62272276b0d5ee"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.7195 CNY ↑+0.06%",
+      "url": "https://www.frankfurter.app/2026-09-25?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-09-25</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7195 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0028 (+0.06%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-09-26T03:12:52.712558+00:00",
+      "fingerprint": "0fd6ae940dbcae55"
+    },
     {
       "source": "The Guardian - World",
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
@@ -1561,306 +1761,6 @@
       "published_at": "2026-09-19T07:00:00+00:00",
       "fetched_at": "2026-09-20T03:04:40.787991+00:00",
       "fingerprint": "a997e8e96b82f2c0"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
-      "summary": "<p>The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility </p><p><a href=\"https://www.theguardian.com/us-news/louisiana\">Louisiana</a> firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in the back yard, prompting an animal welfare agency to seek placing the creature in an appropriate environment, according to officials.</p><p>Firefighters investigating a report of a minor fire at a home in the suburban <a href=\"https://www.theguardian.com/us-news/new-orleans\">New Orleans</a> community of Marrero on Tuesday spotted the cat in question – an African serval – behind the residence in a chain-linked enclosure resembling a cramped baseball batting cage, a spokesperson for the local animal protection services said.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-18T10:00:15+00:00",
-      "fetched_at": "2026-09-19T02:52:23.586685+00:00",
-      "fingerprint": "b253e5df4b5744c1"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
-      "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
-      "summary": "<p>Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last week</p><p>A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abductors were killed.</p><p>Nusrat Osman was abducted outside her home in the southern city of Blantyre on 11 September at about 12.30pm. Police had <a href=\"https://www.facebook.com/malawipolice/posts/pfbid02SgvBBVEhDbZA4RnTDfUFe8ethHvTrZKKS11jX9TpEykmB8RAwA27cWqntNHMw2M2l\">offered a reward</a> of 30m Malawi kwacha (£12,950) for information leading to her rescue and the arrest of the perpetrators.</p> <a href=\"https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-18T11:21:36+00:00",
-      "fetched_at": "2026-09-19T02:52:23.586679+00:00",
-      "fingerprint": "3ebebb24e161e78e"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died",
-      "url": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
-      "summary": "<p>Police fire teargas as protests break out in city of Minna after deaths of suspected illegal goldminers, many of whom were children</p><p>Survivors from a prison cell in Nigeria where 37 suspected illegal goldminers died while in the custody of a paramilitary group this week have recounted their panic and struggle for breath, as police on Friday fired teargas at people protesting against the deaths and imposed an overnight curfew in the city of Minna.</p><p>The victims – many of whom were children – were found dead on Thursday in the cells of the Nigeria Security and Civil Defence Corps (NSCDC), which had raided suspected illegal goldmines and ⁠locked up dozens of miners in the city, the state capital of the mineral-rich state of Niger.</p> <a href=\"https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-18T17:27:39+00:00",
-      "fetched_at": "2026-09-19T02:52:23.586672+00:00",
-      "fingerprint": "1ba3f11239185461"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
-      "summary": "<p>Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence</p><p></p><p>Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a flight of stairs, all in plain view of other US deportees, according to witnesses and human rights lawyers.</p><p>The men – one from Egypt and one from Eritrea – were then taken to a prison. About 30 detainees from the US remain trapped at a hotel in the outskirts of the coastal city of Malabo after being deported from the US. Detainees have said they believe the men were beaten for telling the press and human rights advocates about the poor conditions and violence inside the hotel, and that they are haunted by flashbacks and terrified they will be retaliated against next.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-18T23:08:49+00:00",
-      "fetched_at": "2026-09-19T02:52:23.586663+00:00",
-      "fingerprint": "e27b1c10edc84c21"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "summary": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
-      "category": "politics",
-      "published_at": "2026-09-18T18:56:17+00:00",
-      "fetched_at": "2026-09-19T02:52:23.433704+00:00",
-      "fingerprint": "8232697a094c45a3"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "category": "politics",
-      "published_at": "2026-09-18T23:26:48+00:00",
-      "fetched_at": "2026-09-19T02:52:23.433697+00:00",
-      "fingerprint": "6647c9fc50b2e199"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "category": "politics",
-      "published_at": "2026-09-18T18:04:38+00:00",
-      "fetched_at": "2026-09-19T02:52:23.433690+00:00",
-      "fingerprint": "83e9529895aebe46"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
-      "category": "politics",
-      "published_at": "2026-09-18T22:58:55+00:00",
-      "fetched_at": "2026-09-19T02:52:23.433681+00:00",
-      "fingerprint": "4f739bafcf531562"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美籍緬甸裔學者涉間諜罪在華監禁　其妻籲特朗普晤習近平時重提此案",
-      "url": "https://www.bbc.com/zhongwen/articles/ck980qm3dl3go/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "西爾維婭·辛（Sylvia Zin）是多名被關押在中國人士的家屬之一，他們正尋求特朗普在下週接待中國領導人時提供協助。",
-      "category": "politics",
-      "published_at": "2026-09-18T05:50:44+00:00",
-      "fetched_at": "2026-09-19T02:52:23.345363+00:00",
-      "fingerprint": "aaf6a8677a9b303e"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "澳洲收緊移民政策：管制留學生、背包客，打擊「簽證跳轉」",
-      "url": "https://www.bbc.com/zhongwen/articles/cx24jdd1j59po/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "澳洲政府希望在2028年前，將海外淨移民人數降至22.5萬人。",
-      "category": "politics",
-      "published_at": "2026-09-18T05:15:07+00:00",
-      "fetched_at": "2026-09-19T02:52:23.345349+00:00",
-      "fingerprint": "d642be59c99766ab"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「運動員無法伸直雙腿睡覺」：日本亞運為何爆發住宿爭議？",
-      "url": "https://www.bbc.com/zhongwen/articles/ckwyzg2v80elo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "亞運選手將入住木製貨櫃屋或一艘意大利郵輪。韓國代表團批評，貨櫃屋宿舍水管漏水，且床舖太小，運動員甚至無法伸直雙腿睡覺。",
-      "category": "politics",
-      "published_at": "2026-09-18T09:24:15+00:00",
-      "fetched_at": "2026-09-19T02:52:23.345343+00:00",
-      "fingerprint": "93b5d7958a75c9e5"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-19T02:52:23.048098+00:00",
-      "fingerprint": "9181472834ae8945"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-19T02:52:23.047972+00:00",
-      "fingerprint": "eb5e0e2da34b5b55"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-19T02:52:23.047825+00:00",
-      "fingerprint": "b713bf2029c69622"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Science Is Open Software",
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-19T02:52:23.047684+00:00",
-      "fingerprint": "a5943bbe4f7bda57"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-19T02:52:23.047526+00:00",
-      "fingerprint": "c9a125d04430ed26"
-    },
-    {
-      "source": "The Verge",
-      "title": "The real story of the iPhone 18 Pro&#8217;s camera",
-      "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-      "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-18T17:06:37+00:00",
-      "fetched_at": "2026-09-19T02:52:22.736783+00:00",
-      "fingerprint": "5c247392059c2f50"
-    },
-    {
-      "source": "The Verge",
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-18T18:27:04+00:00",
-      "fetched_at": "2026-09-19T02:52:22.736777+00:00",
-      "fingerprint": "84833bafcaac137e"
-    },
-    {
-      "source": "The Verge",
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-18T18:29:17+00:00",
-      "fetched_at": "2026-09-19T02:52:22.736770+00:00",
-      "fingerprint": "0a255d7c17cbd4b0"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-18T21:07:24+00:00",
-      "fetched_at": "2026-09-19T02:52:22.736761+00:00",
-      "fingerprint": "1bc0911d200ab4e3"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "理想开始卖技术：马赫芯片、碳化硅、增程器要外供｜36氪独家",
-      "url": "https://36kr.com/p/3988488062630661?f=rss",
-      "summary": "<p><strong>文&nbsp;|&nbsp;徐蔡钰&nbsp;</strong></p>\n  <p><strong>编辑&nbsp;|&nbsp;李勤 杨轩</strong></p>\n  <p>理想汽车，开始开放多项自研技术的对外合作，寻求更多收入来源。</p>\n  <p>36氪从多位产业人士处获悉后梳理，今年以来，理想汽车已经开启了多项核心技术的对外供应计划，而伴随业务拆分，部分业务也有引入外部资金的计划。</p>\n  <p>典型启动外供的业务有自研马赫芯片、碳化硅模组公司斯科半导体及增程器等。目前，马赫芯片、碳化硅模组等都已经成立独立的公司实体，寻求更多外部客户，斯科半导体也准备引入更多外部资金。</p>\n  <p>而其他的动力技术，如增程系统也向外释放出接纳外部客户的信息。但自研电池尚无计划，行业人士表示，“电池的定制化程度很高，外供难度太大。”</p>\n  <p>自研马赫芯片的业务独立和外供，已经有诸多信号。今年7月，理想为芯片业务注册了一家全资控股的新公司：芯创智核（上海）科技有限公司。</p>\n  <p>据36氪了解，理想高层也已经决议批准芯片业务分拆，与此同时，业务拓展等动作也在同步进行。消息人士透露，已经有具身智能公司与理想高层洽谈过，“后者明确推销了马赫芯片”，最终这些具身公司是否使用马赫芯片，可能取决于算法迁移难度。</p>\n  <p>马赫M100是理想第一颗量产的辅助驾驶芯片，单颗算力为1280TOPS，内存带宽达到273GB/s。理想曾公开表示，马赫M100的实际可用算力是英伟达Thor-U的3倍。</p>\n  <p>今年二季度以来，马赫M100芯片已跟随新款L9、L8、MEGA及新车型i9搭载上车。有理想人士透露，作为第一颗自研芯片，马赫的量产相当顺利，公司在芯片厂包了很多产线。</p>\n  <p>而相比马赫芯片外供更早的是，理想的碳化硅公司斯科半导体于年初开始独立运营，自负盈亏，公司也在多方寻求外部客源。</p>\n  <p>将自研技术拆分外供，在汽车行业里并不罕见。这是常用的降低资金投入压力，同时寻求更多市场空间和发展机会的做法。</p>\n  <p>只是这一次发生在了财务策略更加谨慎的理想汽车身上。</p>\n  <h3><strong>毛利率承压，理想也需要找活钱</strong></h3>\n  <p>理想并不缺账面现金，截至2026年二季度末，现金储备依然有875亿元，稳居新势力第一。但钱多，不等于没压力。理想同时扛着三件吞金的事：销量在等待回暖、毛利率正在修复，研发还在大幅增长下注。</p>\n  <p>2026年，理想汽车1–8月累计交付26.16万辆，同比微降0.6%。直到8月后，L6、新款MEGA和i8、i9的接连上市，销量才开始逐步回温。</p>\n  <p>2023年起，理想一直是最能赚钱的新势力品牌。但2026上半年，产品进入换代期，公司净亏损39.94亿元，而去年同期还盈利17.43亿元。毛利率也从19.4%跌到9.4%，离李想说过“15%–20%才健康”的线，还有一定差距。</p>\n  <p>在销量和利润双双承压的现在，理想为了确保长远竞争力，投入端还在加大。2026年二季度，理想已连续6个季度投入30亿量级的研发费用，而理想的季度经营现金流刚刚恢复单季转正。这大概就是理想开始转向对外找钱的直接动力。</p>\n  <p>蔚来其实走过相同的路。</p>\n  <p>2024年蔚来净亏损224亿元，创下历史峰值。同年，蔚来换电网络开始向第三方车企和能源公司开放。2025年，蔚来又把自研芯片业务拆成独立子公司安徽神玑技术，李斌公开表态“愿意向行业开放”。随后神玑频繁接触车企与机器人公司，并和爱芯元智成立合资公司。到2026年2月完成首轮22.57亿元融资，投后估值冲到百亿元上下。</p>\n  <p>不仅蔚来芯片分拆进展顺利，据36氪了解，曾经走到经营低谷的芯片公司辉羲智能也在具身智能热潮中接连斩获融资，估值快速拉升。</p>\n  <p>而理想的马赫芯片采用更贴合AI需求的数据流架构，自然也想在火热的具身智能大潮中，寻求新机会。</p>\n  <h3><strong>理想卖技术，有市场吗？</strong></h3>\n  <p>增程器，是理想较早投入自研的核心零部件。到2026年，理想已经推出第三代增程器，且实现了自研和自制。</p>\n  <p>从公开信息看，理想最新一代增程器系统（自研第三代增程器/平台）实现了百公里6.3升的低油耗，而且采用新一代自研自制电机，发电效率达到94.8%，并做到了3年保养周期。</p>\n  <p>行业人士向36氪分析，增程器的外供可能是早期规划了大量产能，外供有利于摊薄制造压力。今天，在中国市场正寻求转型的传统豪华品牌，可能是理想的目标客户群体。</p>\n  <p>碳化硅半导体，同样是理想早就进行自研的核心技术。2022年，理想汽车与湖南三安半导体共同成立合资公司斯科半导体。分工上，理想主导模块设计与整车适配，三安提供SiC芯片及衬底，而位于苏州的斯科半导体工厂则负责封装与测试。</p>\n  <p>有产业人士向36氪透露，理想碳化硅模组的核心优势在于其整车厂视角的整合能力。“理想的逻辑不是单纯堆砌半导体参数，而是让模组体积更小以为车内腾出空间，让效率直接服务于实际续航，就是理想比供应商更懂车企真正需要什么样的零件。”</p>\n  <p>然而，技术上的领先一般并不能顺畅转化为外供，其中一个掣肘，就是主机厂的身份。</p>\n  <p>为打破主机厂身份带来的信任壁垒，理想正在推动斯科\"去理想化\"，向真正的第三方供应商转型。</p>\n  <p>理想在斯科半导体的占股达到70%，接近斯科半导体的人士告诉36氪，斯科成立后，一直向理想汽车制造部汇报，但今年2月，斯科半导体已经成为一家独立公司，管理团队也转向斯科董事会汇报。</p>\n  <p>“以前斯科和理想是一个系统，现在斯科已经完成剥离”，知情人士告诉36氪。此外，斯科半导体正在资本市场积极寻求融资，并已启动IPO计划。斯科的节奏非常明确，快速引入外部资本，让股权结构趋向中立，从而降低其他车企采购时的信任门槛。</p>\n  <p>理理想自研马赫芯片业务的独立化路径，与斯科半导体类似。</p>\n  <p>2026年7月，理想注册了一家全资控股的新公司：芯创智核（上海）科技有限公司，经营范围包括集成电路芯片设计及服务、芯片及产品销售等，法定代表人为王扬。据36氪了解，王扬于2020年加入理想，现任理想汽车联席公司秘书，长期负责资本市场相关事务。</p>\n  <p>多位产业人士向36氪透露，理想芯片业务的外供并不算难，因为从理想出走的多家具身智能公司，都可以顺利接洽。</p>\n  <p>目前，从理想出走，创立的具身智能公司已有5家：前理想AI首席科学家陈伟创立斜跃智能，前理想CTO王凯创立至简动力，前理想智驾一号位朗咸朋参与创立昆仑行，前联席CTO夏中谱加入无界动力成为联合创始人，以及前智驾产品总监赵哲伦参与创立了维他动力。</p>\n  <p>对具身智能公司而言，理想自研的马赫M100的确有吸引力。这是一块专门为VLA和端侧大模型设计，和机器人目前的技术逻辑相似，适配难度较英伟达等芯片厂商小，对创业公司而言的确很有吸引力。</p>\n  <p>芯片、碳化硅业务的拆分节奏才刚起步，技术能力只是前提，能不能让买方信任其独立供应商的身份，会是当下急需解决的问题。</p>",
-      "category": "tech",
-      "published_at": "2026-09-18T06:31:55+00:00",
-      "fetched_at": "2026-09-19T02:52:22.651305+00:00",
-      "fingerprint": "f675df20c6934705"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "最前线｜日冕开物超级工站落地远图产线，POC验证成功率超99%",
-      "url": "https://36kr.com/p/3988651090459399?f=rss",
-      "summary": "<p>作者丨乔钰杰</p>\n  <p>编辑丨袁斯来</p>\n  <p>9月16日，专注物理世界基础模型和解决方案的公司日冕开物，与全球服务器制造龙头及AI基础设施全栈解决方案提供商广东远图未来科技有限公司（以下简称“远图”）在远图东莞智能制造基地举行合作超级工站POC暨联合实验室揭牌仪式。</p>\n  <p>双方宣布成立“远图×日冕工业具身智能联合实验室”，并现场展示日冕超级工站在远图ICT产线上的真机作业。据介绍，超级工站已于半个月前完成POC验证，成功率超过99%；现场演示中，仅用15分钟便完成了新物料的学习与作业切换。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260918/v2_3cd633ed2469425b9a7b709b9e8f682b@5920579_oswg4956547oswg2196oswg1440_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">超级工站执行ICT测试工作</p>\n  <p>此次合作，双方试图回答一个具体问题，即具身智能如何真正进入工业生产，而不仅停留在单点任务的技术验证阶段。</p>\n  <p>远图副总裁周才庆表示，随着AI服务器向多芯片集成、高功率供电和高密度散热方向演进，服务器制造呈现出订单品类多、单批次量小、迭代速度快等特点，对制造工艺和柔性生产能力提出了更高要求。</p>\n  <p>目前，服务器制造行业整体自动化率约30%，生产与测试环节占全流程约三分之二的工时，而每次产品换型往往意味着专属设备投入或产线改造。远图过去通过轻量化柔性智造，将整机交付周期压缩至48小时，但仅靠传统自动化和产线优化，仍难以应对快速变化的制造需求，制造模式本身需要一次代际升级。</p>\n  <p>日冕开物成立于今年3月，专注物理世界基础模型和解决方案，核心团队由四位清华博士组成，曾主导蔚来NWM1.0、华为ADS5.0世界模型，并交付行业首批具身机器人真机作业集群。公司提出具身原生LaMPA基础模型架构及递归加速进化体系（Physical RSI）。</p>\n  <p>超级工站是日冕开物推出的首款标准化产品，定位为面向柔性制造的新一代Physical AI生产工作站。其核心能力包括“一学就会”“触类旁通”和“超越人工”：新工序部署可从传统自动化的周、月级压缩至小时级现场真机强化学习；同时将生产过程中的失败案例转化为学习信号，持续更新模型，并在稳定性、一致性和效率上进一步优化。</p>\n  <p>支撑上述能力的底层技术，是日冕的Physical RSI（递归式加速进化）体系。其核心逻辑是让机器人在真实作业中持续获得反馈：当遇到未知场景时，系统自主发现认知缺口，更新世界模型、训练新策略并完成真机验证，经过验证的经验再沉淀回基座模型，并同步至机器人集群。</p>\n  <p>“联合实验室要解答的核心问题，是让机器人在不打搅生产的前提下，把设备接口、工艺衔接、异常处理这些复杂又现实的工业问题一个一个趟过去，沉淀成可复制的方法。所有题目从产线上来，所有成果回产线去验证。”日冕开物创始人兼CEO肖中阳在揭牌仪式上表示。</p>\n  <p>活动现场，双方联合展示了超级工站在ICT产线上的真机作业。ICT（在线测试）对位精度需控制在±0.05mm以内，同时对柔顺力控要求较高。除完成标准化作业外，超级工站还可识别位置偏移及混入物料。&nbsp;</p>\n  <p>换型环节，超级工站仅用15分钟便完成了新物料的学习与作业切换。作为对比，传统SMT产线一次换线通常需要2—4小时。这也是超级工站试图解决的核心问题之一——面对多品类、小批量、频繁迭代的制造需求，降低新物料、新工序的部署成本。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260918/v2_372390dafa4e4ba392c5543b50226ab0@5920579_oswg5935097oswg2190oswg1442_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">超级工站于远图ICT产线真机作业</p>\n  <p>双方计划以ICT工序为起点，逐步覆盖远图厂内更多工序，2027年实现百台级超级工站部署，2030年进一步迈向万台级集群应用。</p>",
-      "category": "tech",
-      "published_at": "2026-09-18T08:48:06+00:00",
-      "fetched_at": "2026-09-19T02:52:22.651299+00:00",
-      "fingerprint": "34d5904a21744c6c"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "关于产业未来，听听躬身入局的人怎么说｜2026产业未来大会精彩观点回顾",
-      "url": "https://36kr.com/p/3988678225214466?f=rss",
-      "summary": "<p>产业的未来，往往在成为共识之前，就已开始生长。每年，36氪都试着把目光再往前放一些：在技术突破的早期辨认产业机会，在资本流向的变化中观察增长逻辑，也持续追问，那些被寄予厚望的创新，究竟走到了哪一步？</p>\n  <p>2026年9月9日至10日，以“深水之上·共振新生”为主题的2026产业未来大会在北京亦庄·通明湖会展中心举行。两天的演讲与对谈，将这些追问带向更具体的现场：量子科技走出实验室，还要跨过哪些门槛？AI进入真实世界，如何兑现产业价值？国资与产业资本，又该如何陪伴一项技术穿越从突破到落地的漫长周期？从先进制造、新能源、半导体，到脑机接口、具身智能，我们关心技术能打开多大的想象空间，也关心谁在为这些想象铺路、验证、买单。</p>\n  <p>大会落幕，判断仍待时间检验。以下是我们从现场精选的嘉宾观点——其中有对趋势的预判，也有来自实践的答案。一起从这些思想切片中，辨认产业未来正在成形的轮廓。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260918/v2_bf1e6475154e4417b29c684363546e3d@6301044_oswg15776592oswg1460oswg22706_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-09-18T08:53:36+00:00",
-      "fetched_at": "2026-09-19T02:52:22.651292+00:00",
-      "fingerprint": "217bf290e4c515b6"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "HYROX道歉，「中产最爱赛事」何以走到今天？",
-      "url": "https://36kr.com/p/3984230181010434?f=rss",
-      "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <p>想象一下，你每天雷打不动去健身房训练了四五个月，买下近千元门票，加上课时费、装备、交通和住宿，这笔账已经逼近五位数。今天你站在HYROX北京站的现场，只想要一件事：刷新个人最好成绩。</p>\n  <p>第一公里按配速完成，滑雪机没有掉链子，推完雪橇进入第三公里的直道时，你甚至超过了两名选手。也就是在这时候，你注意到前方那位选手的小腿上有污物正在往下淌，她失禁了，但她也没有要停下来的意思。</p>\n  <p>现场没有人喊停，理论上你有得选，因为规则手册里确实写着：当选手认为自己无法继续时，可以自行退出，但代价是将近半年的努力全泡汤。</p>\n  <p>你突然发现，这场被称为“中产新宠”的运动，既非单纯奖励强者，也并不像想象中那样热血澎湃。滤镜之下，它更像是一场连核心规则都尚未缝补完整，便急于在全球跑马圈地、快速变现的商业赛事。</p>\n  <h3>资本故事</h3>\n  <p>事件发生两天后，9月14日，HYROX联合创始人Moritz Fürste发文致歉：“我需要就近期在中国发生的事件，直接向大家做出回应。我向所有直接或间接受到影响的人道歉，也向所有认为我们没有妥善处理该事件的人道歉。”</p>\n  <p>短短一天之内，HYROX的态度发生了180度转变。此前，HYROX曾在海外社交平台发布官方声明，力挺涉事选手。至于事件主角，赛后曾删除“赢了就是赢了（A win is a win）”的争议贴文，但截至目前，仍未就污染赛道一事向其他选手公开道歉。</p>\n  <p>HYROX官方态度的转变，更像是迫于舆论压力的应对。</p>\n  <p>事件发生后，现场视频与照片迅速在中文及国际社交平台传播，赛事主办方也被拖入信任危机。有北京站选手指出，HYROX新发布的赛事规则中，“选手吐痰”会被严格处以2分钟罚时，但涉事选手造成大规模、重度公共卫生污染，裁判却没有要求其退赛。</p>\n  <p>这场公关危机之所以在短短几天内演变成一场舆论风暴，归根结底，是因为如今的HYROX实在太红了。</p>\n  <p>HYROX有多火？一组数据足够直观。全球每年完成马拉松的人数大约在110万至130万之间。2024年至2025年赛季，HYROX完赛人数约55万人；2025年至2026年赛季，这一数字进一步增长至150万人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260915/v2_59c256acf4d94717aaa3285d8d2d7a6a@5922386_oswg197166oswg2400oswg1520_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">数据来源：公开资料</p>\n  <p>这意味着，仅从参与人数来看，HYROX的全民化程度已经接近马拉松。而后者所覆盖的核心人群和外围消费群体，足以支撑一个百亿规模市场。HYROX的主办方自然不可能不心动。</p>\n  <p>简单回顾HYROX的发展史，你会发现，这是一场从诞生第一天起，就被精心设计、精准瞄准中产人群的商业赛事。</p>\n  <p>三位创始人中，一位是运动员，两位来自营销领域。他们试图解决的并不是“创造一项新运动”，而是一个消费现象：“52%的人说健身是他们的运动，可这项运动到底是什么？”</p>\n  <p>于是，三人设计出了“8趟1公里路跑，交替搭配8个功能性关卡”的赛制。整个比赛在室内完成，只计算总用时，成绩统一纳入全球排名体系。</p>\n  <p>2017年，第一场HYROX赛事在德国汉堡展览馆举办，当时仅有650人参赛。创始人曾透露，他们当时的目标是：“用20万欧元的预算，打造出看起来像200万欧元的高规格大场面”，以此吸引习惯高品质生活的城市中产。</p>\n  <p>进入亚洲市场后，HYROX最初的发展并不顺利，原因在于其品牌形象过于精英化。于是，主办方开始弱化个人组别的竞技属性，放大混双、四人接力以及企业组，将赛事包装成一种新的团建方式和中产社交工具。</p>\n  <p>这一策略收效明显。2024年，HYROX北京首场比赛仅有1700人参加；次年5月上海站，两场赛事参与人数突破万人，并成为社交平台热门话题，抖音相关内容播放量超过100亿次。</p>\n  <p>精准吸引高收入、高消费且高度重视健康生活方式的中产群体之后，随之而来的便是品牌赞助。</p>\n  <p>除了从诞生第一天起便冠名合作的PUMA，在国内HYROX赛事中，各类运动品牌、化妆品、营养品、可穿戴设备，甚至汽车品牌的Logo遍布赛场和参赛者胸前。一些外形亮眼的参赛者，赤裸的上半身被贴满品牌标识，甚至被戏称为“行走的广告牌”。</p>\n  <p>2025财年，HYROX营收约为1.35亿至1.4亿欧元。而随着全球市场，尤其是亚洲市场的快速扩张，CNBC预测，其2026年预期营收将翻倍至2.7亿美元。</p>\n  <p>就在此次事件发生前不久，HYROX创始人重新购回51%的股份，并与新加入的资方L Catterton共同推动赛事进一步扩大规模，提升全民化程度和商业化水平。</p>\n  <p>然而，这场资本狂欢的脚步，终究走得太快。</p>\n  <h3>谁来喊停？</h3>\n  <p>事件爆发初期，HYROX全球官方试图用“不可预见的突发状况”解释现场失误。他们在声明中辩称，针对精英选手的竞赛方案与大众赛事方案“产生了混淆”，导致规则适用和理解出现歧义，因此现场裁判未能及时干预。</p>\n  <p>倘若拆解HYROX的收入结构，便能看穿其“不敢喊停”的原因：这项赛事高度依赖选手报名费和门票收入，任何影响赛事正常进行、降低参赛体验甚至引发退赛的决定，都可能直接影响其商业模型的稳定运转。</p>\n  <p>我们可以将HYROX与城市马拉松进行比较。</p>\n  <p>以纽约马拉松为例，其最大的收入来源是商业赞助和社会捐赠，约5052万美元；大众报名费紧随其后，约4916万美元。两者几乎平分秋色。这意味着，纽约马拉松的办赛成本，有接近一半由第三方——企业赞助商、慈善机构以及捐赠者共同承担。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260915/v2_56ab3689fef34ec4ac1f6673c503975e@5922386_oswg311448oswg2400oswg1520_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">纽约马拉松与HYROX收入来源对比</p>\n  <p>而根据体育商业媒体SportsPro的拆解，HYROX的大众选手报名费和门票收入直接占据总营收的55%至65%，赞助收入约占15%，其余则来自周边授权和商品销售。《泰晤士报》给出的数据甚至更为极端：报名费收入占比高达九成。</p>\n  <p>澳大利亚财务机构SBO Financial测算，HYROX全球赛事毛利率高达80%，主办方甚至无需支付太多营销成本——因为渴望塑造自律人设的中产选手，会主动在社交媒体上成为赛事的“自来水”。</p>\n  <p><strong>HYROX创始人也曾透露，单场赛事只要约1500名选手报名，便可以实现盈亏平衡。&nbsp;</strong></p>\n  <p>此外，纽约马拉松主办方NYRR是非营利机构（全球多数顶级马拉松赛事组织方亦如此），其结余资金的大部分需要依法投入社区公益项目。 而HYROX在2025财年创造约1.33亿欧元收入，对应约3000万欧元EBITDA（税息折旧及摊销前利润），利润率达到23%。</p>\n  <p>毫无疑问，在一场非营利性的城市马拉松中喊停比赛，与在一个以盈利为目标的私营赛事中叫停比赛，背后的经济代价完全不同。</p>\n  <p>此次事件发生后，中文社交平台上还流传着另一种猜测：涉事选手身上的PUMA全球代言人身份，让赛事方投鼠忌器，不敢要求其退赛。</p>\n  <p>虽然这一猜测没有任何直接证据支撑，HYROX与PUMA也均未对此回应，但这条流言之所以能够在数小时内传播全网，并且几乎没有人认为荒谬——恰恰说明，大众对于“普通参与者为商业特权让步”的想象，已经成为HYROX最大的信任危机之一。</p>\n  <h3>余波未平</h3>\n  <p>36氪采访的多位运动行业人士曾指出，HYROX在装备功能要求上的“模糊性”，可能成为其进一步商业化的限制因素，“HYROX参赛者除了对鞋类有一定要求，在服装方面，任何具备快干功能的运动服饰都可以应对赛程。”</p>\n  <p>与HYROX绑定最深的PUMA，其财务表现也从侧面印证了这一点。</p>\n  <p>PUMA 的CEO Arthur Hoeld曾在财报电话会上将HYROX称为“灯塔级”合作，但他同时坦言，综合训练（Training）业务目前仍只占集团总营收的个位数比例。截至目前，PUMA尚未披露任何由HYROX直接带来的具体销售数据。这意味着，对于双方而言，这场合作目前更多体现为品牌战略价值，而非直接财务贡献。</p>\n  <p>这种硬件装备上的高可替代性，也让其他运动巨头在进入这一领域时保持谨慎。</p>\n  <p>阿迪达斯、耐克甚至昂跑虽然都推出了适用于混合体能训练的鞋款，强调更强抓地力和前掌灵活性，但不论是否受到排他性冠名条款影响，它们都没有在产品命名中与HYROX进行深度绑定，而是将之描述为“综合训练”或“混合训练”。</p>\n  <p>对于在事件发生前三天，刚宣布以6亿欧元（约合人民币47亿元）收购HYROX多数股权的顶级基金L Catterton来说，挑战或许才刚刚开始。</p>\n  <p>作为LVMH旗下消费投资基金，L Catterton最核心的投资逻辑，是寻找能够定义中产生活方式的消费资产。它重金押注HYROX，看中的不仅是赛事本身的商业潜力，更是其打造出的“高端、自律、新中产社交方式”的品牌标签。而当这项运动的符号从\"中产、健康、时尚\"滑向\"肮脏、失控、缺乏基本尊重\"，它对高净值人群和高端跨界赞助商的吸引力自然会消失。</p>\n  <p><strong>HYROX全球扩张和商业变现的速度，已经明显超过其赛事安全、裁判培训以及危机处理体系的建设速度。</strong>类似的“高速增长后遗症”，在混合体能领域并非首次出现。几乎与HYROX共享同一套成长逻辑的CrossFit，就曾为治理能力滞后付出过生命代价。</p>\n  <p>2024年8月8日，选手Lazar Đukić在CrossFit Games开幕日的公开水域游泳项目中不幸溺亡。事件发生后，CrossFit聘请第三方独立调查团队，对观众、选手和工作人员展开访谈，调取完整影像资料，并对比其他职业赛事的水上安全标准。三个月后，官方公布包括设立专职安全管理岗位、成立独立安全委员会等6项制度调整。</p>\n  <p>CrossFit同样是一家追求利润的商业公司，同样通过赛事内容、门店授权和参与费用盈利。但它证明了一点：商业属性并不意味着企业可以豁免基本治理责任。</p>\n  <p>相比之下，HYROX这次的运气显然更好。没有人受伤或死亡，代价似乎只是一次舆论风暴，以及大量带有嘲讽意味的网络表情包。</p>\n  <p>商业化本身不是原罪。一项运动能够让几十万人主动“花钱干农活”，本身就是一种商业能力。只是，当一场比赛无法被喊停时，它迟早会遇到一个必须停下来的瞬间。</p>",
-      "category": "tech",
-      "published_at": "2026-09-18T14:01:54+00:00",
-      "fetched_at": "2026-09-19T02:52:22.651283+00:00",
-      "fingerprint": "10959307f6ef97fb"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "9点1氪丨住建部：4楼及以上住宅都要加装电梯；黄牛称iPhone 18 Pro没人要；今年最便宜的新股“沈鼓集团”，上市次日盘中涨幅近300%",
-      "url": "https://36kr.com/p/3989629580114695?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>OpenAI据报接近解决又一“千禧年大奖难题”，或将攻克霍奇猜想</li>\n   <li>黑客利用Anthropic的Claude入侵OpenAI</li>\n   <li>巴菲特宣布卸任伯克希尔哈撒韦董事长一职</li>\n   <li>苹果回应iPhone Duo维修贵</li>\n   <li>12306回应国庆假期高铁涨价&nbsp;</li>\n   <li>市场监管总局：拦截线上销售违规充电宝商品3.7万件，督促下架或拦截上架的店铺3831家&nbsp;</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>住建部：4楼及以上住宅都要加装电梯&nbsp;</strong></p>\n  <p>住房和城乡建设部新闻发言人、副部长陈绍旺在国新办新闻发布会上表示，“十五五”时期提升人民群众居住水平关键是建设好房子。从好标准、好设计、好材料、好建造、好运维全链条、全生命周期去推进。</p>\n  <p>针对群众反映楼层低的问题，我们将层高标准从原来的2.8米提高到3米；为解决老年群体上下楼的问题，新标准提出4楼及以上住宅都要加装电梯；针对儿童安全防护的问题，把阳台、外廊等所有凌空处护栏高度，统一提高到不低于1.2米。（财联社）</p>\n  <p><strong>黄牛称iPhone 18 Pro没人要，红色iPhone 18 Pro Max较受欢迎&nbsp;</strong></p>\n  <p>据财联社、每日经济新闻报道，从沪、广、深三地现场回收的“黄牛”了解到，iPhone 18 Pro Max普遍可以加价300元以上回收。其中，多名“黄牛”表示红色iPhone 18 Pro Max较受欢迎，开售时最高加价900元，目前已回落至加价500元左右。iPhone 18 Pro机型方面，多名“黄牛”表示暂时拒收，亦有人士表示可以与官网同价回收。现场“黄牛”表示，与iPhone 18 Pro Max相比，iPhone 18 Pro版本的关注度不佳。上述“黄牛”称，“iPhone 18 Pro版本没人要。”</p>\n  <p>iPhone 18 Pro系列目前官方的预定等待时长较往年明显缩短。据苹果官方网站，如在官网预定红色256G的iPhone 18 Pro型号手机，11个工作日即可发货；红色256G的iPhone 18 Pro Max型号手机则需要15个工作日发货。这较iPhone 17系列动辄3—4周的等待时间明显缩短。（桂林晚报）</p>\n  <p><strong>今年最便宜的新股“沈鼓集团”，上市次日盘中涨幅近300%&nbsp;</strong></p>\n  <p>9月18日，沈鼓集团开盘即下跌，但是不到一个小时就迎来反转，午后更是走出极致反转行情，盘中涨幅逼近300%。截至收盘，沈鼓集团当前股价为57.77元/股，单日涨幅为177.74%，公司总市值约1796.6亿元，当日两度触发临停。</p>\n  <p>沈鼓集团于2026年9月17日上市，股票发行价为4.39元/股，是今年年内发行价最低的新股。从打新收益来看，单签500股中签缴款需2195元，以当日盘中最高价82.59元测算，单签最高浮盈3.91万元。（新京报）</p>\n  <h2>AI 最前沿</h2>\n  <p><strong>智谱推出GLM-5.3-FlashX</strong></p>\n  <p>36氪获悉，智谱正式推出GLM-5.3-FlashX（最高200 tokens/s）。</p>\n  <p><strong>黑客利用Anthropic的Claude入侵OpenAI</strong></p>\n  <p>据报道，在一群AI代理从OpenAI系统中突破封锁并攻击Hugging Face公司两周后，这家ChatGPT开发商又发现了一起由人工智能驱动的入侵事件。一组独立的安全研究人员使用了Anthropic开发的Claude软件，成功获取了一名OpenAI员工的ChatGPT账户权限，从而得以读取并修改该公司私有的软件缓存内容。该团队参与了OpenAI的一项漏洞挖掘计划，该项目为研究人员提供安全环境，允许其尝试攻破企业系统。他们在发现漏洞后迅速向公司报告。OpenAI为此支付了6500美元的悬赏金，该团队也首次向媒体披露了此次行动细节。（新浪财经）</p>\n  <p><strong>MiniMax Code CLI正式开源</strong></p>\n  <p>36氪获悉，据MiniMax消息，MiniMax Code CLI的v0.4.12版本面向全球开发者正式开放，并且以MIT协议正式开放源代码。</p>\n  <p><strong>OpenAI据报接近解决又一“千禧年大奖难题”，或将攻克霍奇猜想</strong></p>\n  <p>9月17日，据报道，OpenAI已接近解决“千禧年大奖难题”中的另一道数学难题——霍奇猜想（Hodge Conjecture）。OpenAI员工预计这一问题可能在不久后得到解决。霍奇猜想是美国克雷数学研究所提出的7个“千禧年大奖难题”之一，解决其中任何一道均可获得100万美元奖金。（界面新闻）</p>\n  <p><strong>四大AI编程代理曝相同安全漏洞，“技能”更新机制遭劫持风险</strong></p>\n  <p>网络安全初创公司Air独家披露，Anthropic Claude Code、OpenAI Codex、Google Gemini CLI及GitHub Copilot四款主流AI编程代理存在相同逻辑缺陷：其“技能”（Skills）自动更新机制未校验内容变更，攻击者可伪装同名恶意更新绕过扫描，静默窃取企业代码或知识产权。该漏洞源于各厂商验证机制设计雷同，凸显行业共性盲区。目前除GitHub外其余三家已修复；GitHub称平台机制可阻断此类攻击，但未确认补丁状态。（新浪财经）</p>\n  <p><strong>摩根大通CEO戴蒙：建议对AI实施“轻度”的联邦级监管</strong></p>\n  <p>在美国硅谷针对美国人工智能发展前路争论不休之际，美东时间周三，摩根大通首席执行官杰米·戴蒙发表观点：支持美国对人工智能行业实施“轻度（light-touch）”的联邦级别监管，避免地方监管，理由是各州法规不一，会增加AI商业落地的复杂性。他表示：“如果一定要监管，就应当由联邦层面出台，并且采用轻度监管模式。联邦政府会有自己的考量，各州同样如此……我确实认为这会成为一个难题，倘若各类事项都适用不同州的法律，商业活动几乎难以开展。”（财联社）</p>\n  <p><strong>Anthropic公司计划年底前建成5吉瓦算力</strong></p>\n  <p>据报道，Anthropic公司计划年底前建成5吉瓦算力。(财联社)</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>人民币升破6.7，在岸离岸双双创2023年1月以来新高&nbsp;</strong></p>\n  <p>9月18日，离岸人民币兑美元汇率升破6.70关口。同日，人民币兑美元中间价报6.7521，上调59点。截至9时50分，在岸、离岸人民币对美元分别报6.6990、6.6971。</p>\n  <p>北京时间9月17日凌晨，美联储宣布将联邦基金利率目标区间上调25个基点，到3.75%至4%。在此背景下，美元指数升至近1个月高点，重新站上100关口，非美货币普遍承压。相比之下，人民币汇率延续稳中有强态势。业内人士表示，受经常账户顺差以及企业结汇韧性等因素支撑，人民币走势稳健。（财联社）</p>\n  <p><strong>日本央行时隔3个月再加息，符合市场预期&nbsp;</strong></p>\n  <p>9月18日日本央行加息25个基点，将目标利率由1.00%上调至1.25%，为31年来最高水平，符合市场预期。日本央行以7比2的投票结果通过了加息决定。（财联社）</p>\n  <p><strong>巴菲特宣布卸任伯克希尔哈撒韦董事长一职</strong></p>\n  <p>96岁的沃伦·巴菲特在周五的一份致股东信中宣布，即将卸任伯克希尔哈撒韦公司董事长一职。伯克希尔在另一份公告中表示，巴菲特将即刻出任名誉董事长，并继续担任公司董事会成员。根据一项既定的长期接班计划，他的儿子霍华德·巴菲特将接替他出任董事长。苏珊·德克尔（Susan Decker）将继续担任首席独立董事。（第一财经）</p>\n  <p><strong>特朗普再称对伊朗战事将很快结束&nbsp;</strong></p>\n  <p>当地时间9月18日，美国总统特朗普谈及伊朗时，称“战事很快就会结束”。特朗普重申，伊朗不会拥有核武器。他同时表示，一旦与伊朗的战争结束，汽油价格将回落至此前水平，甚至更低。同时，特朗普表示，美国正在与也门胡塞武装接触。（央视新闻）</p>\n  <p><strong>澳大利亚拟在政府工作场所禁用智能眼镜</strong></p>\n  <p>据路透社等多家媒体17日报道，考虑到隐私和安全等因素，澳大利亚拟禁止在联邦政府工作场所使用配备摄像头的智能眼镜。此外，澳政府还将召集包括微软、澳大利亚联邦银行、澳大利亚电信等多家在澳大型企业举行圆桌会议，围绕工作场所人工智能的使用规范进行磋商。（新华社）</p>\n  <p><strong>SK海力士：尚未决定是否在日本建芯片工厂</strong></p>\n  <p>据报道，SK海力士9月18日表示，尚未决定是否在日本建设芯片工厂。（界面新闻）</p>\n  <p><strong>比特币涨破8.1万美元&nbsp;</strong></p>\n  <p>9月19日6:20，加密货币市场全线狂飙，比特币涨破8.1万美元，目前涨超6%，以太坊涨近8%，SOL、HYPE等涨超11%，过去24小时，全球共有超11万人被爆仓。（21世纪经济报道）</p>\n  <p><strong>美国证券交易委员会推进全天候交易，批准代币化证券交易豁免</strong></p>\n  <p>美国证券交易委员会（SEC）周四在华盛顿总部举行圆桌会议，讨论将传统交易系统扩展至加密货币领域惯常的24小时全天候交易模式。会议举行前一个小时，该机构刚发布命令，批准代币化证券交易。（新浪财经）</p>\n  <p><strong>SpaceX：计划最早于9月28日进行星舰第14次试飞</strong></p>\n  <p>当地时间9月17日，SpaceX在社交平台发帖称：“目前计划最早于9月28日（周一）执行‘星舰’第14次飞行任务，具体时间尚待监管部门批准。”（界面新闻）</p>\n  <p><strong>苹果回应iPhone Duo维修贵</strong></p>\n  <p>针对iPhone Duo官方维修价格，客服表示，目前iPhone Duo尚未开启预购，具体维修价格待预购后公布。客服称，iPhone Duo采用内外双屏设计，维修费用可能“确实比较昂贵”。以iPhone 18 Pro Max为例，屏幕损坏正常维修费用为3198元。（中新经纬）</p>\n  <p><strong>12306回应国庆假期高铁涨价&nbsp;</strong></p>\n  <p>据中新经纬，9月16日，国庆假期前一天高铁票开售。有网友称“准备抢国庆期间的车票，发现车票居然涨价了。”</p>\n  <p>据网友晒出的截图显示，9月25日，重庆北至南京南D988次列车票价为446元起，9月30日则为520元起。另有网友分享了广州至潮汕G6592次列车票价变化，该网友称，“同个班次，平时价格是279元，中秋涨到298元，国庆涨到302元。”</p>\n  <p>9月18日早间，客服表示，高铁票价可能因节假日客流等因素浮动，不同日期优惠折扣不同，并非涨价。具体票价以12306官方显示为准。对于何时购票更优惠，客服则表示，无法确保某一时段的优惠力度大小。一般情况下，开票期间不会出现较大变化，但也不排除特殊情况。（中新经纬）</p>\n  <p><strong>文化产业发展“十五五”规划:支持符合条件的文化企业通过上市、股权、债券等方式融资</strong></p>\n  <p>36氪获悉，文化和旅游部印发《文化产业发展“十五五”规划》。其中提到，推动文化金融服务创新和产品创新，引导金融服务与文化产业需求精准对接。鼓励银行业金融机构加大对文化企业信贷支持力度。支持金融机构创新符合文化产业特点的金融产品和服务。支持符合条件的文化企业通过上市、股权、债券等方式融资。引导创业投资机构加大对初创期、成长期文化企业的投资力度。鼓励保险机构开展面向文化企业的保险业务。推动符合条件的文化产业项目发行基础设施领域不动产投资信托基金(REITs)。更好发挥文化和旅游金融服务中心功能，完善文化产业投融资服务。</p>\n  <p><strong>财政部：1一8月证券交易印花税2160亿元，同比增长82%</strong></p>\n  <p>36氪获悉，据财政部消息，1一8月，印花税3858亿元，同比增长35.6%。其中，证券交易印花税2160亿元，同比增长82%。</p>\n  <p><strong>全国首个海洋Token工厂落地青岛</strong></p>\n  <p>36氪获悉，全国首个面向海洋产业的专属智能要素供给平台——海洋Token（词元）工厂正式发布并落地青岛。据介绍，海洋Token工厂整体架构包含数据、算力、算法三个部分。数据方面，平台可提供海上作业规范、海洋环境要素等130多类涉海数据，建成面向海洋一线需求的专属数据库；算力方面，已形成总算力规模超过800P的海洋算力资源池，且仍在持续扩容；算法方面，汇聚观海、海星等20多个海洋领域专有大模型，以及“九天”大模型等30多款通用模型。按照规划，海洋Token工厂将深度贯穿深海油气勘探等实战场景，服务行业领军企业需求。</p>\n  <p><strong>宁德时代回购151.26万股A股股份</strong></p>\n  <p>36氪获悉，宁德时代公告，公司9月18日回购151.26万股A股股份，回购价格区间为每股300.89元—302.63元，回购总金额约4.56亿元。</p>\n  <p><strong>英国国王召集AI峰会，黄仁勋：监管产品而非技术</strong></p>\n  <p>当地时间9月17日，英国国王查尔斯三世在苏格兰邓弗里斯庄园（Dumfries House）主持召开人工智能峰会。英伟达CEO黄仁勋（Jensen Huang）、谷歌DeepMind创始人哈萨比斯（Demis Hassabis），以及OpenAI、Anthropic等全球人工智能（AI）巨头高层及英国政府代表参会，共同讨论AI发展的机遇、风险与治理原则。（第一财经）</p>\n  <p><strong>迪士尼任命Adam Smith为直接面向消费者业务主席</strong></p>\n  <p>当地时间9月17日，迪士尼宣布任命Adam Smith为公司DTC（Direct-to-Consumer）业务主席。Smith将负责公司的全球娱乐SVOD业务，并将监管Disney+和Hulu的产品、工程、广告技术、合作伙伴关系以及数据与分析等。此外，迪士尼还宣布任命Joe Earley为电视品牌与内容战略总裁。其将负责主导迪士尼娱乐电视品牌的战略开发，并监管国际原创内容及制作的全部内容与制作事务、劳务关系以及创意人才培养。（界面新闻）</p>\n  <p><strong>市场监管总局：拦截线上销售违规充电宝商品3.7万件，督促下架或拦截上架的店铺3831家&nbsp;</strong></p>\n  <p>据央视新闻，市场监管总局近日部署开展了为期三个月的无CCC认证充电宝集中整治，目前已取得了阶段性进展。截至目前，各地市场监管部门共监督检查充电宝生产企业425家、销售市场1496个、店铺5.56万家，共享充电宝及网售充电宝81.2万个，发现问题线索395件。同时督促电商平台将“三无”充电宝、无CCC标识产品、CCC证书撤销或暂停产品及“CCC贴纸”等纳入禁售目录，并采取下架、关闭店铺等措施；对接CCC证书联网核查接口，实现证书状态自动比对、实时拦截，及时清理存量问题商品。集中整治行动开展以来，督促7家主要电商平台开展联网核查376.3万次，拦截违规充电宝商品3.7万件，督促下架或拦截上架的店铺3831家。（央视新闻、九派新闻）</p>\n  <p><strong>消息称特斯拉AI5芯片已在三星泰勒工厂试产</strong></p>\n  <p>业内消息称，三星电子已在美国得克萨斯州泰勒的代工厂开始原型生产，向特斯拉提供AI5芯片。三星泰勒工厂原定于11月左右全面投产，但由于大型科技公司对AI芯片的需求激增，三星提前了原型产量以开始良率验证，计划在今年年底完成大规模生产验证，并于明年全面供应。（新浪财经）</p>\n  <p><strong>委内瑞拉即将达成协议，将黄金储备从英国转移至美国</strong></p>\n  <p>据知情人士透露，委内瑞拉政府与反对派即将达成一项协议，把价值约40亿美元的黄金储备从英格兰银行转移至纽约联邦储备银行。根据正在磋商的条款，这批黄金有可能被用作政府借贷的抵押品，为财政开支提供资金。政府不得立即出售所持黄金，但将拥有对其的法定控制权。英格兰银行表示，除非英国法院出具裁定，明确账户的法定归属方，否则该行无法执行相关操作。（新浪财经）</p>\n  <p><strong>费城半导体指数尾盘快速拉升收涨2.78%，加密货币概念大涨&nbsp;</strong></p>\n  <p>美股三大指数收盘涨跌不一，纳指涨0.39%，本周累涨0.72%；标普500指数涨0.17%，本周累跌0.08%；道指跌0.18%，本周累跌1.69%，周线三连跌。费城半导体指数尾盘快速拉升，收涨2.78%。存储概念股普涨，闪迪大涨约11%，Coherent涨超7%，希捷科技涨超6%，西部数据涨超4%，美光科技涨超3%，AMD、SK海力士涨逾2%。加密货币概念大涨，Strategy涨超16%，MARA Holdings涨超13%，Coinbase涨超11%，Robinhood涨超9%，Bitmine、Cipher涨超8%，Circle涨超7%。奈飞跌超4%，富国银行将该股评级从中性下调至减持，目标价从80美元下调至57美元。（界面新闻）</p>\n  <p><strong>韩国将在价格压力下延长燃油税减免至11月</strong></p>\n  <p>韩国财政部周五表示，将燃油税减免计划延长两个月至11月，以缓解中东局势长期紧张的公众物价负担。根据该措施，目前汽油15%、柴油和丁烷25%的税收减免，原定于本月底到期，将持续到十一月底。（新浪财经）</p>\n  <h2>上市进行时</h2>\n  <p><strong>四方精创：决定延迟H股全球发售及上市</strong></p>\n  <p>36氪获悉，四方精创公告，公司正在进行申请发行H股并在香港联交所主板挂牌上市的相关工作。鉴于目前的市场情况，公司决定延迟此次H股的全球发售及上市。</p>\n  <p><strong>证监会同意傲拓科技科创板IPO注册</strong></p>\n  <p>36氪获悉，证监会同意傲拓科技股份有限公司（简称“傲拓科技”）首次公开发行股票并在科创板上市的注册申请。</p>\n  <h2>投融资</h2>\n  <p><strong>“宇算星河”完成亿元级天使轮及pre-A轮融资</strong></p>\n  <p>36氪获悉，“宇算星河”完成亿元级天使轮及pre-A轮融资，由麟阁创投领投、海珠城发、清新资本、高捷资本、知识城集团、吉富资本跟投。“宇算星河”核心业务是可在轨运行的“天基大模型”，希望实现遥感数据在太空端的实时训练、推理与闭环处理，为在轨计算提供原生的智能模型能力。</p>\n  <h2>酷产品</h2>\n  <p><strong>菜鸟向客户交付广州首个攀爬机器人仓</strong></p>\n  <p>36氪获悉，近日，菜鸟在广州向客户交付当地首个新一代自研攀爬机器人仓库，仓库面积利用率提升了2倍，同时拣选效率也得到大幅度提升。据了解，菜鸟自研的攀爬机器人发布仅5个月，已完成东莞、香港和广州等多个项目的交付投产，此外西班牙和荷兰项目也已进入交付阶段，项目覆盖了中国国内物流、欧洲物流，涉及国内电商、跨境电商、电子制造和服饰生产等多个行业。</p>\n  <p class=\"editor-note\"><strong>整理丨李琪</strong></p>",
-      "category": "tech",
-      "published_at": "2026-09-19T01:02:56+00:00",
-      "fetched_at": "2026-09-19T02:52:22.651268+00:00",
-      "fingerprint": "1aeabbf10ded286b"
-    },
-    {
-      "source": "少数派",
-      "title": "让 Agent 读懂你的身体：数据获取篇",
-      "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
-      "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...<a href=\"https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "category": "tech",
-      "published_at": "2026-09-18T03:19:13+00:00",
-      "fetched_at": "2026-09-19T02:52:20.958977+00:00",
-      "fingerprint": "03deefc91d2a3f2f"
-    },
-    {
-      "source": "少数派",
-      "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
-      "url": "https://sspai.com/post/114670",
-      "summary": "让我们一起细数 watchOS 27 中的新功能。<a href=\"https://sspai.com/post/114670\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-18T03:30:00+00:00",
-      "fetched_at": "2026-09-19T02:52:20.958970+00:00",
-      "fingerprint": "3808cbdb54b85e3f"
-    },
-    {
-      "source": "少数派",
-      "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
-      "url": "https://sspai.com/post/114555",
-      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/114555\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-18T06:55:30+00:00",
-      "fetched_at": "2026-09-19T02:52:20.958963+00:00",
-      "fingerprint": "ecb98f8e07a5f90d"
-    },
-    {
-      "source": "少数派",
-      "title": "本周看什么 | 最近值得一看的 9 部作品",
-      "url": "https://sspai.com/post/114716",
-      "summary": "📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ...<a href=\"https://sspai.com/post/114716\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-18T09:58:55+00:00",
-      "fetched_at": "2026-09-19T02:52:20.958952+00:00",
-      "fingerprint": "e381794536cf4578"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7689 CNY ↓-0.06%",
-      "url": "https://www.frankfurter.app/2026-09-18?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-09-18</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7689 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0027 (-0.06%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-09-19T02:52:19.782548+00:00",
-      "fingerprint": "b3b88b29c35eb88a"
     }
   ]
 }
