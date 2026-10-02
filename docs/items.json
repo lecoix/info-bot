@@ -1,7 +1,187 @@
 {
-  "updated_at": "2026-10-01T03:49:14.706288+00:00",
-  "count": 169,
+  "updated_at": "2026-10-02T03:47:10.365614+00:00",
+  "count": 161,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+      "category": "politics",
+      "published_at": "2026-10-02T03:09:13+00:00",
+      "fetched_at": "2026-10-02T03:47:10.122301+00:00",
+      "fingerprint": "e90781a58b70bd0c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+      "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+      "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+      "category": "politics",
+      "published_at": "2026-10-02T02:49:44+00:00",
+      "fetched_at": "2026-10-02T03:47:10.122297+00:00",
+      "fingerprint": "522381b1bd1cd9ce"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+      "category": "politics",
+      "published_at": "2026-10-01T22:28:45+00:00",
+      "fetched_at": "2026-10-02T03:47:10.122293+00:00",
+      "fingerprint": "89ad31c25c55fbfb"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "category": "politics",
+      "published_at": "2026-10-01T22:21:16+00:00",
+      "fetched_at": "2026-10-02T03:47:10.122286+00:00",
+      "fingerprint": "dce3b7690583e839"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「我喜歡證明別人錯了」：這些女性拿起工具，自己做裝修和水喉工程",
+      "url": "https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "女性DIY專家和女性工匠談及她們如何改變傳統男性主導的領域。",
+      "category": "politics",
+      "published_at": "2026-10-02T01:42:08+00:00",
+      "fetched_at": "2026-10-02T03:47:10.026626+00:00",
+      "fingerprint": "1053cbb88aa1100a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "北京正在打擊那些能夠模擬人際關係的AI聊天機器人。專家質疑這是否是正確的做法。",
+      "category": "politics",
+      "published_at": "2026-10-01T08:12:13+00:00",
+      "fetched_at": "2026-10-02T03:47:10.026623+00:00",
+      "fingerprint": "ed512c4d390c477d"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
+      "url": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "香港記者協會關注事件，指鄧浩榮是首名在涉嫌違反《維護國家安全條例》（俗稱「23條」）生效後，於公眾領域中因該例煽動罪被捕的新聞工作者。",
+      "category": "politics",
+      "published_at": "2026-10-01T08:48:59+00:00",
+      "fetched_at": "2026-10-02T03:47:10.026619+00:00",
+      "fingerprint": "6ce65b396617e4d8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "該女子指稱，兩年前她在該大學一處兄弟會宿舍遭人下藥並遭到性侵。",
+      "category": "politics",
+      "published_at": "2026-10-02T02:31:44+00:00",
+      "fetched_at": "2026-10-02T03:47:10.026610+00:00",
+      "fingerprint": "6016594930613b4a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-02T03:47:09.592357+00:00",
+      "fingerprint": "817c31d46998044e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-02T03:47:09.592292+00:00",
+      "fingerprint": "9b136a20e472933b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-02T03:47:09.592215+00:00",
+      "fingerprint": "c0a0a5f5affd2692"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-02T03:47:09.592146+00:00",
+      "fingerprint": "d315aa5bb99e76d8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-02T03:47:09.592055+00:00",
+      "fingerprint": "9b9edebdd384270d"
+    },
+    {
+      "source": "The Verge",
+      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+      "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "summary": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-01T18:52:58+00:00",
+      "fetched_at": "2026-10-02T03:47:09.269287+00:00",
+      "fingerprint": "f9473ba1b72da33e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
+      "url": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+      "summary": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including Shruti Shekar, Derrek Lee, Harish Jonnalagadda, and Nicholas Sutrich, and former [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-01T19:20:29+00:00",
+      "fetched_at": "2026-10-02T03:47:09.269284+00:00",
+      "fingerprint": "7721aa0681a92a30"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-01T19:47:51+00:00",
+      "fetched_at": "2026-10-02T03:47:09.269280+00:00",
+      "fingerprint": "6740c72e272a106e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside Apple's rumored smart home [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-01T22:51:36+00:00",
+      "fetched_at": "2026-10-02T03:47:09.269273+00:00",
+      "fingerprint": "b18ced003f0a5e35"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6600 CNY ↓-0.24%",
+      "url": "https://www.frankfurter.app/2026-10-01?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-01</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6600 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0114 (-0.24%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-02T03:47:05.857318+00:00",
+      "fingerprint": "dd9296ba1114cef5"
+    },
     {
       "source": "The Guardian - World",
       "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
@@ -1431,266 +1611,6 @@
       "published_at": null,
       "fetched_at": "2026-09-26T03:12:52.712558+00:00",
       "fingerprint": "0fd6ae940dbcae55"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-      "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-      "summary": "<p>Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed government</p><p>There are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aimed at overthrowing the government of the prime minister, Abiy Ahmed.</p><p>About 600,000 people died between 2020 and 2022 during <a href=\"https://www.theguardian.com/world/2020/nov/26/ethiopias-military-to-begin-final-offensive-against-tigray-capital\">a devastating war</a> between the Ethiopian army and the political party and paramilitary group the Tigray People’s Liberation Front (TPLF). Both sides are now accusing the other of triggering a return to open conflict.</p> <a href=\"https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-24T15:29:42+00:00",
-      "fetched_at": "2026-09-25T03:08:53.641286+00:00",
-      "fingerprint": "61aa7ffb925b5ac6"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "category": "politics",
-      "published_at": "2026-09-24T18:06:40+00:00",
-      "fetched_at": "2026-09-25T03:08:53.455340+00:00",
-      "fingerprint": "f912c18b19fc5b48"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Hundreds of thousands expected in Paris for Pope's visit",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
-      "category": "politics",
-      "published_at": "2026-09-24T23:17:00+00:00",
-      "fetched_at": "2026-09-25T03:08:53.455334+00:00",
-      "fingerprint": "43155d15a311d094"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "summary": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
-      "category": "politics",
-      "published_at": "2026-09-25T01:10:35+00:00",
-      "fetched_at": "2026-09-25T03:08:53.455327+00:00",
-      "fingerprint": "97baa5d0c93b2661"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "category": "politics",
-      "published_at": "2026-09-25T00:44:04+00:00",
-      "fetched_at": "2026-09-25T03:08:53.455318+00:00",
-      "fingerprint": "0e34f3bdf0b7dd17"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
-      "url": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "倡議人士希望，這些新詞語能減少對身體的羞辱，並推動更正向的性觀念。",
-      "category": "politics",
-      "published_at": "2026-09-25T00:03:23+00:00",
-      "fetched_at": "2026-09-25T03:08:53.309899+00:00",
-      "fingerprint": "cf64f50a0fbfa3ea"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺",
-      "url": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI在事發後兩個月才察覺事件，並遲至本月中，才用一般電郵的方式通知澳洲政府。澳洲政府形容事件令人震驚，批評OpenAI的處理手法「不可接受」。",
-      "category": "politics",
-      "published_at": "2026-09-24T06:35:13+00:00",
-      "fetched_at": "2026-09-25T03:08:53.309892+00:00",
-      "fingerprint": "b289b96f32d0a1cd"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "習近平訪美首日看點：誰同行？第一夫人角色？高規格接待引反彈？",
-      "url": "https://www.bbc.com/zhongwen/articles/cjzxze5peg76o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC中文整理，習近平抵達華盛頓一刻，外界關注的重點看點：誰是習近平訪美團成員？美國共和黨及人民對中國的態度為何？",
-      "category": "politics",
-      "published_at": "2026-09-24T08:06:12+00:00",
-      "fetched_at": "2026-09-25T03:08:53.309886+00:00",
-      "fingerprint": "5287dce8169fb344"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "特朗普為何親赴機場，超規格接待習近平？",
-      "url": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "這是習近平時隔11年再次國事訪問美國。更是相隔64年，再有美國總統親自迎接他國元首到訪。有學者向BBC中文分析特朗普的舉動，既是在與中方「做生意打交道」；也是在向美國民眾展示自己的能力。",
-      "category": "politics",
-      "published_at": "2026-09-24T10:20:23+00:00",
-      "fetched_at": "2026-09-25T03:08:53.309880+00:00",
-      "fingerprint": "b84b00ae21e6a2b4"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "習近平訪美排場十足，但迄今進展甚微",
-      "url": "https://www.bbc.com/zhongwen/articles/cqpvew870ezko/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "有分析人士表示，峰會至今主要着眼於營造「正面氣氛」，但仍有多項迫切議題有待討論。",
-      "category": "politics",
-      "published_at": "2026-09-24T23:51:17+00:00",
-      "fetched_at": "2026-09-25T03:08:53.309870+00:00",
-      "fingerprint": "bad9b7c65757c293"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-25T03:08:53.096807+00:00",
-      "fingerprint": "3179c5de5974307a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Jev and System One Models: Calibration Beats Accuracy",
-      "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-25T03:08:53.096699+00:00",
-      "fingerprint": "17417361fe597d6c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-25T03:08:53.096571+00:00",
-      "fingerprint": "70359c27b4e5e0d8"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-25T03:08:53.096425+00:00",
-      "fingerprint": "f03b8aa461cf7497"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-25T03:08:53.096286+00:00",
-      "fingerprint": "74bfdf1e70f01c20"
-    },
-    {
-      "source": "The Verge",
-      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-24T23:42:39+00:00",
-      "fetched_at": "2026-09-25T03:08:52.791538+00:00",
-      "fingerprint": "98250f9291e2c6ed"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-      "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-24T23:50:55+00:00",
-      "fetched_at": "2026-09-25T03:08:52.791531+00:00",
-      "fingerprint": "aa95f7861ac6e2e3"
-    },
-    {
-      "source": "The Verge",
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-25T01:25:53+00:00",
-      "fetched_at": "2026-09-25T03:08:52.791524+00:00",
-      "fingerprint": "2bee89eb63bc3507"
-    },
-    {
-      "source": "The Verge",
-      "title": "Here’s the Tesla Semi… again",
-      "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
-      "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-25T02:12:57+00:00",
-      "fetched_at": "2026-09-25T03:08:52.791515+00:00",
-      "fingerprint": "e1598ad102f02fa4"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "AI公司杀进硬件，联想AI平板如何找到存在感？｜最前线",
-      "url": "https://36kr.com/p/3995480853204870?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260923/v2_7f2b944398234cc9b34bde6b29017b17@6310690_oswg145593oswg1600oswg1066_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：联想官方</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜袁斯来</p>\n  <p>AI正在重塑每一个硬件产品，包括平板。</p>\n  <p>过去一年，越来越多厂商在给平板增加 AI 能力，会议记录、总结、语言翻译、图片生成、文档处理等功能不断进入产品，但大多数所谓 AI 平板，仍然是传统平板加上一层 AI 应用：用户打开一个入口，输入问题，再获得答案。</p>\n  <p>AI 被放在了平板里，却还没有真正进入平板的系统和交互。</p>\n  <p>在联想看来，这不是真正的 AI 平板。联想集团高级副总裁、全球创新中心负责人贾朝晖认为，AI 平板真正的变化不是增加几个 AI 功能，而是重新设计设备本身。他把行业里常见的“在设备上装 AI App”称作“+AI”，而联想希望做的是“AI+”：从系统设计开始，就让 AI 成为设备的一部分。</p>\n  <p>这个区别听起来像绕口令，但落到产品上，差别很大。</p>\n  <p>比如大学生上课。联想集团副总裁、平板电脑事业部总经理陈可预告了未来AI平板与天禧AI结合的一些关键应用场景——学生进入教室后，平板可以根据课程表提前准备相关知识；上课时，用户可以用笔记录、录音，也可以用手机拍照；下课后，AI 再把录音、课件、截图和用户圈选的内容整合起来，形成一份结合了你个人对知识点的理解做的优化，有声音、有照片、有录像，定制的完整课堂笔记。</p>\n  <p>在这个过程中，AI 不再只是一个被打开的功能，而是贯穿了一个完整任务。联想把这种产品定义为“AI+产品”，而不是“+AI产品”。</p>\n  <p>这也是目前 AI 平板真正需要解决的问题：模型已经进入设备，但 AI 到底能不能进入设备的系统、应用和交互链路。</p>\n  <h2><strong>AI公司和硬件公司双向而行</strong></h2>\n  <p>过去两年，大模型更多的是存在于手机和电脑里的一个 App，用户打开它，输入问题，了解答案，但当 Agent 开始替用户执行任务，模型能力不仅仅在问答，还能够知道用户正在看什么、设备里有哪些信息，以及哪些应用和服务可以调用。</p>\n  <p>这也是为什么 AI 公司开始向硬件端寻找落地场景。9月16日，搭载豆包手机助手的努比亚 NaviX Ultra 正式开售。9 月22日，阿里云旗下无影团队研发 QwenBook 的消息也被曝光，产品形态接近平板。</p>\n  <p>当豆包、千问这样的 AI 公司开始进入硬件，一个问题摆在传统硬件厂商面前：如果未来最重要的能力是 Agent，那么拥有模型的公司为什么不能直接找一家 ODM 把硬件做出来？</p>\n  <p>联想集团高级副总裁、中国消费业务群总经理张华认为，大模型能力会越来越趋同，真正重要的反而是大模型如何和端侧异构算力、全局硬件以及应用调度结合。硬件公司的优势，是能够让 AI 对硬件和软件进行全局调度，并根据真实用户场景持续调整体验。</p>\n  <p>联想给出的答案是\"端-边-云\"的混合式 AI 技术架构&nbsp;。</p>\n  <p>9 月初，天禧 AI 4.3 开始真正部署这一架构。联想认为，一部分数据和任务适合在端侧、边侧完成，既可以保护隐私，也可以降低对云端 Token 的依赖；更加复杂、泛化的任务再交给云端。</p>\n  <p>这背后的判断是，未来的个人 AI 不会完全运行在云端，而会分布在用户自己的 PC、平板、手机以及其他设备上。</p>\n  <p>在联想的设想中，PC、手机、平板并不是三个孤立的 AI 设备。它们共享知识库、上下文和记忆，也可以互相调用算力和能力。用户在平板上发起一个任务，可以调用 PC 的算力和资料，再把结果返回平板。</p>\n  <p>从这个角度看，平板并不是联想 AI 战略里一个孤立的产品。</p>\n  <h2><strong>平板重新寻找自己的位置，联想也是</strong></h2>\n  <p>平板过去一直没有完全找到自己的独立定位。它比手机大，却又没有手机那么随身；它比 PC 轻，却没有 PC 那么强的生产力。它最成熟的场景长期集中在视频、阅读和教育。</p>\n  <p>张华认为，过去平板更多承担内容消费，生产力属性偏轻；到了 AI 时代，生产力和内容消费两个属性会变得同等重要。</p>\n  <p>张华把 AI 平板称作“AI 天生的容器”，原因不是平板有某个独特的 AI 技术，而是它同时拥有大屏、长续航、便携性以及语音、笔、键盘等多种交互方式。AI 出现之后，这些过去看似分散的能力开始被重新组合起来，平板的形态则是容纳这场交互升级的最佳载体。</p>\n  <p>过去大家认为拿平板看视频，就可以了。现在有了AI之后，用平板进行创作时，一边用AI生成内容，一边用笔记录下你的思维导图。如果这时是小屏幕，不好操作。对于大屏幕，我们需要无界画布，去操作和互动，让AI进行更好的全局协同与整体协调，让任务完成得更好。</p>\n  <p>IDC 数据显示，2026 年中国 GenAI 平板出货量达到 112 万台，占平板市场 35.6%，同比增长 68.4%。AI已成为平板摆脱低价同质化竞争的核心抓手之一。</p>\n  <p>但跨应用权限、智能体长期记忆和数据隐私，仍然是平板等 AI 硬件落地的主要瓶颈，这也是 AI 公司开始进入硬件之后必须面对的问题。</p>\n  <p>AI 进入硬件之后，真正的竞争不会简单变成“AI 公司做硬件”或者“硬件公司做 AI”。更深一层的变化是，终端硬件正在从承载 AI 的工具，变成 AI 本身执行任务的环境。</p>\n  <p>过去的硬件竞争，核心是屏幕、芯片、摄像头、续航和工业设计；下一阶段，竞争还会延伸到系统、算力调度、应用生态、用户数据、Agent 权限以及跨设备协同。</p>\n  <p>这也是传统硬件公司和 AI 公司真正开始交叉的地方：前者需要补上模型和软件能力，后者则需要进入硬件、系统和应用生态，而AI 平板只是这场变化的其中一个切口。</p>",
-      "category": "tech",
-      "published_at": "2026-09-24T10:22:23+00:00",
-      "fetched_at": "2026-09-25T03:08:52.657730+00:00",
-      "fingerprint": "e3447d50b0d27852"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "模型之外，游戏+AI的下一道门槛在哪里？",
-      "url": "https://36kr.com/p/3997468580958089?f=rss",
-      "summary": "<p>在一局《永劫无间》的游戏对局里，你的队友可能不是“人”。&nbsp;</p>\n  <p>Qwen大模型是这些AI队友的底座。会协作的队友，是游戏行业变革中最容易被看见的一角，冰山以下是“游戏正在被AI重做一遍”已经成为一个共识判断。&nbsp;</p>\n  <p>2026云栖大会现场，专门为游戏行业安排了一个上午的AI专场。网易、TapTap等标杆企业的技术负责人和创作者先后上台，从智能NPC讲到AI原生玩法，再讲到AI游戏创作。&nbsp;</p>\n  <p>但重做的程度并不相同。把AI当提效工具，和按AI的方式重做游戏，正在变成两门不同的生意。&nbsp;</p>\n  <p>前者优化单位成本，后者彻底改写生产与体验。而游戏的玩法形态、生产组织与运行方式，都不仅仅是效率问题。那么，当厂商决定把游戏“用AI重做一遍”，究竟从哪里开始？拼的又是什么？&nbsp;</p>\n  <h2><strong>当AI坐上牌桌</strong></h2>\n  <p>把游戏“用AI重做一遍”，首先仍要托住游戏本身。全球开服、弹性扩容与稳定运行，是新体验能够落地的前提。&nbsp;</p>\n  <p>本届云栖游戏展区展示的《明日方舟：终末地》，就是一个例子。这款面向全球的多端大型3D游戏，上线次日全球累计下载量突破3000万。面对流量洪峰，阿里云的全栈技术方案成功保障了游戏的稳定运行，为全球玩家提供高流畅的游戏体验。承接全球玩家涌入的背后，是百万级并发请求的处理能力，也是阿里云覆盖全球31个公共云地域、107个可用区的基础设施。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260924/v2_4f6bc90da4c44600aa7400297b928646@5679941_oswg1388478oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">云栖大会上的游戏展区&nbsp;</p>\n  <p>当AI开始参与游戏中的协作与决策，这套底座又有了新的任务：既要承接玩家和流量，也要支撑智能体实时参与对局，让模型能力成为可持续运行的游戏体验。&nbsp;</p>\n  <p>在《永劫无间》中，网易雷火伏羲把AI队友直接放进了对局，玩家可以用语音和游戏信号与AI队友协作，让对局里的配合多了一种可能。&nbsp;</p>\n  <p>云栖大会游戏展区展示的《历史模拟器：崇祯》，则把大模型放进了世界推演。这款AI原生的历史策略游戏以千问大模型参与明末政局推演，玩家用自然语言拟写诏书、颁布政令，每一项决策都会触发AI模拟的连锁反应，推出新的历史走向。&nbsp;</p>\n  <p>作为一款策略游戏，内容边界被进一步拓展：玩家不再只依靠预设选项推进，游戏反馈也开始取决于模型对局势的动态推演。&nbsp;</p>\n  <p>从陪练、对手再到规则，AI正在逐步进入游戏体验更核心的位置。&nbsp;</p>\n  <p>类似的做法在多家头部厂商几乎同时出现。&nbsp;</p>\n  <p>巨人网络旗下的《太空杀》则从另一种体验变化入手，依托阿里云千问大模型的底层能力，探索游戏角色对玩家行为模式的长期记忆、动态学习，让AI玩家可以跨会话记住玩家的历史互动选择，实时调整反应逻辑，实现“千人千面”的游戏体验。&nbsp;</p>\n  <p>迄今为止，牌桌上的玩法形态，可以归为三类：智能NPC、AI队友与虚拟玩家、生成与演化本身就是玩法的AI原生游戏。&nbsp;</p>\n  <p>三类玩法共享同一个实时闭环，感知状态、理解决策、调用工具、反馈行为。要让闭环稳定地进入真实游戏，还需要运行环境、模型调用治理、安全护栏和上线后的观测评估。大众熟知的模型只是其中一环，负责“想”的部分，背后的基础设施负责让智能体跑得稳、管得住。&nbsp;</p>\n  <p>这也代表着，台前体验创新上的变化与壁垒，正在从模型能力延伸到模型与工程的协同能力。&nbsp;</p>\n  <h2><strong>被拉直的生产线</strong></h2>\n  <p>游戏内容生产，有一部分长期停留在“手抄本时代”。&nbsp;</p>\n  <p>概念、原画、建模、贴图、动画、引擎，管线像一条瀑布，每个环节交给专门的团队，衔接靠人力。&nbsp;</p>\n  <p>管线像瀑布，层层下泄，每一层都要等待上游就位，这也是为什么很多成熟游戏团队在开发一款游戏时，要保证它能够长期稳定运营不出bug，依然需要很长的开发、测试和调优周期。&nbsp;</p>\n  <p>如今，这条瀑布正在被AI拉直。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260924/v2_c6f2d689cda74067b88934c0891e4945@5679941_oswg79727oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">网易雷火伏羲AI实验室产品负责人王宏显&nbsp;</p>\n  <p>网易伏羲在今年云栖大会上也展示了从角色、场景到界面动效和视频制作等工作流，AI辅助创作被接入制作团队日常使用的工具链。多个环节各自提效，连起来之后，整条管线的工作方式相当于被重写了一遍。&nbsp;</p>\n  <p>类似的改造并非孤例。过去一段时间里，很多游戏厂商都在探索AI在不同场景下的应用，覆盖的范围也从生产延伸到了投放运营等环节。&nbsp;</p>\n  <p>AI在游戏领域的业务版图被迅速扩张之前，一个容易被外界忽视的要素是，基础设施和工具层已经成型。&nbsp;</p>\n  <p>从阿里云在论坛展示的解决方案看，阿里云为游戏公司提供的产品矩阵，对应着一条完整的游戏制作链路。研发有Qoder，投放与素材有万镜一刻，组织协同有千问办公。以研发测试为例，AI协作已经从最初的代码补全走到了理解项目、规划编码、验证修复，交付由人审核的全链路，在此过程中，企业原有的工具链也能得到保留。&nbsp;</p>\n  <p>运营的深处还有数据，它是游戏行业始终绕不开的成本与增长谜题。&nbsp;</p>\n  <p>在论坛圆桌上，诗悦网络谈到AI已经进入发行素材创意、制作、投放与数据分析：它希望把分散的环节串联起来，让团队从只对交付负责，进一步对经营结果负责。&nbsp;</p>\n  <p>这家研运一体的公司，在把数据平台整体迁到阿里云DLF与Serverless StarRocks上之后，总成本降低了38%，集群扩容从一周缩短到了5分钟，为开放世界游戏作准备的数据规模也将进入PB级。&nbsp;</p>\n  <p>这一类AI化改造，未必直接改变玩法，位于玩家体验的水位线以下，但让数据和反馈更快进入下一轮决策，对于一款游戏的长期运营来说意义更加深远。&nbsp;</p>\n  <p>AI时代，游戏厂商对于基础设施的要求多了一层，智能体要持续执行任务、调用工具、管理记忆，过程可追踪、权限可管控、效果可评估。&nbsp;</p>\n  <p>阿里云的Agent Native Cloud对应着不同环节：AgentCore负责智能体构建和治理，Agent Sandbox提供隔离运行环境，AI网关管理模型调用，AI安全护栏守住输入输出边界，AgentLoop用于上线后的观测、评估与优化。&nbsp;</p>\n  <p>这也意味着，游戏云的竞争维度正在扩宽，从靠云服务撑住流量，扩展到了靠云服务管好智能体。&nbsp;</p>\n  <p>一百年前，美国工厂的电气化其实走过同样的路。&nbsp;</p>\n  <p>1899年到1929年，多数工厂只是把蒸汽机换成电机，沿用旧的厂房布局与轴带传动，效率红利迟迟没有兑现；1913年福特在海兰帕克工厂引入移动装配线，整车装配从12.5小时压缩到约90分钟，电气化才真正完成。&nbsp;</p>\n  <p>换工具的人多，重造流程的人少。&nbsp;</p>\n  <p>今天的游戏行业站在同样的位置。把美术和代码交给AI生成，是换工具；按AI的协作方式选择对应的基础设施，把管线、发行、运营重排一遍，是重造流程。&nbsp;</p>\n  <p>有趣的是，国内这些走了“重造路线”的游戏公司，从页游时代的云服务器到今天的 Agent Infra，每一次游戏主流形态的跃迁都需要云的陪伴。而他们的基础设施几乎集中在同一家云厂商。&nbsp;</p>\n  <p>阿里云也在本届论坛展示Agent Native Cloud的持续投入。&nbsp;</p>\n  <p>从弹性计算到智能体底座，游戏公司为什么愿意在一家云厂商持续投入？&nbsp;</p>\n  <p>其中的一个原因是：重构越剧烈，游戏公司越不敢在底座上冒险。版本和玩法可以试错，运营可以迭代，基础设施试不起。&nbsp;</p>\n  <p>每一次技术跃迁都是一轮新的投票，技术与生态领先者的能力会被再次确认一遍。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260924/v2_45b564e234f645f49a1b1f05c4212bcf@5679941_oswg247358oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>IDC数据显示，阿里云连续5年位居中国游戏云市场第一，基础设施份额39%；AI游戏云模型服务与AI应用市场，份额37%，同样位居中国市场第一。&nbsp;</p>\n  <p>支撑阿里云在AI时代被头部游戏厂商连续选择的，主要是三层能力：全栈能力、场景打磨、长期投入。&nbsp;</p>\n  <p>从芯片、云基础设施到模型与Agent，阿里云提供从底层算力到上层智能体的完整能力，游戏公司每次技术跃迁，都有机会减少跨供应商拼接底座的复杂度。&nbsp;</p>\n  <p>同时，游戏可以说是云上最苛刻的场景之一，开服洪峰、全球同服、实时对战，大版本上线就是一次公开大考与验收，头部游戏公司的需求反过来把阿里云的能力一层层磨了出来。&nbsp;</p>\n  <p>代际上的先发优势同样关键，页游时代备好了弹性云服务器，手游出海时代铺好了全球节点，AI时代继续完善AgentCore、Agent Sandbox、AI网关、AgentLoop等智能体基础设施。&nbsp;</p>\n  <p>下一代需要的东西，上一代已经准备好，能力被验证，信任也在复利。&nbsp;</p>\n  <h2><strong>门票降价之后</strong></h2>\n  <p>生产线的另一端，入场门票在降价，幅度大到了一个此前没有出现过的程度。个人创作者开始拥有从想法到可玩作品的完整工具链。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260924/v2_dacba768331a4572ba0bb4dfbad41868@5679941_oswg76144oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">妹居主策划 钱看山&nbsp;</p>\n  <p>《妹居物语》主策钱看山在论坛上提出的，是另一个值得关注的问题：&nbsp;</p>\n  <p>如果拿掉AI，游戏的核心体验是否还成立？在《妹居物语》中，Qwen3.8-flash理解玩家上传的照片和当前屏幕内容，CosyVoice-v3.5-flash生成角色语音；角色的状 态、记忆和行动编排则由团队自己的系统维护。团队还在验证体验能否持续、成本能否回收。&nbsp;</p>\n  <p>《妹居物语》的探索说明小团队有机会尝试新的AI原生玩法，同时也照亮了问题的另一面， 即在头部游戏厂商以外，新型开发模式所代表的长尾市场产生了结构性的变化。&nbsp;</p>\n  <p>换句话说，AI能不能成为游戏行业的基础设施，标准很简单：中小团队用起来有多容易。&nbsp;</p>\n  <p>游戏AI论坛上，阿里云与TapTap联合发起AI游戏创作大赛，面向希望把创意变成作品的开发者。&nbsp;</p>\n  <p>创作侧的支撑是TapTap制造，底层接入Qwen-Image-3.0、Wan3.0与Qwen3.8-Max等阿里模型，能更好地将图片、视频、序列帧生成整合进一条管线。&nbsp;</p>\n  <p>TapTap制造让创作者从自然语言提出想法，在云端生成代码与素材、构建并预览游戏，完成后发布到TapTap，再根据玩家反馈迭代。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260924/v2_e4f77271b1164ca5a60a4d02ca146b4f@5679941_oswg109546oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>这场大赛在论坛发布环节由TapTap制造负责人姜黎和阿里云智能公共云事业部副总裁解航共同宣布。&nbsp;</p>\n  <p>大赛值得关注的有三件事：第一，创意到可玩作品的成本被压低，小众想法有机会变成可验证的游戏；其次，TapTap的社区把试玩与反馈接进创作，有潜力的作品多一条被发现的路；第三，AI进入真实交付环境，作品将经历真实玩家的检验。&nbsp;</p>\n  <p>门票降价的另一侧，是更加直接的作品发布与玩家反馈渠道。&nbsp;</p>\n  <p>生产工具与发行渠道同时向个人开放，游戏行业的供给侧也会迎来新一轮的扩容。&nbsp;</p>\n  <p>对局里的AI越来越多，管线按人机协作的方式重排，创作门槛正在降低，我们可以清晰地预见，下一批足以定义“游戏行业”的作品，可能不再出自一个经验和预算充足的百人团队。&nbsp;</p>\n  <p>一切关于体验与生��的美好想象，在今天的游戏行业才刚刚开始。&nbsp;</p>\n  <p>做游戏的人在换，但在全球上线的稳定性与智能体的运行底座这一侧，过去五年，中国游戏行业几乎是共同“用脚”投票，把信任都交给了同一家厂商——阿里云这些能力仍需长期验证，阿里云也在持续承接行业的新需求。&nbsp;</p>\n  <p>在生产能力被不断解构的时代，信任与底座的分量只会更重。&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-09-24T13:56:48+00:00",
-      "fetched_at": "2026-09-25T03:08:52.657714+00:00",
-      "fingerprint": "55e52fd0a2e1ced5"
-    },
-    {
-      "source": "少数派",
-      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
-      "url": "https://sspai.com/post/114395",
-      "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。<a href=\"https://sspai.com/post/114395\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-24T04:15:24+00:00",
-      "fetched_at": "2026-09-25T03:08:50.955420+00:00",
-      "fingerprint": "addfb54fe5632815"
-    },
-    {
-      "source": "少数派",
-      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
-      "url": "https://sspai.com/post/113823",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/113823\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-24T07:06:19+00:00",
-      "fetched_at": "2026-09-25T03:08:50.955414+00:00",
-      "fingerprint": "44a325866c74aaf5"
-    },
-    {
-      "source": "少数派",
-      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
-      "url": "https://sspai.com/prime/story/home-made-beverages-5",
-      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...<a href=\"https://sspai.com/prime/story/home-made-beverages-5\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
-      "category": "tech",
-      "published_at": "2026-09-24T08:20:39+00:00",
-      "fetched_at": "2026-09-25T03:08:50.955406+00:00",
-      "fingerprint": "be0b08a3e4343a14"
-    },
-    {
-      "source": "少数派",
-      "title": "新玩意 252｜少数派的编辑们最近买了啥？",
-      "url": "https://sspai.com/post/114954",
-      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/114954\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-24T09:30:00+00:00",
-      "fetched_at": "2026-09-25T03:08:50.955395+00:00",
-      "fingerprint": "310c14b9a097cff9"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7167 CNY ↓-0.50%",
-      "url": "https://www.frankfurter.app/2026-09-24?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-09-24</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7167 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0237 (-0.50%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-09-25T03:08:49.637913+00:00",
-      "fingerprint": "a018106310028abe"
     }
   ]
 }
