@@ -1,7 +1,197 @@
 {
-  "updated_at": "2026-10-02T03:47:10.365614+00:00",
-  "count": 161,
+  "updated_at": "2026-10-03T03:31:36.840761+00:00",
+  "count": 160,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+      "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+      "summary": "<p>Artwork created in Tahrir Square<strong> </strong>for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins</p><p>On the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.</p><p>Depicting the Pharaoh Tutankhamun and Queen Nefertiti, the painting was among 40 murals commissioned to beautify the city for Xi’s arrival and was painted by a group of young volunteers, Rasmet Basma, in Tahrir Square.</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-02T08:55:42+00:00",
+      "fetched_at": "2026-10-03T03:31:36.837494+00:00",
+      "fingerprint": "d51f30547b21ec95"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "category": "politics",
+      "published_at": "2026-10-02T21:13:27+00:00",
+      "fetched_at": "2026-10-03T03:31:36.666409+00:00",
+      "fingerprint": "e4b583dc89b9a5a7"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "category": "politics",
+      "published_at": "2026-10-03T02:23:07+00:00",
+      "fetched_at": "2026-10-03T03:31:36.666404+00:00",
+      "fingerprint": "888ac0a61f6b8911"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "category": "politics",
+      "published_at": "2026-10-02T20:32:07+00:00",
+      "fetched_at": "2026-10-03T03:31:36.666398+00:00",
+      "fingerprint": "08e18bac009fdf43"
+    },
+    {
+      "source": "BBC World News",
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "category": "politics",
+      "published_at": "2026-10-02T20:25:19+00:00",
+      "fetched_at": "2026-10-03T03:31:36.666388+00:00",
+      "fingerprint": "36367861a20bb5c7"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
+      "url": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "全球局勢動盪之際，西班牙與中國意外走近，但這並非唯一不尋常的夥伴關係。",
+      "category": "politics",
+      "published_at": "2026-10-02T05:09:30+00:00",
+      "fetched_at": "2026-10-03T03:31:36.562116+00:00",
+      "fingerprint": "3063e71a6b746ca2"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
+      "url": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "杜拜航空這班飛往特拉維夫的航班上，斯米特·馬查爾機長（Capt Smit Machchhar）遭另一名機師襲擊。以色列總理內塔尼亞胡讚揚他是「真正的英雄」，「拯救了174人的生命」，並阻止了一場「災難性的空中事故」。",
+      "category": "politics",
+      "published_at": "2026-10-02T08:24:10+00:00",
+      "fetched_at": "2026-10-03T03:31:36.562110+00:00",
+      "fingerprint": "6e1922444b1f68b8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "這名被定罪的殺人犯在兩次致命注射後仍然生還，目前正在田納西州的醫院接受治療。這是當地半年內第二宗死刑執行失敗事件，引發許多疑問。",
+      "category": "politics",
+      "published_at": "2026-10-02T07:14:39+00:00",
+      "fetched_at": "2026-10-03T03:31:36.562100+00:00",
+      "fingerprint": "a8e53fa7f3cfc418"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-03T03:31:36.174242+00:00",
+      "fingerprint": "8b69c3ba05ec6ae6"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Things that apparently cause cancer",
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-03T03:31:36.174147+00:00",
+      "fingerprint": "3cb8a615cf5e9271"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-03T03:31:36.174034+00:00",
+      "fingerprint": "e13eb55edf540c62"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-03T03:31:36.173929+00:00",
+      "fingerprint": "66f6a900012c1bca"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-03T03:31:36.173809+00:00",
+      "fingerprint": "32023900b443069d"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sling TV drops its one-day cable passes",
+      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+      "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-02T20:00:20+00:00",
+      "fetched_at": "2026-10-03T03:31:36.096470+00:00",
+      "fingerprint": "c788ad59ba58c3da"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-02T20:08:40+00:00",
+      "fetched_at": "2026-10-03T03:31:36.096465+00:00",
+      "fingerprint": "ac153d8f7821405e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Netflix is pivoting away from prestige",
+      "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+      "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-02T20:30:26+00:00",
+      "fetched_at": "2026-10-03T03:31:36.096460+00:00",
+      "fingerprint": "0edfc79f5f1ff27d"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-02T21:08:37+00:00",
+      "fetched_at": "2026-10-03T03:31:36.096450+00:00",
+      "fingerprint": "038134d95b4f933e"
+    },
+    {
+      "source": "少数派",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/115211",
+      "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...<a href=\"https://sspai.com/post/115211\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-02T09:30:00+00:00",
+      "fetched_at": "2026-10-03T03:31:34.534054+00:00",
+      "fingerprint": "344a2f185207d593"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6525 CNY ↓-0.16%",
+      "url": "https://www.frankfurter.app/2026-10-02?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-02</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6525 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0075 (-0.16%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-03T03:31:33.447774+00:00",
+      "fingerprint": "0a56d06757d78e05"
+    },
     {
       "source": "BBC World News",
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
@@ -1411,206 +1601,6 @@
       "published_at": "2026-09-26T06:00:00+00:00",
       "fetched_at": "2026-09-27T03:20:17.758732+00:00",
       "fingerprint": "f7331d1af59dfdc6"
-    },
-    {
-      "source": "BBC World News",
-      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-      "category": "politics",
-      "published_at": "2026-09-25T23:20:48+00:00",
-      "fetched_at": "2026-09-26T03:12:57.009011+00:00",
-      "fingerprint": "2551dd230f049d95"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "category": "politics",
-      "published_at": "2026-09-25T20:47:49+00:00",
-      "fetched_at": "2026-09-26T03:12:57.009005+00:00",
-      "fingerprint": "cef9fc91331bcf00"
-    },
-    {
-      "source": "BBC World News",
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
-      "category": "politics",
-      "published_at": "2026-09-26T02:50:56+00:00",
-      "fetched_at": "2026-09-26T03:12:57.008999+00:00",
-      "fingerprint": "b26cc2f8862a6966"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "category": "politics",
-      "published_at": "2026-09-25T23:38:48+00:00",
-      "fetched_at": "2026-09-26T03:12:57.008988+00:00",
-      "fingerprint": "6096d6a184eb3059"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "近年愈來愈多中國漁船在越南外海活動，部分更有執法和政府船隻伴隨。研究人員認為，這不只是捕魚，也涉及北京在南海的主權聲索和地緣政治盤算，而越南漁民的生計和作業空間正受到愈來愈大壓力。",
-      "category": "politics",
-      "published_at": "2026-09-25T07:22:44+00:00",
-      "fetched_at": "2026-09-26T03:12:56.950966+00:00",
-      "fingerprint": "bbc4a6721c27a693"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "多名美國科技和金融界巨頭有份出席，部份人士更與兩國領導人同桌。但近日高調警告人工智能風險的企業Anthropic代表未有出席。",
-      "category": "politics",
-      "published_at": "2026-09-25T06:00:47+00:00",
-      "fetched_at": "2026-09-26T03:12:56.950960+00:00",
-      "fingerprint": "2d5852d57d302a60"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "分析指出，北京此次的表述更為直接，並試圖掌握峰會後的敘事主導權，未來台灣在美中台三角關係中的角色可能進一步被「邊緣化」。",
-      "category": "politics",
-      "published_at": "2026-09-25T10:23:53+00:00",
-      "fetched_at": "2026-09-26T03:12:56.950953+00:00",
-      "fingerprint": "e36bec527a918b66"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美中各從「白宮習特會」得到什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "外界關注的人工智能、稀土等迫切議題，兩國似乎未有明顯進展。但有學者向BBC中文分析，會談最重要的成就在於展示兩國關係「正面友好的氛圍和形象」。",
-      "category": "politics",
-      "published_at": "2026-09-25T12:15:11+00:00",
-      "fetched_at": "2026-09-26T03:12:56.950942+00:00",
-      "fingerprint": "0b8992f22340742b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-26T03:12:56.319601+00:00",
-      "fingerprint": "63f0cec3bf1f729b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-26T03:12:56.319492+00:00",
-      "fingerprint": "38be6ea6b4966762"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-26T03:12:56.319365+00:00",
-      "fingerprint": "3562ff4b1e12416a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-26T03:12:56.319241+00:00",
-      "fingerprint": "325d3ee537dadcef"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-26T03:12:56.319098+00:00",
-      "fingerprint": "9973f8e7ebb5939a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
-      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-      "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creating manufacturing snags, like issues [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-25T17:01:36+00:00",
-      "fetched_at": "2026-09-26T03:12:56.023698+00:00",
-      "fingerprint": "d23e876d1f601e8d"
-    },
-    {
-      "source": "The Verge",
-      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-      "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
-      "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-25T17:23:30+00:00",
-      "fetched_at": "2026-09-26T03:12:56.023692+00:00",
-      "fingerprint": "2f1cb0ea1ba12a23"
-    },
-    {
-      "source": "The Verge",
-      "title": "Phones don’t have lights",
-      "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-      "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-25T17:42:59+00:00",
-      "fetched_at": "2026-09-26T03:12:56.023685+00:00",
-      "fingerprint": "f43edf4211ac9ef1"
-    },
-    {
-      "source": "The Verge",
-      "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
-      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-      "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at Amazon when you enter the [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-25T18:18:57+00:00",
-      "fetched_at": "2026-09-26T03:12:56.023672+00:00",
-      "fingerprint": "1cd84880b7200e24"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
-      "url": "https://36kr.com/p/3998754973749376?f=rss",
-      "summary": "<p>过去一年，AI 编程和办公工具在 PC 端快速普及，但手机上的AI体验仍以单次问答和图片处理为主。高通今年想证明的是——端侧AI也能进入到更多生活和工作场景了。</p>\n  <p>2026年，骁龙峰会上，高通与阶跃星辰、无量火科技、江波就演示了一个典型案例——端侧30B-MoE模型完成的工作链条：仅仅用本地的模型，AI读懂一封邮件，提取行程信息，同步日历，推荐航班和酒店，再草拟一封回复。</p>\n  <p>特别之处在于，这是一段需要理解、规划和连续执行的任务，并且完全在端侧完成。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260925/v2_61e9c5c7422d4f79b6ab49a69667791f@2057308263_oswg2724727oswg1402oswg1048_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">高通公司总裁兼首席执行官安蒙（Cristiano Amon）</p>\n  <p>如果说两年前高通主要在证明大模型能装进手机，今年它更想证明，装进去的模型能够承担更完整的工作。</p>\n  <p>2024年，高通自研Oryon CPU开始搭载在手机上，展示了端侧大模型的可能性；而在2025年，第五代骁龙8至尊版引Personal Scribe和个人知识图谱，将直接智能体写进产品方向。</p>\n  <p>到了今年，AI界的新故事进入到以Claude Code为主的代码和办公大战。现在，高通开始让旗舰芯片进入2nm双旗舰、30B-MoE部署和更完整的任务流程，这都意味着能够共同和模型、infra厂商拓展新的应用场景。</p>\n  <p>“智能体 AI 并不仅仅是为终端新增一个功能。它实际上创造了一种全新的终端工作流程。”高通公司总裁兼首席执行官安蒙（Cristiano Amon）在主题演讲中表示。</p>\n  <p>但当AI从一个功能变成一段工作流程，高通要解决的也不仅仅是是让下一代芯片更快。智能体需要更强的本地能力，也依赖快速更新的模型、应用接口与终端协作。</p>\n  <p>进入2026年，芯片厂商们的一个共同趋势是：能力边界在扩大，竞争边界同样在扩大。对高通而言，这种扩展不只是从手机走向 PC、眼镜、汽车和数据中心，还包括围绕模型适配、软件工具和跨终端协作补齐能力。</p>\n  <h2>从让手机部署模型，到让智能体持续工作</h2>\n  <p>如果为今年的骁龙峰会总结唯一的关键词，“智能体”绝对排在第一位。高通的一切更新——都是在为更复杂的AI任务，重新分配手机里的计算资源。</p>\n  <p>比如，第六代骁龙8至尊版与超级至尊版双旗舰，均采用2nm工艺。搭载了超级至尊版的设备，高通不只是把频率拉到5GHz，其中CPU负责工具调用和任务调度，NPU承担模型推理，低功耗感知单元处理后台信息，为不同类型的AI工作分配专属计算通道。</p>\n  <p><strong>这背后的变化是，AI不再只在用户提问时工作，还要在后台保留信息、等待时机并接续任务。</strong>在以往，一次问答或修图是单次调用；智能体则要反复读取上下文、调用工具、在任务间切换。</p>\n  <p>缓存、内存带宽和低功耗感知，因此变得重要了——最起码，手机不能因多了一个常驻智能体就持续发烫、迅速耗电。</p>\n  <p>这并不是今年才出现的方向。2025年发布的第五代骁龙8至尊版，就已经已强调Personal Scribe、个人知识图谱和低功耗感知中枢。</p>\n  <p>而在今年，高通在缓存、NPU共享内存和感知能力上的升级，更像是对既有方向的持续补强——让更多信息得以保留，让任务切换与持续运行更可靠。</p>\n  <p>不过，这并不是把所有AI计算留在本地，而是让终端承担更有价值的一部分。手机掌握日历、邮件等个人信息，高通的新双Micro NPU架构性能提升85%，同时功耗降低20%，直观提升了个人记录（Personal Scribe）能力——提升本地处理低时延、离线可用和减少数据上传的潜力；复杂任务仍可调用云端。</p>\n  <p><strong>如今，更大体量的模型开始与完整的本地办公流程结合。</strong>对比2024年，最多7B的模型能够部署在端侧，在这次峰会上，高通就已经和阶跃达成合作。如今，30B的MoE模型在参考设计上完成的邮件理解、行程规划和日历同步，是一次可感知的跨越。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260925/v2_f7fe73e029624c22bfd75cf3b49357f9@2057308263_oswg2529733oswg1412oswg1056_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">高通技术公司高级副总裁兼手机业务总经理Chris Patrick</p>\n  <p><strong>而更复杂的 AI 应用，如今也可以由多个模型的分工完成，而不只是一个模型变得更大。这为应用生态创业者提供了空间。</strong></p>\n  <p>比如，在AI公司Deepgram展示的AI播客应用中，NPU上的语音模型负责转写并区分发言者，GPU上的Gemma模型理解话题、生成追问建议——一边听清谁说了什么，一边判断接下来该问什么。这让“异构计算”变成了读者可理解的场景。不过工作人员也提到需联网检索核查，整个应用并非完全离线。</p>\n  <p><strong>AI智能眼镜也是一个典型品类。过去一年的变化，也能说明高通这样的芯片厂商，如何让新AI硬件逐步突破能力上限</strong>。2025年6月 AWE 上，高通AR1芯片的升级款骁龙AR1+ Gen 1已用原型眼镜演示Llama 3.2-1B本地运行，高通强调芯片更小、功耗更低以适应镜腿和电池约束；今年，高通则进一步为AR1、AR1+对提供多模态1比特模型的支持。</p>\n  <p>高通也在逐步拓展对开发者生态的支持。今年推出的高通START计划中，就提供AR1+模组、软件平台和参考设计——非科技厂商的集成门槛也在降低，判断是研发支持越来越贴近品类需求，而非只把手机芯片缩小。</p>\n  <p>除此之外，高通也推出了全新的Adreno Neural Fusion，带来增强的移动游戏，借助AI实现智能的图形渲染，从而带来更沉浸的游戏体验、更丰富的视觉效果，和更持续的游戏时长。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260925/v2_9db45d69389b441f975a77a330112320@2057308263_oswg1998894oswg1398oswg1058_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">高通新一代Adreno</p>\n  <p><strong>但芯片能支持什么，与智能体最终能替用户完成什么，仍然不是一回事。</strong>高通公司中国区董事长孟樸对36氪表示，跨终端持续服务的个人智能体，可能到2027-2028年，才会比较稳定地开始逐步落地。</p>\n  <h2>AI 时代的芯片厂商：迭代更快，挑战更多元</h2>\n  <p>高通在 AI 时代，如今的状态可以说是四面开战，压力并不小。这一部分来自新市场的吸引力，另一部分来自也要守住旧市场的压力。</p>\n  <p>移动时代，成就高通的基础是通信专利与芯片平台两条业务。而进入大模型时代，以数据中心为主的庞大需求，已让英伟达获得庞大收入——2027财年，英伟达第二季度数据中心收入达890亿美元。</p>\n  <p>高通也没有放过这个市场。此前，高通提出2029财年非手机收入400亿美元的目标，并推进数据中心业务。动机不难理解：守住手机之外，还得找到新的增长引擎。</p>\n  <p><strong>但在争取新增长之前，高通可能首先得适应一个比手机换代更快的模型市场。</strong>“过去，智能手机完成适配后，可能9个月甚至12个月都无需再调整；而现在，大模型每3个月，甚至更短时间内就会迭代一次。”高通公司中国区董事长孟樸对36氪在内的媒体表示。</p>\n  <p>模型版本和能力更新快，不代表底层计算结构以同样速度完全变化。更准确的挑战在于：在相对稳定的计算基础上，用软件调度、可配置能力和持续验证承接快速迭代。</p>\n  <p>更深的一层变化是，合作正从模型发布后的适配，前移到模型设计环节。2026年展示的四方合作的分工说明了这一点——高通提供计算平台，阶跃提供模型，无量火优化推理与调度，江波龙处理存储协同；AI Hub则试图复用优化成果、降低部署门槛。</p>\n  <p><strong>竞争新的竞争指标是：新模型出来后，谁能更快、以更可控的成本交付可用体验。</strong></p>\n  <p>端侧智能体是整个市场都在追逐的机会，9月，几乎所有主流厂商的新品都覆盖了端侧和智能体。比如，9月15日，联发科发布天玑9600系列，9600 Pro同样采用2nm，强调低功耗常驻感知，宣称支持30B-MoE端侧运行。</p>\n  <p>更复杂的竞争也会来自客户一侧：一边采购高通芯片，一边也在把关键能力试图掌握在自己手中。比如小米玄戒 O1进入量产，苹果在iPhone 16e上推出自研C1基带等等。而进入数据中心，也绕不开客户与竞争对手身份重叠的局面。英伟达之外，谷歌自研TPU也在争取训练和推理负载——而谷歌在终端上又是高通的重要合作伙伴。</p>\n  <p><strong>当竞争同时发生在多个市场，高通还必须回答一个实际问题：这些新能力，客户负担得起是前提，但如何真正高效地应用起来？</strong></p>\n  <p>孟樸提到：“随着技术的进步，芯片中需要叠加的技术越来越多，成本也会因此越来越高。”在他看来，一款产品展示当前技术能够达到的上限，另一款则更注重效率，以应对高成本、支持终端厂商。技术能力向前推进，能否被客户采用仍要过成本这一关。</p>\n  <p>至少，让智能体稳定地在移动设备上运行，还有多重挑战。“不能做错任务，不能过度占用内存，还不能增加续航负担，起码不能比手动操作还慢。”一位半导体行业人士总结。</p>\n  <p><strong>现在，芯片行业正在进入多线混战。高通需要守土开疆，还必须成为耦合大模型厂商、AI应用之间的长期协作者。</strong>对高通来说，下一轮胜负不只取决于它能把多大的模型装进终端，更取决于能否让不断变化的模型，及时变成用户愿意反复使用的产品。</p>",
-      "category": "tech",
-      "published_at": "2026-09-26T00:30:24+00:00",
-      "fetched_at": "2026-09-26T03:12:55.960849+00:00",
-      "fingerprint": "27d66159bce30292"
-    },
-    {
-      "source": "少数派",
-      "title": "本周看什么 | 最近值得一看的 6 部作品",
-      "url": "https://sspai.com/post/114957",
-      "summary": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...<a href=\"https://sspai.com/post/114957\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-25T09:30:00+00:00",
-      "fetched_at": "2026-09-26T03:12:54.174083+00:00",
-      "fingerprint": "0c62272276b0d5ee"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.7195 CNY ↑+0.06%",
-      "url": "https://www.frankfurter.app/2026-09-25?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-09-25</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.7195 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0028 (+0.06%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-09-26T03:12:52.712558+00:00",
-      "fingerprint": "0fd6ae940dbcae55"
     }
   ]
 }
