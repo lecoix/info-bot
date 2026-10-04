@@ -1,7 +1,177 @@
 {
-  "updated_at": "2026-10-03T03:31:36.840761+00:00",
-  "count": 160,
+  "updated_at": "2026-10-04T04:00:08.543923+00:00",
+  "count": 162,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+      "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+      "summary": "<p>Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down</p><p>Allegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage facilities and power stations in western Libya have upended plans for the Tripoli-based government of national unity (GNU) to continue cooperating with Haftar on a plan to unify the country.</p><p>Saddam Haftar, the deputy commander of the so-called Libyan National Army (LNA), has increasingly been seen by the US as an important figure in its plans to unify Libyan security, judicial and political institutions.</p> <a href=\"https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-03T09:00:56+00:00",
+      "fetched_at": "2026-10-04T04:00:08.540420+00:00",
+      "fingerprint": "4166fad21affe6a8"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "category": "politics",
+      "published_at": "2026-10-03T16:16:49+00:00",
+      "fetched_at": "2026-10-04T04:00:08.291043+00:00",
+      "fingerprint": "12bbd5dc0ec7d55d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "category": "politics",
+      "published_at": "2026-10-03T14:27:33+00:00",
+      "fetched_at": "2026-10-04T04:00:08.291037+00:00",
+      "fingerprint": "675a68b0bd645e8f"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "category": "politics",
+      "published_at": "2026-10-04T00:11:25+00:00",
+      "fetched_at": "2026-10-04T04:00:08.291031+00:00",
+      "fingerprint": "f717161445acf9dc"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "category": "politics",
+      "published_at": "2026-10-03T17:48:42+00:00",
+      "fetched_at": "2026-10-04T04:00:08.291021+00:00",
+      "fingerprint": "8d685486a7e2d42a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "為什麼有些人坐電動車更容易暈車？",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」",
+      "category": "politics",
+      "published_at": "2026-10-03T04:19:55+00:00",
+      "fetched_at": "2026-10-04T04:00:08.046580+00:00",
+      "fingerprint": "14e59404515c0c02"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "迪拜航空劫機案：阿聯酋官員稱副駕駛用應急斧頭砍傷機長",
+      "url": "https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "多家媒體報道稱，試圖劫持飛往以色列的飛機的男子名叫哈馬姆·哈馬米。",
+      "category": "politics",
+      "published_at": "2026-10-04T02:44:22+00:00",
+      "fetched_at": "2026-10-04T04:00:08.046569+00:00",
+      "fingerprint": "df65a21b52cc86a4"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-04T04:00:07.515132+00:00",
+      "fingerprint": "737811d7489dff4e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-04T04:00:07.515021+00:00",
+      "fingerprint": "cbf695e19904fa49"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Bob Cringely Has Died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-04T04:00:07.514891+00:00",
+      "fingerprint": "b722d5fe788efcd8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-04T04:00:07.514767+00:00",
+      "fingerprint": "345f1755705d282a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-04T04:00:07.514630+00:00",
+      "fingerprint": "16d7d1f33ea5355f"
+    },
+    {
+      "source": "The Verge",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-03T14:31:56+00:00",
+      "fetched_at": "2026-10-04T04:00:07.063687+00:00",
+      "fingerprint": "46c63a0311a23e0d"
+    },
+    {
+      "source": "The Verge",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-03T15:00:00+00:00",
+      "fetched_at": "2026-10-04T04:00:07.063681+00:00",
+      "fingerprint": "12f1c0f583e5ec7e"
+    },
+    {
+      "source": "The Verge",
+      "title": "The best early October Prime Day deals happening now",
+      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-03T16:22:40+00:00",
+      "fetched_at": "2026-10-04T04:00:07.063675+00:00",
+      "fingerprint": "69e0173d7c364d3a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-03T16:49:10+00:00",
+      "fetched_at": "2026-10-04T04:00:07.063665+00:00",
+      "fingerprint": "5cb80ade64def456"
+    },
+    {
+      "source": "少数派",
+      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+      "url": "https://sspai.com/post/114922",
+      "summary": "不知道以后 CMF 的设计还会不会像现在一样出彩。<a href=\"https://sspai.com/post/114922\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-03T07:00:00+00:00",
+      "fetched_at": "2026-10-04T04:00:04.918206+00:00",
+      "fingerprint": "ff43768c6587d33b"
+    },
     {
       "source": "The Guardian - World",
       "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
@@ -1451,156 +1621,6 @@
       "published_at": "2026-09-27T23:03:45+00:00",
       "fetched_at": "2026-09-28T03:17:34.347592+00:00",
       "fingerprint": "5b7a44f209b711d3"
-    },
-    {
-      "source": "BBC World News",
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-      "category": "politics",
-      "published_at": "2026-09-26T15:48:51+00:00",
-      "fetched_at": "2026-09-27T03:20:20.420016+00:00",
-      "fingerprint": "21cd6a4ef40d68b0"
-    },
-    {
-      "source": "BBC World News",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-      "category": "politics",
-      "published_at": "2026-09-26T12:47:25+00:00",
-      "fetched_at": "2026-09-27T03:20:20.420010+00:00",
-      "fingerprint": "947aa80905841d5b"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-      "category": "politics",
-      "published_at": "2026-09-26T19:48:06+00:00",
-      "fetched_at": "2026-09-27T03:20:20.420003+00:00",
-      "fingerprint": "1d7078360a489aa3"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
-      "url": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "中國的經濟和科技發展迅猛，但也有很多令Z世代擔憂的事情。",
-      "category": "politics",
-      "published_at": "2026-09-27T01:35:32+00:00",
-      "fetched_at": "2026-09-27T03:20:20.267585+00:00",
-      "fingerprint": "fbd128076e6cad5f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-27T03:20:19.846868+00:00",
-      "fingerprint": "334a6646400953dd"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-27T03:20:19.846760+00:00",
-      "fingerprint": "d556f1ce2ab954a8"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-27T03:20:19.846634+00:00",
-      "fingerprint": "e21b1a157dc5cfe4"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-27T03:20:19.846491+00:00",
-      "fingerprint": "3e2a5cd2937bfab5"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-27T03:20:19.846355+00:00",
-      "fingerprint": "a31c50d3880006cc"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-26T16:34:59+00:00",
-      "fetched_at": "2026-09-27T03:20:19.580972+00:00",
-      "fingerprint": "960b51012f8d643a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Kids turned the comment section of an NPR podcast into a group chat",
-      "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-      "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-26T17:32:35+00:00",
-      "fetched_at": "2026-09-27T03:20:19.580966+00:00",
-      "fingerprint": "bd6c9fae3f4cf0f1"
-    },
-    {
-      "source": "The Verge",
-      "title": "Decap is the man behind the drums behind your favorite song",
-      "url": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-      "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig G&#246;ransson's score [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-26T19:30:00+00:00",
-      "fetched_at": "2026-09-27T03:20:19.580960+00:00",
-      "fingerprint": "24b3978581e64006"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple hit with $5.7 billion in damages over haptic patents",
-      "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-      "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-26T21:30:01+00:00",
-      "fetched_at": "2026-09-27T03:20:19.580951+00:00",
-      "fingerprint": "10792b6727af1abd"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "维密重回上海淮海路，中国市场进入扩店阶段｜最前线",
-      "url": "https://36kr.com/p/3999967284957059?f=rss",
-      "summary": "<p>9月25日，维多利亚的秘密（以下简称“维密”）上海淮海旗舰店开业。这是维密在中国市场运营十周年之际，对线下门店的一次重新布局。</p>\n  <p>新店位于淮海中路与瑞金路交界处的龙凤PRSCO一楼。2017年，维密曾在淮海路开出中国首家旗舰店。十年后，品牌再次选择淮海路作为旗舰店落点，不过这一次，门店的定位和空间形态都发生了变化。</p>\n  <p>相比过去强调内衣品类的门店，新旗舰店覆盖的产品范围更广，包括内衣、家居服、运动服饰、香水及身体护理等品类。店内也设置了专门的香氛和美妆区域，以及专业尺码测量服务。</p>\n  <p>从空间设计来看，新店延续了维密标志性的粉色视觉，但没有完全照搬海外门店的设计。门店外立面使用大面积落地玻璃和LED屏幕，内部则加入上海城市建筑元素，并通过数字影像、橱窗和灯光强化视觉效果。产品陈列也按照不同品类重新划分，消费者可以在同一家门店完成从内衣到香氛、身体护理产品的选购。</p>\n  <p>这也是维密近年来调整线下零售模式的一部分。</p>\n  <p>过去几年，维密在全球范围内都在重新调整品牌定位。相比此前高度依赖“维密秀”和性感内衣形象的品牌策略，如今的维密开始扩大产品范围，并将运动服饰、日常服饰、美妆和身体护理等纳入零售体系。中国市场的门店也在同步增加产品品类和消费场景。</p>\n  <p>这一变化发生在维密中国加快开店的阶段。</p>\n  <p>过去两年，维密在中国的线下门店数量明显增加。目前品牌已经进入北京、上海、广州、深圳、杭州等城市，同时向青岛、合肥、南昌、哈尔滨、兰州、贵阳、大连等区域消费中心城市扩张，预计到今年年底，门店数量将达到70余家，10月还将进入无锡等新城市。</p>\n  <p>与早期主要集中在一线城市核心商圈不同，如今维密的开店范围正在扩大。与此同时，品牌并没有完全依赖大规模铺店，而是更加关注商圈和单店表现。部分门店销售额同比实现双位数增长，也有门店刷新开业以来的销售纪录。</p>\n  <p>这意味着，维密在中国的线下策略正在从“进入更多城市”转向同时考虑城市覆盖和单店效率。对于内衣品牌而言，门店不仅承担销售功能，也承担尺码测量、试穿以及品牌体验等服务，因此核心商圈的门店仍然是品牌获取消费者的重要渠道。</p>\n  <p>上海淮海旗舰店的重新开业，也与维密近年来在全球业务上的恢复有关。</p>\n  <p>维密最新公布的2026年第二季度财报显示，公司当季净销售额为16.11亿美元，同比增长10%。在此前的业绩沟通中，维密全球CEO Hillary Super也曾将中国市场视为国际业务的重要增长市场之一。</p>\n  <p>对于已经进入中国市场十年的维密而言，上海仍然是其线下布局中具有代表性的市场。一方面，上海拥有成熟的商业地产和时尚消费人群；另一方面，淮海路本身也是国际品牌集中度较高的商业街区。重新在这里开设旗舰店，更接近于对品牌形象和零售模式的一次集中展示，而不是简单增加一家门店。</p>\n  <p>从更长的时间周期来看，维密在中国市场经历了从快速进入、门店扩张，到重新调整品牌定位的过程。2017年前后，维密曾借助大型门店和品牌秀场效应快速扩大知名度，但随着消费者需求变化以及线上渠道崛起，传统大店模式的吸引力有所下降。</p>\n  <p>如今重新扩张线下门店，维密需要解决的已经不只是“在哪里开店”，而是如何让门店承担更多功能：既卖内衣，也卖运动服饰和香氛；既完成交易，也提供尺码测量、试穿等服务；既服务成熟的一线城市消费者，也进入更多区域市场。</p>\n  <p>上海淮海旗舰店实际上就是这一变化的集中体现。它保留了维密较强的视觉识别度，同时扩大了产品和消费场景。随着中国门店数量继续增加，这套新的门店模型能否在不同城市复制，以及扩店之后单店效率能否继续保持，将成为维密下一阶段在中国市场需要面对的问题。</p>\n  <p>对维密而言，中国市场的下一个十年，已经不再只是依靠一两家标志性旗舰店获得关注，而是如何把旗舰店、区域门店和不同品类的销售结合起来，形成一套能够持续运营的零售网络。</p>",
-      "category": "tech",
-      "published_at": "2026-09-26T08:17:47+00:00",
-      "fetched_at": "2026-09-27T03:20:19.444800+00:00",
-      "fingerprint": "1f6b390cd1bd342b"
-    },
-    {
-      "source": "少数派",
-      "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
-      "url": "https://sspai.com/post/114958",
-      "summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...<a href=\"https://sspai.com/post/114958\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-26T06:00:00+00:00",
-      "fetched_at": "2026-09-27T03:20:17.758732+00:00",
-      "fingerprint": "f7331d1af59dfdc6"
     }
   ]
 }
