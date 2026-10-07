@@ -1,7 +1,217 @@
 {
-  "updated_at": "2026-10-06T04:33:15.581504+00:00",
-  "count": 150,
+  "updated_at": "2026-10-07T03:59:04.450099+00:00",
+  "count": 143,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
+      "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+      "summary": "<p>Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again</p><p>As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a new alliance of armed groups in Tigray has been forcibly recruiting men and boys to its ranks.</p><p>Renewed conflict erupted on 23 September between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF), which rules the region, shattering the fragile <a href=\"https://www.theguardian.com/world/2022/nov/02/ethiopian-civil-war-parties-agree-truce-to-end-hostilities\">Pretoria peace agreement</a> signed between the two sides in November 2022.</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-06T05:00:02+00:00",
+      "fetched_at": "2026-10-07T03:59:04.448329+00:00",
+      "fingerprint": "416513099ba6cf83"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "summary": "<p>Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday</p><p>Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May.</p><p>This is the 17th outbreak of the highly infectious, often deadly disease in the DRC. As of 2 October, 4,082 people had died out of 8,463 confirmed cases in the country <a href=\"https://www.theguardian.com/global-development/2026/aug/21/ebola-outbreak-five-big-questions\">since the emergence</a> of the Bundibugyo strain of the Ebola virus, for which there is still no vaccine nor specific treatment.</p> <a href=\"https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-06T12:46:56+00:00",
+      "fetched_at": "2026-10-07T03:59:04.448322+00:00",
+      "fingerprint": "c692a64a3ecdefa3"
+    },
+    {
+      "source": "BBC World News",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "category": "politics",
+      "published_at": "2026-10-06T23:07:44+00:00",
+      "fetched_at": "2026-10-07T03:59:04.356797+00:00",
+      "fingerprint": "8b5259d28d6242c7"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Former German spy chief arrested for espionage and treason",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "category": "politics",
+      "published_at": "2026-10-06T10:05:42+00:00",
+      "fetched_at": "2026-10-07T03:59:04.356793+00:00",
+      "fingerprint": "9055e51399321492"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "category": "politics",
+      "published_at": "2026-10-06T18:03:19+00:00",
+      "fetched_at": "2026-10-07T03:59:04.356790+00:00",
+      "fingerprint": "92b454d89d3dd6bb"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "category": "politics",
+      "published_at": "2026-10-07T00:56:59+00:00",
+      "fetched_at": "2026-10-07T03:59:04.356783+00:00",
+      "fingerprint": "5ad65a9ec17d95c7"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "找工作？面試中那個你不必回答的問題",
+      "url": "https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "如果在求職面試中被問到目前工作的薪水多少，你該如何應對呢？",
+      "category": "politics",
+      "published_at": "2026-10-07T00:26:11+00:00",
+      "fetched_at": "2026-10-07T03:59:04.292196+00:00",
+      "fingerprint": "3b75a7303a5f6b25"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "AI模型會成為年輕人身體形象的下一個重大威脅嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "AI人工智慧模型在廣告和社群媒體及廣告領域的興起，是否會損害年輕人的身體自信？",
+      "category": "politics",
+      "published_at": "2026-10-07T00:21:14+00:00",
+      "fetched_at": "2026-10-07T03:59:04.292191+00:00",
+      "fingerprint": "f79b4a3890098dc8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國圖書館為何正迅速下架眾多圖書？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國公共圖書館已成為一場激烈意識形態衝突的戰場，這場衝突的焦點在於學生應該能夠獲得哪些書籍。",
+      "category": "politics",
+      "published_at": "2026-10-06T06:31:55+00:00",
+      "fetched_at": "2026-10-07T03:59:04.292187+00:00",
+      "fingerprint": "3d503a550f93b709"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "俄羅斯鼠疫實驗室人員死亡 美方稱「密切關注」",
+      "url": "https://www.bbc.com/zhongwen/articles/cqx28nw0kn47o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "鼠疫桿菌，又稱耶爾森氏鼠疫桿菌（Yersinia pestis）曾在 14 世紀導致歐洲一半人口死亡，當時被稱為黑死病。最近而該地區的囓齒動物（如土撥鼠）中就發現了這種細菌。",
+      "category": "politics",
+      "published_at": "2026-10-06T04:41:10+00:00",
+      "fetched_at": "2026-10-07T03:59:04.292183+00:00",
+      "fingerprint": "449ee26b8af5e086"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The cost of lies: A Mineserver story",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-07T03:59:04.119465+00:00",
+      "fingerprint": "304536ffab5ad423"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-07T03:59:04.119408+00:00",
+      "fingerprint": "f6e419d4eb703602"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-07T03:59:04.119337+00:00",
+      "fingerprint": "0d2b759c8ff8305d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-07T03:59:04.119276+00:00",
+      "fingerprint": "734121fbebcb0ae1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-07T03:59:04.119201+00:00",
+      "fingerprint": "270d2009beef3a33"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
+      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-06T21:39:53+00:00",
+      "fetched_at": "2026-10-07T03:59:04.006321+00:00",
+      "fingerprint": "68edc90128174ad9"
+    },
+    {
+      "source": "The Verge",
+      "title": "The best robot vacuum and mop deals during October Prime Day",
+      "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
+      "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some of our favorite models are [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-06T22:00:00+00:00",
+      "fetched_at": "2026-10-07T03:59:04.006318+00:00",
+      "fingerprint": "fb2d7b524dfbb3e8"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox has secured exclusive GTA 6 streaming rights",
+      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox managing to land a deal for the exclusive game [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-06T22:12:27+00:00",
+      "fetched_at": "2026-10-07T03:59:04.006314+00:00",
+      "fingerprint": "dce7044c145632e8"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-06T23:26:38+00:00",
+      "fetched_at": "2026-10-07T03:59:04.006308+00:00",
+      "fingerprint": "0e401bad0dd434d6"
+    },
+    {
+      "source": "少数派",
+      "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+      "url": "https://sspai.com/post/115416",
+      "summary": "密码管理服务的数据，当然要掌握在自己手里。<a href=\"https://sspai.com/post/115416\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "fetched_at": "2026-10-07T03:59:01.914369+00:00",
+      "fingerprint": "ebccc856520c6a8c"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6812 CNY ↑+0.31%",
+      "url": "https://www.frankfurter.app/2026-10-06?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-06</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6812 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0146 (+0.31%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-07T03:59:00.829655+00:00",
+      "fingerprint": "ce5341b34c7d2d5c"
+    },
     {
       "source": "The Guardian - World",
       "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
@@ -1221,286 +1431,6 @@
       "published_at": null,
       "fetched_at": "2026-10-01T03:49:11.358897+00:00",
       "fingerprint": "32f7e5a0ad500c8f"
-    },
-    {
-      "source": "BBC World News",
-      "title": "South Africa to clean up high-risk areas after 12 women killed",
-      "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
-      "category": "politics",
-      "published_at": "2026-09-29T22:33:39+00:00",
-      "fetched_at": "2026-09-30T03:42:40.213709+00:00",
-      "fingerprint": "c9f64bf2f199dbaa"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "category": "politics",
-      "published_at": "2026-09-29T23:15:29+00:00",
-      "fetched_at": "2026-09-30T03:42:40.213705+00:00",
-      "fingerprint": "744a654a78d07f86"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
-      "category": "politics",
-      "published_at": "2026-09-30T03:23:17+00:00",
-      "fetched_at": "2026-09-30T03:42:40.213700+00:00",
-      "fingerprint": "1a186591d509c79c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-      "category": "politics",
-      "published_at": "2026-09-29T16:23:58+00:00",
-      "fetched_at": "2026-09-30T03:42:40.213691+00:00",
-      "fingerprint": "d77b9be5bd7c100c"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "我付了3萬英鎊讀個「網紅」學位，這是為什麼",
-      "url": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "內容創作學位旨在幫助人們透過社群媒體貼文賺錢。",
-      "category": "politics",
-      "published_at": "2026-09-30T00:18:57+00:00",
-      "fetched_at": "2026-09-30T03:42:40.128294+00:00",
-      "fingerprint": "98f2a5ecf5c6fad5"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "亦敵亦友：澳洲如何在超級大國競爭中找平衡？",
-      "url": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "澳洲越來越擔心中國的軍事實力——但北京也是其最大的貿易夥伴。",
-      "category": "politics",
-      "published_at": "2026-09-29T05:46:42+00:00",
-      "fetched_at": "2026-09-30T03:42:40.128289+00:00",
-      "fingerprint": "efcdc20021dc1fb9"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "伊朗女歌手演出不戴頭巾遭判笞刑74鞭 上訴遭駁回",
-      "url": "https://www.bbc.com/zhongwen/articles/cq5yj1dd5wxyo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "帕拉斯托·阿赫瑪迪因在一場直播音樂會中身穿無袖連身裙演唱，被裁定犯有「冒犯公共道德」罪。",
-      "category": "politics",
-      "published_at": "2026-09-29T07:00:12+00:00",
-      "fetched_at": "2026-09-30T03:42:40.128284+00:00",
-      "fingerprint": "e957163fab161e0f"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美國計劃於9月30日前從伊拉克撤出剩餘部隊，結束自2003年美國領導的推翻薩達姆·侯賽因政權的入侵以來在伊拉克的軍事存在。",
-      "category": "politics",
-      "published_at": "2026-09-30T00:18:50+00:00",
-      "fetched_at": "2026-09-30T03:42:40.128278+00:00",
-      "fingerprint": "568cd9d10c5c2e5c"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中國人工智慧工具「教導」研究人員製造生物武器",
-      "url": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "有研究機構發現月之暗面的Kimi模型可以繞過開發者的安全限制，提供製造生化武器的資訊。",
-      "category": "politics",
-      "published_at": "2026-09-30T02:20:26+00:00",
-      "fetched_at": "2026-09-30T03:42:40.128267+00:00",
-      "fingerprint": "4c69da1a77f04a0f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-30T03:42:39.740176+00:00",
-      "fingerprint": "f2dca02215efd099"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-30T03:42:39.740070+00:00",
-      "fingerprint": "c4479fafdff7b0f4"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-30T03:42:39.739959+00:00",
-      "fingerprint": "16df14f5ec88def7"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-30T03:42:39.739860+00:00",
-      "fingerprint": "4e1353e06bffbd8d"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-09-30T03:42:39.739741+00:00",
-      "fingerprint": "9ee133e6f5024f08"
-    },
-    {
-      "source": "The Verge",
-      "title": "Suspected ShinyHunters leader arrested in the Netherlands",
-      "url": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
-      "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch authorities state that they arrested the suspect on September 15th - just days before the hacking group claimed to [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-29T21:50:31+00:00",
-      "fetched_at": "2026-09-30T03:42:39.646676+00:00",
-      "fingerprint": "9b5562e510053561"
-    },
-    {
-      "source": "The Verge",
-      "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-      "url": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-      "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-29T22:01:00+00:00",
-      "fetched_at": "2026-09-30T03:42:39.646671+00:00",
-      "fingerprint": "f7df048676ed882b"
-    },
-    {
-      "source": "The Verge",
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-29T22:25:45+00:00",
-      "fetched_at": "2026-09-30T03:42:39.646666+00:00",
-      "fingerprint": "1f2684ece82a4b59"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-30T00:19:13+00:00",
-      "fetched_at": "2026-09-30T03:42:39.646655+00:00",
-      "fingerprint": "d6b003b6ebfae6b2"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "腾讯 Marvis做 Agent 的不同选择：把用户的电脑“管理起来”",
-      "url": "https://36kr.com/p/4004514681016456?f=rss",
-      "summary": "<p>&nbsp;</p>\n  <p>文｜李炤锋 &nbsp;&nbsp;</p>\n  <p>编辑 | 张雨忻</p>\n  <p>近日，腾讯推出新版 Marvis，将这款以“小黑马”为形象的个人 Agent 定位升级为“AI 管家”。智能涌现了解到，截至本月，Marvis 的日活跃用户数比 5 月上线时增长近四倍。</p>\n  <p>Marvis 源自做应用分发的腾讯应用宝团队。今年 5 月上线时，它被称作“操作系统层级的个人 AI 助手”，重点是按用户指令完成安装软件、查找文件等任务。</p>\n  <p>这次改版，除了电脑文件管理，腾讯把电脑系统和硬件管理放到更显眼的位置：Marvis 能检查电池健康、找出高耗电应用，也能调整开机启动项。Marvis 业务负责人蔡建涛近日在一场活动上说，5月上线以来，用户的真实用法与团队最初设想的不太一样，“很多用户真的把我们当成一个 AI 管家在使用”。</p>\n  <p>此前，蔡建涛曾在公开采访中披露，本地文件是使用最多的一类场景，涉及 44% 的用户；另有 28% 用它管理电脑和硬件。一些Marvis早期用户的反馈显示：下载 Marvis 后，不知道该让它做什么。蔡建涛对此回应称：“这次的改版有一半就是为了解决这个问题。”<strong>新版主打电脑、文件、软件和浏览器四类任务。</strong></p>\n  <p>当下，市面上数量繁多的 Agent 所切入的场景已经完成分路。</p>\n  <p>较早的一路瞄准办公场景。3 月，Anthropic 为 Claude Cowork 开放操作电脑的研究预览：得到许可后，它可以使用桌面应用完成简报、报告。国内，WorkBuddy、千问办公、豆包工作等办公类 Agent 同样是让用户交办工作，拿回文档、网页、PPT 等成果。</p>\n  <p>另一路瞄准线上生活。Meta 本月推出 Muse，让它在云端虚拟电脑里处理邮件和旅行预订；阿里的千问 App 也宣布自己进入个人 Agent 赛道，接入点餐、购物、机票酒店预订等多个生活场景。全球厂商接连推出个人 Agent 产品——美国创投机构 Menlo Ventures 与市场研究公司 Morning Consult 今年 7 月调查了 5067 名美国成年人：在使用 AI 的受访者中，41% 试过 AI Agent，24% 定期使用。至少在美国的 AI 用户中，Agent 已走出少数人尝鲜的阶段。</p>\n  <p>办公 Agent 和线上生活 Agent，需要借助PC端平台来完成任务，而Marvis想做的，是管理用户的终端本身，同时成为PC端各种零散任务的“管家”。</p>\n  <p>并且，Marvis有着比较独特的Agent调用路径：先用端侧模型为获授权的资料建立索引，用户搜索时再利用索引查找，按需调用云端模型——这与 WorkBuddy 等办公 Agent 基本依靠云端模型的思路不太一样。</p>\n  <h2>01 Marvis 的“管家”，做到了哪一步</h2>\n  <p>想要实现“管电脑”，先得深入到系统层。</p>\n  <p>在新版本演示中，Marvis 调整了一台 Mac 的开机启动项，还找出了影响续航的高耗电应用。不过，碰到需要系统权限的操作，它会停在确认窗口，等用户输入密码。<strong>能帮用户做多少，仍取决于操作系统开放哪些功能。</strong></p>\n  <p>在同类产品上，可以看到类似的操作。微软去年在部分 Windows 电脑的设置中加入自家 Agent，后来也试着向第三方 Agent 开放文件和设置功能，但前提是用户须主动开启相关功能，并同意它访问敏感信息。</p>\n  <p>新版文件管家功能增加了资料库更新提醒。在公开演示中，Marvis团队以一个校园招聘场景举例：HR 建好简历资料库后，又收到 50 份简历，新文件存进电脑，Marvis 会提示将它们加入原有资料库，但这一过程最终需要由用户确认。</p>\n  <p>蔡建涛说，“Marvis 搜索本地文件时，会在用户授权的范围内，用端侧模型处理文件内容、建立索引，这样能大大加快搜索文件的速度。一些 Agent 没有‘用端侧模型建立文件索引’这一步，如果让它找一个五年前的文件，花一小时也是有可能的。”</p>\n  <p>本地处理需要算力，也曾是 Marvis 的一道设备门槛。蔡建涛说，5 月版要求六核处理器和 16GB 内存，主要因为知识库耗费算力；新版简化了本地知识库的搭建流程，这使得电脑配置可以降至四核、8GB，让用户“先能用起来”。</p>\n  <p>Marvis 还计划把文件搜索扩到 NAS （私有云/网络存储设备）这类私人存储设备，目前与英特尔、飞牛合作打造了定制版 NAS ，计划 10 月推出。在此前的演示中，已经可以初步看到Marvis结合NAS的能力：用户搜索“大海”，Marvis 可以定位到视频里海面出现的片段；搜索“声音中带有掌声的视频”，则能快速定位到对应的声音片段。</p>\n  <p>一位腾讯人士解释了这项视频搜索背后的流程：在用户授权的范围内，Marvis 先解码视频、处理画面和声音，再建立索引。面对十几 TB 的 NAS，它会先处理用户近期关注的资料，再根据搜索需求扩大范围。</p>\n  <p>针对用户安装软件的需求，蔡建涛说，改版前每天约有四五万人用它做这件事。新版将安装、更新和操作软件等需求集中到“软件管家”这个独立的功能上，让用户更容易找到。</p>\n  <p>与此同时，Marvis团队还展示了在游戏场景的应用，后续计划成为独立的“游戏管家”。在 Steam 游戏技能演示中，Marvis 会在观战一局后分析战斗；在教学模式下，则会在游戏过程中提示玩家下一步该按哪个键。</p>\n  <p>在操作入口方面，用户能通过手机远程向电脑下指令。蔡建涛表示，Marvis 上线以来，远程控制累计使用超过 1800 万次。</p>\n  <p>智能涌现了解到，腾讯还在争取电脑厂商的合作，让 Marvis 进入更多设备。目前，面向整机厂商的 OEM 版本已经推出。</p>\n  <p>目前，PC端的 AI 助手市场已经来到了较为激烈的竞争阶段。一些厂商在走自研路线，比如联想的 Qira 已开放给符合条件的电脑用户下载；惠普的 AI Companion 已预装在部分 Copilot+ PC 上。</p>\n  <p>“有的PC厂商有自己的 AI 助手，有的厂商不想要这样的产品形态。”谈到面向PC厂商的合作，蔡建涛说，腾讯也可以只提供底层 AI 引擎，由厂商决定面向用户的产品形态是是什么。</p>\n  <p>谈到电脑诊断，腾讯副总裁林松涛此前接受媒体采访时说：“缺的从来不是知识，而是对这台设备的理解。”蔡建涛设想，如果电脑厂商开放更多设备状态，C 盘快满时，Marvis 可以主动提醒清理，而不必等用户先发出指令。</p>\n  <h2>02 绕不开的办公？</h2>\n  <p>Marvis 不主打办公，但只要开始管理用户的文件，就绕不开办公。</p>\n  <p>“我们从立项的第一个月，就决定不把自己定位为一个办公 AI。”蔡建涛此前谈及产品方向时说。文档和 PPT 是许多 Agent 最先选择的任务：成果容易看见，做起来也“比做一个游戏助手难度小多了”。Marvis 也会补办公需求，但“我们很少说自己是做 PPT 最好的 Agent，因为它跟我们的主线相对比较远”。</p>\n  <p>在腾讯内部，主打办公的是 WorkBuddy。易观分析统计，今年 6 月，纳入监测的 17 款中国桌面端 AI 原生办公智能体合计访问量超过 6000 万次；其中 WorkBuddy 达 2097 万次，占三分之一。</p>\n  <p>不久前，腾讯已经开始整合众多 Agent 产品。就在昨日，腾讯宣布才被并入 WorkBuddy 团队不久 QClaw 将于 12 月 24 日停止运营，用户可将数据迁至 WorkBuddy。</p>\n  <p>尽管有定位上的差异，但 Marvis 和 WorkBuddy 很难在产品功能上完全做到差异化——WorkBuddy 能读写用户授权的本地文件；Marvis 也能写报告。</p>\n  <p>不过，相比还在找定位的 Marvis，WorkBuddy 已经有了明确清晰的目标市场，并在商业化上有了进展。腾讯首席战略官詹姆斯·米歇尔在 8 月业绩电话会上说，WorkBuddy 收到的用户付款正在明显增长，付费用户的毛利率已与腾讯云整体水平相当。</p>\n  <p>谈到 Marvis 的商业化，蔡建涛拿市面上C 盘清理工具举例：开发者花多年梳理文件类型、目录和安装缓存，才能比别的工具清得更干净、更快。“为这种特殊的能力付费是应该的。”</p>\n  <p>他表示，Marvis 会在产品具备充分竞争力时推出商业化方案；收费点“可能不来自纯粹的 Agent 基础能力”，而是让用户为能提供专业工具的生态伙伴付费。</p>",
-      "category": "tech",
-      "published_at": "2026-09-29T13:30:00+00:00",
-      "fetched_at": "2026-09-30T03:42:39.565048+00:00",
-      "fingerprint": "58d16969e0b1137c"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "Manus 回来了，可Agent 的战场已经挤满对手",
-      "url": "https://36kr.com/p/4004527155171460?f=rss",
-      "summary": "<p>&nbsp;</p>\n  <p>文｜李炤锋</p>\n  <p>编辑 ｜ 张雨忻</p>\n  <p>2025 年3月6日，Manus 上线那天，办公室里一群工程师看着一张 Manus生成的NBA 球员象限图，觉得十分亮眼——图上排着球员头像，基于得分和投篮次数分布。创始人肖弘后来回忆，让他们意外的不是象限图有多难画，而是过去得由人一步步完成的活，现在只需交代要求，Agent 就能一路做到交付。</p>\n  <p>一年后，Manus 团队把这段回忆写进公开信，肖弘在这封信的开头，用一句话概括最初的念头：“AI 不仅应该思考，还应该行动。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260929/v2_e731f55edf53409fa2f2cb2f0fc43d9f@6252890_oswg349386oswg1280oswg1024_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Manus生成的分析图</p>\n  <p>&nbsp;</p>\n  <p>昨天，恢复独立运营的 Manus 发布了 2.0 版本，同时推出面向个人事务的独立应用 Cue。官方介绍显示，2.0 升级了自研 Agent 框架 Cascade；自动化任务可以由新邮件、日历事件等触发。原有桌面应用升级为 Manus Studio，加入可修改初剪时间线的视频编辑器和游戏开发环境。更聚焦个人生活的 Cue，则宣称可以替用户发消息、接听来电，处理日常生活里的琐事。</p>\n  <p>把时间拨回 2025 年刚上线时，Manus 还要邀请码才能使用。闲鱼上有人声称出售 Manus 邀请码，标价 4 万余元。Manus 团队随后回应，官方从未开设付费获取邀请码的渠道。</p>\n  <p>在当时的首发视频里，Manus 首席科学家季逸超演示了这款 Agent 如何筛选简历、分析股票、查找纽约房产，也引来中美科技媒体争相报道。Manus 让更多人第一次看见：原来 Agent 可以接下一件事，自己分步骤去做，再交出结果。</p>\n  <p>接下来的一年，Manus 的命运几经变化。2025 年底，它宣布加入 Meta。今年 9 月 1 日，Manus 又宣布恢复独立，仍由创始团队领导。官宣回归不到一个月，Manus 团队就拿出了 2.0 版本。只是这一次，Agent 赛道上已经挤满了竞争对手。</p>\n  <p>一年前，自动生成一张图、一份报告或一个网站，对许多刚接触 AI 的用户来说都很新鲜。一年后的今天，“AI 自己办事”已经不再稀奇。编程 Agent 有 OpenAI 的 Codex 和 Anthropic 的 Claude Code；微软 Copilot Cowork、腾讯 WorkBuddy 等产品也在接手普通人的办公任务。</p>\n  <p>个人事务也开始有人接手。Meta 的 Muse 已在美国逐步开放，可以从 WhatsApp 接任务。据 Sensor Tower 估算，截至 9 月 24 日，Muse 独立 App 累计下载超过 340 万次。而在国内，阿里的千问 App 已展示通过淘宝闪购下单、在对话里付款；字节的豆包手机助手也在尝试从手机端切入普通人的生活场景。</p>\n  <p>这一回，Manus 2.0 和 Cue 面对的是一场挤满对手的竞争，想要重现 2025 年的惊艳，并非易事。</p>\n  <h3>01 升级工作台之余，还想“Cue”一下个人事务</h3>\n  <p>Manus 2.0 除了升级现有 Agent 框架，还带来了一个新名字：Manus Studio。早在今年 3 月，Manus 就推出桌面应用，允许用户授权它操作本地文件和工具；Studio 是这款桌面应用的升级版。</p>\n  <p>Cue 则是另一款独立应用，和 Manus 共用底层设施，瞄准个人生活任务。Manus 官方称，Cue 支持网页、桌面和移动端，目前凭邀请码抢先体验；截至昨晚产品公告发布时，iOS 版还在等待 App Store 审核。</p>\n  <p>这轮发布主要面向海外用户。同时，Manus 也在另行筹备国内市场的产品。</p>\n  <p>效率是 Manus 这一轮优化的重点。</p>\n  <p>Cascade，正是 Manus 自研 Agent 框架的最新迭代。Manus 称，在一项测试配置中，它比旧系统少用了 23.2% 的 Token，任务耗时缩短 28.2%，运行成本降低 32%。</p>\n  <p>在长时间运行的任务上，Manus 2.0 新增了事件触发功能：新邮件、日历事件，或 Slack、Notion 中的信息更新，都能启动预设工作流。云电脑则继续承担长时间运行的任务，也可托管多人游戏服务器。这似乎契合肖弘和团队今年 3 月在年度信里写下的愿景：让 Manus 全天候工作，同时找到用户愿意长期交给它、运行成本也撑得住的任务。</p>\n  <p>在应用层，从桌面版升级而来的 Manus Studio 把文档、表格、PDF、幻灯片放在同一个工作空间，还覆盖网站、代码、游戏和视频。这次新增的视频编辑器和游戏开发环境，让用户拿到初稿后还能继续动手修改。</p>\n  <p>除了工作场景，聚焦个人事务的 Cue 也走进了日常生活赛道。按 Manus 的介绍，Cue 中每个 Agent 可以有自己的邮箱、电话号码、钱包和电脑；它可以发消息、接听来电并留下摘要，也能在用户设定的预算内付款。</p>\n  <p>不过，Cue 的产品理念并非 Manus 团队临时起意。Manus 此前就试过让 Agent 进入聊天场景：今年 2 月，它把 Agent 接进 Telegram，让用户在现成的聊天软件里交代任务。到 9 月推出 Cue，Manus 又让 Agent 带着自己的身份去办事。官方描绘的一个场景是：用户到餐厅扫个码，让 Agent 替自己点餐或排队取号。</p>\n  <p>Cue 当前展示的交互方式仍更偏向海外用户的习惯。初次使用 Cue 时，App 弹出几条标着“来自 X 的使用案例”的提示，包括给餐厅发邮件问地址、查看 Gmail 中的账单。不难发现，这些用法与在国内处理生活琐事的方式相差很远。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260929/v2_82cc28f6ad9d4ad2910aaf261f73693f@6252890_oswg113182oswg1280oswg851_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Manus2.0的官方案例</p>\n  <p>尽管 Manus 团队表示会推出针对国内市场的产品，但在国内，这些生活需求早已和一众超级 App 绑在一起。找餐厅、点餐、打车、付款，许多人会直接打开微信小程序、支付宝、抖音、美团或滴滴。商家、订单和支付，也都留在这些平台里。</p>\n  <p>说得再直白一点，在国内，个人生活留给独立 Agent 的空间，仍是一个问号。</p>\n  <h3>02 Agent 战争，从 Coding、办公到日常生活，都挤满了竞争对手</h3>\n  <p>“大厂能理解你创新的时候就是很危险的时候。”去年 Manus 上线前，肖弘在采访中这样说。当时他谈的是 Monica 浏览器插件被大厂跟进，以及随之而来的创业焦虑：一款 AI 应用刚做出新东西，大厂就可能把相似的能力放进自己的产品。</p>\n  <p>Manus 初代发布时，在大众眼中仍是一款前卫的产品。如今 Manus 2.0 归来，Agent 已不是新鲜概念。</p>\n  <p>在编程和深度工作场景里，Coding Agent 开始接手越来越多的长链任务。今年 6 月，OpenAI 披露，Codex 周活跃用户超过 500 万，其中按公司口径，约两成是知识工作者，有人用它做报告、表格等非代码任务。</p>\n  <p>微软此前展示过一个销售案例：负责人让 Copilot Cowork 查哪些潜在客户迟迟没有进展，Cowork 找出了跟进中断的地方。微软称，原本需要人工排查一周的记录，它一个上午就完成了。</p>\n  <p>Cowork 经公司许可后，可以调用 Outlook、Teams 等工具里的资料。微软今年 7 月披露，Microsoft 365 Copilot 已有超过 3000 万个付费席位，这意味着，微软已有一批可以推广新功能的付费客户。</p>\n  <p>Manus 经历沉浮的这一年，办公 Agent 已经批量进入市场。3 月，腾讯推出 WorkBuddy；8 月，阿里整合 QoderWork、悟空和 MuleRun 的能力，推出千问办公；字节则一边把 TRAE SOLO 升级为 TRAE Work，一边在飞书中推出“豆包工作”，让 Agent 进入办公流程。</p>\n  <p>易观今年 6 月的统计显示，纳入监测的 17 款国内桌面办公 Agent 合计获得超过 6000 万次访问，其中腾讯 WorkBuddy 为 2097 万次、字节 TRAE IDE 国内版为 1279 万次、阿里 QoderWork 为 788 万次。</p>\n  <p>在个人 Agent 这边，Muse 同样有 Meta 现成的资源可用。Meta 举的例子里，Muse 可以把用户收藏的 Instagram 食谱整理成购物清单，记住客人的忌口；涉及购买时，还能先征得用户同意，再用 Stripe Link 的一次性卡付款。要替人处理这些日常事务，就得接上用户原来使用的服务，而这对独立 Agent 公司并不容易。</p>\n  <p>国内也有 AI 应用开始接手具体的生活任务。今年 1 月，在千问 App 发布会上，阿里巴巴集团副总裁吴嘉用它订了 40 杯饮料：千问通过淘宝闪购下单，吴嘉确认后在对话里用支付宝付款，饮料随后送到。9 月，曹操出行宣布与豆包合作的 AI 打车首批在北京、杭州、苏州上线。用户在豆包里查路线、找餐厅时，可以接着选择出行方案，由曹操出行提供用车服务。</p>\n  <p>Cue 也提出过在餐厅扫码、让 Agent 代为点餐的场景。但如果要在国内市场分到一杯羹，怎样接入各个平台上的商家和服务，是未来国内版产品要解决的问题。</p>\n  <p>更大的未知来自商业化。Manus 去年 12 月自报 ARR 超过 1 亿美元。可今天，它面对的是一群先送免费额度争用户的对手：WorkBuddy 体验版每月送 500 积分，TRAE 免费新用户可领 4000 积分。</p>\n  <p>Manus Studio 的升级页面显示，Manus Pro 套餐每月 20 美元。不过， Manus 2.0 升级后，免费用户收到了 1500 credits。各家都在送额度、抢入口，Manus 能否靠 2.0 撬动新一轮商业化，仍是未知数。</p>\n  <p>在更日常的使用场景里，豆包、千问的基础功能也能免费用；微信的 AI 助手“小微”则已进入灰测。</p>\n  <p>事实上，距离 2025 年那场令人惊艳的演示，才过去一年多。但对今天的普通用户来说，那个靠一句“AI 会自己做事”就能让人记住一款产品的时刻，似乎已经过去很久。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260929/v2_d6426bc86a9e4c6a80c41c88b0e1b6a0@6252890_oswg270084oswg1280oswg409_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">市面上已有丰富的Agent产品</p>\n  <p>体验 Manus 2.0 后，它仍是一款高效的 Agent 工具。虽然目前还不知道它背后调用了哪些模型，但实际用起来，Manus Studio 能在多个场景里接住需求，包括一些涉及多模能力的场景：做一份 PPT，或生成一张效果图。打开还在测试阶段的 Cue，也能很快发现一些小巧思：可以定制 Agent 的工作方式，交互里也有更鲜明的性格，这些都是 Manus 2.0 的加分项。</p>\n  <p>只是，在 2026 年的当下，再看电脑上这一屏Agent/AI 应用图标，Manus似乎不再是那个惊艳的唯一选项。</p>",
-      "category": "tech",
-      "published_at": "2026-09-29T14:01:34+00:00",
-      "fetched_at": "2026-09-30T03:42:39.565043+00:00",
-      "fingerprint": "ace51c350fe605cd"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨10月1日起将对居民购房实施贷款贴息；AMD回应收购李飞飞公司；网红超长蛋挞全是皮没蛋液？鲍师傅回应",
-      "url": "https://36kr.com/p/4005136008761217?f=rss",
-      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>OpenAI推出全天候自主智能体Dots、GPT-6.1 Sol模型</p>\n  <p>长鑫科技宣布349亿元投资，官宣投建两大新项目</p>\n  <p>央行：下调抵押补充贷款（PSL）利率0.25个百分点</p>\n  <p>美光财报前夕，超级多头重申2000美元目标价</p>\n  <p>英伟达追加创纪录1500亿美元股票回购</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>10月1日起将对居民购房实施贷款贴息</strong></p>\n  <p>记者9月29日从财政部了解到，我国将从10月1日起对居民使用新发放商业性个人住房贷款购房实施贴息，以降低居民购房成本，更好支持和释放城乡居民刚性住房需求。</p>\n  <p>本次贴息政策聚焦首套刚需，重点支持普通家庭新购中小套型、较低价位的住房，单户所购住房建筑面积不超过120平方米、购房价格不超过150万元。</p>\n  <p>可享受贴息的贷款规模最高可达100万元，财政部门给予年化1个百分点的贴息，按照目前首套住房的商业性个人住房贷款利率水平，相当于优惠了利率的三分之一，贴息期限最长5年。据测算，对于一笔长期限的100万元商业性个人住房贷款，政策最多可帮助借款人累计减少付息近5万元。</p>\n  <p>政策实施期暂定一年。（界面新闻）</p>\n  <p><strong>AMD回应收购李飞飞公司，希望李飞飞汇聚世界级人才</strong></p>\n  <p>近日，美国超威半导体公司（AMD）在官网宣布，已与World Labs达成最终协议，将收购这家由人工智能先驱李飞飞创立的AI实验室。</p>\n  <p>AMD在9月28日发布的新闻稿中写道，这笔全股票交易价值约82亿美元，预计将在2026年年底前完成，但需获得监管部门批准并满足其他惯例成交条件。AMD表示，此次收购将为公司带来一支世界一流的研究人员和模型专家团队，增强公司围绕新兴模型和应用需求开发人工智能硬件、软件和系统的能力。</p>\n  <p>AMD首席执行官苏姿丰在接受采访时表示：“你对整个端到端流程了解得越深入，就越能构建出更好的系统。”“这就是我们收购World Labs的原因。我们希望获得李飞飞汇聚起来的世界级人才，并将这些人才与AMD在硬件、软件和系统方面的能力结合起来。”根据AMD的说法，李飞飞将加入公司担任执行副总裁兼首席科学家，直接向苏姿丰汇报工作。（红星资本局）</p>\n  <p><strong>网红超长蛋挞全是皮没蛋液？鲍师傅回应</strong></p>\n  <p>近日，多名消费者吐槽鲍师傅超长蛋挞咬开后内部大面积是酥皮结构，馅料仅薄薄一层，“又干又难吃，是智商税”。公开信息显示，鲍师傅超长蛋挞于9月20日上线，长度约60厘米。抖音商家数据显示，其零售价为18.9元一个，截至9月28日，该产品已售超70万份。</p>\n  <p>9月28日，鲍师傅官方客服回应称，超长蛋挞并非所有门店售卖，要看具体门店的情况。制作工艺全国各门店标准一致。对于消费者反馈的问题，已上报给各门店及公司负责人。关于后续是否会对超长蛋挞进行改进，该客服表示：“我们会以顾客的消费体验持续优化产品，具体要看后期制作师傅对这款产品的调整情况。”</p>\n  <p>超长蛋挞是2026年9月烘焙赛道的爆火单品。抖音生活服务平台数据显示，截至9月19日，“超长蛋挞”相关热点累计在榜曝光量突破10亿，抖音相关团购累计支付GMV突破亿元，近7天内消费者想要购买的搜索频次高达1880万。（界面新闻）</p>\n  <h2><strong>AI最前沿</strong></h2>\n  <p><strong>OpenAI推出全天候自主智能体Dots、GPT-6.1 Sol模型</strong></p>\n  <p>OpenAI推出GPT-6.1 Sol模型，其性能接近Astra，但标准词元价格仅为Astra的五分之一。同时推出全天候自主智能体Dots。并表示，将于未来数日推出GPT‑6.1 Sol超快版。（财联社）</p>\n  <p><strong>豆包将推个人助理产品：4月已内测，曾用代号“Spell”</strong></p>\n  <p>豆包在个人助理方向正在推进相关产品规划。一位知情人士表示，延续去年豆包手机助手在personal agent方向的策略，今年4月，豆包内部就已开始内测个人助理方向的探索产品。该人士透露，该探索项目当时代号为“Spell”，主要由豆包手机助手团队主导，但由于豆包手机发布等原因，一直没有正式对外。（新浪科技）</p>\n  <p><strong>Anthropic豪掷百亿采购Akamai云基础设施，延续算力采购趋势</strong></p>\n  <p>Akamai近日表示，Anthropic将在7年内向Akamai云基础设施投入116亿美元。这一金额是5月报道的双方18亿美元合作协议规模的6倍以上。该采购承诺并非绝对刚性；根据Akamai提交的证券文件，合作能否落地取决于Akamai满足特定交付与服务可用性指标，且任意一方均可在特定条件下终止协议。（新浪财经）</p>\n  <p><strong>DeepSeek Harness v0.2预览版正式发布</strong></p>\n  <p>36氪获悉，9月29日，DeepSeek Harness v0.2预览版正式发布，并提供开箱即用的macOS和Windows桌面端安装包。据介绍，新版本预置了面向日常办公和开发的常用功能，让常用能力开箱即用。同时，新增插件安装与管理页面，并提供更多灵活配置选项，方便按需扩展功能，打造更适合自己的智能产品。</p>\n  <p><strong>可灵AI Kling4.0开启内测，4.0Flash已开放体验</strong></p>\n  <p>36氪获悉，可灵AI全新模型Kling4.0已开启内测，将于10月正式上线。Kling 4.0单次原生生成最长达30秒、长镜头与连续叙事能力进一步提升；最多支持10张关键帧输入；支持4K、1080p的10-bit HDR格式高规格输出。同时，可灵AI还推出了Kling4.0Flash，现已率先开放体验。</p>\n  <h2><strong>大公司/大事件</strong></h2>\n  <p><strong>新股N安达涨超261%，触发临停</strong></p>\n  <p>36氪获悉，9月29日上市新股N安达扩大涨幅至超261%，触发临停，成交超1.1亿元，收盘26.16元；全天成交金额6.44亿元，换手率高达96.70%。资料显示，公司主营汽车铝合金精密压铸件的研发、生产和销售。</p>\n  <p><strong>长鑫科技宣布349亿元投资，官宣投建两大新项目</strong></p>\n  <p>A股“市值一哥”长鑫科技抛出349亿元投资计划。9月28日晚间，长鑫科技公告称，公司拟使用超募资金130亿元投资新建技术研发项目，同时拟通过增资和借款方式向全资子公司长鑫存储产品（合肥）有限公司提供超募资金50亿元，由其投资新建存储器晶圆后道测试基地二期项目，计划建设一座测试工厂，为DRAM存储芯片提供测试以及模组组装。上述项目投资总额分别为241亿元和108亿元，合计349亿元。9月28日，长鑫科技收跌4.27%，总市值3.65万亿元，位列A股第一。（红星新闻）</p>\n  <p><strong>Anthropic招股书曝光，2025财年营收达45.9亿美元</strong></p>\n  <p>据报道，一份招股说明书显示，Anthropic在面向IPO投资者的推介中提出了变革性人工智能技术的发展计划。说明书还显示，Anthropic 2025财年营收为45.9亿美元，同比增长1088%，但在扣除主要与此前融资相关的负债减值影响后，公司营业层面仍亏损超过80亿美元。</p>\n  <p>Anthropic表示，去年近四分之一营收来自两家客户，并在风险因素中警告称，其许多最大客户并未签署长期合同，未来可能削减或停止支出。这可能促使投资者在评估高增长企业高估值时更加谨慎。近期AI和芯片类股票出现抛售，而Anthropic此次上市也将进一步检验市场对AI投资的热情是否能够经受更严格审视。截至2025年12月31日，Anthropic持有现金、现金等价物及短期投资总额为202.8亿美元。招股书显示，Anthropic计划未来一年在云计算、计算资源和基础设施承诺方面投入5180亿美元。（财联社）</p>\n  <p><strong>Anthropic新规：客户用量触及额度上限后将不再享受折扣</strong></p>\n  <p>Anthropic正在向企业客户展现强势议价姿态：一旦客户用完合同内购买的全部Token额度，折扣待遇将直接取消。这一做法，给了OpenAI机会，采取更为灵活的定价策略。三家同时采购两家厂商AI服务的软件企业管理人员表示，尽管Anthropic与其主要竞争对手OpenAI都会对承诺每年数百万美元采购额的客户提供折扣，但Anthropic采取了一项比较特殊的规则：一旦客户触及合同约定用量上限，折扣即终止。这些人士称，达到额度上限的客户必须重新谈判签订新协议，否则就要按更高原价付费。（新浪财经）</p>\n  <p><strong>美股三大指数收盘集体走弱，蔚小理跌超4%</strong></p>\n  <p>36氪获悉，9月29日收盘，美股三大指数集体走弱，纳指跌0.09%，标普500跌0.17%，道指跌0.26%；大型科技股跌多涨少，苹果跌超2%，特斯拉跌超1%，英伟达、谷歌、微软小幅下跌，Meta涨超3%，亚马逊小幅上涨；热门中概股普跌，蔚来、小鹏集团、理想汽车跌超4%，爱奇艺跌超3%，哔哩哔哩、拼多多、京东跌超1%，阿里巴巴、百度小幅下跌，网易涨0.64%。</p>\n  <p><strong>OpenAI拟融资300亿美元，估值目标达1.4万亿美元</strong></p>\n  <p>据报道，OpenAI正计划筹集至少300亿美元资金，并寻求约1.4万亿美元估值。报道称，此轮融资可能作为IPO前的过渡性融资，为公司提供进一步扩张所需资本。OpenAI此前已于今年3月完成一轮融资，获得1220亿美元承诺资本，公司估值达到8520亿美元。OpenAI首席执行官山姆·奥特曼此前表示，公司不会在2026年上市，并称这一决定与人工智能安全方面的考虑有关。（界面新闻）</p>\n  <p><strong>特朗普：将通过行政令把“人工智能”更名为“超级智能”</strong></p>\n  <p>9月29日，特朗普表示，将签署强有力的人工智能命令，通过行政令把“人工智能”更名为“超级智能（Super Intelligence）”；绝不会扼杀AI的发展。（财联社）</p>\n  <p><strong>澜起科技成功量产DDR5-9200 CKD芯片</strong></p>\n  <p>36氪获悉，澜起科技宣布，其升级版DDR5时钟驱动器芯片（CK01P）已成功实现量产，旨在为下一代客户端内存模组提供稳定可靠的时钟驱动支持。</p>\n  <p><strong>深蓝和阿维塔将整合？长安汽车：成立协同发展部，聚焦中后台资源共享</strong></p>\n  <p>针对深蓝和阿维塔将整合运营的消息，长安汽车方面表示，“目前确实新成立了AD协同发展部，以推进阿维塔和深蓝两大品牌的战略性协同发展，主要聚焦在中后台的资源共享方面。”长安汽车强调，两个品牌的定位和规划不会改变，用户权益也不会受影响。通过对双方共享资源及产业链支持进行协调统筹，避免重复投入和资源浪费，从而进一步提升服务能力。针对两大品牌详细分工、推进计划等，对方表示具体信息尚未公布。（澎湃新闻）</p>\n  <p><strong>央行9月29日开展905亿元7天逆回购操作，操作利率为1.40%</strong></p>\n  <p>36氪获悉，央行9月29日开展905亿元7天逆回购操作，操作利率为1.40%。同时，开展了6985亿元隔夜逆回购操作。</p>\n  <p><strong>央行：下调抵押补充贷款（PSL）利率0.25个百分点</strong></p>\n  <p>36氪获悉，央行调整完善若干货币政策工具。下调抵押补充贷款（PSL）利率0.25个百分点。一年期抵押补充贷款利率从1.75%降至1.5%，更好激励政策性银行支持实体经济、服务国家战略。</p>\n  <p><strong>澳洲联储加息25个基点至4.6%</strong></p>\n  <p>澳洲联储加息25个基点至4.6%，符合市场预期，利率升至2011年11月以来最高。（财联社）</p>\n  <p><strong>机构：CPU交货周期延长至25-30周，AI代理推高需求</strong></p>\n  <p>36氪获悉，TrendForce指出，CPU交货周期已从通常的16-20周延长至25-30周，原因是Meta Muse等个人人工智能代理推高了市场对CPU的需求量。分析师们正在争论人工智能代理激发的CPU需求究竟有多大，但毫无疑问的是，CPU的需求增长前景已经确立，即使人工智能代理领域还在起步阶段。</p>\n  <p><strong>美光财报前夕，超级多头重申2000美元目标价</strong></p>\n  <p>在美光科技9月30日发布财报前夕，该存储芯片巨头的一位超级多头重申了对该股接近华尔街最高水平的2000美元目标价。D.A.戴维森分析师吉尔·卢里亚（Gil Luria）给出的这一目标价较美光科技最新收盘价高出约100%。Luria指出，内存是AI大模型运行关键，内存容量愈大、模型就越好，推理就越快、上下文窗口就越长。市场各方参与者都在反复表示，需求仍在暴涨，而新增供给至少还要等一年才会跟上。当前市场给出的估值倍数，已经在定价存储周期结束，但AI算力的需求仍在持续增长。（财联社）</p>\n  <p><strong>美债破5%掀起跨大西洋共振，欧洲也拉起“债务警报”？</strong></p>\n  <p>受访专家认为，主导长端利率质变的核心变量落在了“期限溢价”的重估上。美债风险溢价的持续上行正在大西洋彼岸引发共振。截至发稿，美国10年期国债收益率升至5.247%，在过去一个月上升了约49个基点。与此同时，欧洲主要国债市场各期限收益率也被动大幅走高，德国10年期国债收益率升至3.63%，刷新2009年以来高位；法国10年期公债收益率在9月28日触及4.77%，逼近2008年以来的历史峰值。（第一财经）</p>\n  <p><strong>OpenAI、Anthropic等AI科研负责人联名呼吁加强监管，警惕AI智能体失控</strong></p>\n  <p>OpenAI、Anthropic、Meta以及微软的研究负责人呼吁政策制定者，调查各家企业在AI研究自动化方面已经达到的程度，行业普遍呼吁加强对这项快速迭代技术的监管，上述研究者也加入这一行列。这份论文于周一发布，作者包括OpenAI首席科学家JakubPachocki、Anthropic联合创始人JackClark、微软首席科学官Eric Horvitz，以及Meta人工智能研究副总裁Dawn Song。文中提出，AI研究自动化可能触发一场“智能爆炸”。作者称，该现象会将数年的技术进展压缩至数月甚至更短时间内完成，其迭代速度将超出人类的理解能力。（新浪财经）</p>\n  <p><strong>英伟达追加创纪录1500亿美元股票回购</strong></p>\n  <p>受益于人工智能热潮带来的充沛现金，英伟达推出美国史上规模最大的股票回购方案。英伟达9月28日对外表示，董事会批准追加1500亿美元股份回购额度，公司全部回购授权总规模由此达到2350亿美元。英伟达在9月28日的演示材料中披露，投资组合涵盖13家上市公司以及229家非上市初创企业；已退出项目的投资回报超过投入本金的三倍。公司计划，将投资带来的超额自由现金流，通过股票回购以及“稳步提升的股息”回馈股东。（新浪财经）</p>\n  <p><strong>英伟达欲拉保险公司入场，为AI芯片融资风险兜底</strong></p>\n  <p>英伟达正在与保险公司展开洽谈，探讨如何分担其人工智能（AI）芯片贷款业务所伴随的风险。英伟达CEO黄仁勋认为，芯片应被视为一种“可投资资产类别”，用作在用户与投资者之间转移风险和成本。（财联社）</p>\n  <p><strong>OpenAI计划提供资金并成立工作组，以解决模型入侵澳大利亚网站事件</strong></p>\n  <p>OpenAI发表声明称，在智能体未经授权访问澳大利亚政府网站后，公司决定将成立一个澳大利亚特别工作组，为管理能力日益强大的AI智能体所带来的风险制定切实可行的政策建议。该工作组将重点改进通报流程，加强AI开发者与政府之间的协调，并确定更好地保护政府系统的措施。该工作组预计将于今年年底前完成工作。OpenAI还表示，将通过其10亿澳元的“Daybreak for Frontline Defenders”基金向澳大利亚政府和行业提供信贷，并为网络防御提供技术援助。此外，OpenAI称，公司首席战略官Jason Kwon将于10月6日在悉尼出席人工智能联合特别委员会的听证会。（界面新闻）</p>\n  <p><strong>三星电子高管称HBM明年将占行业DRAM产能近30%</strong></p>\n  <p>据报道，三星电子一位高管表示，高带宽内存（HBM）预计明年将占动态随机存取存储器（DRAM）芯片制造商总晶圆产能的近30%，高于目前约20%的水平。（界面新闻）</p>\n  <p><strong>OpenAI在英伟达130亿美元交易前以早期投资提议引发对Hugging Face的竞购</strong></p>\n  <p>据知情人士透露，在英伟达本月同意支付约130亿美元收购开源平台Hugging Face之前，OpenAI曾试图向这家初创公司投资1亿美元。作为两家公司潜在交易的一部分，Hugging Face原本会成为OpenAI定制芯片的分销渠道，该芯片代号为Jalapeño，由该公司与博通合作制造。一位消息人士称，谈判在早期阶段破裂。英伟达介入收购了Hugging Face，这是英伟达有史以来第二大收购，仅次于12月以200亿美元收购AI芯片初创公司Groq的资产。（新浪财经）</p>\n  <h2><strong>上市进行时</strong></h2>\n  <p><strong>罗博特科等四家公司9月29日登陆港交所</strong></p>\n  <p>罗博特科等四家公司9月29日将登陆港交所，合计募资144亿港元（18亿美元），今年火热的香港新股市场将迎来最繁忙的上市日之一。罗博特科香港上市募资6.6亿美元，在这四家公司中募资额最大。该公司在深圳上市的A股今年以来已上涨逾一倍。这家光伏及硅光领域自动化设备生产商此次香港上市引入淡马锡、晟天实业和易方达等基石投资者。数据显示，第三季度香港IPO、配股和大宗交易合计募资455亿美元，创同期纪录，仅略低于2021年创下的476亿美元历史单季最高水平。（新浪财经）</p>\n  <h2><strong>投融资</strong></h2>\n  <p><strong>“诺因智能”宣布完成单笔数亿元人民币天使+++轮融资</strong></p>\n  <p>36氪获悉，“诺因智能”近日宣布完成单笔数亿元人民币天使+++轮融资。本轮融资由京东相关基金领投，正心谷资本、南山战新投和华登投资跟投。距离上一轮5亿元融资，仅过去一个多月。</p>\n  <p><strong>“途见科技”完成亿元级Pre-A++轮融资</strong></p>\n  <p>36氪获悉，“途见科技”近日完成亿元级Pre-A++轮融资，由北京市人工智能产业投资基金和北京市新材料产业投资基金联合领投。资金将重点用于底层核心技术研发、自动化产线建设和工艺迭代，并完善具身智能数据采集工具与消费级终端的供应链配套，加快技术成果向终端产品转化。</p>\n  <p class=\"editor-note\"><strong>整理丨</strong>葡萄&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-09-30T00:01:53+00:00",
-      "fetched_at": "2026-09-30T03:42:39.565038+00:00",
-      "fingerprint": "d4e5e0866a955315"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "地卫二启动“太空之弦”千星蓝图，2028年对标SpaceX Starmind计划",
-      "url": "https://36kr.com/p/4005156110389120?f=rss",
-      "summary": "<p>2026年9月，中国商业航天进入一个密集爆发期，多家公司完成数亿元融资，还在一个月内完成至少10次航天发射，将44颗卫星送入轨道。</p>\n  <p>资本热度和密集发射共同指向一个趋势：商业航天正在从技术验证期转向规模化部署。但卫星发得越多，也越逼近“天感地算”路径的极限，进一步推动行业对太空计算的关注和布局。</p>\n  <p>9月25日，“太空之弦”计算星座计划启动仪式在杭州举行。按照现场公布的千星路线图，这个中国首个面向全球市场的太空计算星座，远期规划部署超过1000颗太空智能体，2027年计划发射G1星，计算负载11.5KW、算力40-60P（按现有算力推算）。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_cd3cf019bda34ddabd45c55dc0ffc7d2@5688585_oswg312970oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">G3概念示意图</p>\n  <p>“太空之弦”计算星座由三体计算星座共建方地卫二与东方星链共同推进建设。东方星链负责总体设计与运营，地卫二提供AI能力支持并拓展国际市场，推动“AI+航天”技术与全球数字服务需求衔接。</p>\n  <p>地卫二成立于2021年，致力于构建太空计算网络，提供太空计算系统、智能卫星、在轨星座运营、人工智能+大数据应用等服务。</p>\n  <p>东方星链联合创始人宋冰晨告诉36氪，地卫二给自己定下的目标是打造芯片、算法、模型一体化的太空智能体，“成为能思考、能决策、能进化的太空计算节点。”</p>\n  <p>目前，地卫二的业务已拓展至全球40余个国家，是中国首家实现卫星及地面系统海外交付的民营商业航天企业。2025年公司营收达1.3亿元，其中海外市场营收占比过半并实现盈利。</p>\n  <p><strong>1.打造芯片、算法、模型一体化的太空智能体</strong></p>\n  <p>今年8月5日，“太空之弦“计算星座的首发推理验证星——“东方星链05/06星”（东方慧眼高光谱AI双星）搭载地卫二自主研发的“弦”AI星载计算平台，由捷龙三号遥十二运载火箭成功发射。</p>\n  <p>2023年8月，搭载第一代“弦”平台的“地卫智能应急一号”发射入轨，当时算力为60TOPS，通过超百种算法实现星上即时观测、实时处理和太空智能，清除无效数据，再将计算结果回传地面。以一万平方公里卫星图像为例，传统卫星方式需要180天，智能卫星只需数小时在轨处理即可完成动态目标提取。</p>\n  <p>2024年“弦”平台算力进一步提升至400TOPS，但是将单星算力提升到400TOPS以上水平，需要在工程上系统性解决同步带来的能耗增加和散热难题。</p>\n  <p>在太空的真空环境下，芯片只能靠辐射实现散热，因此<strong>地卫二自研高导热复合材料，使导热能力提升至铝合金数倍，并配合使用展开式辐射器。宋冰晨透露，未来地卫二还将引入自研的热泵技术，进一步提高太空服务器的散热能力。</strong></p>\n  <p>地卫二创始人曾坦言，“现在我们和SpaceX相比，无论是火箭技术、卫星批量生产能力，还是资本规模，还不在一个量级。”</p>\n  <p>为实现千星蓝图，地卫二计划在三条技术路线上持续突破：一是与国内厂商研发抗辐照芯片，预计今年底将与清微智能部署全球首颗可重构芯片；二是探索钙钛矿等新材料，提升太阳能板转化效率；三是明年部署国内首个太空液冷智能体，优化卫星散热表现。</p>\n  <p><strong>2.先遥感后计算，从区域商用到全球商用</strong></p>\n  <p>截至2026年6月，两家公司的6颗卫星最长累计在轨时间超过2600天，积累了大量关于芯片在太空辐射环境下的实际表现数据。</p>\n  <p>过去几年，国内太空算力市场整体尚未实现商业化闭环，因此地卫二选择先用成熟的遥感数据服务赚钱、积累客户和信任，再逐步培养和叠加太空计算能力。而由于国内遥感卫星市场需求有限，加上团队中有一批中兴通讯出身，具有十几年海外市场经验的人才，海外市场成为地卫二实现市场化首先考虑的重点。</p>\n  <p>“中东、中亚和东南亚很多国家也渴望建立自己的航天能力和太空主权。”宋冰晨表示，<strong>地卫二通过采用“整星出口+数据服务+人才培训”的组合，切入第三世界国家这个被传统欧美航天体系忽略，但支付意愿强、竞争相对不激烈的缝隙市场。</strong></p>\n  <p>2024年11月11日，地卫二向阿曼交付了首颗“阿曼星”。这颗智能遥感卫星主载荷为一台全色分辨率1米、多光谱分辨率4米的光学相机，具备最长45分钟连续推扫成像能力，可应用于国土详查、城市规划、森林调查、灾害监测等领域。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_92f9ffef86ef4e558ce0b01ce24cf170@5688585_oswg71752oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">阿曼星太空自拍照</p>\n  <p>在轨运行两个月后，“阿曼星”已绕地球飞行1200多圈，完成300多次测控任务和100多次数传任务，接收数据量约3000GB，并成功实现在轨AI识别船只和飞机、天基分布式操作系统和天基遥感大模型的首次太空实践验证以及星地网络化联通。</p>\n  <p>中国没有民营公司做过卫星出口，我们不是摸着石头过河，是摸不着石头。”从接触客户、需求对接、方案设计、卫星研制、发射协调、在轨测试，到最终“阿曼星”成功发射，地卫二用了接近两年，跑通了从卫星出口审批、在轨交付到外汇结汇的全流程。“相当于自己开辟了一条原本不存在的商业道路。”</p>\n  <p>“阿曼星”的成功被写进了阿曼的中学课本，也成为地卫二打开更多海外市场的敲门砖。此后业务陆续拓展到印尼、乌兹别克斯坦、土耳其，以及南部非洲和中亚40多个国家。</p>\n  <p>在服务更多主权国家的过程中，地卫二针对不同大洲和地区的差异化需求，提供适应当地需要的产品组合。比如中东国家资金相对充足，更看重主权能力，需要整星出口和人才培养；东南亚国家关注农业、渔业等民生应用，主要购买数据和服务；非洲重视灾害预警和资源管理。</p>\n  <p>宋冰晨总结，“卫星出海”差异化服务背后共同的核心竞争力在于三点：<strong>技术实力是入场券，交付能力是信任基础，长期经营建立信任关系。</strong></p>\n  <p>而合规则是以上一切的大前提和生命线。“这个行业的特殊性决定了，我们宁可失去客户，也不能踩红线。”宋冰晨表示，地卫二在内部会进行从岗位培训、交付内控到审计规范的一整套培训，所有服务经过国家正规审批，不涉足军事等敏感领域。</p>\n  <p><strong>3.构建“遥感+计算+通信”战略框架，打造未来“太空商店”</strong></p>\n  <p>遥感数据服务作为公司现金流业务，支撑公司运营和客户积累，也是地卫二实现最终的“遥感+计算+通信”战略框架的第一步。</p>\n  <p>宋冰晨介绍，地卫二计划下一步将遥感卫星和计算卫星合二为一，形成感算一体卫星，用天基数据测试和验证计算平台的价值，逐步形成太空计算平台的核心产品。</p>\n  <p>太空计算星座要运转起来，通信能力是至关重要的前提。为了做到全链路能力自主，地卫二已在海外市场获得通信牌照，开始构建自己的通信网络。“弦”平台本身也已具备窄带通信、网络化分布式计算等功能。</p>\n  <p>“我们最终的目标是形成‘遥感+计算+通信’全链路自主可控、三大星座互为补充的太空能力，这是我们能够按自己的节奏推进千星蓝图的底层保障。“宋冰晨表示。</p>\n  <p>太空计算平台要实现商业闭环，前提是太空的综合成本比地面低，客户才会愿意买天上的算力。这也是地卫二选择先海外、再国内的原因之一。</p>\n  <p>“海外这些国家的地面算力成本比国内高很多，所以成本差的反转会来得更快。”宋冰晨表示，地卫二团队判断，太空计算实现全球商业闭环至少还需要7-10年，“我们可能在中东和一带一路国家先实现，大概在2031年前后。”</p>\n  <p>这个时间判断与多家国际投行对SpaceX轨道数据中心的成本建模测算相差不大。德意志银行2026年7月的测算显示，当前太空数据中心部署成本是地面的约6倍，到2032年SpaceX AI 2卫星阶段，发射成本降至每公斤170美元，成本倍数有望变为0.6倍。摩根士丹利也预测，SpaceX轨道计算成本到2031年可以降至���年每瓦6.5美元，低于地面数据中心的6.8美元。</p>\n  <p>宋冰晨认为，最终决定太空计算商业闭环时间的变量主要有两个。一是火箭发射成本。目前太空算力综合成本约为地面的8倍，其中很大一部分来自发射费用。二是技术迭代。包括芯片抗辐照能力、能源效率、散热效率、组网规模。</p>\n  <p>而在商业闭环实现之前，首先要完成技术闭环，也就是10P以上算力的卫星能在天上全时工作，随时接收数据，保持稳定推理并随时返回结果，“像地面数据中心一样稳定，从目前的技术来看还不实现，完全替代地面的数据中心在商业上也是伪命题。”宋冰晨说。</p>\n  <p>他将实现太空算力商业闭环的具体产品形态，描述为一个“太空商店”：卫星在轨运行后，可以像手机一样不断加载、删除、上传新算法，不同客户可以按需调用同一颗卫星的算力。</p>\n  <p>这一能力已经在地卫二过往产品中得到一定程度验证。2025年，地卫二与土耳其合作，通过星上算法动态部署，在同一颗卫星上先后完成了农业检测、城市规划和灾害评估三种不同任务。</p>\n  <p>“技术都已经实现了，真正的挑战在于生态。”宋冰晨表示，生态搭建需要更多开发者愿意为太空写算法，建立标准化的接口和付费体系，前提是星座规模足够大、能实现全时通信。而这正是“太空之弦”千星蓝图接下来要解决的问题。</p>",
-      "category": "tech",
-      "published_at": "2026-09-30T00:17:57+00:00",
-      "fetched_at": "2026-09-30T03:42:39.565031+00:00",
-      "fingerprint": "810cc4d9e93c5344"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "最前线丨打造“太空4S店”，未来宇航雄安智造基地启用，「锋行一号」首飞出征",
-      "url": "https://36kr.com/p/4005279658708868?f=rss",
-      "summary": "<p>9月29日，未来宇航雄安智能制造基地在雄安新区科创中心中试基地正式启用。仪式现场，未来宇航首款空间飞行器锋行一号（FX-1）从总装车间驶出，进入首飞前工程节点，后续将按计划开展在轨技术验证。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_268fa54145924ccba27d2a694643ee26@6413691_oswg259130oswg1916oswg1279_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">智能制造基地揭牌</p>\n  <p>未来宇航创始人兼CEO牛旼在现场表示，<strong>空间飞行器产业化不仅需要完成产品研发，更要建立与产品规模化交付相匹配的制造和测试能力。</strong>未来宇航将以雄安基地为重要支点，将工程能力落实到工程制造环节，在实际任务中沉淀经验，进一步提升产品成熟度，推动研发、制造与任务执行之间形成更为完整的工程链条。</p>\n  <p>近年来，雄安持续布局空天信息、卫星互联网等未来产业，截至目前已集聚69家空天信息企业、9个创新平台，依托应用场景与配套保障，推动产业链向研发、制造、测试、应用环节延伸。</p>\n  <p>据悉，本次落地雄安的智能制造基地，针对空间飞行器的工程制造需求搭建起覆盖总装集成、精密测量、性能测试、环境试验、数字化生产管理的制造测试体系，配置了自动化总装、智能转运等设备，按规划将形成约60台的年产能力。</p>\n  <p><strong>依托该制造基地以及雄安公共测试平台配套产业服务，未来宇航将进一步打通从产品总装、系统集成到测试验证的工程流程，推动研发成果向稳定制造和量产交付转化。</strong></p>\n  <p>过去十年，中国商业航天的叙事围绕着“造星”和“送星”展开。但当星座组网进入规模化阶段，成千上万颗卫星散布在不同的轨道面和轨道高度，“最后一公里”的精准投送正在成为产业链新的细分环节。</p>\n  <p>承接这一环节任务的装备叫轨道转移飞行器（Orbital Transfer Vehicle，OTV），也就是“太空摆渡车”——火箭像班车，把卫星统一送到初始站，而飞行器承接后续的轨道运输，让卫星从初始轨道抵达目标位置。</p>\n  <p>过去，这类轨道爬升任务大多依靠卫星自身推进系统完成，会消耗卫星推进剂，压缩在轨寿命。但当星座规模达到数万颗级别，这种方式在组网效率和成本结构上的矛盾越来越突出，对于可执行爬升与变轨任务的空间飞行器的需求随之显现。锋行一号正是基于此进行研发打造的。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_418e2fad148147fbaac20e5fc1ef085b@6413691_oswg271448oswg1922oswg1279_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">锋行一号（FX-1）从总装车间驶出</p>\n  <p>按照既定计划，锋行一号将于年内首飞并开展在轨技术验证。据项目负责人介绍，锋行一号入轨后将进行多轨道变轨任务，验证飞行器在不同轨道高度的工作稳定性，以及变轨期间避让空间碎片与其他航天器的可靠性；飞行器搭载的星敏感器还将采集空间碎片观测数据，为后续任务奠定基础。</p>\n  <p>在应用场景方面，空间飞行器目前仍以卫星部署任务为主，后续将逐步拓展至在轨维护、碎片清理等复杂场景。面向未来，未来宇航基于峰行系列提出了“太空4S店”概念，构建一站式在轨交付工程能力，面向卫星公司、科研机构及商业用户，提供从平台研制、载荷集成、轨道部署到在轨操控及数据应用的全链条服务。</p>",
-      "category": "tech",
-      "published_at": "2026-09-30T02:26:30+00:00",
-      "fetched_at": "2026-09-30T03:42:39.565016+00:00",
-      "fingerprint": "21b347e57f20467b"
-    },
-    {
-      "source": "少数派",
-      "title": "可塑的白昼：ColorOS17 深度评测",
-      "url": "https://sspai.com/post/114728",
-      "summary": "时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的SiriAI终于正式发布。Craig一句「 ...<a href=\"https://sspai.com/post/114728\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-29T03:28:25+00:00",
-      "fetched_at": "2026-09-30T03:42:38.041539+00:00",
-      "fingerprint": "398837a0f85388a5"
-    },
-    {
-      "source": "少数派",
-      "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
-      "url": "https://sspai.com/post/115061",
-      "summary": "全新 Apple Watch Series 12，有哪些可感知的升级？<a href=\"https://sspai.com/post/115061\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-29T07:44:46+00:00",
-      "fetched_at": "2026-09-30T03:42:38.041534+00:00",
-      "fingerprint": "0659343e5cb3078e"
-    },
-    {
-      "source": "少数派",
-      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
-      "url": "https://sspai.com/post/115153",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=\"https://sspai.com/post/115153\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-29T09:03:00+00:00",
-      "fetched_at": "2026-09-30T03:42:38.041529+00:00",
-      "fingerprint": "2adfa47994580c9c"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-      "url": "https://sspai.com/post/115197",
-      "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。<a href=\"https://sspai.com/post/115197\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-29T23:39:21+00:00",
-      "fetched_at": "2026-09-30T03:42:38.041519+00:00",
-      "fingerprint": "6059f6dd99286450"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6954 CNY ↓-0.38%",
-      "url": "https://www.frankfurter.app/2026-09-29?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-09-29</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6954 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0180 (-0.38%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-09-30T03:42:36.921452+00:00",
-      "fingerprint": "e2579adaccbcbfb8"
     }
   ]
 }
