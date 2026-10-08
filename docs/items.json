@@ -1,7 +1,247 @@
 {
-  "updated_at": "2026-10-07T03:59:04.450099+00:00",
-  "count": 143,
+  "updated_at": "2026-10-08T04:12:11.503707+00:00",
+  "count": 140,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
+      "category": "politics",
+      "published_at": "2026-10-08T03:00:50+00:00",
+      "fetched_at": "2026-10-08T04:12:11.289609+00:00",
+      "fingerprint": "a57b801d7a7f98a0"
+    },
+    {
+      "source": "BBC World News",
+      "title": "France's school protests: what lies behind the anger",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+      "summary": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
+      "category": "politics",
+      "published_at": "2026-10-08T03:38:46+00:00",
+      "fetched_at": "2026-10-08T04:12:11.289604+00:00",
+      "fingerprint": "db17a20213d576c0"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+      "category": "politics",
+      "published_at": "2026-10-08T00:09:17+00:00",
+      "fetched_at": "2026-10-08T04:12:11.289600+00:00",
+      "fingerprint": "e8901cdd20f5305a"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+      "category": "politics",
+      "published_at": "2026-10-08T03:02:06+00:00",
+      "fetched_at": "2026-10-08T04:12:11.289592+00:00",
+      "fingerprint": "7cd215739149b460"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「地球不只有一個北極」——怎麼講？",
+      "url": "https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "北極有不止一種定義，有些甚至不是固定不動的。",
+      "category": "politics",
+      "published_at": "2026-10-08T02:16:46+00:00",
+      "fetched_at": "2026-10-08T04:12:11.204961+00:00",
+      "fingerprint": "be6d5bef8044c76f"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
+      "url": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "俄羅斯一名實驗室技術員在西伯利亞一家鼠疫研究中心死亡，引發了人們對實驗室可能發生病毒洩漏的疑慮。",
+      "category": "politics",
+      "published_at": "2026-10-07T10:24:31+00:00",
+      "fetched_at": "2026-10-08T04:12:11.204949+00:00",
+      "fingerprint": "209d6d742b5b78ee"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "派拉蒙合併華納兄弟：可能以四種方式影響你的生活",
+      "url": "https://www.bbc.com/zhongwen/articles/cwvgdlgq3110o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "流媒體平台會漲價？CNN 和 CBS 獨立性如何保證？以及總計156部電影的上映承諾。",
+      "category": "politics",
+      "published_at": "2026-10-08T01:10:42+00:00",
+      "fetched_at": "2026-10-08T04:12:11.204940+00:00",
+      "fingerprint": "a96ec1b3b3d80930"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國中期選舉是甚麼？這是一份簡易指南",
+      "url": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國選民將於11月3日前往投票，這場選舉的結果可能對唐納德·特朗普（川普）的總統任期產生重大影響。",
+      "category": "politics",
+      "published_at": "2026-10-08T01:00:02+00:00",
+      "fetched_at": "2026-10-08T04:12:11.204925+00:00",
+      "fingerprint": "30e500462b029c87"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Cleo (Mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-08T04:12:10.759633+00:00",
+      "fingerprint": "ef2a483c89199d0a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-08T04:12:10.759510+00:00",
+      "fingerprint": "7a8cf8c0d5d68b4f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-08T04:12:10.759378+00:00",
+      "fingerprint": "27b1d0d72c90c8f7"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-08T04:12:10.759248+00:00",
+      "fingerprint": "39d2fed3d43463e5"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-08T04:12:10.759096+00:00",
+      "fingerprint": "cdb1d51fae043110"
+    },
+    {
+      "source": "The Verge",
+      "title": "We found some great October Prime Day deals under $50",
+      "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
+      "summary": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer a lot of practical value. Everything from chargers to [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-07T20:30:00+00:00",
+      "fetched_at": "2026-10-08T04:12:10.397362+00:00",
+      "fingerprint": "54889216cb682dba"
+    },
+    {
+      "source": "The Verge",
+      "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
+      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+      "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight from Android phones circa 2014. On every Googlebook keyboard, the F1, F2, and [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-07T20:44:34+00:00",
+      "fetched_at": "2026-10-08T04:12:10.397358+00:00",
+      "fingerprint": "cb9c440eefec8585"
+    },
+    {
+      "source": "The Verge",
+      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. But almost everything [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-07T21:19:54+00:00",
+      "fetched_at": "2026-10-08T04:12:10.397354+00:00",
+      "fingerprint": "3d4fe48f52fe06bb"
+    },
+    {
+      "source": "The Verge",
+      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-07T22:01:00+00:00",
+      "fetched_at": "2026-10-08T04:12:10.397345+00:00",
+      "fingerprint": "07f028a05d607400"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨中国航协回应东航空姐跪地道歉事件；DeepSeek新一轮融资逼近1000亿；安踏集团正式成为彪马最大股东",
+      "url": "https://36kr.com/p/4016467711316101?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>SpaceXAI官宣更名SpaceXSI</li>\n   <li>OpenAI将在欧盟为ChatGPT和Codex文本输出添加隐形水印</li>\n   <li>2026年诺贝尔化学奖、物理学奖揭晓</li>\n   <li>7-11便利店退出印度</li>\n   <li>苹果一号电脑或拍出80万美元</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>中国航协回应东航空姐跪地道歉事件</strong></p>\n  <p>10月7日，中国航协发文回应“东航空姐跪地道歉”事件。中国航协称，东航航班客舱服务中，餐车偶发触碰旅客，当班乘务员、乘务长多次致歉并开展服务补救后，该旅客仍对乘务员进行言语攻击与威胁。目前，东航已完成证据固定并正式报案。中国航协表示，乘务员人格尊严和履职权益受法律保护，旅客辱骂、恐吓工作人员已超出正常维权边界，涉嫌违反民用航空法和治安管理处罚法，并呼吁旅客文明乘机、理性维权。（澎湃新闻）</p>\n  <p><strong>DeepSeek新一轮融资逼近1000亿</strong></p>\n  <p>10月6日，据媒体报道，杭州深度求索人工智能基础技术研究有限公司（以下简称“DeepSeek”）已接近锁定最新一轮至少800亿元人民币融资，最终规模按已签署条款清单可逼近1000亿元，远超公司最初约500亿元募资目标。此前有报道称，DeepSeek本轮目标估值约5000亿元人民币，但未言明投前或投后估值。本轮融资规模或近千亿元，意味着DeepSeek实际估值水平并未较此前完成的首轮有明显提升。消息指出，以上融资程序接近收官，宁德时代与腾讯控股或成为承诺出资金额最高的投资方，且所筹资金将为公司IPO铺路。（21世纪经济报道）</p>\n  <p><strong>安踏集团完成收购彪马29.06%股权，正式成为最大股东</strong></p>\n  <p>36氪获悉，10月7日，安踏体育用品有限公司宣布，已完成以15.055亿欧元现金对价向Pinault家族的投资公司Artémis SAS收购全球标志性运动品牌彪马（PUMA）所属公司PUMA SE 29.06%股权的交易，并已获得所有相关监管机构批准及满足惯例交割条件，安踏集团正式成为彪马的第一大股东。</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI面向全球所有ChatGPT用户全面上线GPT-6</strong></p>\n  <p>OpenAI面向全球所有ChatGPT免费及付费用户全面上线GPT-6，正式取代GPT-5.6 SOL与GPT-5.6 LUNA。GPT-6集成Astra安全技术改进，强化针对网络、生物与暴力领域滥用的防护。（财联社）</p>\n  <p><strong>马斯克率先为AI改名，SpaceXAI官宣更名SpaceXSI</strong></p>\n  <p>10月4日，马斯克在社交平台X上正式确认，旗下人工智能业务SpaceXAI将更名为SpaceXSI。他在回复网友提问时直接表态：“是的，我们会做出这个改变”，并补充称“不再叫AI，叫SI，这样更好”。随后，马斯克还发文宣称“SpaceX是一家超级智能公司”。这意味着，SpaceXAI在短短数月内将迎来第二次品牌更名。今年2月，马斯克旗下的航天公司SpaceX以全股票方式收购了他创立的人工智能公司xAI，Grok大模型和社交平台X也随之并入SpaceX体系。7月，xAI正式完成品牌重组，更名为SpaceXAI，同步更换了标识和X平台用户名。（新浪财经）</p>\n  <p><strong>谷歌AI图像模型Nano Banana 2.1发布，提升视觉设计、蒙版编辑、主体一致性</strong></p>\n  <p>IT之家10月7日消息，谷歌于今日正式发布了Nano Banana 2.1，这是该公司AI图像生成与编辑模型的升级版本。谷歌强调，新版Nano Banana 2.1实现了全方位提升，在视觉设计、基于蒙版的图像编辑以及主体一致性这几方面的进步尤为突出。改进后的主体一致性对于Gemini用户而言实用性很强，可以保证同一个人物或者物体在多次生成结果当中保持样貌统一。谷歌Nano Banana 2.1现已逐步部署上线，覆盖Gemini应用、谷歌搜索的AI模式、Google AI Studio、Google Flow、Stitch、谷歌广告以及Gemini企业平台。（IT之家）</p>\n  <p><strong>OpenAI将在欧盟为ChatGPT和Codex文本输出添加隐形水印</strong></p>\n  <p>IT之家10月5日消息，OpenAI今日宣布，为配合《欧盟人工智能法案》的内容透明要求，未来几周将在欧盟地区符合条件的ChatGPT和Codex文本输出中加入机器可识别的隐形水印。据介绍，文本水印技术名为textGrain（文本粒水印），会在模型选词过程中嵌入不可见的统计信号。检测器通过识别该信号，判断一段文本是否带有OpenAI水印。据了解，OpenAI下一步将在欧盟推广文本水印。未来几周，团队将仅在欧盟所有计划中向符合条件的ChatGPT和Codex用户引入文本水印功能。值得一提的是，OpenAI不会在发布时将文本水印设为全球默认。（IT之家）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>星巴克回应“无糖饮料”含糖</strong></p>\n  <p>10月6日，据中新经纬消息，近日有消费者在美国西雅图地区发起诉讼，指控星巴克八款蛋白饮料虽标注“无糖（Sugar-Free）”，但实际上含有不同量的糖，涉嫌虚假宣传。界面新闻查询星巴克美国官网看到，一款16盎司的冰无糖香草蛋白拿铁，营养表中明确标注含糖量为9克；同规格热款无糖香草蛋白抹茶，总糖含量达到16克，更大杯型20盎司版本总糖甚至达到20克。产品配料表写有牛奶以及乳清分离蛋白（来源于牛奶）。对此，星巴克方面表示，饮料中的糖分来自牛奶，产品本身没有加糖，使用了无糖糖浆调味。星巴克发言人则称，“公司一直持续、清晰地在产品公告、菜单、营销材料、官网和APP中，提供其蛋白质饮料、无糖选项、定制选择和营养成分的有关产品信息，我们打算坚决辩护。”</p>\n  <p><strong>2026年诺贝尔化学奖揭晓，2名科学家获奖</strong></p>\n  <p>当地时间10月7日，瑞典皇家科学院决定将2026年诺贝尔化学奖授予2名科学家。奖项授予亨利·卡根（Henri Kagan）和硤合宪三（Kenso Soai），以表彰他们在不对称有机合成中的非线性效应和自催化方面的发现。获奖者将平分1200万瑞典克朗（约合802万元人民币）奖金。（中国基金报）</p>\n  <p><strong>苹果强制开发者适配iPhone Duo</strong></p>\n  <p>苹果首款折叠屏手机iPhone Duo将于10月23日正式发售，苹果出台相关强制适配规则，明确自2027年4月起，所有应用必须提供iPhone Duo适配专属截图，否则将无法更新上架。目前该要求尚处于过渡期，未完成适配的旧应用仍可正常运行，若到2027年4月后相关应用仍未补齐对应适配截图，将无法进行更新操作。（凤凰网科技）</p>\n  <p><strong>保时捷：计划员工规模削减25%，汽车业务净现金流利润率目标9%-12%</strong></p>\n  <p>保时捷在资本市场日发布会材料中表示，集团中期目标销售营业回报率为10%-15%，汽车业务净现金流利润率目标9%-12%。长期目标为集团销售营业回报率15%，汽车业务净现金流利润率12%。集团中期营收目标区间410亿欧元至450亿欧元，现金生成能力预计实现超比例增长。公司计划通过精益运营与成本削减，将盈亏平衡点降至20万辆以下。公司中期管理层岗位裁减40%。员工规模削减25%，战略目标为裁减30%。（新浪财经）</p>\n  <p><strong>苹果一号电脑或拍出80万美元</strong></p>\n  <p>一台罕见的苹果一号电脑正在邦瀚斯拍卖行进行线上拍卖，开放竞价日期为本月（10月）4日至14日，估价为50万美元至80万美元。据拍卖行介绍，这台电脑由原主人于1976年购入，主板上有苹果联合创始人沃兹尼亚克的签名。苹果一号电脑是苹果公司的首款电脑产品，以组装好的电路板形式出售，当时售价666美元，目前确认存世的不足75台。（央视财经）</p>\n  <p><strong>美联储10月维持利率不变的概率为80.6%</strong></p>\n  <p>据CME“美联储观察”：美联储到10月维持利率不变的概率为80.6%，累计加息25个基点的概率为19.4%。美联储到12月维持利率不变的概率为21.7%，累计加息25个基点的概率64.1%，累计加息50个基点的概率为14.2%。（财联社）</p>\n  <p><strong>国际能源署成员国同意加快释放1亿桶石油储备</strong></p>\n  <p>当地时间7日，国际能源署（IEA）发表声明说，其成员国政府同意加快落实今年3月宣布的石油储备释放计划。若此前承诺但尚未释放的储备全部投放市场，预计还可释放约1亿桶石油。声明还说，针对当前柴油市场供应紧张的情况，其成员国同意在条件允许的情况下优先投放柴油。（央视新闻）</p>\n  <p><strong>美股三大指数收盘集体下跌，大型科技股涨跌不一</strong></p>\n  <p>36氪获悉，10月8日收盘，美股三大指数集体下跌，道指跌0.66%，纳指跌0.22%，标普500指数跌0.22%。大型科技股涨跌不一，奈飞、亚马逊涨超1%，苹果、谷歌、英特尔、微软小幅上涨；SK海力士、Meta跌超2%，特斯拉、英伟达小幅下跌。热门中概股涨跌互现，京东涨2%，蔚来、网易涨超1%，理想汽车、小鹏集团小幅上涨；富途控股跌超3%，阿里巴巴、百度跌超2%，老虎证券跌超1%。</p>\n  <p><strong>印度央行近四年来首次加息，暗示可能进一步收紧货币政策</strong></p>\n  <p>印度央行近四年来首次加息，随着通货膨胀加剧和货币贬值，印度央行也和亚洲其他央行一道收紧货币政策。印度央行货币政策委员会一致投票决定提高基准利率25个基点至5.5%，符合彭博调查所得大多数经济学家的预测。这是自Sanjay Malhotra于2024年12月出任行长以来首次加息。印度央行将货币政策立场从“中性”调整为“校准式收紧”，释放出未来可能进一步加息的信号。（新浪财经）</p>\n  <p><strong>7-11便利店退出印度</strong></p>\n  <p>据新华社报道，日本零售业巨头7&amp;I控股公司6日发布声明说，其旗下连锁便利店品牌7-11位于印度的所有门店均已关闭。法新社援引7&amp;I控股公司发言人消息报道，获得相关特许经营权后，信实零售公司2021年10月在孟买开设了印度的首家7-11便利店，发展最好的时候在印度共开店约60家。声明中，7&amp;I控股公司未说明7-11便利店退出印度的原因。但据《读卖新闻》等日本媒体报道，7-11便利店遭遇了来自印度本土零售商的激烈竞争。（新华社）</p>\n  <p><strong>2026年诺贝尔物理学奖揭晓</strong></p>\n  <p>当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台的决定性贡献以及对天体物理来源高能中微子的发现。（央视新闻）</p>\n  <p><strong>2026国庆档总票房破11亿</strong></p>\n  <p>36氪获悉，据灯塔专业版消息，2026年国庆档（10月1日—10月7日）档期总票房突破11亿，《神探之痕迹》《什么意思夫妇》《生化危机：爆发夜》《欢迎来龙餐馆》《小猪佩奇·完美假期》位列档期票房前五。</p>\n  <p><strong>派拉蒙天舞完成对华纳兄弟收购</strong></p>\n  <p>经过数月的竞购角逐以及法律拉锯战，派拉蒙天舞公司10月6日宣布完成对华纳兄弟探索公司价值约1100亿美元的收购，打造出一家横跨好莱坞和新闻行业的全新超级传媒集团。这是美国传媒行业历史上规模最大的并购交易之一。（新华社）</p>\n  <p><strong>中国央行连续第23个月增持黄金</strong></p>\n  <p>中国9月末黄金储备报7747万盎司（约2409.59吨），环比增加74万盎司（约23.02吨），8月末黄金储备报7673万盎司（约2386.57吨）。中国央行已连续第23个月增持黄金。（财联社）</p>\n  <p><strong>三星电机计划斥资近50亿美元在韩国和越南扩产半导体基板</strong></p>\n  <p>据报道，三星电机计划到2028年在韩国和越南投资近50亿美元，用于半导体基板生产，进一步提升越南在人工智能服务器和高性能计算关键零部件生产中的地位。其中一项投资规模为4.27万亿韩元（32亿美元），用于韩国世宗工厂，是公司迄今针对单一产品进行的最大规模投资；另一项投资规模为2.51万亿韩元（18.7亿美元），用于越南子公司。该公司曾于2022年宣布将在越南北部太原省测试FC-BGA基板。如今该设施的扩建表明试生产结果符合预期，公司已准备好进入大规模量产阶段。（财联社）</p>\n  <p><strong>国内航线燃油附加费将上涨</strong></p>\n  <p>10月6日消息，根据航班管家DAST，航司最新通知，自10月10日起，国内航线燃油附加费将上调：800公里以上航段收取90元，比8月、9月涨20元；800公里以下收取50元，比8月、9月涨10元。（第一财经）</p>\n  <p><strong>全球纯燃油车新车销量占比首次跌破50%，上半年纯汽油车占比降至49%</strong></p>\n  <p>据财联社报道，Mobility Global最新数据显示，2026年上半年，纯汽油车型占全球新车销量的49%，这是历史上纯汽油车销量占比首次跌破五成，且较2021年的73%大幅下降了24%。数据还显示，今年上半年，整体汽车市场规模收缩约5%，而纯汽油车销量的下滑幅度达到了大盘的两倍。业内人士将市场加速转变归因于油价。即受中东冲突影响，燃油价格大幅飙升，消费者开始寻求用车成本更低的车型。（财联社）</p>\n  <p><strong>SpaceX据悉拟融资400亿美元用于购买英伟达芯片</strong></p>\n  <p>媒体援引知情人士报道称，马斯克旗下的SpaceX正寻求融资400亿美元，用于购买英伟达芯片，凸显人工智能（AI）算力需求依然强劲。该报道称，SpaceX寻求约100亿美元银行贷款并计划发行300亿美元投资级债券，为芯片采购融资。阿波罗全球管理预计将牵头这笔交易，并协助向投资者出售SpaceX债券。交易预计于2027年完成。（新浪财经）</p>\n  <p><strong>俄罗斯辟谣肺鼠疫传言</strong></p>\n  <p>据环球时报援引法新社等媒体6日报道，在有报道称俄罗斯伊尔库茨克地区一名实验室技术人员疑似感染肺鼠疫身亡后，俄罗斯方面否认正在实施针对肺鼠疫的防疫措施，并就社交媒体上的传言做出澄清。据了解，近日俄罗斯当地媒体报道称，这名死者可能因试管破裂而感染了肺鼠疫，200名可能与她有过接触的人员已被隔离。伊尔库茨克州州长科布泽夫表示，俄罗斯消费者权益保护和公益监督局的检查发现，该女子死于肺炎，但具体病因“未确定”。（环球时报）</p>\n  <p><strong>恒生科技指数将把成分股扩充至50只</strong></p>\n  <p>恒生指数公司宣布恒生科技指数咨询结果，将对恒生科技指数进行六项改革，并将于12月实施。第一，取消合资格候选公司必须属于恒生行业分类系统五个指定行业的要求。第二，整合及拓展现有主题，并新增前沿科技主题。修订后的六大科技主题为：数码平台及解决方案；人工智能；先进硬件；机器人及自动化；云端；前沿科技。第三，将科技子主题由16个增至24个，以配合上述六大科技主题的修订。第四，引入分组选股机制，将选股范畴由主板上市公司修订至恒生综合大中型股指数成份股。第五，采用双组别选股机制，分别以市值排名及收入增长排名作为选股准则。非现有成份股另须符合过去三个月日均成交额最少一亿港元的要求；按收入增长排名入选的成份股，则须于最近连续两个财政年度均录得最少五亿港元的年收入。第六，将成份股数目由30只增加至50只，其中按市值排名选取首40只，余下10只则按过去十二���月的收入增长排名选取。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>快手可灵AI计划最早明年赴港上市，至少融资10亿美元</strong></p>\n  <p>据了解，快手旗下视频生成大模型可灵AI计划最早明年赴港上市，至少融资10亿美元。（财联社）</p>\n  <h2>投融资</h2>\n  <p><strong>月之暗面据悉完成IPO前融资，最新估值约500亿美元</strong></p>\n  <p>据知情人士透露，月之暗面已经完成最后一轮私募融资，估值约500亿美元，并正推进明年第一季度在香港进行首次公开募股（IPO）。（新浪财经）</p>\n  <p><strong>多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资</strong></p>\n  <p>知情人士称，包括MGX在内的多家阿联酋投资基金正在与OpenAI洽谈，可能参与这家人工智能巨头最新一轮300亿美元融资。其中一位知情人士表示，这些基金将组成一个财团参与OpenAI这轮融资。另一位人士称，这些阿联酋基金讨论的合计投资金额最高达到100亿美元。知情人士表示，贝莱德也在商谈参与这轮融资。融资仍在进行中，具体条款可能发生变化。因涉及未公开信息，这些知情人士要求匿名。（智通财经）</p>\n  <h2>酷产品</h2>\n  <p><strong>苹果与LG联合开发门铃门锁等</strong></p>\n  <p>据报道，苹果公司即将进军智能家居设备领域，新品将包括与LG电子联合开发的门铃、温控器以及其他配件。这些产品将纳入一个设备生态系统，该系统不仅支持苹果的新款智能家居中枢，还可以搭配升级后的HomePod mini和全新的电视机顶盒使用。报道称，与LG电子联合开发的产品还包括智能门锁、室内安防摄像头、室外安防摄像头以及泛光灯摄像头，产品将使用LG品牌对外发售。（财联社）</p>\n  <p class=\"editor-note\"><strong>整理丨</strong>昌怡</p>",
+      "category": "tech",
+      "published_at": "2026-10-08T00:04:11+00:00",
+      "fetched_at": "2026-10-08T04:12:10.220396+00:00",
+      "fingerprint": "f5e9ff96110f1c5a"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "深创投、元禾原点押注一家水下机器人，9个月内已完成5轮融资丨36氪首发",
+      "url": "https://36kr.com/p/4016617284014210?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_6bbddb851b8e4b2aac0302863ab4c161@6221844_oswg2657809oswg1683oswg935_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2900</strong>字，建议阅读<strong>6</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，海洋具身智能公司卫澜深海在9个月内已完成5轮融资，轮次推进至天使++++轮，核心股东包括深创投、元禾原点、国策资本等机构，老股东英诺天使持续加注。资金主要用于训练水下具身智能模型，建设水下具身智能训练中心，以及深化机器人在海洋油气能源场景下的应用。卫澜深海想做的事情，可以用一句话概括：用机器人拓展人类的海洋能力边界，代替昂贵且危险的水下人工作业。</p>\n  <p>创始人张大禹98年出生，西安交通大学博士、助理教授，拥有12年水下无人系统研发经验，高中起申请发明专利30余项，发表顶刊论文10余篇，主持2项国家级项目。卫澜深海已经组建了覆盖具身智能研发、工业部门国家队、水下能源行业市场的全链条顶尖团队。卫澜深海CTO是出身中国船舶集团的总设计师，主持型号装备等十余项国家级重大科研项目，总经费超过20亿元。</p>\n  <p>卫澜深海聚焦海洋具身智能机器人领域，专注海洋具身智能平台技术研发以及水下机器人产业应用。公司已经构建由真实业务驱动的具身智能数据训练管线，通过“通用平台+模块化载荷”的方式实现水下泛化作业能力。目前公司已经为海洋业主客户交付海底能源设施全自主巡检作业服务。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_14042a2ef0e341f5aa8e6c4cac33ed9e@6221844_oswg73297oswg813oswg338_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>海洋当中藏有3倍于陆上的巨量资源，但人类不是水生生物。即使经过数百万年的进化，海平面以下仍然是人难以触及的高危环境；即使通过复杂的水下作业保障体系，潜水员也只能形成极为有限的作业能力——人在水下待不住，也待不起。卫澜深海研发的「超级蛙人号」海洋具身智能机器人就是要突破人类在水下能力边界，在海平面以下完成自主作业，去挖掘数百年来人类尚未触及的海底宝藏。</p>\n  <p>在海洋环境中，一个具身智能机器人的价值不仅仅是代替了一个劳动力，而是代替了整个水下作业保障体系。深度超过120米的饱和潜水作业需要一艘专业的饱和潜水支持船和数十名保障人员，报价超过100万元/天。人工水下作业保障体系的巨大成本是海洋具身智能的收益率。另外，在海洋环境中具身智能机器人硬件条件更容易超越人。即使对标���英潜水员，机器人的下潜深度是潜水员的5倍以上，机器人的作业范围是潜水员的千倍以上，可达到200公里。因此，水下作业极有可能是具身智能首个大规模代替人类的场景。</p>\n  <p>海洋环境与陆地环境有巨大差别，研发在海洋可随时调用的具身智能机器人需解决三方面问题。第1个是水下感知问题。因为水和空气是不同的介质，可见光在水下的衰减频率远高于陆地上，简言之，水下难以看清10米之外的物体。第2个是可靠性问题。水下作业场景对任务成功率和可靠性指标要求严苛，水下的作业对象是昂贵的海底基建，如果机器人不能有效应对corner case，将面临停产等重大损失。第3个是能源问题。水下作业区域距离岸上电网极远，且需覆盖的水下作业区域跨度极大。</p>\n  <p>为了解决以上三大问题，卫澜深海研发了「超级蛙人号」海洋具身智能机器人，其中“水下机器人通用平台”负责远程投送和水下灵巧作业，“海底星链基座”作为水下能源通讯载体。“水下机器人通用平台”的声光磁跨尺度感知融合方案把声学、光学和磁场信息融合，使机器人获得超人类的水下感知能力，机器人可以像海豚一样直接处理声呐信息。“海底星链基座”突破了深海超低流速启动问题和叶轮偏航问题，可在全海域全海底地形实现快速部署，为水下机器人平台提供能源和通讯支持。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_22b1a5c9b46743e7be7566e96263670e@6221844_oswg165627oswg1080oswg697_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>硬氪了解到，“水下机器人通用平台”的水下定位精度误差不超过1米、准确率达95%以上，双6自由度机械臂负载10公斤以上，续航48小时，最大航速12节，具备3节全向抗流能力，可以在恶劣的海况下完成精细水下作业。“海底星链基座”的能量捕获面积可达10平方米，是机器人投影面积的数十倍，可以达到动力电池级别的水下供电能力。作为对比，波音公司发布的“Lamprey”水下智能机器人的捕能面积仅能达到机器人投影面积的50%，难以提供千瓦级的水下供电能力。对比诺斯罗普·格鲁曼公司的温差能方案以及Pliant Energy Systems的介电体捕能方案，卫澜深海在水下供电能力和系统可靠性方面处于国际领先地位。</p>\n  <p>经过十余年的技术积累，卫澜深海目前已经交付了第四代“超级蛙人号”海洋具身智能机器人，为海洋业主客户完成了海底能源设施全自主巡检作业项目。</p>\n  <p>“目前用机器人代替水下作业是行业共识，但技术路线还没有收敛。”张大禹说。卫澜深海强调“错位合作”——卫澜深海第一步先在海洋业主客户的存量海底基建中打通垂向应用场景，再随海洋产业的增量市场做泛化水下作业。</p>\n  <p>在完全实现水下作业无人化方面，他给了一条类似L2到L3自动驾驶的路线：先基于仿真器数据训练一个基础作业模型，将搭载了预训练模型的机器人嵌入现有水下基建维保流程中，让机器人处于人可实时干预修正的条件下完成自主作业，在部署阶段不断收集作业数据和人类的反馈数据，这些数据用于不断训练作业模型，逐渐从人在环路过渡到全自主无人干预的水下作业。</p>\n  <p><strong>以下为硬氪与公司创始人张大禹的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：卫澜深海的商业化路径是怎样的？&nbsp;</strong></p>\n  <p><strong>张大禹：</strong>水下作业市场，客户最关心的是你能不能把水下作业需求干完、干好，而不是你的模型参数和泛化能力。因此，我们商业模式分三步：做示范性项目、卖标准化服务能力、卖机器人。</p>\n  <p>我们第一步不是卖整机，而是用标准化服务能力绑定大客户。先完成2到3个强示范性服务案例，验证新模式的效率以及成本优势，进而推动大量的标准化服务，整合行业水下作业标准，搭建水下无人作业体系，最后，退回到整机供应商，以“通用平台+模块化载荷”的方式在确保产品可靠性的同时，实现水下泛化作业能力。</p>\n  <p><strong>硬氪：水下感知是困扰行业几十年的难题，卫澜深海的解法是什么？</strong></p>\n  <p><strong>张大禹：</strong>水下感知最大的问题是数据缺失。岸上可以用互联网级别的数据训练VLA模型，水下几乎没有声光磁同步数据。所以我们开发了水下具身智能仿真器，具备声场、视觉和磁场的感知训练能力，可以在模拟不同水域的水下作业场景并生成大量数据，目标是把声学、视觉和磁场信息融合，让机器人像海豚一样直接处理声呐信息，而不是先看到一个声呐图像再去二次判别。这需要大量的数据和基模相关的工作，也是我们目前投入最多的方向。</p>\n  <p><strong>硬氪：公司目前阶段最大的挑战是什么？</strong></p>\n  <p><strong>张大禹：</strong>我们有两个核心问题需要解决。第一是水下数据问题，我们开发了水下具身智能仿真器并跑通了由真实业务驱动的数据管线。第二是极致的机器人可靠性。如果只做移动观测平台，可靠性可以满足；但要做物理交互，比如用机械手拧阀门，需要更强的可靠性以及对corner case的处置能力。水下环境中一旦机器人卡死，将造成严重的安全事故。我们今年要完成长时间无故障运行，这是最关键的挑战。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>深创投：</strong>海平面以下是全球最大的高危环境，也是迫切需要具身智能代替人类的场景。在这个领域需要强大的正向研发能力，才能克服海洋中的难题，进而开发人类未曾开发的宝藏。我很高兴看到卫澜深海团队在海洋具身智能领域的积累和进步，期待他们在建设海洋强国的路途上闯出一片天地。</p>\n  <p><strong>元禾原点：</strong>3.6亿平方公里的海洋孕育着无限机遇，在人难以触及的环境中去拓展人类能力边界，可以彻底开发巨量海洋资源。我很看好卫澜深海团队在水下能源供应和自主作业方面的技术积累，期待他们的水下作业解决方案可以改变行业，拉近人类和海洋的距离，在向海图强的国家战略中贡献自己的力量。</p>",
+      "category": "tech",
+      "published_at": "2026-10-08T02:35:03+00:00",
+      "fetched_at": "2026-10-08T04:12:10.220385+00:00",
+      "fingerprint": "847ea099c552de7e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
+      "url": "https://36kr.com/p/4016645063217281?f=rss",
+      "summary": "<p>硬氪获悉，智能眼镜品牌NIMO所属公司比特幻境近日完成数亿元人民币天使轮融资，最新估值达15亿元。本轮投资方包括博华资本、戈壁创投、元禾璞华，以及尚势资本等相关投资机构。融资资金将主要用于产品研发、渠道拓展及海外市场布局。</p>\n  <p>比特幻境成立于2025年7月，2026f年4月，NIMO将收首款产品推向市场。目前，NIMO月度销售规模已达数千台，正持续推进产品在LOHO线下门店的布局,并已与香港上市公司、拥有逾50年行业积累的国际眼镜制造商雅视光学(01120.HK)达成深度合作。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_160356abc10c42ae89b193938461f236@6310669_oswg78086oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">NIMO首款产品</p>\n  <p>如果把过去几年的智能眼镜看作一场功能竞赛，NIMO试图走的是另一条路——先把智能眼镜重新做成一副“愿意戴”的眼镜。这源于创始团队的观察：在资本持续关注智能眼镜的同时，现实生活中普通人仍然很难频繁看到身边有人佩戴智能眼镜。</p>\n  <p>联合创始人何迪龙判断，这个品类真正要跨过的门槛，并不只是显示、AI或芯片能力，而是能否让智能功能自然进入眼镜原本的形态、佩戴和消费逻辑。</p>\n  <p>在这一理念上，NIMO的定位为时尚科技眼镜品牌，团队给产品设定的前提并不是“在眼镜上增加多少智能功能”，而是首先让它成为一副具备日常佩戴属性的眼镜——外形、比例、材质、触感和佩戴舒适度，都需要回到传统眼镜的评价体系中。</p>\n  <p>这一判断也直接影响了NIMO对产品功能的取舍。相比把摄像头、音频、更多主控芯片等能力尽可能塞进镜框，NIMO在首款产品中主动砍掉了部分功能，把有限的重量和空间留给显示、结构和佩戴体验。</p>\n  <p>何迪龙提到，NIMO在调研了大量用户需求后发现，眼镜的佩戴舒适是用户选择购买智能眼镜的第一需求，拍照和扬声器极大的增加了产品体积，让用户产生了佩戴不适感，对极致的重量追求最终导致NIMO做出了功能取舍，“同时我们也在定制全新的摄像头和扬声器方案在未来给到用户更多的场景选择。”</p>\n  <p>这种“先做一副好眼镜”的产品定义，最终落到了光学、结构和材料等一系列技术选择上。</p>\n  <p>显示系统的起点，是一枚尺寸仅0.06英寸的MicroLED微显示芯片。据了解，该芯片属于全球最小尺寸的量产硅基微显示产品，功耗较同类芯片降低70%。微型化的显示核心，为光机与整机设计释放出更多空间；更低的显示能耗，则为产品在保持轻量化的同时实现更长续航提供支持。</p>\n  <p>围绕这枚微显示芯片，NIMO将自研超微型光机的体积压缩至0.03cc，即30立方毫米，并将投射影像的光学核心集成于镜腿前端的铰链区域，让复杂的显示能力隐入眼镜原本的轮廓。</p>\n  <p>与之配合的，是厚度0.6mm的体全息波导镜片。通过近乎隐形的光栅设计与精细的漏光控制，镜片在呈现信息的同时，保持通透自然的外观，减少显示时向外透出的绿光。</p>\n  <p>轻量化则是另一条贯穿产品设计的技术路径。NIMO目前产品重量约29克，何迪龙称，这是行业内首次实现显示类AI眼镜做到30g以内，镜框采用高分子复合碳纤维材质，结构中使用β钛合金铰链，并通过前端光机、镜腿尾部电池以及两侧元件的布局进行配重。</p>\n  <p>对智能眼镜而言，重量本身只是一个结果，更关键的是重量落在哪里、镜腿是否产生压迫，以及长时间佩戴后的实际感受。因此，NIMO并没有把“29克”单独作为产品卖点，而是把材料、结构、铰链和前后配重放在同一个系统里考虑。采访中团队也提到，传统眼镜的制造工艺，如抛光，电镀等后工艺同样被纳入产品开发，这背后的逻辑是让智能眼镜在电子产品之外，也具备传统眼镜对触感、表面和结构细节的要求。</p>\n  <p>在供应链上，NIMO采取的并不是简单采购标准件的方式，而是试图把上游供应链拉进共同研发。何迪龙表示，部分关键器件并没有现成的成熟方案，而是由NIMO提出产品需求和技术方案，再与供应商共同完成开发。例如0.03cc微型光机，就是围绕镜腿空间重新定义后的结果。</p>\n  <p>商业化层面，NIMO也选择了一条更接近传统眼镜行业的路径。谈及线下合作，何迪龙告诉硬氪，对于NIMO而言，线下门店并不只是增加一个销售入口，而是因为智能眼镜依然需要面对传统眼镜行业的验配、试戴、镜片更换、售后和用户教育等问题——如果产品的第一属性仍然是“眼镜”，那么它就需要进入用户原本购买眼镜的场景。</p>\n  <p>从更长期来看，NIMO希望智能逐渐成为眼镜自然拥有的一种能力，让用户仍然基于审美、佩戴需求和生活方式选择眼镜，同时获得显示和智能功能。“最终我们希望NIMO做的并不只是一个单一的智能眼镜产品，而是把眼镜本身、智能能力和未来的应用生态结合起来，让智能眼镜真正成为一个用户愿意长期佩戴的产品。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_12a499929bf74c099e2dfa78de43a1e0@6310669_oswg82228oswg900oswg900_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">NIMO首款产品</p>\n  <p><strong>以下是硬氪与NIMO联合创始人何迪龙的访谈节选：</strong></p>\n  <p><strong>硬氪：NIMO为什么要从“眼镜”本身出发做智能眼镜？你们对产品的核心判断是什么？</strong></p>\n  <p><strong>何迪龙：</strong>我认为智能眼镜首先还是一副眼镜。它不能只是把很多功能堆在眼镜上，而是要先解决眼镜本身的问题，包括好不好看、戴得舒不舒服，以及是不是适合亚洲人的脸型。</p>\n  <p>所以我们从一开始就比较强调“眼镜感”，希望用户戴上之后首先觉得它是一副正常、好看的眼镜，而不是一个电子设备。在这个基础上，我们再把智能能力放进去。</p>\n  <p>我们也会主动砍掉一些我们认为没有必要的功能，因为如果所有东西都往上加，最后可能会变成一个功能很多、但用户并不愿意长期佩戴的产品。对我们来说，智能眼镜真正能够普及的前提，还是用户愿意每天戴它。</p>\n  <p><strong>硬氪：在产品设计上，NIMO具体是怎么解决“智能”和“眼镜”之间的矛盾的？</strong></p>\n  <p><strong>何迪龙：</strong>我们其实花了很多精力在重量、材料、结构和佩戴体验上。</p>\n  <p>比如镜腿采用的是β钛材料，鼻托也做了适配亚洲人脸型的设计，同时使用碳纤维等材料去做轻量化。产品本身大概是29克，如果再加上定制镜片，根据度数和折射率不同，最终重量可能会到34到36克左右。</p>\n  <p>我们还保留了很多传统眼镜制造的工艺。比如镜腿抛光本身就需要几天时间，木纹颗粒的抛光甚至需要连续做两天两夜。我们希望它在拿掉电子属性之后，依然是一副做工比较完整的眼镜。</p>\n  <p>电池也是一个比较大的挑战。我们用了钢壳电池，目前实际使用中没有观察到明显发热的问题，充电15分钟可以到80%左右。显示部分则尽量做到隐形，透光率可以达到98%，让用户在正常状态下不会明显感觉到它是一块显示设备。</p>\n  <p><strong>硬氪：目前用户真正会怎么使用NIMO？你们为什么没有把功能做得特别复杂？</strong></p>\n  <p><strong>何迪龙：</strong>目前我们比较关注的其实是一些和用户日常生活直接相关的功能，比如股票、新闻、消息、地图、提词、翻译，以及自动亮度等。</p>\n  <p>我们希望这些功能能够自然地融入佩戴场景，而不是为了展示技术而增加功能。比如提词、翻译这些功能，本质上都是让信息直接出现在用户眼前，减少用户频繁拿手机的动作。</p>\n  <p>未来我们也会考虑开放SDK和开发者生态。我们认为，智能眼镜最终不一定只是我们自己去定义所有应用场景，开发者可以基于眼镜本身的能力去开发更多东西。我们现在更希望先把硬件、显示和基础能力做好，再逐步把生态打开。</p>\n  <p><strong>硬氪：从市场反馈来看，智能眼镜距离真正进入大众市场还有多远？NIMO目前在怎么推进这件事？</strong></p>\n  <p><strong>何迪龙：</strong>我们今年4月份开始正式出货，最开始大概有1000台左右的预订，之后每个月也有几千台的量级。现在我们的渠道主要包括抖音、京东，以及线下门店，目前大概有150家左右。我们比较重视线下，是因为智能眼镜和普通消费电子不太一样，用户很多时候需要真正戴上去、体验之后，才能理解它到底有什么价值。</p>\n  <p>但线下也会遇到一些问题，比如不同门店员工对产品的理解程度不一样，消费者对智能眼镜本身的认知也还在建立。所以我们会做线下培训，希望工作人员可以在比较短的时间内把产品的主要功能完整演示出来，让用户快速理解。</p>\n  <p>从这个角度来说，我们觉得智能眼镜的普及不仅是硬件问题，也需要用户教育和渠道一起成熟。</p>",
+      "category": "tech",
+      "published_at": "2026-10-08T03:03:19+00:00",
+      "fetched_at": "2026-10-08T04:12:10.220372+00:00",
+      "fingerprint": "0dcb44213ac56baa"
+    },
+    {
+      "source": "少数派",
+      "title": "罗马：永恒之城，永恒于世",
+      "url": "https://sspai.com/post/114845",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114845\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-07T03:00:00+00:00",
+      "fetched_at": "2026-10-08T04:12:07.633248+00:00",
+      "fingerprint": "a549d3d1907def68"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+      "url": "https://sspai.com/post/115455",
+      "summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。<a href=\"https://sspai.com/post/115455\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-08T00:16:57+00:00",
+      "fetched_at": "2026-10-08T04:12:07.633232+00:00",
+      "fingerprint": "58419a124d9129f3"
+    },
+    {
+      "source": "少数派",
+      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+      "url": "https://sspai.com/post/115462",
+      "summary": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...<a href=\"https://sspai.com/post/115462\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-08T01:47:59+00:00",
+      "fetched_at": "2026-10-08T04:12:07.633222+00:00",
+      "fingerprint": "53eea592cd116512"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6606 CNY ↓-0.44%",
+      "url": "https://www.frankfurter.app/2026-10-07?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-07</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6606 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0206 (-0.44%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-08T04:12:06.339080+00:00",
+      "fingerprint": "d5694bbea48a5dfe"
+    },
     {
       "source": "The Guardian - World",
       "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
@@ -1161,276 +1401,6 @@
       "published_at": null,
       "fetched_at": "2026-10-02T03:47:05.857318+00:00",
       "fingerprint": "dd9296ba1114cef5"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
-      "summary": "<p>Burundi joins several other African nations in accepting people deported under Trump’s hardline policy</p><p><a href=\"https://www.theguardian.com/world/burundi\">Burundi</a> has agreed to join a clutch of ⁠other African nations in <a href=\"https://www.theguardian.com/us-news/2026/sep/29/trump-immigration-deport-migrants-third-country\">receiving migrants</a> from other countries deported from the US under ⁠<a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s hardline ⁠<a href=\"https://www.theguardian.com/us-news/usimmigration\">immigration ​policy</a>.</p><p>However, <a href=\"https://www.theguardian.com/world/burundi\">Burundi</a> will only accept those not accused of crime or terrorism links, said ⁠Nancy Ninette Mutoni, a spokesperson for the country’s president, Évariste Ndayishimiye. Tuesday’s announcement gave no details of numbers, timing or financial ⁠details.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-30T12:47:15+00:00",
-      "fetched_at": "2026-10-01T03:49:14.703639+00:00",
-      "fingerprint": "4a3b2e641a46d2e9"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
-      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
-      "summary": "<p>President announces measures amid anger at authorities over recent murders of women</p><p>South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders.</p><p>Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unsolved murders, attempted murders and serious sexual offences against women and children, as well as producing a funded plan to reduce the forensic backlog for such cases, both within 60 days.</p> <a href=\"https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-30T14:16:33+00:00",
-      "fetched_at": "2026-10-01T03:49:14.703634+00:00",
-      "fingerprint": "0298a0bb44ab671c"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "summary": "<p>Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights</p><p>With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court and programs that would reward ideological allies in Europe who protect “western civilizational norms”.</p><p>On Wednesday, the state department obligated the funds to the grantees hours before the deadline despite congressional concerns and requests not to do so, according to a source familiar with the negotiations. The state department declined to comment on questions from the Guardian specifically on whether it had obligated the funds and had “blown” holds from Congress due to concerns about the money’s use.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-09-30T19:51:24+00:00",
-      "fetched_at": "2026-10-01T03:49:14.703626+00:00",
-      "fingerprint": "3df0942dcead6609"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "summary": "One of her attorneys told the BBC that Pike, 50, was in hospital after two syringes of pentobarbital had been administered.",
-      "category": "politics",
-      "published_at": "2026-10-01T03:46:55+00:00",
-      "fetched_at": "2026-10-01T03:49:14.576502+00:00",
-      "fingerprint": "9e867a33cfee2d99"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
-      "category": "politics",
-      "published_at": "2026-09-30T23:10:06+00:00",
-      "fetched_at": "2026-10-01T03:49:14.576499+00:00",
-      "fingerprint": "c701e4f965714c7d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "category": "politics",
-      "published_at": "2026-10-01T02:31:24+00:00",
-      "fetched_at": "2026-10-01T03:49:14.576495+00:00",
-      "fingerprint": "6e51ebb4942878ed"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Too early to say who was behind Dubai-Tel Aviv flight attack, Israeli PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-      "category": "politics",
-      "published_at": "2026-10-01T03:43:06+00:00",
-      "fetched_at": "2026-10-01T03:49:14.576487+00:00",
-      "fingerprint": "f60c9bd154529720"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "貓眼如何啟發機器人的照相機技術發展",
-      "url": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "據說曾啟發反光道路標記發明數十年後，貓眼的形狀和「發光」現象如今正被工程師仿效，用於設計高科技相機。",
-      "category": "politics",
-      "published_at": "2026-09-30T04:54:09+00:00",
-      "fetched_at": "2026-10-01T03:49:14.495648+00:00",
-      "fingerprint": "1e0f028ac70a5499"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "感情走下坡還有救嗎？伴侶治療師談修復關係的要素",
-      "url": "https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "批評、輕蔑、防衛、冷處理——這四種行為顯示你的關係可能正走向分手。但感情還是能挽救的，伴侶治療師提出了一些具體建議。",
-      "category": "politics",
-      "published_at": "2026-10-01T02:35:05+00:00",
-      "fetched_at": "2026-10-01T03:49:14.495644+00:00",
-      "fingerprint": "118aea5581ec6dd8"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "鈉離子電池：「美國製造」能超越中國嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "基於鈉離子技術的電池可以在美國使用本地採購的材料生產。",
-      "category": "politics",
-      "published_at": "2026-10-01T01:58:40+00:00",
-      "fetched_at": "2026-10-01T03:49:14.495637+00:00",
-      "fingerprint": "f3fa3346fc1f0890"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
-      "url": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "當局敦促英國各大學，停止與中國通用技術研究院往來，該研究院與中國國家安全部有聯繫。",
-      "category": "politics",
-      "published_at": "2026-09-30T16:46:19+00:00",
-      "fetched_at": "2026-10-01T03:49:14.495630+00:00",
-      "fingerprint": "3ce57e9fe9616f2f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Why the Bronze Age Collapsed",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-01T03:49:13.966263+00:00",
-      "fingerprint": "8d63f6ffeeca2d7b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-01T03:49:13.966209+00:00",
-      "fingerprint": "bdccce4386499d2f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "url": "https://56k.rip/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-01T03:49:13.966141+00:00",
-      "fingerprint": "a9a29ad46db4536c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-01T03:49:13.966081+00:00",
-      "fingerprint": "19d55ba426929ce7"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-01T03:49:13.966004+00:00",
-      "fingerprint": "6381db252deeabb6"
-    },
-    {
-      "source": "The Verge",
-      "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
-      "url": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
-      "summary": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons license as required. Seeing an easy PR win, Neon is cashing in by [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-30T20:45:00+00:00",
-      "fetched_at": "2026-10-01T03:49:13.842513+00:00",
-      "fingerprint": "4b2fe43016d2e11a"
-    },
-    {
-      "source": "The Verge",
-      "title": "The new and huger Paramount has a new co-CEO",
-      "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
-      "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, \"Ellison will focus on the company's long-term strategy, creative vision and direction, including its [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-09-30T23:08:49+00:00",
-      "fetched_at": "2026-10-01T03:49:13.842510+00:00",
-      "fingerprint": "9b4155d6bb12c27d"
-    },
-    {
-      "source": "The Verge",
-      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-01T00:23:45+00:00",
-      "fetched_at": "2026-10-01T03:49:13.842507+00:00",
-      "fingerprint": "e3b90bc1c87c24e2"
-    },
-    {
-      "source": "The Verge",
-      "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
-      "url": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
-      "summary": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-01T02:00:00+00:00",
-      "fetched_at": "2026-10-01T03:49:13.842500+00:00",
-      "fingerprint": "7dbea4959370953f"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "品牌出海进入系统能力竞争阶段,亿邦���库 x Pattern栢藤《品牌全球化加速增长洞察报告》解析增长新路径",
-      "url": "https://36kr.com/p/4005358837076101?f=rss",
-      "summary": "<p>当AI重塑消费者的发现与决策路径，平台规则与合规要求日趋复杂，不同区域市场的增长节奏与竞争形态也在加速分化。从成熟市场到新兴区域，全球化探索持续深入，增长的稳定性、效率与可持续性，正成为品牌共同面对的新命题。</p>\n  <p>为寻找答案，品牌方、创始人、CEO及服务商都在追问同一个核心问题：当商品供给持续增加、销量增长却未能同步，如何通过更精准的营销、更高效的运营和更深入的本地化服务及落地资源，获得更多市场份额？</p>\n  <p>2026年9月17日，由Pattern栢藤创办的Accelerate26跨境生态加速大会首次落地中国深圳。这场北美电商领域的年度盛会，旨在将栢藤在北美积累的头部平台方、服务商与品牌决策者资源，与本土最具出海实力的品牌创始人和高管直接链接，助力中国品牌加速全球化布局。</p>\n  <p>会上，亿邦智库与Pattern栢藤联合发布《智赢·共生—品牌全球化加速增长洞察报告》(以下简称《报告》)，亿邦动力董事长、亿邦智库院长郑敏进行现场解读，重点回答三个关键问题：全球增长机会在哪里？品牌需要建立怎样的经营体系？什么样的合作模式能够将市场机会持续转化为商业结果？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_f9b23997555e4698947c44786d0a1076@6301044_oswg203010oswg581oswg783_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>01 全球市场持续扩容，增长逻辑发生了什么变化？</strong></p>\n  <p><strong>洞察一：全球电商从“规模扩张”转向“长效经营”</strong></p>\n  <p>全球电商大盘持续扩容。eMarketer数据指出，2026年至2028年全球零售电商销售额预计将从6.8万亿美元增长至近8万亿美元，仍保持约7%的年增长水平。美国、欧洲等成熟市场继续构成重要基本盘，亚太地区持续发挥全球电商规模增长极作用，拉美、中东等新兴市场也在进一步释放潜力。与此同时，不同区域在消费需求、渠道生态与经营规则上的差异更加显著，品牌竞争也从单一商品和流量竞争，迈向综合经营能力的比拼。</p>\n  <p><strong>洞察二：政策护航跨境电商双循环发展</strong></p>\n  <p>政策体系持续支撑跨境电商双循环发展。进口端，通关便利化与进口商品清单优化不断扩充国内优质供给；出口端，出口退税、海外仓建设及跨境电商发展等相关政策持续完善。2026年一季度，我国跨境电商进出口总额达6184.6亿元，其中出口4735.5亿元、进口1449.1亿元。这一政策框架既助力中国品牌拓展海外市场，也为海外品牌进入中国营造了更成熟的经营环境。</p>\n  <p><strong>洞察三： AI与合规双变量重塑跨境电商运营逻辑</strong></p>\n  <p>AI 重塑电商流量入口。Adobe Analytics数据显示，2026年一季度，生成式AI驱动的美国线上购物流量同比增长393%，其引荐转化率比传统渠道高出42%。消费者购物入口正从“主动搜索”向“表达需求”延伸，推动品牌流量运营从传统SEO进一步向GEO（生成式引擎优化）拓展。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_9cad79f05686419eb67dc88134feab1e@6301044_oswg132370oswg1680oswg573_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>与此同时，全球税务、环保和数据合规要求持续趋严。品牌需要将合规审查前置至选品、上架、营销和物流等环节，并建立覆盖不同市场的动态监测体系。</p>\n  <p>AI抬高效率上限，合规要求明确经营底线，两者共同推动全球电商更加重视长期经营质量。</p>\n  <p><strong>02 品牌全球化机会扩大，经营复杂度同步上升</strong></p>\n  <p><strong>三大机会 × 三大卡点，倒逼全球经营能力升级</strong></p>\n  <p><strong>机会一：行业红利向品牌企业集中</strong></p>\n  <p>随着流量红利释放趋缓、合规成本和营销成本提高，主要依赖低价供应链和铺货模式获得增长的商家面临更高的经营压力，而具备技术研发、产品溢价与敏捷供应链能力的品牌企业迎来新的发展机会。Marketplace Pulse数据显示，2025年亚马逊全球站点销售额超过百万美元的卖家数量由2021年的6万家增至超过10万家，年销售额超过亿美元的大卖家数量也由50家增至235家。</p>\n  <p><strong>机会二：全渠道覆盖盘活用户长效价值</strong></p>\n  <p>数据显示，全球73%的消费者会选择跨渠道购物。随着消费者购物路径更加非线性，品牌经营不再局限于单一电商平台，而是逐步形成由第三方平台、独立站、社交电商与实体零售共同组成的渠道矩阵。品牌通过用户行为和销售数据识别个性化需求，并结合本地化服务持续深化消费者连接，有机会进一步释放用户长期价值。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_32720388c1f24ed1aaba6c471473d0a6@6301044_oswg354275oswg1686oswg579_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>机会三：消费体验升级打开供应链价值空间</strong></p>\n  <p>高效履约、产品质量与个性化服务正在更加显著地影响消费者购买决策。品牌不仅需要在制造端持续提升产品创新和质量能力，也需要在交付端以更加高效、安全和便捷的物流、支付与相关服务，回应消费者对速度和体验的更高要求。</p>\n  <p>三大机会加速释放的同时，全球化运营也面临三大卡点。</p>\n  <p><strong>卡点一：传统直营模式面临资金成本压力</strong></p>\n  <p>品牌自建运营、营销和客服等团队，不仅需要承担持续的人力与市场投入，还需自行完成全球备货，并承担库存、物流与仓储成本。数据显示，跨境电商供应链业务成本中，产品成本约占20%—30%，广告营销成本约占10%—15%，物流仓储成本约占15%—20%，重投入运营模式进一步加大资金周转压力。</p>\n  <p><strong>卡点二：服务商多头管理稀释本土化成效</strong></p>\n  <p>亿邦智库调研显示，62.5%的品牌认为本土化能力是全球化过程中最需要具备的能力。但在实际经营中，品牌往往需要跨区域对接营销、支付、仓储和合规等多家服务商。各环节缺少统一的经营目标与数据协同，不仅增加管理成本，也会延长决策链路，降低品牌响应市场变化的效率。</p>\n  <p><strong>卡点三：市场波动加剧库存积压风险</strong></p>\n  <p>跨境供应链周期较长，当销售预测与实际需求产生偏差，在途库存和海外仓库存容易出现积压；多渠道库存割裂及逆向物流能力不足，又进一步增加库存消化难度。亿邦智库调研显示，61.2%的商家对滞销积压风险表示担忧。<strong>&nbsp;</strong></p>\n  <p><strong>全链路增长伙伴赋能成为破局关键</strong></p>\n  <p>三大机会与三大卡点共同说明，品牌需要的不只是更多服务商，而是能够统一经营目标、整合全球资源并共同承担结果的增长伙伴。《报告》认为，这类伙伴需要具备四项核心能力：风险共担、全链路整合、数据驱动与本地化运营。判断其价值，也不能只看单项服务能力，而要看其能否将利益机制、经营目标、数据系统和市场执行真正连接起来。</p>\n  <p>基于此，《报告》以Pattern栢藤全球电商平台加速器为研究样本，观察这套模式如何转化为具体经营结果。</p>\n  <p><strong>03&nbsp; Pattern栢藤如何构建品牌全球化增长系统？</strong></p>\n  <p><strong>一套体系化方法论，贯穿增长全链路</strong></p>\n  <p>品牌全球化需要的不只是分散的能力模块，而是一套能够持续运转的经营系统。</p>\n  <p>围绕这一判断，《报告》将Pattern栢藤（以下简称“栢藤”）全球电商平台加速器的增长方法论概括为四个层次：</p>\n  <p>第一层，以品牌全球化总经销模型明确责任与利益机制；<br />第二层，以电商业务增长方程式拆解核心经营杠杆；<br />第三层，以两大AI引擎驱动运营决策智能化与自动化；<br />第四层，以双向增长通道连接中国与全球市场。</p>\n  <p>四个层次分别回答“谁来负责”“经营什么”“如何执行”和“如何进入不同市场”，共同构成一套可以复制和持续进化的品牌全球化增长系统。</p>\n  <p><strong>第一层：以总经销模型明确责任与利益机制</strong></p>\n  <p>在传统服务采购关系中，服务商通常按照项目或服务内容收费，品牌则承担主要的库存、市场和经营风险。双方虽然存在合作关系，但经营目标未必完全一致。</p>\n  <p>栢藤在品牌授权范围内承接经销与运营职责，通过采销一体、风险共担、全链路整合和本地化执行，将传统服务关系升级为围绕经营结果展开的深度协同。</p>\n  <p>这一模式主要包含三项机制。</p>\n  <p><strong>机制一：角色协同，聚焦优势</strong></p>\n  <p>品牌聚焦产品创新、供应链建设和品牌资产沉淀；栢藤负责授权范围内的市场执行、合规、客服和履约，并将当地市场洞察持续反馈给品牌。双方由简单的服务采购关系，转向围绕同一经营目标展开专业分工。</p>\n  <p><strong>机制二：采销一体，风险共担</strong></p>\n  <p>传统代运营模式下，库存、退货和市场波动风险主要由品牌承担；栢藤则通过买断式采销，在约定范围内承担采购、持货与库存周转责任，缓解品牌全球扩张过程中的资金占用和试错压力。双方围绕销售、库存周转与利润表现等指标形成更一致的利益机制。</p>\n  <p><strong>机制三：共同治理，权责清晰</strong></p>\n  <p>品牌保留核心战略决策权，栢藤在授权范围内负责具体运营执行；双方围绕价格、渠道、广告和库存等关键事项建立共同治理机制，明确决策边界、信息共享与效果归因，在保持品牌长期价值的同时提升市场响应效率。</p>\n  <p>总经销模型首先解决“谁来负责”的问题。只有责任、利益和决策边界得到明确，品牌才能从分散的日常运营中抽身，把核心精力放回产品创新与品牌建设。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_c676ee5cc9b14d56a52da413a228058e@6301044_oswg245836oswg1668oswg813_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>第二层：以电商业务增长方程式拆解核心经营杠杆</strong></p>\n  <p>合作机制明确了谁来负责，电商业务增长方程式则进一步回答双方应该管理什么。</p>\n  <p>基于全景式运营思维，栢藤将影响营收增长的核心变量概括为：</p>\n  <p>营收 = 流量 × 转化 × 价格 × 供应</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_d613e69f61b84975849f5005fd5b5b0d@6301044_oswg57975oswg1664oswg282_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>流量决定有多少消费者看到商品，转化决定其中有多少需求形成订单，价格决定每笔订单能够实现的价值，供应则决定商品能否保持可售并按时交付。这里的供应不仅指库存数量，也包括备货、库存周转和履约保障能力。</p>\n  <p>四个杠杆共同构成一条完整的增长链路。任何一个环节出现短板，都会影响最终营收。流量不足，品牌难以获得有效���求；转化不足，流量无法形成订单；价格与市场不匹配，会影响转化和价值获取；供应不足，则可能造成缺货、交付延迟和销售损失。</p>\n  <p>通过电商业务增长方程式，品牌可以在营收发生变化时判断问题来自哪个环节，并据此确定资源投入和优化重点。增长管理由此从笼统的业绩目标，转化为可以衡量、执行和持续改进的经营任务。</p>\n  <p><strong>第三层：以两大AI引擎驱动运营决策智能化与自动化</strong></p>\n  <p>在明确合作机制与增长路径后，品牌还需要将其落实到日常运营中，通过数据与AI持续识别增长机会、优化运营决策，并自动执行具体任务。</p>\n  <p>截至2026年9月，栢藤已沉淀逾91万亿个数据点，并拥有44项专利（含已授权及申请中)。依托这一数据与技术底座，公司将人工智能深度应用于品牌增长的每个环节，并借助自研模型与全栈技术体系，打造 AI 自主电商执行引擎 Pattern Intelligence（Pi）和智能广告引擎 Destiny，助力品牌以更高效率及更强可预测性实现全球化增长。</p>\n  <p>Pi AI 自主电商执行引擎构建“感知—决策—执行—反馈”的智能运营闭环。Pi 通过持续监测产品报价、广告、内容、定价和库存，在识别机会或风险后自动执行优化或修复操作；当需要品牌判断时，则将决策项推送至人工审批。自部署以来，Pi 已在其品牌组合中执行数百万次自动操作，包括恢复产品推荐位、调整价格和修复内容，并实现 24/7 全天候运行。</p>\n  <p>Destiny智能广告引擎则专注于广告的真实增量价值。它融合广告、消费者行为和产品表现数据，通过自动竞价与预算调整优化资源配置，帮助品牌从关注曝光和广告销售，进一步转向衡量广告对实际增长的贡献。</p>\n  <p><strong>第四层：以双向增长通道连接中国与全球市场</strong></p>\n  <p>AI引擎为品牌提供决策与执行能力，栢藤的渠道网络和本地化运营体系，则负责将这些能力转化为具体市场中的经营成果。</p>\n  <p>在进口端，栢藤覆盖天猫、京东、抖音和小红书等主要渠道，并结合中国消费者的购买路径，为海外品牌提供渠道布局、内容运营、进口合规、仓储履约和售后服务，帮助品牌进入并持续经营中国市场。</p>\n  <p>在全球市场拓展端，栢藤依托全球主流电商平台合作网络和本地化运营能力，帮助品牌进入北美、东南亚、日韩、拉美和中东等市场，并将渠道运营、营销增长、库存履约和合规管理纳入统一经营体系，降低品牌进入新市场的前期投入和经营风险。</p>\n  <p>两条增长通道共享同一套总经销模型、数据能力和技术体系。通过不同市场的本地化执行，栢藤将全球资源转化为具体的经营成果。</p>\n  <p><strong>04 六大品牌实践验证全球化增长成效</strong></p>\n  <p>《报告》从海外品牌进入中国与品牌拓展全球市场两个方向，选取六个代表性案例，呈现不同品牌如何借助栢藤的全链路能力突破具体经营难题。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_c74c23eee29c446e965cb7ef3cfcb8e8@6301044_oswg322721oswg1665oswg849_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>海外品牌进口案例：</strong></p>\n  <p>案例一｜KELO-COTE芭克：围绕平台运营、价格治理、内容增量与本地化直播构建增长体系，一年内跃居天猫国际品类领导者</p>\n  <p>案例二｜THORNE悦恩：合作仅6个月，核心单品挺进天猫品类销量TOP10</p>\n  <p>案例三｜Swanson斯旺森：在强化传统货架电商基本盘的同时，通过KOL、KOC种草矩阵与差异化平台运营拓展社交电商</p>\n  <p><strong>全球化品牌增长案例：</strong></p>\n  <p>案例四｜Balance of Nature：通过广告与内容优化、品牌保护、物流体系和系统化运营支持，合作两年内收入实现翻倍</p>\n  <p>案例五｜Bosch舒适科技：18个月内进入13个新市场并推出28款新品，相关产品不到6个月登上亚马逊热水器品类第一</p>\n  <p>案例六｜SPANX：通过Destiny智能广告引擎识别广告带来的真实增量价值，合作一年内推动SPANX广告销售额同比增长120%</p>\n  <p><strong>05 品牌全球化进入“共生时代”</strong></p>\n  <p><strong>从交易信任走向生态协同</strong></p>\n  <p>全球化经营复杂度持续提升，品牌与合作伙伴之间的关系正在被重新定义。《报告》将这种变化概括为三个方向：合作基础从“交易信任”走向“系统信任”，合作目标从“服务交付”走向“价值共创”，竞争单元从“单点能力”升级为“经营生态”。</p>\n  <p>系统信任来自持续的信息共享和清晰的责任边界。品牌保留产品、品牌与长期战略的主导权，合作伙伴基于市场、价格、库存和增长数据参与渠道规划与日常经营，双方共同面对市场变化并承担经营结果。</p>\n  <p>无论是海外品牌进入中国，还是中国品牌拓展全球市场，全球化下一程所比拼的，不只是进入市场的速度，而是能否将目标、数据、资源和执行连接成一个整体，并将这套协作能力复制到更多市场。当经营目标、全球资源和增长责任真正贯通，品牌才能以更轻的投入和更低的系统性风险，获得更加稳定、可持续的全球增长。</p>\n  <p><strong>这正是“智赢·共生”的真正内涵。</strong></p>\n  <p>欲了解更多《报告》内容，洞察品牌全球化发展趋势，深入了解Pattern栢藤如何以全球电商平台加速器助力品牌长效增长，欢迎微信搜索【Pattern栢藤】关注官方公众号。</p>\n  <p><strong>&nbsp;</strong></p>\n  <p>&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-09-30T03:42:44+00:00",
-      "fetched_at": "2026-10-01T03:49:13.750906+00:00",
-      "fingerprint": "807bab1f428defae"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "理想再谈自研电池：电芯谁来造都行，前提是打通数据",
-      "url": "https://36kr.com/p/3994346489084932?f=rss",
-      "summary": "<p>自研电池上车，是理想汽车今年的核心战略之一。</p>\n  <p>今年6月，理想第一次公开回应业界对理想自研电池的种种质疑时，舆论焦点还集中在为何自研、是否可靠。近日，理想再次就自研电池召开沟通会。但这一次，质疑声渐弱，取而代之的是对车企自研对电池供应链重构的讨论。</p>\n  <p>在长达2小时的沟通会里，理想汽车联合创始人马东辉、理想汽车整车电动研发高级副总裁刘立国、电池研发负责人柳志民三位高管至少三次明确表态：欢迎任何电池厂商合作，但前提是必须纳入理想的自研电池体系下，也就是跨越理想的技术标准门槛，并实现数据与定义的深度互通。</p>\n  <p>今年以来，理想从新一代L8开始，全面搭载自研电池，此后，自研电池相继在旗舰电动产品MEGA、i9等车型上装载。这一动作直接导致理想在8月份，退出宁德时代前五大客户名单。</p>\n  <p>在此之前，理想的动力电池供应绝大部分来自宁德时代，常年成为宁德时代核心客户，同时引入欣旺达作为第二电池供应商。36氪曾报道，欣旺达在理想汽车的供货份额高点时也仅3成左右。</p>\n  <p>正是凭借在头部客户中牢牢锁住大体量的供货份额，宁德时代才长期坐拥超40%的市场体量。而理想自研电池的全面上车，意味着宁德时代在这家车企的供货地位即将动摇。</p>\n  <p>按照理想自研电池的定义，理想主导设计和研发电芯，欣旺达、中创新航等电池厂家负责代工生产电芯，电池包层面，BMS、热管理甚至绝缘材料，也都由理想自主研发、设计和生产。而从当下理想的自研电池合作名单来看，不再包括宁德时代。</p>\n  <p>马东辉告诉36氪等媒体，自研电池战略已经是理想汽车的核心战略，不会再有备份的合作模式。</p>\n  <p>理想整车研发负责人刘立国也补充说，未来不管是哪家供应商，都要按照理想汽车自研电池体系来做定制化开发，“不管价格高与低，必须满足我们的要求。”</p>\n  <p>这对于宁德时代再次进入理想的电池供应无疑是一个体系性的挑战。长期以来，宁德时代在高端市场的产品都是麒麟电池，这是一个系统性的整包电池方案，从电芯到整包，以及核心的热防护等各个子零件，都由宁德时代负责集成和供应。而基于保护技术专利等考虑，宁德时代从未有将麒麟电池拆开供应的先例，也并不向车企过多开放电池生产数据。</p>\n  <p>显而易见，这与理想自研体系下，主导电芯研发、自制电池包，并共享电池生产全流程数据的策略无疑产生了龃龉。</p>\n  <p>如果宁德时代要想再次进入理想汽车的电池合作体系，不光需要共享底层数据，也要开放电池系统，接受仅出售电芯的合作模式。这对于市值一度接近2万亿的电池龙头而言，显然是一次巨大的商业模式重塑。</p>\n  <p>而从战略上看，理想汽车推行自研电池的意志足够坚决。</p>\n  <p>马东辉谈到自研电池战略的价值时，明确表示，理想汽车是整车安全第一责任方，如果难以获取电池生产过程相关数据，就无法完全掌控电池这一核心零部件的全链条信息。</p>\n  <p>而自研电池模式下，可以让理想汽车实现三个层面的数据和能力打通。</p>\n  <p>首先，车企与电池厂商实现数据互通，电池安全能够更早预警；其次，自制电池包，可以让电芯、热管理、电驱、补能之间配合更默契，整车体验更细致；最后，打通售后标准，用户不再需要分别找电池厂和车企扯皮，理想全权为电池负责。</p>\n  <p>理想汽车CEO李想曾透露，自研电池战略起步于2020年。目前，理想自研电池团队规模达300余人。过去六年，理想汽车每年的电池研发费用都超过2亿元，目前累计已经投入十几亿元，这还不包括实验室等固定资产投入。</p>\n  <p>此外，理想还通过资本入股方式深度绑定了电池合作方欣旺达。早在2022年，理想就投资了欣旺达，“只不过当时大家没这么关注”，今年再次注资后，理想已成为欣旺达第二大股东。</p>\n  <p>刘立国表示，自2022年起，理想与欣旺达深度合作研发的电池便已上车交付，目前保有量已经达到42万辆，“整个售后质量表现完全不弱于任何一家电池供应商的产品，就当下产品而言，我认为没有任何差距”。这也为理想汽车全面将自研电池推上车提供了底气。</p>\n  <p>电池研发负责人柳志民进一步透露，通过研发、控制标准和AI算法检测体系，目前理想电芯制造的缺陷流出率，已达到PPB量级（十亿分之一）的水平。</p>\n  <p>如今，不仅理想汽车，小米、华为的鸿蒙智行，都在分别推动龙甲电池、巨鲸电池等车企主导研发的电池品牌，零跑汽车更是通过合资方式实现了自主电池制造。</p>\n  <p>一方面是车企的深度参与并掌控电池全栈技术的诉求，一方面是宁德时代推行品牌策略，获取高溢价的战略动作。两个战略主张的碰撞和协同，显然将是行业需要长期面对的议题。</p>\n  <p><strong>以下是36氪等媒体与理想三位高管的对话，不改变原意的基础上，经过编辑：</strong></p>\n  <h3>战略：未来只用自研电池，持开放合作态度</h3>\n  <p><strong>问：理想汽车为什么要自研电池？它的核心价值是什么？</strong></p>\n  <p><strong>马东辉：</strong>理想在2020年便确立了要自研纯电平台，我们认为新能源汽车用户关注的不是电池品牌，而是品牌背后的实际能力，比如电池的安全性、续航、补能等。自研，为的就是系统性解决这些问题。</p>\n  <p>第一，自研可以打通零部件、整车和用户间全链路的数据。我们可以提前掌握电池的使用状况和寿命趋势；如果生产过程中参数出现异常，我们可以提前发出预警。最理想的状态是，在电池装车交付之前就完成问题排查，而非等到用户手中才发现隐患。</p>\n  <p>第二，车上的电池并非独立存在，它与热管理系统、电驱系统、充电补能系统都息息相关，只有将其作为一个整体进行设计，才能真正把整车体验做到最优。我们认为，未来智能电动车的设计不应将电池、电驱、热管理视为孤立模块，各功能的分配和协同方式将发生深刻变化。</p>\n  <p>第三，打通产品定义、服务标准与售后服务体系。当前行业中仍然存在一些售后维修方面的痛点，车厂、用户、电池企业三方对于里程衰减等问题的判断标准可能各不相同。出了质量问题，究竟是集成层面的问题、电芯的问题、PACK的问题还是软件的问题？自研便意味着，如果质量标准未达成时，用户不需要关心问题出在哪个环节，理想来全面负责。</p>\n  <p><strong>问：理想在电池自研上的战略目标是什么？目前与宁德时代的差距有多大？</strong></p>\n  <p><strong>刘立国：</strong>理想在电池上的投入是高度聚焦的。&nbsp;</p>\n  <p>对比来看，其他电池企业需要同时布局储能、钠电池等多种体系，还要满足不同客户在2C、4C、5C及更高倍率上的产品需求，产品线非常多，投入也非常大。而我们只聚焦在5C超充这一个品类上，这是我们能把技术做深的前提。</p>\n  <p>同时在整个研发过程中，不仅仅是电池一个团队在投入：材料方面聚焦正负极研发，PACK层面包括散热等问题，还有整车材料部门和热管理部门协同支持。</p>\n  <p>在单品上的投入上，我们不弱于任何一家公司。</p>\n  <p>落到实际产品上，此前，我们自研定义的产品通过欣旺达代工的模式，从第一代的理想L8和L7开始就已经上市了，市场保有量已达42万台，整个售后质量表现完全不弱于任何一家电池供应商的产品。就当下产品而言，我认为没有任何差距。</p>\n  <p>但在面向未来的前沿技术上，比如固态电池的研发能力，我们与宁德时代确实还存在比较大的差距，这一点我们坦然承认。</p>\n  <p>宁德时代的定位是引领整个赛道，而我们当前采取的依然是依托于产品体验的策略，两者的战略不同，投入量级不同，技术积累自然也不同。不过对于当下的产品，凭借过往的研发积累和42万台车的交付验证，我们的表现是完全不弱于它的。</p>\n  <p><strong>问：现在很多车企都在做电池自研上车，但大家普遍没有回答一个问题：自研电池战略定位到底是什么？是备份方案，还是未来唯一的路线？这套自研代工的模式将来如果进一步推广，会把包括宁德时代在内的所有电池厂商都纳入进来？还是说即便宁德时代降价了，会作为一条独立的、平行的路线？</strong></p>\n  <p><strong>马东辉：</strong>我并不太清楚其他车企的思考，但理想汽车的方向是非常坚定的。从全新一代理想L8开始都会搭载理想自研的电池，这个战略��向是非常确定的，不是备份方案，并且我们有信心自研电池的综合性能表现一定会比以前更好。</p>\n  <p>现在我们具备了技术条件和PACK自制产线，另外公司发展到今天，整个投资体量也能够支撑这个战略的达成。所以对我们来说，这就是一个明确的战略选择，不存在备份的问题。</p>\n  <p><strong>刘立国：</strong>从PACK的角度来讲，本身和整车有非常强的集成关系，自研可以让整个PACK设计在整车平台上实现很好的平台化。在PACK统一的前提下，我们会对电芯提出定制化的要求。</p>\n  <p>未来不管是哪家供应商，都要按照我们的体系、我们的尺寸标准来做定制化开发。不管价格高与低，必须满足我们的要求，如果能满足我们三个打通的需求，我们当然非常开放地欢迎行业里每个优秀的伙伴一起合作。</p>\n  <p><strong>问：理想的规模相比宁德时代、比亚迪仍有差距。没有同等规模，自研电池在成本和品质上如何形成优势？</strong></p>\n  <p><strong>马东辉：</strong>关于规模和成本，我想先讲讲我们对成本的理解。电池的成本主要包括五部分：产线摊销、制造费用、原材料、物流仓储和研发投入。理想做自研，不是为了压低某一个环节的价格，更不是替换便宜的材料，这不符合理想的价值观。我们认为的降本机会点，是在保证性能和质量的前提下，提升全链路效率。</p>\n  <p>第一是产线投资和分摊： 比如花了10个亿建一条产线，分几年进行折旧分摊。我们通过电芯平台化尽可能复用产线。产线利用率提高，单件产品的摊销就会降低。</p>\n  <p>第二是制造费用：理想有智能工业团队和理想连山系统，能够监控生产过程、分析数据。一方面做质量预警，另一方面识别制造过程中的浪费、提升合格率。</p>\n  <p>第三是原材料： 过去原材料价格波动时，我们更多是被动接受。自研自制和自研代工之后，我们可以在上游材料和相关风险管理上更主动，提升对成本波动和供应稳定性的管理能力。</p>\n  <p>第四是物流、仓储和运输： 统一的电池体系可以让仓储、包装、工装和运输更高效，减少重复存储和运输带来的浪费。</p>\n  <p>第五是研发投入：研发投入最终一定会体现在成本中。过去由供应商承担研发，成本会反映在采购价格里；现在理想承担研发投入，合作伙伴聚焦制造和工艺，整个链路的分工会更清晰。</p>\n  <p>自研的目标是在性能、质量和安全不打折的前提下，在每个环节减少浪费、提升效率。</p>\n  <p><strong>问：电芯平台化方面，理想是如何规划的？</strong></p>\n  <p><strong>柳志民：</strong>在电芯层面，我们目前有5C三元锂和5C磷酸铁锂两类解决方案，每个品类最多两款电芯。</p>\n  <p><strong>问：外界有报道称，理想过去五年在电池研发方面仅投入约5亿元。实际累计投入是多少？</strong></p>\n  <p><strong>柳志民：</strong>关于研发费用，我也做一个澄清。外界提到的5亿元，更多是实验室投料、测试验证等研发费用的一部分。理想汽车每年的电池研发费用都在2亿元以上，过去六年累计投入十几亿元。此外，还有固定资产等相关投入，整体研发投入规模比较大。</p>\n  <p><strong>问：有资料称，截至2026年初，欣旺达电化学研发团队约有1万人，宁德时代相关工程师超过3万人，理想汽车电池研发团队约有300人，如何看待整车企业与动力电池企业研发人员规模上的差异？</strong></p>\n  <p><strong>刘立国：</strong>人员规模与企业的业务量和研发范围高度相关。一家动力电池企业可能同时服务多家整车企业，还要覆盖储能、不同材料体系和平台技术，投入的人力自然更多。</p>\n  <p>对于一家整车企业而言，更重要的并不是研发人员的绝对数量，而是研发深度、聚焦方向以及是否具备清晰的用户和产品目标。</p>\n  <p><strong>问：宝马同样采用电池自研代工模式，但消费者接受度较高。中国企业在推进核心零部件自研的过程中，���何应对“去品牌化”的认知挑战？</strong></p>\n  <p><strong>刘立国：</strong>背后的原因是多方面的，包括品牌历史积淀、市场认知基础等因素。对于新势力企业而言，成立时间较短，客观上确实存在一定影响。</p>\n  <p>但我举一个具体的例子：理想在2018年、2019年就开始定义纯电平台的充电倍率需求了，当时跟电池厂沟通，行业普遍认为2C已经够用，当时头部供应商都告诉我们4C不可能实现，但我们已经提出超过4C的目标了。</p>\n  <p>在这一背景下，理想亲自主导开发了早期的demo产品，验证了整条技术路线的可行性，才推动了5C路线的持续推进。从2020年启动自研，到2023年发布“双能战略”，再到2024年5C电池和超充网络的全面推广，我们在电池与整车两端均投入了大量研发资源。</p>\n  <p>在品牌对外传播的过程中，我们确实面临过不少质疑，用户对新势力企业自研电池的认知还需要时间建立。</p>\n  <p>马东辉： 我反而一点都不担忧。回想2017年、2018年，大家可能都没有听说过理想汽车，也不太会将理想纳入20万以上、30万以上车型的考虑范围。但十年过去了，随着理想和国内其他新势力的产品持续提升，国内20万以上市场，理想的市占率在部分地区已经超过BBA。我始终强调，品牌不是一成不变的，用户价值才是能经历时间考验的。</p>\n  <h3>技术：锚定5C、15C，固态电池暂时不做重投入</h3>\n  <p><strong>问：在制造端，理想目前在单体电芯缺陷流出率（PPB）这一指标上做到了什么水平？</strong></p>\n  <p><strong>柳志民：</strong>关于制造端的PPB（十亿分之一）指标，我先简要说明一下我们对制造一致性的理解。</p>\n  <p>一个完整的产品方案通常分为三个阶段：第一阶段，围绕产品需求形成完整的技术方案，技术方案会关联所有产品的技术特性；第二阶段，在工程方案中将技术特性转化为工程特性；</p>\n  <p>第三阶段，让工程特性在制造端跟具体的控制计划严丝合缝地对应上。在电芯层级，我们设有严格的控制标准和控制项，电芯层有8000余项控制标准，PACK级别1000余项，合计9400余项控制标准，以此保障电池制造的一致性。</p>\n  <p>除了控制计划体系之外，我们在产线中部署了全流程在线CT AI检测系统和液态镜头CCD相机 AI检测等，能够有效监测制造过程中的异常。</p>\n  <p>同时，我们将AI算法与理想连山系统打通，通过AI方法识别异常趋势，实现持续优化和迭代。目前来看，我们的一致性表现能够满足产品需求，电芯制造的缺陷流出率已达到PPB量级的水平。</p>\n  <p><strong>问：理想自研电池在整车电控层面具体有哪些技术协同？</strong></p>\n  <p><strong>刘立国：</strong>目前，电芯、PACK、BMS与整车之间的技术协同已经非常深入，我举几个典型场景。</p>\n  <p>第一个场景是低温工况下的放电功率表现。过去按照传统的与电池厂合作模式，电池厂会提供一张功率MAP，标定不同温度下的放电功率上限，整车只能按照这张MAP进行标定。这种方式会带来一些问题，尤其是磷酸铁锂电池在低温工况下容易出现动力不足甚至趴窝的情况。</p>\n  <p>通过自研，我们拥有自主开发的APC算法和ATR算法，能够将SOC和功率MAP计算得更加精准。从驾驶者踩下加速踏板到需求信号发出，存在几十毫秒级别的延迟，我们利用这段时间窗口为电池提供前馈控制信号，通过整车控制算法与电池系统的深度协同，能够显著缓解低温工况下动力性不足的问题。这是自研在实际落地中带来的直接价值。</p>\n  <p>第二个场景，除了功率层面的协同之外，在热管理等方面也实现了更深层次的融合控制。通过自研，我们能够掌握电池系统中每颗电芯在生产阶段的容量等基础数据，尤其是经过长期使用后，随着电池健康度的变化，实现更加精细化的协同管理。</p>\n  <p>&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-09-30T05:41:47+00:00",
-      "fetched_at": "2026-10-01T03:49:13.750900+00:00",
-      "fingerprint": "07a1e00013876966"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "三天四千万，一周破亿：琳朝现象的背后，是一场文化品牌的静默崛起",
-      "url": "https://36kr.com/p/4005786829312136?f=rss",
-      "summary": "<p>未来真正的奢侈，是文化、价值观的输出，是中国特有的文化叙事。&nbsp;</p>\n  <p><strong>9月25日，琳朝南京德基店正式开业。但真正的震动，发生在更早之前。</strong></p>\n  <p><strong>试营业三天，仅对德基广场少量VIP会员开放，单日营业额连续突破千万，三天累计四千万多万。正式开业后，热度不减反增。每天店外都在排队，平均等待进店时间超过3小时。在德基广场，这条队伍成了一道独特的景观——有人早上商场刚开门就在排队，有人下午排到晚上才进得去，还有人自带凳子在队伍里。</strong></p>\n  <p><strong>在德基和行业内部，这个消息引发了极大的轰动。有消费者从上海、杭州赶来，只为看一眼这家从兰州深巷走出的品牌。</strong></p>\n  <p><strong>此时，黄金珠宝行业其实正在经历一场集体焦虑。金价从高点回落，首饰消费量同比暴跌，头部品牌累计关店近千家。行业过去二十年赖以生存的增长模式——渠道扩张、金价红利——正在同时失效。</strong></p>\n  <p><strong>但琳朝的热度不减。它跳脱在金价波动之外，不只是靠渠道创新驱动，不靠商业模式的微创新。它靠的是什么？这样“反常”的现象是非常值得拆解的商业案例。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_6bc0081fc7dc439cbc51f270e92efeb4@6056299_oswg121302oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(琳朝南京德基店开业当天)</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_1a0206aee1e34495ac75e317c70ecfff@6056299_oswg4247oswg1080oswg127_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>行业在“靠”，琳朝在“脱”</strong></p>\n  <p><strong>黄金珠宝行业的2026年，大多数品牌在做同一件事：靠。</strong></p>\n  <p><strong>靠渠道优化，靠产品微创新，靠涨价保利润，靠关店控成本。这些都是合理的商业选择，但本质上都是在既有框架内“靠”得更近。</strong></p>\n  <p><strong>而琳朝在做的，是脱。</strong></p>\n  <p><strong>脱离渠道驱动的惯性，脱离黄金行业的传统叙事，脱离西方奢侈品的价值体系，脱离“金价+工费”的定价逻辑。</strong></p>\n  <p><strong>这种“脱”，在南京德基店的开业过程中表现得淋漓尽致。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_af5a4aa917d04990a4529e1b4a74351b@6056299_oswg69046oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>外界看琳朝，首先看到的是极致手工和原创精神造就的产品唯一性。99%的产品为原创设计，手工占比接近100%，涉及花丝、錾刻、精雕、锻打、水磨、炸珠、微镶、榫卯镶嵌等几十种手工艺。一件繁复的花丝作品，打磨周期可能长达数月甚至一年。2024年，因订单爆满，琳朝两次暂停接单。2025年，琳朝逆势涨价10%至20%，工期拉长到一年，依然供不应求。</strong></p>\n  <p><strong>这种“唯一性”在行业里有多稀缺，需要放在同类品牌的对比中才能看清。</strong></p>\n  <p><strong>老铺黄金走的是“用中国符号进入西方定义的奢侈品体系”，45家自营门店、273亿营收，消费者与国际五大奢侈品牌重合率超80%。</strong></p>\n  <p><strong>君佩走的是“珠宝级黄金”的年轻化路线，两年时间进入大部分一线商圈，靠风格和用户细分快速复制。它们在商业上都成立，但对比之下，在产品的手工程度和原创力度上，与琳朝不在同一个坐标。</strong></p>\n  <p><strong>琳朝的“唯一性”不来自渠道覆盖，不来自定价策略，而来自一个更底层的事实：产品无法被复制。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_8e0f3393ddc54f298c4404cff3cfb884@6056299_oswg1207651oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(琳朝三换围挡的排队现象，图片来源于网络)</strong></p>\n  <p><strong>但产品只是表象。南京德基店的开业过程，本身就是一场关于“极致”的偏执表演。围挡换了三次，每一次都比上一次更用心。手绘稿可以免费撕走，配着手写短句，或言志，或寄情。原定七月开业，最终延至九月，两次推迟，只为把最好的呈现带给南京。每月高昂的租金在燃烧，但琳朝选择慢。</strong></p>\n  <p><strong>南京城市专属款，是琳朝为这座城市准备的礼物。从秦淮灯彩到雨花石，从谢道韫到桃花扇，从辟邪到“没有一只鸭子能游出南京”的烟火气。六件作品，六个维度，每一件都从南京文化的内部生长出来。这不是“兰州设计+南京元素”的简单拼贴，是从理解到创造的系统性转译。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_313b4b7935664a3f852ea1743ea4aaf0@6056299_oswg36339oswg1080oswg360_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>小到包装体系，琳朝也吹毛求疵。每一个细节，都在说同一句话：极致、不敷衍。</strong></p>\n  <p><strong>而这一切背后，是琳朝对传统文化的“重新翻译”。它注入了个体价值的导向——让龙不再高高在上，成为每个勇敢的人。为角落发声，对镯口的设计，中国当代留白。为自己所爱的事业不问西东。</strong></p>\n  <p><strong>“靠”是在既有规则里做得更好，“脱”是重新定义规则本身。这种差异，不是商业策略的差异，是企业文化根性的差异。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_cfe291cb12a04161bcde251e7403b956@6056299_oswg4659oswg1080oswg126_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>产品是果，文化是因：</strong></p>\n  <p><strong>琳朝的护城河不在柜台里</strong></p>\n  <p><strong>琳朝今天的所有现象，都是果。产品也是果。文化才是因。</strong></p>\n  <p><strong>这个因，是琳朝的品牌文化和企业文化。它不是一个抽象的概念，而是长在企业组织里的土壤，具体、可感、有温度。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_98b5573676f84e91be91daa0f972582a@6056299_oswg28690oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(图片来源于网络)</strong></p>\n  <p><strong>有幸去拜访过一次琳朝的公司。一个老旧的居民楼里，却安放着无数眼里有光的人。从上到下，每个人都在享受极致热爱带来的快乐，享受创造的过程。创始人马朝贤化名“角落先生”，基本不出兰州，在角落里痴迷、癫狂。他的状态感染了整个团队——在那里，痛苦变成了快乐，工作变成了创造。这是琳朝最底层的文化：极致热爱。</strong></p>\n  <p><strong>这种热爱投射到产品上，就变成了“个体价值导向”的设计哲学。琳朝让龙不再高高在上，而是成为每一个勇敢的人；为角落发声，在手镯的对口处精心錾刻；牡丹亭没有亭子，悟空里隐藏着自我——那是中国当代的留白，是给拥有者自己填写的空间。琳朝倡导每个人都勇敢做自己，做极致的自我。有了这样的文化，他们才可以追求每件事、每件产品的极致。好的产品，好的商业，自然而然会自己生长。这是以人为本。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_b1a1e28c780f4969b5a342624e7af7c3@6056299_oswg43137oswg1080oswg479_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(图片来源于网络)</strong></p>\n  <p><strong>而这种以人为本，往前再走一步，就是琳朝相信的另一件事：你只要善良，就会有智慧。你一定要在别人不知道的地方去做对他好的事情，才能感动他。所以在产品的背面、接口处、内壁——那些千百年来被默认“不必在意”的角落——琳朝花最多的时间去錾刻。创始人说：“每一件首饰，看不见的地方做好了，才能让你觉得干净。”这不是为了被人看见才做得好，是即便没人看见也要做好。这是善良先行。</strong></p>\n  <p><strong>有了热爱，有了对人的尊重，有了善意，还需要一样东西来守住它们。琳朝的答案是：本分长期。它不追求规模快速扩张，“即便未来在中国市场做到极致，店铺数量也可能控制在个位数”。在古法黄金品牌纷纷加速开店的当下，琳朝用二十一年时间只开一家店。它的答案是“一城一店一设计”——每进入一座城市，只开一家店，每一家店都为所在的城市单独设计。这是一种长期主义的心态：享受创造的过程，而不是追逐短期的结果。</strong></p>\n  <p><strong>企业文化不是挂在墙上的口号，是长在组织里的土壤。产品从这片土壤里长出来，商业从这片土壤里长出来，德基店排队六小时的现象，也从这片土壤里长出来。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_30059b3b7cb9492c8c2645e577f68b47@6056299_oswg105845oswg1080oswg592_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>（琳朝总部·兰州金城关）</strong></p>\n  <p><strong>琳朝没有在一线城市，没有在商业中心。它在西北兰州，在金城关一条老街道的居民楼里，隔壁是汽修厂和药店。</strong></p>\n  <p><strong>这种选址，反而成就了文化的土壤。兰州不急躁。一个品牌想要诞生，一个伟大的品牌，一定是磨出来的。慢，反而养成了品牌的核心竞争力。</strong></p>\n  <p><strong>这让我想起那些同样“偏僻出身”的国际奢侈品牌。</strong></p>\n  <p><strong>国际顶级珠宝品牌宝格丽（BVLGARI）的故事起源于希腊伊庇鲁斯山区的 Paramythia 小镇，Loro Piana 的总部则在意大利皮埃蒙特大区的夸罗纳（Quarona），一个位于阿尔卑斯山脚下的小镇。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_17e335d341334fbda98d5409df0b4e70@6056299_oswg857461oswg1080oswg629_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>Loro piana总部Quarona小镇</strong></p>\n  <p><strong>这些品牌的“神殿”在巴黎、在米兰、在纽约，但它们的“根”始终扎在那些不被游客注意的小地方。</strong></p>\n  <p><strong>琳朝的创始团队也同样散发出一种对品牌原生力的执着，创始人马朝贤，行业内极少数手艺人出身的创始人，叛逆、感性、痴迷、癫狂，几乎很少离开兰州这个城市，在金城关的角落里专注做自己的东西。品牌CEO、日初资本创始人陈峰，内向、沉稳、理性，提出“慢是琳朝的竞争力”。琳朝的未来在世界，但根永远在兰州在金城关，守住来处，望向远方。有根在，琳朝不会飘；有根在，琳朝才能走远。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_ded2806f0f694a7086860df1cb0b62b0@6056299_oswg4685oswg1080oswg126_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>中国品牌的世界之路：</strong></p>\n  <p><strong>有人在奔赴未来，有人在回到源头</strong></p>\n  <p><strong>未来中国的商业，可能会走向两个完全相反的方向。</strong></p>\n  <p><strong>一个奔赴未来，投身AI、机器人与新的生产力革命，在未知中创造新的文明秩序。一个回归文明的源头，回归文化、自然、信仰与真实关系，探索中国文化的现代化。一个探索文明的下一站，一个寻找文明的源头。</strong></p>\n  <p><strong>琳朝的现象，并不是孤例。</strong></p>\n  <p><strong>近几年，越来越多的中国品牌正在这条“回归”的路上崛起。它们各自扎根于不同的土壤，却共享同一种气质——不追风口，不抄模板，不急于证明自己。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_84fab787ac704a1197c4368d2496a13e@6056299_oswg1082620oswg1080oswg799_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(图片来源于网络)</strong></p>\n  <p><strong>松赞酒店扎根滇藏线二十余年，将喜马拉雅地区的习俗、信仰、手工艺用故事的形式传播出去。它不建在景区里，而是建在村庄中，让旅行者住进���族人的家里，吃他们吃的食物，走他们走的路。它不是酒店，是一扇通往另一种生活方式的窗。&nbsp;</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_c96826eb961648bfbc1313ab4a5550d5@6056299_oswg780359oswg1080oswg528_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(观夏北京店铺)</strong></p>\n  <p><strong>观夏从中国人的共同生活经验中提取气味意象——桂花、白茶、昆明的雨后泥土，在云南景迈开启“东方香料归源计划”。它不模仿法国格拉斯，不复制意大利香氛的叙事，而是回到中国人自己的嗅觉记忆里，寻找那些被遗忘的气味。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_a88048a0d73d4ec0ab950e964a743ef2@6056299_oswg904047oswg1080oswg577_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(图片来源于网络)</strong></p>\n  <p><strong>山下有松从中原文化出发，连续两年以展览对话巴黎时装周。它不把“中国元素”当作装饰贴在西方版型上，而是从嵩山、黄河、中原文明的土壤里长出自己的设计语言。它去巴黎，不是去“被认可”，是去“对话”。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_512f32b755bc4c508e3ccc2c5707565c@6056299_oswg1125285oswg1080oswg706_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(泡泡玛特巴黎店)</strong></p>\n  <p><strong>泡泡玛特用潮玩语言重新定义中国IP的全球表达。它的LABUBU在东南亚、在欧美引发排队狂潮，靠的不是“中国风”，而是一种跨越文化的情感共鸣——一个丑萌的小怪物，让全世界年轻人觉得“它懂我”。</strong></p>\n  <p><strong>张雪机车用极致性能证明中国制造的高度。在重庆的山路上，在达喀尔的赛场上，它不靠“性价比”取胜，而是用一台又一台自主研发的发动机，告诉世界：中国摩托可以站在技术的最前沿。</strong></p>\n  <p><strong>这些品牌，摆脱了中国过去单一靠产品微创新、渠道驱动的传统模式，也摆脱了西方奢侈品产业身份、财富、地位叙事的定位体系。它们不为身份背书，不为财富代言，为热爱奔赴，为创造而生。</strong></p>\n  <p><strong>它们的共同点是：都不在“中心”，都选择“慢”，都把根扎在某个具体的地方。 松赞在滇藏线，观夏在云南景迈，山下有松在中原，琳朝在兰州金城关。它们不急着被世界看见，它们先在自己的角落里，把一件事做对了。</strong></p>\n  <p><strong>中国除了需要快的——走在时代前沿、探索文明未来的科技品牌、智慧AI产业，也需要慢的——探索文化文明源头的文化品牌。前者让我们走得更快，后者让我们走得更远。</strong></p>\n  <p><strong>一个奔赴未来，一个回归源头。 两者并不矛盾，它们共同构成了中国商业的完整图景。快的探索文明的下一站，慢的寻找文明的根。没有后者，前者会失去方向；没有前者，后者会被时代遗忘。</strong></p>\n  <p><strong>琳朝的意义，不在于它现在有多大，而在于它证明了：在中国，一个品牌可以不靠渠道扩张、不靠西方叙事模板、不靠金价红利，只靠文化和价值观，就能被看见。</strong></p>\n  <p><strong>未来真正的奢侈，是文化、价值观的输出，是中国特有的文化叙事。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_3dfafdb7ae3243aea8ab3fde565382fa@6056299_oswg4513oswg1080oswg127_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>未来真正的奢侈，是文化</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_5ff0b068f36e4ee583d3bea6a66748f8@6056299_oswg32982oswg1080oswg477_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>未来真正的奢侈，不是材料的重量，不是Logo的大小，不是身份与财富的炫耀。</strong></p>\n  <p><strong>未来真正的奢侈，是文化，是价值观的输出，是一种中国特有的文化叙事。</strong></p>\n  <p><strong>过去一百年，全球奢侈品的定义权掌握在西方手中。卡地亚定义“权力与荣耀”，爱马仕定义“传承与等待”，梵克雅宝定义“浪漫与永恒”。这套叙事的内核是外放的、对外的、向社会证明的——你拥有什么，你就属于哪个阶层。Logo是旗帜，材质是武器，价格是门槛。它的底层逻辑是“让别人看见我是谁”。</strong></p>\n  <p><strong>但中国人对奢侈的理解，从来不在这个坐标里。</strong></p>\n  <p><strong>中国人的精神底色里，有老庄的“道法自然”“无用之用”，有孔子的“君子不器”，有王阳明的“心外无物”。这种哲学滋养出来的奢侈，不是向外征服，是向内安顿。中国文人玩玉、赏瓷、品茶，从来不是为了向别人证明什么，而是为了与自己对话。一块玉的价值不在它值多少钱，而在“君子比德于玉”——温润、自持、不张扬。一件器的意义不在它有多贵，而在“器以载道”——它承载的是天道人心，是使用者对自我的期许。</strong></p>\n  <p><strong>这是两种完全不同的奢侈品叙事。</strong></p>\n  <p><strong>西方奢侈品的奢侈是“拥有”——拥有稀缺、拥有身份、拥有被仰望的位置。中国式的奢侈是“成为”——成为更好的自己，成为更完整的人，成为不被外界定义的存在。西方奢侈品让你“被看见”，中国奢侈品让你“看见自己”。</strong></p>\n  <p><strong>琳朝恰好长在这条脉络上。</strong></p>\n  <p><strong>它不模仿卡地亚的叙事，不复制爱马仕的视觉，也没有依附西方奢侈品牌对身份地位的定位体系。它只是用三代人的手，在兰州的金城关，做自己会做的事情。它不试图成为“中国的卡地亚”，它只是成为“兰州的琳朝”。</strong></p>\n  <p><strong>而支撑这个选择的，是一套完整的文化属性。如同琳朝的设计哲学里，有一个核心理念叫“个体价值导向”。让龙不再高高在上，而是成为每一个勇敢的人；为角落发声，在手镯的对口处精心錾刻；牡丹亭没有亭子，悟空里隐藏着自我——那是中国当代的留白，是给拥有者自己填写的空间。琳朝在用中国传统文化做一件事：重新翻译。它不把龙做成权力的象征，而是做成“勇敢做自己”的隐喻；它不把花丝做成炫技的展示，而是做成“看不见的地方也要做好”的修行。它倡导每个人都勇敢做自己，做极致的自我。</strong></p>\n  <p><strong>这背后是价值观的支撑。琳朝相信：你只要善良，就会有智慧；你一定要在别人不知道的地方去做对他好的事情，才能感动他。在产品背面、接口处、内壁——那些千百年来被默认“不必在意”的角落——琳朝花最多的时间去錾刻。创始人说：“每一件首饰，看不见的地方做好了，才能让你觉得干净。”这不是为了被人看见才做得好，是即便没人看见也要做好。 这和王阳明的“致良知”如出一辙——不是做给别人看，是做给自己的心看。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_bcac4807c63a4db6be4f1a70f8d614f0@6056299_oswg801835oswg1080oswg496_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>琳朝的企业文化，就是中国独有的价值体系。这才是琳朝的核心价值驱动。</strong></p>\n  <p><strong>如果琳朝是一棵树，那么——中国文化是土壤。 老庄的“无用之用”、王阳明的“致良知”、中国文人的“器以载道”、传统手工艺的“慢工出细活”——这些不是琳朝从书本里学来的概念，是它扎根的那片土地天然供给的养分。兰州金城关的居民楼、隔壁的汽修厂和药店、黄河边不急不躁的日常，都是这片土壤的一部分。</strong></p>\n  <p><strong>企业文化与价值观是树干。 极致热爱、以人为本、善良先行、本分长期——当这四个词不是挂在墙上的口号，是长在组织里的年轮。它们决定了这棵树能长多高、能扛多大的风、能活多久。树干不显眼，但它是所有枝叶的起点。</strong></p>\n  <p><strong>产品是自然生长的树枝。 龙回首、牡丹亭、角落镯、悟空——每一件作品都是从树干上长出来的枝丫。它们形态各异，但根脉相连。没有树干，就没有树枝；没有文化，就没有产品。产品是果，不是因。</strong></p>\n  <p><strong>琳朝今天“反常”的商业现象是自然生长的叶脉。 三天四千万、一周破亿、排队六小时、消费者从上海杭州赶来——这些是叶脉，是光合作用的结果，是外界能看到的部分。但叶脉再繁茂，也只是树冠的表象。真正决定这棵树能不能持续生长的，是埋在土里的根和看不见的年轮。当一个品牌的价值不再依赖金价波动、不再依赖渠道扩张、不再依赖西方叙事模板，而是扎根于本土文化、极致手工和原创精神时，它便获得了一种超越周期的能力。</strong></p>\n  <p><strong>现象，是果。产品，也是果。文化，才是因。中国需要更多这样的品牌。不是卡地亚的中国版，而是从兰州、从大理、从中国每一个具体的角落长出来的、带着手温的、敢于慢下来的品牌。它们不急着被世界看见，它们先在自己的角落里，把一件事做对了。</strong></p>\n  <p><strong>未来真正的奢侈，是文化，是价值观的输出，是一种中国特有的文化叙事。 它不喧哗，不张扬，不急于证明。它相信，一个品牌如果真正扎根于自己的文化土壤，用极致的手工和原创精神做每一件事，那么好的产品、好的商业、好的口碑，自然而然会自己生长。然后，世界会自己走过来。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_51de6127961e406a94f330ba2112b2a2@6056299_oswg124854oswg1080oswg710_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>(图片来源于网络)</strong></p>\n  <p><strong>一个从兰州金城关居民楼里走出来的品牌。</strong></p>\n  <p><strong>没有在一线城市开过店。没有明星代言。没有铺天盖地的广告。今天走进了南京德基，和卡地亚、宝格丽、梵克雅宝做了邻居。</strong></p>\n  <p><strong>消费者从上海、杭州赶来，拖着行李箱排六个小时的队，预定模式依然一件难求。这件事放在十年前，没有人会相信。放在五年前，也没有人会相信。但它发生了。</strong></p>\n  <p><strong>这不是一个品牌的胜利。这是一种文化自信的落地。当中国消费者不再仰视西方，开始回望自己的文化根脉，开始被那些真正扎根于本土、拥有极致手工与原创精神的品牌打动——这才是琳朝现象真正的土壤。</strong></p>\n  <p><strong>而这土壤下面，还有更深的东西。</strong></p>\n  <p><strong>琳朝的故事，说到底是一个关于“热爱”的故事。而这，不只是琳朝的故事。</strong></p>\n  <p><strong>它属于每一个在自己角落里默默做事的人。可能现在还不为人知，可能还需要很长时间的沉寂，可能在外人看来“走得不够快”。但他们知道自己在做什么，他们享受的是创造的过程，而不是被看见的结果。</strong></p>\n  <p><strong>中国需要更多这样的品牌。中国也需要更多这样的人。真正扎根于自己的土壤，用极致的热爱本分长期的做好每一件事。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_9dcf4cb2f37f464cbccafa80236e42a5@6056299_oswg1443oswg659oswg54_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_2a2811e50246422f8a0f16069a5c4b2b@6056299_oswg8804oswg1080oswg199_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260930/v2_d99b7de7a6a84ef98437f89c74646c30@6056299_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s?__biz=MzIzNDYwMzM5Nw==&amp;tempkey=MTM5NF9sMnVZWndzMkNiMnU2Sk1BUlRxaGVTemFQZGJ2LVNlZmpTbU5kREFpTE5RRE50bEFFZjBIVmFKTGVqb19OWFRScjBhV0RYSzNCbnVWdlBRakdURG9WdDNTUzRJQl9pR3BmdndLTk1iRFB0SkdyYllsWnpRS0h2WGhSM3RJYXN0dVdSVTFkNDBnSi0zdTB6alhqQlozeXZoSzJtODhwbUtLNXdnampnfn4%3D&amp;chksm=6950fe168ee4bc7720d62f307e2f847639a77c5a9b11def587987e8994524c09943d7ee83eb7&amp;mpshare=1&amp;scene=1&amp;srcid=09301WZm7vU2ObhYwPF19xEq&amp;sharer_shareinfo=59548a62e8d199b81c210568b193e44d&amp;sharer_shareinfo_first=59548a62e8d199b81c210568b193e44d#wechat_redirect\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪未来消费”</a>，36氪经授权发布。</p>",
-      "category": "tech",
-      "published_at": "2026-09-30T11:38:45+00:00",
-      "fetched_at": "2026-10-01T03:49:13.750888+00:00",
-      "fingerprint": "ff4048639cff43c5"
-    },
-    {
-      "source": "少数派",
-      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
-      "url": "https://sspai.com/post/114945",
-      "summary": "祝你旅途顺遂，假期自由。<a href=\"https://sspai.com/post/114945\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-30T03:02:18+00:00",
-      "fetched_at": "2026-10-01T03:49:12.443408+00:00",
-      "fingerprint": "39303ac00c57ca45"
-    },
-    {
-      "source": "少数派",
-      "title": "经典任务管理软件的现代重构：新版 2Do 详解",
-      "url": "https://sspai.com/post/115166",
-      "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。<a href=\"https://sspai.com/post/115166\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-30T07:00:00+00:00",
-      "fetched_at": "2026-10-01T03:49:12.443404+00:00",
-      "fingerprint": "4d7bbdc9caab1380"
-    },
-    {
-      "source": "少数派",
-      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
-      "url": "https://sspai.com/post/115070",
-      "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？<a href=\"https://sspai.com/post/115070\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-09-30T14:32:58+00:00",
-      "fetched_at": "2026-10-01T03:49:12.443396+00:00",
-      "fingerprint": "fa43a719564f0228"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6714 CNY ↓-0.51%",
-      "url": "https://www.frankfurter.app/2026-09-30?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-09-30</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6714 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0240 (-0.51%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-10-01T03:49:11.358897+00:00",
-      "fingerprint": "32f7e5a0ad500c8f"
     }
   ]
 }
