@@ -1,7 +1,327 @@
 {
-  "updated_at": "2026-10-08T04:12:11.503707+00:00",
-  "count": 140,
+  "updated_at": "2026-10-09T04:17:30.708666+00:00",
+  "count": 154,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+      "url": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
+      "summary": "<p>Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war </p><p>Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that renewed internal conflict in Ethiopia could trigger an all-out regional war between the neighbouring countries.</p><p>Military vehicles carrying soldiers drove across Eritrea’s southern border into Tigray on Wednesday, reaching the town of Adigrat 25 miles (40km) south, according to civilian witnesses, a militia commander and the conflict monitoring group Acled.</p> <a href=\"https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-08T16:11:32+00:00",
+      "fetched_at": "2026-10-09T04:17:30.706734+00:00",
+      "fingerprint": "b53fa4a59e10c2a5"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "summary": "<p>Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme</p><p>A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thriving.</p><p>A population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-08T20:20:31+00:00",
+      "fetched_at": "2026-10-09T04:17:30.706728+00:00",
+      "fingerprint": "0f56c6490f5fc2e7"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "summary": "<p>Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood</p><p>Egyptian journalists are planning a new protest in Cairo this weekend after <a href=\"https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom\">six colleagues were charged with terrorism offences</a> amid allegations they had been tortured in police detention.</p><p>Last week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing false news on behalf of the outlawed <a href=\"https://www.theguardian.com/world/muslim-brotherhood\">Muslim Brotherhood</a>.</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-09T04:00:38+00:00",
+      "fetched_at": "2026-10-09T04:17:30.706719+00:00",
+      "fingerprint": "67c6725d9a3c0567"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "category": "politics",
+      "published_at": "2026-10-08T15:02:32+00:00",
+      "fetched_at": "2026-10-09T04:17:30.630827+00:00",
+      "fingerprint": "7ef7a15d9bee089f"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "category": "politics",
+      "published_at": "2026-10-08T16:31:29+00:00",
+      "fetched_at": "2026-10-09T04:17:30.630823+00:00",
+      "fingerprint": "672400258c37a954"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "category": "politics",
+      "published_at": "2026-10-09T03:36:12+00:00",
+      "fetched_at": "2026-10-09T04:17:30.630818+00:00",
+      "fingerprint": "8fd01290ea63ca9d"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "category": "politics",
+      "published_at": "2026-10-08T23:11:10+00:00",
+      "fetched_at": "2026-10-09T04:17:30.630809+00:00",
+      "fingerprint": "8c398c4db6534f12"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「那揮之不去的恐懼」：「宿醉焦慮」真的存在嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "「宿醉焦慮」（hang-xiety），大約十年前在社交俚語中被創造出來的名字，用來形容可能伴隨宿醉而來的焦慮感。目前它的存在被研究證實。",
+      "category": "politics",
+      "published_at": "2026-10-09T00:18:12+00:00",
+      "fetched_at": "2026-10-09T04:17:30.540481+00:00",
+      "fingerprint": "4a844aab70e708dd"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "口譯與施壓：台灣楊双子德國活動捲入政治爭議的前前後後",
+      "url": "https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "楊双子在慕尼克的座談會遇上翻譯連番失誤，且傳出中國領館曾要求取消活動之說，但德國主辦方對BBC中文予以否認。",
+      "category": "politics",
+      "published_at": "2026-10-08T05:29:23+00:00",
+      "fetched_at": "2026-10-09T04:17:30.540476+00:00",
+      "fingerprint": "551979dce7b0f1cc"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
+      "url": "https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "台灣曾被視為亞洲唯一能合法拍攝無碼成人影片的地區，並在2020年前後快速擴張。隨著片商「麻豆傳媒」停運，外界開始質疑這波繁榮是否與中國市場及博弈資金有關。",
+      "category": "politics",
+      "published_at": "2026-10-08T09:37:08+00:00",
+      "fetched_at": "2026-10-09T04:17:30.540470+00:00",
+      "fingerprint": "38da8fdcbc198cbd"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "與新冠病毒不同，肺鼠疫要等到症狀出現後才能傳播，通常在24小時內。症狀嚴重且明顯，因此後續個案可在傳播發生前被迅速辨識、隔離並治療。",
+      "category": "politics",
+      "published_at": "2026-10-08T12:34:52+00:00",
+      "fetched_at": "2026-10-09T04:17:30.540465+00:00",
+      "fingerprint": "8286e8e3f4d5648a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "老撾的班根軍用機場 中國能用來做甚麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "專家認為，未來的班根軍事設施可能承擔更多功能，而不僅僅是一個普通的訓練中心。",
+      "category": "politics",
+      "published_at": "2026-10-09T00:18:18+00:00",
+      "fetched_at": "2026-10-09T04:17:30.540456+00:00",
+      "fingerprint": "6a5ba222296a4394"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-09T04:17:30.198398+00:00",
+      "fingerprint": "0768c61042864630"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-09T04:17:30.198315+00:00",
+      "fingerprint": "89bdda8f26315d32"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-09T04:17:30.198229+00:00",
+      "fingerprint": "59bde841e4dd6b43"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Reducing undefined behavior in the C language",
+      "url": "https://lwn.net/Articles/1095811/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-09T04:17:30.198149+00:00",
+      "fingerprint": "19dad65fe509ea68"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-09T04:17:30.198047+00:00",
+      "fingerprint": "8e671fda16b4ef2f"
+    },
+    {
+      "source": "The Verge",
+      "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+      "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+      "summary": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-08T21:01:18+00:00",
+      "fetched_at": "2026-10-09T04:17:30.067098+00:00",
+      "fingerprint": "0105171d2f47a0c3"
+    },
+    {
+      "source": "The Verge",
+      "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "summary": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-08T21:23:31+00:00",
+      "fetched_at": "2026-10-09T04:17:30.067093+00:00",
+      "fingerprint": "b66c80208096c7ae"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-08T21:53:51+00:00",
+      "fetched_at": "2026-10-09T04:17:30.067088+00:00",
+      "fingerprint": "0856c1a27e7e11a7"
+    },
+    {
+      "source": "The Verge",
+      "title": "US plans livestream of execution by firing squad",
+      "url": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+      "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-08T22:32:04+00:00",
+      "fetched_at": "2026-10-09T04:17:30.067079+00:00",
+      "fingerprint": "4268295049087d74"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "两年破5800万DAU，三角洲的“赢”没有标准答案",
+      "url": "https://36kr.com/p/4017128711278725?f=rss",
+      "summary": "<p>10月8日，《三角洲行动》公布最新日活跃数据——5800万。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_95698ed261a14e1cb1b319a2d164d001@242988687_oswg891993oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">两周年之际，《三角洲行动》国服日活用户突破5800万</p>\n  <p>据官方披露，游戏国服日均活跃用户数再创新高，突破5800万，延续了今年初国服 DAU 突破 5000 万后的增长势头。在不久前的重庆二周年庆典上，琳琅天上团队再次抛出重磅研发蓝图：5v5 回合制拆弹玩法「黑潮爆破」Beta 赛季即日起上线，11月推出 UE5 引擎升级，同时公布了突破性的跨难度新地图「围城·瓦尔基里」与长线叙事「群星计划」。</p>\n  <p>中国音像与数字出版协会数据显示，2025 年国内游戏用户规模达 6.83 亿，增速已放缓至 1.35%；伽马数据等统计也表明，移动端 TOP100 列表中老产品收入占比高达 94.8%。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_8fcebbd0720b4ea7aa5fbb0a952dfe87@242988687_oswg112666oswg1080oswg520_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">数据来源：中国游戏产业研究专家委员会&amp;伽马数据（CNG）</p>\n  <p>整个中国游戏市场已步入“存量主导”时代。对于一款已经证明过自身爆发力的大 DAU 产品而言，行业更关心的命题是：《三角洲行动》凭什么能够做到真正的长青？</p>\n  <p>答案或许就藏在制作人 Shadow 与主策划 Ricky 在周年庆期间受访时反复提到的一句话里：“在三角洲里，赢，没有标准答案。”</p>\n  <h2><strong>01 千万级大盘，装不下“单一答案”</strong></h2>\n  <p>“这个产品是跟玩家以及整个三角洲生态一起成长起来的。” 制作人 Shadow 坦言。在采访中，他清晰地梳理出了《三角洲行动》上线两年来的用户演进路线：上线初期，团队瞄准的是「找到自己」，先解决「我是谁，产品核心定位是什么”；此后随着DAU一路飞涨，在核心射击玩家之外，内容向、二次元、大众与手游用户大规模涌入，团队越来越意识到：三角洲的盘子已经从核心射击玩家演进到多元的大众玩家。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_41926b4b43a0461aad77d479d11bfb74@242988687_oswg760524oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《三角洲行动》上线初期slogan</p>\n  <p>传统竞技射击厂商习惯“立规则”——比K/D、比段位、榜单，过去的三角洲也有从“普通-机密-绝密”的线性成长路径，但在数千万不同背景的玩家面前，这种单一路径必然失效。</p>\n  <p>“很多用户并不需要我们给他设定一条固定的路径。” Shadow 表示。“在三角洲里，玩家关注是多元的，不仅是‘你是什么段位？’或者‘你的KD是多少？’，还有‘你这个赛季有没有摸到新大红？’&nbsp;，‘你的隐藏成就xxx完成没有？’”，</p>\n  <p>当产品大到一定体量，官方不可能再用统一到规则框定玩家，而“供给土壤，让故事自然发生”是三角洲破局的方式。</p>\n  <h2><strong>02 每投一个玩法，都希望投到“透”</strong></h2>\n  <p>在这个庞大的生态里，如果你是「鼠鼠」，你可以四处搜刮物资，见人就跑，用最小的代价啃完最丰富的物资；如果你想要「猛攻」，可以拉满顶级战备进图“厮杀”，追求纯粹高燃爽打；也有玩家迷恋收集“手办”，把各种炫彩娃娃集满一面墙；还有玩家专门整活，在游戏里不打不搜，集体跳一曲“得吃舞”、发一句「新年快乐」化解干戈。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_072fedb992fb4f3e94cf26445fa0d3c7@242988687_oswg671776oswg1080oswg1969_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">玩家盘点的“炫彩娃娃”</p>\n  <p>面对庞杂的需求，Shadow给出的答复是：“每投一个玩法，都把它投到透、做到极致。”</p>\n  <p>渴望快节奏纯粹钢枪的群体，可以享受5v5回合制的黑潮爆破；针对追求博弈落差的群体，即将上线打破次元壁、拥有强故事题材的烽火地带新地图「瓦尔基里」，用一堵高墙划分内外城，将风险与收益的选择权完全交还给玩家；而全面战场也在继续加大技术投入，满足玩家对大场面临场感与“娱乐爽游”的诉求。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_c9989ecd8d494b4ca8ed84fe40f5f62c@242988687_oswg941052oswg1080oswg570_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">二周年公布烽火地带新地图「瓦尔基里」</p>\n  <p>而纵向来看，搜打撤（烽火地带）里的每张图也要“做到透”，去满足不同流派的多元用户。用Shadow的话来说，是利用不同地图特性和对用户需求的洞察，在“搜打撤”模式中做平台化。以最新赛季的长弓溪谷2.0改版为例，这张地图原本就凭借开阔的风光和相对平缓的对抗压力，成为新手和休闲玩家偏爱的“避风港”。官方敏锐捕捉到这种既有的玩家习惯，引入了钓鱼、口琴等交互玩法，将原本就偏低压的地图顺势演变为一个惬意的社交沙盒——有人在水边静静坐上一整天，有人开着载具做起了“滴滴打船”生意，有人拿起口琴随机偶遇自己的“子期”，甚至有玩家专门进图拍照打卡。</p>\n  <h2><strong>03 官方幕后搭台，玩家幕前执导</strong></h2>\n  <p>十几万玩家协力解密官方隐藏彩蛋，最终彩蛋里复刻了弹琴的阿萨拉小兵，以及一个个社区高光回忆和真实留言，把无数玩家看泪目；周年庆现场，玩家的情绪一路被精彩的发布会和音乐会带动，不断高呼「新年快乐」、「三角洲，牛X」；而社区投票产生的“十大名梗”也正儿八经地登上庆典舞台······这些不与传统FPS竞技数据挂钩的内容，却构成了这款游戏真正吸引人的东西。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_dedbbb4128e048b4a331d124bac00c3d@242988687_oswg90041oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏内彩蛋画面</p>\n  <p>谈及如何挑选这些社区内容做进游戏彩蛋时，主策划 Ricky 给出了解答：“说‘挑选’不太准确。我们在周年庆里放小兵弹琴，是因为去年看到那条学生 Cos 阿萨拉小兵弹琴的视频，让我们深受感动。我们不是在筛选玩家内容，更多是在致敬。 想把这些美好让更多人看到，这与致敬经典作品是一个道理。”</p>\n  <p>另一方面，做大DAU产品最忌“一刀切”蛮干，主策划 Ricky 与 Shadow 并不避讳曾经的踩坑经验，为了解决生态流动性问题，项目也成立了专项小组，小步快跑地在幕后维护好生态的平衡。“用户和生态是流动的，也是不断成长的。”“既保护好硬核钢枪的爽感，也让新手或低枪法门槛的玩家能找到本命干员。”</p>\n  <p>Shadow和Ricky在采访中常提及一句话：“最好的故事以及最好的体验是玩家创造出来的。”&nbsp;</p>\n  <p>我想，这句话或许是对三角洲过去两年最好的注解：好的游戏，是为玩家提供土壤，接得住玩家需求，让各类玩家都能各尽其兴，乐在其中；教玩家怎么玩才算\"对的\"的时代，已经过去了。</p>\n  <h2><strong>04 走向世界的“三角洲”，长青IP的全球野心</strong></h2>\n  <p>对于一款想要长青的产品而言，纯粹的玩法机制决定了初始的爆发力，但鲜活的人物塑造与长线叙事能力，才是决定 IP 寿命与走向全球的终极法宝。</p>\n  <p>纵观过往的 FPS 赛道，绝大多数服务型射击游戏（GaaS）在叙事上都陷落于“工具化”的尴尬境地，角色的设计服务于机制排位，玩家对角色的选择更多因为技能、数值，缺乏情感羁绊，一旦玩法新鲜感退潮，产品也更易面临用户流失。</p>\n  <p>而对于想要“走向世界”的国产 FPS 而言，高质量的 IP 叙事与人物塑造，更是破除文化壁垒的“通用货币”。 在欧美等海外成熟市场，玩家从小接受 AAA 级大作的洗礼，对射击游戏的诉求早已超越了“单纯对枪”——他们消费的是IP的故事感与沉浸感。如果仅凭玩法机制出海，极易遭遇文化隔阂与同质化竞争，水土不服；唯有通过鲜活立体的角色形象与深刻的世界观叙事，才能建立跨越地域与文化的情绪共鸣，留住用户心智。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_cbc8f6dcb4f0428fa3d00cfcf41fd9f5@242988687_oswg773984oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">群星计划正式亮相</p>\n  <p>《三角洲行动》在二周年庆典上抛出了长线叙事的「群星计划」，并重磅首发了&nbsp;3 条干员叙事PV。三条PV不再满足于展示技能打法，而是将镜头深入干员的性格底色、命运抉择与阵营纠葛。它们将干员从“技能工具”提升为有血有肉的“故事主角”，不仅大大提升了干员的辨识度，也让《三角洲行动》有机会蜕变为面目清晰、具备极强叙事张力的 IP 宇宙。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_f6e22c143dce450fb135dc33a459d3d4@242988687_oswg126283oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">无数玩家自发repo</p>\n  <p>随着烽火世界杯落户瑞典斯德哥尔摩，长线叙事计划的公布；从玩法突破到IP面目的愈发清晰，《三角洲行动》用极具战略定力的投入证明：它要做的不仅是一款高DAU长青游戏，更是一个能代表国产工业水准、征服全球市场的顶级射击IP。</p>\n  <h2><strong>结语 &nbsp;从“玩点好的”到“我来同你玩，怎么玩你说了算”</strong></h2>\n  <p>上线初期，《三角洲行动》的 Slogan 是“玩点好的”。那是产品在供给侧的强力宣言——用顶级画质、硬核枪感和高品质体验征服市场。可能有人觉得《三角洲行动》变了。从高燃爽打变成包罗万象，成为需要承接全需求的产品。但它贯彻的其实仍是初心“始终为玩家提供高品质内容”。</p>\n  <p>「玩点好的」解决的是游戏如何给玩家提供更好的体验；「我来同你玩，怎么玩你说了算」，是一款大 DAU 产品走向成熟的标志。它不再定义成功，而是化作一片肥沃且自由的土壤，进一步把选择权交还给玩家——你可以追求胜��，追求刺激，可以钓鱼、整活、收藏，也可以因为一个陌生人的善意，留下属于自己的故事。</p>\n  <p>游戏提供的是一个足够丰富的世界，而真正决定这个世界最后长成什么样的，是里面的每一个玩家。</p>\n  <p>本文首发自<a href=\"https://mp.weixin.qq.com/s/wSkalc_koITNlNdZef3ziA\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪游戏”</a>。</p>",
+      "category": "tech",
+      "published_at": "2026-10-08T11:22:32+00:00",
+      "fetched_at": "2026-10-09T04:17:29.977373+00:00",
+      "fingerprint": "cfa7e12ebdf6a3ad"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨国际金价回调，金饰克价已暴跌约150元；A股千元股仅剩3只；711印度门店全部关闭",
+      "url": "https://36kr.com/p/4017873472884616?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>粤万年青：澄清董事长欧先涛未涉航班冲突传闻，已报案处理</li>\n   <li>711印度门店全部关闭</li>\n   <li>2026年诺贝尔文学奖揭晓</li>\n   <li>腾讯据悉考虑发行至多50亿美元离岸债券</li>\n   <li>消息称三星手机四季度最高减产30%</li>\n   <li>Manus完成超5亿美元新一轮融资</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>国际金价显著回调，金饰克价已暴跌约150元</strong></p>\n  <p>近期，国际金价经历显著回调，COMEX黄金期货跌破每盎司4200美元，国内沪金击穿每克900元关口，品牌金饰价格较高点累计下跌每克150元左右。受金价下行带动，深圳水贝首饰金挂牌价回落至每克1061元。</p>\n  <p>金价回调叠加节日促销，让这个全国最大的黄金珠宝集散地迎来了外地游客的购金热潮。一名黄金导购表示，国庆期间每天至少带30到40组外地客户到水贝购买黄金。与此同时，水贝市场的“国际面孔”悄然增多，钻石类首饰和高品质金饰尤其受到海外游客的青睐。（央视财经）</p>\n  <p><strong>A股千元股仅剩3只：联讯仪器、源杰科技、贵州茅台</strong></p>\n  <p>受半导体、通信板块走低影响，10月8日高价股群体中权重最大的科技类个股普遍下跌。其中，寒武纪跌幅近3%，股价收报于981元，收盘价时隔近1个半月再次回落至千元下方。至此，全市场千元股数量缩减至3只，分别为联讯仪器（1420元）、源杰科技（1290.40元）、贵州茅台（1255.79元）。</p>\n  <p>若百元股角度统计，其指数8日盘中创8月4日以来近2个月新低，同时即将逼近7月30日录得的阶段低点，近7个交易日累计回撤近12.95%。具体个股来看，长光华芯、源杰科技、芯原股份、宏景科技、东山精密、晶丰明源、联特科技、优迅股份、仕佳光子、鼎通科技等共23股近7日跌幅超20%。（财联社）</p>\n  <p><strong>711印度门店全部关闭</strong></p>\n  <p>日本零售业巨头7&amp;I控股公司10月6日发布声明说，其旗下连锁便利店品牌7-11位于印度的所有门店均已关闭。日本媒体称，7-11便利店因不敌当地竞争对手而退出印度市场。（财联社）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>英伟达支持的AI数据中心公司Firmus上市遇阻</strong></p>\n  <p>英伟达支持的澳大利亚AI数据中心运营商Firmus Grid原计划通过首次公开募股（IPO）筹集至多55亿美元，有望跻身澳大利亚历史上规模最大的IPO之一。然而，随着投资者对公司上市后股价表现及现有股东潜在抛售压力的担忧加剧，Firmus的上市计划正面临不确定性。</p>\n  <p>10月8日，公司按计划结束IPO询价簿记，但最终发行价格及交易结构仍不明确。受相关消息影响，Firmus现有股东Maas Group Holdings在悉尼交易时段股价一度暴跌30%，创下该股有记录以来的最大跌幅。（新浪财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>江淮汽车回应尊界V800刹车踏板支架断裂</strong></p>\n  <p>10月8日，针对尊界V800刹车踏板支架断裂一事，江淮汽车方面向记者表示，公司已关注到此事，目前正在调查中，还在多方做测试，有结果后会有官方说明。</p>\n  <p>这一风波起源于懂车帝在10月8日对外放出的场地实测视频。视频显示，三台全新的尊界V800在封闭场地开展百公里时速至静止的紧急制动试验，连续多次重刹后，车辆刹车踏板支架先后出现断裂问题。故障出现于第2至第4次全力制动，一旦支架断裂，车辆常规脚刹功能直接失效，驾驶员只能依靠挂入P挡实现应急减速。</p>\n  <p>10月8日，江淮汽车盘中跌停，报24.72元/股。截至收盘，成交额为36.14亿元，换手率达6.35%，最新市值为557.23亿元。（贝壳财经、21财经）</p>\n  <p><strong>粤万年青：澄清董事长欧先涛未涉航班冲突传闻，已报案处理</strong></p>\n  <p>36氪获悉，粤万年青公告，公司关注到网络平台出现“9月28日东航MU6741航班客舱冲突事件涉事旅客为公司董事长欧先涛”的不实言论。经核实，公司针对上述传闻说明如下：网络流传涉及公司董事长、总裁欧先涛的相关内容均不属实，欧先涛从未乘坐该航班，上述信息系无任何事实依据的恶意捏造，已构成对公司董事长个人名誉及公司商业信誉的侵害。欧先涛已向公安机关报案并获受理，公司也同步就相关传播内容开展证据留存与保全工作。公司将根据相关法律法规，对编造、散布上述不实信息的主体依法追究法律责任，坚决维护公司及全体投资者的合法权益。</p>\n  <p><strong>2026年诺贝尔文学奖揭晓</strong></p>\n  <p>2026年10月8日晚7点，诺贝尔文学奖名单揭晓：获奖者是加拿大诗人安妮·卡森。评委会给她的评语是：“她大胆创新的作品，在与古典传统充满趣味的对话中，为当代文学创造了新的形式。”</p>\n  <p>安妮·卡森被誉为“英语文学中最重要的在世诗人”，深受哈罗德·布鲁姆、桑塔格、翁达杰等一流评论家和作家的推崇。布鲁姆称其为“在世诸天才之一”，可与艾米丽·勃朗特和艾米丽·狄金森相提并论。（封面新闻）</p>\n  <p><strong>美国上周首次申领失业救济人数为19.7万人，小幅低于预期</strong></p>\n  <p>美国上周首次申领失业救济人数为19.7万人，预估为20万人。（财联社）</p>\n  <p><strong>波长光电：公司及董事长等被提起公诉，涉走私国家禁止进出口货物罪</strong></p>\n  <p>36氪获悉，波长光电公告，公司收到上海市人民检察院第三分院《起诉书》，公司及董事长黄胜弟等四人被以涉嫌走私国家禁止进出口的货物罪提起公诉。涉案金额为2010.85万元，案发于2023年8月至2025年4月。公司称诉讼预计不会对持续经营能力产生重大影响，目前生产经营正常，判决结果存在不确定性。</p>\n  <p><strong>腾讯据悉考虑发行至多50亿美元离岸债券</strong></p>\n  <p>据知情人士称，腾讯控股在考虑发行至多50亿美元的离岸债券。这些债券可能以美元和离岸人民币计价，最早或于本月发行。腾讯6月已通过发行长期美元和人民币债券筹集了近47亿美元资金，创其2020年以来最大发债规模，所得资金主要用于债务再融资，以及包括开发AI产品和服务在内的一般公司用途。（新浪财经）</p>\n  <p><strong>台积电9月销售额同比增长54.6%</strong></p>\n  <p>台积电9月销售额5118.6亿元新台币，环比下降0.6%，同比增长54.6%。台积电2026年前三季度营收38987.3亿新台币，同比增长41.1%。（财联社）</p>\n  <p><strong>贝索斯首次明确蓝色起源上市时间表：已融资100亿美元、估值最高1400亿美元</strong></p>\n  <p>亚马逊创始人杰夫·贝索斯10月7日表示，旗下太空公司蓝色起源（Blue Origin）未来可能进行首次公开募股（IPO），但距离正式上市仍有数年时间。这是贝索斯迄今对蓝色起源潜在上市计划最明确的表态之一。今年早些时候，蓝色起源完成成立以来首轮大规模外部融资，筹集100亿美元，估值达到约1300亿至1400亿美元。随着公司获得美国政府数十亿美元的太空项目合同，并加快推进重型运载火箭计划，蓝色起源正逐步扩大外部融资规模。（新浪财经）</p>\n  <p><strong>消息称三星手机四季度最高减产30%</strong></p>\n  <p>据韩媒报道，三星电子旗下的移动体验事业部（MX）已开始削减今年第四季度的产量，预计减产幅度高达30%。外界认为，此举原因是假日季内存芯片价格大幅上涨，导致营业利润率承压。多位行业消息人士7日透露，该部门近期要求合作伙伴将产品供应量减少20%至30%。因此，三星电子第四季度智能手机产量预计将下降至多30%。（财联社��</p>\n  <p><strong>美股三大指数收盘涨跌不一，英特尔跌超5%</strong></p>\n  <p>36氪获悉，10月8日收盘，美股三大指数涨跌不一，纳指跌1.25%，标普500跌0.47%，道指涨0.1%；大型科技股多数下跌，英特尔跌超5%，美光科技、SK海力士、SpaceX跌超4%，英伟达、亚马逊跌超2%，微软跌超1%，特斯拉、谷歌、Meta小幅下跌，苹果涨超1%；热门中概股普跌，蔚来跌超3%，百度、阿里巴巴跌超1%，网易、理想汽车、哔哩哔哩、京东、小鹏集团、拼多多小幅下跌。</p>\n  <p><strong>苹果给开发者下硬规定：明年4月所有App必须适配折叠屏</strong></p>\n  <p>10月8日，据了解，苹果近日面向全球应用开发者公布针对首款折叠屏iPhone Duo的应用提交新规，要求开发者适配iPhone Duo，否则从明年4月起，新应用和更新都无法通过App Store审核。该政策标志着苹果正式建立折叠屏iPhone的应用上架准入标准。（财联社）</p>\n  <p><strong>特朗普8月买入最高2500万美元Meta股票</strong></p>\n  <p>根据新披露的财务文件，美国总统特朗普在8月完成500多笔证券交易，其中包括最高2500万美元Meta股票；他还购入最高500万美元SpaceX债券，这笔投资发生在他签署一份覆盖面广泛的备忘录前两天，该备忘录旨在扩张美国商业航天运输体系。这份18页文件显示，特朗普投资组合交易依旧十分活跃，只是相比6、7月有所放缓，那两个月他各自披露超1000笔交易。（新浪财经）</p>\n  <p><strong>央行：近年来中国贸易的一个重要结构性变化，是对汇率变化的敏感度明显下降</strong></p>\n  <p>36氪获悉，央行发布人民币汇率的政策立场指出，近年来中国贸易的一个重要结构性变化，是对汇率变化的敏感度明显下降。从贸易结构看，中国出口结构转型升级，从低端劳动密集型产品为主向中高端、多样化产品转变。过去5年，中国高技术产品进出口年均增长7.9%，2025年同比增速进一步升至11.4%，对整体外贸增长的贡献率接近六成。中国出口商不再是单纯的价格接受者，而是嵌入全球供应链，可与上下游企业共担汇率成本。从贸易相关的金融服务看，外贸企业更多使用汇率避险手段，约30%的贸易采用人民币结算，企业外汇套保比例也达到30%左右，进一步降低了贸易对汇率波动的敏感性。未来这些比例有望进一步提升。</p>\n  <p><strong>美股Q3财报季将登场，英伟达美光“唱主角”</strong></p>\n  <p>美股Q3财报季将于下周正式拉开帷幕。据ZeroHedge的一项分析，英伟达和美光预计将占标普500指数Q3每股收益增长的三分之一以上。该分析还发现，总体而言，人工智能基础设施公司预计将驱动标普500指数Q3每股收益增长的一半以上。（财联社）</p>\n  <p><strong>国庆假期1546.2万人次出入境，日均220.9万人次</strong></p>\n  <p>据国家移民管理局通报，今年国庆假期全国边检机关共保障1546.2万人次中外人员出入境，日均220.9万人次，较去年同期增长6.7%；单日出入境通关最高峰出现在10月4日，达239.7万人次。其中，内地居民出境444.4万人次，较去年同期增长9.3%；外国人入境68.2万人次，适用免签政策入境50.5万人次，较去年同期分别增长5.4%、9.2%。共计查验出入境交通运输工具73.2万架（艘、列、辆）次，较去年同期增长14.7%。（央视新闻）</p>\n  <p><strong>人社部就《新就业形态劳动者权益保障办法（征求意见稿）》公开征求意见</strong></p>\n  <p>36氪获悉，为了保障新就业形态劳动者合法权益，明确平台企业、平台用工合作企业、新就业形态劳动者的权利和义务，推动新就业形态健康发展，人力资源社会保障部、交通运输部、文化和旅游部、国家卫生健康委、市场监管总局、国家医保局、国家网信办共同研究起草了《新就业形态劳动者权益保障办法（征求意见稿）》，现向社会公开征求意见。</p>\n  <p><strong>市场监管总局持续开展网络食品销售虚假宣传整治，立案调查1.4万件</strong></p>\n  <p>国庆节期间，市场监管总局指导各地市场监管部门深入推进网络食品销售虚假宣传专项整治行动，紧盯节令食品、网红食品、保健食品等网络销售重点，对虚假宣传、误导消费等问题“零容忍”，严厉打击违法违规行为。今年以来，全国累计检查食品经营主体82.1万家次，发现问题7.2万个，立案调查1.4万件，罚款6130.4万元，移送公安机关289件。网络平台违规链接及虚假宣传信息得到大量清理，资质信息公示不全等问题得到有效整改，食品经营整体合规水平有效提升。（央视新闻）</p>\n  <p><strong>保时捷将削减车型衍生版本数量，高端车型计划涨价20%</strong></p>\n  <p>10月7日，跑车制造商保时捷在资本市场日上披露，将优化车型衍生版本数量，使产品组合更聚焦于有吸引力的高端细分市场。公司计划将车型衍生版本数量减少约20%，以降低产品组合的复杂性。预计中期内，每个车型衍生版本的平均销量将提升约30%。据披露，保时捷计划将其高端车型售价平均提高20%，并将推出一款911衍生车型。到2030年，保时捷高端车型的平均价格预计将从今年的约27万欧元升至超33万欧元。保时捷表示，到2030年计划每年至少推出一款定义品牌形象的新产品。（界面新闻）</p>\n  <p><strong>亚马逊多个团队再度裁员</strong></p>\n  <p>据媒体最新报道，亚马逊员工周二称，公司多个业务部门开启新一轮裁员。媒体看到消息显示，一批员工在内部Slack频道发文，表示收到邮件通知岗位被撤销。这个近3.7万名成员的频道瞬间充满提问，大家关心遣散补偿、内部岗位投递权限，以及是否还会收到更多裁员通知。消息显示本次裁员覆盖多个业务单元，包含客服、平台支持、亚马逊零售业务的工程岗位，同时波及印度与英国团队。（新浪财经）</p>\n  <h2>上市进行时</h2>\n  <p><strong>上交所终止赛克赛斯科创板发行上市审核</strong></p>\n  <p>36氪获悉，据上交所官网显示，赛克赛斯生物科技股份有限公司科创板IPO审核状态变更为“终止”。</p>\n  <p><strong>传音控股正式启动香港联交所主板招股</strong></p>\n  <p>36氪获悉，传音控股日前正式启动香港联交所主板招股，A+H双重上市进程进入关键阶段。业绩方面，2026年上半年公司实现营收354.31亿元，同比增长21.85%；归母净利润17.73亿元，同比增长46.22%；扣非净利润14.80亿元，同比增长64.98%。本次港股募资净额将主要投向AI与终端技术研发、全球品牌及渠道拓展、移动互联网与物联网生态建设，助力公司向“手机+移动互联服务+扩品类”科技生态平台转型。</p>\n  <h2>大公司财报</h2>\n  <p><strong>LG能源第三季度合并营收9.64万亿韩元</strong></p>\n  <p>LG能源第三季度合并营收9.64万亿韩元，高于此前预期的8.48万亿韩元。LG能源第三季度营业利润为7560亿韩元，高于预期的3654.8亿韩元。（新浪财经）</p>\n  <p><strong>百事公司第三季度营收252.74亿美元，同比增长5.6%</strong></p>\n  <p>百事公司公布2026年第三季度业绩，营收252.74亿美元，同比增长5.6%；有机营收增长3.1%，核心每股收益2.34美元，同比增长2%。公司上调全年有机营收增长预期至约3%，净营收增长约6%，但将核心每股收益增长预期下调至2.5%至3.5%，反映成本压力及利润率挑战。公司表示，国际市场表现强劲，并将持续通过创新及成本削减措施支持投资。（界面新闻）</p>\n  <p><strong>东岳硅材：预计前三季度归母净利润为5.47亿元-5.67亿元</strong></p>\n  <p>36氪获悉，东岳硅材公告，预计前三季度归母净利润为5.47亿元-5.67亿元。2026年前三季度，受市场环境及行业供需格局改善影响，公司主要产品价格上涨。原材料方面，工业硅采购价格同比下降，甲醇、一氯甲烷价格同比上涨，整体单位生产成本有所下降，综合毛利率提升。2025年第三季度受“7・20”火灾事故影响，公司当期亏损3933.74万元，使得前三季度归母净利润为285.67万元，本期利润指标与上年同期不具备可比性。报告期内，公司预计非经常性损益对归属于上市公司股东净利润的影响金额为4,200万元左右，主要为非流动资产处置损益等项目所致。</p>\n  <h2>投融资</h2>\n  <p><strong>Manus完成超5亿美元新一轮融资</strong></p>\n  <p>36氪获悉，Manus母公司蝴蝶效应于近日完成超过5亿美元新一轮融资。本轮融资由博裕投资、IDG资本领投，老股东腾讯、红杉中国、真格基金继续加持。</p>\n  <p><strong>“比特幻境”完成数亿元人民币天使轮融资</strong></p>\n  <p>36氪获悉，智能眼镜品牌NIMO所属公司“比特幻境”近日完成数亿元人民币天使轮融资，最新估值达15亿元。本轮投资方包括博华资本、戈壁创投、元禾璞华，以及尚势资本等相关投资机构。融资资金将主要用于产品研发、渠道拓展及海外市场布局。</p>\n  <p><strong>“白犀牛”完成1亿美元C轮融资</strong></p>\n  <p>36氪获悉，10月8日，L4自动驾驶公司“白犀牛”正式宣布完成C2轮融资，C轮融资金额累计达到1亿美元。C2轮融资由隐山资本领投，湘潭国资、深重投、湖南财信、韩国友利金融集团、博正资本等跟投，本轮融资资金将重点投向L4端到端技术与物理AI能力迭代、城市运营网络持续拓展，同时持续深化与产业伙伴的生态协同，跑通技术、产品、运营、生态的完整闭环。</p>\n  <p class=\"editor-note\"><strong>整理丨</strong>何雨婷&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-10-08T23:54:50+00:00",
+      "fetched_at": "2026-10-09T04:17:29.977369+00:00",
+      "fingerprint": "71ed44b23858b238"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发｜「闹翻天PLAYFULLY」获青山资本投资，为世界造一张“中国球星卡”",
+      "url": "https://36kr.com/p/3987542281862149?f=rss",
+      "summary": "<p>作者｜任彩茹</p>\n  <p>36氪获悉，新兴收藏级卡牌公司「闹翻天PLAYFULLY」（以下简称“闹翻天”）近期完成新一轮融资，青山资本领投，天使轮老股东Adam Zhu持续追投，领甪资本担任长期财务顾问。本轮资金将主要用于全球顶级体育IP的获取与拓展、产品研发与工艺创新以及全球化全渠道建设。</p>\n  <p><strong>「闹翻天」创立于2024年下半年，核心团队深耕文体IP运营、潮流衍生品开发与卡牌行业多年。公司创始人曹磊拥有20年体育产业运营及投资经验，曾在全球最大体育管理公司IMG任职多年，也曾在苏宁投资、曜为资本、复星集团、IDG等机构负责文体投资与产业运营。</strong></p>\n  <p>2024年8月，闹翻天以电竞头部IP王者荣耀职业联赛（KPL）衍生品切入市场，产品上线首月营收突破百万元，首年即完成千万级营收并实现盈利。在此基础上，团队将核心方向聚焦于自身具备资源壁垒与专业沉淀的赛道——顶级体育IP与球星卡。</p>\n  <p>2025年3月，闹翻天拿下阿根廷国家足球队为期五年的亚洲独家授权合作，并与足球巨星梅西达成官方球星卡签字合作。随后又于2026年7月再度锁定比利时国家足球队的独家授权，并通过旗下球星卡品牌「HEROCK」在世界杯期间陆续推出阿根廷国家队HALO、RADIANCE等系列收藏卡，以及面向大众圈层的“10元包”普及型产品RUNE。</p>\n  <p>近日，闹翻天旗下阿根廷系列卡牌正式进入全球权威卡牌评级机构CGC和PSA的评级体系，同时，闹翻天持续在国内交易平台屡创高价成交记录，其中RADIANCE梅西一编一亲签卡以12万元整于9月成交。这都标志着闹翻天作为新锐本土球星卡发行商在国际主流收藏卡评价标准中得到认可。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_c5350c215da54bdaa0c1d46a53cbc279@5748245_oswg711468oswg832oswg556_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">梅西签字照及已获得评级的HEROCK卡牌（来源：闹翻天）</p>\n  <p>当前，国内卡牌与潮玩赛道正经历从野蛮生长向专业化、精细化运营的洗牌期。一方面，依托动漫、影视、二次元的“谷子”与娱乐卡牌面临生命周期短、热点轮动快、流量焦虑加剧的挑战；另一方面，传统球星卡市场长期被海外巨头垄断，二级市场过度金融化与高昂门槛将绝大多数大众消费者拒之门外。闹翻天试图以“产品第一”为支点，依托中国成熟的供应链与创意设计能力，重塑兼具收藏价值与大众文化属性的体育衍生品生态。</p>\n  <h3 label=\"二级标题\">01 既做圈内认可的球星卡，也要带它走向大众</h3>\n  <p>在衍生品行业中，IP的选择决定了商业模型的底层生命周期。与生命周期往往只有数月至一两年的影视剧和阶段性热点动漫相比，体育IP拥有更好的恒定性与自驱成长力。每年规律进行的大小赛事，新星的涌现与老将的传奇时刻，会源源不断地为体育IP注入新的内容与情感。</p>\n  <p>同时，体育IP的获取门槛也更高，尤其在国际头部IP争夺中，单纯的资金优势早已失效。在阿根廷国家队亚洲独家授权的竞标中，不乏开出数倍乃至数十倍溢价的竞争对手，而阿根廷足协最终选择与闹翻天达成合作。</p>\n  <p>曹磊将这一突围归结为深度的产业信任与专业IP孵化能力的结合，“在体育行业，国际版权方非常挑剔。他们不仅看重合作历史与履约确定性，更看重你懂不懂体育、能不能把产品做好，以及是否具备长期培育IP和球迷生态的复合能力。”</p>\n  <p>“产品第一”，是闹翻天的信条之一。<strong>针对长期被欧美体系主导的球星卡工业设计，闹翻天在对标国际主流工艺（如折射Refraction、稀缺平行卡Parallel、官方签字与实物切割卡）的同时，创新性地将中国在地文化融入国际体育藏品。</strong></p>\n  <p>例如，闹翻天团队与敦煌、故宫等文化IP进行联名合作，在设计中融入中国自己的文化和审美，产品设计和质量也获得了IP方与诸多球星的认可，甚至有多位球员在签字后主动提出，希望留下一些闹翻天的卡作为收藏。曹磊笑称，每次找球员签字，自己最提心吊胆的事情就是担心球员签完字以后要把卡拿走收藏。“因为有些卡只有一编（One of One）, 全世界只有一张，被拿走了就会影响到整个产品的配置。”</p>\n  <p>长期以来，海外巨头的高定价把球星卡在一定程度上变成了少数人的溢价游戏，但闹翻天希望打破“小圈子”。 <strong>“一个健康且有生命力的市场应当呈现‘金字塔’结构——塔尖是高净值藏家的顶级收藏与投资流转，庞大的塔基则是大众爱好者、青少年与普通家庭的文化认同与日常消费。”</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_0a1f05b72d1d4c0da35a8df0ed1ef72c@5748245_oswg544591oswg1255oswg1671_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">10元包RUNE系列的产品（来源：闹翻天）</p>\n  <p>为此，闹翻天构建了兼顾专业与普惠的分层产品矩阵。在金字塔中端，推出官方零售价为699元/盒（内含6包共30张）的中端产品HALO等系列收藏卡，单张卡片均价约20余元，以高品质折射工艺与亲民定价对标海外动辄数千上万元的同级产品；<strong>在金字塔基座，闹翻天于2026年7月中旬推出“阿根廷国家队官方收藏卡10元包”， 将价格门槛降至大众与青少年触手可及的水平，同样有机会拆出稀有特卡与签名。</strong>在世界杯结束后，闹翻天还发行了零售价17500元的高端产品RADIANCE光辉系列，也在短时间内售罄，取得了良好的市场反馈。</p>\n  <p><strong>渠道侧，高客单价收藏卡主要依托线上拆卡直播间、拼团社群及线下专业卡店沉淀高粘性核心用户；而10元包则全面铺向潮玩集合店、商超便利店及下沉市场路边店。</strong>这种兼顾专业藏家与泛体育爱好者的布局，也成为闹翻天推动球星卡从“少数人炒作”回归为“大众文化陪伴”的落脚点。</p>\n  <h3 label=\"二级标题\">02 把中国创意写进全球体育故事</h3>\n  <p>从全球产业视角来看，球星卡与体育衍生品是一门被反复验证过的超级生意。北美体育消费巨头Fanatics最新估值已达数百亿美元，老牌卡牌巨头帕尼尼（Panini）年营收亦达数十亿美元体量。</p>\n  <p>全球成熟市场已经证明，体育卡牌并非单纯的纸质收藏品，而是连接体育IP、粉丝文化、收藏、交易与社群的一种长期消费形态。曹磊告诉36氪，在美国，球星卡消费人群占总人口比例接近10%，形成了跨越近百年的代际传承文化；而在中国，体育卡牌的受众渗透率尚不足0.1%，背后100倍的增量空间极其广阔。</p>\n  <p>从国内潮玩卡牌视角再来看，中国正在形成自己的卡牌文化。近年来，动漫、游戏、影视等IP持续推动卡牌消费普及，消费者对“抽卡、收藏、交换、评级、交易”的认知不断成熟，尤其年轻消费者已逐渐成为卡牌市场的重要参与者。从闲鱼卡牌年度报告数据上可以看到，2025年前三季度平台集换式卡牌交易额同比提升84%，球星卡交易额同比提升104%，体育卡牌正在成为中国卡牌市场的重要增长品类。</p>\n  <p>这也意味着，中国体育卡牌并非从零开始培育市场，而是在已经形成的卡牌消费文化基础上，进入一个新的体育IP增长阶段。与此同时，年轻人和青少年正在成为未来体育收藏文化的重要新增人群。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_4f3a3bdf8e8141d19d23084a77967ba3@5748245_oswg160353oswg832oswg456_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">海外球星卡产业链及部分独角兽公司一览（来源：闹翻天）</p>\n  <p>进一步落到衍生品角度，曹磊发现长期以来，国内体育衍生品市场存在显著的“供给侧断层”：产品形态数十年来停留在球衣、围巾、帽子、水杯等传统“老三样”上，设计同质化严重、缺乏创意与情感交互。与此相对的是，全球体育赛事正面临观众老龄化与注意力碎片化的挑战，版权方也非常迫切需要吸引女性、青少年及年轻家庭客群的加入。</p>\n  <p><strong>闹翻天并未将自身局限在狭义的“卡牌公司”定义中，而是希望将中国公司在潮玩领域积累的设计创意、创新能力与制造优势，全面赋能至体育衍生品赛道。</strong>近年来，全球体育IP的共识之一是希望吸引更多女性和家庭用户尤其是青少年关注和消费体育，公司正围绕体育IP逐步探索卡牌产品之外的多元潮流品类，使传统偏硬核、重男性的体育IP转化为高颜值、趣味性强的泛娱乐生活方式消费品，为体育IP创造更多产品品类，提升可玩性和复购率。</p>\n  <p>品类与人群的拓展之外，中国成熟的创新与生产能力，也助推闹翻天在海外市场“冒头”——<strong>尽管闹翻天成立时间不长，但其阿根廷系列卡牌已通过境外经销商网络主动采购，销往泰国、马来西亚、印度尼西亚、新加坡等东南亚核心市场，以及中国香港、中国澳门等地，甚至部分展会限定PR卡在二级市场上被海外藏家溢价求购。在eBay上，闹翻天的卡牌交易量也在逐步上升。</strong></p>\n  <p>海外市场具备成熟的体育消费认知与更强的购买力，而中国成熟的文化消费品供应链不仅能够实现极致的性价比与快速出货，在工艺精细度与玩法设计上也已具备全球竞争力。</p>\n  <p>谈及未来，曹磊告诉36氪，闹翻天将持续以体育IP为锚点，一方面深化国际顶级赛事资源的签约布局，逐步形成多IP矩阵；另一方面，则围绕已有IP持续做深，逐步探索球星卡之外的多元衍生品，提升单一IP的商业价值和用户覆盖。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_f18722d84f7c4242a89e65cd365d6d3d@5748245_oswg1091589oswg1274oswg476_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">闹翻天电竞产品、KPL衍生品产品图（来源：闹翻天）</p>\n  <p>在市场拓展上，闹翻天将以中国市场为基础，逐步向东南亚及其他海外市场拓展，通过本地化的产品设计、渠道和内容运营，将已验证的产品能力复制到更多市场，形成“多IP、多产品、多市场”的发展路径。在运营端，公司将进一步打通线上社群、球票权益兑换、球星线下见面会等球迷专属权益，<strong>让产品不只是一个收藏品，也成为连接IP与粉丝的入口。</strong></p>\n  <p>最终，闹翻天希望立足亚洲，面向全球，以体育IP为核心切入口，通过持续的产品创新做深IP价值，并将成熟的产品能力逐步复制到更多IP和市场。</p>\n  <h2>投资人观点：</h2>\n  <blockquote>\n   <p><strong>天使投资人Adam Zhu：</strong>之所以持续看好国产卡牌机会，是因为中国市场本身足够大，同时拥有全球领先的供应链和越来越强的产品创新能力，海外市场也正在为中国品牌提供更多机会。而闹翻天真正吸引我的，是这家公司和这个团队能够把IP、产品和供应链非常好地结合起来，并以中国市场为基础，进一步走向海外。这个方向的想象空间很大。</p>\n  </blockquote>",
+      "category": "tech",
+      "published_at": "2026-10-09T02:00:46+00:00",
+      "fetched_at": "2026-10-09T04:17:29.977364+00:00",
+      "fingerprint": "7afe041fe65d6e95"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "美央构建物理AI路径闭环：把人体变成可计算的真实世界",
+      "url": "https://36kr.com/p/4018021038657411?f=rss",
+      "summary": "<h2><strong>万美京AIMIRA构建\"感知—理解—决策—执行—反馈\"产品闭环，回答物理AI核心命题</strong></h2>\n  <p>当AI走出屏幕，游戏规则彻底改变：真实的人体有空间结构、组织状态与一刻不停的时间变化；软件说错一句话可以重新生成，机器做错一个动作，结果可能无法撤回。物理AI难的从来不是更大的模型，而是\"感知—建模—决策—执行—验证—再学习\"这条长链路。广州美央创新科技（Calilia国际集团/万美京AIMIRA）已把这条链路落成产品体系：FAITH是感知入口，\"女娲\"人体真实世界模型负责建模与理解，医疗级智能硬件与具身设备执行，效果与长期变化再回流系统。</p>\n  <p>美央创始人蒋宇振博士表示：\"女娲不是一个什么都能答的'人体大模型'，而是一套围绕真实人体、兼具空间结构和时间维度的多模态真实世界模型。数字人解决'如何呈现一个人'，我们解决'如何让机器持续理解这个真实的人正在发生什么变化'。\"</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261009/v2_d41e0f24bbb4445e8fd71d9d997e2a04@5284654_oswg950953oswg650oswg365_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图1</p>\n  <p>&nbsp;</p>\n  <h2><strong>从3DGS出发：既要画得像，更要量得准</strong></h2>\n  <p>女娲不是数字人：从三维高斯泼溅出发，构建”量得准”的人体世界模型。三维高斯泼溅（3DGS）兼顾外观与渲染效率，但\"画得像\"不代表\"量得准\"。美央采用高斯表达与点云、三维网格协同的混合路线：高斯层保留逼真外观，标定几何提供测量接口，时间序列追踪同一个人的变化。团队三维数据底座累计储备约2659万张多视角高清人体图像，部分建模流程仅需5至20秒，指向的是可持续交付的三维资产生产能力。</p>\n  <p>只有一个精细的三维表面仍不等于理解人体：一处凹陷可能对应软组织容量，一条注射路径的风险取决于皮下血管。美央在二维三维视觉、多光谱皮肤信息之外，进一步指向超声软组织与血管、光热与扩散波等无创感知，建立\"个人长期动态数字档案\"——不同时间点的影像、状态与治疗信息联合对齐、随时间复利。医疗场景边界明确：新模态必须经过验证，临床能力按注册范围表达，不替代现有标准诊断手段。</p>\n  <p>感知—决策—执行：FAITH与医疗级硬件：把女娲接进真实服务</p>\n  <p>物理AI的商业题是：模型需要真实数据，数据来自部署，部署需要有人买单。美央的解法是让交付与模型建设同场景推进：围绕头、脸、身年轻化服务，\"评估—方案—执行—结果—再次评估\"闭环同时支撑商业交付与技术积累。执行端，ASP-1M硬件本体于2026年7月取得国家药监局三类医疗器械注册证，为后续AI辅助与自动化执行提供硬件基础。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261009/v2_13e811543f324dc987e3855889e43c2a@5284654_oswg878014oswg650oswg337_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图2</p>\n  <p>&nbsp;</p>\n  <p>收入路径从硬件、耗材与服务起步，向模型和智能体订阅延伸，并通过第三方设备接入与技术授权扩大复用。FAITH已完成产品化，存量设备智能化取得部分付费验证，下一阶段重点是形成经常性收入。</p>\n  <p>&nbsp;</p>\n  <h2><strong>从理解人体，到理解设备与世界</strong></h2>\n  <p>广州美央创新科技有限公司正推进以人体为入口的物理AI基础设施建设。公司与华南理工大学成立物理AI联合实验室，围绕机器遗忘、边缘智能与隐私保护开展研究，汇聚陈俊龙、王迎军、Andreas Mandelis等院士的跨学科科研力量。美央以FAITH多模态感知和“女娲”人体真实世界模型，衔接智能决策、具身执行与结果反馈。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261009/v2_8b74448d34134c7fb47c625a1390cdad@5284654_oswg318735oswg650oswg414_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图3</p>\n  <p>&nbsp;</p>\n  <p>这也指向美央的长期志向：建立国之重器真实世界模型基础底座。从理解一个真实的人，到理解一台持续运行的设备，美央积累的始终是同一种能力：让机器的判断有现实依据，让物理行动有结果可验。</p>\n  <p>&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-10-09T02:22:54+00:00",
+      "fetched_at": "2026-10-09T04:17:29.977357+00:00",
+      "fingerprint": "7fd5c378fb6cafce"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨航天老兵创业做高分辨率遥感相机，连续完成多轮次近亿元融资",
+      "url": "https://36kr.com/p/4018036253626502?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>本文约2300字，建议阅读5分钟</p>\n  </blockquote>\n  <p>硬氪获悉，北京重眸科技有限公司（以下简称“重眸科技”）近日宣布完成多轮次近亿元融资，由民银国际、亦庄种子基金、远翼投资联合投资，资金将用于0.5米分辨率遥感相机批量投产、标准化产能建设以及更高分辨率遥感相机产品研发。</p>\n  <p>重眸科技成立于2024年，是国内商业航天领域首家专注0.5米及优于0.5米分辨率光学遥感相机的高新技术企业。公司能够提供星载一体化设计、高品质遥感相机研发和制造等一揽子解决方案。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261009/v2_e5e066c7fac0494989b4f90889d475bb@5920579_oswg845583oswg1080oswg619_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>公司创始人马波曾任职于航天东方红、中国卫星，参与主持了多个国家级重点航天项目。团队核心成员均来自航天“国家队”及头部商业航天企业，平均从业年限超过15年，具备0.5米及优于0.5米分辨率相机从设计、装调、测试到规模化交付的全流程工程化经验。</p>\n  <p>目前，卫星遥感正从传统的专业领域应用逐步走向更广泛的商业与大众市场，全球遥感产业进入加速发展阶段。根据公开行业统计数据，截至2025年4月，国内已公开规划建设的遥感星座中有75个光学遥感星座，涉及光学卫星数量超万颗。大规模星座组网浪潮之下，市场对0.5米高品质光学遥感载荷需求快速释放，但能够兼顾高性能、可工程落地、且具备批量交付能力的商业相机供给还存在显著缺口。</p>\n  <p>面向遥感定量化应用的长远发展需求，重眸科技致力于提供更具“质价比”的高分相机产品及系统化解决方案，解决光学遥感相机产能不足、成本居高不下的难题。</p>\n  <p>0.5米及优于0.5米分辨率的遥感相机研制技术门槛高，高度依赖工程化研制经验。重眸科技技术团队覆盖高分相机研制全链条，且此前已累计近30台0.5米及优于0.5米分辨率相机的研制经验。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261009/v2_ffbfe60124d84ea1818741b996de242d@5920579_oswg474261oswg733oswg516_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>0.5米分辨率相机对应的光学系统尺寸通常已进入“大口径”范畴，对结构件的加工精度与结构稳定性提出了极高要求。重眸科技目前已突破1000mm口径主反射镜的研制技术，可实现优于0.015个波长的面型精度，从而保障稳定的在轨成像质量。同时，公司在光学系统的轻量化和热控设计及刚度耦合设计方面建立了精细化能力，使相机在轨运行过程中，即便处于复杂的力学与温度变化环境中，仍能保持光轴稳定。</p>\n  <p>围绕上述核心技术，重眸科技目前已在多个关键工程环节打通从设计、器件加工到整机装调、测试的完整能力链条，掌握关键技术Know-how。</p>\n  <p>产品策略上，重眸科技采取“1+X”模式，即标准化型谱产品与定制化产品协同发展。当前，公司已规划多款标准化产品，包括500公里轨道0.5米分辨率、12公里幅宽的五谱段与九谱段型号，以及150公里幅宽九谱段产品，同时布局面向未来的优于0.5米分辨率产品。这些标准化型号可实现快速交付，并在此基础上根据不同应用场景进行模块化定制。产品面向商业卫星总体、行业星座运营商、垂直终端应用领域等，覆盖生态监测、农业估产、防灾减灾等定量遥感应用场景，适配商业星座规模化组网需求。</p>\n  <p>交付进展方面，公司今年将完成3米分辨率、0.5米分辨率、态势感知相机等多台相机的研制，计划四季度陆续交付客户。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261009/v2_36f89cab45d540e28b193707a5062930@5920579_oswg1023010oswg1080oswg673_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p>今年年初，重眸科技在亦庄完成产线建设，目前已正式投入运营并具备批量生产能力。首批产品正在产线进行装调。据了解，该产线年产能可达10至15台0.5米级高分辨率相机，并有望于明年实现规模化交付。</p>\n  <p><strong>以下为创始人交流节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：怎么理解高分辨率光学载荷研制领域中系统化工程经验的壁垒或者稀缺性？</strong></p>\n  <p><strong>马波：</strong>光学载荷不是简单的器件拼接，而是一套复杂的系统工程。纸面设计方案好看只是第一步，从图纸落地为上天可用的产品，要串联起设计、加工、装调、测试，还要考虑发射冲击、太空温变、震颤等各类在轨工况。单一环节能力强远远不够，需要整套链路的经验沉淀。</p>\n  <p>这类经验要靠大量项目的实践积累，很难单纯依靠理论和仿真完全覆盖。尤其是装调环节，镜头设计的再好，装不出来等于零。如果说装配是体力活的上限，那么装调是手艺活的天花板。零部件即便单项全部合格，公差会不断累积，最终影响整机成像质量。装配是把零件组装到位，装调则要边装配、边检测、边校正，通过定心、修圈等手段，抵消各类误差，把纸面设计真正变为性能达标的实物产品。</p>\n  <p>从样机生产到可批量交付的产品能力，这中间需要全链条工程经验的沉淀。重眸科技积累了从图纸设计、精密装调、整机测试到规模化交付的工程经验。团队里设计师懂装调、装调师懂设计，能够把用户实际应用需求翻译成清晰的设计指标，最终落地制造出高分辨率智能相机。这种跨环节打通的系统化工程能力，恰恰是当前商业航天光学载荷领域比较稀缺的。</p>\n  <p><strong>硬氪：“定量遥感”和“定性遥感”的区别是什么，为什么“定量遥感”的需求会成为高分商业遥感载荷的发展机遇？</strong></p>\n  <p><strong>马波：</strong>简单来讲，传统定性遥感更多是“看清是什么”，比如识别地物轮廓、辨别目标类型；而定量遥感是要“算出是多少”，可以从影像里提取出温度、植被长势、水体参数等可量化的数据。</p>\n  <p>它把卫星影像从一张“照片”变成可分析计算的数据源，价值会被成倍放大。不管是农业估产、生态环境评估、灾害损失评估，还是自然资源精细化管理，都离不开定量遥感的数据支撑。随着各行各业数字化转型提速，市场不再只满足“看得见”，更需要“算得准”，这也正是高分商业遥感载荷巨大的发展机遇。</p>\n  <p><strong>硬氪：采用标准化型谱产品与定制化产品协同的策略是出于怎样的考虑？</strong></p>\n  <p><strong>马波：</strong>对商业航天来说，标准化意味着更低成本和更高交付效率。通过型谱化产品，可以减少重复研发，提高供应链复用率，也能更快满足客户需求。但不同行业、不同应用场景对遥感相机的需求差异明显，比如轨道高度、幅宽、谱段配置、分辨率等都会不同。因此，我们会在标准化产品基础上，结合垂直行业客户的具体需求，做针对性配置调整和模块化定制。</p>",
+      "category": "tech",
+      "published_at": "2026-10-09T02:41:09+00:00",
+      "fetched_at": "2026-10-09T04:17:29.977345+00:00",
+      "fingerprint": "be70e7c25f770c7a"
+    },
+    {
+      "source": "少数派",
+      "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+      "url": "https://sspai.com/post/115209",
+      "summary": "断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。<a href=\"https://sspai.com/post/115209\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-08T06:42:14+00:00",
+      "fetched_at": "2026-10-09T04:17:28.019222+00:00",
+      "fingerprint": "273d4a47b764d4f1"
+    },
+    {
+      "source": "少数派",
+      "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole",
+      "url": "https://sspai.com/post/113843",
+      "summary": "最近我写了不少关于独立开发的思考，想着要汇总一下，就把Mole从开源CLI做到Mac付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ...<a href=\"https://sspai.com/post/113843\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-08T08:10:51+00:00",
+      "fetched_at": "2026-10-09T04:17:28.019217+00:00",
+      "fingerprint": "e153334db2d905dc"
+    },
+    {
+      "source": "少数派",
+      "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+      "url": "https://sspai.com/post/115282",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115282\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-08T09:28:11+00:00",
+      "fetched_at": "2026-10-09T04:17:28.019212+00:00",
+      "fingerprint": "358bd2f15053262e"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+      "url": "https://sspai.com/post/115532",
+      "summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型<a href=\"https://sspai.com/post/115532\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-09T00:51:10+00:00",
+      "fetched_at": "2026-10-09T04:17:28.019206+00:00",
+      "fingerprint": "cf0d25427940d9d9"
+    },
+    {
+      "source": "少数派",
+      "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+      "url": "https://sspai.com/post/114869",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114869\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-09T02:08:37+00:00",
+      "fetched_at": "2026-10-09T04:17:28.019197+00:00",
+      "fingerprint": "5877fec13f924596"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6538 CNY ↓-0.15%",
+      "url": "https://www.frankfurter.app/2026-10-08?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-08</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6538 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0068 (-0.15%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-09T04:17:27.059173+00:00",
+      "fingerprint": "d6281554874620bd"
+    },
     {
       "source": "BBC World News",
       "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
@@ -1221,186 +1541,6 @@
       "published_at": null,
       "fetched_at": "2026-10-03T03:31:33.447774+00:00",
       "fingerprint": "0a56d06757d78e05"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-      "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-      "category": "politics",
-      "published_at": "2026-10-02T03:09:13+00:00",
-      "fetched_at": "2026-10-02T03:47:10.122301+00:00",
-      "fingerprint": "e90781a58b70bd0c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-      "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-      "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
-      "category": "politics",
-      "published_at": "2026-10-02T02:49:44+00:00",
-      "fetched_at": "2026-10-02T03:47:10.122297+00:00",
-      "fingerprint": "522381b1bd1cd9ce"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-      "category": "politics",
-      "published_at": "2026-10-01T22:28:45+00:00",
-      "fetched_at": "2026-10-02T03:47:10.122293+00:00",
-      "fingerprint": "89ad31c25c55fbfb"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-      "category": "politics",
-      "published_at": "2026-10-01T22:21:16+00:00",
-      "fetched_at": "2026-10-02T03:47:10.122286+00:00",
-      "fingerprint": "dce3b7690583e839"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「我喜歡證明別人錯了」：這些女性拿起工具，自己做裝修和水喉工程",
-      "url": "https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "女性DIY專家和女性工匠談及她們如何改變傳統男性主導的領域。",
-      "category": "politics",
-      "published_at": "2026-10-02T01:42:08+00:00",
-      "fetched_at": "2026-10-02T03:47:10.026626+00:00",
-      "fingerprint": "1053cbb88aa1100a"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
-      "url": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "北京正在打擊那些能夠模擬人際關係的AI聊天機器人。專家質疑這是否是正確的做法。",
-      "category": "politics",
-      "published_at": "2026-10-01T08:12:13+00:00",
-      "fetched_at": "2026-10-02T03:47:10.026623+00:00",
-      "fingerprint": "ed512c4d390c477d"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
-      "url": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "香港記者協會關注事件，指鄧浩榮是首名在涉嫌違反《維護國家安全條例》（俗稱「23條」）生效後，於公眾領域中因該例煽動罪被捕的新聞工作者。",
-      "category": "politics",
-      "published_at": "2026-10-01T08:48:59+00:00",
-      "fetched_at": "2026-10-02T03:47:10.026619+00:00",
-      "fingerprint": "6ce65b396617e4d8"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
-      "url": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "該女子指稱，兩年前她在該大學一處兄弟會宿舍遭人下藥並遭到性侵。",
-      "category": "politics",
-      "published_at": "2026-10-02T02:31:44+00:00",
-      "fetched_at": "2026-10-02T03:47:10.026610+00:00",
-      "fingerprint": "6016594930613b4a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "SvelteKit 3",
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-02T03:47:09.592357+00:00",
-      "fingerprint": "817c31d46998044e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-02T03:47:09.592292+00:00",
-      "fingerprint": "9b136a20e472933b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-02T03:47:09.592215+00:00",
-      "fingerprint": "c0a0a5f5affd2692"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "url": "https://lwn.net/Articles/1097401/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-02T03:47:09.592146+00:00",
-      "fingerprint": "d315aa5bb99e76d8"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Pi 1.0",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-02T03:47:09.592055+00:00",
-      "fingerprint": "9b9edebdd384270d"
-    },
-    {
-      "source": "The Verge",
-      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-      "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-      "summary": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-01T18:52:58+00:00",
-      "fetched_at": "2026-10-02T03:47:09.269287+00:00",
-      "fingerprint": "f9473ba1b72da33e"
-    },
-    {
-      "source": "The Verge",
-      "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
-      "url": "https://www.theverge.com/tech/1003735/android-central-layoffs",
-      "summary": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including Shruti Shekar, Derrek Lee, Harish Jonnalagadda, and Nicholas Sutrich, and former [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-01T19:20:29+00:00",
-      "fetched_at": "2026-10-02T03:47:09.269284+00:00",
-      "fingerprint": "7721aa0681a92a30"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-01T19:47:51+00:00",
-      "fetched_at": "2026-10-02T03:47:09.269280+00:00",
-      "fingerprint": "6740c72e272a106e"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-      "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside Apple's rumored smart home [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-01T22:51:36+00:00",
-      "fetched_at": "2026-10-02T03:47:09.269273+00:00",
-      "fingerprint": "b18ced003f0a5e35"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6600 CNY ↓-0.24%",
-      "url": "https://www.frankfurter.app/2026-10-01?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-10-01</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6600 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0114 (-0.24%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-10-02T03:47:05.857318+00:00",
-      "fingerprint": "dd9296ba1114cef5"
     }
   ]
 }
