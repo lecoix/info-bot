@@ -1,7 +1,287 @@
 {
-  "updated_at": "2026-10-09T04:17:30.708666+00:00",
-  "count": 154,
+  "updated_at": "2026-10-10T04:02:37.691653+00:00",
+  "count": 163,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "summary": "<p>Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding</p><p>Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. It is expected to strengthen to a category 2 hurricane as it approaches the US’s northern Gulf coast on Friday, according to the National Oceanic and Atmospheric Administration (NOAA).</p><p>As a result of <a href=\"https://www.theguardian.com/environment/2026/sep/26/what-is-el-nino-causes-can-we-reduce-risks\">the strong El Niño</a>, it has been a notably quiet Atlantic hurricane season. The first hurricane of the season has not formed this late since 8 October 1905, which pre-dates the satellite era (1960s) for tracking hurricanes that has allowed for more non-landfall hurricanes to be discovered.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-09T09:59:06+00:00",
+      "fetched_at": "2026-10-10T04:02:37.689160+00:00",
+      "fingerprint": "8b425a886f42d15b"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "summary": "<p>Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza</p><p></p><p>The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission <a href=\"https://www.theguardian.com/world/2025/sep/16/israel-committed-genocide-in-gaza-says-un-inquiry\">that concluded Israel was guilty of genocide in Gaza</a>.</p><p>The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”.</p> <a href=\"https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-09T16:30:09+00:00",
+      "fetched_at": "2026-10-10T04:02:37.689154+00:00",
+      "fingerprint": "3493e3e0484fb7f4"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "summary": "<p>Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers</p><p>A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week.</p><p>It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent.</p> <a href=\"https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-09T21:36:18+00:00",
+      "fetched_at": "2026-10-10T04:02:37.689145+00:00",
+      "fingerprint": "d7aed4fb31d4181b"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "category": "politics",
+      "published_at": "2026-10-10T03:29:50+00:00",
+      "fetched_at": "2026-10-10T04:02:37.577552+00:00",
+      "fingerprint": "64d832158a4691c9"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "category": "politics",
+      "published_at": "2026-10-09T18:40:10+00:00",
+      "fetched_at": "2026-10-10T04:02:37.577546+00:00",
+      "fingerprint": "22a5f858763d26f1"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "category": "politics",
+      "published_at": "2026-10-09T22:30:22+00:00",
+      "fetched_at": "2026-10-10T04:02:37.577540+00:00",
+      "fingerprint": "45ee4516e19b1b58"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "category": "politics",
+      "published_at": "2026-10-10T00:45:51+00:00",
+      "fetched_at": "2026-10-10T04:02:37.577531+00:00",
+      "fingerprint": "26642edca61eefe9"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "法國學生示威：憤怒背後隱藏著什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "法國中學生示威來自對制度的不滿，但也源自於法國在街頭與制定政策的傳統。",
+      "category": "politics",
+      "published_at": "2026-10-09T09:42:25+00:00",
+      "fetched_at": "2026-10-10T04:02:37.513223+00:00",
+      "fingerprint": "a741d1a8315498af"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國要網上直播軍法槍決胡德堡基地槍擊案兇手",
+      "url": "https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國國防部長赫格塞斯表示，這場處決將公開進行，但一名法律專家指出，這項「前所未有」的決定處於「法律基礎不明確的領域」。",
+      "category": "politics",
+      "published_at": "2026-10-09T04:39:43+00:00",
+      "fetched_at": "2026-10-10T04:02:37.513204+00:00",
+      "fingerprint": "7ccfa6d9b0028bb8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "烏克蘭總統表示，容許俄羅斯出售石油產品，只會延長這場本應結束的戰爭。",
+      "category": "politics",
+      "published_at": "2026-10-09T20:33:46+00:00",
+      "fetched_at": "2026-10-10T04:02:37.513195+00:00",
+      "fingerprint": "a58287d83b496d7a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-10T04:02:37.301579+00:00",
+      "fingerprint": "94a0114bd15e32f8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-10T04:02:37.301469+00:00",
+      "fingerprint": "44c5df736b37c77b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-10T04:02:37.301341+00:00",
+      "fingerprint": "5f84afa7a273882a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-10T04:02:37.301220+00:00",
+      "fingerprint": "212e9120a76a6fc2"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-10T04:02:37.301084+00:00",
+      "fingerprint": "bd7f0877a9a13e25"
+    },
+    {
+      "source": "The Verge",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-09T19:09:44+00:00",
+      "fetched_at": "2026-10-10T04:02:36.983300+00:00",
+      "fingerprint": "42d1906c74af83c6"
+    },
+    {
+      "source": "The Verge",
+      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+      "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+      "summary": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report from the Columbus Dispatch. Byrnes texted Ohio Sen. [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-09T19:41:11+00:00",
+      "fetched_at": "2026-10-10T04:02:36.983295+00:00",
+      "fingerprint": "3c9f53595f6bc10c"
+    },
+    {
+      "source": "The Verge",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-09T21:15:38+00:00",
+      "fetched_at": "2026-10-10T04:02:36.983289+00:00",
+      "fingerprint": "0854a3cada87fb07"
+    },
+    {
+      "source": "The Verge",
+      "title": "Decade-old RAM is making a comeback",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-09T21:50:00+00:00",
+      "fetched_at": "2026-10-10T04:02:36.983280+00:00",
+      "fingerprint": "8d0d5e3b472fdee1"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "别等项目成功了，才开始讲它的故事！",
+      "url": "https://36kr.com/p/4018406199021449?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261009/v2_4e6d6d7519d346149d1a6ff054467b00@5284654_oswg1999231oswg1828oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪项目推荐</p>\n  <p>在创业圈，有很多这样的项目：一支团队花了几年时间打磨技术，终于让产品走进真实应用场景；一家初创公司深耕细分领域，解决了一个长期存在的行业问题；还有一些创业者，正在把一个新想法变成真正的产品。</p>\n  <p>它们可能还没有很高的知名度，也未必拿到了亮眼的融资成绩，但正在发生的变化，本身就值得被关注。</p>\n  <p>现实中，创业团队往往把大部分精力放在产品、客户和业务增长上，对外传播则被放在了后面。等到需要融资、拓展市场或寻找合作伙伴时，才开始整理项目资料，思考该如何向外界介绍自己。</p>\n  <p>但一个项目的价值，不只体现在融资、营收和规模上。</p>\n  <p>一次技术突破、一个新产品的落地、一家标杆客户的合作，都是企业成长的重要节点。它们不仅记录着项目的发展，也能帮助外界理解团队正在解决什么问题，以及项目未来可能走向哪里。</p>\n  <p>&nbsp;</p>\n  <h2><strong>好项目不必等到足够出名，才开始讲述自己的故事。</strong></h2>\n  <p>对于创业团队来说，持续梳理和表达项目进展，不只是宣传，也是建立外部认知的一种方式。把产品讲清楚，把创新点说明白，把真实进展记录下来，才能让更多人有机会理解项目的价值。</p>\n  <p><strong>36氪「项目推荐」希望为创业项目提供这样的机会。</strong></p>\n  <p>无论是硬科技、企业服务、消费、医疗健康，还是先进制造领域的项目，都可以通过「项目推荐」提交介绍，申请免费的报道与曝光机会。无论项目处于早期探索阶段，还是已经有产品落地、取得新的业务进展，都可以从讲清楚自己正在做的事情开始。</p>\n  <p>一次报道并不意味着项目一定会获得合作或业务机会，但它可以为企业增加一个公开展示的渠道，让项目有机会进入更广泛的视野。</p>\n  <p>如果你正在做一个创业项目，或者近期有新的产品发布、技术突破、业务落地等进展，不妨把这些故事整理出来，向36氪「项目推荐」提交项目介绍。</p>\n  <p>创业的价值，不只在于最终走到了哪里，也在于一路上创造了什么。</p>\n  <p>&nbsp;</p>\n  <p>📌&nbsp;<strong>免费提交项目：</strong><br /><a href=\"https://36kr.com/seek-report-new\" rel=\"noopener noreferrer\" target=\"_blank\">https://36kr.com/seek-report-new</a></p>\n  <p>📮&nbsp;<strong>项目推荐联系邮箱：</strong><br /><a href=\"mailto:aireport@36kr.com\">aireport@36kr.com</a></p>\n  <p><strong>客服可以扫描下方二维码联系～</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260910/v2_61e9fced05214f5881a6e6e2ad218743@5284654_oswg50025oswg216oswg210_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码添加！</p>\n  <p>&nbsp;</p>\n  <p><strong>36氪「项目推荐」</strong></p>\n  <p><strong>让好项目，更早被看见。</strong></p>",
+      "category": "tech",
+      "published_at": "2026-10-09T08:55:54+00:00",
+      "fetched_at": "2026-10-10T04:02:36.858550+00:00",
+      "fingerprint": "a279a2b316b5f9af"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "尊界踏板断裂背后：百万豪车，每一个零件都得较真",
+      "url": "https://36kr.com/p/4018053011951493?f=rss",
+      "summary": "<p>制动踏板断裂，这个看似离谱的故障，出现在了一辆百万级豪车上。</p>\n  <p>10月8日，懂车帝发布测试视频显示，在时速100至0的连续刹停试验中，尊界V800连续三辆车制动踏板都被踩断。视频显示，三辆车踏板断裂位置一致，均为包裹踏板转轴的塑料加强件。懂车帝视频显示，断裂当下，驾驶员对踏板施加的力已超1600N。</p>\n  <p>视频一经发布，便引发全行业热议，江淮汽车股价连续两日跌停，同时引发监管部门的密切关注。</p>\n  <p><strong>36氪独家获悉，今日，中汽中心紧急向各大车企发出关于制动踏板总成材质的调研问卷，着重关注非金属材质在踏板总成的应用。该动作，通常被行业视为法规修订的准备工作。</strong></p>\n  <p>针对这一测试，尊界汽车已发布回应，称制动系统按照高于国家标准的要求完成开发与验证，且用户在实际使用场景中，未曾发生踏板支架底座断裂故障。但尊界希望为用户提供更高的安全冗余，将进一步优化该部件的设计。</p>\n  <p>目前强制性国标仅要求，车辆最大制动效能时，踏板力需≤500N。而另有一推荐性标准指出，汽车制动踏板在施加1500±20N后，保持5秒，重复5次，踏板永久变形幅度应≤5mm，并且无裂纹。</p>\n  <p><strong>也就是说，汽车制动踏板能承受多大踩踏力而不断裂，事实上完全取决于车企的内部自定标准。</strong></p>\n  <p>有产业人士告诉36氪，即便是百万元级豪车，国内供应商对制动踏板总成的报价也不超过百元。由于单价低、技术创新少，踏板部分的研发并不受重视，车企几乎没有设置专门的工程师岗位负责。</p>\n  <p>而36氪同步了解到，即便已在中国深耕本土化多年，部分传统豪华品牌仍将制动踏板总成的生产牢牢攥在手中，由欧洲自有工厂制造，进口至国内组装，分毫不敢假手于人。</p>\n  <p>这则新闻全民热议的背后，实质是万千消费者对百万级豪车安全性的期待。</p>\n  <p>自1972年奔驰与博世联合开发ABS防抱死系统，并将其搭载在S级轿车上时，安全便开始成为豪华车的第一属性。时至今日，豪华车依然比普通车拥有更全面、更精细的安全配置。</p>\n  <p>在鸿蒙智行的家族中，尊界车型的安全气囊、车身超强钢、激光雷达等传感器数量都较其他车型更多；碰撞前座椅主动防护、追尾预判等安全功能，同样也选择在价位最高的尊界品牌首发搭载。</p>\n  <p>百万级豪华车，应该拥有行业最高的安全标准，已经成为行业共识。</p>\n  <h3><strong>百万级豪车应有的安全：标准高、研发强、投入足</strong></h3>\n  <p>一辆百万级的汽车，制动踏板的成本往往只有100元。当智驾、悬架、芯片、电池等成为车企比拼的重点时，制动踏板的重要性自然容易被忽略。</p>\n  <p>实际上，百年传统豪华品牌在此已经有成熟经验，而且往往都已建立一套比中标、欧标、美标等国家标准更严苛的企业内部安全标准，可供行业参考或者借鉴。</p>\n  <p>36氪从行业中梳理获悉，他们对踏板最大承载力的要求普遍接近4000N，相当于5-6个成年人站在踏板上，仍不能断裂；</p>\n  <p>并且需要做-35℃至80℃的环境温度测试，无论极热还是极寒，踏板在2000N踩踏下，都仅能有不影响性能的轻微变形；而目前，中国汽车法规体系中，仅有一项推荐性标准中包含8℃至38℃环境温度测试。</p>\n  <p>同时，这些豪华品牌的测试工况也不局限于法规要求的正面踩踏，还包括了用户使用场景中常见的左右侧面踩踏，尽可能模拟用户在紧急状况下可能的踩踏角度。</p>\n  <p>当然，标准只是门槛，传统豪华品牌真正的护城河，是它们有能力让这些高标准从纸面落到车辆上。</p>\n  <p>有知情人士告诉36氪，<strong>目前，这些豪华品牌在制动踏板上，依然采用全进口零件，“40万以上的高端车，用的制动踏板几乎都是车企自己设计、自己建厂制造的。欧洲工厂生产好了，海运发到国内来组装的”。</strong></p>\n  <p>这些传统豪华品牌如今逐渐把新车开发权交给中国研发团队，甚至也在推动百万元级豪车的国产化，“但制动踏板的设计，依然需要总部拍板”，该人士表示，这些品牌并不信任中国供应商的开发能力。</p>\n  <p>36氪了解到，出于轻量化需求，制动踏板总成中大部分材料都已更换为工业塑料，踏板和踏板臂还保留金属材质设计。保时捷等跑车品牌，甚至已将部分车型的踏板臂更换为工业塑料类材质。</p>\n  <p>“工业塑料便宜又轻巧，但压力就给到研发团队了”，一位负责踏板总成设计的工程师人士告诉36氪，踏板总成设计的难点在于，不同车型踏板和踏板臂的形状角度各不同，研发需要精准分析受力结构，在受力板块合理布置加强筋，以满足车企提出的各项要求。</p>\n  <p>他向36氪指出，目前国内制动踏板供应商的仿真能力还有待进步，研发团队更像是在试探性答题，“仿真系统和台架测试的结果差异比较大。研发团队只能去试，这里加一根加强筋能不能过，但实际上，就算过了，也只是在你测试的工况下通过了，用户不会完全按照你测试的工况去踩刹车。不搞懂底层原理，你很难保证自己的踏板有足够高的安全性”。</p>\n  <p>上述知情人士告诉36氪，传统豪华品牌在供应商选型时，非常看重供应商对技术Know-How的理解，“他们不允许自己品牌百万元级车上，出现一个不知道为什么要这么设计的零件，所以最后这些车企还是选择自己来做”。</p>\n  <p>在制动系统中，踏板总成无论单价还是技术门槛都排在末尾。这导致车企和供应商都吝于在这个几十块的零件上倾注心血。然而，机械结构的安全没有捷径，它恰恰需要最笨拙的反复试验来达成。</p>\n  <p><strong>“这也是传统豪华品牌，跟现在新势力豪华的区别。一切安全要求，都需要开发费的支撑”</strong>，有供应链人士告诉36氪，百万级豪车的产量极少，一年1万辆已经非常可观，“踏板的单价不高，现在行业都控制成本，即便是百万豪车，国内供应商的踏板总成报价也不会超过100元”。</p>\n  <p>这也就意味着，一个百万级豪车制动踏板的项目标的，可能不超过100万元。</p>\n  <p>但制动踏板总成的开发成本至少在数百万元级，“百万级豪车的量太少了，靠规模很难摊薄研发成本”，该人士向36氪表示，主机厂通常应该向供应商支付开发费，“你给欧洲豪华品牌做项目，就算设计方案没通过，最终没入选，他们也会付开发费。但很多国内主机厂，就算车是百万级的，就算定点量产了，可能也就只付20%的开发费”。</p>\n  <p>安全本就是奢侈品。当规模小、利润薄、开发费寥寥无几时，安全还能得到保障吗？百万级豪车的安全，远不只是纸面标准，更是企业研发实力、开发周期与项目成本博弈后的最终答卷。</p>\n  <p>中国汽车品牌如今正集体冲击高端，陆续推出百万级豪车，部分车型月销量甚至反超传统豪华品牌，成为细分赛道领跑者。这些国产豪车在发布会上，同样大谈安全：隐藏式门把手的三重电源冗余、激光雷达数量、气囊配置，无一不令人眼花缭乱。</p>\n  <p>但传统豪华品牌之所以能数十年屹立不倒，靠的从来不只是整车系统级的安全设计，更在于其对制动踏板、车内每一根细小线束这些不起眼的零件，都设定了严苛标准，并为之倾注了真金白银的实质性投入。</p>\n  <h3><strong>踏板断裂，无法预防吗？</strong></h3>\n  <p>标准之外，公众更关心一个直白的问题：踏板断裂这类设计或质量缺陷，难道在量产之前就无迹可寻、无法拦截吗？</p>\n  <p>“几乎���有车企会设置研发和质量岗位专门负责制动踏板”，有研发工程师告诉36氪，车企的制动工程师通常同时负责卡钳、制动盘/制动片以及制动踏板总成的开发工作。</p>\n  <p>所以主流做法为主机厂制定研发指标，制动踏板供应商进行结构设计。主机厂的研发指标，不仅包含法规要求的踏板最大承载力，还有成本、轻量化等要求。</p>\n  <p>36氪了解到，汽车零部件级的设计验证，通常由供应商进行。在制动踏板的最大承载力上，供应商完成结构设计后，会首先在公司自己开发的仿真系统中验证结构的可行性，如是否可以承载2000N甚至更大力的踩踏。设计方案在仿真系统中跑通、获车企首肯后，便将进行实体零件试制，进行台架测试。</p>\n  <p>该工程师向36氪坦言，在最大承载力这项测试中，行业主流做法是，供应商出具测试合格的报告便验收，“部分车企会在首次引入新供应商时做复核测试，但现在成本和开发周期压得很紧，几乎已经没车企主动做复测了，供应商的报告说可以，那就可以了”。</p>\n  <p>而车企制动研发工程师后续的工作重点，则聚焦在调节踏板行程、如何小于500N便能释放最大制动力、以及踏板感的调校上，不会再单独进行踏板暴力踩踏试验。</p>\n  <p>有法规认证工程师告诉36氪，新车上市前，零部件和整车还要在国家认证的第三方机构进行相关测试，“踏板最大承载力属于零部件级别认证，行业里绝大部分做法，都是供应商自行送检，然后向车企提供合格报告。车企基本只核查报告，不会核查具体试验过程”。</p>\n  <p>主机厂对整车负责，零部件供应商对零部件负责，该人士坦言，“如果研发工程师的经验不够，看不出猫腻，那基本就是各方凭良心办事了”。</p>\n  <p>踏板断裂的原因，也可能是质量缺陷。</p>\n  <p>事实上，汽车零部件众多，供应链存在分级制度，各级供应商都会对零部件质量进行一次质量把控。“比如踏板后面的制动系统，供应商的产线其实都有防呆设计，如果制动片供应偷偷削薄2mm，那么卡钳供应商就会发现制动片无法安装在指定位置；再往上还有Tier 1企业对整体性能再做一次把控”，有产业人士告诉36氪，一个零部件出事，整个链条都会被追责。</p>\n  <p>但制动踏板总成有其特殊性，零部件产品从供应商工厂下线后，便直接发往车企的整车工厂进行拼装。这意味着，刹车踏板总成这一零部件，在质量风险上，并没有缓冲带。</p>\n  <p>百万豪车的高溢价，诱人却烫手。消费者为豪车的高溢价买单，本质上是在为那些法规未覆盖、却需企业额外投入的安全冗余付费。车企想稳稳接住这份利润，就必须舍得下本钱，为安全留出足够的冗余、缓冲与制度保障。</p>\n  <p>尊界踏板断裂是一记警钟，但好在，在智能电动汽车发展的新十年，行业焦点已经回归安全这一本质。</p>",
+      "category": "tech",
+      "published_at": "2026-10-10T00:00:16+00:00",
+      "fetched_at": "2026-10-10T04:02:36.858544+00:00",
+      "fingerprint": "99f43e51974808fd"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨特朗普买入Meta股票；山姆宣布拟限制亲友卡绑定；豆包开通水、电、燃气等生活缴费功能",
+      "url": "https://36kr.com/p/4019297973735560?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>Anthropic据悉组建专门团队对接2028年总统候选人</li>\n   <li>中国手机迎来新一轮涨价潮，部分机型涨幅达1000元</li>\n   <li>B站申请JILIJILI等商标</li>\n   <li>广东汕头在全国率先推出“词元出海贷”</li>\n   <li>英国大学生申领贷款将需达到最低标准</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>特朗普买入Meta股票，最高达2500万美元</strong></p>\n  <p>最新财务披露文件显示，特朗普8月21日买入最高达2500万美元Meta股票，此后Meta股价累计涨32%。据CNBC分析，特朗普8月共517笔证券交易，总额约7430万至2.733亿美元，买入至少4420万美元，卖出至少3010万美元。文件还显示，他8月18日买入SpaceX优先无担保债券，金额100万至500万美元，票面利率5.35%，2031年7月到期，时值签署扩大美国商业航天运输政策前两天。(券商中国)</p>\n  <p><strong>山姆宣布拟限制亲友卡绑定，工作人员回应</strong></p>\n  <p>10月9日，山姆会员商店宣布拟更新《山姆会员商店会员章程》，现公开征求意见。《山姆会员商店会员章程》拟新增：自首次激活亲友卡之日起每365天，该亲友卡关联的实名身份信息仅能用于激活两名个人主卡会员的亲友卡，且每次仅能激活一名个人主卡会员的亲友卡。征求意见期满如无更改，则于2026年10月16日生效。</p>\n  <p>对此，山姆工作人员解释称，上述变更对主卡会员并无影响，主要影响的是持有亲友卡用户。对于上述举措是否为了打击倒卖副卡的行为，客服称可以这么说，“二手交易平台上（购卡）可能后续会影响会员权益，我们确实会做章程的更新。”（财联社、蓝鲸新闻）</p>\n  <p><strong>豆包开通水、电、燃气等生活缴费功能</strong></p>\n  <p>近期记者发现豆包App内可通过语音或打字完成水、电、燃气等生活缴费操作。接近豆包人士表示，豆包正在逐步建设包括出行服务、生活缴费等生活场景下的办事能力。记者实测发现，登录抖音账号、完成户号绑定后即可使用该功能，但当前不同城市的缴费功能开通情况有所不同，缴费服务尚未完全接通。国庆节前，豆包刚宣布新增机票预订、火车票购买、打车出行和路线导航等多项服务，并上线“出行用豆包”专属入口，涵盖地图导航、交通出行、酒店住宿、吃喝玩乐四大场景。(每日经济新闻)</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Anthropic宣布禁止“虐待”其旗下AI</strong></p>\n  <p>据报道，Anthropic对其AI使用政策作出调整，以应对新的高风险滥用行为。其中一项最重要的变化是，禁止对Claude进行“持续且不必要的虐待或残忍行为”。此次更新指出，终止对话仍是“主要执行机制”；对于是否会采取进一步的执行措施（例如可能封禁用户），Anthropic未予置评。Anthropic表示，新政策更新“仅适用于极端情况，即用户在毫无明显目的的情况下反复对我们的模型实施残酷行为。该政策不适用于用户常见的不满、反驳、黑暗创意主题，以及模型测试和研究等情况。”（新浪财经）</p>\n  <p><strong>Anthropic据悉组建专门团队对接2028年总统候选人</strong></p>\n  <p>据报道，美国人工智能初创公司Anthropic 正着手设立一个针对2028年大选的“总统级对接”计划，组建一支内部团队，直接就人工智能相关议题与美国两党总统候选人展开对接，协助公司高层制定政治策略，并负责运营公司的政治资助项目。（新浪财经）</p>\n  <p><strong>三名遭解雇安全研究员发布联名公开信，OpenAI回应</strong></p>\n  <p>OpenAI 8日发文称，公司已在完成内部调查后，与Jasmine、Mikita和Tomek三名安全研究人员结束合作，原因是其违反了处理敏感信息的相关政策。OpenAI称，调查发现的问题超出三人在公开信中披露的内容，因此坚持终止雇佣关系的决定。此举并非针对三人提出的AI安全担忧或表达不同意见，内部安全讨论和研究争论一直是日常工作的一部分，公司对此持积极鼓励态度。同时，OpenAI表示，正在推进敲定与第三方安全评估机构的合作协议，并将在未来几周公布细节。（第一财经）</p>\n  <p><strong>Meta深陷信任危机，而AI产品逆势爆火</strong></p>\n  <p>Meta因产品易致青少年沉迷、危害心理健康，遭美国多州诉讼，累计巨额罚款赔偿，超八成美国民众呼吁加强监管。但Meta业绩攀升，用户量、营收同比上涨。其AI智能体Muse可自主完成复杂长周期任务，上线仅一个月下载量超500万，周活跃用户破300万，增速超越北美同期ChatGPT。不过，Muse需调取大量隐私数据，用户顾虑重重，Meta称将上线隐私虚拟机保障安全。业内表示，能否重塑公众信任，或是其AI转型成败关键。(环球网资讯）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>江淮汽车两日市值蒸发百亿，9日开盘一字跌停</strong></p>\n  <p>10月9日开盘，江淮汽车一字跌停，截至收盘，报22.75元/股，总市值为512.82亿元。对比9月30日收盘619.22亿元的总市值，短短两个交易日，公司市值合计缩水超百亿元。资本市场的剧烈波动，源自一则汽车极限测评视频引爆的质量舆情风波。10月8日，懂车帝实测显示，三台全新尊界V800在连续紧急制动中，刹车踏板支架全部断裂。（新京报）</p>\n  <p><strong>iPhone 18 Pro系列被曝削减零部件产量，供应链人士回应：订单总量未发生实质性变化</strong></p>\n  <p>10月9日，有媒体报道称，由于内存芯片成本飙升，苹果被迫提高新款iPhone售价，进而导致消费者需求下降。目前，苹果已告知部分供应商削减新推出的iPhone 18 Pro和iPhone 18 Pro Max的零部件产量。不过，对于上述减产传闻，从供应链人士处了解到，目前相关订单总量并未发生实质性变化。“结合苹果官网销售情况来看，目前iPhone 18 Pro Max多数规格型号的预计到货时间仍在3至4周。”（每日经济新闻）</p>\n  <p><strong>中国手机迎来新一轮涨价潮，部分机型涨幅达1000元</strong></p>\n  <p>2026年10月9日零时起，华为调整nova16系列建议零售价，nova16、nova16 Pro均上调400元，nova16 SE上调200元，渠道提货价同步上调。同日，小米17 Ultra全系售价上调，涨幅达1000元：标准版起售价由6999元升至7999元，定位更高的徕卡版起售价由7999元升至8999元，小米官网在售版本定价已全部完成调整。今年3月起，OPPO、vivo已先后对在售机型调价；9月1日小米、荣耀等品牌也曾跟进一轮集中调价，其中小米17系列涨幅为200元至500元，荣耀Magic8涨幅在300元至500元区间。(界面新闻)</p>\n  <p><strong>创业板指70个交易日跌超31%，中信：科技行情或四季度启动</strong></p>\n  <p>10月9日创业板指一度跌破3000点，2026年6月25日至今的70个交易日跌超31%，为2025年11月27日以来新低。中信证券研报表示，下一轮科技行情启动窗口大概率在2026年四季度，还需要加息预期边际逆转、新叙事凝聚共识、资金面完成再平衡三方面条件验证。建议坚持结构重于仓位，关注港股模型迭代、互联网平台、硬件技术升级、国产半导体设备等结构性机会。（新浪财经）</p>\n  <p><strong>美股收盘：道指涨逾400点，三大指数周线齐涨</strong></p>\n  <p>美东时间周五，在科技板块的带动下，美股三大指数集体收涨，周线均录得上涨。截至收盘，道琼斯工业平均指数上涨423.31点，涨幅0.83%，报51654.95点；标普500指数上涨46.15点，涨幅0.59%，报7811.51点；纳斯达克综合指数上涨172.83点，涨幅0.64%，报27366.17点。大型科技股涨跌不一，亚马逊涨3.29%，微软涨2.38%，特斯拉涨2.05%，谷歌涨0.87%，Meta跌0.31%，英伟达跌0.52%，苹果股价下跌1.1%。（财联社）</p>\n  <p><strong>百度、银河通用机器人等入股简智机器人</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，简智机器人关联公司简智新创（北京）机器人科技有限公司发生工商变更，新增北京百度网讯科技有限公司、银河通用机器人旗下苏州盖博特科技有限公司等为股东，同时，注册资本由约19.3万元人民币增至约1052.4万元人民币。</p>\n  <p>该公司成立于2025年5月，法定代表人为陈建兴，经营范围包括服务消费机器人制造、服务消费机器人销售、软件开发等，现由陈建兴、北京简智新创一号智能科技合伙企业（有限合伙）及上述新增股东等共同持股。</p>\n  <p><strong>财政部安排使用5500亿元地方政府债务结存限额</strong></p>\n  <p>9日，记者从财政部了解到，财政部近日安排使用地方政府债务结存限额5500亿元，用于提高县区一般公共预算保障能力和支持地方扩大有效投资。下达地方的5500亿元地方政府债务结存限额中，一般债务结存限额3000亿元，全部分配县区使用，专门用于提高县区一般公共预算保障能力，支持地方更好发展；专项债务结存限额2500亿元，分配给今年第四季度有实际项目资金需求的地区，向经济大省倾斜，支持有关地区优先保障在建项目资金需求，新建项目聚焦“六张网”建设等重点领域，有效发挥政府投资带动作用。财政部将指导督促各地更好衔接项目储备和债券发行，加快发行节奏，畅通拨付链条，尽快形成实物工作量，促进政策早落地、早见效。（央视新闻）</p>\n  <p><strong>奈飞据悉正进行组织重组，预计将影响约5%的员工</strong></p>\n  <p>奈飞据悉正进行组织重组，预计将影响约5%的员工，相关公告最早可能于下周发布。（财联社）</p>\n  <p><strong>中欧贸易投资磋商机制第二次例会联合声明</strong></p>\n  <p>36氪获悉，据商务部消息，2026年10月8-9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京举行中欧贸易投资磋商机制（以下简称机制）第二次例会。双方进行了务实、富有成效的讨论，并形成成果共识清单。双方重申，作为关键贸易伙伴，在世贸组织规则框架下，妥善处理双方分歧，致力于继续稳定双边经贸关系，并使其更加平衡。双方商定，将于2027年3月召开机制第三次例会，在此之前双方将保持密切沟通，包括1月举行部长级视频会议。</p>\n  <p><strong>B站申请JILIJILI等商标</strong></p>\n  <p>36氪获悉，天眼查知识产权信息显示，近日，B站运营主体上海幻电信息科技有限公司申请注册多枚“JILIJILI”“ILIILI”商标，国际分类涉及科学仪器、通讯服务、网站服务、社会服务等，当前商标状态为商标申请中或等待实质审查。值得一提的是，上海幻电此前还曾申请注册多枚名称与“bilibili”相近的商标，包括“CILICILI”“DILIDILI”“EILIEILI”“GILIGILI”“HILIHILI”“KILIKILI”“OILICILI”等，国际分类涉及教育娱乐、通讯服务、科学仪器、网站服务等。其中，“GILIGILI”“KILIKILI”等部分商标状态显示为已注册。</p>\n  <p><strong>央行：未来的人民币汇率，不会刻意升值，也不会刻意贬值</strong></p>\n  <p>中国人民银行8日发布关于人民币汇率的政策立场文件，首次全面、系统阐述人民币汇率的政策立场。人民币汇率一向关注度极高，央行这次在立场里也再次重申：中国坚持让市场在汇率形成中发挥决定性作用。中国实行的是市场化汇率制度，2017年之后就彻底退出了常态化干预。未来的人民币汇率，不会刻意升值，也不会刻意贬值。我们仍然将尊重市场、守住底线、不搞博弈、不玩套路，这就是未来几年人民币汇率最核心、最确定的大趋势。（央视新闻）</p>\n  <p><strong>北方稀土：第四季度稀土精矿交易价格调整为不含税38769元/吨</strong></p>\n  <p>36氪获悉，北方稀土公告，公司2026年第四季度稀土精矿交易价格调整为不含税38769元/吨（干量，REO=50%），REO每增减1%、不含税价格增减775.38元/吨。</p>\n  <p><strong>广东汕头在全国率先推出“词元出海贷”</strong></p>\n  <p>针对词元出海企业普遍存在的轻资产抵押不足、跨境运营资金周转压力大的痛点，在中国人民银行广东省分行的指导下，中国人民银行汕头市分行联合汕头市财政局、汕头华侨试验区，推动中国银行汕头分行创新推出全国首个面向词元出海场景的专项金融服务方案——“词元出海贷”，并落地首笔100万元专项授信。（界面新闻）</p>\n  <p><strong>权益类基金成立门槛拟降至5000万元</strong></p>\n  <p>36氪获悉，中国证监会就《公开募集证券投资基金运作管理办法（征求意见稿）》及配套规则公开征求意见。征求意见稿支持权益类基金发展，拟将权益类基金、基金中基金（FOF）等产品的成立门槛，从规模2亿元、份额2亿份，分别降至5000万元、5000万份，固收类基金成立门槛维持不变。</p>\n  <p><strong>苹果任命新任并购负责人</strong></p>\n  <p>苹果新一任并购主管，由史蒂夫·史密斯接替阿德里安·佩里卡；佩里卡将继续负责iCloud、Fitness+以及新闻业务。史密斯将向首席财务官基万·帕雷克汇报，并购团队重回财务部门管理，这是2019年以来首次。同时，卡森·奥利弗晋升为App Store副总裁。本次人事变动是苹果服务部门一系列领导层调整的一部分。埃迪·库将接管App Store及其他团队；佩里卡与奥利弗·舒瑟被视作库的潜在继任人选。（新浪财经）</p>\n  <p><strong>东日本铁路公司609万条个人信息可能外泄</strong></p>\n  <p>东日本铁路公司（JR东日本）10月9日发布消息称，集团旗下信用卡“Viewcard”等服务累计约609万条包含电子邮箱等内容的个人信息可能外泄，原因是软银子公司IDC Frontier（东京）面向企业提供的云服务遭到非法访问。JR东日本表示，姓名、住址及银行卡号并未泄露。（界面新闻）</p>\n  <p><strong>英国大学生申领贷款将需达到最低标准</strong></p>\n  <p>据知情人士消息，英国政府正在酝酿新方案，要求大学生达到最低入学标准，方可申领政府助学贷款。部长们将在数周内公布限制助学贷款申领资格的相关计划。政策重点将放在英语能力上，官员考虑将普通中等教育证书（GCSE）英语科目合格设为贷款申领门槛。英国亦可能就更低标准开展咨询，允许采用其他英语资质证明。英国教育部证实，将会研究设置助学贷款最低英语要求的 “多种备选方案”。（新浪财经）</p>\n  <p><strong>央行9月公开市场国债买卖净投放1000亿元</strong></p>\n  <p>36氪获悉，中国人民银行公布2026年9月中央银行各项工具流动性投放情况。中央银行贷款方面，常备借贷便利（SLF）净投放2亿元；中期借贷便利（MLF）净投放2000亿元，抵押补充贷款（PSL）净回笼14亿元；公开市场业务方面，隔夜、7天期逆回购净回笼860亿元，公开市场国债买卖净投放1000亿元。</p>\n  <p><strong>美股光通信龙头Lumentum称2029年初的产能已售罄</strong></p>\n  <p>美国光通信龙头Lumentum首席执行官Hurlston当地时间周五表示，该公司直至2029年初的光器件产能已全部售罄。Hurlston表示，部分产品到明年仍有约70%的需求无法满足，另有部分产品到2028年仍有30%的需求无法满足。（财联社）</p>\n  <p><strong>比亚迪：当前闪充车型订单需求旺盛，公司首要目标是加快二代刀片电池产能爬坡</strong></p>\n  <p>36氪获悉，比亚迪在互动平台表示，公司产品定价会综合市场竞争、用户需求、长期品牌战略、产能释放节奏等多维度因素统筹考量。当前闪充车型订单需求旺盛，公司首要目标是加快二代刀片电池产能爬坡，全力提升交付能力，保障消费者购车体验。产品相关价格信息请以官方发布为准。</p>\n  <p><strong>科技巨头承诺投入24亿美元支持特朗普政府AI科研计划</strong></p>\n  <p>当地时间10月8日，特朗普政府周四在华盛顿举行的一场峰会上宣布，硅谷巨头承诺投入24亿美元来加强科学研究，这是华府推动和利用人工智能技术的最新举措。白宫表示，这些捐赠将为政府的“创世纪计划”提供AI工具和算力额度，该计划旨在利用AI推动科研，并为超过15个联邦机构提供支持。已宣布的投入包括英伟达10亿美元、AMD 5亿美元、OpenAI 2亿美元，以及Anthropic和Alphabet旗下谷歌各1.5亿美元。此外，特朗普政府还计划投入逾1亿美元，用于面向美国STEM领域研究人员的教育项目。(上海证券报)</p>\n  <h2>上市进行时</h2>\n  <p><strong>上交所终止企查查主板发行上市审核</strong></p>\n  <p>36氪获悉，据上交所，因企查查科技股份有限公司及其保荐人中信证券股份有限公司撤回发行上市申请，根据《上海证券交易所股票发行上市审核规则》第六十三条有关规定，上交所终止其发行上市审核。</p>\n  <h2>大公司财报</h2>\n  <p><strong>中国巨石：前三季度净利润同比预增100%至110%</strong></p>\n  <p>36氪获悉，中国巨石公告，预计2026年前三季度实现归属于上市公司股东的净利润为51.36亿元至53.93亿元，同比增加100%至110%。2026年前三季度，玻纤主要下游应用领域需求增加，产品量价齐升。公司通过加快产品结构优化、加大技术创新力度、加强市场开拓等措施提升盈利能力。</p>\n  <p><strong>环旭电子：9月合并营业收入为74.87亿元，同比增加25.64%</strong></p>\n  <p>36氪获悉，环旭电子公告，公司2026年9月合并营业收入为74.87亿元，较去年同期的合并营业收入增加25.64%，较2026年8月合并营业收入环比增加15.03%。公司2026年1月至9月合并营业收入为468.80亿元，较去年同期的合并营业收入增加7.42%。</p>\n  <p><strong>景旺电子：第三季度净利润同比预增205.46%到264.74%</strong></p>\n  <p>36氪获悉，景旺电子公告，预计2026年第三季度实现归属于母公司所有者的净利润9.12亿元到10.89亿元，同比增加205.46%到264.74%，环比增加147.20%到195.18%。</p>\n  <h2>酷产品</h2>\n  <p><strong>苹果即将推出触屏Mac</strong></p>\n  <p>苹果公司计划在10月27日周二前后举办产品发布会，正式推出旗下首款触屏版MacBook以及全新一代iPad mini。本次发布会还将同步亮相搭载M6芯片的14英寸MacBook Pro与iMac新品，目标用户群体是视频制作、照片编辑、音乐创作领域的创意专业人士。新款MacBook Pro机身将比现款更轻薄，配备OLED屏幕；全新iPad mini则搭载OLED显示屏，升级了视频会议摄像头与重新设计的扬声器系统。（科创板日报）</p>\n  <p class=\"editor-note\"><strong>整理丨</strong>宋清瑜</p>",
+      "category": "tech",
+      "published_at": "2026-10-10T00:04:26+00:00",
+      "fetched_at": "2026-10-10T04:02:36.858538+00:00",
+      "fingerprint": "b6330f9aeffd7bcc"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "用AI降低激光焊使用门槛，这家公司完成数千万元融资｜36氪首发",
+      "url": "https://36kr.com/p/4019439680327817?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，智能激光金属加工设备公司LaserCyber已完成数千万元融资，由启高资本投资、为溪创投跟投，苍竹资本担任长期独家财务顾问。</p>\n  <p>LaserCyber于2025年8月成立于深圳，定位为“桌面智能激光工厂”。公司首款激光焊机产品L1系列覆盖600W、900W和1200W三个功率段，可完成手持焊接、切割和激光清洗，并可与专用的C1平台连接，完成更精细的平面切割。产品主要面向海外小型加工厂、车库工作室和金属创作者。目前，LaserCyber首款产品已登陆Kickstarter众筹，获得超百万美金支持。</p>\n  <p>焊接是一个成熟而庞大的工业市场，激光焊是其中快速起量的细分领域。Grand View Research的数据显示，全球弧焊设备仍是百亿美元规模，激光焊机则在十亿美元量级。传统电弧焊发展时间长、设备价格低、适用范围广，目前仍占据主流；激光焊体量较小，但正从工业自动化设备向手持式和桌面化产品延伸。</p>\n  <p>与传统电弧焊相比，激光焊用高能量密度光束集中加热金属，焊接速度更快、热影响区更小，材料变形和后续打磨也更少；尤其在4毫米以下的中薄板加工中优势明显。其应用已覆盖汽车零部件、电子器件、医疗设备，以及厨具、门窗、金属家具和汽车钣金等场景。</p>\n  <p>中国厂商已在B端、C端布局激光焊接市场。大族激光、华工激光等工业激光设备企业已推出手持激光焊产品；近两年，xTool、XLASERLAB等则把焊接、切割和清洗整合进更轻量的设备，面向小型工坊和海外Maker。</p>\n  <p>刘宸伯是LaserCyber的创始人兼CEO，此前曾负责XLASERLAB的海外品牌的搭建与众筹，并取得百万美金的众筹成绩。在他看来，消费级激光焊机的核心用户并非泛家庭人群，而是有明确加工需求的海外Maker和小型工坊经营者。</p>\n  <p>“我们的客户主要是35岁至65岁的欧美男性，他们往往有自己的车库，或者经营一家小型加工厂。东西坏了需要焊接，或者想自己加工一些零件时，激光焊接工具对他们来说是刚需。”刘宸伯告诉硬氪。</p>\n  <p>LaserCyber推出的L1系列覆盖600W、900W和1200W三个功率段，一台设备集成手持焊接、切割和清洗，并通过其独家技术能力，实现铜、铝等高反射材料的焊接和加工。在此前的消费级小型焊机中，铜、铝等高反射材料难以加工，需要使用专门设备。</p>\n  <p>“过去普通小焊机基本只能焊铁和不锈钢，焊铜、焊铝往往要换不同的机器。L1希望把这些材料放到同一台设备里处理，用户只需选择材料即可。”刘宸伯告诉硬氪。</p>\n  <p>L1的另一个特点是集成化。其送丝机构被置于机身内部，用户不再需要分别配置焊机和送丝机；自动送丝和回抽设计则用于减少收弧时焊丝粘连。刘宸伯表示，LaserCyber并非简单缩小工业设备，而是重新组织光源、焊枪、送丝、控制系统和交互软件之间的配合。</p>\n  <p>用AI降低激光焊机的学习门槛是L1的另一大特点。LaserCyber介绍称，L1通过内置软件系统帮助新手用户一键开启操作，能够快速上手。对于成熟用户，则提供了多维参数调节选择，保持产品对专业用户的适配度。</p>\n  <p>硬氪了解到，参数库主要来自团队多年积累的焊接工艺数据，后续计划通过社群运营来进一步提高参数库的多样性。</p>\n  <p>在产品设计上，LaserCyber通过独有的AI软硬件体系实现产品的预测性维护和用户的技术迭代。</p>\n  <p>将AI能力集成进焊枪并不容易。LaserCyber寇令涛告诉硬氪，焊枪内部要同时容纳多路技术，团队为此对焊枪前后进行了约7至10轮迭代。与此同时，把水冷、送丝和控制模块压进一体化机身，也提高了散热、可靠性和量产一致性的要求。</p>\n  <p>安全性也是消费级激光焊机产品必须注意的问题。L1系列属于高功率第四类（Class 4）光纤激光设备。公司称，产品正按SGS流程推进面向欧盟和美国市场的CE、RED及FDA合规工作。</p>\n  <p>团队方面，创始人兼CEO刘宸伯毕业于上海交通大学，拥有互联网广告、海外营销和激光工具品牌运营经历；联合创始人兼CTO寇令涛拥有超过15年的激光研发经验，曾任海目星切割事业部总工程师、大族激光智能装备公司研发总监。</p>\n  <h3><strong>CEO对谈</strong></h3>\n  <p><strong>硬氪：你们提到AI和小模型，这套系统的训练数据从哪里来，能够覆盖多少种材料和工况？</strong></p>\n  <p><strong>刘宸伯：</strong>初始工艺参数来自团队过去在工业端积累的焊接数据和测试经验，先覆盖常见材料、厚度和功率组合。我们还会把环境温度、散热状态等变量纳入计算，让设备在不同环境下自动调整参数。</p>\n  <p><strong>硬氪：像xTool也在做激光焊，在品牌和软件上已经有积累。LaserCyber作为一个新品牌，最难被复制的差异是什么？</strong></p>\n  <p><strong>刘宸伯：</strong>我们高度认可xTool的品牌和产品能力，但激光焊接、激光切割是LaserCyber的主业，不是从其他产品线延伸出来的一项尝试。我们的差异不是单个参数，而是三部分一起做：用抗高反光源处理铜、铝材料，把送丝、焊接、切割和清洗做成一体，再用AI降低工艺门槛。围绕金属加工重新配合光源、焊枪、控制系统和软件，这套整体能力才是最难被复制的。</p>",
+      "category": "tech",
+      "published_at": "2026-10-10T02:26:03+00:00",
+      "fetched_at": "2026-10-10T04:02:36.858530+00:00",
+      "fingerprint": "5d4f2f0c5b7ff4bb"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "世界的下一个版本，由我们定义 ｜2026苏客松招募启动",
+      "url": "https://36kr.com/p/4019446240857993?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_65478eede5284479881424ea03dd1b32@6438729_oswg1985117oswg1200oswg4776_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片1</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_9e9c3253f7814911a9610ca49740ddc0@6438729_oswg1058358oswg1080oswg3693_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片2</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_b224b13a0ba8425da8aae1381831eaa0@6438729_oswg537735oswg1080oswg2077_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片3</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_be4653e32c474ff9aa11102c211d2a65@6438729_oswg1060041oswg1080oswg1738_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片4</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_1b15480bd96941b283994a361ab795db@6438729_oswg463066oswg1080oswg1765_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片5</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_5350a82b612b481ba7f785d9e9859f6e@6438729_oswg1203786oswg1200oswg3486_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片6</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_861b5e6a2c9147168699d513618ee0fe@6438729_oswg549469oswg1200oswg2754_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片7</p>",
+      "category": "tech",
+      "published_at": "2026-10-10T02:35:07+00:00",
+      "fetched_at": "2026-10-10T04:02:36.858516+00:00",
+      "fingerprint": "7bfcecfd4abe43af"
+    },
+    {
+      "source": "少数派",
+      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
+      "url": "https://sspai.com/post/115456",
+      "summary": "让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。<a href=\"https://sspai.com/post/115456\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-09T06:43:28+00:00",
+      "fetched_at": "2026-10-10T04:02:35.159213+00:00",
+      "fingerprint": "75fbafe0ade7dc85"
+    },
+    {
+      "source": "少数派",
+      "title": "本周看什么 | 最近值得一看的 11 部作品",
+      "url": "https://sspai.com/post/115566",
+      "summary": "📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ...<a href=\"https://sspai.com/post/115566\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-09T10:04:09+00:00",
+      "fetched_at": "2026-10-10T04:02:35.159206+00:00",
+      "fingerprint": "059e5626d604afc6"
+    },
+    {
+      "source": "少数派",
+      "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+      "url": "https://sspai.com/post/115237",
+      "summary": "把决定使用时长的时机，放到每次打开应用之前。<a href=\"https://sspai.com/post/115237\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-10T02:19:52+00:00",
+      "fetched_at": "2026-10-10T04:02:35.159196+00:00",
+      "fingerprint": "4de8b74c30e092ae"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6718 CNY ↑+0.39%",
+      "url": "https://www.frankfurter.app/2026-10-09?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-09</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6718 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0180 (+0.39%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-10T04:02:33.816276+00:00",
+      "fingerprint": "567237c725e519c7"
+    },
     {
       "source": "The Guardian - World",
       "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
@@ -1351,196 +1631,6 @@
       "published_at": "2026-10-03T07:00:00+00:00",
       "fetched_at": "2026-10-04T04:00:04.918206+00:00",
       "fingerprint": "ff43768c6587d33b"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
-      "url": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
-      "summary": "<p>Artwork created in Tahrir Square<strong> </strong>for Chinese president’s state visit to Egypt is painted over amid allegations it revived Afrocentric claims about pharaohs’ origins</p><p>On the eve of the Chinese president Xi Jinping’s state visit to Cairo last month, the city authorities were busy removing a 66-metre-long mural from the esteemed guest’s line of sight.</p><p>Depicting the Pharaoh Tutankhamun and Queen Nefertiti, the painting was among 40 murals commissioned to beautify the city for Xi’s arrival and was painted by a group of young volunteers, Rasmet Basma, in Tahrir Square.</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-02T08:55:42+00:00",
-      "fetched_at": "2026-10-03T03:31:36.837494+00:00",
-      "fingerprint": "d51f30547b21ec95"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Riot police clash with students as education protests rage in France",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-      "category": "politics",
-      "published_at": "2026-10-02T21:13:27+00:00",
-      "fetched_at": "2026-10-03T03:31:36.666409+00:00",
-      "fingerprint": "e4b583dc89b9a5a7"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-      "category": "politics",
-      "published_at": "2026-10-03T02:23:07+00:00",
-      "fetched_at": "2026-10-03T03:31:36.666404+00:00",
-      "fingerprint": "888ac0a61f6b8911"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "category": "politics",
-      "published_at": "2026-10-02T20:32:07+00:00",
-      "fetched_at": "2026-10-03T03:31:36.666398+00:00",
-      "fingerprint": "08e18bac009fdf43"
-    },
-    {
-      "source": "BBC World News",
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "category": "politics",
-      "published_at": "2026-10-02T20:25:19+00:00",
-      "fetched_at": "2026-10-03T03:31:36.666388+00:00",
-      "fingerprint": "36367861a20bb5c7"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
-      "url": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "全球局勢動盪之際，西班牙與中國意外走近，但這並非唯一不尋常的夥伴關係。",
-      "category": "politics",
-      "published_at": "2026-10-02T05:09:30+00:00",
-      "fetched_at": "2026-10-03T03:31:36.562116+00:00",
-      "fingerprint": "3063e71a6b746ca2"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
-      "url": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "杜拜航空這班飛往特拉維夫的航班上，斯米特·馬查爾機長（Capt Smit Machchhar）遭另一名機師襲擊。以色列總理內塔尼亞胡讚揚他是「真正的英雄」，「拯救了174人的生命」，並阻止了一場「災難性的空中事故」。",
-      "category": "politics",
-      "published_at": "2026-10-02T08:24:10+00:00",
-      "fetched_at": "2026-10-03T03:31:36.562110+00:00",
-      "fingerprint": "6e1922444b1f68b8"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-      "url": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "這名被定罪的殺人犯在兩次致命注射後仍然生還，目前正在田納西州的醫院接受治療。這是當地半年內第二宗死刑執行失敗事件，引發許多疑問。",
-      "category": "politics",
-      "published_at": "2026-10-02T07:14:39+00:00",
-      "fetched_at": "2026-10-03T03:31:36.562100+00:00",
-      "fingerprint": "a8e53fa7f3cfc418"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-03T03:31:36.174242+00:00",
-      "fingerprint": "8b69c3ba05ec6ae6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Things that apparently cause cancer",
-      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-03T03:31:36.174147+00:00",
-      "fingerprint": "3cb8a615cf5e9271"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-03T03:31:36.174034+00:00",
-      "fingerprint": "e13eb55edf540c62"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The Forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-03T03:31:36.173929+00:00",
-      "fingerprint": "66f6a900012c1bca"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-03T03:31:36.173809+00:00",
-      "fingerprint": "32023900b443069d"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sling TV drops its one-day cable passes",
-      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
-      "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-02T20:00:20+00:00",
-      "fetched_at": "2026-10-03T03:31:36.096470+00:00",
-      "fingerprint": "c788ad59ba58c3da"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-02T20:08:40+00:00",
-      "fetched_at": "2026-10-03T03:31:36.096465+00:00",
-      "fingerprint": "ac153d8f7821405e"
-    },
-    {
-      "source": "The Verge",
-      "title": "Netflix is pivoting away from prestige",
-      "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-      "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-02T20:30:26+00:00",
-      "fetched_at": "2026-10-03T03:31:36.096460+00:00",
-      "fingerprint": "0edfc79f5f1ff27d"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-02T21:08:37+00:00",
-      "fetched_at": "2026-10-03T03:31:36.096450+00:00",
-      "fingerprint": "038134d95b4f933e"
-    },
-    {
-      "source": "少数派",
-      "title": "本周看什么 | 最近值得一看的 8 部作品",
-      "url": "https://sspai.com/post/115211",
-      "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...<a href=\"https://sspai.com/post/115211\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-02T09:30:00+00:00",
-      "fetched_at": "2026-10-03T03:31:34.534054+00:00",
-      "fingerprint": "344a2f185207d593"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6525 CNY ↓-0.16%",
-      "url": "https://www.frankfurter.app/2026-10-02?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-10-02</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6525 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0075 (-0.16%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-10-03T03:31:33.447774+00:00",
-      "fingerprint": "0a56d06757d78e05"
     }
   ]
 }
