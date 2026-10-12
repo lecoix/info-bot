@@ -1,7 +1,217 @@
 {
-  "updated_at": "2026-10-11T03:37:57.718371+00:00",
-  "count": 183,
+  "updated_at": "2026-10-12T04:01:50.271249+00:00",
+  "count": 169,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "category": "politics",
+      "published_at": "2026-10-11T21:12:44+00:00",
+      "fetched_at": "2026-10-12T04:01:50.159687+00:00",
+      "fingerprint": "11186f3a1a89634b"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "category": "politics",
+      "published_at": "2026-10-11T17:27:24+00:00",
+      "fetched_at": "2026-10-12T04:01:50.159683+00:00",
+      "fingerprint": "09cec1f6e809608c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "category": "politics",
+      "published_at": "2026-10-11T22:45:58+00:00",
+      "fetched_at": "2026-10-12T04:01:50.159680+00:00",
+      "fingerprint": "6563c1b8fad16be9"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+      "category": "politics",
+      "published_at": "2026-10-11T21:36:40+00:00",
+      "fetched_at": "2026-10-12T04:01:50.159674+00:00",
+      "fingerprint": "9425c6a29215c5ea"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "澤連斯基譴責美俄柴油交易，特朗普稱「烏克蘭該換總統了」",
+      "url": "https://www.bbc.com/zhongwen/articles/ck0j0g16e8j8o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "烏克蘭領導人曾表示，與俄羅斯達成向美國輸送柴油的協議將有助於莫斯科為戰爭籌集資金。",
+      "category": "politics",
+      "published_at": "2026-10-11T07:08:18+00:00",
+      "fetched_at": "2026-10-12T04:01:50.075511+00:00",
+      "fingerprint": "9d3b67e2f9b4196c"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
+      "url": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "陷入困境的軍政府正與各民族武裝組織及平民抵抗力量展開一場消耗戰。",
+      "category": "politics",
+      "published_at": "2026-10-12T00:08:15+00:00",
+      "fetched_at": "2026-10-12T04:01:50.075507+00:00",
+      "fingerprint": "670878c463591260"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "五角大廈表示，胡德堡槍擊案槍手納達爾·馬里克·哈桑（Nidal Malik Hasan）的處決將進行直播，但專家認為，官員可能誤判了美國民意。",
+      "category": "politics",
+      "published_at": "2026-10-12T00:08:36+00:00",
+      "fetched_at": "2026-10-12T04:01:50.075496+00:00",
+      "fingerprint": "71859606a4f9ba96"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "X Is Bad, Though",
+      "url": "https://lexontech.org/x-is-bad-though",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-12T04:01:49.820434+00:00",
+      "fingerprint": "aff24986377a8b61"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-12T04:01:49.820373+00:00",
+      "fingerprint": "d41642ac29318b77"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-12T04:01:49.820294+00:00",
+      "fingerprint": "04264482f0251792"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-12T04:01:49.820226+00:00",
+      "fingerprint": "d49fdf3cc73e1b28"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-12T04:01:49.820136+00:00",
+      "fingerprint": "1b572d2e4d4dbebc"
+    },
+    {
+      "source": "The Verge",
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "summary": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights &#38; Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and crew-annotated [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-11T15:34:40+00:00",
+      "fetched_at": "2026-10-12T04:01:49.575394+00:00",
+      "fingerprint": "795b2dff14cba02b"
+    },
+    {
+      "source": "The Verge",
+      "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+      "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+      "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-11T17:31:07+00:00",
+      "fetched_at": "2026-10-12T04:01:49.575391+00:00",
+      "fingerprint": "26bcdb5e7bca5899"
+    },
+    {
+      "source": "The Verge",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-11T18:33:56+00:00",
+      "fetched_at": "2026-10-12T04:01:49.575387+00:00",
+      "fingerprint": "10ff9df7a5585aaf"
+    },
+    {
+      "source": "The Verge",
+      "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-11T20:06:43+00:00",
+      "fetched_at": "2026-10-12T04:01:49.575380+00:00",
+      "fingerprint": "d5c473b7ac23af47"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨尊界公布踏板升级时间；大闸蟹全线崩盘？中小规格跌至5元一只；世卫组织：俄不明原因肺炎事件，无持续传播证据",
+      "url": "https://36kr.com/p/4022129475948680?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>月之暗面增资至约1437万</li>\n   <li>MLCC全球龙头子公司计划扩产</li>\n   <li>经销商联谊会“批量”解散？茅台方面回应</li>\n   <li>欧亚经济联盟继续对华油井管征收反倾销税</li>\n   <li>苹果正研发不“录像”的摄像头</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>尊界公布踏板升级时间</strong></p>\n  <p>10月11日下午，尊界客服向记者确认，尊界V800制动踏板支架底座升级方案预计于10月底确认，11月起陆续启动升级。10月8日晚，尊界汽车发布关于尊界汽车制动踏板支架底座相关问题的情况说明，称将进一步优化该部件设计，并为已交付用户提供免费升级选择。</p>\n  <p>11日下午，尊界客服告诉记者，目前，已提车的用户可通过全国任一服务中心预约登记，也可直接联系购车门店登记，届时用户中心将会第一时间联系用户；而未发运车辆会被直接升级后再交付，用户无需额外操作。不过，当前升级方案未确定，暂无法提供具体升级细节。（北京日报、财联社）</p>\n  <p><strong>大闸蟹全线崩盘？中小规格跌至5元一只</strong></p>\n  <p>近日，“大闸蟹全线崩盘”相关话题引发大量关注，冲上微博热搜。据看看新闻10月9日报道，在上海普陀区新沪路，有些中小规格的母蟹价格跌至5元/只，太湖蟹2-3两/只售价仅10元。不过，超大规格精品蟹价格保持坚挺。蟹农表示，一只半斤以上的本地产大闸蟹，出水价在150元左右；公母一对售价在300元。</p>\n  <p>另据荆州新闻网，目前荆州市场大号4两规格母蟹价格在50-55元/斤，4两规格公蟹价格在28-30元/斤，2两规格母蟹价格在35元/斤左右，2两规格公蟹价格在20-25元/斤，整体价格较去年同期每斤低5-10元。</p>\n  <p>界面新闻查询盒马APP获悉，目前2.3-2.7两/只的鲜活大闸蟹（母蟹）售价是25.9元；3.3-3.7两/只的母蟹售价为55.9元。在京东平台，全母蟹3.0-3.8两8只礼盒装的价格为218元，平均一只大约27元；全母蟹6.0-6.3两8只礼盒装价格为1985元，平均一只248元。（看看新闻、荆州新闻网、界面新闻）</p>\n  <p><strong>世卫组织：俄不明原因肺炎事件，无持续传播证据</strong></p>\n  <p>据央视新闻，世界卫生组织10日在其官网发布公报说，关于俄罗斯伊尔库茨克西伯利亚与远东防鼠疫研究所一名工作人员患病死亡事件，根据俄方通报，世卫组织尚未发现与这一事件相关的持续传播证据，但目前尚未确认导致致命疾病的病原体。据俄方通报，伊尔库茨克西伯利亚与远东防鼠疫研究所一名28岁女性工作人员2日因“不明原因肺炎”死亡。</p>\n  <p>世卫组织表示，据俄方卫生部门通报，伊尔库茨克州近期没有报告鼠疫病例，已依据相关卫生法律全面采取综合防疫措施，对这名实验室工作人员及其接触者的检测也未发现高威胁病原体。这名工作人员所在的实验室未发生生物安全事故，且未发现与该病例有关的新发严重肺炎病例。</p>\n  <p>公报强调，根据俄方已提供的信息，世卫组织尚未发现与这一事件相关的持续传播证据。但目前仍存在一个关键的不确定因素，即导致这名实验室工作人员死亡的病原体尚未确认，因此世卫组织无法评估接触者监测持续时长是否足以排除所有可能的致命病因。世卫组织将继续监测这一情况，并在获得更多信息时，评估任何潜在的公共卫生影响。</p>\n  <p>俄联邦消费者权益保护和公益监督局先后发布多份通告，指出患病工作人员曾针对其工作相关的危险传染病接受过疫苗接种并具有免疫力。该机构否认存在第二例病例，称所有与死亡患者有接触的人员都已结束医学观察，未发现与传染病有关的健康问题。（央视新闻、财联社）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>SpaceXAI官方账号更名</strong></p>\n  <p>马斯克当地时间10月10日在社交平台发布一张截图，显示SpaceXAI的官方账号已更名为“SpaceX Super Intelligence”（@SpaceXSI）。此前10月4日，马斯克表示，SpaceX是一家超级智能（SI）公司，我们将把SpaceXAI改名为SpaceXSI。（财联社）</p>\n  <p><strong>微软CEO称AI是潜在内部威胁</strong></p>\n  <p>微软公司CEO萨提亚·纳德拉(Satya Nadella)表示，企业应将强大的AI模型视为潜在的内部威胁，假定它们可能已被攻破，并建立一套“紧急刹车”系统，以防止智能体模型失控。纳德拉10月10日在X平台上发帖称，部署先进AI的企业不应仅仅依赖AI模型开发商的安全保证。“我们必须假定模型已被攻破，并从一开始就对其加以限制。可以把它想象成紧急刹车。获得授权的人员应当始终能够在模型执行任务的过程中暂停或关闭它。”纳德拉表示。就在纳德拉发表上述言论之际，Anthropic和OpenAI近几个月披露了一系列AI模型出现非预期行为的事件，包括Anthropic的一款模型在一起警方调查的谋杀案中提交虚假线索，以及AI模型多次入侵第三方网站。这些披露加剧了外界对前沿AI安全风险的担忧，也让所谓的AI“紧急关闭开关”再次成为讨论焦点。（新浪财经）</p>\n  <p><strong>蚂蚁“灵光”开启小范围内测，新版对标“Meta Muse”</strong></p>\n  <p>据悉，蚂蚁集团旗下AI产品“灵光”已于近日开启新版本的小范围内测，新版对标“Meta Muse”。公开信息显示，今年9月，Meta推出个人智能体Muse。该智能体可介入用户日常生活，并持续跟进用户交待的事宜。接近项目人士透露，灵光相关方向约半年前已开始筹备，期间迭代多个版本，计划本月全面开放。该人士还透露，此次升级的核心，是灵光从能聊天、能生成应用的AI助手，转向拥有长期记忆、可主动推进任务的AI原生个人智能体。灵光新版本还能通过调用Skill和MCP，实现钉钉发信息、调用智能家居设备等功能。据悉，灵光2.0的内测用例集中在长程、变量多、普通人难盯住的场景，例如帮上班族跟踪市场异动、帮家长管理钉钉打卡、旅行中遇航班延误或景区限流重排路线等。（新浪科技）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>“航天线缆第一股”10月12日申购</strong></p>\n  <p>根据目前的发行安排，10月12日有1只北交所新股文峰光电可申购，发行价为11.45元/股，发行市盈率为14.01倍。根据招股说明书，文峰光电主要从事高性能、高可靠性特种线缆及光电组件等产品的研发、生产和销售，产品广泛应用于航空、航天等领域，具备特种线缆定制化生产、柔性制造、精密检测和供应保障及时的科研生产能力。</p>\n  <p>公司长期配套服务于航空航天、兵器舰船、军工电子等领域，为国家级高新技术企业、国家级专精特新重点“小巨人”企业，安徽省技术创新示范企业，制造业单项冠军培育企业。经过多年研发和积累，公司已形成近50个系列、400多个品类、上千种规格的产品。（财联社）</p>\n  <p><strong>月之暗面增资至约1437万</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%。值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币。该公司成立于2023年4月，法定代表人为杨植麟，经营范围含软件开发、人工智能基础软件开发、人工智能应用软件开发等。股东信息显示，该公司由杨植麟、深圳和谐成长三期科技发展股权投资基金合伙企业（有限合伙）、周昕宇等共同持股。</p>\n  <p><strong>四部门联手，对“速成车”说不</strong></p>\n  <p>工信部等四部门10日公开发布关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿）。汽车产品创新设计技术指南围绕虚拟操纵件、门把手、新型人机交互系统、大角度座椅等方面提出具体测试验证要求。业内普遍认为，四部门发布的新规是对“速成车”说不！这几天，舆论广泛关注尊界V800刹车踏板支架断裂事件，讨论的焦点就是汽车尤其是“速成”新能源车的安全问题。尽管事件有待权威的调查结论，但有一点毋庸置疑：一辆汽车的刹车踏板，绝不应该在驾驶中出现“断裂”！“稳”是一种更持久的“快”。近年来，我国汽车产业尤其是新能源汽车产业实现了跨越式发展，来之不易的产业生态、社会信任、消费者口碑，需要产业各方共同维护。创新的脚步不会因为精益求精而变慢，安全才是中国汽车越跑越稳的底气所在。(人民日报)</p>\n  <p><strong>多部门：汽车生产企业不得作虚假、夸大或引人误解的宣传</strong></p>\n  <p>36氪获悉，工业和信息化部等四部门联合发布了关于进一步加强汽车产品创新设计和研发测试验证有关管理工作的通知（征求意见稿），拟规范营销宣传活动。汽车生产企业应当真实客观开展营销宣传活动，如实宣传产品创新设计的使用边界、限制条件和研发测试验证等情况，不得作虚假、夸大或引人误解的宣传，不得使用违反道路交通法规的场景来宣传产品功能，不得诱导驾驶人忽视安全驾驶责任，确保消费者正确理解和使用汽车产品创新设计相关功能。</p>\n  <p><strong>中央汇金“打假”：公司不开展代客投资理财活动</strong></p>\n  <p>36氪获悉，10月9日，中央汇金投资有限责任公司发布声明称，公司不开展代客投资理财活动。对于假冒公司或公司工作人员名义进行诈骗的单位或个人，将依法追究其法律责任。中央汇金更新仿冒公司名单，并在声明中表示相关公司及其所出资公司与公司无任何隶属或股权关系，也不存在任何投资、合作、业务等关系，其一切活动均与公司无关。</p>\n  <p><strong>“A+H”上市公司数量持续增加</strong></p>\n  <p>近日，港股上市公司力勤资源在深圳证券交易所主板正式挂牌上市，成为全面注册制实施以来深市主板首家“H回A”上市企业。除力勤资源外，近期，包括映恩生物在内的多家港股公司更新A股上市“进度条”。此外，Wind数据显示，今年以来已经有38家A股上市公司成功实现H股上市，“A+H”上市公司数量持续增加。（中证报）</p>\n  <p><strong>10月沪主板已披露120余份回购公告，累计实施回购超170亿元</strong></p>\n  <p>10月以来（披露日为10月1日及之后），沪市主板公司已发布超120份回购类公告（包括回购计划、回购进展和完成类），上述公告对应回购金额合计约247亿元至464亿元，累计已实施金额超176亿元，其中，进展类公告对应的最新回购金额为166亿元，已锁定整体回购金额（下限）的七成。（第一财经）</p>\n  <p><strong>工业富联回应美337调查</strong></p>\n  <p>工业富联10月11日公告，公司获悉美国国际贸易委员会于当地时间10月9日宣布，就美国Vicor Corporation提出的相关专利侵权主张，正式启动337调查。Vicor指控公司及控股子公司侵犯其一项“垂直供电系统”专利权。经内部核查，本次调查涉及产品处于内部验证评估阶段，对公司目前生产、经营及业绩不造成实质性影响。本次337调查尚处于立案阶段，尚未进入裁决环节，案件最终裁决结果存在不确定性，提醒投资者注意投资风险。（界面新闻）</p>\n  <p><strong>MLCC全球龙头子公司计划扩产</strong></p>\n  <p>据《科创板日报》援引媒体报道，全球MLCC龙头村田制作所旗下子公司冈山村田制作所计划投资约90亿日元，新增产线扩产MLCC等电子零件用陶瓷原料。新产线预计2026年10月动工，2028年4月投产，本次扩产新增产能规模暂未披露。冈山村田所产超微粒、高纯度陶瓷原料，用于村田全球市占第一的MLCC产品。（财联社）</p>\n  <p><strong>江淮汽车增资至约22.54亿</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，安徽江淮汽车集团股份有限公司发生工商变更，注册资本由约21.84亿人民币增至约22.54亿人民币。该公司成立于1999年9月，法定代表人为项兴初，经营范围含道路机动车辆生产、货物进出口、技术进出口等，由安徽江淮汽车集团控股有限公司、香港中央结算有限公司、安徽省国有资本运营控股集团有限公司等共同持股。</p>\n  <p><strong>多地出台公积金提取新政，提取范围进一步放宽</strong></p>\n  <p>近期，多地正式开始落地住房公积金惠民新政，提取范围进一步放宽。江苏南京、苏州等地已开始受理装修、物业费提取业务，辽宁沈阳也发布九项优化政策，采暖费等支出纳入提取范围。（央视新闻）</p>\n  <p><strong>受内存、存储芯片短缺推高价格，游戏硬件销量跌至13年新低</strong></p>\n  <p>全球内存与存储芯片短缺，正给游戏行业带来沉重打击。微软、任天堂与索尼均上调了自家游戏主机售价，以此抵消元器件成本上涨，以及此前关税带来的冲击。而涨价直接造成销量大幅下滑。市场调研机构Circana的数据显示，8月游戏硬件销售额同比下滑15%，创下13年来8月的最低销售规模。（新浪财经）</p>\n  <p><strong>腾讯入股墨奇智能</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，上海墨奇万象智能技术有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司为股东，同时，注册资本由约154.2万元人民币增至约162.2万元人民币。该公司成立于2025年8月，法定代表人为高文礼，经营范围含技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广等，现由高文礼、深圳市墨菲投资合伙企业（有限合伙）及上述新增股东等共同持股。</p>\n  <p><strong>经销商联谊会“批量”解散？茅台方面回应</strong></p>\n  <p>近日，酒圈盛传各地茅台经销商联谊会“批量”解散的传闻，经过一段时间的发酵后，相关方终于对外进行了回应。多家媒体10月10日报道称，从贵州茅台��销售公司市场工作人员获悉，按照社会组织规范化建设、运行相关要求，目前各省区经销商联谊会、传承人工作部已停止日常工作。但相关人士表示，上述机构停止日常运营，不会影响区域市场业务。各省区茅台酒销售、品牌落地等常规市场工作依旧正常有序推进。此次调整，是茅台响应国家关于社会组织规范管理的相关要求，对相关配套运营机制作出的一次系统性梳理与优化。此外，针对市场流传“茅台停止经销商品鉴会经费支持”的说法，贵州茅台酒销售公司相关人士表示，茅台并未停止对渠道市场活动的支持。但需要提醒的是，截至记者发稿时，贵州茅台官方平台尚未正式对外发表相关情况说明。(证券时报)</p>\n  <p><strong>纽约联储银行：特朗普关税导致67类商品价格上扬</strong></p>\n  <p>美国纽约联邦储备银行的研究显示，如果总统特朗普没有对进口商品征收关税，许多日常用品的价格原本会有所降低，却因为关税而上扬了。报告显示，截至今年2月，特朗普的关税使67类商品的价格水平提高了2.9个百分点。如果没有关税，这些商品的价格原本会下跌近1%。报告指出，平均关税率每增加一个百分点，消费物价会在一年后上扬约0.25个百分点，且关税带来的价格上涨压力将持续到2027年。这些商品价格的上涨，约三分之二是进口关税的直接冲击，其余是美国公司在产品中使用了进口的部件和材料，间接受关税影响。（财联社）</p>\n  <p><strong>广东省省长孟凡利会见美国苹果公司蒂姆·库克一行</strong></p>\n  <p>广东省省长孟凡利10月11日在广州会见美国苹果公司执行董事长蒂姆·库克一行。蒂姆·库克感谢广东省对苹果公司发展的长期支持。他表示，广东是全球重要的制造业中心，拥有完备的产业链供应链、强劲的创新创造活力，更有极富潜力的消费市场与合作空间，聚集了大量苹果供应链伙伴和生态开发者。广东对苹果公司在华发展至关重要，公司很愿意进一步扩大在粤业务布局，围绕供应链协同、创新生态赋能、智能制造和绿色制造、销售渠道拓展等方面，与广东有关城市和企业探讨更多合作，更好实现互利共赢。</p>\n  <p>孟凡利对蒂姆·库克一行表示欢迎。他说，苹果公司是全球知名的科技领军企业，不论是生产端、销售端还是研发端都与广东有着长期广泛深入的合作。当前广东正锚定智能化、绿色化、融合化发展方向，加快构建以先进制造业为骨干的现代化产业体系，我们十分欢迎并支持苹果公司与广东各方面紧密对接，把更多创新产品、新兴业务及研发平台放在广东，不断拓展合作新领域新空间。广东将持续扩大高水平对外开放，打造市场化法治化国际化一流营商环境，为包括苹果公司在内的各类企业在粤发展提供优质服务。（财联社）</p>\n  <p><strong>2026广交会设计创新奖公布，张雪机车获至尊金奖</strong></p>\n  <p>据中国对外贸易中心，2026年广交会设计创新奖（简称“CF奖”）名单已公布，共有174家企业的222件产品获奖，其中，张雪机车820RR获广交会CF奖至尊金奖，另一款获至尊金奖的产品是智巡胶囊机器人胃内窥镜系统。据了解，获奖产品将在第140届广交会期间集中展示。此次获奖产品呈现以下三大特点：一是向“新”集聚，新质生产力特征突出。获奖产品集中于技术创新型企业。从至尊金奖的张雪机车820RR、智巡胶囊机器人胃内窥镜系统，到脑机接口康复系统、外骨骼机器人等前沿精品集中涌现，彰显高端制造创新引领趋势。二是向“智”升级，AI智能产品发展强劲。获奖产品中，智能产品占比32%。AI眼镜、智能会议终端、智能康养设备等产品覆盖家居、办公、医疗、户外等场景。三是向“绿”渗透，绿色低碳贯穿全链路。绿色理念贯穿产品研发、设计、生产全流程。</p>\n  <p>获奖产品中，绿色产品占比44%。光伏幕墙、发电节能一体板等新能源应用，以及甘蔗纸、生物基面料等材料工艺，表明“向绿”发展深化。同时，第140届广交会产品设计贸易促进中心（PDC）也将汇聚海内外优质设计机构，共有来自英国、意大利、荷兰、希腊、土耳其、韩国等6个国家以及中国台湾地区和大陆的101家设计机构参展，同时首次引入声学新材料、电池新能源技术、科技中介等研发设计机构，以设计创新赋能中国制造提质升级。（央视新闻）</p>\n  <p><strong>哈药股份：公司董事兼总裁被立案、实施留置</strong></p>\n  <p>36氪获悉，哈药股份公告称，公司于近日收到相关监察委员会关于公司董事、总裁芦传有的《立案通知书》和《留置通知书》。目前，公司已对相关工作进行了妥善安排，董事长、其他董事和其他高级管理人员均正常履职，董事会运作正常。</p>\n  <p><strong>欧亚经济联盟继续对华油井管征收反倾销税</strong></p>\n  <p>36氪获悉，据中国贸易救济信息网，10月9日，欧亚经济委员会内部市场保护司发布第2026/520/AD16R2号公告，依据委员会2026年10月6日第127号决议，决定维持委员会2015年第101号决议确定的反倾销税不变，继续对原产于中国的油井管（俄语：нефтегазопромысловыетрубы）征收12.23%～31.00%的反倾销税，与此同时，决定将汉廷能源科技（无锡）有限公司[Hunting Energy Services (Wuxi) Co. Ltd.]从价格承诺企业名单中取消，措施自公告发布30日后生效，有效期至2031年10月5日（含）。</p>\n  <p><strong>苹果iPhone Duo加单30%，iPhone 18 Pro系列总订单量未变</strong></p>\n  <p>从苹果供应链方面获悉，苹果公司结构性调整2026年秋季手机新品订单量：对iPhone Duo加单30%，但总量仍未超过1000万台，并对iPhone 18 Pro砍单10%—15%，同时对iPhone 18 Pro Max加单10%—15%，iPhone 18 Pro系列总订单量未变。“这意味着销量在往更高价值产品倾斜，所以整体利好苹果供应链公司业绩。”苹果供应链人士表示。（证券时报）</p>\n  <p><strong>苹果正研发不“录像”的摄像头</strong></p>\n  <p>据媒体近日报道，科技记者马克·古尔曼（Mark Gurman）透露，苹果正在研发一款代号为J450的家用安防摄像头。与市面上的同类产品不同，它不会录制任何视频。这款摄像头将利用AI分析家中及周边环境，再以文字描述的形式把动态推送给用户。（科创板日报）</p>\n  <p><strong>苹果通过反向人才收购拿下Huxe</strong></p>\n  <p>苹果在欧盟《数字市场法案》案件数据库网站披露，其已达成协议，将吸纳个性化音频初创公司Huxe的团队成员与相关技术，这笔交易属于业内常说的反向人才收购（reverse acqui‑hire）。据报道，苹果向欧盟委员会报备称，同意向“Huxe AI的部分员工”发出录用邀约，同时“获得Huxe知识产权的非独占许可授权”。 Huxe的创始团队此前供职于谷歌NotebookLM项目（该产品近期已更名为Gemini Notebook）。Huxe在5月21日宣布关停业务；团队在官网huxe.com发文表示，会将应用从苹果、谷歌应用商店下架，停止服务并删除全部用户数据。（新浪科技）</p>\n  <p><strong>工业富联：美国国际贸易委员会对公司及控股子公司启动337调查，涉及一项“垂直供电系统”专利权</strong></p>\n  <p>36氪获悉，工业富联公告称，公司获悉美国国际贸易委员会于当地时间10月9日宣布，就美国VicorCorporation提出的相关专利侵权主张，正式启动337调查。Vicor指控公司及控股子公司侵犯其一项“垂直供电系统”专利权。经内部核查，本次调查涉及产品处于内部验证评估阶段，对公司目前生产、经营及业绩不造成实质性影响。</p>\n  <p><strong>英伟达据悉正就收购Reflection AI或增加投资进行磋商</strong></p>\n  <p>据报道，英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。报道称，目前仍有许多投资方式正在考虑之中。潜在的交易结构包括“收购式招聘”，即英伟达聘用Reflection AI员工并获得其技术许可，还有与该公司达成协议向其提供更多芯片，或者增加英伟达对Reflection AI的股权投资。（财联社）</p>\n  <p><strong>马斯克：Terrafab工厂将重塑芯片制造</strong></p>\n  <p>马斯克表示，鉴于其旗下公司在制造定制设备方面的专长，他认为它们很可能会“找到比任何人都更好地制造芯片的方法”。马斯克在得州奥斯汀特斯拉超级工厂外对一群客户和投资者表示，尽管他目前“不知道如何制造微芯片，但我们会弄明白”。他10月10日通过直播出席X Takeover活动时指出，在参观竞争对手设施时，他没有看到多少定制设备，而他说自己的公司在制造这类设备方面拥有丰富经验，这使它们能够改进制造工艺。马斯克说：“我认为可以说，这是世界上最难做的事情之一。”“我不想表现得自满或理所当然，但我认为我们很可能会找到比任何人都更好地制造芯片的方法。说实话。我不知道这需要多长时间。可能需要好几年。”（格隆汇）</p>\n  <p><strong>摩根大通计划未来五年欧洲管理资产规模翻倍至2万亿美元</strong></p>\n  <p>摩根大通资产管理公司公布了雄心勃勃的发展目标，计划在未来五年内将其欧洲地区管理资产规模扩大一倍，达到2万亿美元。该机构押注欧洲富裕人群能够推动这家华尔街银行旗下资管部门的业务增长。摩根大通资管欧洲、中东及非洲地区首席执行官帕特里克·汤姆森在采访中表示：“欧洲是我们持续拓展业务的优质市场。我们的三大战略重点——主动型交易所交易基金（主动ETF）、另类资产，以及与头部财富管理机构搭建合作关系，将成为拉动增长的核心动力。”得益于市场上涨以及新老客户持续流入资金，摩根大通资管欧洲业务的管理资产规模在过去9年间已经实现翻倍，从5000亿美元增长至1万亿美元。（新浪财经）</p>\n  <p><strong>前三季度韩国投资者净买入金额前15名的港股合计净买入约2.28亿美元</strong></p>\n  <p>韩国证券存托结算院信息门户（SEIBro）数据显示，2026年前三季度（结算日1月1日至9月30日），韩国投资者净买入金额前15名的港股合计净买入约2.28亿美元，同期净买入前15名A股合计约7987万美元。其中，Global X中国半导体ETF净买入金额高居榜首，前三季度净买入金额为5257万美元。A股方面，前三季度，存储芯片龙头长鑫科技深受韩国投资者青睐，其净买入额占A股前15名合计的一半以上。半导体、5G通信、动力电池等A股成长板块亦获青睐。进入10月，继前三季度中际旭创H股位列港股净买入第二后，其A股又在10月以来登上A股净买入榜首。(中国基金报)</p>\n  <h2>上市进行时</h2>\n  <p><strong>厦门轨道集团100亿元小公募债申报获上交所受理</strong></p>\n  <p>上交所公司债券项目信息平台显示，厦门轨道建设发展集团有限公司100亿元小公募债项目状态更新为“已受理”，受理日期为2026年10月9日。募集说明书申报稿显示，本次债券募集资金在扣除发行费用后，拟将不超过57亿元用于偿还到期/回售的公司债券本金，不超过10亿元用于固定资产投资项目，不超过21亿元用于偿还有息债务，不超过12亿元用于补充流动资金。（界面新闻）</p>\n  <h2>投融资</h2>\n  <p><strong>利太智药完成近5000万元种子轮融资</strong></p>\n  <p>36氪获悉，10月10日，利太智药宣布已完成近5000万元种子轮融资。本轮融资由讯飞创投、L2F光源创业者基金及知名产业方联合投资，光源资本担任独家财务顾问。本轮资金将主要用于核心管线研发、算力投入、专利布局、人才招募及日常运营。</p>\n  <p><strong>睿质科技完成首轮数千万元融资</strong></p>\n  <p>36氪获悉，据中关村资本消息，睿质科技完成首轮数千万元融资。本轮融资由中关村资本领投，中关村科学城公司跟投。本轮融资将主要用于核心团队建设、科研智能体工作平台与工业级跨尺度智能计算引擎的持续迭代、自动化实验验证体系建设，以及产业应用场景的进一步拓展与落地。</p>\n  <p><strong>庞伯特完成数亿元B轮融资</strong></p>\n  <p>36氪获悉，AI体育硬件公司“庞伯特”近日完成数亿元B轮融资，本轮由上海国投先导基金领投，元禾璞华、浦东创投等跟投，老股东蓝驰创投持续加注，高鹄资本担任独家财务顾问。</p>\n  <p><strong>太一量生完成超10亿元融资</strong></p>\n  <p>36氪获悉，10月10日，太一量生（上海）量子科技有限公司宣布完成新一轮融资。成立8个月余，公司累计融资超10亿元人民币。本轮融资中，锦秋基金、沄柏资本、鸿瑞达投资、成都高新愿景基金、临港前沿投资等新投资方进入，华控基金、恒旭资本、博远资本、高脉投资、雅瑞资本等老股东持续加注。</p>\n  <p><strong>整理丨</strong>娃娃菜&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-10-12T00:04:23+00:00",
+      "fetched_at": "2026-10-12T04:01:49.350019+00:00",
+      "fingerprint": "6a60e37ea9901b15"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪新风向丨在太空中建AI算力中心，马斯克又带火一个万亿美元赛道",
+      "url": "https://36kr.com/p/4022305269600128?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>本文约4800字，建议阅读13分钟</p>\n  </blockquote>\n  <p>一年前，做太空算力的公司如果想拿投资，会遭遇投资人很多冷眼。</p>\n  <p>很难责怪他们的冷淡。太空算力中心听上去有些科幻。简单解释，它希望借助太空永不落山的太阳能与真空辐射散热，实现无限的算力扩张。核心设想是解开地面数据中心的电力与能效的死结。</p>\n  <p>“当时我们内部也认为，这玩意儿不是骗人嘛，市场一度非常冷。”一位投资人回忆。</p>\n  <p>又是马斯克，在大洋彼岸，以一己之力带火了中国硬科技赛道。</p>\n  <p>2025年11月，马斯克在社交媒体宣布，依托星舰（Starship）的发射能力与Starlink V3卫星的升级，SpaceX将构建全球首个太空AI数据中心集群，目标实现每年1太瓦（1TW）的AI算力部署。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261012/v2_9cb3b56b951e42d19d20bd6b96675681@5920579_oswg218113oswg1080oswg710_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（SpaceX AI Statellite概念图）</p>\n  <p>投资人们很快转变了态度，他们觉得“不靠谱也开始靠谱了”，很多人的想法变化并非更深入的研究或赛道更落地的发展，只是看到“马斯克的pr变猛了”。</p>\n  <p>“一家垂直整合程度如此高的公司如果能把太空算力这件事做正，那其他公司努努力也可以。”一位投资人告诉硬氪。</p>\n  <p>和商业航天、量子计算、核聚变类似，这一赛道也因为国家之间的技术竞赛，在短期内迅速升温。一位投资人对硬氪戏称，又是“摸着马斯克过河。”</p>\n  <p>一群后知后觉的投资人发现，这个半年前没人愿意参与的赛道，额度突然变得供不应求。</p>\n  <p>太空算力赛道代表性的几家公司，「中科天算」和「中科密位」今年相继披露超亿元融资；「一苇宇航」和「轨道辰光」则均在一年内斩获四轮融资，最新一轮融资估值已达40亿元。</p>\n  <p>新玩家也纷纷入局，仅2026年上半年，就有数家太空算力相关公司成立，包括「星纪原点」、「寰宇泛智」、「深空矩阵」、「瑞启深空」等，其背景各不相同，有航天老兵，也有来自投资圈的入局者。此外，AI上市公司佳都科技还孵化了一家专门做太空算力大模型的企业，pre-A轮融资后估值超10亿。</p>\n  <p>甚至，“太空算力”本身成了一个可以抬估值的热词。一位关注商业航天领域的投资人告诉硬氪，不少项目根本和太空算力无关，只是业务能和太空挂钩，就打着太空算力旗号融资。比如一些去年还在做通信卫星的企业，现在都号称要切入算力卫星。“基本上都在说算力的故事。”</p>\n  <p>一级市场也在短时间建造出足以支撑估值的逻辑。不少投资人相信，太空环境可能复制地面互联网络的发展轨迹。首先是单颗卫星的智能化，接着算力卫星之间可协同计算，终局是大规模空间算力中心。“大家觉得会有一个非常大的市场在等着我们。”上述投资人表示。</p>\n  <p>当卫星数量足够多、通信网络足够密集、算力真正进入轨道之后，新的场景和商业模式也会随之出现。而现在，正好是入场下注的起点。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261012/v2_371bcf67243b4fbda1895ad39362743c@5920579_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>商业航天爆火的衍生品</strong></h2>\n  <p>太空算力的升温，几乎与商业航天的热度同步。</p>\n  <p>全球来看，2025年，全球太空初创企业投资达到553亿美元，创下新的年度纪录，2026年仅第一季度单季，投资已达创纪录的360亿美元。</p>\n  <p>商业航天的商业闭环中，最末端是卫星延伸的业务，目前已经跑出现金流的是星链，而资本看到更大的可能性，则是太空中的AI算力中心。</p>\n  <p>2025年11月，美国初创公司Starcloud发射其首颗技术验证卫星“Starcloud-1”，搭载英伟达H100芯片。12月，Starcloud宣布使用这颗H100完成了在轨大语言模型训练，并运行了谷歌Gemma模型。其远期目标，是在近地轨道上，构建百兆瓦乃至吉瓦（GW）级的集中式空间算力基础设施。</p>\n  <p>同一时期，马斯克也开始高调讨论将计算能力叠加到SpaceX庞大的卫星网络之上，进一步构建太空AI数据中心。谷歌则公布了其“太阳捕手”（Project Suncatcher）计划，探索将TPU等AI芯片部署在由太阳能供电的卫星星座中。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261012/v2_82f88068936d4d78a87cd32817b7229c@5920579_oswg677437oswg1080oswg655_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（英伟达太空算力计划概念图）</p>\n  <p>而在中国，国家队和商业公司都陆续有一些可回收的里程碑出现，单纯依靠“造火箭、造卫星”获得超额机会的窗口正在逐渐收窄，早期投入的机会也越来越少，行业开始寻找新的增量。“太空”与AI结合，加上马斯克的高调入局，点燃了资本对下一代太空产业的想象。</p>\n  <p><strong>如果只把太空算力理解成“把数据中心搬上太空”，可能会低估这件事真正的价值。</strong></p>\n  <p>智能化的低轨卫星能够提供的，不只是一个“更高的位置”，而是一个感知和理解地球的新维度。</p>\n  <p>以海洋场景为例，海洋基建、海上风电、远洋运输等场景都需要持续获取海况、洋流等信息。过去，传感器可以部署在海面或海底，但覆盖范围有限，遥感卫星则能够从更大的空间尺度持续获取海洋信息。</p>\n  <p>如果卫星具备更强的在轨计算能力，就可以直接筛选、识别和分析遥感图像和传感数据，甚至进一步通过卫星通信网络将结果反馈给船舶等终端。类似的逻辑也可以延伸到碳排放监测、农业监测、灾害预警等场景。这意味着，一批过去难以实现、或者成本过高的应用场景，可能因此被重新打开。</p>\n  <p>更进一步，当太空场景内有了在轨算力，未来近地轨道的空间站、空间探索器以及各类商业航天器所需的复杂运算，都无需再折返回传地面，在太空场景部署更多智能化设备将成为可能。</p>\n  <p><strong>不少关注太空算力领域的投资人会用“智能手机”来比喻“太空算力”。“地面没有算力的时候，大家不知道手机可以是智能机。同理，当太空有了算力，也会有更多应用场景出现。”</strong></p>\n  <p>这或许才是“太空算力”对于商业航天行业真正具有吸引力的地方。它带来的不只是卫星计算能力本身，而是有可能成为下一代太空基础设施，进而催生新的应用和商业模式。</p>\n  <p>过去十年，中国商业航天经历了从无到有的快速发展，火箭回收、卫星批量制造、星座组网等领域陆续取得进展。但行业始终有一个绕不开的问题：商业模式。</p>\n  <p>在地面网络和地面站覆盖较为完善的情况下，中国通信卫星很难像Starlink一样，通过卫星直连终端用户形成规模化收入，卫星被送上天之后，如何形成稳定、规模化的收入来源，始终没有特别清晰的答案。</p>\n  <p>太空算力则提供了新的想象空间。<strong>“算力相当于给大家打开了一个新的视野。除了通信之外的一个新的市场，而且是民营企业可以参与的市场，而这个市场里是有可能实现商业闭环的。”上述投���人表示。</strong></p>\n  <p>当然，算力本身并不是终点，它只是应用闭环的第一步。</p>\n  <p>“未来要发几万颗卫星在天上，肯定要产生更多的价值。要把更多的数据利用起来，就要围绕着天地这些数据去找应用。具体有什么应用还有很大的想象空间。但是找应用的前提一定是要有算力。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261012/v2_743dc44edba24fb9a954069e28e3b947@5920579_oswg4716oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>上天还是在地？</strong></h2>\n  <p>现阶段行业讨论的“太空算力”，实际对应着两条不同的技术路线，“天数天算”与“地数天算”。</p>\n  <p>“天数天算”出现得更早。</p>\n  <p><strong>所谓“天数天算”简单来说，就是让卫星在轨处理所采集到的数据。</strong></p>\n  <p>早期的卫星，尤其是遥感卫星，会持续产生大量图像和传感数据。如果所有原始数据都下传到地面，再进行识别、分析和处理，不仅会占用大量通信资源，也会增加数据处理的时延。</p>\n  <p>因此，“天数天算”要解决的，是让卫星自身具备一定的计算能力，在数据产生的地方直接完成部分处理，例如图像识别、目标检测、图像分割等，再将经过筛选和处理后的结果传回地面，服务于地面产业。</p>\n  <p><strong>但真正将“太空算力”推上风口浪尖的，是踩中AI叙事浪潮的“地数天算”。</strong></p>\n  <p>地面之上，算力基础设施的扩张正面临日益严峻的电力、散热和建设周期等约束。据行业数据，2026年北美AI数据中心（AIDC）的新增电力需求将突破20GW，2027年更将逼近30GW，相当于30座大型核电机组的总装机容量。然而，电网老旧与并网滞后等现实难题，让无数新建数据中心陷入长达1至3年的“排队等电”困境。</p>\n  <p>于是，科技巨头们将目光投向了距太阳最近的太空。谷歌和马斯克的终极想望，都是要利用充沛的太空能源，直接在太空建数据中心，分担地面的算力负担。</p>\n  <p>当然，因为国情不同，中国“太空算力”被推上浪尖，遵循的是“人有我有”的占位逻辑。</p>\n  <p><strong>一位长期关注商业航天赛道的投资人告诉硬氪，目前，中美在“太空算力”领域的想象并不完全相同。</strong>一方面，国内电网韧性更强，地面电力供应相对充足，数据中心建设所依赖的基础设施和产业链也相对完善，成本总体可控。另一方面，SpaceX已经拥有大规模在轨卫星网络，以及较强的火箭发射和补网能力，这些条件都为美国科技公司低成本进入太空提供了基础。</p>\n  <p>相比之下，国内商业航天仍处于产业链快速建设阶段。如果在基础设施、发射成本和卫星规模尚未达到相应水平时，直接复制“地数天算”的路径，意味着需要承担极高的前期投入和工程化成本。</p>\n  <p><strong>“如果直接跳到他们那条路上，算出来的成本账可能完全不划算，反而陷入一场不符合国情和产业化阶段的太空竞赛。”上述投资人表示。</strong></p>\n  <p>对于国内而言，“太空算力”更现实的路径，可能并不是简单复制一个“太空版数据中心”，而是根据产业成熟度逐步推进，先解决单颗卫星的智能化问题，再推进星座协同计算，最终在技术成熟、成本可控前提下，考虑更大规模的算力部署。</p>\n  <p>现阶段，国内“太空算力”所走的路，更像是早期“天数天算”的增强版。</p>\n  <p>早期的在轨计算，更多是运行YOLO、Stable Diffusion等视觉模型，完成图像识别、目标检测、图像分割等任务。</p>\n  <p>随着大模型逐渐成熟，太空端对于计算能力的需求也在提高。比如，实时计算、星座管理等场景，大模型可以承担更复杂的感知、计算和任务规划，这也意味着需要将性能更强的计算芯片送入太空，进一步验证复杂计算系统在轨运行的可行性。</p>\n  <p><strong>“长期来看，我们仍然需要‘地数天算’解决国内地面算力分布不均的问题，但现阶段，仅以‘天数天算’这一高确定性的新兴增量来做行业市场规模测算，已经可以支撑一家上市公司。”有投资人向硬氪透露。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261012/v2_1af846d9830247dfae8c5f03d65e685f@5920579_oswg4962oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;&nbsp;</p>\n  <h2><strong>风口之外</strong></h2>\n  <p>反差的是，尽管技术方向明确，资金涌入，一位卫星行业从业者却告诉硬氪，<strong>“存量市场的需求还是相对传统。”</strong></p>\n  <p>大多数卫星在设计时已经会考虑一定的在轨计算能力，但客户真正提出的需求，仍然是“把原始数据下传下来”，而不是在卫星端完成高度充分的边缘计算。</p>\n  <p><strong>上述从业者表示，过去，卫星本身没有太多计算能力，产业也没有围绕“在轨处理”建立起完整的产品和服务体系，因此需求并没有真正被激发出来。</strong></p>\n  <p>与此同时，目前在轨星座的规模也还没有大到足以支撑大量新的应用。</p>\n  <p>马斯克提出太空AI数据中心的设想，也是在Starlink卫星数量达到数千颗规模之后。对于太空算力而言，只有当太空中拥有足够多的节点，星间通信、分布式计算以及专用算力卫星等基础设施才有可能真正发挥价值。</p>\n  <p><strong>眼下，“太空算力”更多处在一个技术和方案验证期。</strong></p>\n  <p>一位行业人士告诉硬氪，目前能够看到的案例，仍以单星的轻量化模型、垂直模型在轨验证为主，小型的卫星网络验证也已经可以跑通。但如果进一步把算力规模做大，工程问题会越来越突出，最直观的就是能源、散热和空间辐射。</p>\n  <p>“遥感卫星每天可能只用几分钟，发生问题是个概率事件，放到天上可能确实没什么问题，但是不代表能够一直长时间运行。真正能够经过长时间稳定在轨运行、可靠运行，是一件非常难的事。”上述行业人士表示。</p>\n  <p>太空并不意味着能源可以无限获取。虽然卫星可以通过太阳能电池持续获取能源，但如果算力功耗不断提升，太阳翼的面积、发电效率以及整星供电系统都需要同步提升，大功率能源供给仍然是需要解决的问题。</p>\n  <p>散热则是另一道难题。太空是真空环境，空气对流基本无法发挥作用，卫星产生的热量主要依靠热传导和向外辐射排出。这意味着，算力芯片功耗越高，卫星需要配置的散热器面积和结构设计压力就越大。</p>\n  <p>此外，空间辐射也会影响计算芯片的长期稳定运行。高能粒子可能造成单粒子翻转、单粒子闩锁等效应，长期辐射还可能带来总剂量效应和器件性能退化。能够在地面跑起来的芯片，并不意味着可以直接放进卫星长期稳定运行。</p>\n  <p>上述行业人士表示，单纯做一个算力载荷并不难，从市场上采购计算芯片，再进行封装和环境适应性设计，就可以形成一个能够上天的算力载荷。“但如果只是把一张卡放到卫星上，没有太大意义。”</p>\n  <p><strong>真正的问题在于，算力功率不断提升后，如何稳定解决太空苛刻环境的伤害。目前国内外都还缺少经过大规模、长期在轨运行验证的成熟方案。</strong></p>\n  <p>不过，技术总是在脉冲式发展。“十年前大家也说不清楚民营公司做火箭能有什么用。而未来的技术迭代、大国在太空数字主权上的博弈，一定都会有太空算力的一席之地。”一位长期关注航天赛道的投资人表示。</p>\n  <p><strong>在他看来，没有风口的时候，资金会更多地流向轻资产、回报快、流动性好的产品。今年资本市场回暖，给了航天这样的重资产、长周期赛道更多资金和关注。</strong></p>\n  <p>而航天赛道“需要这样的风，把大家往前吹一吹。”</p>",
+      "category": "tech",
+      "published_at": "2026-10-12T03:03:27+00:00",
+      "fetched_at": "2026-10-12T04:01:49.350015+00:00",
+      "fingerprint": "f17d8da561f18814"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "白犀牛完成1亿美元C轮融资，L4无人配送生态布局提速｜36氪首发",
+      "url": "https://36kr.com/p/4005486834880384?f=rss",
+      "summary": "<p>无人物流赛道持续火热。</p>\n  <p>36氪独家获悉，L4级自动驾驶企业白犀牛近日已完成C轮融资，金额1亿美元，由隐山资本领投，湘潭国资、深重投、湖南财信、韩国友利金融集团、博正资本等跟投。资金将重点投向L4端到端技术与物理AI能力迭代、城市运营网络持续拓展。</p>\n  <p>白犀牛成立于2019年4月，由前百度自动驾驶团队成员朱磊和夏添共同创立，是一家提供全栈式无人配送解决方案、并实现无人车常态化运营的自动驾驶技术公司。公司自成立以来已获超8轮融资，本轮为公司历史上最大单笔融资。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261007/v2_c42d9c8458144ec08f9497b64351be67@5809365_oswg5993990oswg4032oswg3024_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">白犀牛无人车</p>\n  <p>“每一轮融资，我们都坚持引入与公司发展阶段契合的股东”，白犀牛CFO于洋向36氪表示。本轮融资的一大特点，是构建了“产业+政府+金融”的复合型资本结构——多元背景的资本带来的不只是资金本身，更是一张生态化的资源网络：资本不仅为公司输血，更带来场景、路权、金融服务与全球化拓展的多重杠杆。</p>\n  <p>领投股东普洛斯隐山资本，是中国物流供应链股权投资中最懂资产与场景的产业派之一，今年已连续两次向白犀牛注资。</p>\n  <p>普洛斯遍布全球的产业资源，不仅为白犀牛提供了稳定的业务订单，也为其全球化拓展打开了通道；韩国友利金融集团的同步注资，则从侧面印证了白犀牛海外业务的进展。</p>\n  <p>此外，本轮融资还有湘潭国资、深重投及湖南财信等地方资本的入局。于洋指出，地方国资不仅关乎路权与政策，更能在产业基金联动、国有资源导入及多元金融服务上，为无人车的规模化落地提供系统性支持。不同的资方，正在把白犀牛的生态一步步搭起来。</p>\n  <p>在于洋看来，融资只是手段：白犀牛的目标是以自动驾驶技术方的身份，把L4能力注入物流产业链的各个环节，联合场景方、制造伙伴与运营服务方，共建无人配送生态。“可以说，我们正在打造生态的路上加速前进”。</p>\n  <p>生态布局的成效也已开始显现。2026年4月，白犀牛推出行业首款车规级无人车RX——由白犀牛提出并正向开发定义，与场景方、制造伙伴协同落地。</p>\n  <p>该车型历时18个月开发，经过高温高寒等严苛环境测试、超20万公里可靠性验证，设计寿命达到8年30万公里，已达到传统轻卡城配车的标准。这款产品让行业第一次有了按车规标准正向开发、可规模化交付的无人配送车型。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261007/v2_6a1bf8fa59f94d90bcfe20e5b86fd782@5809365_oswg122215oswg2074oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">白犀牛 双笼自卸车</p>\n  <p>此外，白犀牛2026年新增了一款货箱达24m³的大容积轻卡无人车R24，目前R24已开启交付，并同步在部分城市开展公开道路测试。于洋告诉36氪，R24补齐了园区大件转运、仓到店调拨、短途大容量城配的市场缺口，和 RX 车型搭配，形成覆盖城配货运各类需求的产品组合。</p>\n  <p>商业模式层面，白犀牛今年还推出了FaaS车队即服务模式，从L4技术输出延伸至运力服务，并联合顺丰、货拉拉等头部合作伙伴构建云端调度系统，实现车辆在不同场景、不同客户间的动态调度。</p>\n  <p>于洋表示，物流行业本身就存在运力忙闲不均的特点，白犀牛的运力服务可以实现车辆在不同场景、不同客户间动态调度，“比如快递业务低谷期，车辆就可以切换到同城货运场景用，可以提高单车资产利用率”。</p>\n  <p>2026年，无人配送行业已从“试点演示”进入“车规化、规模化商用”的爬坡期：产品开始按汽车标准正向开发，场景从快递末端扩展到仓到店、同城货运，商业模式也从卖车走向卖运力。</p>\n  <p>但行业还没到轻松赚钱的阶段，路权和车辆身份仍有一城一策、跨区难复制的问题；雨雪夜间、人车混行等公开道路的长尾场景安全依然有待优化。</p>\n  <p>对白犀牛而言，接下来的竞争不止于车辆落地数量，更在于谁能率先打通技术、产品、路权与运营服务的完整生态闭环。完成本轮最大单笔融资后，白犀牛的生态布局与全球化叙事，正在进入新阶段。</p>",
+      "category": "tech",
+      "published_at": "2026-10-12T03:13:19+00:00",
+      "fetched_at": "2026-10-12T04:01:49.350003+00:00",
+      "fingerprint": "aad5545d8c7260f5"
+    },
+    {
+      "source": "少数派",
+      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+      "url": "https://sspai.com/post/115568",
+      "summary": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...<a href=\"https://sspai.com/post/115568\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-11T07:00:49+00:00",
+      "fetched_at": "2026-10-12T04:01:47.711282+00:00",
+      "fingerprint": "7251f10323f73fa6"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+      "url": "https://sspai.com/post/115845",
+      "summary": "<p>工信部等就进一步加强汽车产品创新设计管理征求意见</p><p>三季度全球 PC 出货量骤降</p><p>法国判决 Cloudflare 无须通过 DNS 屏蔽盗版</p><p>Anthropic 宣布切断内部评估环境的互联网访问权限</p><p>AI 助力老游戏移植到浏览器</p><p>3C 证书大面积暂停，电动自行车销售接近停滞</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/115845\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-11T22:34:54+00:00",
+      "fetched_at": "2026-10-12T04:01:47.711274+00:00",
+      "fingerprint": "1a5eb2ef9dc29c20"
+    },
     {
       "source": "BBC World News",
       "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
@@ -1481,356 +1691,6 @@
       "published_at": null,
       "fetched_at": "2026-10-06T04:33:11.653746+00:00",
       "fingerprint": "db3a1a7940457e49"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
-      "url": "https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom",
-      "summary": "<p>Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknown</p><p>An Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights groups have said is a crackdown on press freedoms.</p><p>Last week, authorities arrested six journalists from the independent fact-checking and investigative platform Matsadaash – literally meaning “don’t believe” – accusing them in a statement of being unlicensed and publishing false news on behalf of the outlawed Muslim Brotherhood.</p> <a href=\"https://www.theguardian.com/world/2026/oct/04/egyptian-journalist-faces-terrorism-charges-entire-newsroom-detained-matsadaash-press-freedom\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-04T15:16:03+00:00",
-      "fetched_at": "2026-10-05T03:45:32.366958+00:00",
-      "fingerprint": "08e86575e6cc3ef1"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "category": "politics",
-      "published_at": "2026-10-05T03:16:16+00:00",
-      "fetched_at": "2026-10-05T03:45:32.107464+00:00",
-      "fingerprint": "3cd0e2456c0e0650"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "category": "politics",
-      "published_at": "2026-10-04T16:51:30+00:00",
-      "fetched_at": "2026-10-05T03:45:32.107458+00:00",
-      "fingerprint": "2ebb5eac41a3dcca"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-      "category": "politics",
-      "published_at": "2026-10-04T14:25:32+00:00",
-      "fetched_at": "2026-10-05T03:45:32.107452+00:00",
-      "fingerprint": "b44427dd60f96ae2"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-      "category": "politics",
-      "published_at": "2026-10-04T12:09:04+00:00",
-      "fetched_at": "2026-10-05T03:45:32.107442+00:00",
-      "fingerprint": "bd9526dd54522978"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "寒背又疼痛？五個保護頸部的運動",
-      "url": "https://www.bbc.com/zhongwen/articles/c3lylw2yx1pvo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "現代生活為頸部帶來不少挑戰，但我們可以做很多事情，減低頸部問題出現的風險。",
-      "category": "politics",
-      "published_at": "2026-10-05T00:15:14+00:00",
-      "fetched_at": "2026-10-05T03:45:31.910761+00:00",
-      "fingerprint": "3d466eb5f8f42e86"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "加拿大為何要為（概率極小的）美國入侵做準備",
-      "url": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "加拿大總理馬克‧卡尼表示，軍方正在製定應對方案，以防美國入侵加拿大這種不太可能發生的情況。",
-      "category": "politics",
-      "published_at": "2026-10-04T11:51:41+00:00",
-      "fetched_at": "2026-10-05T03:45:31.910748+00:00",
-      "fingerprint": "2e67e2640a9d7da4"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "反恐案件後 美國從英國西南基地撤走全數轟炸機",
-      "url": "https://www.bbc.com/zhongwen/articles/ckjwedyygxgvo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一份聲明表示，所有部署至英國皇家空軍費爾福德基地（RAF Fairford）的轟炸機均已「重新部署至美國本土基地」。",
-      "category": "politics",
-      "published_at": "2026-10-05T02:42:58+00:00",
-      "fetched_at": "2026-10-05T03:45:31.910741+00:00",
-      "fingerprint": "50e57b86e920539c"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
-      "url": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "本周五，台灣在2019年向美國訂購的2架F-16V戰機先行抵達台灣台東空軍志航基地，同批次共有66架同型號戰機，是1990 年代以來台灣首次戰機採購。",
-      "category": "politics",
-      "published_at": "2026-10-05T00:14:01+00:00",
-      "fetched_at": "2026-10-05T03:45:31.910731+00:00",
-      "fingerprint": "32dd398252e79c40"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "A tribute to one of the best games on the Atari 2600",
-      "url": "https://plicerin.github.io/riverraid-rom-port/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-05T03:45:31.484488+00:00",
-      "fingerprint": "b1cb2245adf30291"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
-      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-05T03:45:31.484378+00:00",
-      "fingerprint": "927cfe249ca2668c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-05T03:45:31.484249+00:00",
-      "fingerprint": "e246170016e6c241"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-05T03:45:31.484126+00:00",
-      "fingerprint": "89be4e220d9f6acb"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-05T03:45:31.483978+00:00",
-      "fingerprint": "8370e3eaf6028e8d"
-    },
-    {
-      "source": "The Verge",
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-04T16:16:04+00:00",
-      "fetched_at": "2026-10-05T03:45:31.202695+00:00",
-      "fingerprint": "5a1ea27ad999afed"
-    },
-    {
-      "source": "The Verge",
-      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-      "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled debut record, his fingerprints [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-04T20:00:00+00:00",
-      "fetched_at": "2026-10-05T03:45:31.202682+00:00",
-      "fingerprint": "4b5153702bbfe38f"
-    },
-    {
-      "source": "The Verge",
-      "title": "The new Fitbit Edge leaks",
-      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-      "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-04T21:02:09+00:00",
-      "fetched_at": "2026-10-05T03:45:31.202670+00:00",
-      "fingerprint": "5502c042ada317c3"
-    },
-    {
-      "source": "少数派",
-      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-      "url": "https://sspai.com/post/115308",
-      "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。<a href=\"https://sspai.com/post/115308\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-04T07:58:39+00:00",
-      "fetched_at": "2026-10-05T03:45:29.249363+00:00",
-      "fingerprint": "cbdccaa395e92c4e"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
-      "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
-      "summary": "<p>Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down</p><p>Allegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage facilities and power stations in western Libya have upended plans for the Tripoli-based government of national unity (GNU) to continue cooperating with Haftar on a plan to unify the country.</p><p>Saddam Haftar, the deputy commander of the so-called Libyan National Army (LNA), has increasingly been seen by the US as an important figure in its plans to unify Libyan security, judicial and political institutions.</p> <a href=\"https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-03T09:00:56+00:00",
-      "fetched_at": "2026-10-04T04:00:08.540420+00:00",
-      "fingerprint": "4166fad21affe6a8"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "category": "politics",
-      "published_at": "2026-10-03T16:16:49+00:00",
-      "fetched_at": "2026-10-04T04:00:08.291043+00:00",
-      "fingerprint": "12bbd5dc0ec7d55d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "category": "politics",
-      "published_at": "2026-10-03T14:27:33+00:00",
-      "fetched_at": "2026-10-04T04:00:08.291037+00:00",
-      "fingerprint": "675a68b0bd645e8f"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-      "category": "politics",
-      "published_at": "2026-10-04T00:11:25+00:00",
-      "fetched_at": "2026-10-04T04:00:08.291031+00:00",
-      "fingerprint": "f717161445acf9dc"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-      "category": "politics",
-      "published_at": "2026-10-03T17:48:42+00:00",
-      "fetched_at": "2026-10-04T04:00:08.291021+00:00",
-      "fingerprint": "8d685486a7e2d42a"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "為什麼有些人坐電動車更容易暈車？",
-      "url": "https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」",
-      "category": "politics",
-      "published_at": "2026-10-03T04:19:55+00:00",
-      "fetched_at": "2026-10-04T04:00:08.046580+00:00",
-      "fingerprint": "14e59404515c0c02"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "迪拜航空劫機案：阿聯酋官員稱副駕駛用應急斧頭砍傷機長",
-      "url": "https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "多家媒體報道稱，試圖劫持飛往以色列的飛機的男子名叫哈馬姆·哈馬米。",
-      "category": "politics",
-      "published_at": "2026-10-04T02:44:22+00:00",
-      "fetched_at": "2026-10-04T04:00:08.046569+00:00",
-      "fingerprint": "df65a21b52cc86a4"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-04T04:00:07.515132+00:00",
-      "fingerprint": "737811d7489dff4e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-04T04:00:07.515021+00:00",
-      "fingerprint": "cbf695e19904fa49"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Bob Cringely Has Died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-04T04:00:07.514891+00:00",
-      "fingerprint": "b722d5fe788efcd8"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-04T04:00:07.514767+00:00",
-      "fingerprint": "345f1755705d282a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-04T04:00:07.514630+00:00",
-      "fingerprint": "16d7d1f33ea5355f"
-    },
-    {
-      "source": "The Verge",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-03T14:31:56+00:00",
-      "fetched_at": "2026-10-04T04:00:07.063687+00:00",
-      "fingerprint": "46c63a0311a23e0d"
-    },
-    {
-      "source": "The Verge",
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-03T15:00:00+00:00",
-      "fetched_at": "2026-10-04T04:00:07.063681+00:00",
-      "fingerprint": "12f1c0f583e5ec7e"
-    },
-    {
-      "source": "The Verge",
-      "title": "The best early October Prime Day deals happening now",
-      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-03T16:22:40+00:00",
-      "fetched_at": "2026-10-04T04:00:07.063675+00:00",
-      "fingerprint": "69e0173d7c364d3a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-03T16:49:10+00:00",
-      "fetched_at": "2026-10-04T04:00:07.063665+00:00",
-      "fingerprint": "5cb80ade64def456"
-    },
-    {
-      "source": "少数派",
-      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
-      "url": "https://sspai.com/post/114922",
-      "summary": "不知道以后 CMF 的设计还会不会像现在一样出彩。<a href=\"https://sspai.com/post/114922\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-03T07:00:00+00:00",
-      "fetched_at": "2026-10-04T04:00:04.918206+00:00",
-      "fingerprint": "ff43768c6587d33b"
     }
   ]
 }
