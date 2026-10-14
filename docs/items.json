@@ -1,7 +1,277 @@
 {
-  "updated_at": "2026-10-13T05:11:11.232577+00:00",
-  "count": 174,
+  "updated_at": "2026-10-14T03:17:11.593890+00:00",
+  "count": 201,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "category": "politics",
+      "published_at": "2026-10-13T15:52:15+00:00",
+      "fetched_at": "2026-10-14T03:17:11.405289+00:00",
+      "fingerprint": "291095c2d1fdbb68"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "category": "politics",
+      "published_at": "2026-10-13T23:42:22+00:00",
+      "fetched_at": "2026-10-14T03:17:11.405284+00:00",
+      "fingerprint": "682415106c6cc7b9"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "category": "politics",
+      "published_at": "2026-10-13T21:42:49+00:00",
+      "fetched_at": "2026-10-14T03:17:11.405279+00:00",
+      "fingerprint": "994246342d5e43ad"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "category": "politics",
+      "published_at": "2026-10-14T00:17:00+00:00",
+      "fetched_at": "2026-10-14T03:17:11.405270+00:00",
+      "fingerprint": "4c4f3673e6e39a25"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「黑珍珠」瑪麗亞：表演中國川劇的塞拉利昂女子",
+      "url": "https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "瑪麗亞夢想成為一名歌手和表演者。多年後，她前往中國參加一場選美比賽，並在火車上獲一名陌生人意外伸出援手後，最終在那裏建立了自己的生活。",
+      "category": "politics",
+      "published_at": "2026-10-14T00:17:23+00:00",
+      "fetched_at": "2026-10-14T03:17:11.328506+00:00",
+      "fingerprint": "57835275c3d9933a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國民兵船「首現台灣東部海域」意味著什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmeweg5eg7ljo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "一艘被辨識為中國海上民兵船的漁船，8月在台灣東部外海與另外兩艘中國船隻共同活動。軍事學者向BBC中文分析，這類船隻可能有海上監控、情報蒐集等任務。",
+      "category": "politics",
+      "published_at": "2026-10-13T05:31:07+00:00",
+      "fetched_at": "2026-10-14T03:17:11.328501+00:00",
+      "fingerprint": "89d511d9a7e540d2"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "華為尊界V800事件：一場煞車測試如何演變成中國輿論風暴",
+      "url": "https://www.bbc.com/zhongwen/articles/c862yzkgzwero/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "近期，中國知名車媒懂車帝發布對尊界V800的實測影片，顯示多輛測試車在緊急制動過程中出現制動踏板支架斷裂，事件迅速引發輿論關注。",
+      "category": "politics",
+      "published_at": "2026-10-13T09:04:11+00:00",
+      "fetched_at": "2026-10-14T03:17:11.328496+00:00",
+      "fingerprint": "47059d36e1c62cbc"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "AI翻譯：還有多久會完全取代人類？",
+      "url": "https://www.bbc.com/zhongwen/articles/crvg9n72v9p2o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "人工智能已主導翻譯行業，但高風險的範疇仍然需要人類，例如法律、醫療等領域。",
+      "category": "politics",
+      "published_at": "2026-10-14T02:38:13+00:00",
+      "fetched_at": "2026-10-14T03:17:11.328491+00:00",
+      "fingerprint": "de11ca890e713422"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
+      "url": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "黃奇帆擔任重慶市長期間，上級薄熙來與同僚王立軍系列醜聞爆發。離任後，他仍以經濟學家身分周遊演說。",
+      "category": "politics",
+      "published_at": "2026-10-13T13:34:13+00:00",
+      "fetched_at": "2026-10-14T03:17:11.328481+00:00",
+      "fingerprint": "9b407cfe729a1b79"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-14T03:17:10.795907+00:00",
+      "fingerprint": "60d0a235888ac64a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-14T03:17:10.795833+00:00",
+      "fingerprint": "56ee56e48ed29025"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-14T03:17:10.795747+00:00",
+      "fingerprint": "259b31cc38afc4ec"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-14T03:17:10.795665+00:00",
+      "fingerprint": "a52daacfcae86727"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-14T03:17:10.795566+00:00",
+      "fingerprint": "7a89d3ba2a72b6c4"
+    },
+    {
+      "source": "The Verge",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-13T19:42:42+00:00",
+      "fetched_at": "2026-10-14T03:17:10.715391+00:00",
+      "fingerprint": "f1305662a1d2e7c4"
+    },
+    {
+      "source": "The Verge",
+      "title": "It looks like Apple Music is getting a new icon",
+      "url": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
+      "summary": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-13T20:05:02+00:00",
+      "fetched_at": "2026-10-14T03:17:10.715386+00:00",
+      "fingerprint": "bee92e4a4da37422"
+    },
+    {
+      "source": "The Verge",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-13T20:45:25+00:00",
+      "fetched_at": "2026-10-14T03:17:10.715381+00:00",
+      "fingerprint": "6ec803e44d1742cc"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s HomeView ad is confusing to everyone except parents",
+      "url": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+      "summary": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-13T22:10:00+00:00",
+      "fetched_at": "2026-10-14T03:17:10.715373+00:00",
+      "fingerprint": "6b6f41fec886b5e4"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "请以我的名字呼唤我，36183672，WISE 2026来了",
+      "url": "https://36kr.com/p/4023959820291975?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_1def147242bd4a0fbe45242247f0cd22@6301044_oswg164395oswg1609oswg906_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <blockquote>\n   <p>用口述的方式，把这件事从头说一遍。</p>\n  </blockquote>\n  <p>按惯例，这应该是一篇WISE的官宣稿。</p>\n  <p>写大会时间、地点、嘉宾阵容、议程亮点——按这个套路写，安全、规整、不出错。</p>\n  <p>但今年，我跟36氪的每个人都说，我不想这么写了。</p>\n  <p>今年我们感触太深。深到我第一次想用我自己的口述方式，把这件事从头说一遍。</p>\n  <p>不是说官网该有的信息不重要——时间、地点、嘉宾，我都会讲。但在那之前，我想先讲一件事。</p>\n  <h2><strong>01 讲一篇小绿书</strong></h2>\n  <p>最近我们内容团队出了一篇文章，叫《王已易位》。</p>\n  <p>我看完之后，深有感触。这种感触不是审美上的——是战略上的。</p>\n  <p>我得说一句比较真实的话。</p>\n  <p>36氪作为科技与商业媒体平台，这些年为什么能站住？本质上，是因为我们始终在最快、最准地观察和记录中国最活跃的那批公司。互联网时代，我们跟着互联网公司一起成长。我们看见他们，他们看见我们。互信是靠一篇一篇报道、一年一年观察建立的。</p>\n  <p><strong>但今天，这件事在变。</strong></p>\n  <p>不久的将来，中国最大、最好的公司，可能已经不再是我们最熟悉的被叫做“互联网”的公司了。它们是硬科技公司。是AI公司，是机器人公司，是脑机接口公司......也包括大量的、过去十年里默默发展的IT公司——做存储的、做底座的、做基础软件的。</p>\n  <p>这些公司中的一部分，并没有出现在我们最常报道的那张名单上。</p>\n  <p>一切正在快速变化。</p>\n  <p>资本的底层在变，旧逻辑的资本在退，新逻辑的资本正在以更大的体量、更长的耐心进场。</p>\n  <p>商业的底座在变，以流量和模式创新为驱动力的旧商业，正在转向以硬科技为主导的效率革命和新物种创造。</p>\n  <p>作为媒体，我们的判断是——这种动能切换还在加速。我们不变，将来最多就是个二流媒体。</p>\n  <p>我经常跟团队讲，中国的商业巨头，可以粗略分成三个阶段——品牌类，家电、3C、服装、饮料，这是1.0。互联网类，本质上是电商，是零售升级，这是2.0。今天的科技类，AI、机器人、硬科技，这是3.0。</p>\n  <p>36氪最大的优势在2.0，这是我们的根。</p>\n  <p>但作为媒体，我们的职责是——<strong>看见每一个时代中1.0、2.0、3.0甚至是后面的4.0、5.0......的变化，并且为产业的发展提供正向推动的力量。</strong></p>\n  <p>1.0的企业仍然是民营经济中的中流砥柱，他们如何在快速变化的时代稳中求进？其中的变与不变是什么？</p>\n  <p>2.0的企业在成为互联网巨头之后如何利用生态的力量挺入3.0，或者说因为3.0而变成更伟大的公司？</p>\n  <p>3.0的企业能否快速又健康地发展，真正推动中国从“制造标签”跃升为“科技标签”，甚至出现更多的“中国之光”？</p>\n  <p>这些公司到底在做什么？它们目前最需要什么？行业以及大众是不是真正理解了它们的价值？我们作为媒体，是不是真正触达到它们了？是不是能真的帮助它们？</p>\n  <p>这些问题，得一个一个去回答。</p>\n  <h2><strong>02 讲一件8月的事</strong></h2>\n  <p>因为看到了这个时代快速的变化，36氪也得变。</p>\n  <p>8月，我们开了一次年中会。主题叫\"AI的朋友\"，但其实更准确地说，应该是\"科技的朋友\"。</p>\n  <p>我们从前期征集问题开始，到形成五组讨论议题，建立讨论机制，战略会上发布了每个议题的讨论结果，并形成了长期解决问题的专项创新机制，以及多个创新小单元。</p>\n  <p>这里面包含了“内容走向”“产品创新”“协同机制”“AI内部提效”以及“健康增长”。这是36氪当下最值得讨论的问题，相信也是很多成立了10年+之久的企业，在快速变化的环境下要讨论的问题。</p>\n  <p>讲真，这是我在36氪很多年没见过的勃勃生机。</p>\n  <p>战略会上，我们做了一件有点浪漫的事——设计了一件自己的文化衫。上面印了一串数字——“36183672”，很多人第一次看到这串数字，没明白。我说给你们听——</p>\n  <p>36氪，</p>\n  <p>前几年，我们经历业务调整，有人调侃我们，说36氪变成18氪了。</p>\n  <p>现在，经过努力，我们重新变回36氪。</p>\n  <p>未来，相信我们会变成72氪。</p>\n  <p>这串数字就是这意思。看起来像个密码，其实是个故事——一个我们想跟自己讲的故事。我们开始重新认识自己。也开始重新认识这个时代。</p>\n  <h2><strong>03 回过头来看这个时代</strong></h2>\n  <p>现在这个时代，人类历史从未出现过这样的局面。</p>\n  <p>它的特点是——<strong>极致的快，极致的慢，同时存在。</strong></p>\n  <p>极致的快，是AI正从过去的一个赛道发展成为像互联网甚至会超过互联网的基础设施。一切都会随之快速地变化，大到资本走向的变化、每个行业受到的冲击，小到每家企业面对的机会和焦虑，甚至渗透到每一个人身上。</p>\n  <p>极致的慢，是每个人、每家企业都需要慢下来，重新思考当下的解法。我们需要深入到每个行业的产业链中去思考，价值在哪、突破点在哪、利润在哪；资本也需要有“慢”的决心，知道应该投向哪些发展注定缓慢，却会产生不可替代价值的产业。</p>\n  <p>快和慢，同时压在我们身上，对我们的要求不一样了。</p>\n  <p>面对这个时代，不仅36氪要变化，每个公司、每个人，都需要重新思考如何迭代自我。</p>\n  <p>不是某一家公司的事，是所有人的事。</p>\n  <p>所以，今年的主题来了。</p>\n  <h2><strong>04 请以我的名字呼唤我</strong></h2>\n  <p>为什么是这句话？</p>\n  <p><strong>第一个，是关于定位的问题。</strong>当下我最深的体感是，快，一切变得太快了。AI在变、出口在变、资本在变、消费在变、制造业在变。当所有变化同时快速发生时，没有人手里握着标准答案。<strong>每个人都在问同一个问题：我到底是谁，我的名字是什么？</strong></p>\n  <p>1.0在想，存量市场下出海是唯一解法吗？新的科技出来了，我能做出满足用户新需求的产品吗？</p>\n  <p>2.0在想，硬科技的这波攻势，对于我们来说是“箭”还是“东风”？我们会因此变成更强大的2.0+3.0综合体还是被默默淡忘？</p>\n  <p>3.0在想，会有泡沫吗？如果泡沫退了，我到底是谁？</p>\n  <p>所以，在这个快慢交叠的时代，同时存在的三个阶段的商业巨头，不管你是稳如泰山的百年品牌，市值千亿、万亿的互联网巨头，亦或是估值千亿的资本宠儿，都在思考:<strong>“我到底是谁，我的名字是什么？”</strong></p>\n  <p><strong>第二个，是关于分化的问题。</strong>热门赛道的机会一出现，一定会有很多人同时在做。以AI和机器人为例，成百上千家企业，从不同的切入点扎进同一个产业，然后共享同一个标签：机器人公司、大模型公司、AI公司。</p>\n  <p><strong>但标签之下，面目模糊。</strong></p>\n  <p>每一波浪潮都会过热，每一波过热都会有泡沫。泡沫期，市场按品类给钱——只要你站在风口上；泡沫退去，市场按名字给钱——你到底做成了什么。潮水是标签的稀释剂，也是名字的显影液。</p>\n  <p>认知的分化同样残酷。这个时代留给企业的认知带宽极其有限，大众的注意力只够维护一份“白名单”——都知道DeepSeek很牛，但说不出它牛在哪、真正的价值是什么、正在做什么。连最响亮的名字，都被压缩成一个标签；名单之外的成百上千家企业，更是共享着同一片模糊。</p>\n  <p><strong>所以，用“机器人”去定义所有做机器人的公司，用“大模型”去判断所有做大模型的公司，是这个时代最省力、也最失真的认知方式。</strong>真正区分企业的，从来不是它站在哪个赛道，而是它的切入点、它的路径、它正在解决的那个具体问题。</p>\n  <p>这些东西，品类装不下，只有名字装得下。所以，<strong>请以我的名字呼唤我。</strong></p>\n  <p>今年的WISE在这样的大主题下，我们还有两个“小心思”：</p>\n  <p>第一个——造新星的时代，请你勇敢地走到舞台中央。</p>\n  <p>新旧动能交换，不只是数字换挡，是主角更替。旧动能带走一批名字，新动能正在写下一批名字。</p>\n  <p>把AI搬进工厂的人。把中国制造种进全球供应链的人。用15年的耐心和资本押注可控核聚变的人。</p>\n  <p>这批名字，不是“新锐”，不是“黑马”。是下一个时代会被铭记的名字，是中国之光，是伟大企业的雏形。</p>\n  <p>而1.0、2.0的商业巨头中，不乏有把创新和解法做得非常好的代表，他们已经在每个时代都找到新的增长曲线，并落实到位。在稳定的体系中持续实现创新与增长，是一件难且了不起的事。</p>\n  <p>我们要去看见他们。要让他们走到舞台中央来。<strong>舞台已经搭好了，请你上来。</strong></p>\n  <p>第二个——呼唤是双��的，来了就要参与进来。</p>\n  <p>技术呼唤场景给订单，场景呼唤技术给方案。资本呼唤“小天才”创业，“小天才”呼唤资本支持。00后呼唤老炮交真话，老炮呼唤年轻人说真问题。中国企业呼唤世界给更大的市场，世界呼唤中国注入优质产能。</p>\n  <p>所有的呼唤，都是双向。所有的呼应，都需要在场。</p>\n  <p><strong>来了，就要参与进来。</strong>不是来听会的，是来对话的。不是来围观的，是来接住的。</p>\n  <h2><strong>05 讲讲WISE的进化</strong></h2>\n  <p>36氪的WISE大会已经举办13年，每一年的WISE都是对趋势的探讨与未来的预判，经历了十年的快速发展后，从2023年WISE开始有些不一样了。2023年，太阳照常升起——天会亮，有些无奈。2024年，正确的事——知道该做什么，得找出路。2025年，风景这边独好——我们这边方向是对的，也看见了新的方向。</p>\n  <p>从2023年开始的三年，我们都在判断。</p>\n  <p>2026年，换了一件事——<strong>不判断了，直接叫名字。</strong></p>\n  <p>判断是站在远处指指点点。叫名字，是走过去，看着眼睛，叫出来。这是我们今年想做的事。</p>\n  <p>我们自己给WISE定了三个维度的评价指标——一个有用的大会、一个和所有人有关的大会、一个不老派的大会。</p>\n  <p><strong>一个有用的大会，</strong>不仅是让大家来会场听会，更要让来的人能得到自己想要的。所以我们做过世界咖啡——让一线的关键节点人员做对接。我们做首席提问官征集——让每个年轻人能现场向平时他们见不到的商业领袖提问。我们向年轻人征集创业梦想——让他们带着朝气，在WISE现场讲自己的梦想。我们做交友墙——让想认识的人能找到彼此。</p>\n  <p><strong>和所有人有关，</strong>就要把内容做好。主论坛覆盖商业领域、产业领域、各个赛道。让来的人有收获——产业一线人员（世界咖啡）、产品极客（焦点产品）、求职者（职场bonus）、粉丝及求知者（现场体验展区互动、线上直播）、细分产业领域的人（挑战者之夜、After Party）。</p>\n  <p><strong>不老派大会</strong>——视觉设计年轻化艺术化，主题绝不陈旧且和所有人共鸣。我们曾在WISE中使用AI生成视频，洛天依主持，用数字人对话，用话剧做篇章解读，做开放麦……都早于其他活动。很多创新的形式都是先经过WISE的验证，才成为其他活动的标品。</p>\n  <p>关于大会的定位，我想说一句——</p>\n  <p>大会只是最终落地的场域。</p>\n  <p>并不代表一场大会就是个让嘉宾逐一上台演讲的论坛。而是人都来了，我们怎么充分互动。所以论坛和展位是常规配置，其余特别策划才是更大的价值点。</p>\n  <h2><strong>06 讲讲今年WISE都有谁</strong></h2>\n  <p>规模——为期3天，预计现场人流1.5万+人次，线上曝光量10亿+。</p>\n  <p>构成——主论坛+未来产业展区+世界咖啡+挑战者之夜+“我们的创业梦”+After Party+同步事件策划。</p>\n  <p>大会触达人群与核心资源分为五部分——<strong>台上核心演讲嘉宾150+位、产业一线关键节点人物200+位、线下观众单场1000+人，名册企业500+家，以及线上全平台3652万+读者及粉丝。</strong></p>\n  <p>三天的议程是这样分的——</p>\n  <ul>\n   <li>DAY1AM：拐点已来。</li>\n   <li>DAY1PM：此刻发生。</li>\n  </ul>\n  <p>对应的是2.0+3.0，聚焦当下产业热点和此刻发生的变量。</p>\n  <ul>\n   <li>DAY2AM：IN：GAME 在场。</li>\n   <li>DAY2PM：往深处去。</li>\n  </ul>\n  <p>对应的是1.0、2.0，聚焦从场景端出发的迭代再造，底座革新。</p>\n  <ul>\n   <li>DAY3AM：20年之问。</li>\n   <li>DAY3PM：Re：Frame 再定义。</li>\n  </ul>\n  <p>对应的是3.0，聚焦未来战略产业与“小天才”们的创新。</p>\n  <p>人气分三层——</p>\n  <p>核心层，舞台上的商业领袖与科技新贵，是第一层人气。</p>\n  <p>规模扩大至往届3倍的世界咖啡（AI Partner），将汇聚产业一线关键节点人物，构成第二层。不止于吆喝，更要推动产业发展。这两层直接反哺产业需求。</p>\n  <p>“00后首席提问官招募”以及“我们的创业梦”两个特别策划直接牵动年轻人的注意力，加上未来产业展区，这是第三层人气。</p>\n  <p>所有名册的发布，入围企业会来。WISE现场会发布企业、人物、产品共四个系列的十个名册，近500家企业。线上直播、挑战者之夜、After Party，以及36氪具身智能产业联盟发布，多项特别策划会充分调动36氪的会员以及读者粉丝。</p>\n  <h2><strong>07 最后，讲讲今年的特别策划</strong></h2>\n  <p>我想认真讲，因为这些才是WISE真正想做的事。</p>\n  <p><strong>大朋友对话</strong>——只有在这里才能听到的对话。会前悬念预热，“大老师会请谁来？”会中金句切片+全程实录，不做摘要，原话才有力道。会后单独成篇深度发布，每一场大朋友对话，就是一篇独立的报道。</p>\n  <p><strong>主编选题圆桌</strong>——产业的真问题，主编替你问了。会前每个选题预告单独发布——“我们打算聊这个，你怎么看？”引发行业UGC；会中争议点实时抓取；会后每场整理“三个共识+三个分歧”，做减法而非堆砌。</p>\n  <p><strong>拐点Talk</strong>——一句话引爆一个赛道。会前不预告具体内容，只预告“谁要上来讲拐点了”；会中专攻一句话金句海报——拐点Talk的价值就是那一句判断；会后金句合集长图，“WISE 2026的15个拐点判断”。</p>\n  <p><strong>Re:Frame 再定义·创新者征集</strong>——一起定义创新。征集期36氪全渠道发布征集令+合作方联合宣发。评选期入围案例逐一展示，投票互动。发布期，在WISE现场将揭晓Top 10，并为每位入选者单独发布短视频。长尾期，推出Top 10案例深度拆解系列，将其打造为年度内容IP。</p>\n  <p><strong>世界咖啡·具身智能产业对接</strong>——关起门来谈，打开门来说。前期，对接信息不公开，只发“多少家报名了”。中期，现场不直播对话内容，只拍握手、签卡、合影——留白才有想象空间。后期，公布对接成果数字——多少对、多少金额、多少签约，一张大合影就够了。</p>\n  <p><strong>00后创新者提问团</strong>——代际对话，全网共鸣。征集期“如果你是00后，你问什么”——UGC互动；会中最尖锐的提问实时发微博、小红书——年轻人在看；会后“00后问了什么，大佬怎么答”——代际对话报告年度发布。</p>\n  <p><strong>36氪朋友圈·卿聊局</strong>——不传播就是最好的传播。全程不直播、不记录，只出一张合影+一句话。昨晚聊了什么，越不传播，越被传播。</p>\n  <p><strong>玩大了·挑战者直播</strong>——敢上的都是赢家。会前征集“谁敢来挑战”——报名即传播；会中全程直播，观众实时弹幕——输赢都好看；会后挑战成功、失败的切片各做一次传播——真实就是最好的内容。</p>\n  <p><strong>未来展区</strong>——让产品替创始人说话。会前展区剧透，每天揭秘一个展区或一个展品；会中36氪探展直播，主播带看+展商讲解；会后展区精彩回顾短视频合集。</p>\n  <p><strong>我们的创业梦</strong>——联动线上、线下及社交平台，选出优秀的年轻人，在WISE现场的每一个主题环节做现场解读。</p>\n  <p>好了，该讲的都讲了。</p>\n  <p>从一篇小绿书，讲到8月的年中会，讲到这个时代，讲到一个主题，讲到WISE四年的进化，讲到今年的内容、规模、策划。</p>\n  <p>回头一看，其实就一件事——</p>\n  <p><strong>我们想让你看见真正的他们，也让他们看见真正的你。</strong></p>\n  <p><strong>请以我的名字呼唤我。</strong></p>\n  <p>这是2026年WISE向整个商业世界说的话。也是36氪，对自己说的话。</p>\n  <p>WISE 2026，来了。</p>\n  <p>搜索公众号“36Kr&nbsp;Today”关注并发送私信“WISE2026”&nbsp;进入社群，锁定早鸟票，get大会最新动态。</p>",
+      "category": "tech",
+      "published_at": "2026-10-13T07:05:51+00:00",
+      "fetched_at": "2026-10-14T03:17:10.638845+00:00",
+      "fingerprint": "4a091c96a91bddab"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "百万token做赌注，字节把AI游戏这条路打通关了！",
+      "url": "https://36kr.com/p/4023934543892354?f=rss",
+      "summary": "<p>文丨句号&nbsp;</p>\n  <p>编辑丨果脯&nbsp;</p>\n  <p>“没有人类了！” &nbsp;</p>\n  <p>字面意义上的，字节跳动用Seedance模型开发了一款“全AI”游戏。9月23日，朝夕光年旗下的江南工作室在steam平台发布《不问凡尘》EA版本，88%的好评率将字节推上了游戏界头版。&nbsp;</p>\n  <p>如果只是一款口碑爆棚的RPG，这似乎也并不稀奇，但如果它是集齐AI美术、AI配音、AI代码的“3A”游戏，获得如此好评，仿佛就有点“新鲜事”的意味。EA上线才三天，连我这样一个从未接触过修仙题材的人， 也整整玩了30个小时。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_726db19cf0a04851937667cf227abb13@6449318_oswg615474oswg1080oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">steam商店页面</p>\n  <p>和“一句话生成”的AI游戏相比，《不问凡尘》的“完整”是它的最大优势，AI元素在制作中扮演的角色不只是一种美工工具。制作组花了一年时间，给玩家呈现了一番AI理解的修仙世界。“市面上AI浓度最高”，是总制作人昕玠对这款游戏的评价。&nbsp;</p>\n  <p>在AI跑出的世界观下， 与NPC人机对话成为了游戏的一大卖点。玩家能在对话中产生一种，“人类在学习AI的同时，AI也在变得更像人类”的感觉。这种与AI在同一片天地下从陌生到熟识的过程，恰恰是我对这款游戏上头的地方。&nbsp;</p>\n  <h2><strong>01 AI味，原来并不让人讨厌</strong></h2>\n  <p>谈到“AI感”，不同的人有不同的感受。有的人觉得它像食物加多了芥末，辣到冲鼻子；有的人认为这是科技进步的潮流，并甘之如饴。&nbsp;</p>\n  <p>昕玠有一套自己的理解，他认为“AI风”就像二次元、3D动画一样，是一种新型视觉风格。他并不认为这是一种劣势，因为玩家们真正反感的不是AI，而是粗制滥造的内容。&nbsp;</p>\n  <p>《不问凡尘》带给我的味道，肯定与粗制滥造不沾边；像AI一样天马行空的自由感，这是我对它的第一印象。游戏并没给玩家提供无限大的地图空间，但你能感到，你的每一个交互行为都像在吮吸一口充满碳酸的汽水，“畅快”二字贯穿游戏的始终。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_6c13a7f2c1274b0a83abadb5eae5a035@6449318_oswg1072924oswg1080oswg613_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏实机截图</p>\n  <p>就打我第一次见到《不问凡尘》的出生系统，我就知道这游戏，它很认真。&nbsp;</p>\n  <p>对于主角的出生界面，大多游戏都是给定三到四个被定制好的职业路线，要求玩家去做选择题；而《不问凡尘》的成长路径更像是一道填空题，在重塑肉身前，玩家要先在脑海中构思好，自己要成为什么样的修仙人。&nbsp;</p>\n  <p>角色成长分为“道途”与“灵根”两个系统，玩家需要分配有限点数，为主角打造不同的特长。&nbsp;</p>\n  <p>“道途”对应玩家在修仙世界的各种行为。选择“合欢修”的玩家更容易获得“魅力”属性，在推进与女性NPC的专属剧情方面有独特优势；选择“鬼修”和“魔修”的玩家，能够通过“击杀”NPC获得属性，推动主角更快变强。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_c21273254491436184e714e6f56e86f7@6449318_oswg426395oswg1080oswg514_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏实机截图</p>\n  <p>“灵根”对应剧情中五种不同门派，也是主角施展技能时运用的金木水火土五种属性。这五行属性不仅仅是相生相克的关系，而且对应着不同的战斗玩法。选择金灵根的玩家走的是暴力路线，依靠叠加“金魄”能提升暴击率，一击制敌；选择水灵根的玩家借助功法积累“沧流”，能够多重施法累加伤害。 &nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_3a22e0eba52545e188a1155a583f762c@6449318_oswg711031oswg1080oswg562_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏实机截图</p>\n  <p>每个流派像是一道别出心裁的菜，玩家能通过选择与体验，找到最匹配自己的风味。在被其他宗门高手痛扁一顿后，我总能保持心气去尝试用这套击败我的功法重来一世。这意味着，在角色成长的同时，《不问凡尘》也在带动玩家去寻觅自己， 它所提供的自由度，比简单设置几条职业路线要丰富的多。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_cdbc04f1b9774ad68f85ac2d811c687e@6449318_oswg944336oswg1080oswg776_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏实机截图</p>\n  <p>传统互动影游往往采用直线叙事，不同于这种叙事模式带来的紧绷感，《不问凡尘》走向了贴近“佛系”的另一条路。&nbsp;</p>\n  <p>没有“上班打卡”的任务压力，《不问凡尘》直接允许玩家“躺平”。当我厌倦人间打打杀杀，操控主角在客栈一连休息360天，不会冒出某个系统让我推进剧情拯救世界，也不会因为修为不足，存在无法解锁的玩法或角色。&nbsp;</p>\n  <p>这个游戏仿佛就是把一整个仙侠世界抛给你，完全不过问你怎么去体验，玩家是加入宗门做老资历，还是玩散修做“孤独风中一匹狼”，系统好像完全不在意。&nbsp;</p>\n  <p>没有游戏任务的硬性约束，游戏资源的获取方式也变得随性，卷了一辈子的修仙人终于不用再刷野了，因为歪门邪路反而能更快提升修为。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_1fefe1cdf6ec4759a5de13bf9f223646@6449318_oswg802240oswg1080oswg641_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏实机截图</p>\n  <p>从QQ农场“偷菜”，到三国杀“顺手牵羊”，“拿来主义”的爽感显得永不过时，“偷窃”就是《不问凡尘》为玩家打开的另一条门路。玩家仅需完成一次QTE，NPC辛辛苦苦积攒下来的法宝就被顺走了；成功获取宝物是其次，激怒平日里老实巴交的NPC反倒成为了乐趣所在。&nbsp;</p>\n  <p>如果你想追求更高的挑战性，用对话说服NPC给资源是一个更加体面的做法。《不问凡尘》中，所有NPC都是一个独立智能体，通过给出不同提示语言，玩家能够自主模拟对话的场景，和NPC互动的方式再也不是一言不合就开打了。和宗主开展“入职面试”，找修仙伴侣索要零花钱，无论是“共情诉苦”还是“夸赞讨好”，能要到饭吃的就是好话。&nbsp;</p>\n  <p>为了让自己说服AI的概率更高，甚至还可以“用AI打败AI”，搬出豆包外援，学习AI“老乡话”促进交涉成功。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_9ff5c0232b5f4632b8338c7dadab7687@6449318_oswg124295oswg378oswg324_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">哔哩哔哩平台截图</p>\n  <p>作为影游，《不问凡尘》算得上是一脉技术流，游戏内的视频演绎完成度很高。&nbsp;</p>\n  <p>在战斗动画层面，传统游戏先制作角色模型，再往上叠加动作、光影和镜头处理；《不问凡尘》在Seedance的支撑下，能够先用AI生成动画场景，直接将AI产出拆解成可使用的游戏素材，在画面表现上直接对接玩家观感。&nbsp;</p>\n  <p>人物近距离接触时， 玩家能感受到NPC的身体跟随呼吸而上下浮动，连眼角的红血丝也清晰可见；相对于2D静态立绘，《不问凡尘》的人物对视与微表情带来的视觉满足，让游戏的互动体验再次提升了一个档次。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_cc00c66ab9c240088694cbb27af7254d@6449318_oswg849006oswg1080oswg812_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏CG</p>\n  <p>但《不问凡尘》也没走寻常路，它弱化了剧情的作用，强化了作品的游戏性 。&nbsp;</p>\n  <p>游戏的主线剧情显然做的就不如演绎画面那样出彩，因为AI在构筑剧情这方面显得很有“既视感”，直白一点就是老套。玩家不用费太多心思就能预测到下一步的剧情走向，如果只是这样延伸，游戏会很缺乏推进流程带来的惊喜。《不问凡尘》很聪明地用游戏性弥补了这一点。&nbsp;</p>\n  <p>例如感情线上，女角色的CG不止用作于“发福利”，制作组想了一个比较新颖的方式作为获取途径。玩家需要运用“留影石”道具，为女角色拍照，每一段场景表演分为三个记忆点，通过抓取拍摄的最佳时机记录CG。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_245bf294fcee404ea598d6746a453d80@6449318_oswg357444oswg1080oswg563_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">steam商店页面宣传图</p>\n  <p>第一人称的拍摄视角增强了玩家的代入感与成就感，人物CG像是一次次约会得来的产物，而不是战力提升的附属品。而用小游戏的形式，可以将CG呈现时机的选择权交给玩家，在不破坏主线叙事紧凑性的同时，大大节约了叙事空间。&nbsp;</p>\n  <p>游戏内还开设了创意工坊，在这个地方你可以看到人工智能与人类巧思“火星撞地球”，穿古装的“黑曼巴”，开放双修的“奶龙”老板娘，还有一位客串世外高人的“窦苞”。游戏的“非正经”属性，在这里体现到淋漓尽致。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_f96aad2e033043708d7e3ea8afdab89c@6449318_oswg875046oswg1080oswg666_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏实机截图</p>\n  <p>除了搭建玩法之外，制作组还深度刻画了“时间”，丰富了玩家的体验感知。&nbsp;</p>\n  <p>游戏在一年中的特定时期加入限时玩法，错过了就只能再等待一整年；当主角耗费90多年的寿元，从炼气期突破到筑基期，会发现地图上的凡人NPC也会过世。&nbsp;</p>\n  <p>玩家能从各种细节中感觉到自己所处的世界，每一天不是千篇一律，时间对于自己来说也存在特定的意义，修仙的进路上，无可避免要在一系列凡俗之物中做取舍。游戏的这种市井气息与修仙主题并行不悖，从拍卖到赌石，从比武到捉贼，你能感觉到自己在时间的脉冲下修行，但同时也是在经历一种生活。&nbsp;</p>\n  <h2><strong>02 百万token的账单，只为求得一则答案</strong></h2>\n  <p>开发团队仅20人，他们称自己是“做游戏的AI团队”，而非“用AI的游戏团队”，并用行动践行了这一点。&nbsp;</p>\n  <p>《不问凡尘》并非一鸣惊人， 在它前面 ,江南工作室已经铺垫三款游戏了，前作或多或少都存在游戏与AI兼容度不足的问题。例如《老板模拟器》的交互与反馈效率不匹配，《穿书游戏》的AI在进行长对话时记忆会崩坏，而《导演模拟器》受制于AI视频成本过高。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_4875cde5483d47cdbada982b9c61de64@6449318_oswg418412oswg876oswg486_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方壁纸</p>\n  <p>制作《不问凡尘》的这一年也不算太平，昕玠提到，团队在去年立项时，AI模型生成的人物始终无法摆脱“恐怖谷”阶段，视频生成还需要团队逐一插入关键帧，今年Seedance2.0正式发布后，模型才真正具备理解人物表演的能力。&nbsp;</p>\n  <p>即便搭设AI管线看起来是更加低廉的制作路径， 但AI降低了重复性生产成本的同时，也加速了技术审美的衰老周期。在游戏上线前一个月，团队又不得不用最新的模型将整个游戏刷新了一遍，整个制作组像在追着技术做长跑。&nbsp;</p>\n  <p>为了对抗这种淘汰风险，《不问凡尘》的废片率被提到了98%。对于复杂的镜头，可能要将素材推倒重来上百次。相比于庞大的开销，19.9的首发定价，显得是相当亲民了。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_1f19ad544cc14697863252d9573a927b@6449318_oswg407476oswg873oswg495_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方壁纸</p>\n  <p>《不问凡尘》标志着AI游戏已经具备接受市场检验的能力，但好评率之下，仍然存在一些不尽人意的地方。&nbsp;</p>\n  <p>就目前来看， NPC的数量很多，但初始的对话模板却比较单一，几乎所有NPC的初始对话都是以发问的方式来提起的，一直被迫回答问题，很容易将玩家的探索热情消磨殆尽。&nbsp;</p>\n  <p>而且大部分玩家与NPC的对话结果，还不能转化为实际的游戏内容。当玩家和商店NPC砍价一番，虽然在打字框中得到了反馈，但道具价格却没有实时降低，这难免会让刚刚“大费口舌”的玩家感到失望。&nbsp;</p>\n  <p>玩家与NPC进行对话，大都追求的是双向交流的正面情绪价值，《不问凡尘》过度雕琢修仙世界的写实程度，反而会在对话内容上有所保守。&nbsp;</p>\n  <p>当NPC好感度从低到高产生变动，对话内容却没有得到同频的解放，即便数值上显示主角与某个角色已经是“莫逆之交”，或是已经在剧情CG上体现过某种亲密关系，但是一到对话，玩家却很难与角色创造更进一步的联系，甚至有对话人并非剧情人的割裂之感。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_13088b7d40904b90a901c319cc15ba17@6449318_oswg99115oswg909oswg387_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">steam社区中心截图</p>\n  <p>游戏对CG角色进行的细节刻画，也还有很多可以深化的点。例如主角与女角色进入对战界面，女主并没有与自身形象相匹配的战斗立绘；在触发“吃醋”小剧场，和运用“传音符”进行角色之间远程交流时，所有女角色触发的对话反馈是相同的，非常破坏女角色的个性化塑造。&nbsp;</p>\n  <p>《不问凡尘》以硬核技术出圈，但目前核心卖点还是停留在擦边内容上，赏心悦目的女角色的确能引导玩家点进来，但未必能让玩家留得住。要想立得住一个“不虚”的好评率，《不问凡尘》后续还是得加入一些真功夫。&nbsp;</p>\n  <p>江南工作室拿一年时间，给市场证明了AI管线这条路走得通，玩家花出去的19.9，相当于换了一张观看这场走势的门票。&nbsp;</p>\n  <p>目前，《不问凡尘》的EA内容只做到了筑基期， 制作组既有可能乘势继续深耕，也有可能在尝到热度红利后就此止步。但于玩家和行业从业者而言，想必没人希望这个项目仅仅变成一场赚快钱的AI噱头，因为AI游戏这股风口，最终只换来昙花一现，未免太可惜了。&nbsp;</p>\n  <p class=\"editor-note\">本文<a href=\"https://mp.weixin.qq.com/s/M3YKOi-ztq_dz-2nzj5lDw\" rel=\"noopener noreferrer\" target=\"_blank\">首发自“36氪游戏”。</a></p>",
+      "category": "tech",
+      "published_at": "2026-10-13T07:11:09+00:00",
+      "fetched_at": "2026-10-14T03:17:10.638840+00:00",
+      "fingerprint": "76c9cc849551989d"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "科氪 | 一加 16 产品力全面升级，打造史上最强「全能旗舰」",
+      "url": "https://36kr.com/p/4024086738047106?f=rss",
+      "summary": "<p>2026 年 10 月 12 日，一加正式发布年度数字旗舰一加 16。新机秉持「性能之上，解锁更强」的产品主张，在持续领跑性能赛道的基础上，实现影像、屏幕、续航等产品力全面升级，打造史上最强「巅峰性能旗舰」。一加 16 首批搭载第六代骁龙 8 超级至尊版，配合全新一代风驰游戏内核，带来史无前例的「185FPS 极速枪神」体验；全球首发 185Hz 第四代东方屏，还配备 LUMO 2 亿风光影像系统、9000mAh 超大容量冰川电池等旗舰配置，以全面硬核实力树立年度性能旗舰新标杆。一加 16 现已开启预售，10 月 13 日全渠道正式开售，国补到手价 5199&nbsp;元起。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_d1bc251416564c28af383e50d518f735@517825446_oswg219754oswg1269oswg847_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>一加中国区总裁李杰在发布会上表示，一加手机今年再次以 18% 的销量增速保持行业第一，是目前唯一保持两位数增长的手机品牌。凭借极致的游戏性能体验，一加手机获得了超 68% 超高刷手游玩家的选择，用户净推荐值连续三年上涨，市场口碑屡创历史新高。从率先推动 165Hz 超高帧普及，到引领全行业游戏体验进阶，一加持续突破性能边界、推高行业上限。作为一加有史以来的最强旗舰，一加 16 的游戏表现与全能体验跨代领先，再次刷新大众对性能旗舰的想象。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_4bda9df7d8ba4421802d4adb5c3867fa@517825446_oswg256006oswg1269oswg847_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p><strong>185FPS 极速枪神登场，巅峰性能极致释放</strong></p>\n  <p>FPS&nbsp;射击游戏对手机性能的要求极为严苛，一加 16 以打造史无前例的「185FPS 极速枪神」体验为核心目标，从性能、帧率、网络、显示、触控五大维度全面升级，带来全链路的极致游戏体验。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_fc0625c643a84757a7a98a61893172e2@517825446_oswg290590oswg1269oswg847_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>一加 16 首批搭载第六代骁龙 8 超级至尊版，采用台积电 2nm 制程工艺，CPU 为第四代全大核架构，最高主频达 5GHz，GPU 引入全新 AI 硬件加速单元，为 185 超高帧游戏与全场景重载体验提供充足算力。同时，一加 16 将全新「风驰游戏内核」出厂写入第六代骁龙 8 至尊版底层，针对游戏场景构建专属调度策略，高负载场景中优先保障游戏资源，带来更稳帧率、更好画质与更持久满帧表现。全新「冰河散热系统」的加持，让散热性能大幅提升，可支撑长时间高负载游戏稳定运行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_c35329fb88c54ac4aab5cbb6373d84b7@517825446_oswg618209oswg1269oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>帧率是射击游戏的核心制胜因素。一加 16 支持原生 185 超高帧游戏体验，即便长时间高负载运行，依旧能实现持久满帧，相比 120 帧每秒多输出 65 帧画面，流畅度提升超 50%，显示目标更早，击杀敌人更快，真正做到「快人两步，轻松制胜」。</p>\n  <p>为打造全链路的「185FPS 极速枪神」体验，一加 16 搭载行业唯一全自研「电竞三芯」，全方位提升网络稳定性、动态显示清晰度与操控响应速度。「电竞网络芯片 G3」配合行业首发抗干扰电竞天线，在多设备拥堵、穿墙遮挡等复杂场景依旧保持网络稳定低时延，既是穿墙王，也是抢网王；「超级显示芯片 P4」可以实时优化高速运动画面，提高动态画面清晰度，超高刷场景下的显示更清晰；「灵犀触控芯片 T3」带来行业最高 520Hz 多指触控采样率，平均触控时延降低 29%，操控跟手性大幅提升。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_73595ee8bca6419a8f05d40ec83dd851@517825446_oswg552532oswg1269oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>在此基础上，一加 16 还搭载「高精度大师陀螺仪」，操作精度超越游戏主机手柄；还有「一键枪神」模式，性能、网络、显示、触控等一键即可开启最优状态，让普通玩家也能获得职业级电竞体验。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_cf7f7dc92d3846bd9df4e529dee70048@517825446_oswg384281oswg1269oswg847_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>基于顶级的硬件配置和性能调度，一加 16 构建起行业最丰富的 185FPS 游戏生态，首批支持《和平精英》《暗区突围》《三角洲行动》《穿越火线》《无畏契约》等头部手游的原生 185FPS 超高帧模式，覆盖 FPS、MOBA、格斗、赛车等主流品类。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_3dcdf86daae34b43a251fd49e3837fb1@517825446_oswg433037oswg1269oswg847_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>此外，一加 16 已成为《和平精英》职业联赛、《无畏契约》手游全国大赛的官方赛事用机，为职业战队与广大玩家们带来更极致的游戏体验。一加 16 还首批支持《王者荣耀》原生 165FPS 满帧运行，游戏表现领跑同级旗舰。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_246641a8e19e41af89f33bff49bc87fa@517825446_oswg467019oswg1269oswg847_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p><strong>全球首发第四代东方屏，定义旗舰屏幕新标准</strong></p>\n  <p>&nbsp;&nbsp;&nbsp; 作为手机高刷引领者，一加与京东方多年来深度联合研发，致力于打造全世界最好的屏幕，持续推动国产屏幕技术突破。此次一加 16 全球首发搭载 185Hz 第四代东方屏，采用与京东方联合定制的全新 X4 发光材料，并引入行业首个「三次校准」，在功耗、色彩、亮度、寿命、高刷稳定性等维度全面提升的同时，通过硬件校准确保每一块屏幕都达到旗舰标准，带来极致通透、极致流畅、极致清晰的顶级显示效果。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_b8ac1cbde74449bf891f614ef345de36@517825446_oswg584132oswg1269oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>第四代东方屏是全球首个专为超高刷打造的旗舰屏幕，不仅在游戏场景支持最高 185Hz 极速高刷，还带来全球首个硬件级全局 165Hz 超高刷，适配百万款主流应用。针对高刷带来的功耗问题，一加 16 搭载全新 LTPO 超高刷电路，实现 1Hz-165Hz 硬件级自适应刷新率，兼顾全场景流畅与长效续航表现。这块顶级屏幕还行业首发超动态清晰技术，动态清晰度媲美专业电竞显示器，日常操作和高帧游戏都能更快更清晰。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_d7a95f0f53974fd5bae93a9896044abc@517825446_oswg438636oswg1200oswg382_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>护眼方面，一加 16 采用全新一代「明眸护眼」技术，配合硬件端 1nit 暗光显示、3840Hz 超高频 PWM 调光、硬件级低蓝光等技术，带来全面出色的护眼效果，成功斩获德国莱茵 TÜV 智能护眼 6.0「小金标」认证。</p>\n  <p>官方图片</p>\n  <p><strong>2 亿像素风光出片神器，行业风光摄影新标杆</strong></p>\n  <p>一加 16 迎来一加史上最大影像升级，采用 LUMO 2 亿风光影像系统，通过旗舰影像硬件与自研影像算法的深度协同，实现全焦段风光创作能力的全面跃升，是专为极致风光摄影打造的「2 亿像素风光出片神器」。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_70ca4415fb344b09b02eda81d62d0ccb@517825446_oswg599759oswg1269oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>2026 年，2 亿像素已成为影像旗舰的标配。一加 16 搭载 2 亿像素大底主摄，拥有远超同档产品的超高解析力与光线捕捉能力，可以完整保留山川、建筑和城市街景等风光场景的海量细节，还可以实现「一拍三裁切」，一张照片同时输出全景、主体、细节三种构图，提升风光创作的自由度；旗舰同款 5000 万像素大底潜望长焦，支持 3 倍光学变焦与 6 倍无损变焦，远方景致、人像特写都能清晰定格；5000 万像素超广角镜头也是户外风光大片的必备，壮阔山河、城市天际线都能一镜尽收，轻松拍出氛围感大片。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_a41c9582361e4b7e83e85f9d5eae83a8@517825446_oswg465783oswg1269oswg846_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>一加 16 搭载 OPPO 自研 LUMO 凝光影像系统，集成原生光影引擎与色彩科学，还原自然光影与色彩，让照片呈现人眼所见的真实质感，复刻旅途中的视觉记忆；支持 65:24 宽幅模式、大师模式、无影抓拍、4K 实况照片等独家影像功能，还内置「AI 修图师」，让摄影小白也能轻松解锁创意大片。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_fe80d263028d462787487910b0a4d269@517825446_oswg517935oswg1269oswg309_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p><strong>「星际探索美学」设计，点亮夜空中最亮的星</strong></p>\n  <p>一加 16 以全新「星际探索美学」为设计理念，带来「明日星光」「火星杰作」「黑暗森林」三款全新配色，把探索与想象融入每一处设计细节。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_8959be1103f74809b4803b026498919b@517825446_oswg6250915oswg5000oswg3333_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>一加 16 主推配色「明日星光」以纳米光栅纹理工艺呈现随光变幻的星光效果，搭载一加史上首个呼吸灯设计「全新星际光效」，支持呼吸、闪烁、常亮、流动四种状态，覆盖系统通知、来电提醒、充电和开机等日常场景，同时还适配多款主流游戏，带来丰富的创意灯效与游戏联动玩法，陪伴每一份热爱一起闪耀，解锁更强版本的自己。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_aae293d622cc4f129199756434ad8b69@517825446_oswg893123oswg1269oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>「火星杰作」采用微晶锻造工艺还原火星砂岩肌理，背部「MASTERPIECE」印记致敬每一次不妥协的锋芒；「黑暗森林」采用全哑光丝绸玻璃工艺，呈现深邃克制的深空质感。一加 16 的旗舰质感体现在每一处设计细节，超大黄金 R 角、金属魔方 Deco、细磨砂金属中框打造舒适握持感，配合 1.15mm 极窄四等边设计，带来更具沉浸感的视觉享受。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_b690fc8fc43d4a79af6555f1b0e2712a@517825446_oswg485865oswg1268oswg300_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_89312008ab8647f0b407e6f209d5f112@517825446_oswg364676oswg1268oswg302_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_25435462052a4b5b911a4b01eb91ece2@517825446_oswg451909oswg1270oswg303_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p><strong>全能旗舰体验，面面俱到</strong></p>\n  <p>作为全面无短板的巅峰性能旗舰，一加 16 搭载旗舰系列有史以来最大的 9000mAh 超大容量冰川电池，配合 OPPO 冰川电池聚能芯片，带来更持久的性能和续航表现；支持 100W 超级闪充与 50W 无线闪充，37 分钟即可充至 80%，还支持全场景旁路供电，有效减少游戏场景下的充电发热。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_951ef80110a74b539106ddadba8e6316@517825446_oswg526792oswg1269oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>系统方面，一加 16 首批搭载超流畅的 ColorOS 17，全新流体设计让界面交互更自然鲜活，设备长久使用也能流畅如新，配合全局 165Hz 超高刷，实现全场景丝滑流畅的操作体验；还带来全面升级的 AI 功能，「AI 笔记」支持多格式输入与一键生成可编辑文档，助力知识沉淀与办公提效；「AI 拍一拍」覆盖文档扫描、外语翻译、习题解答等多场景，学习工作都能高效应对。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_c766501110524b4893bf28106616bb74@517825446_oswg559945oswg1269oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>此外，一加 16 还支持 IP66/IP68/IP69/IP69K 满级防尘防水，配备 3D 超声波指纹解锁、三频 GPS+四频北斗定位、大师对称双扬声器等旗舰配置，全方位覆盖日常使用需求。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_12b8b99f8d964ed3bbeac5c95248ad10@517825446_oswg420990oswg1269oswg846_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p><strong>国补到手价&nbsp;5199 元起，10 月 13 日正式开售</strong></p>\n  <p>一加 16 既是巅峰性能旗舰，更是同档罕见的全能旗舰，以更极致的产品力，为用户带来全面无短板的满配旗舰体验。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_1318ddfc8a4541e8ac0b8beff0cedc4c@517825446_oswg719425oswg1268oswg423_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_83aecf37c43a40319db99ea024119544@517825446_oswg397839oswg1184oswg384_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>一加 16 现已开启预售，10 月 13 日 10:00 在 OPPO 商城、京东、天猫、拼多多、抖音等全渠道正式开售，首批购机用户还可享受以旧换新补贴、限时赠品、分期免息等专属福利。一加 16 各版本售价如下：</p>\n  <p>12GB+256GB，首销优惠价 5699&nbsp;元，国补到手价 5199元；</p>\n  <p>12GB+512GB，首销优惠价 6499&nbsp;元，区域补贴价 5999&nbsp;元；</p>\n  <p>16GB+512GB，首销优惠价 7199&nbsp;元，区域补贴价 6699&nbsp;元；</p>\n  <p>16GB+1TB，首销优惠价 8199&nbsp;元，区域补贴价 7699&nbsp;元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_08e829af44ed437da6626b96a46c857f@517825446_oswg348329oswg1268oswg423_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_d163f0d85cd34ac39592f7960e23f63c@517825446_oswg236584oswg1268oswg423_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>本次发布会上，深度定制的一加 16×《凡人》动画联名礼盒也同步亮相。该礼盒融合动画角色成长历程与一加 16 「解锁更强版本的自己」的故事内核，定制金属剑阵磁吸手机支架、「青竹蜂云剑」金属卡针和磁吸保护壳等周边产品，将于 11 月 27 日 10:00 限量开售。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_f9c2944bb6644415a35a39d83a878fd4@517825446_oswg764764oswg1269oswg846_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_dc869bc02122402a9915749c97f41874@517825446_oswg871355oswg1268oswg423_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p>此外，一加还同步推出多款专属配件：一加枪神游戏手柄康康联名限定版，带来独家电竞操控体验，售价 449 元；一加 10000mAh「超级闪充屏显移动电源」，超薄机身便携补电，售价 229 元，搭配一加 16 购买可享套餐价 199 元；轻至 50g&nbsp;的「一加磁吸冰冰卡Mini 散热器」，支持手机直接供电，TEC 与风冷双重加持保障久玩满帧，售价 199 元，套餐价 169 元；一加 16 芳纶纤维磁吸保护壳，兼顾质感与便捷，售价 199 元，套餐价 169 元。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_04d4d65af25d4f0da828f772a7c94bd2@517825446_oswg786361oswg1268oswg423_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_6e8c5181d8f64081b270175bae623915@517825446_oswg562255oswg1268oswg423_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>",
+      "category": "tech",
+      "published_at": "2026-10-13T09:13:17+00:00",
+      "fetched_at": "2026-10-14T03:17:10.638834+00:00",
+      "fingerprint": "da1766e0c42d6063"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资",
+      "url": "https://36kr.com/p/4025027267580036?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>字节跳动Seed单独设立大模型安全与对齐部门</p>\n  <p>爆火促销被指加盟商买单，霸王茶姬回应</p>\n  <p>拒签《暗影蜘蛛侠》AI授权协议，美知名演员尼古拉斯·凯奇“硬刚”亚马逊</p>\n  <p>梁文锋或再投一家机器人公司</p>\n  <p>峰学蔚来武亮回应财产转移相关质疑</p>\n  <p>腾讯启动50亿美元债券发行，为AI支出募资</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>茶百道涉IPO欺诈，被暂停交易</strong></p>\n  <p>36氪获悉，香港证监会公告，已对两个集团采取行动，因它们涉嫌参与欺诈计划，意图就首次公开招股的股份需求营造虚假或非真实的表象。证监会亦已指示港交所，自10月13日上午9时正起暂停茶百道股份交易。香港证监会高度关注，茶百道的首次公开招股可能曾被人为操纵，意图就茶百道的股份需求营造非真实的表象。在证监会继续进行调查期间，暂停茶百道的股份交易，对为该股维持一个有秩序和公平的市场及维护投资大众的利益是有需要或合宜的。</p>\n  <p><strong>苹果连夜发布3款智能家居新品，总市值再创历史新高</strong></p>\n  <p>10月13日晚间，苹果举办“欢迎回家”新品发布会，一次性推出三款硬件：首款智能家庭中枢HomeView、第二代HomePod mini、全新Apple TV 4K。HomeView搭载7英寸屏幕与Apple Intelligence加持的新版Siri，支持人脸识别，299美元起售，11月13日海外开售，暂不登陆欧盟市场。第二代HomePod mini搭载S10芯片，新增灯光律动效果，国行定价由999元调整至1099元。新款Apple TV 4K将于11月13日发售。受新品消息刺激，苹果股价盘初上涨1.74%，报346.892美元/股，总市值达5.06万亿美元，再创历史新高，后续涨幅有所收窄。（21世纪经济报道、界面新闻）</p>\n  <p><strong>DeepSeek将完成1000亿元融资</strong></p>\n  <p>多位参与交易人士表示，DeepSeek将在近期完成最新一轮融资，融资金额从此前计划的500亿元增至约1000亿元。这是DeepSeek的第二轮融资，不到半个月拟融资金额翻了一倍。其中，新老股东的拟投资金额约各占一半。融资规模翻倍未影响整体估值，目前DeepSeek的投前估值仍为约5000亿元。据多名独立信源的交易人士称，本轮新进投资方包括石溪资本、中芯聚源、CPE源峰、君联资本、吉利等，以产业投资方为主。此外，首轮入局的老股东们也在本轮交易名单中，包括宁德时代、腾讯、IDG资本、砺思资本和拾象资本。其中，宁德时代加码投资，拟增资约100亿元，其在首轮中出资金额约为50亿元。（财经杂志）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>字节跳动Seed单独设立大模型安全与对齐部门</strong></p>\n  <p>字节跳动Seed近日发出内部邮件，宣布将成立“ Seed Model-Alignment&amp;Preparedness ”部门，由严林负责，汇报给Seed负责人吴永辉。原Responsible AI团队及部分Chat团队成员将转入新部门。该部门的设立旨在加强安全与对齐方向的投入，对齐的核心是让模型的行为与人类意图和安全约束保持一致，从而提升Agent Model（智能体模型）安全能力，以及防范CBRN（化学、生物、放射、核）等前沿能力风险。（财联社）</p>\n  <p><strong>谷歌开始向Google AI订阅用户推出Gemini 4 Argon</strong></p>\n  <p>谷歌开始向Google AI订阅用户推出Gemini 4 Argon，适用平台包括GoogleAntigravity、Gemini应用以及谷歌搜索中的AI模式。Gemini 4 Argon以每百万输入代币2美元和每百万输出代币10美元的优惠价格推出。（财联社）</p>\n  <p><strong>OpenAI计划重启Sora</strong></p>\n  <p>据知情人士透露，一家面向电影从业者开发AI视频工具的隐秘初创公司，正与OpenAI洽谈，希望获取Sora模型、对其进行二次改造，并基于改造后的模型销售软件与相关服务。媒体上月首次披露了这家初创公司。公司由好莱坞大佬杰弗里·卡森伯格、前Sora项目研究负责人比尔·皮布尔斯、前Dropbox首席财务官苏杰·贾斯瓦在近几个月联合创立，目前尚未对外公布名称。（新浪财经）</p>\n  <p><strong>“求索”4.0上线，国内首个人工智能全产业链评测基准发布</strong></p>\n  <p>国内首个面向算力、模型算法、智能系统与产品、行业应用、安全治理等人工智能全产业链的评测基准——“求索”4.0版10月13日正式发布。目前，“求索”已经面向产业链开展多轮试点测评，在金融、电力、石油石化等场景完成产品验证，积累了多项行业落地实践案例，起到了很好的示范作用。据了解，整套体系分为基础软硬件、模型与智能系统、安全治理、行业落地四大板块，16项测评工具，覆盖从底层算力、软硬件协同、智算云、智能软件工程，到大模型、智能体、具身智能、智能终端、AI安全、行业场景的全面测评。（央视新闻）</p>\n  <p><strong>豆包灰度上线水电燃气缴费，大厂争抢AI对话式支付入口</strong></p>\n  <p>近期豆包APP灰度开放生活缴费功能，用户打字或语音下达指令，即可办理水、电、燃气缴费，支持抖音零钱、银行卡付款，不同城市可缴费项目存在差异。此举意在让产品从问答工具向可执行任务的智能助手转型。目前美团、支付宝、千问等均在布局AI对话式支付、本地生活下单等能力。业内分析，对话式支付提升操作便捷度，但风控、信任仍待完善，距离大规模普及还有较长周期，不会直接替代现有支付软件。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>爆火促销被指加盟商买单，霸王茶姬回应</strong></p>\n  <p>10月13日上午，“霸王茶姬加盟商发声”冲上热搜，网传品牌为庆祝代言人郑钦文中网夺冠推出买一送一活动，饮品成本由加盟商承担，品牌仅每杯补贴约3元。霸王茶姬回应界面新闻，该传言并不属实。活动上线后小程序崩溃，订单暴增，门店超负荷运转。品牌此前官宣拿出1350万元专项奖金，犒劳参与保障的一线门店员工。本次营销虽然快速出圈，但小程序稳定性、门店产能等前置准备不足，暴露出流量承接短板。霸王茶姬是美股上市新茶饮品牌，截至2026年6月全球门店数量达7639家。（界面新闻、红星新闻）</p>\n  <p><strong>三星发布提升AI基础设施性能的下一代存储技术战略</strong></p>\n  <p>三星电子周二宣布了旨在提升人工智能（AI）基础设施性能的下一代内存与存储技术战略。三星概述了旨在提升AI基础设施性能的三大关键技术方向：高性能存储器、基于Compute Express Link（CXL）的存储扩展技术，以及利用新一代固态硬盘（SSD）的数据存储与管理解决方案。（新浪财经）</p>\n  <p><strong>全球手机出货量创14年来新低</strong></p>\n  <p>据Counterpoint Research数据，2026年第三季度全球智能手机出货量同比下滑20%，创下2012年以来同期最低。AI基建抢占存储芯片产能，芯片涨价推高手机生产成本，今年全球手机零售价累计上涨约20%，消费者换机周期拉长，翻新机关注度提升。市场呈现分化，高端需求韧性较强，大众市场压力凸显。三星份额升至23%位居第一，苹果份额达22%；小米出货同比跌超30%，OPPO、vivo跌幅均超20%。机构预判，存储问题未改善前，手机行业难明显回暖，厂商将继续向高端机型倾斜。（财联社）</p>\n  <p><strong>梁文锋或再投一家机器人公司</strong></p>\n  <p>继两个月前斥资1.41亿元入股宇树科技后，DeepSeek或再次出手机器人赛道。有消息称，DeepSeek已同意领投Winverse AI的种子轮融资，金额达数千万美元，投后估值约4亿美元。此外，美团旗下龙珠投资（Long-Z Investments）等机构也作出了投资承诺。对于上述消息，截至《科创板日报》记者发稿，未获回应。若交易顺利完成，它将成为梁文锋在具身智能领域的又一关键落子。（财联社）</p>\n  <p><strong>尊界V800公布制动踏板第三方检测结果&nbsp;</strong></p>\n  <p>针对制动踏板争议，第一财经日报记者10月13日从尊界汽车处获悉《尊界V800制动踏板检测情况说明》。该说明显示，2026年10月11日，国家认可的第三方检测机构对尊界V800制动踏板进行检验，尊界V800符合行标QC/T 788-2018要求（纵向力1500N，位移量&lt;5mm），并做加严检验至纵向力3000N后，未出现裂纹和损坏。（第一财经）</p>\n  <p><strong>LVMH承认茉莉奶白诉讼带来负面影响，不会放弃中国市场</strong></p>\n  <p>10月12日晚，LVMH召开三季度财报电话会，集团CFO坦言茉莉奶白商标诉讼事件带来负面影响，但品牌不会停止对中国市场投入。该商标侵权案一审判决茉莉奶白需赔偿合计1030万元，茉莉奶白方面已提起上诉。财报显示，LVMH三季度营收185.04亿欧元，有机增长1%，增速放缓；除日本外亚洲区域收入同比下滑5%，时装皮具板块收入下跌，LV承压明显。三季度中国客群整体需求下滑15%。同时欧莱雅市值超越LVMH，为2017年以来首次。集团表示不会大范围降价促销，依靠新品与门店体验等待市场回暖。（界面新闻）</p>\n  <p><strong>79岁老干妈陶华碧用AI一年赚54亿，创营收新高</strong></p>\n  <p>10月13日，“79岁老干妈陶华碧用AI一年赚54亿”登上热搜。老干妈高管披露，2025年品牌营收达54亿元，创下历史新高。品牌几乎不做线上营销，放弃直播带货，电商渠道销售占比不足5%，重心放在线下经销。工厂内部已落地AI视觉质检系统，自动剔除霉变辣椒，将产品不良率降至0.02%，实现原料全链路溯源。老干妈坚持不上市、不融资，多款主力辣酱长期占据国内调味酱市场前列。（界面新闻）</p>\n  <p><strong>年内9925亿元资金离场，韩股遭遇外资大撤退，三星、SK海力士遭抛售</strong></p>\n  <p>据韩媒报道，10月13日上午韩国股市暴跌，外国投资者继续抛售三星电子和SK海力士股票。据韩国交易所13日公布的数据，从年初首个交易日（1月2日）到10月12日，外资在KOSPI市场累计净卖出199.10万亿韩元（约合人民币9925亿元）。其中，净卖出三星电子86.06万亿韩元（约合人民币4290亿元）、SK海力士87.14万亿韩元（约合人民币4344亿元），合计173.20万亿韩元（约合人民币8634亿元），这两支股票的净卖出总额占KOSPI净卖出总额的87%。（中新经纬）</p>\n  <p><strong>雅思主办方致歉：10月14日起全面恢复，增设两天免费专场考试，异地考生可申请报销相关费用</strong></p>\n  <p>据上观新闻，雅思停考事件持续发酵。继10月10日至12日中国大陆地区雅思机考连续三天因技术原因取消后，10月13日的考试再度被取消。英国文化教育协会今天也证实，已向受影响考生全额退还报考费，并将自10月14日起全面恢复考试，同时于10月19日、20日为受影响考生增设两天免费专场考试。对于异地考生，主办方还推出交通、住宿费用报销方案。（上观新闻）</p>\n  <p><strong>峰学蔚来武亮回应财产转移相关质疑</strong></p>\n  <p>张雪峰离世后，接手峰学蔚来的武亮遭遇转移公司财产、争夺股权的传言。他在节目预告片中首次公开回应，表示当前首要任务是保住峰学蔚来，若志愿填报业务出现问题，对公司将是毁灭性打击。武亮称接棒人选由张雪峰家人与董事会共同确定，待张雪峰女儿长大，自己可做任何安排。工商信息显示，武亮名下关联多家企业，张雪峰女儿持有峰学蔚来37.5%股份。（青岛新闻网）</p>\n  <p><strong>滴露广告因物化女性被罚超百万</strong></p>\n  <p>10月13日，市场监管总局公布7起涉导向违法广告典型案例。其中滴露衣物消毒液广告出现物化女性文案，上海曼伦商贸被罚80万元，广告合作方广西瞬视信息科技罚没26.5万元，两家合计罚超100万。本次曝光案例还包含舒客牙贴低俗宣传、酒吧滥用护士形象AI广告、加油站违规建军节营销、陵园宣扬风水迷信等案件，涉事企业均被处以罚款。今年前三季度，全国市场监管部门共查办广告违法案件33754件，罚没金额1.65亿元，平台累计拦截清理违规素材17.5万条。（央视新闻）</p>\n  <p><strong>三星电子会长李在镕将获母亲赠股1115.8万股，按市价估值约2.6万亿韩元</strong></p>\n  <p>财联社10月13日电，三星电子会长李在镕提交的证券交易计划报告显示，他计划接受母亲洪罗喜赠予的1115.8万股三星电子普通股。按三星电子当日收盘价计算，赠与规模约为2.6���亿韩元。交易完成后，李在镕持股将由约1.052亿股增至约1.164亿股，持股比例由1.58%升至1.75%。报告显示，此次交易目的为接受赠与，相关协议已于10月12日签署。（财联社）</p>\n  <p><strong>海底捞：向CEO张勇提供本金上限1亿元贷款融资，期限为30天</strong></p>\n  <p>36氪获悉，海底捞在港交所公告，10月12日，公司控股股东、执行董事、董事会主席兼首席执行官张勇与公司订立贷款协议，据此，公司同意向张勇授出本金上限为相当于人民币1亿元的港元贷款融资，期限为一个月（即30天），利率为一月期港元同业拆息加60个基点。</p>\n  <p><strong>硫磺价格暴涨近10倍</strong></p>\n  <p>受霍尔木兹海峡航运受阻影响，全球硫磺供应大幅收紧，价格暴涨至冲突前近10倍，逼近每吨1000美元，该品类常态价格仅每吨100-200美元。硫磺可制作硫酸，广泛用于磷肥、铜冶炼。资金雄厚的矿业企业高价抢货挤压化肥厂商，化肥企业被迫减产，机构预警成本压力或将向上传导，推高全球食品价格。部分化肥企业调整产品、寻找替代原料应对危机，而铜企受益于金属高景气，可承受硫酸涨价。市场数据显示硫磺贸易危机仍在恶化。（财联社）</p>\n  <p><strong>微软宣布史上最大自研芯片押注，市值重回4万亿美元</strong></p>\n  <p>“今天我们宣布迄今为止在自研芯片上最大的一笔押注。”当地时间10月12日，微软董事长兼首席执行官萨提亚·纳德拉（Satya Nadella）在社交媒体上公布了微软自研芯片的最新计划。微软表示Azure Maia 200现已投入生产，并且发布最新芯片Azure Maia 300。同时，微软公布新的部署计划：从2027年开始将把Azure Maia系列扩展至数吉瓦级规模部署，使Maia成为微软产品和服务的主要推理系统。受这一消息影响，微软股价当天上涨1.14%至541.15美元，市值重回4万亿美元。（第一财经）</p>\n  <p><strong>粤芯半导体上市首日大涨274.69%，中一签赚1.65万元</strong></p>\n  <p>粤芯半导体上市首日开盘涨274.69%，现报45元，该股发行价为12.01元。按开盘价计算，投资者中一签（500股）浮盈约1.65万元。10月13日收盘价38.80元，当日涨幅223.06%。公开资料显示，该公司主营业务是提供12英寸晶圆代工服务和特色工艺解决方案。（界面新闻）</p>\n  <p><strong>拒签《暗影蜘蛛侠》AI授权协议，美知名演员尼古拉斯·凯奇“硬刚”亚马逊</strong></p>\n  <p>据报道，美国知名演员尼古拉斯·凯奇在纽约漫展上公开表达自己反对在影视作品中使用AI技术的立场。他透露，在拍摄《暗影蜘蛛侠》期间，亚马逊方面曾要求他签署一份允许使用AI技术的授权文件，但被他拒绝了。“我不是一个对AI友好的演员。”凯奇直言，“所以，你们应该明白我的意思。我不是那个圈子里的人。”（环球网）</p>\n  <p><strong>腾讯启动50亿美元债券发行，为AI支出募资</strong></p>\n  <p>腾讯控股已开始推介发行美元和离岸人民币债券，此次发行预计将筹集约50亿美元，用于支持其在人工智能领域不断增加的投资。据媒体援引一位知情人士透露，这家中国科技和游戏巨头已将其拟发行的10年期和20年期美元债券的初步定价指导区间分别设定为较同类美国国债高出约115个和140个基点。这位人士称，该公司还正在推介10年期和30年期离岸人民币债券，定价指导区间分别为2.9%和3.5%左右。这位人士表示，这些债券最早可能于周二定价。（新浪财经）</p>\n  <p><strong>美股三大指数集体收跌，大型科技股涨跌不一</strong></p>\n  <p>36氪获悉，10月13日收盘，美股三大指数集体下跌，纳指跌0.15%，标普500跌0.02%，道指跌0.35%；大型科技股涨跌不一，SpaceX跌超4%，美光科技、SK海力士跌超3%，特斯拉、亚马逊小幅下跌，Meta涨超2%，英伟达涨近1%，谷歌、苹果小幅上涨；热门中概股多数上涨，理想汽车涨超3%，蔚来涨超2%，拼多多涨超1%，小鹏集团、京东、阿里巴巴小幅上涨，爱奇艺跌超2%，哔哩哔哩跌超1%，百度、网易小幅下跌。</p>\n  <p><strong>网传英伟达减单？景旺电子回应</strong></p>\n  <p>36氪获悉，有投资者向景旺电子提问，公司今天股价大跌，网上传英伟达减单了，是否属实？10月13日，公司在互动平台回答表示，上市公司股价波动受多种因素影响，与宏观环境、政策因素、行业经营状况及资本市场风格等综合情况密切相关。由于涉及商业保密条款，公司不便对具体客户的合作信息进行披露，为保证所有投资者平等获悉公司信息，具体客户信息请以公司公告为准。截至2026年三季度末，公司在AI服务器与数据中心、高速光模块领域的在手订单饱满，产能利用率及良率较高，公司正全力保障交付目标的达成。</p>\n  <h2>上市进行时</h2>\n  <p><strong>传音控股：H股发售价厘定为35.30港元/股</strong></p>\n  <p>36氪获悉，传音控股在港交所公告，于2026年10月13日，发售价已厘定为每股H股35.30港元（不包括1.0%经纪佣金、0.0027%证监会交易征费、0.00565%联交所交易费及0.00015%会财局交易征费）。假设全球发售于2026年10月15日（星期四）上午八时正（香港时间）或之前成为无条件，则预期H股将于2026年10月15日（星期四）上午九时正（香港时间）在联交所主板开始买卖。H股将以每手100股H股为买卖单位。</p>\n  <h2>投融资</h2>\n  <p><strong>“一盛新材”完成近亿元A3轮融资</strong></p>\n  <p>36氪获悉，“一盛新材”宣布完成近亿元A3轮融资，本轮由元禾璞华、长江创新联合领投，中信建投、江苏高投旗下邦盛、丰源资本、银柏投资跟投，老股东中关村启航旗下芯创基金追投。本轮融资将重点用于硬件设备投入与高端人才引进。</p>\n  <p><strong>“众钠能源”完成新一轮数亿元融资</strong></p>\n  <p>36氪获悉，近日，“众钠能源”宣布正式完成新一轮数亿元融资，本轮融资资金将重点聚焦新一代钠电电芯产线扩建、下一代产品技术研发、市场渠道拓展、供应链及交付体系建设等。</p>\n  <p><strong>“三凯机电”完成数亿元B轮股权融资</strong></p>\n  <p>36氪获悉，近日，“三凯机电”宣布完成数亿元B轮股权融资。本轮融资由工业母机产业投资基金与物产中大投资联合领投，财通资本、温岭海和融智跟投。募集资金将主要用于深化人形机器人关节减速器及驱动一体化技术的研发迭代，扩大精密减速器产能建设，加速高端传动部件的国产化替代进程。去年年底，三凯机电曾获达晨财智领投过亿元A轮融资。</p>\n  <h2>大公司财报</h2>\n  <p><strong>LVMH集团三季度收入有机增长1%</strong></p>\n  <p>奢侈品公司LVMH集团2026年前三季度营收达571.48亿欧元，同比下滑2%，有机增长2%。其中，第三季度营收达185.04亿欧元，有机增长1%，环比增速放缓。占比最大的时装与皮具部门有机收入减少5%，其他部门均实现有机收入个位数增长。在除日本外的亚洲市场，三季度的有机收入转为下跌5%，而此前的一、二季度分别增长7%和4%。（界面新闻）</p>\n  <p><strong>高盛三季度净营收186.79亿美元，同比增长23%</strong></p>\n  <p>高盛公布2026年第三季度业绩，净营收186.79亿美元，同比增长23%；净利润52.94亿美元，同比增长29%；摊薄后每股收益17.01美元，同比增长39%。分业务看，全球银行与市场业务净营收134.58亿美元，同比增长32%，其中股票业务净营收64.41亿美元，同比增长72%；资产与财富管理业务净营收50.51亿美元，同比增长14%；平台解决方案业务净营收1.70亿美元，同比下降72%。第三季度运营支出113.08亿美元，同比增长20%。（财联社）</p>\n  <h2>酷产品</h2>\n  <p><strong>千问发布AI眼镜、AI耳机三款Personal Agent硬件新品</strong></p>\n  <p>36氪获悉，10月13日，千问发布AI眼镜N1、N1 Pro及AI耳夹式耳机三款新品。据了解，N1系列搭载5000万像素影像系统，支持全天候环境感知、翻译、会议纪要和语音办事，N1 Pro新增体征实时监测、眼动交互和虹膜核身；AI耳夹式耳机由千问与Bose共同推出，支持多语言翻译、AI实时听记和任务交办。新品当日开售，叠加国补及限时优惠后，眼镜到手价2218元起，耳机1099元起。</p>\n  <p><strong>“机械智能”软体机器人问世：能切换不同游动姿态</strong></p>\n  <p>一款由美国北卡罗来纳州立大学团队研制的“机械智能”软体机器人问世。该机器人不装微电脑、不依赖实时算法，只用两根气管控制充放气，便可切换水母、鱼、转子三种游动模式，完成升降、悬停、转向等动作。其控制逻辑完全由材料与结构本身承担，等于把“大脑”长进了结构里。相关成果发表于最新一期《科学进展》。（科技日报）</p>\n  <p><strong>整理丨李琪</strong></p>",
+      "category": "tech",
+      "published_at": "2026-10-14T01:11:48+00:00",
+      "fetched_at": "2026-10-14T03:17:10.638820+00:00",
+      "fingerprint": "47fd653c1a1470c4"
+    },
+    {
+      "source": "少数派",
+      "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+      "url": "https://sspai.com/post/115400",
+      "summary": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...<a href=\"https://sspai.com/post/115400\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "fetched_at": "2026-10-14T03:17:09.275853+00:00",
+      "fingerprint": "3e7d2c48742eea1d"
+    },
+    {
+      "source": "少数派",
+      "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+      "url": "https://sspai.com/post/116068",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116068\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "fetched_at": "2026-10-14T03:17:09.275848+00:00",
+      "fingerprint": "d4b7396ae552482d"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
+      "url": "https://sspai.com/post/116138",
+      "summary": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。<a href=\"https://sspai.com/post/116138\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-14T00:40:39+00:00",
+      "fetched_at": "2026-10-14T03:17:09.275843+00:00",
+      "fingerprint": "d3c9a1bf56e92ad4"
+    },
+    {
+      "source": "少数派",
+      "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+      "url": "https://sspai.com/post/92653",
+      "summary": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？<a href=\"https://sspai.com/post/92653\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-14T02:00:04+00:00",
+      "fetched_at": "2026-10-14T03:17:09.275833+00:00",
+      "fingerprint": "c42978b98b6b4a0f"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6710 CNY ↑+0.07%",
+      "url": "https://www.frankfurter.app/2026-10-13?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-13</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6710 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0033 (+0.07%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-14T03:17:08.130168+00:00",
+      "fingerprint": "9621c4601ceeaea3"
+    },
     {
       "source": "BBC World News",
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
