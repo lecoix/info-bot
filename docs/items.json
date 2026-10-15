@@ -1,7 +1,297 @@
 {
-  "updated_at": "2026-10-14T03:17:11.593890+00:00",
-  "count": 201,
+  "updated_at": "2026-10-15T02:55:56.309156+00:00",
+  "count": 209,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "summary": "<p>Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr</p><p><a href=\"https://www.theguardian.com/world/guinea-bissau\">Guinea-Bissau</a> has not approved the controversial <a href=\"https://www.theguardian.com/society/hepatitis-b\">hepatitis B</a> study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday.</p><p>The study, which would not investigate the safety or effectiveness of vaccines but would instead track “nonspecific” health outcomes like overall mortality or neurodevelopmental conditions, has been championed by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist.</p> <a href=\"https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-14T13:16:30+00:00",
+      "fetched_at": "2026-10-15T02:55:56.306354+00:00",
+      "fingerprint": "5e7fad31fed10e8f"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+      "summary": "<p>Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers</p><p>The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated.</p><p>Kundizeza’s story <a href=\"https://static1.squarespace.com/static/6a4f3fb6a6178e0225b39a4c/t/6a95fffc36f1fc568e02f7fe/1788215293124/3.The+Blue+Fighter.pdf\">The Blue Fighter</a> was announced as the winner of the prestigious Caine prize for African writers on 6 October. Five days later, The Atlantic published an <a href=\"https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/\">article</a> by the author and journalist Vauhini Vara titled: “Yet Another Literary prize winner Seems to Be AI.”</p> <a href=\"https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-14T19:01:29+00:00",
+      "fetched_at": "2026-10-15T02:55:56.306348+00:00",
+      "fingerprint": "6593b2bbec903399"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "category": "politics",
+      "published_at": "2026-10-14T15:26:14+00:00",
+      "fetched_at": "2026-10-15T02:55:55.985524+00:00",
+      "fingerprint": "96faa508b0e30813"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "category": "politics",
+      "published_at": "2026-10-14T15:12:46+00:00",
+      "fetched_at": "2026-10-15T02:55:55.985521+00:00",
+      "fingerprint": "9658d95d216c968e"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Student protesters attack government buildings in Albania",
+      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+      "category": "politics",
+      "published_at": "2026-10-14T20:29:05+00:00",
+      "fetched_at": "2026-10-15T02:55:55.985517+00:00",
+      "fingerprint": "056f4bacd70046a7"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "category": "politics",
+      "published_at": "2026-10-14T20:55:24+00:00",
+      "fetched_at": "2026-10-15T02:55:55.985511+00:00",
+      "fingerprint": "eabcd42a819b6b05"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
+      "url": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "「北藍南綠」是描述台灣政治版圖的常見概念，但近年選舉結果顯示，這樣的區域分野並非一成不變，中間選民的流向在這次地方選舉可能左右大局。",
+      "category": "politics",
+      "published_at": "2026-10-14T03:36:37+00:00",
+      "fetched_at": "2026-10-15T02:55:55.902641+00:00",
+      "fingerprint": "e4c721debfd7b98f"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "教宗良十四世證實患癌再掀健康透明度擔憂",
+      "url": "https://www.bbc.com/zhongwen/articles/c61kdvn2724po/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "由於目前細節仍然不多，因此尚不清楚這位一直著重穩定性的教宗需要作出哪些改變。",
+      "category": "politics",
+      "published_at": "2026-10-15T00:20:17+00:00",
+      "fetched_at": "2026-10-15T02:55:55.902637+00:00",
+      "fingerprint": "24e82b1a85b1d6d5"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國中期選舉2026：贏會贏在哪裏，輸會輸在哪裏？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6lyezge4xywo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC深入分析將界定特朗普總統任期最後兩年的選舉前景，包括關鍵民調、選戰以及議題。",
+      "category": "politics",
+      "published_at": "2026-10-15T00:20:29+00:00",
+      "fetched_at": "2026-10-15T02:55:55.902634+00:00",
+      "fingerprint": "14c6dc46283f73c6"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
+      "url": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "從學校、醫院、酒店、數據中心、火車到橋樑，俄羅斯近數星期加強以導彈和無人機襲擊烏克蘭首都及其他主要城市，攻擊民用目標。",
+      "category": "politics",
+      "published_at": "2026-10-14T09:09:43+00:00",
+      "fetched_at": "2026-10-15T02:55:55.902630+00:00",
+      "fingerprint": "f930cb1fb79d2d2d"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "令人窒息的有毒霧霾蔓延東南亞，誰之過？",
+      "url": "https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "對被指控在印尼焚燒土地的企業，以及未能阻止這些行為的當局，人們的憤怒情緒正不斷升高。",
+      "category": "politics",
+      "published_at": "2026-10-15T00:20:23+00:00",
+      "fetched_at": "2026-10-15T02:55:55.902623+00:00",
+      "fingerprint": "574ceaf17d79647b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-15T02:55:55.562923+00:00",
+      "fingerprint": "364f5f1cad75fb5b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-15T02:55:55.562865+00:00",
+      "fingerprint": "616037433c784b2a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-15T02:55:55.562793+00:00",
+      "fingerprint": "884571b923cce1b1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-15T02:55:55.562731+00:00",
+      "fingerprint": "d001316ff15b7db6"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-15T02:55:55.562656+00:00",
+      "fingerprint": "537c3562be36e30a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+      "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency, it tracked scam activity back to [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-14T20:03:43+00:00",
+      "fetched_at": "2026-10-15T02:55:55.484144+00:00",
+      "fingerprint": "fa361691c0a6800a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-14T21:11:28+00:00",
+      "fetched_at": "2026-10-15T02:55:55.484141+00:00",
+      "fingerprint": "9194e801adbca278"
+    },
+    {
+      "source": "The Verge",
+      "title": "The best feature of Apple’s HomeView might be its simplicity",
+      "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+      "summary": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-14T22:00:02+00:00",
+      "fetched_at": "2026-10-15T02:55:55.484138+00:00",
+      "fingerprint": "162541f59fe12beb"
+    },
+    {
+      "source": "The Verge",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-14T22:53:31+00:00",
+      "fetched_at": "2026-10-15T02:55:55.484132+00:00",
+      "fingerprint": "e10522981d38e793"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "雅诗兰黛集团启动2026年粉红丝带公益行动，三年累计捐赠1000万元｜最前线",
+      "url": "https://36kr.com/p/4025372677181314?f=rss",
+      "summary": "<p>36氪获悉，10月13日，雅诗兰黛集团在上海浦东美术馆举行2026年粉红丝带公益点亮仪式，宣布启动新一年度乳腺癌防治公益行动。今年，集团将与中国妇女发展基金会继续合作，围绕基层医生与女性、异地务工女性及职业院校学生等群体开展乳腺健康筛查、医生培训、义诊和校园科普等活动，项目重点落地贵州、广东和山东。集团还计划于2027年投入使用一辆乳腺健康义诊车，将筛查和医疗服务延伸至偏远地区。</p>\n  <p>这项公益行动已在中国持续开展二十余年。根据雅诗兰黛集团披露的数据，2023年起，集团与中国妇女发展基金会开展为期三年的“乳腺健康关爱”项目，累计捐赠1000万元。截至目前，项目已为450名困难乳腺癌患者提供治疗资助，为4481名困境妇女开展乳腺健康筛查，并向5400名乳腺癌患者发放关爱物资。此外，项目累计开展16场乳腺健康宣传活动，并在北京、上海、武汉等城市开展校园科普活动。</p>\n  <p><strong>2026年的项目延续了此前以疾病预防、健康教育和患者援助为核心的模式，但进一步强调基层医疗资源的可及性。</strong>相比于单纯的健康知识传播，筛查、诊断和后续治疗涉及医疗资源、经济负担及地理距离等多重因素。世界卫生组织指出，乳腺癌的早期发现需要公众健康教育、及时诊断和治疗服务相互配合；在部分医疗资源有限的地区，获得专业评估和及时转诊仍是疾病防治的重要环节。</p>\n  <p>这一需求背后有较大的疾病负担。发表于《中国国家癌症中心杂志》的研究估算，2022年中国女性乳腺癌新发病例约35.72万例，死亡病例约7.5万例。乳腺癌也是中国女性主要的癌症疾病负担之一。对于公益项目而言，如何将健康教育转化为实际筛查、及时诊断和持续治疗支持，是衡量项目效果的重要维度。</p>\n  <p>从企业经营角度看，雅诗兰黛集团正在经历业绩修复。集团于2026年8月公布的2026财年业绩显示，截至2026年6月30日的全年净销售额为150.49亿美元，同比增长5%；有机净销售额增长3%。集团全年营业利润为7.8亿美元，而上一财年录得7.85亿美元营业亏损；调整后营业利润为16.87亿美元，同比增长47%。不过，集团全年净利润为1.82亿美元，仍低于2024财年的4.09亿美元。</p>\n  <p>中国市场的表现则有所改善。2026财年，雅诗兰黛集团中国内地净销售额约30.58亿美元，按报告口径同比增长12%，有机净销售额增长9%。集团同时披露，其在中国内地高端美妆市场的价值份额于2026财年第四季度及全年均有所提升。中国市场的回暖对集团整体业绩修复具有重要意义。</p>\n  <p>长期公益项目与商业经营并非彼此独立。对于以女性消费者为核心客群的高端美妆集团而言，乳腺癌防治行动与其品牌历史、女性健康议题及消费者沟通存在天然关联。但公益投入能否形成长期社会价值，仍取决于项目是否持续开展、资源是否真正抵达目标人群，以及筛查和援助能否产生可衡量的实际效果。</p>\n  <p>雅诗兰黛集团表示，粉红丝带乳腺癌防治运动由集团已故高管伊芙琳·兰黛于1992年发起。集团披露，该项运动及其慈善基金已募集超过1.82亿美元，其中通过乳腺癌研究基金会提供的医疗研究资助超过1.23亿美元。</p>\n  <p>在本年度行动中，雅诗兰黛集团继续以公益合作、公众传播和线下活动推动乳腺健康议题。后续项目能否进一步披露筛查人数、转诊及治疗支持情况，将影响外界对这项长期公益行动实际成效的判断。</p>",
+      "category": "tech",
+      "published_at": "2026-10-14T07:01:25+00:00",
+      "fetched_at": "2026-10-15T02:55:55.383913+00:00",
+      "fingerprint": "c5bd2f218b5653cf"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "2026年度「焦点」产品计划重磅启动",
+      "url": "https://36kr.com/p/4025592761864321?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261014/v2_ff3be9f9fd504a6aac27b87eb7b1d694@5679941_oswg895782oswg903oswg8725_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"editor-note\">让更多好产品被看见。</p>",
+      "category": "tech",
+      "published_at": "2026-10-14T10:46:44+00:00",
+      "fetched_at": "2026-10-15T02:55:55.383908+00:00",
+      "fingerprint": "2a8c8368e8437984"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨微信、淘宝、美团等应用，拒绝接入豆包手机助手；苹果成为全球第二家市值破5万亿美元企业；美国9月CPI同比增长3.7%，高于预期",
+      "url": "https://36kr.com/p/4026385299165321?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>绿泡泡短剧可查看朋友在看剧目</p>\n  <p>A股三大指数集体收跌，全市场近4500股下跌</p>\n  <p>OpenAI办公室发现隐藏录音设备，涉事员工被捕</p>\n  <p>德国拟2027年开征含糖饮料税</p>\n  <p>华尔街大空头警示美股：现40年未见极端市场失衡</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>微信、淘宝、美团等151款应用拒绝豆包手机助手GUI自动化操作</strong></p>\n  <p>10月14日，豆包手机助手SAEP协议公示期结束，共有151款应用声明拒绝其GUI屏幕自动化操作，微信、淘宝、美团、快手、DeepSeek等高频App在列。拒绝仅代表禁止AI自动点击代操作，App仍可正常手动安装使用。其中腾讯系65款、阿里系23款应用上榜，覆盖社交、电商、办公等核心场景。SAEP协议让开发者自主决定AI操作权限，此次大量头部应用拒绝，将限制豆包手机跨应用自动办事的核心能力。（界面新闻）</p>\n  <p><strong>苹果成为全球第二家市值破5万亿美元企业&nbsp;</strong></p>\n  <p>北京时间10月15日凌晨，美股苹果公司收盘上涨0.5%，最新股价报342.96美元，总市值50052亿美元。这是苹果首次以5万亿美元的市值收盘，苹果也成为继英伟达之后，全球第二家达成这一市值里程碑的企业。这一最新表现反映出市场对其全新产品线、尤其是折叠屏iPhone的乐观预期。自8月的阶段低点以来，苹果股价累计涨幅已超13%。（21世纪经济报道）</p>\n  <p><strong>美国9月CPI同比增长3.7%，高于市场预期</strong></p>\n  <p>美国9月CPI同比增长3.7%，预估3.6%，前值3.4%；核心CPI同比增长2.6%，预估2.5%，前值2.4%，核心CPI环比增长0.3%，预估0.2%，前值0.3%。本轮通胀走高主要由汽油价格拉动，9月汽油价格环比上涨9.1%，贡献过半CPI月度涨幅。受超预期通胀数据影响，CME FedWatch工具显示，交易员对美联储10月加息25个基点的押注继续升温，加息概率升至43.7%，维持利率不变的概率降至56.3%。相比美国9 CPI数据公布前，加息概率已由21.6%上升22.1个百分点。（第一财经、界面新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>摩根大通禁止Muse、Instinct等外部AI代理直接访问账户</strong></p>\n  <p>摩根大通首席执行官杰米·戴蒙周二表示，该行不会允许外部人工智能代理访问客户账户并代表客户操作，理由是在Meta等科技公司发布自主助手之际，这对公司及其客户构成风险。“我们不会允许任何外部代理进入公司内部，因为这对客户和摩根大通来说都太危险了，”戴蒙在该行第三季度财报电话会上对分析师表示。“你不想要失控代理，而且可能会有数千个，”他补充道，描述了这对客户的潜在威胁。（新浪财经）</p>\n  <p><strong>Anthropic警告AI已有早期生命迹象，“AI蠕虫”恐引爆全球物联网灾难</strong></p>\n  <p>凤凰网科技10月14日消息，Anthropic最新研究警示，伴随小模型能力突破，新型“AI蠕虫”可在无防护商用IoT设备（电视盒等）切割权重流水线运行、自我复制，拥有拉马克式经验遗传能力，预计2026年底或迎来实用级爆发。AI蠕虫自我复制无需大型数据中心，可占用设备算力与电费繁衍，被认为显现早期生命迹象，引发物联网安全担忧。（凤凰网科技）</p>\n  <p><strong>OpenAI基础设施与算力负责人辞职，留任顾问</strong></p>\n  <p>OpenAI基础设施负责人萨钦·卡蒂周三宣布，他将离开在这家人工智能公司约一年的职务。卡蒂在领英帖子中表示，他“决定继续前行，去打造新东西”，并将在11月15日最后一天之后继续以顾问身份支持OpenAI。一位发言人表示，一直担任OpenAI算力首席技术官的乌代·鲁达拉朱将接替卡蒂，领导公司整体算力组织。（新浪财经）</p>\n  <p><strong>Meta推出AI工具，允许用户自主定制Facebook信息流</strong></p>\n  <p>Meta平台正在Facebook上推出一系列AI驱动的自定义工具，用户可以用自然语言直接向算法说明自己希望在信息流和Reels短视频中看到的内容。用户可通过帖子上的三点菜单访问全新的“你的算法”功能，点击“感兴趣”或“不感兴趣”选项后，系统会弹出后续问题收集更细化的偏好信息。该功能由大语言模型提供技术支持，可识别并处理自由输入文本中的用户意图与上下文信息。（财联社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>A股三大指数集体收跌，全市场近4500股下跌</strong></p>\n  <p>36氪获悉，10月14日，A股三大指数集体收跌，沪指跌0.88%，深成指跌1.97%，创业板指跌3.1%；算力股大跌，粤芯半导体跌超11%，天孚通信跌超7%，中际旭创、新易盛、工业富联跌超5%；油气、煤炭板块领涨，安泰集团涨停，晋控煤业涨超5%，中国海油涨超4%，中国石化涨超3%；短剧游戏概念走强，慈文传媒、掌阅科技等多股涨停；全市场近4500股下跌。</p>\n  <p><strong>田柯宇自述字节模型投毒是朴素正义，前同事万字长文提醒投资人审慎</strong></p>\n  <p>10月13日，前字节实习生田柯宇在播客节目中，讲述2024年模型投毒事件，称因看不惯新来实习生随意关停他人程序、领导未干预，便“以暴制暴”编写程序终止对方任务。播客播出后，其前同事发布上万字报告，指出其表述与事实不符，提醒投资人审慎核查，田柯宇暂未回应。田柯宇新AI实验室拿到近3000万美元融资，投后估值2亿美元。此前一审判决田柯宇赔偿字节50万元并退还实习薪资，字节称网传千万美元损失说法存在夸大。（界面新闻）</p>\n  <p><strong>百果园被曝2年亏7亿，两年净关店超1600家</strong></p>\n  <p>“百果园2年亏掉7个亿”话题登上微博热搜，阅读量近8000万。2024至2025年，百果园累计亏损超7亿元，净关闭1625家低效门店，门店总数从峰值6093家缩减至4468家，加盟收入大幅下滑。此前品牌因“不会迎合消费者、坚持高品质高价”言论引发巨大争议，拖累股价。2025下半年百果园调整策略开启促销，2026上半年实现扭亏。10月14日，百果园股价1.62港元，总市值31.69亿港元。（界面新闻）</p>\n  <p><strong>绿泡泡短剧可查看朋友在看剧目</strong></p>\n  <p>近日，腾讯低调上线绿泡泡短剧，主打“免费好剧，一点就看”。绿泡泡并非独立APP，而是镶嵌在微信里的一个小程序，对比红果短剧，绿泡泡社交属性更重。点开程序发现，除了常规排行榜，首页还有“朋友在看”的短剧推荐，以及标注“北京的朋友都在看”的地区热门榜。腾讯方面表示，为提供个性化内容，会收集用户的浏览、观看、分享、点赞、评论、收藏等记录，以及朋友看过的剧目。经过程序分析后，平台会预测用户的偏好，朋友在看什么，直接影响给相关用户推什么。（北京日报、天眼查）</p>\n  <p><strong>Netflix将裁员约1000人，占员工总数的6%</strong></p>\n  <p>Netflix周三表示将裁员约6%，即约1000名员工。此次裁员将主要影响产品、技术、法律和人力资源团队。（新浪财经）</p>\n  <p><strong>茶百道，遭多个指数剔除&nbsp;</strong></p>\n  <p>10月14日晚间，恒生指数公司发布公告称，茶百道于香港联合交易所上市之股份受监管机构调查而停牌，其公司股份将会从恒生指数系列中剔除。茶百道将于2026年10月22日（星期四）开市前调整为系统最低价格（即0.0001港元）并用作当天指数计算，并于当天收市后以0.0001港元从下列指数中剔除，下述变动将于2026年10月23日（星期五）起生效。（第一财经）</p>\n  <p><strong>苹果iPhone Duo完成大模型备案，Apple智能、通义千问等现身</strong></p>\n  <p>工信部电信设备进网许可信息显示，苹果iPhone Duo折叠屏手机国行版（型号A3721）在今年9月2日获得试用批文许可证后，于9月29日完成换证，新增了所搭载大模型的备案编号。该设备搭载的大模型备案编号为：Shanghai - AppleZhiNeng - 202506160057、Shanghai - TongYiWanXiang - 202410090024、ZheJiang-TongYiQianWen - 20230901，分别对应Apple智能、通义万象、通义千问。（界面新闻）</p>\n  <p><strong>OpenAI办公室发现隐藏录音设备，涉事员工被捕</strong></p>\n  <p>《科创板日报》14日讯，OpenAI在社交平台发文表示，公司在一间办公室内发现一台精密录音设备。公司借助自身模型对该设备及其来源进行分析，确认该设备系一名员工于数日前安装。OpenAI表示，公司已将此事移交美国联邦调查局（FBI），涉事员工目前已被逮捕，相关调查仍在进行中。目前尚无证据表明该人员曾不当访问或外泄模型权重、源代码或客户数据。涉事员工已被解雇。（科创板日报）</p>\n  <p><strong>宝能集团及姚振华等被执行20.5亿</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，深圳市宝能投资集团有限公司及其法定代表人姚振华等新增一则被执行人信息，执行标的20.5亿元人民币，执行法院为江西省南昌市中级人民法院。该公司成立于2000年3月，注册资本约3亿人民币，经营范围包括投资兴办实业，投资文化旅游产业，建筑、装饰材料的购销及其它国内贸易等，由姚振华、深圳赛康资产管理有限公司共同持股。</p>\n  <p><strong>央行：前三季度人民币贷款增11.52万亿，社融增量27.46万亿元</strong></p>\n  <p>36氪获悉，10月14日央行发布金融统计数据。2026年前三季度人民币贷款增加11.52万亿元。分部门看，住户贷款减少1.03万亿元；企（事）业单位贷款增加12.55万亿元；非银行业金融机构贷款减少5865亿元。</p>\n  <p>初步统计，前三季度社会融资规模增量累计27.46万亿元，比上年同期少2.63万亿元。分项来看，对实体经济发放的人民币贷款、政府债券净融资同比有所减少；企业债券净融资、非金融企业境内股票融资同比实现多增。</p>\n  <p><strong>HYROX2026上海站赛事宣布延期</strong></p>\n  <p>10月14日，HYROX官方发布公告，受场地突发安排问题影响，原定10月31日至11月1日举办的HYROX上海站延期，赛事地点保持不变。已购买的参赛、观赛名额自动顺延至新档期；无法参加延期赛事的用户，可申请全额退款。（界面新闻）</p>\n  <p><strong>曝特斯拉Optimus人形机器人即将量产，供应链加速落地</strong></p>\n  <p>10月12日，特斯拉机器人一级供应商新剑传动披露，特斯拉人形机器人设计方案接近定型，即将进入量产周期。特斯拉第三代Optimus为首款量产人形机器人，计划2026年7-8月投产，弗里蒙特工厂改造原有产线用于生产，长期目标年产100万台，德州超级工厂远期规划年产千万台。目前Optimus已在工厂内部开展AI训练。特斯拉团队近期赴长三角多家零部件供应商审厂，相关企业已拿到订单。马斯克坦言，人形机器人是特斯拉量产难度最高产品，大量零部件无成熟供应链，机械手结构仍是制造瓶颈。（界面新闻）</p>\n  <p><strong>德国拟2027年开征含糖饮料税</strong></p>\n  <p>德国一项有关征收含糖饮料税的方案已被提交至内阁层面，如果获得批准，德国将于2027年7月1日起对含糖饮料征税，但对规模较小的生产商予以免税。据德国方面消息，根据该方案，每100毫升含糖量5克及以上的含糖饮料将按每升26欧分的税率征税；每100毫升含糖量达8克及以上时，税率提高至每升32欧分。使用甜味剂的饮料和纯果汁不在此征税范围内，无醇啤酒、无醇葡萄酒以及以大豆、坚果、种子或谷物为原料制成的饮料同样免税。相关消息还称，德国政府有望14日批准该征税方案。这项税收预计将在2027年和2028年分别带来约6.9亿欧元和9.25亿欧元的财政收入。（央视新闻）</p>\n  <p><strong>韩国40多岁借款人中，超三分之一将年收入四成及以上用于还贷&nbsp;</strong></p>\n  <p>当地时间14日，韩国央行提交国会的数据显示，截至今年二季度，韩国40至49岁贷款借款人里34%人群债务偿还比率DSR≥40%，还贷负担为各年龄段最高，其余年龄段该占比均未超30%。从收入分层看，收入最低30%的借款人中40.4%的人年度还贷支出占收入四成以上，高低收入群体还贷压力差距持续拉大。该年龄段背负高额债务，主要源于购房、子女教育集中支出。测算显示，利率上行将推高整体利息负担，利率每升0.25个百分点，全年利息合计增加3.4万亿韩元。（财联社）</p>\n  <p><strong>爆单导致小程序崩溃后，霸��茶姬发补偿券了</strong></p>\n  <p>10月14日，多名网友收到霸王茶姬补偿通知。此前品牌为庆祝郑钦文中网夺冠推出全品类买一送一活动，订单暴增引发小程序崩溃。对于活动中订单未正常完成的顾客，系统自动发放一张全品类买一送一券。线上客服表示，若订单未被系统识别，用户可填写登记表，经审核符合条件后，约7个工作日内完成补发。（第一财经）</p>\n  <p><strong>游戏机价格疯涨&nbsp;</strong></p>\n  <p>10月14日，交易平台数据显示PS5 Pro港版数字版市场价已突破万元，部分经销商报价达1.4万元，对比官方建议零售价溢价超150%。得物App成交价半年多涨幅约58.7%。涨价主因是AI数据中心抢占内存产能，消费电子存储芯片供给压缩，索尼微软任天堂均上调主机售价。索尼预计PS5 Pro供货紧张持续至2027年第一季度。加上《GTA6》11月19日发售带动需求，PS5 Pro多国售罄，国内官方渠道持续断货。分析师认为内存荒或将维持数年，主机高价趋势短期难逆转。（第一财经）</p>\n  <p><strong>萨莉亚将在日本涨价</strong></p>\n  <p>10月14日，萨莉亚发布涨价声明。受原材料、能源成本持续上涨影响，公司表示已难以消化成本压力。为维持产品品质与稳定供应，日本门店自10月29日起，菜单整体均价上调6%。例如含税400日元的菜品，调价后为420至430日元。（界面新闻）</p>\n  <p><strong>华尔街大空头警示美股：现40年未见极端市场失衡</strong></p>\n  <p>华尔街知名大空头大卫·罗森伯格发声警示美股风险，称当前市场估值、杠杆率、投资者仓位，出现其从业40年来罕见的极端失衡现象。他表示，本轮牛市对AI行情的依赖程度，已经超过互联网泡沫时期。其管理产品正在增持美债与海外股票，提示美国经济基本面存在隐忧，担忧熊市到来会冲击依赖投资收益生活的普通投资者。罗森伯格曾在2008年金融危机前预判美国房地产泡沫破裂。（财联社）</p>\n  <p><strong>美股三大指数集体收跌，苹果市值站上5万亿美元</strong></p>\n  <p>36氪获悉，10月14日收盘，美股三大指数收盘集体下跌，道指跌0.09%，纳指跌1.88%，标普500指数跌1.11%。大型科技股多数下跌，甲骨文跌超8%，Meta、英伟达跌超3%，特斯拉跌超2%，微软、亚马逊、谷歌跌超1%；苹果涨0.5%，以5.01万亿美元的市值收盘，成为继英伟达之后第二家市值突破5万亿美元的上市公司‌；奈飞涨0.16%。热门中概股普跌，哔哩哔哩、蔚来、理想汽车、爱奇艺、富途控股跌超4%，小鹏集团、老虎证券跌超3%，百度跌超2%。</p>\n  <p><strong>韩国金融部门：16家金融机构遭黑客攻击，10万条信息外泄</strong></p>\n  <p>韩国金融部门10月14日公布金融机构遭黑事件调查结果显示，迄今共有16家金融机构遭受利用人工智能的黑客攻击，造成约10万条个人信息泄露，包括姓名、电话号码、身份证号码和电子邮箱地址等。韩国金融部门表示，在泄露的信息中，尚未发现如银行账号和银行卡号等可被直接用于非法支付的信息。（界面新闻）</p>\n  <h2>上市进行时</h2>\n  <p><strong>信得科技递表港交所</strong></p>\n  <p>36氪获悉，据港交所文件，山东信得科技股份有限公司向港交所提交上市申请书，独家保荐人为中泰国际。</p>\n  <p><strong>硅光集成芯片厂商羲禾科技科创板IPO过会</strong></p>\n  <p>10月14日，上交所上市审核委员会召开2026年第52次上市审核委员会审议会议，审议结果显示，上海羲禾科技股份有限公司首发符合发行条件、上市条件和信息披露要求。（财联社）</p>\n  <h2>投融资</h2>\n  <p><strong>“帝尔博格”完成亿元级Pre-A+轮融资</strong></p>\n  <p>36氪获悉，近日，重工业具身智能机器人企业“帝尔博格”完成亿元级Pre-A+轮融资，本轮投资方包括复星锐正、清石资管、正熙资本、西高投、博众精工、苏创投等机构。融资资金将主要用于重工通用具身核心技术研发、机器人产品迭代及市场拓展。</p>\n  <p><strong>“云蝶科技”完成数亿元B+轮系列融资</strong></p>\n  <p>36氪获悉，近日，云蝶科技宣布完成数亿元B+轮系列融资。本轮由StellarS Capital、亚洲联合基建、长浙投资、图灵量子等机构和个人联合投资。资金将主要用于具身智能核心技术迭代与真实场景规模化落地，重点提升机器人持续工作的可靠性、跨场景部署效率及长期服务能力。</p>\n  <h2>大公司财报</h2>\n  <p><strong>Anthropic据悉第三季度营收跃升至168亿美元</strong></p>\n  <p>10月15日消息，据报道，Anthropic告诉潜在投资者，其第三季度营收达到168亿美元。眼下这家人工智能模型开发商正在推进上市计划。Anthropic称，第三季度按调整后口径实现盈利。此前有消息称，Anthropic最早将于11月9日当周正式启动首次公开募股（IPO）推介，有望在感恩节前开始交易。预计Anthropic最迟将在年底前上市。（界面新闻）</p>\n  <p><strong>阿斯麦预计第四季度营收为142亿至152亿欧元</strong></p>\n  <p>阿斯麦第三季度净销售额为116.6亿欧元，预估为117亿欧元；净利润49.60亿欧元，上年同期为21.25亿欧元，预估为41.65亿欧元。阿斯麦预计第四季度营收为142亿至152亿欧元，此前市场预估为141.89亿欧元。（财联社）</p>\n  <p><strong>东方锆业：预计2026年前三季度净利润同比增长261.93%-365.34%</strong></p>\n  <p>36氪获悉，东方锆业公告，预计2026年前三季度归属于上市公司股东的净利润为1.4亿元-1.8亿元，上年同期为3868.12万元，同比增长261.93%~365.34%；扣除非经常性损益后的净利润为1.4亿元-1.8亿元，上年同期为3849.99万元，同比增长263.64%~367.53%。业绩增长主要受下游需求增长、产品量价齐升、降本增效及产能利用率提升等因素带动。</p>\n  <p><strong>嘉元科技：预计2026年前三季度净利润同比增长1196.60%-1318.92%</strong></p>\n  <p>36氪获悉，嘉元科技公告，预计2026年前三季度营业收入125亿元到132亿元，同比增长91.13%到101.83%；归母净利润5.3亿元到5.8亿元，同比增长1196.60%到1318.92%；扣非净利润3.6亿元到3.9亿元，同比增长3065.71%到3329.52%。2025年同期归母净利润4087.6万元、扣非净利润1137.19万元。本次业绩预告未经注册会计师审计。</p>\n  <h2>酷产品</h2>\n  <p><strong>大模型原生智能体手机STEPX Neo发布，软硬模全栈价3999元</strong></p>\n  <p>36氪获悉，10月13日，阶跃终端正式发布旗下首款大模型原生智能体手机STEPX Neo先行版，并首创软硬模全栈价模式，将Step系列模型、系统与工具，以及手机硬件整合定价，全栈价为3999元。</p>\n  <p><strong>Apple Watch推出睡眠呼吸暂停迹象提示功能</strong></p>\n  <p>苹果在中国大陆推出一项Apple Watch的新功能，以帮助用户识别中度至重度睡眠呼吸暂停迹象。用户可以在iPhone和iPad上的健康app中查看每晚的呼吸紊乱数据，这些数据会被分类为“上升”或“未上升”，并可按一个月、六个月或一年的时间段查看。（界面新闻）</p>\n  <h2>AI图谱</h2>\n  <p>AI蠕虫病毒即将到来，专盯着你家的电视盒感染。&nbsp;</p>\n  <p><strong>整理丨李琪</strong></p>",
+      "category": "tech",
+      "published_at": "2026-10-15T00:13:46+00:00",
+      "fetched_at": "2026-10-15T02:55:55.383898+00:00",
+      "fingerprint": "f32f6b4bb9aa6f21"
+    },
+    {
+      "source": "少数派",
+      "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验",
+      "url": "https://sspai.com/post/116109",
+      "summary": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...<a href=\"https://sspai.com/post/116109\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-14T03:57:01+00:00",
+      "fetched_at": "2026-10-15T02:55:54.228701+00:00",
+      "fingerprint": "afe7de4a9572d074"
+    },
+    {
+      "source": "少数派",
+      "title": "家中、这里、那里——Sonos Play 体验",
+      "url": "https://sspai.com/post/115382",
+      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...<a href=\"https://sspai.com/post/115382\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-14T04:10:30+00:00",
+      "fetched_at": "2026-10-15T02:55:54.228697+00:00",
+      "fingerprint": "2bb7a97fb83300f6"
+    },
+    {
+      "source": "少数派",
+      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+      "url": "https://sspai.com/post/115426",
+      "summary": "这些新技术将如何让我们的照片和视频更好？<a href=\"https://sspai.com/post/115426\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "fetched_at": "2026-10-15T02:55:54.228694+00:00",
+      "fingerprint": "b10d92c6ca5b728b"
+    },
+    {
+      "source": "少数派",
+      "title": "认知心理学背后的播客剪辑技巧",
+      "url": "https://sspai.com/post/114861",
+      "summary": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？<a href=\"https://sspai.com/post/114861\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-14T09:33:49+00:00",
+      "fetched_at": "2026-10-15T02:55:54.228690+00:00",
+      "fingerprint": "4d2d2aa625af3bfc"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+      "url": "https://sspai.com/post/116193",
+      "summary": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。<a href=\"https://sspai.com/post/116193\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-15T00:31:01+00:00",
+      "fetched_at": "2026-10-15T02:55:54.228681+00:00",
+      "fingerprint": "8977b4dd4f0c44e1"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6913 CNY ↑+0.43%",
+      "url": "https://www.frankfurter.app/2026-10-14?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-14</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6913 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0203 (+0.43%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-15T02:55:52.866566+00:00",
+      "fingerprint": "ebabf52b7217b212"
+    },
     {
       "source": "BBC World News",
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
@@ -1801,216 +2091,6 @@
       "published_at": null,
       "fetched_at": "2026-10-08T04:12:06.339080+00:00",
       "fingerprint": "d5694bbea48a5dfe"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
-      "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
-      "summary": "<p>Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again</p><p>As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a new alliance of armed groups in Tigray has been forcibly recruiting men and boys to its ranks.</p><p>Renewed conflict erupted on 23 September between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF), which rules the region, shattering the fragile <a href=\"https://www.theguardian.com/world/2022/nov/02/ethiopian-civil-war-parties-agree-truce-to-end-hostilities\">Pretoria peace agreement</a> signed between the two sides in November 2022.</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-06T05:00:02+00:00",
-      "fetched_at": "2026-10-07T03:59:04.448329+00:00",
-      "fingerprint": "416513099ba6cf83"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
-      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-      "summary": "<p>Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday</p><p>Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May.</p><p>This is the 17th outbreak of the highly infectious, often deadly disease in the DRC. As of 2 October, 4,082 people had died out of 8,463 confirmed cases in the country <a href=\"https://www.theguardian.com/global-development/2026/aug/21/ebola-outbreak-five-big-questions\">since the emergence</a> of the Bundibugyo strain of the Ebola virus, for which there is still no vaccine nor specific treatment.</p> <a href=\"https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-06T12:46:56+00:00",
-      "fetched_at": "2026-10-07T03:59:04.448322+00:00",
-      "fingerprint": "c692a64a3ecdefa3"
-    },
-    {
-      "source": "BBC World News",
-      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
-      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
-      "category": "politics",
-      "published_at": "2026-10-06T23:07:44+00:00",
-      "fetched_at": "2026-10-07T03:59:04.356797+00:00",
-      "fingerprint": "8b5259d28d6242c7"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Former German spy chief arrested for espionage and treason",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "category": "politics",
-      "published_at": "2026-10-06T10:05:42+00:00",
-      "fetched_at": "2026-10-07T03:59:04.356793+00:00",
-      "fingerprint": "9055e51399321492"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "category": "politics",
-      "published_at": "2026-10-06T18:03:19+00:00",
-      "fetched_at": "2026-10-07T03:59:04.356790+00:00",
-      "fingerprint": "92b454d89d3dd6bb"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-      "category": "politics",
-      "published_at": "2026-10-07T00:56:59+00:00",
-      "fetched_at": "2026-10-07T03:59:04.356783+00:00",
-      "fingerprint": "5ad65a9ec17d95c7"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "找工作？面試中那個你不必回答的問題",
-      "url": "https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "如果在求職面試中被問到目前工作的薪水多少，你該如何應對呢？",
-      "category": "politics",
-      "published_at": "2026-10-07T00:26:11+00:00",
-      "fetched_at": "2026-10-07T03:59:04.292196+00:00",
-      "fingerprint": "3b75a7303a5f6b25"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "AI模型會成為年輕人身體形象的下一個重大威脅嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "AI人工智慧模型在廣告和社群媒體及廣告領域的興起，是否會損害年輕人的身體自信？",
-      "category": "politics",
-      "published_at": "2026-10-07T00:21:14+00:00",
-      "fetched_at": "2026-10-07T03:59:04.292191+00:00",
-      "fingerprint": "f79b4a3890098dc8"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美國圖書館為何正迅速下架眾多圖書？",
-      "url": "https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美國公共圖書館已成為一場激烈意識形態衝突的戰場，這場衝突的焦點在於學生應該能夠獲得哪些書籍。",
-      "category": "politics",
-      "published_at": "2026-10-06T06:31:55+00:00",
-      "fetched_at": "2026-10-07T03:59:04.292187+00:00",
-      "fingerprint": "3d503a550f93b709"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "俄羅斯鼠疫實驗室人員死亡 美方稱「密切關注」",
-      "url": "https://www.bbc.com/zhongwen/articles/cqx28nw0kn47o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "鼠疫桿菌，又稱耶爾森氏鼠疫桿菌（Yersinia pestis）曾在 14 世紀導致歐洲一半人口死亡，當時被稱為黑死病。最近而該地區的囓齒動物（如土撥鼠）中就發現了這種細菌。",
-      "category": "politics",
-      "published_at": "2026-10-06T04:41:10+00:00",
-      "fetched_at": "2026-10-07T03:59:04.292183+00:00",
-      "fingerprint": "449ee26b8af5e086"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-07T03:59:04.119465+00:00",
-      "fingerprint": "304536ffab5ad423"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-07T03:59:04.119408+00:00",
-      "fingerprint": "f6e419d4eb703602"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-07T03:59:04.119337+00:00",
-      "fingerprint": "0d2b759c8ff8305d"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-07T03:59:04.119276+00:00",
-      "fingerprint": "734121fbebcb0ae1"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-07T03:59:04.119201+00:00",
-      "fingerprint": "270d2009beef3a33"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-      "summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-06T21:39:53+00:00",
-      "fetched_at": "2026-10-07T03:59:04.006321+00:00",
-      "fingerprint": "68edc90128174ad9"
-    },
-    {
-      "source": "The Verge",
-      "title": "The best robot vacuum and mop deals during October Prime Day",
-      "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
-      "summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some of our favorite models are [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-06T22:00:00+00:00",
-      "fetched_at": "2026-10-07T03:59:04.006318+00:00",
-      "fingerprint": "fb2d7b524dfbb3e8"
-    },
-    {
-      "source": "The Verge",
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
-      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-      "summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's brief teaser was actually about Xbox managing to land a deal for the exclusive game [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-06T22:12:27+00:00",
-      "fetched_at": "2026-10-07T03:59:04.006314+00:00",
-      "fingerprint": "dce7044c145632e8"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-06T23:26:38+00:00",
-      "fetched_at": "2026-10-07T03:59:04.006308+00:00",
-      "fingerprint": "0e401bad0dd434d6"
-    },
-    {
-      "source": "少数派",
-      "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
-      "url": "https://sspai.com/post/115416",
-      "summary": "密码管理服务的数据，当然要掌握在自己手里。<a href=\"https://sspai.com/post/115416\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-06T10:00:00+00:00",
-      "fetched_at": "2026-10-07T03:59:01.914369+00:00",
-      "fingerprint": "ebccc856520c6a8c"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6812 CNY ↑+0.31%",
-      "url": "https://www.frankfurter.app/2026-10-06?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-10-06</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6812 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0146 (+0.31%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-10-07T03:59:00.829655+00:00",
-      "fingerprint": "ce5341b34c7d2d5c"
     }
   ]
 }
