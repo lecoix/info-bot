@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-10-15T02:55:56.309156+00:00",
-  "count": 209,
+  "updated_at": "2026-10-16T02:53:31.517484+00:00",
+  "count": 215,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
+      "summary": "<p>At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports</p><p>Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a <a href=\"https://www.hrw.org/news/2026/10/12/senegal-brutal-crackdown-violates-lgbt-peoples-rights\">new report</a>.</p><p>More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, <a href=\"https://www.hivjustice.net/cases/senegal-crackdown-on-lgbtq-people-intensifies-with-multiple-arrests/\">according to HIV Justice Network</a>, an organisation quoted in the Human Rights Watch (HRW) report. Among these, at least 84 were charged with “voluntary HIV transmission”, solely on the basis of their HIV status.</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-15T08:00:25+00:00",
+      "fetched_at": "2026-10-16T02:53:31.512264+00:00",
+      "fingerprint": "e93b074ca9083cba"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "category": "politics",
+      "published_at": "2026-10-15T16:50:18+00:00",
+      "fetched_at": "2026-10-16T02:53:31.337205+00:00",
+      "fingerprint": "64e921aaa04cd034"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "category": "politics",
+      "published_at": "2026-10-15T17:47:22+00:00",
+      "fetched_at": "2026-10-16T02:53:31.337198+00:00",
+      "fingerprint": "89e7ce0e0402bd6a"
+    },
+    {
+      "source": "BBC World News",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "category": "politics",
+      "published_at": "2026-10-16T01:36:45+00:00",
+      "fetched_at": "2026-10-16T02:53:31.337191+00:00",
+      "fingerprint": "fae2286372c27358"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+      "category": "politics",
+      "published_at": "2026-10-16T02:32:49+00:00",
+      "fetched_at": "2026-10-16T02:53:31.337181+00:00",
+      "fingerprint": "ef941bebd76cda1b"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "減肥針「微劑量」用藥漸成風潮：注射少量真的安全嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckp8gd38100ro/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "一些人正以小劑量方式使用「胰妥讚」、「週纖達」等GLP-1類藥物。使用者表示，這種方法既能幫助減重，又能減少副作用和節省開支。不過，專家指出，目前幾乎沒研究證據支持這種做法，而且可能存在危險。",
+      "category": "politics",
+      "published_at": "2026-10-15T06:09:59+00:00",
+      "fetched_at": "2026-10-16T02:53:31.236186+00:00",
+      "fingerprint": "7673e2d42b979bbb"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "連接中國丹東與朝鮮新義州的新鴨綠江大橋建成12年後正式通車。大橋此前遭長期閒置，被觀察人士視為中朝關係起伏的一個象徵。",
+      "category": "politics",
+      "published_at": "2026-10-15T11:39:24+00:00",
+      "fetched_at": "2026-10-16T02:53:31.236180+00:00",
+      "fingerprint": "010dc4677c88b34c"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「日子難熬」：美國人苦苦應對不斷上漲的通貨膨脹",
+      "url": "https://www.bbc.com/zhongwen/articles/c6vgj9r0k18eo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國通膨持續攀升，本月漲幅超乎預期。以下是一些人如何應對的方法。",
+      "category": "politics",
+      "published_at": "2026-10-16T00:27:29+00:00",
+      "fetched_at": "2026-10-16T02:53:31.236174+00:00",
+      "fingerprint": "6024e1184edc58ac"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "特朗普叫停網上直播處決胡德堡槍擊案槍手",
+      "url": "https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "特朗普表示，有些人「寧願不觀看」對尼達爾·哈桑的處決。這將是60多年來首次執行軍事死刑槍決。",
+      "category": "politics",
+      "published_at": "2026-10-15T16:15:18+00:00",
+      "fetched_at": "2026-10-16T02:53:31.236167+00:00",
+      "fingerprint": "a059c7faa6027cce"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國製造的玩具如何從工廠到美國？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "聖誕節臨近，我們追蹤兒童玩具從中國工廠到美國貨架的整個過程。",
+      "category": "politics",
+      "published_at": "2026-10-16T00:27:24+00:00",
+      "fetched_at": "2026-10-16T02:53:31.236157+00:00",
+      "fingerprint": "904bb526e85beff4"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "url": "https://github.com/Saffsanity/sill",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-16T02:53:31.070593+00:00",
+      "fingerprint": "2f246ab8ad92798d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-16T02:53:31.070468+00:00",
+      "fingerprint": "c304254f82ae473d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-16T02:53:31.070309+00:00",
+      "fingerprint": "b89a7f41ec955d31"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-16T02:53:31.070176+00:00",
+      "fingerprint": "7e2b5dc0fda27215"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-16T02:53:31.070026+00:00",
+      "fingerprint": "499fcbd081b8b35b"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-15T22:35:55+00:00",
+      "fetched_at": "2026-10-16T02:53:30.791322+00:00",
+      "fingerprint": "c462dfdce3bb5a72"
+    },
+    {
+      "source": "The Verge",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-15T22:43:23+00:00",
+      "fetched_at": "2026-10-16T02:53:30.791316+00:00",
+      "fingerprint": "e07170025272d6f1"
+    },
+    {
+      "source": "The Verge",
+      "title": "Steam can now show game achievements in separate ‘sets’",
+      "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+      "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse what you have unlocked afterward, Steam will [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-15T23:18:28+00:00",
+      "fetched_at": "2026-10-16T02:53:30.791310+00:00",
+      "fingerprint": "b4e6b604d0b97688"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-16T01:28:27+00:00",
+      "fetched_at": "2026-10-16T02:53:30.791299+00:00",
+      "fingerprint": "11d4fc51a8b79e9c"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "清华、西工大系团队创业做智能电动游艇，九合、初心等联合出手｜硬氪首发",
+      "url": "https://36kr.com/p/4019684113371008?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，水面智能消费硬件品牌智能电动游艇公司「MIRAVA」近日完成近5000万元天使轮融资，本轮由九合创投领投，初心资本、Eversnow跟投。资金将重点投入核心技术研发迭代，推进产线量产建设、以保障首批终端用户订单交付，并搭建欧洲本地化渠道及服务体系，加快海外市场适配与商业化拓展。</p>\n  <p>MIRAVA首发产品瞄准消费级智能电动游艇品类，团队致力于将船舶智能驾驶技术与休闲游艇工业设计深度融合，面向全球市场提供智能化水上休闲装备。核心团队成员均来自华为、商汤等头部科技大厂及清华大学、西北工业大学等知名高校，覆盖智能算法、船载硬件研发、高端工业设计、游艇工艺制造、海外渠道销售等领域，具备了科技研发、游艇工艺、全球化市场交叉的复合型能力底座。</p>\n  <p>其首款智能电动游艇M800E已于2026年9月在戛纳游艇节完成欧洲发布，计划2027年1月登陆杜塞尔多夫国际船艇展，首批创始用户版本将于明年中旬正式交付。目前，产品已完成研发打磨，进入小批量生产交付阶段。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261014/v2_869d23d0592c4609a9d21ec63366377e@6022551_oswg3611919oswg1974oswg1100_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">MIRAVA首款智能电动游艇M800E（图源/企业）</p>\n  <p>休闲游艇行业历经数十年发展，长期未能迎来本质性的产品革新。</p>\n  <p>国际海事工业协会ICOMIA行业报告显示，全球休闲船艇保有量约3300万艘。其中，美国市场占比接近半数，超1100万艘休闲游艇服务于家庭娱乐、垂钓与户外活动，平均每10个家庭就拥有一艘游艇。而在欧洲，北欧水上休闲氛围尤为浓厚，挪威、芬兰的人均船艇保有量位居全球第一梯队。</p>\n  <p>可以说，欧美的水上休闲活动已经同滑雪、露营、房车旅行一样，成为了人们成熟普及的户外生活方式。</p>\n  <p>但体量可观的行业，产品形态却长期固守机械时代。传统游艇购置门槛高昂、驾驶操作复杂，后期维护成本高，上手学习曲线十分陡峭。同时行业垂直分化严重，竞速钓鱼艇、尾波造浪艇、大空间浮筒船等不同船型，大多只服务资深发烧友的单一细分场景，普通新手用户往往望而却步。</p>\n  <p>“市面上绝大多数传统游艇都是围绕硬核发烧友所开发的，钓鱼艇主打海钓、造浪艇专攻尾波冲浪、浮筒船侧重静态水上聚会，船型功能高度定向。用户想要体验多种玩法往往需要多船购置，成本门槛很高。”MIRAVA联合创始人池雨豪告诉硬氪，“但更多用户希望在一艘船上体验更多游玩场景，而不是为某项极限爱好专门买单。”</p>\n  <p>这正是MIRAVA所瞄准的赛道，不是做一艘更复杂的传统游艇，而是用智能硬件的消费逻辑，重新定义“怎么玩水”。</p>\n  <p>传统游艇遵循“人围着船转”的驾驶逻辑，用户想要游泳、潜水或是玩桨板，船只只能停靠岸边或者下锚，人下水之后船便无法移动。如果想玩桨板或潜水，人只能围绕船的范围活动、不能远离；一旦要探索更远的海域，则必须有人在船艇守着，或回到船上去往下个地点。</p>\n  <p>这套看似合乎常理的模式，恰恰制约了水上游玩的体验。“用户期待的是船围着人转，人在水中玩乐，船就在附近随行，随时可以响应需求。但传统游艇依赖人为操控，一旦使用者下水，船只便失去控制。”池雨豪说。</p>\n  <p>要打破这层绑定，MIRAVA给出的解决方案是，将智能驾驶从辅助驾驶升级为场景化自动跟随，让游艇在无人操作的情况下也能自主感知用户位置并保持跟随。</p>\n  <p>MIRAVA团队采用了智能手环作为整套方案的感知交互终端。手环不仅充当定位信标，同时支持NFC一碰解锁船体，兼顾日常登船的便捷交互。</p>\n  <p>当用户佩戴手环下水，开展游泳、桨板滑行、潜水等活动时，游艇依托手环信号持续解析用户实时位置，做到人游向哪里，船就跟护到哪里。针对多人结伴出行的现实场景，系统仅响应佩戴手环用户的跟随指令，船上其余人员不会干扰船体运行逻辑。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_635677b0bf514b08844d43e4cd5154ee@6022551_oswg5774674oswg2560oswg1440_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">尾波冲浪场景（图源/企业）</p>\n  <p>“我们并不是依靠智能驾驶剥夺开船的乐趣，而是把选择权交到用户手上。让用户想驾驶的时候可以手动操控，不想操作的时候就交给智能化驾驶平台来完成。”池雨豪表示。</p>\n  <p>除了首创的智能跟随功能外，MIRAVA对产品结构也做了新的尝试，由一艘游艇承载更多交互场景。</p>\n  <p>传统游艇的产品逻辑是“一个品类对应一种活动”。钓鱼艇只适合钓鱼，造浪艇只适合冲浪，浮筒船只适合家庭聚会。用户如果想体验多种玩法，要么购买多艘船，要么在功能上妥协。而MIRAVA团队提出，通过变换船体空间结构，以延展游艇的应用场景。</p>\n  <p>船体设计上，8米级平台采用对座式大空间布局，可容纳8至10人同时出行。围绕家庭聚会、休闲巡航等高频场景，配置了独立卫浴、船载冰箱与6组高低音频喇叭，满足多人出行中的舒适性与娱乐需求。</p>\n  <p>其中最具差异化的是子母船模式。MIRAVA游艇尾部采用了尾部翻转模块与A柱吊床设计，尾部模块可在行驶、垂钓、聚会与子船娱乐四种模式间切换，A柱则可展开为吊床，在不增加船体尺寸的前提下，将船体从单一的航行空间拓展为多功能的户外休闲平台。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261014/v2_eda9b9bdb49d47c78a37327036eeda83@6022551_oswg2754358oswg1882oswg1038_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">多功能户外休闲平台（图源/企业）</p>\n  <p>在子船模式中，游艇尾部拓展模块自带动力，可以变换解耦成为可自主驾驶的子艇。当用户需要登岛、靠近礁石区或浅滩时，大船不便停靠，即可释放子船完成接驳与近岸探索，突破传统游艇受吃水、靠泊条件限制的场景边界。</p>\n  <p>过去数十年里，硬件参数是游艇行业通行的竞争标尺，马力、船体尺寸、最高航速，是经销商与用户评判一款产品的默认语言。绝大多数新品迭代，都是在这套成熟体系内做性能优化。“但今天的用户需求已经明显改变，行业增长的驱动力来自新一代年轻人群，对游艇的期待是家庭、朋友出海而非商务接待，更看重多功能性、易用性和与海洋的亲近感。”</p>\n  <p>池雨豪指出，这些用户与传统游艇群体的核心差异在于，“他们不是‘玩船的人’，而是‘玩水的人’；用户要的不是一台性能机器，而是一个能承载多种水上生活方式的智能平台。我们产品要做的，正是瞄准这一需求断层，通过智能化功能降低用户使用门槛，重新定义水上活动的自由度。”</p>\n  <p>市场策略方面，MIRAVA将以欧洲作为首发阵地，一方面欧洲拥有极强的游艇品牌圈层势能，北欧、地中海区域水上休闲消费根基深厚，本地用户对智能化创新体验具备更高接受度；同时，欧洲游艇消费正在发生结构性迁移，需求从过去偏向商务接待，逐步转向家庭日常水上休闲，这也为MIRAVA新品类定位提供了适宜的用户土壤。</p>\n  <p>MIRAVA团队透露，公司计划于明年完成首批产品交付，实现区域市场与品牌心智验证后，再逐步切入中东、北美等核心市场。</p>\n  <p><strong>以下为硬氪与MIRAVA联合创始人池雨豪的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：MIRAVA目标用户是“玩水的人”，而不是“玩船的人”，这个用户定位如何影响你们的产品定义？</strong></p>\n  <p><strong>池雨豪：</strong>传统游艇服务的是“会玩船的人”，这类用户追求极致性能，也愿意投入大量时间学习驾船、设备维护与泊船操作。但水上消费市场里，体量更为庞大的其实是“玩水的人”；他们的核心诉求是游泳、潜水、陪伴孩童、与亲友聚会，并不希望被繁复的船只操作所束缚。</p>\n  <p>两类人群的底层需求存在本质差异。前者以船为核心、追求操控感和性能边界，后者以水上体验为核心、船只是承载活动的平台。</p>\n  <p>MIRAVA产品定义围绕后者展开，切入点是Freedom，用户不需要把时间耗费在驾驶、停船、保持船位这些操作上，可以真正去玩。智能驾驶不是剥夺开船的乐趣，而是给你选择权，想开的时候自己开，不想开的时候交给船。这也决定了我们不会在单一性能维度上追求极致，而是“既要又要还要”，把每方面性能体验都很好，能满足70%到80%用户的需求。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261014/v2_452c91fe8a674389a51e27302f0010fa@6022551_oswg3115544oswg1868oswg1036_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">MIRAVA自动驾驶系统（图源/企业）</p>\n  <p>这背后源于团队对当代消费用户行为的底层判断，当下可供选择的休闲娱乐日益丰富，外部需求刺激多元，多数普通用户偏向轻量化、浅参与式的休闲体验，深度硬核发烧友并非品牌的目标客群。</p>\n  <p>不少高客单价休闲产品会形成“拥有即负担”的消费困境，用户完成购置后，会产生必须高频使用的心理压力，担心设备闲置造成投入浪费，被迫为产品消耗时间精力，最终往往短暂体验后便彻底搁置，自行车、户外装备均普遍存在该现象，游艇品类亦是同理。MIRAVA团队希望做的，正是希望消解这种被硬件裹挟的消费负担，让用户无需为船只本身承担额外的心理约束。</p>\n  <p><strong>硬氪：游艇是一个进入门槛高、周期长的品类，为什么MIRAVA选择从这个场景切入？作为新品牌，你们怎么定义自己的品类定位？</strong></p>\n  <p><strong>池雨豪： </strong>判断切入路径有两种，从下往上做智能配件，再逐步升级；或者从上往下，直接做高价值产品，建立品牌认知。我们选择了后者。</p>\n  <p>游艇项目资金投入大、研发周期漫长，市场切入门槛很高，但高准入门槛本身也会转化为竞争壁垒，对MIRAVA构成挑战的条件，同样会阻挡多数外部竞争者入局。我们团队在船舶智能驾驶、供应链管理、整机制造领域有多年的技术工程沉淀，这些能力可以复用到消费游艇的产品开发当中，这也是我们敢进入这条重资产赛道的基础。</p>\n  <p>更重要的是，游艇是极少有的、能同时承载品牌溢价和智能化体验的消费品类。一旦在这个品类里建立认知，向下延展的空间会非常大。</p>\n  <p>高客单价产品有个特点，用户第一反应是归类，然而一旦被归入已有品类，就必然会被放到固有价值链体系里比较。在别人熟悉的体系里竞争，新品牌很难赢。</p>\n  <p>MIRAVA核心策略是创造一个全新的品类，做Next Generation Smart Boat。不是电动游艇，不是智能游艇，而是一个此前不存在的品类。这就像特斯拉刚出现时，人们无法拿它去跟任何已有车型直接对比，因为它代表了一种完全不同的产品逻辑。</p>\n  <p>只有当用户用一套新的标准来审视你，你才有机会摆脱已有的价值锚定。</p>",
+      "category": "tech",
+      "published_at": "2026-10-15T05:47:10+00:00",
+      "fetched_at": "2026-10-16T02:53:30.599052+00:00",
+      "fingerprint": "8e96993c1dac2eac"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "在高价值场景跑通技术与落地双闭环，若愚科技完成亿元级Pre-A轮融资",
+      "url": "https://36kr.com/p/4026486163984519?f=rss",
+      "summary": "<p>36氪获悉，机器人大脑公司深圳若愚科技有限公司（下称“若愚科技”）近日完成亿元级 Pre-A 轮融资，本轮信维通信领投，金木资本、勤道资本、黄海资本、中创资本跟投。至此，若愚科技自 2023 年成立以来累计融资规模已达数亿元。</p>\n  <p>对若愚科技而言，本轮资金落定的时点，恰好卡在其战略路径完成前半程：从高价值场景切入，用足够的耐心跑通技术闭环与场景验证闭环。接下来的问题是：在真实场景里打磨出来的能力，能不能变成可以交付的产品。</p>\n  <p>若愚科技创始人兼CEO孙腾给的答案写在资源配置里：本轮资金将继续投向机器人大脑的全栈能力研发、真实场景的数据闭环，以及推进产业化落地。</p>\n  <p>“这一次最重要的，我觉得不是资本本身。”他对36氪说，“而是现在这个市场环境下，投资人对于产业的理解，以及对长期价值的判断。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261015/v2_080cb62dfc974c729e767fea59071f39@5925182_oswg2089101oswg2160oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <h2><strong>为什么不挑一个容易的场景</strong></h2>\n  <p>理解若愚科技的路径，得先理解它拒绝了什么。</p>\n  <p>2026年的具身智能赛道，正处在从“技术突围”走向“场景落地”的关键节点，行业的普遍打法是从通用场景切入，追求“大而全”的能力叙事。芯片公司为灵巧手定制方案、软件公司与本体厂商联合参展、各路玩家争相把机器人搬上展台跳舞或完成抓取演示，鲜少有人愿意把第一站设在危险的地方。</p>\n  <p>若愚科技反着来。它把机器人大脑的第一个落地的高价值场景选在了智能加注，也就是加油机器人，一个同时叠加了高危、防爆、连续室外作业、高低温等要求的高价值场景。这个选择背后的逻辑并不复杂：越有价值的场景，单位时间里暴露出来的真问题越多。</p>\n  <p>“我们可以用更高密度的真实难题，倒逼系统暴露瓶颈、加速进化。”孙腾解释道，走出实验室才更清楚边界在哪里。</p>\n  <p>这一判断放在行业语境中看，更具对照意义。2026年，围绕具身智能的数据路线，行业已经出现明显分化。在外滩大会“物理智能——分歧与抉择”圆桌论坛上，数据之争成为核心议题：仿真路线凭借算力与引擎生成海量合成数据，拓展性极强，却受限于仿真与现实的域差难题；真实场景数据采集效率有限、质量也不总是稳定，但天然包含那些无法被仿真复刻的物理细节——传感器的噪声、光线的突变、人员的闯入。更有学者提出一个值得深思的判断：未来真正有价值的数据竞争，不是比谁拥有更多小时的数据，而是谁能获得并组织那些真正包含“物理智能”的经验。</p>\n  <p>若愚科技的选择，本质上是在回应这个判断。</p>\n  <p>若愚科技围绕“大脑－本体－场景数据”三位一体构建技术体系，现场作业数据经筛选、脱敏后按需异步回流云端，形成“感知—决策—执行—反馈—优化”的闭环，持续驱动模型和策略优化。机器人大脑搭建云－边－端分层技术架构：云端承载世界模型与全局任务规划，边缘端负责毫秒级实时感知与安全管控，终端机器人搭载异构算力与多传感器实现精准执行。</p>\n  <p>这套架构的核心驱动力不是仿真数据的规模，而是真实场景中持续回流的高质量数据。事实也印证了这一点。若愚科技今年4月在佛山落地样板间进行试运营，到现在的打磨过程中，团队发现了大量此前在实验室环境下测不出来、也没办法发现的问题。</p>\n  <p>这条路的副作用是慢。高价值场景的数据积累周期长，场景复制的边际成本高，短期内难以看到通用场景路线那种“一套模型适配多个场景”的叙事张力。但它的另一个结果是：一旦走通，跟随者很难用同样的时间表追上来。因为真实场景中的数据闭环需要在现场时间中“泡”出来，而��仅靠算力堆出来。随着行业从“有没有”进入“能不能用”甚至“好不好用”的阶段，这种由真实现场积累形成的壁垒，其价值将越来越被产业所认可。</p>\n  <h2><strong>能不能进场，又能不能持续干活</strong></h2>\n  <p>若愚科技的选择不只是一个企业的路径判断，它也是具身智能产业从“技术叙事”走向“价值兑现”的一个观察样本。当越来越多的公司开始在展台上展示通用能力时，那些愿意把机器人送进最危险、最复杂、最不体面的现场，用真实数据一寸一寸完善大脑的团队，或许才是这个产业真正走向成熟时最稀缺的力量之一。</p>\n  <p>过去两年，具身智能赛道并不缺故事。“对机器人大脑来说，场景就是训练场；高价值场景，更有训练价值。”若愚科技创始人孙腾在采访中反复强调一个判断：“机器人必须在真实世界里成长，而不仅仅是通过虚拟的仿真环境。”</p>\n  <p>这句话指向的是若愚科技的核心定位：它是一家机器人大脑公司，核心产品是自研的若愚九天机器人大脑。本体是大脑进入真实场景的承载工具，是采集有价值数据的载体。防爆认证、佛山试点、能源圈层关注，这些实绩最终服务的都是同一件事——让机器人大脑在极端约束下持续迭代、持续回流真实数据。</p>\n  <p>这也解释了为什么若愚科技选择从高价值特种场景切入。防爆认证解决的是“能否进入特种现场”的准入问题，但它的意义远不止一张证书。在若愚科技的技术叙事里，防爆更像一个反向塑造大脑架构的强力约束。孙腾解释，防爆本质上是一种能量型约束，它会倒逼机器人大脑从集中式高算力架构，转向“轻量本体安全主控 + 安全区边缘算力分层架构”的分层架构。加上防爆约束之后，本体侧的算力、传感器数量，甚至通信带宽，都要做减法。相机、激光雷达等传感器要在外部做叠加或替换，使用隔爆玻璃；热功耗管控部件、本体防爆结构、整体防爆系统的评估，都需要公司深入进去扎实去做。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261015/v2_d5cd93b57d2944149261697651c5d7f9@5925182_oswg1980038oswg1648oswg927_img_jpeg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>孙腾表示，完成软件算法的研发只完成初步工作，剩下的实际落地过程中的工作更多，也更烦琐。但这个恰恰说明，若愚科技产品的核心价值，正是那些通过高价值场景打磨出来的、能够在极端约束下稳定运行的大脑能力。</p>\n  <p>场景是入口，大脑才是主体。</p>\n  <p>佛山试运营加油站则进一步验证了这套逻辑。若愚科技向36氪披露了部分指标：试运营中，针对固定车型，开放环境中加油任务已实现高成功率；人工接管仅在异常时触发……这些数字的价值，不在于证明“机器人能加油”，而在于证明机器人大脑在真实高危场景中能够连续、稳定地完成作业，并在过程中持续产生有价值的真实数据。孙腾解释道：“在实验室里永远不知道自己的边界在哪里，而高价值场景则需要深入场景里不断打磨、不断测试。”</p>\n  <p>这正是若愚科技作为机器人大脑公司与其他具身智能公司的关键区别。机器人完成了一次任务，不意味着结束，而是意味着产生了新的数据、新的技能、新的恢复策略，再通过模型迭代反哺到下一次任务，甚至下一个场景。孙腾说：“机器人大脑不是靠不断做更多项目来增长，而是让每一次交付，都变成下一次交付的能力资产。”对若愚科技而言，商业化本身也是研发的一部分。</p>\n  <h2><strong>成为AI时代基础设施</strong></h2>\n  <p>若愚科技反复强调“大脑—本体—场景数据”的三位一体解决方案，并把本体定义为真实世界数据的采集工具。这个定义本身就指向了它作为机器人大脑公司的核心逻辑：如前文所述，本体并不是产品终点，而是大脑进入真实场景、持续获取高质量数据的载体。</p>\n  <p>在工程层面，这套体系已经跑出了实际节奏。数据层面，在客户授权和安全合规的前提下，若愚科技会对作业数据脱敏后用于模型迭代。机器人会在闲暇时段基本持续上传数据，为后续标注提供素材；而标注成本的下降，主要依靠半自动化的数据采集管线配合人工审核，来保证数据质量与数量的双重要求。在这套体系里面，决定大脑能力上限的是现场作业时间的厚度，而不是算力堆砌的规模。</p>\n  <p>产品结构也在为这套闭环服务。若愚九天机器人大脑是一款相对标准的产品，以及自研的模块化若愚揽月、若愚摘星等高可靠性作业硬件，共同面向高价值场景的落地解决方案。场景的差异化需求被收敛到末端的执行工具与上层业务流程上，高可靠性作业硬件上则严控规模——通过拆分驱动模组、电气模组等标准化单元，支持模块的快速堆叠组合。这意味着，若愚科技率先在智能加注场景中沉淀的大脑能力，从一开始就被设计成可以在不同本体、不同场景之间迁移的形态。</p>\n  <p>事实上，若愚科技把自身定义为AI时代的基础设施。这个定位的实质是：不去绑定任何一个单一的硬件，而是让智能能力在不同的算力平台上、不同的本体上、不同的真实场景之间自由迁徙，最终形成跨算力平台、跨本体、跨场景的通用智能层。而支撑这个目标的，不是某一次技术突破，而是已经跑起来的真实场景数据闭环。</p>\n  <p>本轮融资的落定，意味着若愚科技从高价值场景切入的战略路径已完成前半程验证期。真正决定天花板的，是横向复制的可能性。若愚科技的判断是，通过智能加注这个高价值场景反馈，锻炼出的是大脑的基本能力——复杂操作、环境感知、任务规划、决策等一系列基本技能。这些技能可以复用到充电、港口、巡操等更多元的场景中。而支撑这种复用的，不是一套通用的算法框架，而是在真实高危场景中一寸一寸打磨出来的、带有物理细节和失败经验的大脑能力。</p>\n  <p>“若愚科技是一家大脑公司”这个定位的最终落点：它即将完成的，不是某一个场景的机器人交付，而是一套能够在极端约束下持续运行、持续回流数据、持续迭代能力的机器人大脑底座。</p>\n  <p>这套底座，才是它通向AI时代基础设施的起点。</p>",
+      "category": "tech",
+      "published_at": "2026-10-15T05:51:41+00:00",
+      "fetched_at": "2026-10-16T02:53:30.599046+00:00",
+      "fingerprint": "b10321373155cace"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪研究院 | 2026年中国工业AI行业发展研究报告",
+      "url": "https://36kr.com/p/4023919040630661?f=rss",
+      "summary": "<p>当前，中国制造业正处于向高端化、智能化、绿色化转型的关键窗口期。工业AI作为破解制造业提质、降本、增效、安全、绿色发展核心诉求的关键抓手，市场应用需求持续加速释放。据IDC调研数据，我国工业企业应用大模型及智能体的比例，已经从2024年的9.6%快速提升至2025年的47.5%，应用渗透率大幅攀升。需求的爆发式增长直接拉动产业规模扩容，据36氪研究院测算，2026年我国工业AI可落地市场规模将达1163亿元，预计2030年将突破3000亿元，年均复合增速超25%。与此同时，高质量数据稀缺、模型可靠性不足、前期投入成本高企、复合型人才断层等问题相互交织，构成工业AI规模化落地的系统性障碍，传统单点试错、外挂式赋能的模式已难以适配工业场景的严苛要求。在此背景下，36氪研究院发布《2026年中国工业AI行业发展研究报告》，系统梳理行业发展脉络，拆解工业AI落地瓶颈与破局路径，为工业AI全域渗透提供切实参考。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_f124b24a0df7426f90750e4befe7e8e3@12547972_oswg35989oswg1095oswg587_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>01. 数据、技术、成本、认知四大瓶颈，是当前制约工业AI规模化落地的核心障碍</strong></h2>\n  <p>工业场景的特殊性决定了AI落地无法照搬通用领域的发展路径。数据层面，高质量异常样本稀缺、跨系统数据孤岛突出、行业标准不统一，难以支撑模型的鲁棒性训练；技术层面，AI模型“黑箱”特性与工业高安全要求存在矛盾，虚实迁移效果波动、多模态数据融合能力不足，导致模型可靠性难以满足生产需求；成本层面，硬件、算力与实施的综合投入较高，中小企业投资回报周期偏长，付费意愿受限；认知层面，一线人员接受度不足、复合型人才缺口巨大、管理层与执行层认知脱节，形成技术落地的隐性阻力。四大瓶颈彼此放大，共同推高了工业AI的规模化落地门槛。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_8b590ed6e040470e87e759807b55a15e@12547972_oswg59024oswg1008oswg558_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>02. 工业AI规模化落地需五大核心要素协同发力</strong></h2>\n  <p>针对四大系统性瓶颈，行业需构建多维度协同的解决方案体系。以高质量数据体系破解数据瓶颈，通过“采、治、用”全链条治理打通数��孤岛、沉淀高价值数据资产；以机理与技术融合体系破解技术瓶颈，将工业工艺原理转化为可计算规则，提升模型可解释性与场景适配性；以成本可控的工程化实施降低落地门槛，通过技术优化与模式创新压缩投入成本、缩短回报周期；以复合型人才与��知协同打破人为障碍，弥合组织认知鸿沟、填补人才缺口；以场景化适配与闭环验证保障落地效果，通过“试点-验证-推广”的路径避免技术与生产实践脱节。五大要素缺一不可，共同支撑工业AI从试点走向普及。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_bce72d8ec9e84291bf2cf228841767e9@12547972_oswg39580oswg1105oswg389_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>03. “机理+数据”双驱动是流程工业AI规模化的核心路径，全栈能力与标杆实践正在验证可复制的落地模式</strong></h2>\n  <p>在工业AI全域渗透的进程中，不同领域的落地节奏与价值密度存在差异。其中，流程工业作为检验工业AI深度价值的试金石，凭借连续生产、强机理约束、高安全要求的产业特性，成为提质降本需求迫切、AI价值易量化的核心阵地，也是对模型可靠性、闭环能力要求严苛的高壁垒赛道。流程工业强耦合、高安全的生产特性，决定了纯数据驱动的AI模式难以深入核心生产环节。以中控技术为代表的头部企业，依托数十年工业机理积淀，以自研时间序列大模型TPT与通用控制系统UCS为双核心，打造自主运行工厂系统AOP。既通过数据驱动挖掘生产优化空间，又以机理约束保障模型安全可靠，有效破解了工业AI落地的核心痛点。该模式已在氯碱、石化等行业形成规模化标杆案例，在降本增效、减人提效、安全管控等维度实现了可量化的价值验证，为流程工业乃至全工业领域的AI规模化落地提供了可复制的实践范本。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_ca6434d428be4d9e96e5154ec4ccf08b@12547972_oswg144704oswg1129oswg860_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p><strong>本报告重点研究问题如下：</strong></p>\n  <p>•&nbsp;工业AI的全球发展格局是怎样的？中国在全球市场中处于何种地位、扮演怎样的角色？</p>\n  <p>•&nbsp;推动中国工业AI发展的核心驱动力主要包括哪些？</p>\n  <p>•&nbsp;中国工业AI市场规模与增长态势如何？行业发展经历了哪些阶段，当前处于哪一阶段？</p>\n  <p>•&nbsp;工业AI产业链上、中、下游分别由哪些环节构成？各环节有哪些最新发展动态？</p>\n  <p>•&nbsp;工业AI市场有哪些主要参与主体？各类主体分别具备哪些竞争优势与能力短板？</p>\n  <p>•&nbsp;制约工业AI规模化落地的核心瓶颈有哪些？其背后的深层成因是什么？</p>\n  <p>•&nbsp;破解工业AI落地瓶颈需具备哪些核心要素？标杆企业形成了哪些可借鉴的解决方案与落地成效？</p>\n  <p>•&nbsp;工业AI落地成熟度分为哪些等级？等级划分的逻辑主要是什么？</p>\n  <p>•&nbsp;未来工业AI将迎来哪些技术与产品趋势？行业长期发展还面临哪些风险与挑战？</p>\n  <p>更多精彩内容，详见《2026年中国工业AI行业发展研究报告》，点击<a href=\"https://pan.baidu.com/s/1ql37Cpb4QdBVBM8eN70R6A?pwd=xgsc\" rel=\"noopener noreferrer\" target=\"_blank\">下载链接</a>，提取码：xgsc</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_086d421b83074685bf0d6c1872a854ff@12547972_oswg4907693oswg1819oswg2572_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_bf3c7646d8ce4ff58b1f3aaf6426b2c7@12547972_oswg121376oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_9bcb74a2954741fbb7862fc21e2e974e@12547972_oswg409127oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_52a4e710f63747c1a428100ed23c16ed@12547972_oswg177634oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_2811f47529a048ffaf38359c08feda74@12547972_oswg129177oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_c70b39fb8acb4021b5991df17a130c8e@12547972_oswg468991oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_747a94e7b8b04a50b7f32654d027f6ee@12547972_oswg497297oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_1b549b92f0a544fe96514700d841252a@12547972_oswg450340oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_a7f7b3addc3f442aaef63cc112d15153@12547972_oswg466255oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_43ad24f69f524168819f93b9ed4626f4@12547972_oswg371579oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_bc2cb9cb24884e21b44358548f66a977@12547972_oswg444373oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_04d541776b6347f2a070ee6c1461883a@12547972_oswg367120oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_0dc397409d08498b90550f8379674a71@12547972_oswg216527oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_370be18d8c594bb9b444e77e2845279f@12547972_oswg345317oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_ceb09036c6ac408f9929bb16b0d0985c@12547972_oswg118809oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_420cfa877dbc4ae5812a3677c4b4f451@12547972_oswg646463oswg1819oswg2572_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_6624acb57d364677962808312fd78a59@12547972_oswg380465oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_cd3e776d351a4893ac98776f1d8630db@12547972_oswg453130oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_54e3f24343304bcc8f1e9d606ff9ba2e@12547972_oswg394915oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_487774e990d645eea83f8f3db0cd62b1@12547972_oswg407870oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_8bf0f5d10548453c8542f673bc451658@12547972_oswg400003oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_b24bc223f4aa414ab0535fe67a67014b@12547972_oswg323121oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_cb3420302e6449459626c565c0d97144@12547972_oswg426866oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_6e544bff018f42f8a7d268793c14ecc2@12547972_oswg495100oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_160dae73d6ab4b98a63d58cc5eff6635@12547972_oswg439071oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_18697af1c55846aca9801c7e58216b9b@12547972_oswg148737oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_72eae8898c334fe4a02deef4ff245cc2@12547972_oswg400949oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_181034f12e184749a20434fe9ef29458@12547972_oswg379654oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_9330589a708c40dc8e32e7e21ff04a5f@12547972_oswg415672oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_fcdf12d372dc41258606c687259b3b0d@12547972_oswg420975oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_8f75870c567b4801ad410212cba158c3@12547972_oswg367181oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_9b20f4c351434bbf9d23d1cf49d17b59@12547972_oswg426121oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_770447e7c30b4cdaa19e9f498aa60066@12547972_oswg427062oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_0d6a3d6d25784a78af4dcdc9e8cda3bc@12547972_oswg475963oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_8d70ff126b664019a698bd6d1a180a29@12547972_oswg396831oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_072e9109f91944e692e4abe9e125a57f@12547972_oswg363834oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_7802fece27b44f72849dcd97176ab764@12547972_oswg445668oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_4411654b1870456c895c965ce12e4ee6@12547972_oswg421767oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_041b5d92669445168d1ffc33ee546df2@12547972_oswg447618oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_101412cef5f74ad4b6fdebe35cdb90c5@12547972_oswg148115oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_7d6511b07f0142a2afbdaad686502c07@12547972_oswg968352oswg1819oswg2572_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_f1079fc486e84b7087905914695f048d@12547972_oswg369957oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_c9a7b621f44a453f9eec0a33f42aa97c@12547972_oswg677447oswg1819oswg2572_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_c3cca77c14b941f5b3ec30b53c449117@12547972_oswg485167oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_749e17fa1e6c46eda2aa04e5379b8658@12547972_oswg434317oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_5160098379ae4d6ba99829db317df7f3@12547972_oswg120492oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_8df40964f80c473ca8deeb6d372062fb@12547972_oswg426766oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_66c9720529b84d88a9d20380c52c4d7e@12547972_oswg415423oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_ca95f2fb6be54ccdacb6bb3d76e19f56@12547972_oswg446685oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_40c8a9b9ef12475abfb1de81f8971026@12547972_oswg382247oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_0c42f7e6a57449d3867921c36e984d51@12547972_oswg279554oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_6fd7c949f3724d1c83efcf9bf592219a@12547972_oswg210354oswg1819oswg2572_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>",
+      "category": "tech",
+      "published_at": "2026-10-15T23:30:00+00:00",
+      "fetched_at": "2026-10-16T02:53:30.599039+00:00",
+      "fingerprint": "2dfcebae82be14ee"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨三部门联合调查“尊界V800汽车刹车踏板支架断裂问题”；国内一半AI算力被指在造爽剧；台积电第三季度净利润7631亿元台币",
+      "url": "https://36kr.com/p/4027802678186372?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>库克：苹果智能在华已经获得批准，10月底推测试版，国内采用阿里百度双伙伴</p>\n  <p>圆通总裁潘水苗出任影视飓风董事长？Tim回应</p>\n  <p>NASA疑似找到火星生命证据但因成本太高取消回收</p>\n  <p>宁德时代董事长曾毓群现场捐4亿元股票</p>\n  <p>开售不足一月，部分用户反馈iPhone 18 Pro“掉色”了</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>工信部等三部门联合调查有关车辆刹车踏板支架断裂问题，尊界深夜回应&nbsp;</strong></p>\n  <p>针对网络反映的尊界V800汽车刹车踏板支架断裂问题，工信部、中央网信办、市场监管总局高度重视，在前期调查基础上成立联合调查组开展核查，将依法依规处理，相关情况后续及时公布。10月15日深夜，尊界汽车发布声明，表示积极响应、完全服从，将全力配合联合调查组工作，维护消费者合法权益与新能源汽车产业发展大局。（财联社、21世纪经济报道）</p>\n  <p><strong>国内一半AI算力被指在造爽剧，用于研发仅15%</strong></p>\n  <p>近日“国内超一半算力在造爽剧”话题引发热议。中文在线（300364.SZ）在投资者活动记录中披露，国内AIToken消耗55%用于短剧、视频生成，24%用于电商广告，仅15%投入研发，短剧相关Token消耗是软件开发两倍以上。</p>\n  <p>据行业报告，2025年国内微短剧市场规模突破140亿美元，AI已覆盖短剧全产业链，单部12集短剧算力成本近20万元。OpenRouter数据显示，10月5日至11日国内大模型周调用量86.74万亿Token，连续二十四周超过美国，全球调用量前五均为中国大模型。（财联社）</p>\n  <p><strong>台积电第三季度净利润7631亿元台币，先进制程占总晶圆收入79%</strong></p>\n  <p>36氪获悉，10月15日台积电披露2026年第三季度业绩，净利润7631亿元台币，高于市场预估的7394.9亿元台币。制程收入结构方面，2纳米出货占总晶圆收入8%，3纳米占33%，5纳米占28%，7纳米占10%；7纳米及更先进的先进技术合计占总晶圆收入79%，先进制程需求保持旺盛。（财联社、界面新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>企业微信接入WorkBuddy，可直接调用企业内部资料处理工作任务</strong></p>\n  <p>10月14日，微信派发布消息公布重大更新，企业微信侧边栏上线WorkBuddy。用户将企业微信升级至5.0.12最新版本，即可直接在企业微信内和WorkBuddy对话，不用切换多款软件。WorkBuddy能够结合用户权限范围内的消息、文档、会议信息理解任务，调用工作台执行任务，并把结果返回企业微信，企业微信沉淀的工作资料、项目经验、客户信息都可作为可调用的生产资料。（财联社）</p>\n  <p><strong>Meta发布美国最强开源大模型</strong></p>\n  <p>当地时间周四，Meta发布开放权重模型Muse Spark Open，并和苹果合作，支持该模型在Mac本地运行。该模型采用混合专家架构，总参数��8160亿、活跃参数420亿，上下文窗口可达100万词元，主打编码与智能代理任务，Meta称其为美国迄今能力最强的开放权重模型。测试显示六项评测排名第一，但部分任务上国内Kimi、千问、智谱等模型表现更优。双方借助MLX框架针对M5 Ultra Mac Studio优化，两台设备可完整运行模型，苹果这款机型512GB版本将于10月底开售。该模型同时适配英伟达、AMD、英特尔芯片，支持开发者下载权重本地部署。（财联社）</p>\n  <p><strong>英国金融行为监管局计划引入AI，实现金融监管自动化</strong></p>\n  <p>英国金融监管机构正计划利用人工智能（AI）实现大部分监管和执法活动的自动化，转型成为一家“智能体驱动型监管机构”（agentic regulator），但目前尚不打算对金融行业实施新的监管规则。英国金融行为监管局（FCA）将于下周公布其针对最新前沿人工智能模型的应对措施。届时，该机构首席数据、信息与情报官杰西卡·鲁苏（Jessica Rusu）将发表讲话，介绍相关计划。（新浪财经）</p>\n  <p><strong>英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片</strong></p>\n  <p>当地时间10月14日，英伟达首席执行官黄仁勋表示，假如客户正在开发不安全的人工智能软件，他会停止向其供应芯片，不过他认为目前没有必要如此担忧这项技术。在接受采访时，当被问及是否会停止向不负责任的开发商供货，黄仁勋表示，“这是一个假设性问题，但答案是肯定的。不过，在这样做之前，你会先进行沟通。我们并不经营别人的公司，对于其他公司如何使用我们的技术，我们能作出的评判也是有限的。我们的技术是通用型的。”（界面新闻）</p>\n  <p><strong>xAI发布Grok Voice 3.0语音模型</strong></p>\n  <p>当地时间10月14日，马斯克旗下人工智能公司xAI宣布推出Grok Voice 3.0语音模型，并已通过语音代理API开放使用，定价为每分钟0.08美元，与上一代产品相同。xAI表示，Grok Voice已用于特斯拉车辆语音交互及SpaceX旗下星链客服中心，后者每天处理约2万通多语言客户来电，约70%的来电无需人工介入即可解决。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>服务故障近5小时，DeepSeek致歉，并发布补偿方案</strong></p>\n  <p>10月15日早间8时左右，有多名网友在社交媒体上反映称在使用DeepSeek时显示“服务器暂时不可用”或“服务器繁忙，请稍后重试”。截至10月15日13时，中新经纬查询DeepSeek客户端，发现其已正常恢复服务。对此，DeepSeek官方开放平台发布服务恢复及补偿通知，将补偿所有API用户7天内（10.8-10.14）的消耗金额，并以赠金形式全额返还，赠金自动到账，API计费扣款先从赠金账户扣除。（荆楚网）</p>\n  <p><strong>库克：苹果智能在华已经获得批准，10月底推测试版，国内采用阿里百度双伙伴</strong></p>\n  <p>36氪获悉，10月15日苹果董事会执行主席蒂姆·库克到访上海并接受媒体采访，确认Apple Intelligence（苹果智能）配套阿里千问大模型已拿到审批，10月晚些时候上线国内测试版本。首批开放功能包含实时翻译、书写工具、照片清除工具，本次测试版暂不包含Siri AI。库克表示，很高兴首批核心苹果智能功能可以逐步上线。按照规划，苹果将在12月通过iOS27.3系统更新推送正式版苹果智能，覆盖iPhone、iPad、Mac设备，首发功能是两年前已在美国落地的AI能力。国内落地采用独特双供应商模式，阿里千问、通义万相提供Apple智能的文本图像理解、内容生成等多模态能力；百度负责承接Siri语音助手与视觉智能Visual Intelligence相关服务。（界面新闻、36氪）</p>\n  <p><strong>圆通总裁潘水苗出任影视飓风董事长？Tim回应</strong></p>\n  <p>10月15日，国家企业信用信息公示系统信息显示，影视飓风运营主体杭州星奥传媒有限公司完成多项工商变更，圆通速递董事兼总裁潘水苗出任公司董事长。公司经营范围同步新增预包装食品销售、电影制片、互联网信息内容多渠道分发服务等项目。资料显示潘水苗早在2016年8月就担任该公司执行董事。影视飓风创始人潘天鸿（Tim）发文回应，潘水苗自公司创立之初便担任执行董事，不参与日常经营，本次变更只是出于公司发展需要设立董事会。（界面新闻）</p>\n  <p><strong>马斯克自曝经历6次赛博精神病</strong></p>\n  <p>特斯拉、SpaceX首席执行官马斯克在“X Takeover”活动访谈中透露，过去一年自己大约经历六次“人工智能（AI）精神病”，又称“赛博精神错乱”。该词汇并非临床医学术语，多用来形容深度接触AI后带来的认知冲击，也被科技圈用来调侃从业者对AI的过度沉迷。马斯克称该感受来源于见识到AI具备审美理解能力带来的震撼。如今硅谷圈内已经衍生出“AIPAAS（AI精神错乱即服务）”等相关概念，不少科技高管以此自嘲。（财联社）</p>\n  <p><strong>长实集团辟谣李嘉诚去世传闻：消息不实，暂无公开露面回应计划</strong></p>\n  <p>10月15日，针对网传“李嘉诚已去世”的消息，长实集团发布严正声明，称相关传言绝无其事。集团公关人员表示，李嘉诚暂时没有公开露面回应的计划。长实谴责自媒体编造虚假新闻，呼吁各方转载信息前核实真伪。同日，《大公报》发布澄清声明，称有账号伪造该报报道散布相关谣言，报社已取证并发出律师函，保留追责权利，同时要求平台处置谣言、封禁造谣账号。（财联社）</p>\n  <p><strong>长鑫科技市值两月内跌去1万亿</strong></p>\n  <p>10月15日收盘，长鑫科技（688825.SH）报43.59元/股，总市值跌破3万亿元，A股总市值第一的位置被工商银行夺回。长鑫科技7月27日上市首日市值一度超越工行登顶A股市值榜首，8月17日市值最高至4.2万亿元。8月17日至10月14日，公司股价下跌25.57%，市值缩水1.07万亿元。期间长鑫持续取得技术突破，LPDDR6、第五代DRAM平台实现量产。受长鑫技术进展等因素影响，海外存储巨头三星电子、SK海力士、美光科技股价同步下行。当前长鑫科技全球DRAM市场份额7%，位列全球第四。市场担忧AI基础设施扩张不及预期，叠加美国通胀数据推高融资成本，存储板块承压。（第一财经）</p>\n  <p><strong>四部门联合调查组发布婴幼儿纸尿裤甲酰胺问题核查情况通报</strong></p>\n  <p>10月15日，市场监管总局、工信部、国家卫生健康委、国家疾控局联合调查组公布核查通报。调查组覆盖国内168家婴幼儿纸尿裤生产及代工企业，抽检180个品牌共计368批次成品，权威机构检测全部未检出甲酰胺，企业生产原料与工艺也不存在添加甲酰胺情况。通报指出，此前网传检出甲酰胺的多家检测主体，检测流程不严谨、存在数据问题，相关结论不成立。专家组还建立专门检测方法，复检舆情涉及的血液样本，同样未检出甲酰胺，暂未发现纸尿裤带来甲酰胺相关健康危害。相关部门表示，会持续强化婴幼儿用品监管。（21世纪经济报道）</p>\n  <p><strong>NASA疑似找到火星生命证据但因成本太高取消回收</strong></p>\n  <p>据报道，美国国家航空航天局(NASA)在火星上发现了一块岩石，这块岩石可能包含关于火星上是否曾存在生命的线索，但因成本高昂和回收设备复杂，暂时取消了将其带回地球的计划。NASA在一份声明中表示，火星车的样本仍安全保存在火星上，但NASA正在探索一系列潜在的返回方案，这些方案可能比最初的火星样本返回计划更简单、更经济，包括可能的商业或国际捐助。（中新经纬）</p>\n  <p><strong>OpenAI伦敦公司去年人均薪酬超230万英镑</strong></p>\n  <p>36氪获悉，据媒体报道，OpenAI伦敦分部员工去年人均薪酬达231.8181万英镑（约合人民币2055万元），显示出这家人工智能明星公司不惜拿出堪比英超球员的薪资，全力角逐全球AI竞赛。英国国家统计局数据显示，这一薪酬水平是英国全职员工收入中位数的58倍。OpenAI员工的平均薪酬包（薪资+股权）税前折算，时薪约1000英镑。（财联社）</p>\n  <p><strong>开售不足一月，部分用户反馈iPhone 18 Pro“掉色”了</strong></p>\n  <p>距离iPhone 18 Pro国内开售不到一个月，不少用户在社交平台反馈新机出现机身褪色，主打勃艮第酒红色机型色差最明显，镜头周边浮现淡粉色痕迹。10月15日，界面新闻咨询苹果客服，对方称目前掉色反馈不多，出现问题可到线下门店申请售后。业内分析，该机型采用阳极氧化上色工艺，若封孔工序不到位，汗液潮气会渗入氧化膜破坏染料，造成褪色。除掉色外，iPhone 18 Pro系列还曝出两大故障：Face ID卡顿后自动重启，苹果工程部正在排查，后续将推送系统更新修复；暗光环境下高倍拍摄会出现绿影，和可变光圈大光圈模式高度相关。该机型9月10日正式发布，搭载A20 Pro芯片，提供四款配色，存储起步256GB。（界面新闻）</p>\n  <p><strong>股市暴跌后，韩国召开紧急会议</strong></p>\n  <p>韩国金融监管机构针对股市行情召开紧急会议并发布官方声明，要求主动采取应对措施，保障市场稳定、保护投资者；敦促金融机构避免过度信贷投放，做好投资者保护与风险管理工作；将严厉处置扰乱市场的行为，必要时准备启动应急预案。此前韩国KOSPI指数跌幅一度扩大至9%，三星电子、SK海力士均跌超11%。（财联社）</p>\n  <p><strong>美的加入英伟达MGX生态链</strong></p>\n  <p>在10月12日至15日于美国圣何塞召开的2026 OCP全球峰会上，英伟达公布面向下一代Vera Rubin平台的NVIDIA MGX AI Factory生态及合作伙伴名单，美的被列入热管理合作伙伴名单。MGX是英伟达围绕Blackwell、Vera Rubin及后续AI计算平台打造的开放式硬件底座，贯穿服务器OEM/ODM、液冷、电源、配电及数据中心基础设施。据了解，随着Vera Rubin平台机架功率密度持续攀升、45°C高温液冷成为行业新标准，MGX生态合作伙伴有机会提前参与热管理规格对接、CDU与冷源适配及系统级验证。（界面新闻）</p>\n  <p><strong>《时代》周刊发布2026年度最佳发明榜单，蚂蚁阿福入选</strong></p>\n  <p>10月15日晚，美国《时代》周刊揭晓“2026年度最佳发明”榜单，蚂蚁集团旗下健康AI“蚂蚁阿福”入选，也是今年唯一上榜的中国AI应用。该榜单被视为全球科技创新风向标，去年入选的中国AI产品为DeepSeek。《时代》认为，蚂蚁阿福“让专业医疗健康服务更普惠”。今年9月，蚂蚁阿福App用户量已达1.5亿，单日健康咨询量近2000万次。</p>\n  <p><strong>英国将拨款支持维修切尔诺贝利核电站</strong></p>\n  <p>英国政府10月15日宣布，将拨款1700万英镑（约合2254万美元），用于支持切尔诺贝利核电站的维修工作，以恢复核电站建筑的封闭和通风功能。据英国财政部和外交部当日发布的消息，该笔款项将支持由欧洲复兴开发银行协调的一项国际计划，用于相关维修工作。（央视新闻）</p>\n  <p><strong>世界最大主权基金或解除对涉核武企业投资限制</strong></p>\n  <p>挪威一个委员会10月15日向政府建议，允许世界最大规模的挪威主权财富基金投资涉及核武器制造的企业。据路透社等媒体报道，这一委员会由挪威政府任命，其建议意味着“一些欧洲和美国”企业可成为投资对象。挪威主权财富基金规模约为2.3万亿美元，超过半数投资于美国。挪威公共开支的四分之一来自该基金。（新华社）</p>\n  <p><strong>婴儿食品被曝重金属超标，雀巢及涉事子公司遭索赔超千万美元</strong></p>\n  <p>10月14日，美国得克萨斯州总检察长宣布起诉雀巢旗下嘉宝公司，指控其明知产品含超标砷、铅、镉，仍对外宣称产品安全。检方称嘉宝67批米粉砷含量达到美联邦标准9倍多，起诉嘉宝与雀巢美国公司，寻求超1000万美元（约6693万元人民币）民事罚款。</p>\n  <p>雀巢中国回应，涉事产品没有通过官方渠道进口至国内，国内在售产品符合中国法规，可放心食用。（财联社）</p>\n  <p><strong>美股CPU双雄，股价重挫</strong></p>\n  <p>财联社盘中快讯：超威半导体股价下跌7%，报531.360美元/股，总市值报8674亿美元。英特尔股价下跌8.01%，报90.260美元/股，总市值报4771亿美元。截至当日美股收盘，超威半导体报562.23美元/股，跌幅1.50%，总市值9178亿美元；英特尔报95.37美元/股，跌幅2.80%，总市值5010亿美元。（财联社、Wind）</p>\n  <p><strong>美股三大指数集体收涨，热门中概股普涨</strong></p>\n  <p>36氪获悉，10月15日收盘，美股三大指数集体上涨，道指涨1.08%，纳指涨0.08%，标普500指数涨0.33%。大型科技股涨跌不一，英伟达、特斯拉跌超1%，苹果、Meta小幅下跌，微软涨超1%，谷歌、亚马逊小幅上涨。热门中概股普涨，京东、网易、蔚来、小鹏集团涨超2%，拼多多、哔哩哔哩、理想汽车涨超1%，百度小幅上涨，阿里巴巴小幅下跌。</p>\n  <p><strong>国际油价跌势扩大，布油跌破104美元，黄金白银齐涨，加密货币超18万人爆仓</strong></p>\n  <p>10月15日下午，国际油价跌势持续扩大，截至16:30，布油下跌超2%报103.7美元/桶，美油跌0.76%报94.36美元/桶。贵金属同步走高，黄金、白银双双涨超1%，现货黄金报4155.47美元/盎司，现货白银报56.67美元/盎司。加密货币主要币种集体下挫，比特币跌近3%报81278美元/枚，过去24小时全市场超18万人爆仓。（21世纪经济报道）</p>\n  <p><strong>国际能源署：全球柴油供应紧张将持续至2027年</strong></p>\n  <p>国际能源署10月14日发布月度石油市场报告说，受中东和俄罗斯柴油出口持续受阻等因素影响，全球柴油市场供应紧张局面加剧，库存持续下降，柴油供应紧张态势预计将持续至2027年。（央视新闻）</p>\n  <h2>投融资</h2>\n  <p><strong>“可视科学”完成数千万元天使轮及天使+轮融资</strong></p>\n  <p>36氪获悉，近日，“可视科学”宣布完成天使轮及天使+轮融资，累计金额数千万元人民币。投资方包括上海未来产业基金、厚雪资本、浦东创投，云道资本担任公司长期独家财务顾问。</p>\n  <p><strong>“NEXFORM新元体”完成数千万元种子轮融资</strong></p>\n  <p>近日，“NEXFORM新元体”正式宣布完成数千万元种子轮融资，投资方包括戈壁创投、浙大友创等。据了解，NEXFORM新元体是一家Physical AGI公司，围绕“通用硬件平台＋开发者生态＋物理智能体（Physical Agent）”展开布局，以AI for Physical AI为研发范式，通过AI Agentic开展Auto Research，以Physical RSI为技术路线，推动机器人实现自我进化。公司提供通用机器人产品与开发工具，支持开发者开发面向不同场景的物理智能体，为客户交付作业能力，并持续扩展机器人的应用范围。</p>\n  <p><strong>“MIRAVA”完成近5000万元天使轮融资</strong></p>\n  <p>36氪获悉，水面智能消费硬件品牌智能电动游艇公司“MIRAVA”近日完成近5000万元天使轮融资，本轮由九合创投领投，初心资本、Eversnow跟投。资金将重点投入核心技术研发迭代，推进产线量产建设、以保障首批终端用户订单交付，并搭建欧洲本地化渠道及服务体系，加快海外市场适配与商业化拓展。</p>\n  <h2>大公司财报</h2>\n  <p><strong>江波龙：预计前三季度归母净利润为140亿元-149亿元，同比增长1864.55%-1990.84%</strong></p>\n  <p>36氪获悉，江波龙公告，预计前三季度归母净利润为140亿元-149亿元，同比增长1864.55%-1990.84%。业绩变动主要系公司营业收入和净利润同比明显增长，存储行业从消费类价格周期转向AI驱动技术周期，公司以自研芯片、自研软件架构为技术引领，大客户、高端客户及全球化客户占比持续提升，产品与客户结构进一步优化。</p>\n  <p><strong>中金黄金：预计前三季度净利同比增长50%-58%金铜等主营产品盈利能力增强</strong></p>\n  <p>财联社10月15日电，中金黄金(600489.SH)公告称，预计2026年前三季度归属于上市公司股东的净利润为55.20亿元-58.00亿元，同比增长50.05%-57.66%。公司业绩增长主要归因于金铜等主营产品盈利能力的明显增强。具体来看，报告期内金铜等主要金属价格同比上涨显著，为收入端提供了坚实支撑；与此同时，硫酸等副产品亦实现可观增收，进一步增厚了利润空间。在外部市场环境有利的背景下，公司着力内部管理优化，全力做好提质增效稳增长工作，通过深化精益运营、严控成本支出，持续推进降本增效，有效筑牢了盈利根基。在此基础上，矿产金等核心业务的毛利率同比大幅提升，价格上行、副产品贡献与运营提效协同发力，共同助力整体业绩稳步增长。小财注：公司Q3净利润预计11.63亿-14.43亿，Q2净利润19.76亿，据此计算，Q3净利润预计环比下降26%-41%。（财联社）</p>\n  <p><strong>沐曦股份：预计前三季度归母净利润5.87亿元至7.17亿元，同比扭亏为盈</strong></p>\n  <p>沐曦股份公告，预计前三季度营业收入25.41亿元至31.06亿元，同比增长105.60%至151.29%;归母净利润5.87亿元至7.17亿元，2025年前三季度亏损3.46亿元，同比扭亏为盈;扣非净利润2.23亿元至3.02亿元，2025年前三季度亏损3.93亿元，同比扭亏为盈。业绩扭亏为盈主要系收入大幅增加及对产业链上的公司投资大幅增加所致。</p>\n  <p><strong>恒逸石化：预计前三季度归母净利润79亿元-81亿元，同比增长3318.59%-3405.13%</strong></p>\n  <p>36氪获悉，恒逸石化公告，预计前三季度归母净利润79亿元-81亿元，同比增长3318.59%-3405.13%。业绩变动主要系公司发挥“炼油—化工—化纤”全产业链一体化优势，文莱炼厂满负荷运转且盈利高位，己内酰胺-聚酰胺项目产销两旺，各产品单吨利润同比增长。</p>\n  <p><strong>赣锋锂业：前三季度归母净利润50.12亿元，同比增19540.50%</strong></p>\n  <p>36氪获悉，赣锋锂业公告，前三季度实现营收361.59亿元，同比增长147.24%;归母净利润50.12亿元，同比增长19540.50%，上年同期为2552万元;扣非净利润46.36亿元，上年同期亏损9.36亿元;经营活动现金流净额22.95亿元，同比增长634.77%。第三季度归母净利润7.55亿元，同比增长35.62%。业绩变动主要因锂系列产品售价回升及锂电池系列产品销量增加。</p>\n  <p><strong>光库科技：预计前三季度归母净利润为2.79亿元-3.02亿元，同比增长142%-162%</strong></p>\n  <p>36氪获悉，光库科技公告，预计前三季度归母净利润为2.79亿元-3.02亿元，同比增长142%-162%。业绩变动主要系受益于全球AI算力基础设施投资加速与数据中心建设，高速光模块及光器件市场需求持续增长，公司营业收入稳步增长，规模效应显现，降本增效提升整体盈利能力。报告期内，预计非经常性损益对净利润的影响金额约为2622万元。</p>\n  <h2>酷产品</h2>\n  <p><strong>特斯拉上架儿童车，售价1399元</strong></p>\n  <p>10月15日上午10点，特斯拉中国官网商店上架了一款为2–6岁儿童设计的特斯拉儿童平衡车，售价为1399元，造型简洁，辨识度高，该款平衡车目前已可以添加到购物车。特斯拉客服人员告诉记者，目前，这款双轮平衡车已经开放预订，目前下单预计10月28日前发货。</p>\n  <p>该款平衡车车架为轻量化镁合金，座椅5档高度可调，产品净重5.6千克，建议承重上限30千克，最大承重上限35千克，适用身高范围：85cm-120cm，最低适配腿长35厘米，车把内置转向角度限位装置，规避转向角度过大引发的意外翻倒风险。这款平衡车靠儿童双脚蹬地滑行，无电机，无脚踏，需在平坦宽阔防滑无障碍路面骑行，儿童骑行时要佩戴头盔及防护装备，并在成人监督保护下骑行。（财联社）</p>\n  <h2>氪大事</h2>\n  <p><strong>氪大事短视频栏目，鲜活解读商业世界大事。</strong>&nbsp;</p>\n  <p>从方便面到猫粮，今年的超强厄尔尼诺到底影响多少事？&nbsp;</p>\n  <p><strong>整理丨李琪</strong></p>",
+      "category": "tech",
+      "published_at": "2026-10-16T00:15:26+00:00",
+      "fetched_at": "2026-10-16T02:53:30.599030+00:00",
+      "fingerprint": "d6657e93626814fc"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨国防科技专家做微型智能无人机，累计融资超亿元，年内签下数亿元订单",
+      "url": "https://36kr.com/p/4027925884310145?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261016/v2_20bcf88f88b44b2ab3526a0044cc7a3a@5920579_oswg229482oswg915oswg550_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>本文约2900字，建议阅读7分钟</p>\n  </blockquote>\n  <p>硬氪获悉，聚焦空中无人智能体的硬科技企业常州中湾智能科技有限公司（以下简称“中湾智能”）已连续完成天使轮、Pre-A轮、Pre-A+轮及A轮多轮融资，累计融资超亿元。历史股东包括中科创星、毅达资本、方广资本、苏高新金控、敦行资本等。中湾智能为中科晶锐科技有限公司（以下简称“中科晶锐”）母公司。</p>\n  <p>中科晶锐由中科院苏州育成中心孵化，核心团队由具备20余年行业经验的国防科技专家组成，曾主导多项国家重点项目。以200克级微型飞行器为核心平台，中科晶锐构建了覆盖总体设计、气动与结构设计、核心部件研发及批量化生产的全链条能力，并开发了微型无人直升机、共轴双桨、仿生飞行器等多种构型产品。</p>\n  <p>与户外中高空飞行相对开阔的场景不同，微型智能无人机现阶段主要面向室内、隧道、地下管网等空间受限的特种环境。在这些场景中，卫星导航信号往往不可用，狭窄空间又对飞行器的避障、定位和自主控制能力提出了更高要求。传统同类产品在复杂环境中仍较多依赖人工操控或接管，自主化程度有限，能够独立完成任务的微型空中智能体仍存在市场缺口。</p>\n  <p>中科晶锐基于低功耗小型边端计算平台，研发了适配微型飞行器任务场景、融合具身大模型与深度学习的边端智能技术，可实现飞行器脱离遥控操作，无GPS下自主作业、复杂环境重建与集群协同。</p>\n  <p><strong>中科晶锐创始人刘德生向硬氪表示，相较于中大型无人机，微型飞行器的技术难点主要集中在飞控系统、结构设计、气动优化和智能化四个方面。</strong></p>\n  <p>首先是飞控系统。微型无人机需要在封闭、狭窄的空间内灵活飞行，对控制精度、响应速度和抗干扰能力的要求更高。传统开源飞控方案多以常规多旋翼平台为设计对象，难以直接适配公司的微型飞行器。基于实际应用积累，中科晶锐自研飞控底层代码，非套用传统开源飞控算法，自研适配不同构型的微型飞行器飞控技术体系，以提升控制精度和抗干扰能力。</p>\n  <p>其次是结构设计。微型化意味着机载空间和重量预算都十分有限，元器件装配精度、公差控制以及系统集成难度随之上升。中科晶锐通过机电深度融合的一体化设计，结合硬件并行处理，将系统控制周期由毫秒级缩短至微秒级，以满足微型飞行平台对快速响应的要求。</p>\n  <p>在气动优化方面，公司通过大量仿真与参数迭代降低飞行噪声，以适应对隐蔽性和环境噪声敏感的应用场景，将旋翼系统的悬停品质因数（FM）优化至0.65—0.7水平。</p>\n  <p>室内导航与智能化则是微型无人机实现自主作业的另一道门槛。在缺乏卫星导航信号的环境中，飞行器需要依靠机载传感器和计算模块完成自主定位、环境感知、障碍物规避及路径规划。刘德生介绍称，公司产品搭载了算力为0.8TOPS的轻量化机载智能模块，并基于视觉SLAM技术，在导航定位信号缺失或受到干扰的情况下实现自主导航与任务执行。公司同时推进视觉语言导航模型（VLN）在微型飞行平台上的部署，目前已完成相关仿真验证。</p>\n  <p>据了解，中科晶锐的智能微型无人直升机于2025年10月完成技术定型，并于同年12月进入中试及工程化落地阶段。目前，公司产品主要分为三个系列，分别面向不同的任务需求。</p>\n  <p>智蜂系列面向多业务场景，支持可见光、红外、激光雷达等多传感器配置，具备相对更强的机载算力与智能化能力；翼蜂系列主打轻量化和低噪声，单机重量约65克，主要搭载可见光传感器，适用于对重量和隐蔽性要求更高的场景；影蜂系列则侧重长续航、抗风能力和集群协同，支持在六级风环境下稳定飞行，并可实现“一控多”。由于集群任务涉及多机之间的感知、规划与协同，影蜂系列需要配置更强的机载算力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261016/v2_d4361ad195c649f8916dcf84654acd15@5920579_oswg411412oswg873oswg762_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（翼蜂系列）</p>\n  <p>围绕集群作业，中科晶锐开发了分布式异构集群系统，将任务规划、控制与监视等功能部署在地面端，同时由机载端完成目标识别、跟踪、多传感器融合、避障及多机任务协同编组。通过地面端与机载端的协同，系统能够支持多架无人机执行任务规划、协同作业、任务评估与过程回放等功能，提升复杂场景下的作业效率。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261016/v2_4fa112304ba44b7b82175bda33afd952@5920579_oswg112740oswg1080oswg603_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（影蜂共轴无人机）</p>\n  <p>商业化方面，据介绍，2026年以来，智蜂、翼蜂系列无人机已签订5000余套订单，在手订单数亿元。</p>\n  <p><strong>以下为创始人问答：</strong></p>\n  <p><strong>硬氪：在0.8TOPS的有限算力下实现SLAM和VLN模型部署，公司在算法优化和硬件适配上做了哪些工作？</strong></p>\n  <p><strong>刘德生：</strong>微型无人机的机载算力受到体积、重量和功耗的多重限制。算力更强的芯片通常体积更大、功耗更高，不仅增加部署难度，也会影响飞行续航。因此，我们没有简单地通过提高硬件算力来解决问题，而是更多地从算法和系统架构上进行优化。</p>\n  <p>在算法层面，我们针对微型飞行平台设计了轻量化VLN智能体架构，覆盖从输入信息处理、语义理解到动作规划的完整链路，并围绕绕障、轨迹优化和在线策略更新等环节进行适配。同时，我们也对状态信息回传、自主导航和三维环境建模等功能进行了优化。</p>\n  <p>受限于算力，我们会根据具体任务对模型能力进行取舍。例如，在室内环境建模中，系统的重点是识别墙体、门、柱子等关键结构，为飞行和避障提供必要的空间信息，而不是追求高精度的三维重建、细节还原或渲染。这样可以在有限算力下优先保障任务执行所需的核心能力。</p>\n  <p>此外，在应急救援、室内巡检等实际应用中，我们也积累了大量场景数据，并据此持续优化模型和算法策略。我们的思路不是将通用大模型直接搬到微型无人机上，而是围绕垂直应用场景，构建一个轻量化的机载智能体，让有限的算力集中服务于实际任务需求。</p>\n  <p><strong>硬氪：影蜂系列具备集群协同能力。相比单机飞行，实现集群化还需要哪些额外的机载能力和系统部署？</strong></p>\n  <p><strong>刘德生：</strong>首先，集群协同对算力的要求更高，因此影蜂系列的机载算力配置相对更强。与此同时，我们还开发了一套分布式异构集群系统，可以理解为面向多架无人机协同作业的系统软件与算法框架。</p>\n  <p>在系统架构上，地面端主要负责任务规划、控制和状态监视，机载端则承担实时感知、飞行控制和任务执行。单架无人机需要具备目标识别、目标跟踪、多传感器融合和自主避障等能力；在此基础上，集群系统还需要进一步支持多机任务编组、协同规划、任务分配、执行评估及过程回放等功能。</p>\n  <p>这些能力需要地面端与机载端共同完成。通过将任务规划与实时执行进行合理分工，系统可以实现对多架无人机的统一调度和协同控制，即“一控多”，从而提高复杂任务中的作业效率。</p>\n  <p><strong>硬氪：公司未来计划将产品拓展至哪些应用场景？</strong></p>\n  <p><strong>刘德生：</strong>现阶段，我们会优先聚焦地下坑道、管网，以及大型设备内部的检查和检修等空间受限的专业场景。这些环境通常存在光线不足、空间狭窄、卫星导航信号缺失等问题，对飞行器的安全性、自主导航和环境感知能力要求很高。我们希望通过微型智能无人机，为这些场景提供传统设备难以实现的解决方案。</p>\n  <p>在此基础上，我们也会持续提升平台的智能化和集成化能力。我们始终认为，飞机本身只是一个载体，真正重要的是它能否在有限的空间、算力和复杂的环境交互条件下，自主完成具体任务。</p>\n  <p>从更长远来看，微型智能无人机的应用场景还可以进一步延伸。例如，在家庭环境中，飞行器可以用于远程巡视、看护和日常检查等任务。当然，这类应用对安全性、噪声和自主控制能力提出了更高要求，需要技术逐步成熟后才能落地。让微型智能体从专业场景走向更广泛的日常生活，是我们未来希望探索的方向。</p>",
+      "category": "tech",
+      "published_at": "2026-10-16T02:19:53+00:00",
+      "fetched_at": "2026-10-16T02:53:30.599014+00:00",
+      "fingerprint": "abf166fd80606728"
+    },
+    {
+      "source": "少数派",
+      "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
+      "url": "https://sspai.com/post/115238",
+      "summary": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。<a href=\"https://sspai.com/post/115238\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-15T03:00:00+00:00",
+      "fetched_at": "2026-10-16T02:53:28.423083+00:00",
+      "fingerprint": "2f0dcd55ca42d452"
+    },
+    {
+      "source": "少数派",
+      "title": "学得会的快捷指令，零基础入门苹果效率魔法",
+      "url": "https://sspai.com/post/116182",
+      "summary": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=\"https://sspai.com/post/116182\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-15T06:30:00+00:00",
+      "fetched_at": "2026-10-16T02:53:28.423076+00:00",
+      "fingerprint": "426911ff598c7eca"
+    },
+    {
+      "source": "少数派",
+      "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
+      "url": "https://sspai.com/post/116181",
+      "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...<a href=\"https://sspai.com/post/116181\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-15T08:09:12+00:00",
+      "fetched_at": "2026-10-16T02:53:28.423070+00:00",
+      "fingerprint": "036c34c45ffb2198"
+    },
+    {
+      "source": "少数派",
+      "title": "新玩意 253｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/116246",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/116246\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-15T09:10:14+00:00",
+      "fetched_at": "2026-10-16T02:53:28.423062+00:00",
+      "fingerprint": "3f1c47a9ee3f3660"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+      "url": "https://sspai.com/post/116355",
+      "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。<a href=\"https://sspai.com/post/116355\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-16T00:23:12+00:00",
+      "fetched_at": "2026-10-16T02:53:28.423050+00:00",
+      "fingerprint": "ebf4b359802fee1d"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6241 CNY ↓-1.43%",
+      "url": "https://www.frankfurter.app/2026-10-15?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-15</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6241 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0672 (-1.43%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-16T02:53:27.110583+00:00",
+      "fingerprint": "06d6dfc19cd6e55e"
+    },
     {
       "source": "The Guardian - World",
       "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
@@ -1851,246 +2151,6 @@
       "published_at": null,
       "fetched_at": "2026-10-09T04:17:27.059173+00:00",
       "fingerprint": "d6281554874620bd"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
-      "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
-      "category": "politics",
-      "published_at": "2026-10-08T03:00:50+00:00",
-      "fetched_at": "2026-10-08T04:12:11.289609+00:00",
-      "fingerprint": "a57b801d7a7f98a0"
-    },
-    {
-      "source": "BBC World News",
-      "title": "France's school protests: what lies behind the anger",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
-      "category": "politics",
-      "published_at": "2026-10-08T03:38:46+00:00",
-      "fetched_at": "2026-10-08T04:12:11.289604+00:00",
-      "fingerprint": "db17a20213d576c0"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "category": "politics",
-      "published_at": "2026-10-08T00:09:17+00:00",
-      "fetched_at": "2026-10-08T04:12:11.289600+00:00",
-      "fingerprint": "e8901cdd20f5305a"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
-      "category": "politics",
-      "published_at": "2026-10-08T03:02:06+00:00",
-      "fetched_at": "2026-10-08T04:12:11.289592+00:00",
-      "fingerprint": "7cd215739149b460"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「地球不只有一個北極」——怎麼講？",
-      "url": "https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "北極有不止一種定義，有些甚至不是固定不動的。",
-      "category": "politics",
-      "published_at": "2026-10-08T02:16:46+00:00",
-      "fetched_at": "2026-10-08T04:12:11.204961+00:00",
-      "fingerprint": "be6d5bef8044c76f"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
-      "url": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "俄羅斯一名實驗室技術員在西伯利亞一家鼠疫研究中心死亡，引發了人們對實驗室可能發生病毒洩漏的疑慮。",
-      "category": "politics",
-      "published_at": "2026-10-07T10:24:31+00:00",
-      "fetched_at": "2026-10-08T04:12:11.204949+00:00",
-      "fingerprint": "209d6d742b5b78ee"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "派拉蒙合併華納兄弟：可能以四種方式影響你的生活",
-      "url": "https://www.bbc.com/zhongwen/articles/cwvgdlgq3110o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "流媒體平台會漲價？CNN 和 CBS 獨立性如何保證？以及總計156部電影的上映承諾。",
-      "category": "politics",
-      "published_at": "2026-10-08T01:10:42+00:00",
-      "fetched_at": "2026-10-08T04:12:11.204940+00:00",
-      "fingerprint": "a96ec1b3b3d80930"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美國中期選舉是甚麼？這是一份簡易指南",
-      "url": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美國選民將於11月3日前往投票，這場選舉的結果可能對唐納德·特朗普（川普）的總統任期產生重大影響。",
-      "category": "politics",
-      "published_at": "2026-10-08T01:00:02+00:00",
-      "fetched_at": "2026-10-08T04:12:11.204925+00:00",
-      "fingerprint": "30e500462b029c87"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Cleo (Mathematician)",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-08T04:12:10.759633+00:00",
-      "fingerprint": "ef2a483c89199d0a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-08T04:12:10.759510+00:00",
-      "fingerprint": "7a8cf8c0d5d68b4f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Living off-grid: Hundred Rabbits",
-      "url": "https://100r.ca/site/home.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-08T04:12:10.759378+00:00",
-      "fingerprint": "27b1d0d72c90c8f7"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-08T04:12:10.759248+00:00",
-      "fingerprint": "39d2fed3d43463e5"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-08T04:12:10.759096+00:00",
-      "fingerprint": "cdb1d51fae043110"
-    },
-    {
-      "source": "The Verge",
-      "title": "We found some great October Prime Day deals under $50",
-      "url": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
-      "summary": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer a lot of practical value. Everything from chargers to [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-07T20:30:00+00:00",
-      "fetched_at": "2026-10-08T04:12:10.397362+00:00",
-      "fingerprint": "54889216cb682dba"
-    },
-    {
-      "source": "The Verge",
-      "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
-      "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
-      "summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight from Android phones circa 2014. On every Googlebook keyboard, the F1, F2, and [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-07T20:44:34+00:00",
-      "fetched_at": "2026-10-08T04:12:10.397358+00:00",
-      "fingerprint": "cb9c440eefec8585"
-    },
-    {
-      "source": "The Verge",
-      "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-      "summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. But almost everything [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-07T21:19:54+00:00",
-      "fetched_at": "2026-10-08T04:12:10.397354+00:00",
-      "fingerprint": "3d4fe48f52fe06bb"
-    },
-    {
-      "source": "The Verge",
-      "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-      "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-      "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-07T22:01:00+00:00",
-      "fetched_at": "2026-10-08T04:12:10.397345+00:00",
-      "fingerprint": "07f028a05d607400"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨中国航协回应东航空姐跪地道歉事件；DeepSeek新一轮融资逼近1000亿；安踏集团正式成为彪马最大股东",
-      "url": "https://36kr.com/p/4016467711316101?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>SpaceXAI官宣更名SpaceXSI</li>\n   <li>OpenAI将在欧盟为ChatGPT和Codex文本输出添加隐形水印</li>\n   <li>2026年诺贝尔化学奖、物理学奖揭晓</li>\n   <li>7-11便利店退出印度</li>\n   <li>苹果一号电脑或拍出80万美元</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>中国航协回应东航空姐跪地道歉事件</strong></p>\n  <p>10月7日，中国航协发文回应“东航空姐跪地道歉”事件。中国航协称，东航航班客舱服务中，餐车偶发触碰旅客，当班乘务员、乘务长多次致歉并开展服务补救后，该旅客仍对乘务员进行言语攻击与威胁。目前，东航已完成证据固定并正式报案。中国航协表示，乘务员人格尊严和履职权益受法律保护，旅客辱骂、恐吓工作人员已超出正常维权边界，涉嫌违反民用航空法和治安管理处罚法，并呼吁旅客文明乘机、理性维权。（澎湃新闻）</p>\n  <p><strong>DeepSeek新一轮融资逼近1000亿</strong></p>\n  <p>10月6日，据媒体报道，杭州深度求索人工智能基础技术研究有限公司（以下简称“DeepSeek”）已接近锁定最新一轮至少800亿元人民币融资，最终规模按已签署条款清单可逼近1000亿元，远超公司最初约500亿元募资目标。此前有报道称，DeepSeek本轮目标估值约5000亿元人民币，但未言明投前或投后估值。本轮融资规模或近千亿元，意味着DeepSeek实际估值水平并未较此前完成的首轮有明显提升。消息指出，以上融资程序接近收官，宁德时代与腾讯控股或成为承诺出资金额最高的投资方，且所筹资金将为公司IPO铺路。（21世纪经济报道）</p>\n  <p><strong>安踏集团完成收购彪马29.06%股权，正式成为最大股东</strong></p>\n  <p>36氪获悉，10月7日，安踏体育用品有限公司宣布，已完成以15.055亿欧元现金对价向Pinault家族的投资公司Artémis SAS收购全球标志性运动品牌彪马（PUMA）所属公司PUMA SE 29.06%股权的交易，并已获得所有相关监管机构批准及满足惯例交割条件，安踏集团正式成为彪马的第一大股东。</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI面向全球所有ChatGPT用户全面上线GPT-6</strong></p>\n  <p>OpenAI面向全球所有ChatGPT免费及付费用户全面上线GPT-6，正式取代GPT-5.6 SOL与GPT-5.6 LUNA。GPT-6集成Astra安全技术改进，强化针对网络、生物与暴力领域滥用的防护。（财联社）</p>\n  <p><strong>马斯克率先为AI改名，SpaceXAI官宣更名SpaceXSI</strong></p>\n  <p>10月4日，马斯克在社交平台X上正式确认，旗下人工智能业务SpaceXAI将更名为SpaceXSI。他在回复网友提问时直接表态：“是的，我们会做出这个改变”，并补充称“不再叫AI，叫SI，这样更好”。随后，马斯克还发文宣称“SpaceX是一家超级智能公司”。这意味着，SpaceXAI在短短数月内将迎来第二次品牌更名。今年2月，马斯克旗下的航天公司SpaceX以全股票方式收购了他创立的人工智能公司xAI，Grok大模型和社交平台X也随之并入SpaceX体系。7月，xAI正式完成品牌重组，更名为SpaceXAI，同步更换了标识和X平台用户名。（新浪财经）</p>\n  <p><strong>谷歌AI图像模型Nano Banana 2.1发布，提升视觉设计、蒙版编辑、主体一致性</strong></p>\n  <p>IT之家10月7日消息，谷歌于今日正式发布了Nano Banana 2.1，这是该公司AI图像生成与编辑模型的升级版本。谷歌强调，新版Nano Banana 2.1实现了全方位提升，在视觉设计、基于蒙版的图像编辑以及主体一致性这几方面的进步尤为突出。改进后的主体一致性对于Gemini用户而言实用性很强，可以保证同一个人物或者物体在多次生成结果当中保持样貌统一。谷歌Nano Banana 2.1现已逐步部署上线，覆盖Gemini应用、谷歌搜索的AI模式、Google AI Studio、Google Flow、Stitch、谷歌广告以及Gemini企业平台。（IT之家）</p>\n  <p><strong>OpenAI将在欧盟为ChatGPT和Codex文本输出添加隐形水印</strong></p>\n  <p>IT之家10月5日消息，OpenAI今日宣布，为配合《欧盟人工智能法案》的内容透明要求，未来几周将在欧盟地区符合条件的ChatGPT和Codex文本输出中加入机器可识别的隐形水印。据介绍，文本水印技术名为textGrain（文本粒水印），会在模型选词过程中嵌入不可见的统计信号。检测器通过识别该信号，判断一段文本是否带有OpenAI水印。据了解，OpenAI下一步将在欧盟推广文本水印。未来几周，团队将仅在欧盟所有计划中向符合条件的ChatGPT和Codex用户引入文本水印功能。值得一提的是，OpenAI不会在发布时将文本水印设为全球默认。（IT之家）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>星巴克回应“无糖饮料”含糖</strong></p>\n  <p>10月6日，据中新经纬消息，近日有消费者在美国西雅图地区发起诉讼，指控星巴克八款蛋白饮料虽标注“无糖（Sugar-Free）”，但实际上含有不同量的糖，涉嫌虚假宣传。界面新闻查询星巴克美国官网看到，一款16盎司的冰无糖香草蛋白拿铁，营养表中明确标注含糖量为9克；同规格热款无糖香草蛋白抹茶，总糖含量达到16克，更大杯型20盎司版本总糖甚至达到20克。产品配料表写有牛奶以及乳清分离蛋白（来源于牛奶）。对此，星巴克方面表示，饮料中的糖分来自牛奶，产品本身没有加糖，使用了无糖糖浆调味。星巴克发言人则称，“公司一直持续、清晰地在产品公告、菜单、营销材料、官网和APP中，提供其蛋白质饮料、无糖选项、定制选择和营养成分的有关产品信息，我们打算坚决辩护。”</p>\n  <p><strong>2026年诺贝尔化学奖揭晓，2名科学家获奖</strong></p>\n  <p>当地时间10月7日，瑞典皇家科学院决定将2026年诺贝尔化学奖授予2名科学家。奖项授予亨利·卡根（Henri Kagan）和硤合宪三（Kenso Soai），以表彰他们在不对称有机合成中的非线性效应和自催化方面的发现。获奖者将平分1200万瑞典克朗（约合802万元人民币）奖金。（中国基金报）</p>\n  <p><strong>苹果强制开发者适配iPhone Duo</strong></p>\n  <p>苹果首款折叠屏手机iPhone Duo将于10月23日正式发售，苹果出台相关强制适配规则，明确自2027年4月起，所有应用必须提供iPhone Duo适配专属截图，否则将无法更新上架。目前该要求尚处于过渡期，未完成适配的旧应用仍可正常运行，若到2027年4月后相关应用仍未补齐对应适配截图，将无法进行更新操作。（凤凰网科技）</p>\n  <p><strong>保时捷：计划员工规模削减25%，汽车业务净现金流利润率目标9%-12%</strong></p>\n  <p>保时捷在资本市场日发布会材料中表示，集团中期目标销售营业回报率为10%-15%，汽车业务净现金流利润率目标9%-12%。长期目标为集团销售营业回报率15%，汽车业务净现金流利润率12%。集团中期营收目标区间410亿欧元至450亿欧元，现金生成能力预计实现超比例增长。公司计划通过精益运营与成本削减，将盈亏平衡点降至20万辆以下。公司中期管理层岗位裁减40%。员工规模削减25%，战略目标为裁减30%。（新浪财经）</p>\n  <p><strong>苹果一号电脑或拍出80万美元</strong></p>\n  <p>一台罕见的苹果一号电脑正在邦瀚斯拍卖行进行线上拍卖，开放竞价日期为本月（10月）4日至14日，估价为50万美元至80万美元。据拍卖行介绍，这台电脑由原主人于1976年购入，主板上有苹果联合创始人沃兹尼亚克的签名。苹果一号电脑是苹果公司的首款电脑产品，以组装好的电路板形式出售，当时售价666美元，目前确认存世的不足75台。（央视财经）</p>\n  <p><strong>美联储10月维持利率不变的概率为80.6%</strong></p>\n  <p>据CME“美联储观察”：美联储到10月维持利率不变的概率为80.6%，累计加息25个基点的概率为19.4%。美联储到12月维持利率不变的概率为21.7%，累计加息25个基点的概率64.1%，累计加息50个基点的概率为14.2%。（财联社）</p>\n  <p><strong>国际能源署成员国同意加快释放1亿桶石油储备</strong></p>\n  <p>当地时间7日，国际能源署（IEA）发表声明说，其成员国政府同意加快落实今年3月宣布的石油储备释放计划。若此前承诺但尚未释放的储备全部投放市场，预计还可释放约1亿桶石油。声明还说，针对当前柴油市场供应紧张的情况，其成员国同意在条件允许的情况下优先投放柴油。（央视新闻）</p>\n  <p><strong>美股三大指数收盘集体下跌，大型科技股涨跌不一</strong></p>\n  <p>36氪获悉，10月8日收盘，美股三大指数集体下跌，道指跌0.66%，纳指跌0.22%，标普500指数跌0.22%。大型科技股涨跌不一，奈飞、亚马逊涨超1%，苹果、谷歌、英特尔、微软小幅上涨；SK海力士、Meta跌超2%，特斯拉、英伟达小幅下跌。热门中概股涨跌互现，京东涨2%，蔚来、网易涨超1%，理想汽车、小鹏集团小幅上涨；富途控股跌超3%，阿里巴巴、百度跌超2%，老虎证券跌超1%。</p>\n  <p><strong>印度央行近四年来首次加息，暗示可能进一步收紧货币政策</strong></p>\n  <p>印度央行近四年来首次加息，随着通货膨胀加剧和货币贬值，印度央行也和亚洲其他央行一道收紧货币政策。印度央行货币政策委员会一致投票决定提高基准利率25个基点至5.5%，符合彭博调查所得大多数经济学家的预测。这是自Sanjay Malhotra于2024年12月出任行长以来首次加息。印度央行将货币政策立场从“中性”调整为“校准式收紧”，释放出未来可能进一步加息的信号。（新浪财经）</p>\n  <p><strong>7-11便利店退出印度</strong></p>\n  <p>据新华社报道，日本零售业巨头7&amp;I控股公司6日发布声明说，其旗下连锁便利店品牌7-11位于印度的所有门店均已关闭。法新社援引7&amp;I控股公司发言人消息报道，获得相关特许经营权后，信实零售公司2021年10月在孟买开设了印度的首家7-11便利店，发展最好的时候在印度共开店约60家。声明中，7&amp;I控股公司未说明7-11便利店退出印度的原因。但据《读卖新闻》等日本媒体报道，7-11便利店遭遇了来自印度本土零售商的激烈竞争。（新华社）</p>\n  <p><strong>2026年诺贝尔物理学奖揭晓</strong></p>\n  <p>当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台的决定性贡献以及对天体物理来源高能中微子的发现。（央视新闻）</p>\n  <p><strong>2026国庆档总票房破11亿</strong></p>\n  <p>36氪获悉，据灯塔专业版消息，2026年国庆档（10月1日—10月7日）档期总票房突破11亿，《神探之痕迹》《什么意思夫妇》《生化危机：爆发夜》《欢迎来龙餐馆》《小猪佩奇·完美假期》位列档期票房前五。</p>\n  <p><strong>派拉蒙天舞完成对华纳兄弟收购</strong></p>\n  <p>经过数月的竞购角逐以及法律拉锯战，派拉蒙天舞公司10月6日宣布完成对华纳兄弟探索公司价值约1100亿美元的收购，打造出一家横跨好莱坞和新闻行业的全新超级传媒集团。这是美国传媒行业历史上规模最大的并购交易之一。（新华社）</p>\n  <p><strong>中国央行连续第23个月增持黄金</strong></p>\n  <p>中国9月末黄金储备报7747万盎司（约2409.59吨），环比增加74万盎司（约23.02吨），8月末黄金储备报7673万盎司（约2386.57吨）。中国央行已连续第23个月增持黄金。（财联社）</p>\n  <p><strong>三星电机计划斥资近50亿美元在韩国和越南扩产半导体基板</strong></p>\n  <p>据报道，三星电机计划到2028年在韩国和越南投资近50亿美元，用于半导体基板生产，进一步提升越南在人工智能服务器和高性能计算关键零部件生产中的地位。其中一项投资规模为4.27万亿韩元（32亿美元），用于韩国世宗工厂，是公司迄今针对单一产品进行的最大规模投资；另一项投资规模为2.51万亿韩元（18.7亿美元），用于越南子公司。该公司曾于2022年宣布将在越南北部太原省测试FC-BGA基板。如今该设施的扩建表明试生产结果符合预期，公司已准备好进入大规模量产阶段。（财联社）</p>\n  <p><strong>国内航线燃油附加费将上涨</strong></p>\n  <p>10月6日消息，根据航班管家DAST，航司最新通知，自10月10日起，国内航线燃油附加费将上调：800公里以上航段收取90元，比8月、9月涨20元；800公里以下收取50元，比8月、9月涨10元。（第一财经）</p>\n  <p><strong>全球纯燃油车新车销量占比首次跌破50%，上半年纯汽油车占比降至49%</strong></p>\n  <p>据财联社报道，Mobility Global最新数据显示，2026年上半年，纯汽油车型占全球新车销量的49%，这是历史上纯汽油车销量占比首次跌破五成，且较2021年的73%大幅下降了24%。数据还显示，今年上半年，整体汽车市场规模收缩约5%，而纯汽油车销量的下滑幅度达到了大盘的两倍。业内人士将市场加速转变归因于油价。即受中东冲突影响，燃油价格大幅飙升，消费者开始寻求用车成本更低的车型。（财联社）</p>\n  <p><strong>SpaceX据悉拟融资400亿美元用于购买英伟达芯片</strong></p>\n  <p>媒体援引知情人士报道称，马斯克旗下的SpaceX正寻求融资400亿美元，用于购买英伟达芯片，凸显人工智能（AI）算力需求依然强劲。该报道称，SpaceX寻求约100亿美元银行贷款并计划发行300亿美元投资级债券，为芯片采购融资。阿波罗全球管理预计将牵头这笔交易，并协助向投资者出售SpaceX债券。交易预计于2027年完成。（新浪财经）</p>\n  <p><strong>俄罗斯辟谣肺鼠疫传言</strong></p>\n  <p>据环球时报援引法新社等媒体6日报道，在有报道称俄罗斯伊尔库茨克地区一名实验室技术人员疑似感染肺鼠疫身亡后，俄罗斯方面否认正在实施针对肺鼠疫的防疫措施，并就社交媒体上的传言做出澄清。据了解，近日俄罗斯当地媒体报道称，这名死者可能因试管破裂而感染了肺鼠疫，200名可能与她有过接触的人员已被隔离。伊尔库茨克州州长科布泽夫表示，俄罗斯消费者权益保护和公益监督局的检查发现，该女子死于肺炎，但具体病因“未确定”。（环球时报）</p>\n  <p><strong>恒生科技指数将把成分股扩充至50只</strong></p>\n  <p>恒生指数公司宣布恒生科技指数咨询结果，将对恒生科技指数进行六项改革，并将于12月实施。第一，取消合资格候选公司必须属于恒生行业分类系统五个指定行业的要求。第二，整合及拓展现有主题，并新增前沿科技主题。修订后的六大科技主题为：数码平台及解决方案；人工智能；先进硬件；机器人及自动化；云端；前沿科技。第三，将科技子主题由16个增至24个，以配合上述六大科技主题的修订。第四，引入分组选股机制，将选股范畴由主板上市公司修订至恒生综合大中型股指数成份股。第五，采用双组别选股机制，分别以市值排名及收入增长排名作为选股准则。非现有成份股另须符合过去三个月日均成交额最少一亿港元的要求；按收入增长排名入选的成份股，则须于最近连续两个财政年度均录得最少五亿港元的年收入。第六，将成份股数目由30只增加至50只，其中按市值排名选取首40只，余下10只则按过去十二���月的收入增长排名选取。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>快手可灵AI计划最早明年赴港上市，至少融资10亿美元</strong></p>\n  <p>据了解，快手旗下视频生成大模型可灵AI计划最早明年赴港上市，至少融资10亿美元。（财联社）</p>\n  <h2>投融资</h2>\n  <p><strong>月之暗面据悉完成IPO前融资，最新估值约500亿美元</strong></p>\n  <p>据知情人士透露，月之暗面已经完成最后一轮私募融资，估值约500亿美元，并正推进明年第一季度在香港进行首次公开募股（IPO）。（新浪财经）</p>\n  <p><strong>多家阿联酋基金以及贝莱德据悉商谈参与OpenAI最新一轮300亿美元融资</strong></p>\n  <p>知情人士称，包括MGX在内的多家阿联酋投资基金正在与OpenAI洽谈，可能参与这家人工智能巨头最新一轮300亿美元融资。其中一位知情人士表示，这些基金将组成一个财团参与OpenAI这轮融资。另一位人士称，这些阿联酋基金讨论的合计投资金额最高达到100亿美元。知情人士表示，贝莱德也在商谈参与这轮融资。融资仍在进行中，具体条款可能发生变化。因涉及未公开信息，这些知情人士要求匿名。（智通财经）</p>\n  <h2>酷产品</h2>\n  <p><strong>苹果与LG联合开发门铃门锁等</strong></p>\n  <p>据报道，苹果公司即将进军智能家居设备领域，新品将包括与LG电子联合开发的门铃、温控器以及其他配件。这些产品将纳入一个设备生态系统，该系统不仅支持苹果的新款智能家居中枢，还可以搭配升级后的HomePod mini和全新的电视机顶盒使用。报道称，与LG电子联合开发的产品还包括智能门锁、室内安防摄像头、室外安防摄像头以及泛光灯摄像头，产品将使用LG品牌对外发售。（财联社）</p>\n  <p class=\"editor-note\"><strong>整理丨</strong>昌怡</p>",
-      "category": "tech",
-      "published_at": "2026-10-08T00:04:11+00:00",
-      "fetched_at": "2026-10-08T04:12:10.220396+00:00",
-      "fingerprint": "f5e9ff96110f1c5a"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "深创投、元禾原点押注一家水下机器人，9个月内已完成5轮融资丨36氪首发",
-      "url": "https://36kr.com/p/4016617284014210?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_6bbddb851b8e4b2aac0302863ab4c161@6221844_oswg2657809oswg1683oswg935_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2900</strong>字，建议阅读<strong>6</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，海洋具身智能公司卫澜深海在9个月内已完成5轮融资，轮次推进至天使++++轮，核心股东包括深创投、元禾原点、国策资本等机构，老股东英诺天使持续加注。资金主要用于训练水下具身智能模型，建设水下具身智能训练中心，以及深化机器人在海洋油气能源场景下的应用。卫澜深海想做的事情，可以用一句话概括：用机器人拓展人类的海洋能力边界，代替昂贵且危险的水下人工作业。</p>\n  <p>创始人张大禹98年出生，西安交通大学博士、助理教授，拥有12年水下无人系统研发经验，高中起申请发明专利30余项，发表顶刊论文10余篇，主持2项国家级项目。卫澜深海已经组建了覆盖具身智能研发、工业部门国家队、水下能源行业市场的全链条顶尖团队。卫澜深海CTO是出身中国船舶集团的总设计师，主持型号装备等十余项国家级重大科研项目，总经费超过20亿元。</p>\n  <p>卫澜深海聚焦海洋具身智能机器人领域，专注海洋具身智能平台技术研发以及水下机器人产业应用。公司已经构建由真实业务驱动的具身智能数据训练管线，通过“通用平台+模块化载荷”的方式实现水下泛化作业能力。目前公司已经为海洋业主客户交付海底能源设施全自主巡检作业服务。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_14042a2ef0e341f5aa8e6c4cac33ed9e@6221844_oswg73297oswg813oswg338_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>海洋当中藏有3倍于陆上的巨量资源，但人类不是水生生物。即使经过数百万年的进化，海平面以下仍然是人难以触及的高危环境；即使通过复杂的水下作业保障体系，潜水员也只能形成极为有限的作业能力——人在水下待不住，也待不起。卫澜深海研发的「超级蛙人号」海洋具身智能机器人就是要突破人类在水下能力边界，在海平面以下完成自主作业，去挖掘数百年来人类尚未触及的海底宝藏。</p>\n  <p>在海洋环境中，一个具身智能机器人的价值不仅仅是代替了一个劳动力，而是代替了整个水下作业保障体系。深度超过120米的饱和潜水作业需要一艘专业的饱和潜水支持船和数十名保障人员，报价超过100万元/天。人工水下作业保障体系的巨大成本是海洋具身智能的收益率。另外，在海洋环境中具身智能机器人硬件条件更容易超越人。即使对标���英潜水员，机器人的下潜深度是潜水员的5倍以上，机器人的作业范围是潜水员的千倍以上，可达到200公里。因此，水下作业极有可能是具身智能首个大规模代替人类的场景。</p>\n  <p>海洋环境与陆地环境有巨大差别，研发在海洋可随时调用的具身智能机器人需解决三方面问题。第1个是水下感知问题。因为水和空气是不同的介质，可见光在水下的衰减频率远高于陆地上，简言之，水下难以看清10米之外的物体。第2个是可靠性问题。水下作业场景对任务成功率和可靠性指标要求严苛，水下的作业对象是昂贵的海底基建，如果机器人不能有效应对corner case，将面临停产等重大损失。第3个是能源问题。水下作业区域距离岸上电网极远，且需覆盖的水下作业区域跨度极大。</p>\n  <p>为了解决以上三大问题，卫澜深海研发了「超级蛙人号」海洋具身智能机器人，其中“水下机器人通用平台”负责远程投送和水下灵巧作业，“海底星链基座”作为水下能源通讯载体。“水下机器人通用平台”的声光磁跨尺度感知融合方案把声学、光学和磁场信息融合，使机器人获得超人类的水下感知能力，机器人可以像海豚一样直接处理声呐信息。“海底星链基座”突破了深海超低流速启动问题和叶轮偏航问题，可在全海域全海底地形实现快速部署，为水下机器人平台提供能源和通讯支持。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_22b1a5c9b46743e7be7566e96263670e@6221844_oswg165627oswg1080oswg697_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>硬氪了解到，“水下机器人通用平台”的水下定位精度误差不超过1米、准确率达95%以上，双6自由度机械臂负载10公斤以上，续航48小时，最大航速12节，具备3节全向抗流能力，可以在恶劣的海况下完成精细水下作业。“海底星链基座”的能量捕获面积可达10平方米，是机器人投影面积的数十倍，可以达到动力电池级别的水下供电能力。作为对比，波音公司发布的“Lamprey”水下智能机器人的捕能面积仅能达到机器人投影面积的50%，难以提供千瓦级的水下供电能力。对比诺斯罗普·格鲁曼公司的温差能方案以及Pliant Energy Systems的介电体捕能方案，卫澜深海在水下供电能力和系统可靠性方面处于国际领先地位。</p>\n  <p>经过十余年的技术积累，卫澜深海目前已经交付了第四代“超级蛙人号”海洋具身智能机器人，为海洋业主客户完成了海底能源设施全自主巡检作业项目。</p>\n  <p>“目前用机器人代替水下作业是行业共识，但技术路线还没有收敛。”张大禹说。卫澜深海强调“错位合作”——卫澜深海第一步先在海洋业主客户的存量海底基建中打通垂向应用场景，再随海洋产业的增量市场做泛化水下作业。</p>\n  <p>在完全实现水下作业无人化方面，他给了一条类似L2到L3自动驾驶的路线：先基于仿真器数据训练一个基础作业模型，将搭载了预训练模型的机器人嵌入现有水下基建维保流程中，让机器人处于人可实时干预修正的条件下完成自主作业，在部署阶段不断收集作业数据和人类的反馈数据，这些数据用于不断训练作业模型，逐渐从人在环路过渡到全自主无人干预的水下作业。</p>\n  <p><strong>以下为硬氪与公司创始人张大禹的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：卫澜深海的商业化路径是怎样的？&nbsp;</strong></p>\n  <p><strong>张大禹：</strong>水下作业市场，客户最关心的是你能不能把水下作业需求干完、干好，而不是你的模型参数和泛化能力。因此，我们商业模式分三步：做示范性项目、卖标准化服务能力、卖机器人。</p>\n  <p>我们第一步不是卖整机，而是用标准化服务能力绑定大客户。先完成2到3个强示范性服务案例，验证新模式的效率以及成本优势，进而推动大量的标准化服务，整合行业水下作业标准，搭建水下无人作业体系，最后，退回到整机供应商，以“通用平台+模块化载荷”的方式在确保产品可靠性的同时，实现水下泛化作业能力。</p>\n  <p><strong>硬氪：水下感知是困扰行业几十年的难题，卫澜深海的解法是什么？</strong></p>\n  <p><strong>张大禹：</strong>水下感知最大的问题是数据缺失。岸上可以用互联网级别的数据训练VLA模型，水下几乎没有声光磁同步数据。所以我们开发了水下具身智能仿真器，具备声场、视觉和磁场的感知训练能力，可以在模拟不同水域的水下作业场景并生成大量数据，目标是把声学、视觉和磁场信息融合，让机器人像海豚一样直接处理声呐信息，而不是先看到一个声呐图像再去二次判别。这需要大量的数据和基模相关的工作，也是我们目前投入最多的方向。</p>\n  <p><strong>硬氪：公司目前阶段最大的挑战是什么？</strong></p>\n  <p><strong>张大禹：</strong>我们有两个核心问题需要解决。第一是水下数据问题，我们开发了水下具身智能仿真器并跑通了由真实业务驱动的数据管线。第二是极致的机器人可靠性。如果只做移动观测平台，可靠性可以满足；但要做物理交互，比如用机械手拧阀门，需要更强的可靠性以及对corner case的处置能力。水下环境中一旦机器人卡死，将造成严重的安全事故。我们今年要完成长时间无故障运行，这是最关键的挑战。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>深创投：</strong>海平面以下是全球最大的高危环境，也是迫切需要具身智能代替人类的场景。在这个领域需要强大的正向研发能力，才能克服海洋中的难题，进而开发人类未曾开发的宝藏。我很高兴看到卫澜深海团队在海洋具身智能领域的积累和进步，期待他们在建设海洋强国的路途上闯出一片天地。</p>\n  <p><strong>元禾原点：</strong>3.6亿平方公里的海洋孕育着无限机遇，在人难以触及的环境中去拓展人类能力边界，可以彻底开发巨量海洋资源。我很看好卫澜深海团队在水下能源供应和自主作业方面的技术积累，期待他们的水下作业解决方案可以改变行业，拉近人类和海洋的距离，在向海图强的国家战略中贡献自己的力量。</p>",
-      "category": "tech",
-      "published_at": "2026-10-08T02:35:03+00:00",
-      "fetched_at": "2026-10-08T04:12:10.220385+00:00",
-      "fingerprint": "847ea099c552de7e"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "硬氪首发丨AI眼镜企业天使轮融资数亿，已与线下数百家门店合作月发售数千台",
-      "url": "https://36kr.com/p/4016645063217281?f=rss",
-      "summary": "<p>硬氪获悉，智能眼镜品牌NIMO所属公司比特幻境近日完成数亿元人民币天使轮融资，最新估值达15亿元。本轮投资方包括博华资本、戈壁创投、元禾璞华，以及尚势资本等相关投资机构。融资资金将主要用于产品研发、渠道拓展及海外市场布局。</p>\n  <p>比特幻境成立于2025年7月，2026f年4月，NIMO将收首款产品推向市场。目前，NIMO月度销售规模已达数千台，正持续推进产品在LOHO线下门店的布局,并已与香港上市公司、拥有逾50年行业积累的国际眼镜制造商雅视光学(01120.HK)达成深度合作。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_160356abc10c42ae89b193938461f236@6310669_oswg78086oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">NIMO首款产品</p>\n  <p>如果把过去几年的智能眼镜看作一场功能竞赛，NIMO试图走的是另一条路——先把智能眼镜重新做成一副“愿意戴”的眼镜。这源于创始团队的观察：在资本持续关注智能眼镜的同时，现实生活中普通人仍然很难频繁看到身边有人佩戴智能眼镜。</p>\n  <p>联合创始人何迪龙判断，这个品类真正要跨过的门槛，并不只是显示、AI或芯片能力，而是能否让智能功能自然进入眼镜原本的形态、佩戴和消费逻辑。</p>\n  <p>在这一理念上，NIMO的定位为时尚科技眼镜品牌，团队给产品设定的前提并不是“在眼镜上增加多少智能功能”，而是首先让它成为一副具备日常佩戴属性的眼镜——外形、比例、材质、触感和佩戴舒适度，都需要回到传统眼镜的评价体系中。</p>\n  <p>这一判断也直接影响了NIMO对产品功能的取舍。相比把摄像头、音频、更多主控芯片等能力尽可能塞进镜框，NIMO在首款产品中主动砍掉了部分功能，把有限的重量和空间留给显示、结构和佩戴体验。</p>\n  <p>何迪龙提到，NIMO在调研了大量用户需求后发现，眼镜的佩戴舒适是用户选择购买智能眼镜的第一需求，拍照和扬声器极大的增加了产品体积，让用户产生了佩戴不适感，对极致的重量追求最终导致NIMO做出了功能取舍，“同时我们也在定制全新的摄像头和扬声器方案在未来给到用户更多的场景选择。”</p>\n  <p>这种“先做一副好眼镜”的产品定义，最终落到了光学、结构和材料等一系列技术选择上。</p>\n  <p>显示系统的起点，是一枚尺寸仅0.06英寸的MicroLED微显示芯片。据了解，该芯片属于全球最小尺寸的量产硅基微显示产品，功耗较同类芯片降低70%。微型化的显示核心，为光机与整机设计释放出更多空间；更低的显示能耗，则为产品在保持轻量化的同时实现更长续航提供支持。</p>\n  <p>围绕这枚微显示芯片，NIMO将自研超微型光机的体积压缩至0.03cc，即30立方毫米，并将投射影像的光学核心集成于镜腿前端的铰链区域，让复杂的显示能力隐入眼镜原本的轮廓。</p>\n  <p>与之配合的，是厚度0.6mm的体全息波导镜片。通过近乎隐形的光栅设计与精细的漏光控制，镜片在呈现信息的同时，保持通透自然的外观，减少显示时向外透出的绿光。</p>\n  <p>轻量化则是另一条贯穿产品设计的技术路径。NIMO目前产品重量约29克，何迪龙称，这是行业内首次实现显示类AI眼镜做到30g以内，镜框采用高分子复合碳纤维材质，结构中使用β钛合金铰链，并通过前端光机、镜腿尾部电池以及两侧元件的布局进行配重。</p>\n  <p>对智能眼镜而言，重量本身只是一个结果，更关键的是重量落在哪里、镜腿是否产生压迫，以及长时间佩戴后的实际感受。因此，NIMO并没有把“29克”单独作为产品卖点，而是把材料、结构、铰链和前后配重放在同一个系统里考虑。采访中团队也提到，传统眼镜的制造工艺，如抛光，电镀等后工艺同样被纳入产品开发，这背后的逻辑是让智能眼镜在电子产品之外，也具备传统眼镜对触感、表面和结构细节的要求。</p>\n  <p>在供应链上，NIMO采取的并不是简单采购标准件的方式，而是试图把上游供应链拉进共同研发。何迪龙表示，部分关键器件并没有现成的成熟方案，而是由NIMO提出产品需求和技术方案，再与供应商共同完成开发。例如0.03cc微型光机，就是围绕镜腿空间重新定义后的结果。</p>\n  <p>商业化层面，NIMO也选择了一条更接近传统眼镜行业的路径。谈及线下合作，何迪龙告诉硬氪，对于NIMO而言，线下门店并不只是增加一个销售入口，而是因为智能眼镜依然需要面对传统眼镜行业的验配、试戴、镜片更换、售后和用户教育等问题——如果产品的第一属性仍然是“眼镜”，那么它就需要进入用户原本购买眼镜的场景。</p>\n  <p>从更长期来看，NIMO希望智能逐渐成为眼镜自然拥有的一种能力，让用户仍然基于审美、佩戴需求和生活方式选择眼镜，同时获得显示和智能功能。“最终我们希望NIMO做的并不只是一个单一的智能眼镜产品，而是把眼镜本身、智能能力和未来的应用生态结合起来，让智能眼镜真正成为一个用户愿意长期佩戴的产品。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261008/v2_12a499929bf74c099e2dfa78de43a1e0@6310669_oswg82228oswg900oswg900_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">NIMO首款产品</p>\n  <p><strong>以下是硬氪与NIMO联合创始人何迪龙的访谈节选：</strong></p>\n  <p><strong>硬氪：NIMO为什么要从“眼镜”本身出发做智能眼镜？你们对产品的核心判断是什么？</strong></p>\n  <p><strong>何迪龙：</strong>我认为智能眼镜首先还是一副眼镜。它不能只是把很多功能堆在眼镜上，而是要先解决眼镜本身的问题，包括好不好看、戴得舒不舒服，以及是不是适合亚洲人的脸型。</p>\n  <p>所以我们从一开始就比较强调“眼镜感”，希望用户戴上之后首先觉得它是一副正常、好看的眼镜，而不是一个电子设备。在这个基础上，我们再把智能能力放进去。</p>\n  <p>我们也会主动砍掉一些我们认为没有必要的功能，因为如果所有东西都往上加，最后可能会变成一个功能很多、但用户并不愿意长期佩戴的产品。对我们来说，智能眼镜真正能够普及的前提，还是用户愿意每天戴它。</p>\n  <p><strong>硬氪：在产品设计上，NIMO具体是怎么解决“智能”和“眼镜”之间的矛盾的？</strong></p>\n  <p><strong>何迪龙：</strong>我们其实花了很多精力在重量、材料、结构和佩戴体验上。</p>\n  <p>比如镜腿采用的是β钛材料，鼻托也做了适配亚洲人脸型的设计，同时使用碳纤维等材料去做轻量化。产品本身大概是29克，如果再加上定制镜片，根据度数和折射率不同，最终重量可能会到34到36克左右。</p>\n  <p>我们还保留了很多传统眼镜制造的工艺。比如镜腿抛光本身就需要几天时间，木纹颗粒的抛光甚至需要连续做两天两夜。我们希望它在拿掉电子属性之后，依然是一副做工比较完整的眼镜。</p>\n  <p>电池也是一个比较大的挑战。我们用了钢壳电池，目前实际使用中没有观察到明显发热的问题，充电15分钟可以到80%左右。显示部分则尽量做到隐形，透光率可以达到98%，让用户在正常状态下不会明显感觉到它是一块显示设备。</p>\n  <p><strong>硬氪：目前用户真正会怎么使用NIMO？你们为什么没有把功能做得特别复杂？</strong></p>\n  <p><strong>何迪龙：</strong>目前我们比较关注的其实是一些和用户日常生活直接相关的功能，比如股票、新闻、消息、地图、提词、翻译，以及自动亮度等。</p>\n  <p>我们希望这些功能能够自然地融入佩戴场景，而不是为了展示技术而增加功能。比如提词、翻译这些功能，本质上都是让信息直接出现在用户眼前，减少用户频繁拿手机的动作。</p>\n  <p>未来我们也会考虑开放SDK和开发者生态。我们认为，智能眼镜最终不一定只是我们自己去定义所有应用场景，开发者可以基于眼镜本身的能力去开发更多东西。我们现在更希望先把硬件、显示和基础能力做好，再逐步把生态打开。</p>\n  <p><strong>硬氪：从市场反馈来看，智能眼镜距离真正进入大众市场还有多远？NIMO目前在怎么推进这件事？</strong></p>\n  <p><strong>何迪龙：</strong>我们今年4月份开始正式出货，最开始大概有1000台左右的预订，之后每个月也有几千台的量级。现在我们的渠道主要包括抖音、京东，以及线下门店，目前大概有150家左右。我们比较重视线下，是因为智能眼镜和普通消费电子不太一样，用户很多时候需要真正戴上去、体验之后，才能理解它到底有什么价值。</p>\n  <p>但线下也会遇到一些问题，比如不同门店员工对产品的理解程度不一样，消费者对智能眼镜本身的认知也还在建立。所以我们会做线下培训，希望工作人员可以在比较短的时间内把产品的主要功能完整演示出来，让用户快速理解。</p>\n  <p>从这个角度来说，我们觉得智能眼镜的普及不仅是硬件问题，也需要用户教育和渠道一起成熟。</p>",
-      "category": "tech",
-      "published_at": "2026-10-08T03:03:19+00:00",
-      "fetched_at": "2026-10-08T04:12:10.220372+00:00",
-      "fingerprint": "0dcb44213ac56baa"
-    },
-    {
-      "source": "少数派",
-      "title": "罗马：永恒之城，永恒于世",
-      "url": "https://sspai.com/post/114845",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114845\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-07T03:00:00+00:00",
-      "fetched_at": "2026-10-08T04:12:07.633248+00:00",
-      "fingerprint": "a549d3d1907def68"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
-      "url": "https://sspai.com/post/115455",
-      "summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。<a href=\"https://sspai.com/post/115455\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-08T00:16:57+00:00",
-      "fetched_at": "2026-10-08T04:12:07.633232+00:00",
-      "fingerprint": "58419a124d9129f3"
-    },
-    {
-      "source": "少数派",
-      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
-      "url": "https://sspai.com/post/115462",
-      "summary": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...<a href=\"https://sspai.com/post/115462\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-08T01:47:59+00:00",
-      "fetched_at": "2026-10-08T04:12:07.633222+00:00",
-      "fingerprint": "53eea592cd116512"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6606 CNY ↓-0.44%",
-      "url": "https://www.frankfurter.app/2026-10-07?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-10-07</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6606 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0206 (-0.44%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-10-08T04:12:06.339080+00:00",
-      "fingerprint": "d5694bbea48a5dfe"
     }
   ]
 }
