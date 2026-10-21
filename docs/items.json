@@ -1,7 +1,307 @@
 {
-  "updated_at": "2026-10-20T03:09:55.226047+00:00",
-  "count": 218,
+  "updated_at": "2026-10-21T03:03:51.730935+00:00",
+  "count": 220,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "summary": "<p>Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns</p><p>Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau raided by judicial police, who seized doses of hepatitis B vaccines, officials <a href=\"https://www.facebook.com/policiajudiciariaguinebissau/posts/pfbid02x8etNUtmPjenMNZA69EHECDBcz6U4VzxTvszdthBmFmJ1aaCMwoT9brgRNYyg1Jbl\">said</a> on Facebook.</p><p>The researchers have been at the heart of an ongoing dispute over research on African newborns, supported by $1.6m from the US Centers for Disease Control and Prevention (CDC) and matched by the Pershing Square Foundation and the Bluebell Foundation for a total of $3.2m.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-20T19:18:03+00:00",
+      "fetched_at": "2026-10-21T03:03:51.726393+00:00",
+      "fingerprint": "e1758b0e7365fd10"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "summary": "<p>Case in Africa’s most populous country was detected in a woman who had travelled from Uganda</p><p>Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.</p><p>The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country.</p> <a href=\"https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-10-21T00:14:55+00:00",
+      "fetched_at": "2026-10-21T03:03:51.726384+00:00",
+      "fingerprint": "61e50c93aa5c4935"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Man charged with attack on Australia MP to face court",
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "category": "politics",
+      "published_at": "2026-10-20T11:25:35+00:00",
+      "fetched_at": "2026-10-21T03:03:51.602544+00:00",
+      "fingerprint": "1245b6feb5631d67"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "category": "politics",
+      "published_at": "2026-10-20T23:24:47+00:00",
+      "fetched_at": "2026-10-21T03:03:51.602540+00:00",
+      "fingerprint": "3dc6f12e33fbdf3f"
+    },
+    {
+      "source": "BBC World News",
+      "title": "France is divided over who to blame for and what to learn from weekend riots",
+      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "category": "politics",
+      "published_at": "2026-10-21T01:22:51+00:00",
+      "fetched_at": "2026-10-21T03:03:51.602535+00:00",
+      "fingerprint": "2672f6d202bb6655"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "category": "politics",
+      "published_at": "2026-10-20T21:27:39+00:00",
+      "fetched_at": "2026-10-21T03:03:51.602527+00:00",
+      "fingerprint": "c038aa98247b21af"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "翻看英國統計 為何從未吸煙的人也開始對電子煙上癮？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmp3gepg90x6o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "根據英國國家統計局（ONS）數據，目前有超過100萬名電子煙使用者過去從未吸煙。",
+      "category": "politics",
+      "published_at": "2026-10-21T00:17:33+00:00",
+      "fetched_at": "2026-10-21T03:03:51.540275+00:00",
+      "fingerprint": "619daa0b0a2cfa54"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
+      "url": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "DeepSeek的免費聊天機器人應用程式在Apple App Store下載排行榜上名列前茅，其AI模型也被美國科技企業採用。Snowflake、Vercel及OpenRouter等公司都已將DeepSeek整合至其提供給客戶的服務中。",
+      "category": "politics",
+      "published_at": "2026-10-20T07:42:45+00:00",
+      "fetched_at": "2026-10-21T03:03:51.540266+00:00",
+      "fingerprint": "c79590262ebf5482"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
+      "url": "https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "在普京建議三方於APEC期間進行會談後，特朗普表示願意參與，強調會談重點將是無核化問題。目前中方尚未就三方會談表態。",
+      "category": "politics",
+      "published_at": "2026-10-20T08:40:09+00:00",
+      "fetched_at": "2026-10-21T03:03:51.540261+00:00",
+      "fingerprint": "0766208874419ae8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "在未經證實的傳言傳開後，朝鮮官媒發布了這位獨裁者與其女兒的照片。",
+      "category": "politics",
+      "published_at": "2026-10-20T14:58:04+00:00",
+      "fetched_at": "2026-10-21T03:03:51.540252+00:00",
+      "fingerprint": "7cbddbcd570f4015"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-21T03:03:51.195252+00:00",
+      "fingerprint": "cb0bf0e1617ea810"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-21T03:03:51.195179+00:00",
+      "fingerprint": "67f9ceba560d7193"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-21T03:03:51.195090+00:00",
+      "fingerprint": "3e43e08eb436698d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-21T03:03:51.195008+00:00",
+      "fingerprint": "cab9f152f12b693e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-21T03:03:51.194909+00:00",
+      "fingerprint": "f933f1f1a760390e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-20T22:11:34+00:00",
+      "fetched_at": "2026-10-21T03:03:51.084065+00:00",
+      "fingerprint": "925e6a635cad1b6f"
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+      "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+      "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-20T22:20:11+00:00",
+      "fetched_at": "2026-10-21T03:03:51.084061+00:00",
+      "fingerprint": "01eb291b10b63793"
+    },
+    {
+      "source": "The Verge",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-20T23:04:19+00:00",
+      "fetched_at": "2026-10-21T03:03:51.084056+00:00",
+      "fingerprint": "9a73f4d6937ae6af"
+    },
+    {
+      "source": "The Verge",
+      "title": "YouTube might be testing hiding the dislike button",
+      "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+      "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-21T00:00:56+00:00",
+      "fetched_at": "2026-10-21T03:03:51.084047+00:00",
+      "fingerprint": "c014b161f25d8a75"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "鸿蒙智行抢滩海外，问界计划采用“博世inside”方案｜36氪独家",
+      "url": "https://36kr.com/p/4034025645560963?f=rss",
+      "summary": "<p>巴黎车展上，赛力斯副总裁康波宣布，问界将在明年秋季进入欧洲市场，此后赛力斯A股股价涨停。</p>\n  <p>36氪从多位产业人士处了解到，问界的海外车型将采用“BOSCH Inside”的合作模式，与国际巨头博世联合开发。海外版问界M6、M7、M8、M9，都将搭载博世的全套智能化方案。博世的全套智能化方案涵盖高阶辅助驾驶、智能座舱和底盘。</p>\n  <p>目前，博世已启动了问界海外车型的开发，暂计划于明年9月量产高速NOA。</p>\n  <p>问界是华为与赛力斯深度合作打造的高端汽车品牌，但36氪了解到，华为已将问界等品牌的海外车型主导权交给了车企。有接近问界海外项目的人士对36氪解释，“BOSCH Inside”这一模式“和华为的HI（HUAWEI Inside）模式有点类似”。</p>\n  <p>除了问界，有行业人士透露，华为与奇瑞集团联合打造的汽车品牌智界，也在积极筹划出海。其中，智界V9是有望更早出海的车型。</p>\n  <h3><strong>问界博世深度合作问界海外车型</strong></h3>\n  <p>自主品牌的出海热情逐年汹涌，这届巴黎车展，超20个自主品牌集体参展，正是这一趋势的反映。</p>\n  <p>除了吉利、长安、小鹏、零跑等品牌，此前聚焦国内市场的理想，破天荒在这届巴黎车展发布了新车——Li6。</p>\n  <p>理想在国内的强劲对手——问界，也携M6、M7、M8、M9四款车型，以及魔方（MF）平台技术亮相欧洲。赛力斯副总裁康波在车展上喊出了“与用户共享新豪华”的口号，并官宣问界会在明年秋季进入欧洲市场。</p>\n  <p>部分接近问界的行业人士告诉36氪，赛力斯已为问界的出海，做了较为充分的技术和组织架构层面的储备。</p>\n  <p>2027年起，问界品牌旗下车型将陆续出海，除了欧洲，问界也可能尝试销往中东市场。</p>\n  <p>问界M6、M7、M8、M9的海外车型，采用“BOSCH Inside”的合作模式，与博世联合发开、深度合作。未来这些车型将搭载博世的全套智能化方案出海，其中包括博世的高阶辅助驾驶、智能座舱和底盘。据36氪了解，博世已启动了问界海外车型的开发，或于明年9月量产高速NOA。</p>\n  <p>博世是汽车行业的国际巨头，无论是对海外法规、市场环境的熟悉程度，还是品牌知名度，它都有着相当优势。因而与博世结盟，是问界等自主品牌出海的共同选择。康波也在巴黎车展上公开表示：“问界正积极推进监管合规认证与本地化运营。”与博世正可视为问界推进监管合规的一项重要动作。</p>\n  <p>于博世而言，问界海外项目，也是博世全套智能化方案首次上车。因而赛力斯与博世对于这次合作都相重视。</p>\n  <p>另有接近赛力斯的行业人士告诉36氪，为了保障出海进度，赛力斯还将海外BU合并入了问界BG。原本，赛力斯的海外BU与问界BG是两个平行部门，整合之后，海外BU成了问界BG的子部门。36氪了解到，两个部门各自独立时，问界海外车型的研发、市场等工作推进时遇到过阻碍，整合则利于双方的协同。针对以上信息，36氪曾向赛力斯求证，赛力斯回应称不实。</p>\n  <p>除了问界，智界品牌也在筹划出海。</p>\n  <p>部分接近智界的行业人士告诉36氪，智界内部已成立了“蓝海”项目组，推进智界车型的出海。“国内市场是片红海，海外市场是片相对的蓝海，所以项目命名为‘蓝海’项目。”“蓝海”项目的第一阶段是把智界销往中东，第二阶段会去东南亚，第三阶段去欧洲。</p>\n  <p>智界的海外车型将搭载奇瑞的电子电器架构，智能化方面，初步计划采用奇瑞的猎鹰智驾、灵犀智舱，“到了海外后也可能有当地智能化供应商的加入”。但有智界人士表示，这些构想今后也可能有所变化。</p>\n  <p>按智界和奇瑞的规划，智界V9是有望更早出海的车型，智界R7则受限于部分零部件的法规要求，将放慢出海步伐。</p>\n  <p>现今，奇瑞研发总院正推进智界V9的海外车型开发。有智界人士表示：“智界团队人手有限，加上海外市场短期内规模不会太大，所以智界暂时还是聚焦国内车型。可以理解为‘蓝海’项目组，把海外车型的开发工作外包给了奇瑞研发院。”</p>\n  <p>36氪还了解到，在智界品牌现有车型之外，智界还在规划一款轿跑车型，这款车将面向全球进行开发，计划达到一个较为极限的性能目标。届时它或将被送往纽北赛道，挑战一众国外豪华超跑车型。但这一项目至今还在预研阶段，尚未正式立项。</p>\n  <h3><strong>高端自主品牌出海的阻力和机遇</strong></h3>\n  <p>出海是近些年许多自主品牌重点布局的一盘大棋，原因无他，只因国内市场竞争不断升级，自主品牌无不承受着销量、成本等多重压力。</p>\n  <p>根据乘联会数据，今年以来，国内汽车每个月的零售规模，都是同比负增长，而且下降幅度逐月增高。拿刚刚过去的9月来说，国内汽车零售量比去年同期少了28%。</p>\n  <p>国内市场体量整体萎缩，市场份额却相当分散，再叠加内存等供应链成本的上涨，自主品牌普遍难以看到规模效应。</p>\n  <p>由此导致的结果就是，理想、问界、小米等本已实现盈利的汽车品牌，在今年上半年集体转向亏损。在这样的背景下，自主品牌急需开辟海外市场，打造第二增长点。</p>\n  <p>但问界的出海，对于中国汽车产业还有着别样的意义。</p>\n  <p>在相当一段时间内，能在海外畅销的自主品牌，多是中低端品牌。比如在海外市场相对领先的上汽、奇瑞集团，前者的海外销量主要来自MG，后者则靠瑞虎系列燃油、插混车型占据大片海外市场。</p>\n  <p>高端自主品牌出海成功的案例相对稀缺。</p>\n  <p>蔚来是较早尝试出海的高端自主品牌。</p>\n  <p>2021年二代蔚来ES8 在挪威上市，差不多时间，蔚来在欧洲开了第一家 NIO House，这在某种意义上标志着蔚来出海欧洲的开始。随后，蔚来又先后进入德国、荷兰、瑞典、丹麦等其他欧洲市场。</p>\n  <p>彼时，蔚来在欧洲市场，照搬国内直营+换电基建先行的经营模式，后来由于品牌认知弱、投入产出失衡等因素，蔚来调整了出海的节奏。蔚来创始人李斌去年在接受媒体采访时，总结当时大规模布局欧洲市场是一种“误判”，“交了很多学费”。</p>\n  <p>如今的问界，正是继蔚来之后，又一个发力欧洲的高端自主品牌，它的出海势必也会遇到同样的阻力。</p>\n  <p>最直接的阻碍来自品牌认知。</p>\n  <p>在国内市场，问界已经用销量证明了，用户对其高端品牌形象的认可。但出海欧洲，正如李斌所言，“在当地快速建立品牌认知、赢得用户信任、建立销售服务网络，这比想象的要难，可能比建工厂更复杂”。</p>\n  <p>不过，在某种意义上，问界是幸运的，它的出海赶上了自主品牌集体出海的潮流。</p>\n  <p>早年，蔚来在欧洲市场的尝试，是孤军奋战。而今自主品牌出海热情高涨，抱团出海或将使自主品牌，更快地在海外用户心中建立起品牌认知。</p>\n  <p>尤其是比亚迪这样的大厂，有更雄厚的资源在海外做品牌推广，比如2024年比亚迪对欧洲杯的冠名，对于在海外塑造自主品牌的集体形象，无疑起到了较为关键的推动作用。</p>\n  <p>有蔚来人士告诉36氪，蔚来内部在复盘出海的教训时，也曾提到，蔚来如果在比亚迪出海之后跟进，而非率先孤身出海，或许能少走些弯路。</p>\n  <p>海外市场对中国电动车的态度也在改善。10月14日，中国汽车工业协会发布声明，中欧双方已经就混动汽车、电动汽车的贸易问题达成了共识，这有望降低中国汽车出海欧洲的壁垒。</p>\n  <p>无论如何，问界在国内高端市场的影响力，离不开华为的赋能。而到了海外，要重新建立品牌号召力，似乎是个不小的挑战，与博世的深度联合，似乎是问界找到的新路径。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_3deaf1d20c7041318d8ffcc9107cb3c4@6215398_oswg41960oswg1080oswg335_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">作者微信：luckg17305264638</p>",
+      "category": "tech",
+      "published_at": "2026-10-20T09:43:34+00:00",
+      "fetched_at": "2026-10-21T03:03:50.989538+00:00",
+      "fingerprint": "cc3559a554c570b1"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "从“卡脖子”到自主可控：航空制造国产替代进行时｜OpenTalk直播预告",
+      "url": "https://36kr.com/p/4034016455627655?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_fe31ef1b8c6247e99538c804321d8742@6413691_oswg564530oswg2096oswg1180_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>航空制造高度集成先进材料、精密制造、机载系统与适航认证能力，产业链长、协作密度高，既是检验高端制造体系的综合考题，也是带动上下游产业链升级的重要引擎。</p>\n  <p>在相当长一段时间里，国产航空制造在发动机、航电、飞控、关键材料与适航体系等环节大量依赖引进。而如今，国产替代正从整机环节向纵深传导，过去被海外垄断的环节开始出现国产方案。但替代尚未走完最后一程，工程化、质量一致性与规模化交付，仍是产业必须面对的现实考验。</p>\n  <p>2026年10月27日（周二）17:00，36氪OpenTalk举办<strong>「从“卡脖子”到自主可控：航空制造国产替代进行时」</strong>直播活动，特别邀请<strong>直列动力副总裁兼CFO王仕东、吉太航空科技总经理孙鹏、二零八先进科技创始人兼总经理王飞</strong>三位嘉宾，围绕航空动力、机载系统、导航技术、适航认证、商业化节奏等话题，共同探讨航空制造国产替代的落地进展和产业机会。</p>\n  <p>欢迎关注航空制造与低空经济的创业者、投资人及从业者扫描下方活动海报二维码报名，与嘉宾在线互动。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_8389e387876441628b1484431d1d4222@6413691_oswg861260oswg1000oswg4934_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <h2>嘉宾信息</h2>\n  <h3><strong>直列动力副总裁兼CFO 王仕东</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_05cba7cb702b4ea2909baf21012c29cb@6413691_oswg1325002oswg2250oswg4263_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <h3><strong>吉太航空科技总经理 孙鹏</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_dd9751b1e0ac462f88543586f9a53d1b@6413691_oswg306360oswg1080oswg2046_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h3><strong>二零八先进科技创始人兼总经理 王飞</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_d9c0682b853e4bdfadec940a6e02f55e@6413691_oswg1169806oswg2250oswg4263_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>",
+      "category": "tech",
+      "published_at": "2026-10-20T10:04:12+00:00",
+      "fetched_at": "2026-10-21T03:03:50.989534+00:00",
+      "fingerprint": "741bc8d71f58a2b7"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "机构预计北京写字楼市场将于2028年企稳",
+      "url": "https://36kr.com/p/4033965080155016?f=rss",
+      "summary": "<p>当前，北京办公楼市场正在经历一场跨度十年的深度调整，全面迈入以“重新定价”为标志的系统性重构时期。据仲量联行发布的《2026北京办公楼市场白皮书》数据，截至2026年第三季度，全市空置率维持在17%左右，稳居全国一线城市最低水平。同时租金继续回落，三季度末全市甲级办公楼平均租金回落至198元/平方米/月，距2018年末的历史峰值8年累计下调近50%。其中，2024年和2025年租金年均同比下滑16%以上，折射出市场心理基线的持续下移。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_6fd2fbef2e954ee483e90eb9add54345@337187376_oswg38750oswg1098oswg753_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">数据来源：仲量联行研究部</p>\n  <p>仲量联行认为，这一深度的租金回调并非短期波动，而是顺应宏观经济转型与产业结构升级的理性回归，本质上是对办公楼资产的“重新定价”。支撑“重新定价”趋势的，是供需关系的结构性转变。北京甲级办公楼市场正迎来继2008年、2019年后的第三轮供应高峰。2026至2030年，预计新增高品质办公面积逾100万平方米，集中于CBD核心区与望京，对存量项目的续租与招商形成直接分流和竞争。&nbsp;</p>\n  <p>本轮放量正在进一步重塑供需天平。凭借地段与硬件优势粗放增长的周期红利已然消退，市场在结构性的“租户方市场”中步入博弈的深水区。市场正从五大维度重构：定价逻辑重构，租金锚点下移，市场寻找新均衡；供需关系重构，新增供应叠加企业需求趋于理性，租户主导格局强化；决策逻辑重构，企业选址不再局限区位与租金，转向空间效能、运营效率、全生命周期成本综合评估；需求形态重构，整体需求保持审慎，但人工智能、高精尖产业释放结构性机会；竞争流向重构，项目竞争从同片区、同等级比拼，延伸至跨区域、跨品类、跨等级博弈。</p>\n  <p>随着调整深化，北京办公楼市场租金下行节奏已显著趋稳，市场微观周期已由快速下探转入放缓寻底阶段。预计整体市场2026年租金跌幅将收窄至6-7%，并于2028年末逐步企稳触底。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_09ba3674e3d54bbcbe7d806570b0b11f@337187376_oswg71764oswg1062oswg369_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">数据来源：仲量联行研究部</p>\n  <p>在整体市场寻底过程中，北京东西部办公市场存在显著的周期“时差”。2026年，西部市场已率先筑底企稳，超过半数的甲级资产在前三季度录得租金持平或正增长。部分区位核心或品质优越的项目已接近满租，带动租金报价大幅攀升。&nbsp;</p>\n  <p>以中关村为例，2019至2022年间租金累计跌幅仅约5元/平方米/月，大多数项目鲜有下调租金的意愿。2026年第三季度，该区域甲级办公楼租金增长率由负转正，环比平均增幅达到2.4%。当前，中关村核心区域的主流项目空置率保持在10%以内，部分甚至接近满租，优质企业频繁在楼内或周边项目中连续扩租，空置面积一旦释放往往会被迅速吸收。&nbsp;</p>\n  <p>相比之下，东部区域受新增供应入市及需求端保持审慎的双重影响，整体租金仍处于深度调整的通道中。东部核心商务区普遍面临较大的去化与空置压力，在过去一段时间内，业主间的租金博弈趋于白热化，但这同时也为企业端提供了难得的成本优化与升级窗口。当前，东部市场租户对空间效能的要求达到前所未有的高度。超甲级资产正从周边楼宇中持续虹吸升级型需求，协助企业实现成本管理与办公空间的同步进阶。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261020/v2_08432524721341d99675ed28cb6f5f27@337187376_oswg77380oswg1058oswg557_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">数据来源：仲量联行研究部</p>\n  <p>白皮书调研显示，37%受访企业租户预判市场将于2028年触底，业主预期同样集中于这一时间窗口，2028年被视作北京办公楼实质性筑底回稳关键节点。区域预期差异明显：西部市场企业对2026—2027年率先企稳信心更强；东部市场多数租户将触底时间锚定在2028年及以后。虽然近四成租户判断租金仍存在5%至10%下行空间，但市场对租金大幅下跌的预期已经明显收窄。&nbsp;</p>\n  <p>另据统计，近几年，北京办公楼市场中新租与续租之间的价差持续收窄。2019年后，新租租金率先触顶回落，续租租金在经历一段高位运行后，亦步入下行通道。到2025-2026年，两者的平均租金价差已从峰值时的60-80元，大幅压缩至20-30元。这个过程削弱了搬迁的经济驱动力，租户通过搬迁实现显著租金节省的收益空间已被大幅挤压。当新租与续租价差收窄至当前区间时，搬迁所带来的账面租金节省往往已较难覆盖搬迁本身的摩擦成本，这包括复原成本、装修成本等大额一次性支出和繁杂的隐性成本。因此，租户继续留在原址的动机显著增强，因惬意换租带来的市场波动也将逐渐趋向于平稳。&nbsp;</p>\n  <p>仲量联行华北区研究部资深董事纪明表示，当前市场积极信号在于供需双方预期逐步走向理性。优质租户不再单纯等待所谓市场“绝对底部”，而是结合未来三年业务规划主动锁定办公空间；业主的核心目标转向提升入驻率、优化租户结构。预期共识正在支撑市场平稳筑底，北京办公楼正从深度调整迈向新均衡。</p>",
+      "category": "tech",
+      "published_at": "2026-10-20T12:35:54+00:00",
+      "fetched_at": "2026-10-21T03:03:50.989529+00:00",
+      "fingerprint": "90c47ed36e486a7f"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨将实施“消费才可入座”？星巴克中国回应；Anthropic上半年净亏807亿美元；日本优衣库宣布涨价",
+      "url": "https://36kr.com/p/4034867385537670?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>官方定调L2禁用智驾“小蓝灯”</li>\n   <li>10月LPR报价出炉</li>\n   <li>特斯拉与支付宝达成合作</li>\n   <li>谷歌前CEO施密特据悉持有Anthropic约1%股份</li>\n   <li>马斯克去年薪酬超1万亿，但到手为零</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>“强制消费入座”？星巴克中国回应&nbsp;</strong></p>\n  <p>星巴克门店要求消费后才能入座？10月20日，针对网传今日起星巴克门店“消费入座”的相关规定，星巴克中国方面回应澎湃新闻记者称，“星巴克一直致力于为顾客提供舒适的第三空间体验，基于对全国顾客和伙伴声音的持续倾听，我们会持续投入提升顾客的门店体验。”</p>\n  <p>澎湃新闻记者当天探访上海多家星巴克门店，均未看到店内有与“消费入座”相关的提示。有门店人员表示，“相关提示物料还没有到店，可能11月开始就会正式使用，并非强制消费入座，只是提倡第三空间氛围。”另有多家门店人员向记者表示，目前提倡消费入座，是为了给其他顾客更好的体验，但不是强制，暂未收到相关官方通知。记者还以消费者身份咨询星巴克客服，其表示暂时没有“消费入座”相关信息。（澎湃新闻）</p>\n  <p><strong>Anthropic据悉上半年净亏807亿美元，未来数年或再花7500亿美元购买算力</strong></p>\n  <p>据报道，招股书草案显示，Anthropic今年上半财年净亏损807亿美元，远大于上年同期130亿美元的净亏损额。报道称，上半年净亏损的绝大部分（即720亿美元），来自Anthropic发行的可转换票据及其他工具价值变动相关的会计费用。据报道，截至6月30日的六个月，Anthropic在算力和基础设施方面支出近90亿美元，而2025年同期为23亿美元。该公司今年上半年用于获取算力的资金已经超过2025年全年的73亿美元。报道称，Anthropic未来数年可能再花费7500亿美元用于购买算力。（界面新闻）</p>\n  <p><strong>日本优衣库宣布涨价&nbsp;</strong></p>\n  <p>优衣库10月19日宣布，将上调日本部分商品和服务的价格，2026年秋冬季商品整体平均涨价约4%。其中“感动西装外套”将于11月10日起从6990日元涨至7990日元。原本以4双990日元销售的袜子多件优惠措施将停止，改为单双售价390日元。优衣库表示，涨价受到原材料成本、物流费用上涨及日元贬值的影响。（界面新闻）</p>\n  <h2>AI最前线</h2>\n  <p><strong>DeepSeek：进一步将内部推理框架DeepInfer全面开源</strong></p>\n  <p>36氪获悉，DeepSeek表示，在此前开源一系列大模型、TileLang编译工具及推理算子库的基础上，决定进一步将内部推理框架DeepInfer全面开源。基于DeepInfer，已实现DeepSeek V4.1 Flash高吞吐、低延迟的大规模推理服务。未来，DeepSeek新模型的推理代码及后续优化也将在此持续更新。</p>\n  <p><strong>三星研发24小时工作的机器人</strong></p>\n  <p>统管三星电子机器人业务的RX业务推进室正在首尔牛眠洞首尔R&amp;D园区验证可在产业现场24小时运转的机器人性能。这款机器人在执行搬运货物等制造、物流现场重复作业的同时，也在学习周边环境和作业方式。一位业界人士表示，“三星电子和合作公司员工正按24小时三班倒，检查机器人工作的过程”。据悉，三星电子正以包括这款机器人在内的多个候选产品为对象，研究是否参展CES。（新浪财经）</p>\n  <p><strong>黄仁勋：AI发展不能急刹车，但必须装“安全带”</strong></p>\n  <p>英伟达首席执行官黄仁勋在伦敦表示，反对以“急刹车”或严厉监管来限制AI发展，应该建立“安全带”，通过更智能的安全标准、监测机制和事故防范措施约束。（财联社）</p>\n  <p><strong>甲骨文与阿斯利康合作探索AI医疗应用</strong></p>\n  <p>甲骨文与阿斯利康宣布达成一项非约束性协议，计划探索利用人工智能（AI）和真实世界数据识别符合临床试验条件的患者、加快医学证据生成，并将相关研究成果融入日常诊疗流程。双方将结合阿斯利康的科研及治疗领域专长与甲骨文的数据、云计算、AI和临床工作流技术。双方初步考虑在肿瘤、心血管、肾脏及代谢疾病、呼吸与免疫疾病和罕见病等领域探索应用，并计划建立共同治理机制和效果评估指标，以评估相关方案能否推广至更多疾病领域。（界面新闻）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>官方定调L2禁用智驾“小蓝灯”</strong></p>\n  <p>L2级别智驾“小蓝灯”正式被官方禁用。10月20日，工业和信息化部装备工业一司发布《汽车及挂车外部照明和光信号装置的安装要求（征求意见稿）》。其中明确，不具备L3级及以上自动驾驶系统的车辆，禁止安装ADS标志灯。同时，ADS标志灯的专用光色要求为蓝绿色。此前，L2级别辅助驾驶信号灯大多采用蓝色。（第一财经）</p>\n  <p><strong>格力技校首届新生开课，董明珠：禁止谈恋爱&nbsp;</strong></p>\n  <p>10月19日，珠海市格力技工学校迎来开学第一课。校长董明珠围绕校园日常和生活细节，对首届新生提出纪律要求，其中“十几岁的娃娃讲谈恋爱，这是不允许的”迅速成为舆论关注焦点。</p>\n  <p>据媒体报道，董明珠在授课时分享了自己的行程与成长经历，并向学生提出具体要求。她表示，看到校内超市“一个橘子卖1.5块”，认为这是在“宰学生”，明确表态“这种超市是不允许在这开的”；看到学生头发很长，学校便请了专业理发师队伍，周末来校做义工为学生剪头发。在纪律方面，董明珠直言：“十几岁的娃娃讲谈恋爱，这是不允许的。”她勉励学生在校期间三年潜心学习，保持自信、勤奋，秉持自信、诚信、包容的品格，拥有利他思想，把学校当成大家庭。”从跨入校门那一刻起，大家就是格力人。\"（界面新闻）</p>\n  <p><strong>AI公司“Today AI”完成超2亿美元融资&nbsp;</strong></p>\n  <p>近日，Personal AI公司“Today AI”完成超2亿美元融资，投资方包括IDG资本、腾讯、五源资本、蚂蚁集团、红杉中国、传音控股、同歌创投、上海交大菡源资产。Today AI致力于打造个性化的AI系统，为用户提供“更懂你”的AI助理。据了解，该公司目前持续招募各方向人才。</p>\n  <p><strong>外交部回应美政府要求机构停用DeepSeek&nbsp;</strong></p>\n  <p>10月20日，针对有报道说美国政府要求其机构停止使用来自中国企业的DeepSeek等人工智能工具，外交部发言人毛宁在例行记者会上表示，中方一贯反对泛化国家安全概念、将科技经贸问题政治化，我们将坚决维护中国企业的合法权益。（央视新闻）</p>\n  <p><strong>Momenta曹旭东：世界模型加速智驾摩尔定律，2028年将迎来L4规模化拐点</strong></p>\n  <p>36氪获悉，在2026物理AI与世界模型大会上，Momenta CEO曹旭东发表主题演讲，指出世界模型正加速智驾摩尔定律，并预判2028年将成为L4规模化落地的重要拐点。曹旭东将智驾安全性与性能每两年提升十倍的趋势概括为“智驾摩尔定律”，并认为这一规律也适用于更广泛的大模型与人工智能领域。他判断，2026年至2028年，行业头部企业有望实现安全性与性能每年提升十倍。世界模型、Data Scaling与Model Scaling，是推动这一提速的关键。</p>\n  <p><strong>国际油价拉升，WTI原油升破100美元/桶</strong></p>\n  <p>36氪获悉，10月20日，国际油价拉升，WTI原油期货价格涨1.81%，报100.324美元/桶；布伦特原油期货价格涨1.54%，报111.234美元/桶。</p>\n  <p><strong>人民币兑美元创2022年6月28日以来新高&nbsp;</strong></p>\n  <p>10月20日，在岸人民币兑美元早盘涨24点至6.6793元，创2022年6月28日以来新高。离岸人民币兑美元涨39点至6.6784元，创2022年6月28日以来新高。（财联社）</p>\n  <p><strong>金价回撤至4100美元，多家银行积存金零费率抢客&nbsp;</strong></p>\n  <p>最近国际金价回到4100-4200美元/盎司，多家银行推出了积存金手续费优惠活动。部分银行，比如工行，目前主动积存和定投都能0手续费，浙商银行也免收认购手续费。南京银行买入手续费率是0.05%，也算相对低的，但仅限江苏、北京、上海、杭州地区客户。（21财经）</p>\n  <p><strong>10月LPR报价出炉&nbsp;</strong></p>\n  <p>中国人民银行授权全国银行间同业拆借中心公布，2026年10月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。（界面新闻）</p>\n  <p><strong>AI担忧卷土重来，韩国数据中心公司Elice上市首日大跌32%</strong></p>\n  <p>数据中心基础设施公司Elice Inc.上市首日股价暴跌，凸显投资者担忧AI发展景象能否证明该行业的巨额投资是合理的。这家总部位于首尔的公司开盘大幅下挫，一度暴跌38%，截至收盘跌幅收窄至32%。数据显示，这是韩国大型IPO有史以来最糟糕的首日表现。此前，该公司通过IPO融资2010亿韩元（1.51亿美元），发行价位于指导价区间高端，散户部分认购倍数达到400倍。（财联社）</p>\n  <p><strong>多省份用户访问异常跳转至博彩网站，最新调查报告公布</strong></p>\n  <p>近期，中国多个省份多次发生用户访问请求异常跳转至博彩网站的事件，对广大人民的财产安全和正常上网权利造成了严重危害。经分析，攻击者利用中国境外自治域AS 402425，主要采取宣告虚假路由、篡改域名解析数据等手段进行攻击，危害范围广泛，特此公布有关调查情况，为全球相关国家、单位和广大网民有效发现和防范此类攻击提供借鉴。（央视新闻）</p>\n  <p><strong>消息称三星电子下调明年OLED Galaxy A系列手机出货目标至1亿部</strong></p>\n  <p>据报道，三星电子暂定明年搭载有机发光二极管（OLED）屏幕的中端Galaxy A系列手机出货量目标为1亿部，相较于三星电子9月底向合作伙伴公布的OLED Galaxy A系列1.2亿部出货量目标减少了2000万部。据悉，三星电子下调出货量的主要原因是存储价格上涨。这也增加了其明年智能手机整体出货量目标下调的可能性。三星电子最初计划明年出货超过2.5亿部智能手机 ，但据报道，该公司正在修订这一计划。普遍认为，最终出货量将比原计划减少2000多万部。（新浪财经）</p>\n  <p><strong>畅通跨境投资渠道，60/40结构ETF密集上市</strong></p>\n  <p>在资本市场高水平对外开放持续推进的背景下，一种新的基金品类正成为港股ETF市场的亮点。9月，合计17只60/40结构ETF密集上市，涉及韩国、马来西亚、美国等多个资本市场。在业内人士看来，60/40结构ETF集中上市的背后，是ETF互联互通规则调整、内地与香港互联互通持续深化共同作用的结果。作为跨市场投资工具，60/40结构ETF被视为打开港股ETF市场发展空间，乃至推动跨境资本流动的重要抓手。此类基金持续发展，有望进一步疏通连接中国优质资产与国际资本的渠道。（上证报）</p>\n  <p><strong>谷歌前CEO施密特据悉持有Anthropic约1%股份</strong></p>\n  <p>据知情人士称，谷歌前首席执行官埃里克·施密特持有人工智能初创公司Anthropic约1%的股份；这意味着一旦Anthropic上市，他有望获得一笔巨额“意外之财”。消息人士称，施密特曾在Anthropic的A轮融资中投入了数千万美元。目前尚不清楚他此后是否出售过所持股份。Anthropic计划进行的首次公开募股（IPO）预计将为其早期投资者和员工带来可观的回报。上周有报道称，一些投资者在一次会议上讨论了约1.5万亿美元的估值，这一数字低于此前约2万亿美元的预期。（新浪财经）</p>\n  <p><strong>英伟达据悉成功从人工智能初创公司Modal赢得CPU芯片订单</strong></p>\n  <p>据报道，英伟达成功从快速增长的人工智能初创公司Modal赢得中央处理器(CPU)芯片订单。Modal此前完全依赖英特尔和AMD芯片，这初步表明，英伟达进军长期由这两家竞争对手主导的市场已取得成效。（财联社）</p>\n  <p><strong>特斯拉与支付宝达成合作&nbsp;</strong></p>\n  <p>10月20日，第一财经记者获悉，特斯拉与支付宝正式签署车载助手项目合作协议。据悉，特斯拉中国车机系统计划上线支付宝车载助手智慧停车服务，通过后续软件升级，车主将在车机屏幕上实现停车费快捷安全支付。另外，更多车载生活场景的便利化功能正在开发。（第一财经）</p>\n  <p><strong>3M与亚马逊扩大合作，亚马逊可在七年内认购逾316万股3M股票</strong></p>\n  <p>当地时间10月19日，3M宣布与亚马逊全资子公司扩大战略商业合作，并向亚马逊另一家全资子公司发行认股权证，允许其在七年内以每股164.89美元的价格认购最多316.2万股3M普通股。根据协议，85%的认股权证股份将在亚马逊支付光连接及其他数据中心产品货款后逐步归属，累计付款达到60亿美元时全部归属；其余15%则取决于特定事件里程碑。（界面新闻）</p>\n  <p><strong>1小时赚1.2亿，马斯克去年薪酬超1万亿，但到手为零&nbsp;</strong></p>\n  <p>10月19日，特斯拉向美国证券交易委员会（SEC）提交的文件披露，公司CEO埃隆·马斯克去年总薪酬为1583.59亿美元（约合1.07万亿元人民币），全部以股票奖励形式发放。如果按照全年8760小时折算，这笔薪酬相当于马斯克去年每小时赚1808万美元（约合1.2亿元人民币）。不过，1583.59亿美元的股票奖励，并非马斯克实际到手的真金白银，而是特斯拉去年CEO绩效奖励计划的会计公允价值估值。特斯拉在文件中表示，2025年公司市值指标、经营业绩等多项考核全部未达标，马斯克全年实际到手收入为零，没有现金，也没有解锁任何股权。（界面新闻）</p>\n  <p><strong>央行公告：将在10月21日至11月2日开展隔夜逆回购操作</strong></p>\n  <p>36氪获悉，央行公告，将在10月21日至11月2日开展隔夜逆回购操作，采用固定利率、数量招标，每日操作量不超过10000亿元。</p>\n  <p><strong>美股三大指数收盘涨跌不一，大型科技股多数下跌</strong></p>\n  <p>36氪获悉，10月20日收盘，美股三大指数涨跌不一，道指涨1.02%，纳指跌0.02%，标普500指数涨0.29%。大型科技股多数下跌，谷歌、Meta跌超1%，苹果跌1%，微软、英伟达小幅下跌，特斯拉涨超1%，亚马逊小幅上涨。热门中概股多数上涨，小鹏集团涨超7%，理想汽车涨超5%，蔚来涨超1%，百度、拼多多、阿里巴巴小幅上涨，京东、网易、哔哩哔哩小幅下跌。</p>\n  <p><strong>马斯克：SpaceX与特斯拉已开始研究潜在合并交易</strong></p>\n  <p>马斯克表示，SpaceX和特斯拉已成立特别委员会，研究潜在合并。如果最终得以推进，这可能成为史上规模最大的企业合并交易。同时担任这两家公司首席执行官的马斯克周二在SpaceX财报电话会上表示：“我认为两家公司合并有很多好处，在开发超级智能软件方面进行合作将大有裨益。”（新浪财经）</p>\n  <h2>上市进行时</h2>\n  <p><strong>微见先进启动IPO辅导&nbsp;</strong></p>\n  <p>10月20日，证监会网站披露，深圳微见先进封装技术股份有限公司（以下简称“微见先进”）于2026年10月19日在深圳证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为华泰联合证券有限责任公司。公开资料显示，微见先进成立于2019年，是一家专注于高精度、复杂工艺芯片封装设备研发生产的国家级专精特新“小巨人”企业，致力于为全球半导体及泛半导体客户提供先进封装设备与系统化解决方案。（财联社）</p>\n  <h2>大公司财报</h2>\n  <p><strong>宁德时代：前三季度净利润645.3亿元，同比增长31.6%</strong></p>\n  <p>36氪获悉，宁德时代披露2026年第三季度财报，前三季度营业收入4421.37亿元，同比增长56.19%；归属于上市公司股东的净利润为645.3亿元，同比增长31.6%。其中，第三季度营收1652.21亿元，同比增长58.58%；归属于上市公司股东的净利润212.46亿元，同比增长14.54%。</p>\n  <p><strong>Netflix第三季度营收128.74亿美元，同比增长12%</strong></p>\n  <p>当地时间10月20日，Netflix公布2026年第三季度业绩：营收为128.74亿美元，同比增长12%；净利润36.6亿美元，去年同期为25.5亿美元。预计第四季度营收为134亿美元，同比增长12%；预计2026年全年营收为511亿美元，同比增长13%。</p>\n  <p><strong>SpaceX第三季度净利润44亿美元，同比扭亏</strong></p>\n  <p>36氪获悉，当地时间10月20日，SpaceX公布截至2026年9月30日的第三季度业绩：营收146亿美元，同比增长161%；净利润44亿美元，上年同期净亏损11亿美元。其中，太空业务营收为18亿美元，环比增长84%，同比增长6%。</p>\n  <p><strong>圣晖集成：前三季度净利润1.52亿元，同比增长58.61%</strong></p>\n  <p>36氪获悉，圣晖集成披露三季报，公司2026年前三季度实现营业收入18.4亿元，同比下降13.05%；归属于上市公司股东的净利润1.52亿元，同比增长58.61%。其中，第三季度实现营业收入7.52亿元，同比下降8.4%；归属于上市公司股东的净利润8150.26万元，同比增长145.62%。</p>\n  <p><strong>三一重能：前三季度净利润3.71亿元，同比增长204.15%</strong></p>\n  <p>36氪获悉，三一重能披露三季报，公司2026年前三季度实现营业收入172.32亿元，同比增长19.24%；归属于上市公司股东的净利润3.71亿元，同比增长204.15%。其中，第三季度实现营业收入65.72亿元，同比增长12.21%；归属于上市公司股东的净利润1.37亿元。</p>\n  <p><strong>钛能化学：前三季度净利润5.74亿元，同比增长81.67%</strong></p>\n  <p>36氪获悉，钛能化学披露三季报，公司2026年前三季度实现营业收入67.63亿元，同比增长17.3%；归属于上市公司股东的净利润5.74亿元，同比增长81.67%。其中，第三季度实现营业收入22.06亿元，同比增长10.53%；归属于上市公司股东净利润1.54亿元，同比增长171.7%。</p>\n  <p><strong>国药股份：前三季度净利润14.76亿元，同比下降1.07%</strong></p>\n  <p>36氪获悉，国药股份披露三季报，公司2026年前三季度实现营业收入406.06亿元，同比增长3.11%；归属于上市公司股东的净利润14.76亿元，同比下降1.07%。其中，第三季度实现营业收入138.78亿元，同比增长0.95%；归属于上市公司股东的净利润5.96亿元，同比增长9.7%。</p>\n  <p><strong>福耀玻璃：前三季度净利润60.06亿元，同比下降14.97%</strong></p>\n  <p>36氪获悉，福耀玻璃披露三季报，2026年前三季度实现营业收入341.23亿元，同比增长2.46%；归属于上市公司股东的净利润60.06亿元，同比下降14.97%。其中，第三季度实现营业收入121.52亿元，同比增长2.51%；归属于上市公司股东的净利润20.36亿元，同比下降9.87%。</p>\n  <p><strong>澜起科技：预计第三季度净利润同比增长153.6%-174.7%</strong></p>\n  <p>36氪获悉，澜起科技公告，预计2026年第三季度归属于上市公司股东的净利润为12.00亿元-13.00亿元，同比增长153.6%-174.7%。</p>\n  <h2>投融资</h2>\n  <p><strong>“新石器”完成E轮近4亿美元融资</strong></p>\n  <p>36氪获悉，自动驾驶科技公司“新石器”宣布完成E轮近4亿美元融资。本轮融资由博裕投资与某国家级基金联合领投，阿里巴巴AEF NextGen香港基金、Monolith砺思资本、纪源资本、淡马锡旗下Vertex Growth、高鹄资本等机构参与投资，磊石资本、信宸资本、高成投资、云启资本、软银亚洲等早期及长期股东继续跟投。高鹄资本担任本轮融资独家财务顾问。本轮融资也创造了今年国内自动驾驶领域最大单笔融资纪录，迄今为止，新石器公司累计融资额已突破百亿元人民币，融资规模居无人配送车行业第一。</p>\n  <h2>酷产品</h2>\n  <p><strong>三星将于下周在韩国推出首款开放式耳机</strong></p>\n  <p>三星电子10月20表示，将于下周推出其首款开放式耳机，命名为“Galaxy Buds On”。该公司称，这款耳机将于10月27日在韩国上市，仅提供黑色版本，售价为299000韩元（约合225美元）。Galaxy Buds On 采用开放式设计，可轻巧地置于耳部；用户在欣赏音乐或观看视频内容的同时，仍能感知周围环境。产品还面向那些在跑步时需要留意周围环境的用户，以及希望在日常生活中佩戴耳机的同时仍能听到环境音的用户。（新浪财经）</p>\n  <p class=\"editor-note\"><strong>整理丨几何鱼</strong></p>",
+      "category": "tech",
+      "published_at": "2026-10-21T00:02:13+00:00",
+      "fetched_at": "2026-10-21T03:03:50.989522+00:00",
+      "fingerprint": "773719581172eb01"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨华为、高瓴等押注，物理空间智能基础设施公司完成超亿元融资",
+      "url": "https://36kr.com/p/4035014691345540?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261021/v2_076efb384a0f4c2698ffb62051071892@5920579_oswg701274oswg1872oswg1056_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <blockquote>\n   <p>本文约4000字，建议阅读10分钟</p>\n  </blockquote>\n  <p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，以物理空间引擎为基座的空间智能Infra公司「乙太科技」近日连续完成种子轮及天使轮融资，累计融资规模超亿元。其中产业投资方包括华为哈勃、嘉立创、自变量、智元、中科第五纪、软通动力。财务投资方包括高瓴、深高新投、上海半导体、中平资本、芯能创投、交源资产、Neuron VC、德石、曦晨等。</p>\n  <p>乙太科技成立于2025年12月，致力于以物理空间引擎为核心，构建空间智能infra。公司创始人兼CEO 杨叶青曾任HTC VIVE Chief of Staff，中国区元宇宙事业部及软件和服务事业部负责人，从0到1主导开发了国内首款元宇宙系统平台。公司核心团队来自HTC VIVE、微软、京东、美团、北京大学、香港科技大学、北京航空航天大学等知名企业及院校。</p>\n  <p><strong>杨叶青向硬氪介绍，乙太科技所专注的“物理空间引擎”，并非三维重建、数字孪生或空间数据的简单叠加，而是要解决空间如何被持续认知、统一表达并可靠运行这一更基础的问题。</strong></p>\n  <p>语言模型让AI掌握了符号世界的表达能力，可以写文章、写代码、进行推理。但如果要让AI真正进入物理世界，还需要解决一个更底层的问题：现实与虚拟如何共享一套可计算、可运行、可翻译的空间语言。</p>\n  <p>过去的软件主要处理二维数据，例如文字、图片、表格和网页，但现实空间并不是一张静态地图。工厂的生产环境会不断变化，仓库会随着货物和人员的流动而改变，建筑现场也会在施工过程中持续重构。空间中的物体有位置、姿态、几何与材质，也有各自的物理属性与运动规律，并受到人的操作和环境变化影响。</p>\n  <p>因此，行业需要的不只是简单的三维扫描，而是一种能够持续理解空间状态与交互关系的底层能力。传统信息记录侧重于描述“是什么”，却难以完整表达“在哪里”、“如何运动”、“如何交互”以及空间整体如何持续演化。“这正是空间智能要解决的问题，也是乙太科技构建物理空间引擎的出发点。”杨叶青表示。</p>\n  <p>基于这一思路，乙太科技正在建设的物理空间引擎是一套依托空间认知数据打通现实和虚拟的底层认知系统。以空间数据为输入、高精度真值为基准，持续将现实空间编译为可计算、可运行、可迁移、可部署的空间表达，再借助现实场景反馈不断优化数据，为具身智能、世界模型以及各类行业应用提供底层支撑。</p>\n  <p><strong>从技术架构来看，引擎自下而上包含输入层、核心能力层、空间资产层、平台层和应用层五层。</strong>输入层负责采集现实与虚拟环境中的多模态数据，包括视觉、空间定位、力触觉、惯性等传感器信息，为引擎提供原始空间数据，解决“空间里有什么原始信息”。核心能力层则对这些数据进行融合与时空对齐，识别空间结构、物体状态及交互关系，并结合物理约束，形成对空间状态的表达，解决“空间是什么状态、如何运行”。</p>\n  <p>经过处理的信息会在空间资产层沉淀为可加载、可编辑、可复用的空间资产。与单纯记录空间几何外观不同，这些资产还包含物体之间的碰撞关系、物理约束和交互属性，为不同场景的调用与复用提供基础。同时，乙太科技也在推动建立统一的空间资产标准，既用于评测空间表达的准确性与一致性，也支持不同行业在同一框架下直接调用空间能力，降低跨场景复用的门槛。</p>\n  <p>再往上，平台层通过SDK、API、多端部署及私有化部署等方式，将空间引擎的能力封装为可供不同设备和系统调用的服务；应用层则面向机器人、工业制造、汽车、建筑、物流、游戏、文旅、教育等行业，探索空间引擎的具体落地方式。</p>\n  <p><strong>在数据输入层，乙太科技将空间数据分为两个维度：一是空间的物理结构，理解空间的形态与布局；二是人在空间中的交互数据，理解空间里发生了什么，以及人如何移动、操作和反馈。</strong></p>\n  <p>现阶段，乙太科技优先关注人类双手及其交互数据。杨叶青介绍称，双手是人类作用于空间最直接的接口。抓取、推动、旋转、插入、装配和工具使用等动作，包含大量空间关系、操作经验与物理反馈。真正有价值的空间数据，不只是记录手部移动轨迹，还需要记录动作发生的位置、接触关系、空间判断、物体状态变化，以及任务执行过程中的反馈。</p>\n  <p>这些数据既可以用于具身智能和世界模型训练，也可以用于空间过程建模、物理交互生成等领域。例如，在工业领域，分析产线工人的操作路径，与设备、工装、物料之间的真实接触关系、力度反馈和状态变化，提取可迁移的操作逻辑与物理约束、识别工序瓶颈。</p>\n  <p>在游戏领域，游戏开发者无需从零构建场景与动作，可以实时调用现实锚定的空间资产，生成关卡、机关与跨端互动；物体具备真实物理属性，玩家可在UGC空间中自然交互，AINPC与数字人能理解物体位置、接触与状态变化并做出符合物理逻辑的反馈；真实操作数据反哺为可调用的空间资产，使场景随玩家行为持续演化，形成可运行、可编辑、可迁移的空间内容。</p>\n  <p>作为物理空间引擎最早关注的输入类型之一，人类交互数据记录的不只是“手移动到了哪里”，还包括人在什么环境中、为了什么目标、以什么方式作用于哪个对象，以及最终产生了什么结果。乙太科技希望以此为基础，构建能够服务所有需要理解、重建或操作空间的行业。</p>\n  <p>乙太科技团队拥有近十年的XR技术研发经验，经历从数字孪生、元宇宙到空间智能的演进，在空间定位、三维重建、人体与物体追踪、物理解算、多传感器融合及低延迟交互等方面积累了深厚的技术经验。</p>\n  <p>这些技术也是空间引擎处理空间数据的基础。以XR空间计算为例，系统不仅要确定设备自身的位置和姿态，还需要识别周围环境、追踪人体与物体的运动，并将不同传感器采集的信息统一到同一时空坐标系中。只有完成这些处理，才能准确还原空间结构及其中的交互关系，而不只是将现实画面叠加到虚拟场景中。团队希望将过去应用于XR空间计算的能力进一步抽象，用于处理更广泛的空间数据，并将其转化为可供机器人、世界模型等系统调用的空间信息。</p>\n  <p>据介绍，从技术实现来看，空间计算的核心是建立一套与现实世界实时同步的状态空间，持续感知并理解设备运动、环境几何结构、物体状态变化以及人与空间的交互关系，使视觉、动作、空间与物理约束在统一时空基准下保持一致，从而支撑可运行的空间表达，持续构建一个能够跟随现实变化而更新的状态空间。</p>\n  <p>具体到引擎的应用层面，杨叶青介绍，乙太科技目前已在机器人和世界模型等领域开展应用，相关合作主要围绕空间数据展开。团队过往曾服务于全球头部B端客户与海量C端开发者，覆盖文娱、游戏、工业、文物、医疗等领域，因此公司也在探索空间资产的直接应用。</p>\n  <p>例如，在游戏领域探索新的内容创作方式并降低制作成本；在手工与工业制造领域将老师傅的操作过程转化为可分析、可复用的空间资产，用于培训或辅助自动化修复。</p>\n  <p>目前，乙太科技正在搭建更为通用的空间计算能力，通过物理空间引擎构成一套完整的空间语言系统：向下连接真实环境和虚拟环境，向上连接不同模型、设备和行业系统，让空间能够被准确感知、结构化表达、持续编辑、物理模拟并跨端部署，让用户都能够理解、表达和使用空间。</p>\n  <p><strong>以下为创始人问答节选：</strong></p>\n  <p><strong>硬氪：物理空间引擎和三维重建、数字孪生有什么区别？以及，如何理解3D生成路线的世界模型和乙太科技提出的物理空间引擎的关系。</strong></p>\n  <p><strong>杨叶青：</strong>三维重建主要回答的是某一时间点的空间长什么样，它解决的是几何还原问题，输出的是静态的、以观察为目的，但无法完整描述空间状态如何持续变化。一个空间要真正产生价值，还需要理解其中不断发生的变化，以及人与空间之间的交互关系。</p>\n  <p>数字孪生则更进一步，它会将物理世界中一些对象的状态映射到虚拟环境中，描述“现实对象处于什么状态”，让现实世界的设备、产线或建筑在虚拟空间里有一个对应的状态镜像。两者都可以成为物理空间引擎的输入和组成部分，但它们本身不解决“空间如何被持续理解、结构化表达、编辑、模拟和部署”。</p>\n  <p>物理空间引擎不仅要回答空间里有什么、对象在哪里、彼此什么关系，还要回答哪些对象可操作、人正在做什么、动作如何改变空间状态、虚拟变化能否在现实中成立。它不只还原空间，更让空间变得可计算、可运行、可调用。</p>\n  <p>我们理解世界模型的核心是生成世界，预测或生成世界下一时刻的状态；我们不做生成，而是负责表达空间的状态。这是两者本质上的区别。我们定位的是世界模型底层的基础设施，世界模型可以调用我们的能力，比如高质量的空间数据、可运行的空间资产和物理约束环境。我们将真实空间转化为可计算、可编辑的空间资产，世界模型则可以调用这些资产及相关空间信息。</p>\n  <p><strong>硬氪：物理空间引擎的数据采集和现在常见的面向具身的数据采集有什么区别？</strong></p>\n  <p><strong>杨叶青：</strong>市面上常见的数据采集只是空间输入的一部分，具身的数据采集重点在“记录人做了什么动作”；而物理空间引擎的数据采集，重点在“记录人与空间的关系”——不仅采集手部轨迹，还采集动作发生的空间位置、接触关系、力度、意图、物体状态变化和任务反馈等信息。如果只服务于具身智能或世界模型训练，现有的一些数据可能已经够用；但如果要构建更完整、丰富的空间表达，就需要引入更多维度的信息，去回答“人在什么空间里、为了什么目标、以什么方式作用于哪个对象、产生了什么结果，以及这个空间如何被复用和运行”。</p>\n  <p><strong>硬氪：在人类交互数据采集方面，乙太科技相比其他数采公司的优势是什么？</strong></p>\n  <p><strong>杨叶青：</strong>我们的优势主要体现在三个方面：第一，精度高，可以达到亚毫米级；第二，数据维度丰富；第三，在数据处理方面有较深的技术积累。</p>\n  <p>这些能力主要来自团队此前在XR空间计算领域的长期积累。XR本质就是把空间中的各种信息转化为可计算的信息。我们过去积累的空间定位、三维重建、多传感器融合等技术，在人体交互数据采集中都非常重要。</p>\n  <p>目前市场上的数据质量参差不齐，根本原因在于入口数据质量受硬件、软件与技术架构等多重因素共同制约，并非单一环节优化即可解决。团队依托空间计算技术的深耕，从源头硬件与算法、工程化软件实现，到全局领先的技术架构，形成了完整的能力闭环，从而在数据入口侧即保障高质量输入。这种优势并非依赖单一技术路径突破，而是源于全局架构层的系统性设计与持续演进，也正是公司深耕空间智能十余年所积累的核心壁垒。</p>",
+      "category": "tech",
+      "published_at": "2026-10-21T02:30:18+00:00",
+      "fetched_at": "2026-10-21T03:03:50.989508+00:00",
+      "fingerprint": "5e038c4caca7a374"
+    },
+    {
+      "source": "少数派",
+      "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+      "url": "https://sspai.com/post/116430",
+      "summary": "简单干净、支持双拼纠错的 iOS 输入法。<a href=\"https://sspai.com/post/116430\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-20T02:34:39+00:00",
+      "fetched_at": "2026-10-21T03:03:49.774345+00:00",
+      "fingerprint": "7bf51060b58dc322"
+    },
+    {
+      "source": "少数派",
+      "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+      "url": "https://sspai.com/post/116661",
+      "summary": "原厂屏幕之外最省心的搭档。<a href=\"https://sspai.com/post/116661\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-20T07:07:54+00:00",
+      "fetched_at": "2026-10-21T03:03:49.774340+00:00",
+      "fingerprint": "5cd79fd3b392fe10"
+    },
+    {
+      "source": "少数派",
+      "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
+      "url": "https://sspai.com/post/115475",
+      "summary": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？<a href=\"https://sspai.com/post/115475\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-20T09:30:00+00:00",
+      "fetched_at": "2026-10-21T03:03:49.774335+00:00",
+      "fingerprint": "f634ae3a90adf550"
+    },
+    {
+      "source": "少数派",
+      "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+      "url": "https://sspai.com/prime/story/inside-release-notes-261020",
+      "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...<a href=\"https://sspai.com/prime/story/inside-release-notes-261020\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "category": "tech",
+      "published_at": "2026-10-20T10:01:54+00:00",
+      "fetched_at": "2026-10-21T03:03:49.774330+00:00",
+      "fingerprint": "5872690b4f3e3abf"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+      "url": "https://sspai.com/post/116887",
+      "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。<a href=\"https://sspai.com/post/116887\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-21T00:07:07+00:00",
+      "fetched_at": "2026-10-21T03:03:49.774320+00:00",
+      "fingerprint": "4ce321415b51fcc0"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6645 CNY ↓-0.06%",
+      "url": "https://www.frankfurter.app/2026-10-20?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-10-20</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6645 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0026 (-0.06%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-10-21T03:03:48.660109+00:00",
+      "fingerprint": "cadbaf16a1cdef4b"
+    },
     {
       "source": "The Guardian - World",
       "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
@@ -1901,286 +2201,6 @@
       "published_at": null,
       "fetched_at": "2026-10-14T03:17:08.130168+00:00",
       "fingerprint": "9621c4601ceeaea3"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "category": "politics",
-      "published_at": "2026-10-13T04:30:09+00:00",
-      "fetched_at": "2026-10-13T05:11:11.088573+00:00",
-      "fingerprint": "0202ae2f375421a1"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-      "category": "politics",
-      "published_at": "2026-10-12T05:00:52+00:00",
-      "fetched_at": "2026-10-13T05:11:11.088566+00:00",
-      "fingerprint": "9260364d7cc64745"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "category": "politics",
-      "published_at": "2026-10-12T20:17:37+00:00",
-      "fetched_at": "2026-10-13T05:11:11.088559+00:00",
-      "fingerprint": "8e6d2a07fa9c13d9"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "category": "politics",
-      "published_at": "2026-10-12T21:20:51+00:00",
-      "fetched_at": "2026-10-13T05:11:11.088549+00:00",
-      "fingerprint": "858a145164c4b053"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
-      "url": "https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "開發商廣州深藍互動表示，威爾斯神話與該遊戲的主題產生了強烈共鳴。",
-      "category": "politics",
-      "published_at": "2026-10-13T00:12:26+00:00",
-      "fetched_at": "2026-10-13T05:11:11.021769+00:00",
-      "fingerprint": "24a35273f767fff9"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "法國超市的冰箱受到網路攻擊 東西熱壞了",
-      "url": "https://www.bbc.com/zhongwen/articles/cwly013m3dg7o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一夜之間，數百家商店成為黑客攻擊的目標，導致價值數百萬歐元的生鮮和冷凍食品變質。",
-      "category": "politics",
-      "published_at": "2026-10-13T04:42:59+00:00",
-      "fetched_at": "2026-10-13T05:11:11.021763+00:00",
-      "fingerprint": "4357ee33c7b62dbe"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
-      "url": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "胡塞武裝加強了對沙特阿拉伯領土的攻擊，儘管實體損害能夠迅速修復，但其穩定聲譽正遭受重創。",
-      "category": "politics",
-      "published_at": "2026-10-12T11:06:34+00:00",
-      "fetched_at": "2026-10-13T05:11:11.021756+00:00",
-      "fingerprint": "5e18fa44bef69dae"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "伊朗與烏克蘭 哪場戰爭對柴油價格影響最大？",
-      "url": "https://www.bbc.com/zhongwen/articles/c9p8gv3dnjmgo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "兩場衝突都導致柴油出口減少，但數據顯示，中東地區減少的供應量更多。",
-      "category": "politics",
-      "published_at": "2026-10-13T00:12:19+00:00",
-      "fetched_at": "2026-10-13T05:11:11.021745+00:00",
-      "fingerprint": "aa79994e2844ea8b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-13T05:11:10.891601+00:00",
-      "fingerprint": "6a78f6efee3a21f2"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-13T05:11:10.891485+00:00",
-      "fingerprint": "a471bcd8b380da08"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-13T05:11:10.891352+00:00",
-      "fingerprint": "ab91ee9162f42d35"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The baffling intelligence of a single cell (2024)",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-13T05:11:10.891224+00:00",
-      "fingerprint": "7644a025e38b5a7f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-13T05:11:10.891081+00:00",
-      "fingerprint": "b693a6e80e752f67"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Yandex outage probably didn’t blitz Russian bots",
-      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-      "summary": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-12T15:43:07+00:00",
-      "fetched_at": "2026-10-13T05:11:10.568599+00:00",
-      "fingerprint": "a84e8e40daff678a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "summary": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funneled into the Senate [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-12T16:52:54+00:00",
-      "fetched_at": "2026-10-13T05:11:10.568593+00:00",
-      "fingerprint": "2c4bce67f69f3293"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta has some Wonder Full new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-12T17:00:00+00:00",
-      "fetched_at": "2026-10-13T05:11:10.568587+00:00",
-      "fingerprint": "846af7f67ce8bfa6"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Social Reckoning is flopping at the box office",
-      "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
-      "summary": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-12T21:20:57+00:00",
-      "fetched_at": "2026-10-13T05:11:10.568577+00:00",
-      "fingerprint": "e50abc02ffccc0a1"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境",
-      "url": "https://36kr.com/p/4017114276368260?f=rss",
-      "summary": "<p>文 | 孙小雯 海若镜<br />编辑 | 海若镜</p>\n  <p><strong>人的喜怒哀乐忧惧，对AI来说，重要吗？</strong></p>\n  <p>与人交谈时，我们会留意他的语气、停顿、表情，边听边想对方的真实所思。但当交流被整理成提示词文本，很多情绪信息会被过滤掉。</p>\n  <p>模思智能，这家由邱锡鹏教授（复旦大学特聘教授、上海创智学院副院长）创办的模型公司，一直在意AI的情绪感知能力。</p>\n  <p>在模思智能CEO李世民看来：AI要理解用户的意图，需要把用户说了什么、周围发生了什么，以及此前的交互联系起来。情绪也是其中的一种情境信号。比如用户突然结束了与AI的对话，可能因为任务已经完成，也可能因为AI答错了、让人不耐烦。这种反馈，藏在语音里、语气中，及更广泛的情境中。</p>\n  <p>他们想实现的“情境智能”，是让AI能够持续理解现场：谁在场，之前发生了什么，现在是什么环境，人正在做什么，接下来可能要做什么。但完整实现这种智能感知和预测，仍有很多难题待解。所以，模思智能选择先把交互模型作为工程化入口——让模型能理解、生成语音和视频等多模态，并可实时交互。他们把这套系统命名为MOSS Live。</p>\n  <p><strong>「暗涌Waves」独家获悉，模思智能近日完成超10亿元Pre-A轮融资，由华控基金联合领投，</strong>主要投资方包括国开科创、上海科创基金、新微资本、徐汇资本、追光硬科技创投、临港策源基金等，元禾控股、上海国投旗下上海科创集团、星连资本等老股东持续投资。本轮资金将用于全模态实时交互系统研发与全球商业化落地。</p>\n  <p>早在2023年初，邱锡鹏带领团队推出了类ChatGPT的语言模型MOSS，迅速登上热搜被广泛关注。当时就有投资机构邀请他们创业，但团队没有立即出来。</p>\n  <p>同年，这支团队研发了端到端语音大模型SpeechGPT，尝试让模型理解和生成语音，并保留声音中的情绪、语速、音色等信息。2024年，其开发的AnyGPT，探索让模型能处理更多不同类型的模态信息。</p>\n  <p>沿着这条研究路径，情境智能的目标渐渐清晰。要实现这一目标，<strong>模型就必须进入到现实情境中去，在现场获得客户的真实反馈，</strong>反哺模型。2024年底，这支团队终于孵化创业，成立模思智能，<strong>由SpeechGPT核心作者、年轻的复旦博士李世民担任CEO。</strong></p>\n  <p>李世民告诉我们，过去半年多，模思智能团队发布迭代了20多个模型版本，包括语音生成、音频理解、视觉理解等。他讲了与B端客户一起打磨交互模型的经历，<strong>真实情境的需求不同于学术指标，客户要准、快，还要便宜。</strong>这些约束，也改变着模型架构和推理框架。</p>\n  <p>至于当下热门的AI for AI，他认为这不是新事物、也不是壁垒，过去许多团队都用AI加速模型研发。如今，单点模型的领先可能很快被追上，但如果模型能快速进入产品，真实场景反馈又能变成下一轮训练材料，系统迭代速度可能拉开差距。</p>\n  <p>他们在做的实时交互模型，与日常已用的语音助手有哪些不同？如今距离情境智能，还缺着哪些能力？智能座舱等终端客户到底想要怎样的AI模型？这家成立两年的公司为什么能融到10亿元？</p>\n  <p>以下是「暗涌Waves」与模思智能CEO李世民的对话，经编辑整理：</p>\n  <p>&nbsp;</p>\n  <h2><strong>让AI理解“现场”</strong></h2>\n  <p><strong>「暗涌」：模思一直强调“情境智能”，这里的“情境”到底怎么理解？</strong></p>\n  <p><strong>李世民：</strong>我们理解的情境，英文也是context，但它比大模型里常说的“上下文”更泛化。</p>\n  <p>真实物理环境里的信息，其实是持续不断流入的。这里有什么人、有什么东西、刚才发生过什么、人与物时空关系如何，这些我们都认为属于情境。</p>\n  <p>有个很简单的例子，大家都有过找钥匙的经历。如果你突然问AI：“我的钥匙放哪儿了？”假如AI只能看到你当下的这一帧，它自然不知道答案；但如果它一直在持续接受环境的视频流，就可能看到你进门后把钥匙放到了哪里，后面人离开了、东西有没有移动。</p>\n  <p>拥有情境智能的AI回答问题，依赖的是此前持续积累下来的情境感知能力，而不是提问那一刻获取到的信息。</p>\n  <p><strong>「暗涌」：听起来，像一个随行的AI助理。现在大家期待的不止是拟人对话，还希望AI像人一样，能在物理世界更自主。</strong></p>\n  <p><strong>李世民：</strong>我们选择面向智能终端提供交互能力，底层逻辑就是要AI像人一样和物理世界交互。在真实环境中，人会停顿、改口；周围的声音、画面和环境状态也会一直变化。</p>\n  <p>最终AI一定会进入眼镜、车、玩具、机器人等终端，在这些地方，人不会每次都先整理好一个Prompt，完整告诉AI自己要什么。</p>\n  <p><strong>真正的情境智能，需要双工交互，输入和输出是并行的</strong>，模型能够边看、边听，接收信息的同时也能给出反馈。所以，下一代AI会从“回答问题”走向“持续在场”，能持续理解人和环境，并在合适的时候回应、行动。我们现在做全模态实时交互，就是在解决这件事。</p>\n  <p><strong>「暗涌」：可以举例讲讲，全模态实时交互，跟大家熟悉的AI语音助手有哪些不同吗？</strong></p>\n  <p><strong>李世民：</strong>真正的交互系统，要解决的是信息怎么同时进来、怎么互相影响、怎么在场景变化时持续更新。</p>\n  <p>比如一个人在车里说了句“有点冷”，只做语音识别，识别出这三个字就结束了。但真正的交互智能，要知道现在车里多少度、谁在说话、车辆是什么状态、说话人过去的偏好是什么，最后判断这句话只是描述感受，还是希望AI调一下空调。</p>\n  <p>我们真正关心的是 <strong>AI 能不能理解现场。</strong></p>\n  <p><strong>「暗涌」：邱锡鹏教授团队最早走红网络是2023年的语言模型MOSS，后面转向“语音理解和生成模型”，再后来又加入视频。这些都是为了接近“情境智能”的目标吗？</strong></p>\n  <p><strong>李世民：</strong>在创立模思之初，我们对情境智能有这样的描述：AI能够充分感知、理解复杂的物理情境，并在交互过程中持续提升模型能力。</p>\n  <p>最初我们更强调前半句。AI与物理世界最自然的交互方式是语音，所以我们先从语音入手，先让模型听懂用户的语气和情绪。用户打字、用文本表达的话，语气情绪等信息都会丢失。</p>\n  <p>2025年，我们的语音模型能力已经做到相对领先，就开始把“视觉理解”集成进来，让模型既能听懂，也能看清物理世界。</p>\n  <p>现在，<strong>我们会更多地强调后半句，“在交互中持续提升模型能力”。</strong>随着基础大语言模型、多模态模型逐渐成熟，我们也正往更加全面的多模态交互推进。</p>\n  <p>交互智能，是重要的工程入口。如果AI没有理解情境，会在交互里暴露错误。做交互模型，是在把情境智能做进系统里。</p>\n  <p><strong>「暗涌」：那么目前的多模态交互模型，做到哪一步了？你们最近提出了MOSS Live，具体怎么理解？</strong></p>\n  <p><strong>李世民：</strong>过去半年左右，我们陆续发布、迭代了20多个模型版本，覆盖语音生成、音频理解、语音识别、视觉理解和内容生成等环节，也在持续开源。</p>\n  <p>一些模型在特定任务上已经取得了比较好的效果。比如MOSS-Audio除了理解用户说了什么，也能分析他说话时的情绪、语速和状态，甚至声音里细微的抖动；</p>\n  <p>多说话人语音识别模型MOSS-Transcribe-Diarize-0.9B，在一些特定任务上的效果可以超过参数量更大的模型。</p>\n  <p>现在正处在把过去诸多单点能力接成系统的阶段。我们更愿意把MOSS Live理解成一套实时交互系统。这套系统里，有交互模型，也有能动性模型。交互模型持续看、听、说，理解当前的人和环境；能动性模型负责更复杂的推理、工具调用和任务执行。</p>\n  <p><strong>「暗涌」：模思为什么还要做视频生成模型？这个赛道也很卷。</strong></p>\n  <p><strong>李世民：</strong>这要和视频理解放在一起看。在我们的技术体系里，理解和生成是相互促进的。</p>\n  <p>比如训练视频生成模型，需要先把视频里的内容准确地描述、标注出来，这就依赖理解模型的能力。理解模型还可以帮助评判生成内容的质量；反过来，生成模型的效果，又能帮助我们验证理解模型的能力。这两件事在底层有很多共通的积累，包括音视频数据、数据处理管线，以及训练和推理的基础设施。我们做视频生成，也复用了此前在语音和音视频理解上积累的能力。</p>\n  <p>所以我们会把理解和生成放在一起迭代，最终服务于全模态交互这个目标。</p>\n  <p><strong>「暗涌」：要实现理想中的AI情境智能，难点主要是哪些？</strong></p>\n  <p><strong>李世民：</strong>核心主要有几点。第一，<strong>对音视频流的持续理解能力和双工交互</strong>。让模型在信息输入侧跟输出侧并行，能边看、边听、边说。</p>\n  <p>第二，<strong>记忆能力</strong>，不仅包括历史画面，还要能够在交互过程中对长时间信息进行编码，并在交互中更新。</p>\n  <p>获得这些信息之后，还要理解用户的意图，在输出动作之前做规划和目标拆解。这部分目前的语言模型和agent已经做得不错。</p>\n  <p>最后，还要考虑<strong>怎么从真实交互的反馈中改进</strong>。这跟coding任务不同。coding任务可以直接从代码是否运行正确来判断结果，但在现实生活中，反馈其实没有那么明确。用户不一定会直接说“你错了”，而是生气，或是直接沉默了。这个时候模型就需要结合更多的情境信息分辨。</p>\n  <p>这些问题在当前的交互模型里，都还没有被很好地解决。</p>\n  <p>&nbsp;</p>\n  <h2><strong>用户需求，改变AI模型</strong></h2>\n  <p><strong>「暗涌」：早在2023年你们就做了端到端语音模型SpeechGPT，当时外界的反馈主要是怎样的？</strong></p>\n  <p><strong>李世民：</strong>大家觉得范式很新，但也有质疑。</p>\n  <p>当时，端到端语音最明显的优势是降低时延，能保留更多语音里的非文本信息。但真正到用户场景里，它的代价也很明显：模型参数量大，部署成本高；为了降低时延，在一些特定任务上的效果反而不理想。所以有些客��反而希望我们做一套更智能的三段式方案，先把他们的实际问题解决好。</p>\n  <p>直到2024年GPT-4o出来，大家才理解端到端语音的价值，是让交互更自然。这件事对我启发比较大，我们可以靠技术和认知去做出新的模型范式，<strong>但最后还是要和真实的用户场景结合</strong>，才能产生更大的用户价值。所以我们决定在2024年底出来创业。</p>\n  <p>2025年我们做了很多单点模型，包括多说话人的语音识别、音频生成、单独的音频理解，很多技术选型，都会根据实际市场反馈去调整。</p>\n  <p><strong>「暗涌」：现阶段，你们也在和一些B端用户做联合开发。主要有哪些用户需要全模态的能力？</strong></p>\n  <p><strong>李世民：</strong>我们目前主要接触的<strong>是智能终端客户，包括智能座舱、AI智能硬件等</strong>。它们的使用场景不同，但对模型有一些共通的要求：</p>\n  <p>理解用户说话的内容，也要结合语气、周围环境和之前的交流，判断用户的意图；在拟人度、流畅度上表现更好；以及具备Always-on的体验，用户可以随时唤醒AI、跟它交互。</p>\n  <p>这些需求在不同终端上表现不同，但底层需要解决的理解和交互问题有相通之处，所以模型能力可以在不同场景复用。</p>\n  <p><strong>「暗涌」：目前的智能座舱大多都有语音交互，已经能即时响应一些需求。但座舱内的多模态交互，会是刚需么？</strong></p>\n  <p><strong>李世民：</strong>要看客户希望座舱里的AI做到什么程度。像开空调、调音量这样的明确指令，现有语音交互已经能解决不少问题。<strong>但我们看到的一些客户需求，已经涉及更连续、更复杂的交流。</strong>比如车里多人交谈时，用户跟其他人说话，不希望触发语音助手；跟语音助手实时交互时，用户话说到一半，可能正在思考，不希望被AI打断；打开车窗后，风声、鸣笛声等，如何避免背景音误触发。这些都是我们当前正在做、一些现有座舱语音助手还没有解决的问题。</p>\n  <p>打磨这些具体的细节，<strong>让模型知道什么时候应回复用户、什么时候该沉默</strong>，做到这些，用户能感觉到AI突然聪明了很多。</p>\n  <p>在此基础上，一些客户也希望模型能够同步理解视觉和音频信号。因为单靠声音，AI获得的现场信息仍然有限；加入视觉，可以补充对周围环境的理解，帮助模型判断用户的意图。对于想提供持续交互体验的座舱，多模态就有了具体的用途。</p>\n  <p><strong>「暗涌」：终端的算力能支撑得住么？</strong></p>\n  <p><strong>李世民：</strong>我们会根据不同场景设计不同大小的模型。</p>\n  <p>比如端到端的语音转录模型，如果是用于具身机器人、小型AI硬件、手机等，对时延要求高，且端侧芯片的算力有限，可以用0.9B的轻量级模型，提供本地服务。</p>\n  <p>同系列我们也有旗舰版模型，可以完成长音频多人转写、说话人分离和时间戳标注，主要通过云端提供服务。这个版本更适合对时延要求没那么高、但希望获得更强模型能力的场景。比如内容生产、线上模态交互，或是客服、医患交流的内容和质量分析。</p>\n  <p><strong>「暗涌」：来自用户侧的需求那么多，你会怎样判断哪些值得投入研发？</strong></p>\n  <p><strong>李世民：</strong>现在判断一个技术是否要深度投入，首先还是<strong>需求导向</strong>；第二个标准是<strong>有没有可复用性</strong>，是只有一个客户有需求，还是很多场景底层解决的是同一个问题；第三，<strong>它是不是还在情境交互智能的目标主线上。</strong></p>\n  <p>我们会看这个项目除了收入以外，对模型能力有没有帮助，做完以后这个方案能不能迁移到其他客户。比如一个AI硬件或者终端场景，如果它能帮助我们迭代交互模型、双工模型，这种项目我们会优先做。</p>\n  <p><strong>「暗涌」：做语音模型的老牌厂商，已经积累了不少客户。这个赛道会不会太拥挤？</strong></p>\n  <p><strong>李世民：</strong>我们认为，语音赛道还有很大的机会。大家对市场规模的判断，往往基于当前已经看到的模型能力，但<strong>新技术能力提升，会解锁新的需求和使用场景。</strong></p>\n  <p>比如我们的多说话人语音识别模型MOSS-Transcribe-Diarize，可以分析谁在什么时间说了什么。发布之后，就有一些AI语音硬件公司主动联系我们，希望能够接入API，增强产品多说话人分离、内容识别的能力。</p>\n  <p>语音生成，也还有很大提升空间。比如让模型在一次生成中，统一控制情绪、语速和说话人身份；生成玻璃破碎、踩雪等背景音。这套统一的声音生成范式成熟之后，也能够用在AI短剧等内容生产中。</p>\n  <p><strong>「暗涌」：会担心从研发走到商业化，难度反而更大吗？</strong></p>\n  <p><strong>李世民：</strong>我自己还是比较有信心。AI时代，模型能力是最大的竞争力，模型效果足够好，再加上我们的infra能力能够把成本压下来，客户会选择一个效果更好、成本更低的方案。</p>\n  <p>目前B端业务逐渐成熟，我们已经做了一些交付。这轮融资完成后，C端业务预计也会有比较大的起色。</p>\n  <p>&nbsp;</p>\n  <h2><strong>AI for AI，能否放大迭代速度</strong></h2>\n  <p><strong>「暗涌」：你们很早就用到AI for AI技术么，具体发生在模型训练的哪一步？</strong></p>\n  <p><strong>李世民：AI for AI是一个很常见的概念，很多顶尖团队都会用到。像数据处理、标注、质量评估这些环节，现在都需要大量借助模型来完成。</strong></p>\n  <p>比如我们训练多说话人对话语音生成模型MOSS-TTSD的时候，需要一个能够标注多说话人语音内容的模型。但市面上的模型在这个场景里做得不太好，所以我们自己训练了轻量级端到端语音转录模型MOSS-Transcribe-Diarize-0.9B，再用它标注MOSS-TTSD的训练数据。</p>\n  <p>理解模型不仅可以为生成模型标注数据，也可以评判生成内容的质量，作为奖励模型帮助生成模型训练。生成模型的结果，又可以反过来验证理解模型的能力。</p>\n  <p><strong>「暗涌」：具体标注时，人和模型分别做什么？</strong></p>\n  <p><strong>李世民：</strong>我们会先找很多相似场景的源数据，用初步的AI模型把数据整体标注一遍，再在模型标注的基础上做人工质量核对，得到质量更高的训练数据。</p>\n  <p>这套数据管线，我们从2023年开始迭代和积累。除了上述模型，整套数据标注管线里还会用到许多音频理解和多模态理解模型，分别处理不同的数据任务。模型之间怎么编排，数据管线先处理哪些任务、后处理哪些任务，都需要经过精细的实验。</p>\n  <p><strong>「暗涌」：让 AI 进入数据生产、标注、和模型训练，对效率的提升是怎样的？</strong></p>\n  <p><strong>李世民：</strong>效率方面，我们比市面上常见的多模态或音频数据处理管线提高了两到三倍，这里面也包括对数据处理算子的工程优化。靠这套共通的数据处理管线和研发infra，我们的模型迭代速度也很快。近半年，我们陆续发布了二十多版模型。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261010/v2_2dd0e26321f245b0b712ab203f78b1b2@5452796_oswg1299501oswg1920oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：模思智能</p>\n  <p><strong>「暗涌」：现在很多团队都在用AI辅助研发。你们希望建立哪些壁垒？</strong></p>\n  <p><strong>李世民：</strong>AI for AI，机器学习里其实研究了很多年。我觉得，这个词本身不是壁垒。</p>\n  <p>我们更关心的是，能不能把AI真正放进多模态数据、模型迭代的生产流程里。<strong>比如音频、视频、图像和交互数据进来以后，过去很多事情要靠人做，现在这些环节都可以逐步训练模型来处理。</strong></p>\n  <p>单点模型今天领先，过一段时间很可能就会被追上。实时多模态交互不一样，它需要语音、视觉、视频、理解、生成、推理系统、真实场景和数据管线一起往前走。</p>\n  <p>模型能不能快速接进系统、真实场景里的数据能不能回来，数据回来以后能不能很快变成下一轮训练材料，这几个环节如果能持续转起来，最后能放大整个系统迭代的速度。</p>\n  <p>下一步真正要证明的，是产品和客户场景产生的数据，能不能持续回到模型训练。</p>\n  <p><strong>「暗涌」：从团队角度来看，模思智能现在200多人，大概3/4是研发人员，你会觉得整个组织更像Lab么？</strong></p>\n  <p><strong>李世民：</strong>从人才密度上看，我们确实有一些实验室的特征，差不多一半是纯算法研究；剩下的人里又有一半是开发侧研发。但模思不是一个Lab，我们是一家要走通商业闭环的公司。</p>\n  <p>研发占比高，是因为我们要把研究、模型、产品一路打通，每一环都离不开研发。模思的模型能力，要变成用户真正用得上的产品和服务；用户和市场会反过来影响我们的模型。</p>\n  <p>以前做语音模型，可能更关注词错率、语音相似度这些学术指标；但客户会提需求：<strong>不光要准、低时延，价格也不能太贵。这些约束最后会反过来改变模型架构、推理框架，甚至我们的基础设施，</strong>逼着我们去做更加细致化的优化，提供更低成本、高利用率的模型。</p>\n  <p><strong>「暗涌」：你们希望，模思最终会成为一家怎样的公司？</strong></p>\n  <p><strong>李世民：</strong>我们想做的，还是AI和真实物理世界交互的基础设施。</p>\n  <p>往理想的方向讲，就像电影《Her》里的AI助手。AI能够充分获得用户所处的情境，理解人，能跟人进行智能、实时、连贯的交互。</p>",
-      "category": "tech",
-      "published_at": "2026-10-13T01:15:49+00:00",
-      "fetched_at": "2026-10-13T05:11:10.396391+00:00",
-      "fingerprint": "5ecc1cd5caaa9a91"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "华为投后，一盛新材再获元禾璞华等近亿融资，热控材料站上AI风口丨36氪首发",
-      "url": "https://36kr.com/p/4023646561668995?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_82c64f1959c04c09ac769bf2121c31d2@6221844_oswg1393656oswg1268oswg796_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3200</strong>字，建议阅读<strong>7</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，哈尔滨一盛新材料科技有限公司（下称“一盛新材”）宣布完成近亿元A3轮融资，本轮由元禾璞华、长江创新联合领投，中信建投、江苏高投旗下邦盛、丰源资本、银柏投资跟投，老股东中关村启航旗下芯创基金追投。本轮融资将重点用于硬件设备投入与高端人才引进。</p>\n  <p>一盛新材成立于2024年9月18日，是一家专注于高端金属基复合材料研发与生产的高科技企业，核心技术依托哈尔滨工业大学金属基复合材料国家地方联合工程实验室。</p>\n  <p>创始人武高辉为亚太材料科学院院士、享受国务院特殊津贴。四十余年来专注金属基复合材料高品质制备技术，1982年亲手研制出中国第一块金属基复合材料。创建了哈尔滨工业大学金属基复合材料国家地方联合工程实验室，已经建成涵盖结构类、功能类金属基复合材料20余种的货架产品。2012年，他率团队国内首次研制成功金刚石铝复合材料并批量应用于卫星航天器，是国内最早实现金刚石复合材料工程化的团队。</p>\n  <p>目前，AI正在重塑热控材料这一赛道。武高辉向硬氪直言：“AI技术的发展强烈依赖于算力，而算力发展的最大的障碍就是热控材料。”</p>\n  <p>比如，英伟达GPU芯片单颗功耗已达3000W，将来要达到7000W，而芯片温度每升高2℃，可靠性将下降10%，长期运行温度高于80℃时寿命将呈指数下降。以往的钨铜、钼铜材料热导率仅200W/(m·K)出头，面对千瓦级功率器件已无能为力。</p>\n  <p>自第四代热控材料（金刚石/铝、金刚石/铜复合材料）首次实现了“超高导热+热膨胀匹配+可轻量化”的突破，这些材料就逐渐成为AI算力散热的必选项。</p>\n  <p>一盛新材的产品主要围绕高功率芯片散热展开，从芯片热沉到封装壳体再到集成液冷系统的冷却模块，形成了大功率电子器件全链条的热控解决方案。</p>\n  <p>其中，核心产品包括金刚石/铝和金刚石/铜复合材料，热导率分别达550-750W/(m·K)和750-980W/(m·K)，综合性能已领先日本住友电工等国际竞品。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_5f80a0596cb54b308df9589378567894@6221844_oswg352413oswg1080oswg672_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">核心产品矩阵（图源/企业）</p>\n  <p>但一盛新材最核心的壁垒不在实验室，而在工程端。行业公认，金刚石铜复合材料的工程化难点在于“成型”。因为很硬的金刚石镶嵌在很软的铜基体中，机械切削时会把金刚石颗粒从基体里“挖”出来，达不到成型精度，刀具也严重损伤。</p>\n  <p>一盛新材发明了独有的近净成型技术，可实现复杂构件一次精密成型，无需二次加工。武高辉表示，公司几年前就把光模块的复杂零件一次做出来了。“这是我们独有的技术，也是我们最深的护城河”。</p>\n  <p>在制造端，一盛新材采用的自研的液态法压力浸渗技术和装备，区别于行业主流的粉末冶金路线，是将液态金属在压力作用下渗入到金刚石预制体间隙中的方法，解决了致密度、界面反应等难题。公司当前年产能已达千万片以上。</p>\n  <p>而应用方面，一盛新材顺应材料工程化的客观发展规律，走出了“军工先行、民用跟进”的双轮驱动路线。航天国防目前仍是公司的核心基本盘，产品已用于超过20颗卫星，是当前国内唯一可提供航天级金刚石/铝复合材料系列产品的单位，并覆盖雷达T/R模块、大功率器件、弹载计算机等核心场景。</p>\n  <p>武高辉在十年前主持编写的中国“金属基复合材料发展路线图”中对民用市场的应用有个判断，现在看来民用市场的爆发比预期的要早好几年。公司目前已在新能源汽车、AI算力中心、大功率芯片、5G/6G通讯、光模块等领域开始了布局。</p>\n  <p><strong>以下为硬氪与一盛新材料创始人武高辉的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：热控材料赛道过去很少被关注，为什么近几年突然火了？</strong></p>\n  <p><strong>武高辉：</strong>以前的砷化镓芯片功耗低，用传统材料就能应付，现在大功率器件开始选用氮化镓芯片，发热量增加3~5倍，而且集成度越高发热量越大，英伟达单颗芯片手指甲那么大一个面积就能达到3000瓦，热量非常大。芯片温度每升高一度，可靠性就下降5%，热量控不住，算力就上不去，这是物理规律决定的。</p>\n  <p>大家都知道，我国是国际上AI技术发展最为迅猛的国家，AI的基础依赖于算力，算力装备对热控材料的需求突然出现井喷式发展。而且这个趋势是刚性的，所以说不是我们赶上了风口，而是我们时刻跟随着时代的步伐。</p>\n  <p><strong>硬氪：目前行业内做金刚石复合材料的玩家不少，你们核心壁垒到底是什么？</strong></p>\n  <p><strong>武高辉：</strong>壁垒不在材料配方，而在工程化能力和产品可靠性。我们依托哈工大平台，已经形成了二十多种可产业化的复合材料品种，文献可查到的国外企业的产品加到一起也不过10来种，这是我们的材料体系优势。</p>\n  <p>但更核心的是工程端的积累。从界面调控到近净成型，从设备自动化到批量一致性，每一个环节都有十几年的know-how。我们已经实现了复杂构件一次精密成型，而且设备工艺都固化在系统里了。不过我们也很清楚，在市场的巨大诱惑下，国内金刚石铜的企业一年间兴起十几个，技术发展也很快，我们的领先只是暂时的，需要不断地迭代升级，才能保持领域的引领。</p>\n  <p><strong>硬氪：从航天到AI算力中心，这两个市场的逻辑有什么不同？</strong></p>\n  <p><strong>武高辉：</strong>航天是“可靠性第一”，产品要经过最严苛的考核，量不大但门槛极高。我们经过十几年的锤炼才成为国内唯一能提供航天级金刚石/铝复合材料系列产品的单位。</p>\n  <p>AI算力中心是“性能与成本并重”，量非常大，要求快速交付和成本可控，这对我们高校科研出身的人是短板。我们要做的的事就是把航天级的技术能力平移到民用市场，学会在产业海洋中游泳，通过产能扩建和工艺优化把成本降下来。新能源汽车、液冷产品已经在小批量送样测试了，结果很好。军、民这两个市场一个立标杆，一个放规模，是互补的双轮驱动。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>中信建投资本表示：</strong>随着AI算力需求持续爆发，高效散热已成为制约算力基础设施升级的关键瓶颈。金刚石凭借远超传统金属材料的导热性能与优异的物理特性，正成为下一代散热技术的核心方向。</p>\n  <p>中信建投资本长期关注半导体行业关键材料的产业投资机会，我们看好金刚石复合材料从技术验证走向规模化商用的加速趋势，也高度认可一盛团队在金刚石材料研发与产业化落地方面的技术积累。期待公司抓住AI散热升级的时代机遇，为算力基础设施建设提供核心材料支撑。</p>\n  <p><strong>元禾璞华表示：</strong>AI算力功耗指数级攀升，传统铜基散热材料已逼近物理极限，一盛新材料依托武高辉教授团队四十年金属基复合材料积累，在金属基复合材料领域实现了从界面调控到复杂构件净成型的全链条突破，已在客户端验证了技术成熟度与工程化能力。元禾璞华将持续布局半导体热管理赛道，支持一盛新材料扩产提效与客户拓展，推动国产高端热管理材料在AI芯片封装、数据中心等场景的规模化应用。</p>\n  <p><strong>丰源投资认为：</strong>面对AI芯片1400W+热管理挑战，传统散热触及物理极限，金刚石铜复材迎来了产业化拐点，其应用场景正加速从军工航天向千亿级AI算力基建跃迁。一盛新材料依托顶尖专家武高辉教授的核心工艺优势，已形成稀缺的技术与商业双壁垒。丰源长期看好一盛以技术硬实力撬动商业高价值的巨大潜能。</p>\n  <p><strong>邦盛资本表示：</strong>当芯片功耗飙升、风冷液冷散热皆触及物理边界时，真正的卡点落在芯片表面的\"近端热传导\"上，金刚石/铜、金刚石/铝正是补强这一环的稀缺材料。一盛依托哈工大武高辉教授团队四十余载积淀，手握气压浸渗、界面调控等国际首创技术，填补了高端热控材料国产化空白，使其在AI算力与商业航天的高景气赛道上牢牢占据材料端的战略咽喉。我们坚定看好一盛，在芯片与散热器的微米级界面上，筑起了一道难以逾越的国产高墙。</p>\n  <p><strong>老股东中关村启航投资旗下芯创基金表示：</strong>中关村启航作为一盛新材料的早期投资方，本轮坚定追加投资，正是基于对行业趋势与公司发展的持续跟踪，首次投资时的核心判断已得到充分验证。</p>\n  <p>今年以来，金刚石/铜这类第四代热管理材料，从航天军工的“高塔”走向AI算力、光模块等多个千亿级民用市场的产业趋势已被强势确认，正加速从“可选项”变为“必选项”。我们最初的投资逻辑不仅成立，且比预期中更加刚性。</p>\n  <p>让我们决定追投的，更是一盛团队展现出的惊人执行力与工程化落地速度：从航天级可靠性到民用级优化、千万级量产，高景气赛道大客户验证进展超出预期。一盛团队用扎实的产业化进度证明，这不仅是一支顶尖的科研队伍，更是一家具备稀缺工程化壁垒的平台型材料企业。芯创基金将持续深度陪伴一盛，做好全生命周期赋能服务，打造金属基复合材料全球领军企业。</p>",
-      "category": "tech",
-      "published_at": "2026-10-13T01:48:40+00:00",
-      "fetched_at": "2026-10-13T05:11:10.396385+00:00",
-      "fingerprint": "bf633428726d7e66"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发",
-      "url": "https://36kr.com/p/4023671039070081?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_8d60e0b5e79746d08cbd2dc9ae37729a@6221844_oswg1758626oswg1268oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3300</strong>字，建议阅读<strong>7</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，气象AI公司天序智能科技（嘉兴）有限公司（下称“天序智能”）近期已完成数千万元Pre-A+轮融资，由厚雪资本独家投资，翊荣资本担任长期独家财务顾问。本轮融资资金将主要用于“凝空星座”建设、CMAWSPAI及垂类世界模型迭代、团队扩张、重点客户拓展与海外业务预研。</p>\n  <p>天序智能在2024年10月创立，是未来全球范围内少数同时掌握垂类气象大模型、自主可控卫星观测网络、行业底座化交付能力的硬科技AI for Science公司。</p>\n  <p>创始人刘栗是中国科学院大学气象学博士，本硕博深耕气象专业，长期研究气象、人工智能与能源交叉方向。</p>\n  <p>“我们在这个行业深耕近10年，尝试过气象跟能源、交通、农业等多个领域的结合，最终发现能源是政策驱动、市场空间最大、付费意愿最强，同时也是全球范围内最稀缺高精度气象底座的黄金赛道。</p>\n  <p>天序智能是国内极少数完成“大模型上星”的创业公司，致力于建成自主可控的能源气象新型基础设施，并布局能源垂类世界模型与产业级物理仿真。</p>\n  <p>公司认为，新能源“靠天吃饭”，风速、辐照度直接决定发电量。当前国内新能源装机占比已超50%，电力市场化改革加速，功率预测��生百亿级刚需，电力现货交易打开千亿级增量，赛���正处爆发前夜。</p>\n  <p>能源只是天气经济第一站。气象是电力供需最大变量，也是经济社会底层定价变量之一。天序智能的目标是立足中国能源场景，从电力交易出发，成为全球天气风险的底层定价者，建成能源垂类“最强大脑”。</p>\n  <p>从行业发展来看，传统气象预报依赖物理模型，本质上是解数学物理方程组的过程，需要消耗大量算力。</p>\n  <p>刘栗给硬氪举了一个直观的例子：以前预报未来10天天气，用超级计算机可能要算十几个小时；现在用AI大模型，一分钟就能算出未来20多天的天气，很多气象要素的预报准确率甚至更高。</p>\n  <p>天序智能的气象大模型并非大语言模型，而是一个参数规模在10B以内的垂直领域模型。公司从第一行代码开始自研，在主流架构基础上进行了能源领域的垂直化改造，创新性地提出了“洛伦兹框架”——这一命名致敬了混沌理论的提出者、气象学家洛伦兹。</p>\n  <p>“我们的核心是以Transformer为底层框架，针对能源气象预报里的上下游空间关联、时间飘移等现象，改造了传统的注意力机制。我们的目标从一开始就聚焦在风速和辐照度的预报上，这一点区别于一般的气象大模型”刘栗介绍。</p>\n  <p>从2025年起，天序智能与中国气象局公共气象服务中心一道，共同搭建起一套从大模型数据处理到垂类模型训练的特色工作流，并在2025年10月于广东中山联合发布了国内首个能源气象大模型CMA-WSP-AI。</p>\n  <p>区别于传统气象大模型“只输温度、湿度、降水等气象结果”，天序智能面向能源的垂类世界模型，可以进一步推演：气象变化如何传导至新能源出力波动、如何影响全网负荷、如何驱动现货电价涨跌，实现从“算天气”到“算能源系统演化”的跨越，为电力交易决策、大基地规划、电网风险预演提供仿真推演能力。</p>\n  <p>在模型效果上，天序智能1km高精度风速预测，在RMSE、相关系数等指标上优于EC-HRES、AIFS；在极端天气AI竞赛中（包含冰雹、雷暴大风、雷暴、短时强降水四项）排名第一，TS评分较传统基线方法提升39.6%至351%不等。</p>\n  <p>商业化上，天序智能已跑通“数据—平台—能力建设”三层商业模式。最底层是数据售卖，客户包括头部发电集团、气象部门以及参与电力交易的多类主体；第二层是SaaS化的电力交易辅助决策平台和功率预测平台，按账号订阅，贡献持续性收入；第三层是能力建设，将数据、模型、平台整体部署到客户内网，满足头部客户对能源数据安全、数字化改造和私有化部署的需求。三层业务层层递进：数据是入口，平台带来复购，私有化部署锁定头部客户；接入的场站和场景越多，模型越准，形成正向的数据飞轮。</p>\n  <p>“传统模式是发电侧把数据传到第三方，第三方加工成产品再传回去。但随着能源安全的要求提高，这种模式走不通了，数据不能出内网。”刘栗解释道，“我们把模型和平台搭建在客户内网里，让数据和模型在内网闭环运行，同时帮助客户掌握这套自主能力。”</p>\n  <p>当前，天序智能的客户已覆盖发电侧、用电侧和电网侧：在发电侧，与多家头部发电央企达成合作；在电网侧，国家电网和南方电网均是其客户。这意味着，天序已拿到中国能源体系最核心客户的“入场券”。刘栗认为，从“结果采购”到“能力建设”的转型，正是天序区别于传统气象服务商的核心差异。</p>\n  <p>大模型是“大脑”，卫星则是“眼睛”。刘栗认为，算法优势终会被追平，数据源头才是长期壁垒。天序智能启动“凝空星座”计划，2026年7月24日气象大模型已搭载卫星入轨并完成每日验证，是国内较早让气象大模型“上天”的创业公司之一。星座远期规划18颗卫星，建成全球1km/1h风、光、温压湿观测网络，走出“AI大模型+自有卫星+星上计算”的稀缺路线，以全球视野服务国内、“一带一路”国家及全球市场。</p>\n  <p>能源之外，公司还布局低空气象与金融气象：前者已与头部客户开展无人机配送气象服务，分辨率达10米级；后者面向天气衍生品、保险及海外预测市场，提供可信高频的定价与结算数据底座。</p>\n  <p><strong>以下为硬氪与天序智能创始人刘栗的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：从“数据消费”到“数据生产”，这个说法怎么理解？天序为什么要自己做卫星？</strong></p>\n  <p><strong>刘栗：</strong>所谓数据生产者，就是依靠气象大模型生成气象数据，掌握数据源头。因此我们要逐步把竞争力从算法优势，过渡到数据优势。</p>\n  <p>整体分三步走：2026年7月，大模型已搭载卫星上天，在轨运行验证。2027年计划发射两颗先导试验星，验证星间传输和星上计算能力，服务新能源场站，补齐“沙戈荒”地区风光观测数据短板，为资源评估、能源预测筑牢基础。远期规划部署18颗卫星，实现全球范围1小时重访、1公里分辨率的风、光、温压湿要素探测。</p>\n  <p>这类观测数据是新能源场景的稀缺资源，除服务国内市场外，还能支撑出海，尤其是服务“一带一路”沿线国家。卫星数据能力是未来气象服务公司最核心的壁垒之一。</p>\n  <p><strong>硬氪：和业内传统企业相比，天序的差异体现在哪里？</strong></p>\n  <p><strong>刘栗：</strong>主要有两点。第一，跟传统功率预测厂商不同，我们本身就是底层气象数据生产者，从核心气象数据向上做业务应用，技术起点不一样。依托气象大模型，我们在部分区域的预测准确率具备明显优势。</p>\n  <p>第二，和科研团队不同，我们是从行业场景中成长起来的团队。公司硕士及以上人员占比超80%，同时大量核心人员在能源领域又深耕了10来年，我们擅长做交叉领域的技术创新和商业化落地。</p>\n  <p><strong>硬氪：行业目前面临哪些挑战？技术路线的演进会不会影响你们后续的研发方向？</strong></p>\n  <p><strong>刘栗：</strong>第一，技术层面紧跟前沿趋势。大模型从纯数据驱动过渡到物理约束加数据驱动的双轮驱动路线，我们会结合能源场景深挖底层逻辑，针对前沿技术持续评估、试验，寻找差异化落地路径。</p>\n  <p>第二，商业推广上我们不畏惧行业竞争。我们团队的基因是开放、合作的基因。真正需要考量的是新能源产业长期发展的基本面，而国内大力发展新能源的大方向不会改变。此前区域冲突推高国际油价，国内受冲击相对有限，根源就在于能源结构转型，新能源装机占比已突破50%。回看，顶层能源战略具备长远视野。</p>\n  <p>第三，天气经济的市场空间还远未被打开。国民经济中约80%的行业与气象相关，新零售、金融、农业、航运等行业都能借助气象实现精细化运营和风险管理。海外的天气衍生品和预测市场已经证明，天气可以被定价、被交易；国内这个市场才刚刚起步，对我们来说既是挑战，更是最大的机会。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>厚雪资本表示：</strong>随着我国加速建设新型电力系统，同时全球碳中和进程持续推进，能源气象已经从辅助性工具升级为关乎能源安全与全球绿色转型的关键数字新型基础设施。天序智能自研垂类气象大模型，开创性布局“凝空星座”自主卫星观测网络，打通“太空观测气象大模型能源垂直世界模型仿真行业底座交付”全链条，技术体系横跨气象科学、人工智能、世界模型前沿、航天工程、电力产业，不仅深度赋能国内能源体系建设，也具备向全球输出中国原创气象技术底座的巨大潜力，在能源、低空、农业、金融等国计民生赛道拥有广阔想象空间。创始团队兼具扎实的气象科研功底、全栈工程落地能力、产业商业化运营经验与国际化视野。我们看好团队抓住“十五五”科技创新与全球能源产业升级的重大时代机遇，建成全球领先的自主可控能源气象技术体系，以软硬一体化智能基础设施解决方案，助力国家能源安全，赋能全球实体经济高质量发展。</p>",
-      "category": "tech",
-      "published_at": "2026-10-13T02:12:10+00:00",
-      "fetched_at": "2026-10-13T05:11:10.396378+00:00",
-      "fingerprint": "c90ee9e3761b4587"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发",
-      "url": "https://36kr.com/p/4023041152585603?f=rss",
-      "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p>36氪获悉，近日，专注做GEO的AI营销公司深度云海智能科技（上海）有限公司（以下简称“深度云海”）已完成千万级天使轮融资，华工科技（000988.SZ）领投，本轮资金主要用于自研技术底座迭代、海外市场拓展、产品升级以及AI人才的扩充。</p>\n  <p>深度云海创立于2025年6月，团队规模为70余人，核心团队来自前百度搜索部门，CEO钱程曾任百度上海总经理，他也是一位连续创业者，离开百度后，他相继创办唯智互动传媒、爱玩高尔夫、嗨修汽车等公司，其中，爱玩高尔夫和嗨修汽车先后被携程、滴滴收购。COO杨海玲历任3721、百度、慧聪网、敦煌网、世优等知名企业COO等高管职务，具有头部互联网企业全链路商业化操盘经验；CTO龙杰曾参与百度无人驾驶系统高精度地图落地等工作。</p>\n  <p>据介绍，成立一年以来，深度云海已累计服务了3000多家企业客户，年收入达到数千万元。</p>\n  <h3><strong>一个能帮企业做生意的AI营销工具</strong></h3>\n  <p>深度云海的产品包括两个部分：GEO RaaS系统（包括国内版和海外版）、DeepWork桌面端产品。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261012/v2_0174fe2bcd4545bf98a26be26f4f796e@6162492_oswg1374994oswg1920oswg2148_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">AI企业智能营销平台，图源：企业</p>\n  <p>用简单的话来介绍GEO系统，就是通过生成引擎优化，让ChatGPT、DeepSeek、豆包等海内外AI工具在输出结果时优先推荐客户企业。</p>\n  <p>具体来看，这套系统主要包括以下内容：</p>\n  <ul>\n   <li>诊断：用深度云海自研“云宝AI品牌可见度监测系统”（AI可见性、品牌声量情感、信源漏洞、竞品对比）评测出品牌在大模型里的可见度，并用AI监测系统实时追踪品牌在豆包、DeepSeek、元宝等模型中的收录情况、被提及的次数和排名；</li>\n   <li>优化：按各家平台的偏好定向优化提示语，如扩展意图词等；</li>\n   <li>生产：把权威信息源分层次，并找出哪些还有信息缺口，用AI灵雀建站把企业官网改造成大模型更容易识别和抓取的形态；</li>\n   <li>分发：内容最终经人机双重合规审核后，分发至各平台渠道。</li>\n  </ul>\n  <p>另一款产品DeepWork是智能营销工作台，它的定位是“客户的AI营销部”。与WorkBuddy这类大而全的桌面Agent不同，DeepWork则是专门为GEO准备的Agent智能营销工作台，围绕营销工作，这一应用里设置了诊断台、创作台、监测台、Skill中心以及转化台，覆盖从品牌可见度诊断与追踪、宣传稿件成稿与分发、销售自动化等全过程。</p>\n  <p>钱程认为，对于企业而言，数据安全是常有的顾虑。因此，这一应用支持本地部署、离线可用、数据自主可控，不仅如此，平台还会持续积累个性化数据，让系统越用越懂企业。</p>\n  <p>从商业模式来看，深度云海走RaaS（结果及交付）路线，他们既做国内市场、也做海外市场。从行业上来看，客户主要分布在机械设备、化工能源、电子电工与教育等。</p>\n  <h3><strong>GEO的下半场，聚光灯打在了技术上</strong></h3>\n  <p>“大模型变聪明了，对于搜索溯源结果也在扩充，从10条扩展至最高60条，与此同时，溯源结果的生态也在变，除了网页，一些AI应用如豆包，还能查找到抖音视频等内容作为参考资料。”钱程说，他给GEO划了一条时间上的分界线——今年下半年，行业也进入了技术分水岭，从流量红利期进入技术驱动期。</p>\n  <p>从产品底座来看，深度云海自研了GEO营销算法引擎，并搭建了关于实体、关系、属性、事件、规则、FAQ、标签、训练约束的八层企业知识图谱。钱程把技术路线概括为“逆向工程”：观测大模型给出结果前做了哪些溯源检查，反向做算法匹配，判断投放到哪些站点更容易被引用。围绕这套底座，深度云海已申请多份软著与专利。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261012/v2_658abc46d87e4faa9c589bee732528ab@6162492_oswg782788oswg1920oswg1080_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">GEO全链路运营体系，图源：企业</p>\n  <p>不过，GEO不会完全替代SEO（搜索引擎优化），钱程认为，GEO会成为企业做AI营销的标配，而行业也正处于洗牌当中。</p>\n  <p>钱程判断，创业公司的窗口期还有两到三年，洗牌的规则也清晰：在行业发展早期，光靠多发一些能被AI抓取的文章就能实现AI可见性；而如今效果量化的门槛提高，必须靠技术、算法和监测投入才能保障可量化交付。</p>\n  <p>钱程告诉我们，现有的大模型在抓取信源的倾向也在发生改变，自媒体内容被引用的权重已降至一成，权威信源的权重持续上升，因此，技术不达标、投入不足、不具备运营能力的小GEO公司可能会逐渐掉队。</p>\n  <p>这也让深度云海不断自我校正自己的路线。推出DeepWork智能营销工作台后，他们还要积极开拓海外市场。只做一家GEO服务商是不够的，钱程希望深度云海在未来可以逐渐成为一个AI 全域企业智能营销平台，让企业在AI中提高自己可见性的同时，还能让智能“助理”补齐其他营销链条，让AI把生意做下去。</p>",
-      "category": "tech",
-      "published_at": "2026-10-13T03:10:57+00:00",
-      "fetched_at": "2026-10-13T05:11:10.396369+00:00",
-      "fingerprint": "9e45e924f4d81d01"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪首发丨达晨投过的老牌减速器厂商完成数亿元B轮融资，已供货多家头部机器人企业",
-      "url": "https://36kr.com/p/4023807119789956?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>本文约1500字，建议阅读3分钟</p>\n  </blockquote>\n  <p>硬氪获悉，近日，浙江三凯机电有限公司（以下简称“三凯机电”）宣布完成数亿元B轮股权融资。本轮融资由工业母机产业投资基金与物产中大投资联合领投，财通资本、温岭海和融智跟投。募集资金将主要用于深化人形机器人关节减速器及驱动一体化技术的研发迭代，扩大精密减速器产能建设，加速高端传动部件的国产化替代进程。去年年底，三凯机电曾获达晨财智领投过亿元A轮融资。</p>\n  <p>三凯机电成立于2007年，是国内较早开展精密行星减速机自主研发并量产的企业，于2012年量产。三凯机电创始人兼CEO江建斌向硬氪介绍，目前国内自动化领域已广泛应用三凯机电的行星减速机。</p>\n  <p>据介绍，三凯机电的精密行星齿轮减速器凭借独特的齿形修形技术，回差可稳定控制在1弧分以内，扭转刚性高，能保证工业母机在重载、高速下的加工稳定性与超高精度。同时，减速器采用优质合金钢与核心热处理工艺，依托精度管控和装配工艺提升，在加工一致性上处于国内第一梯队。</p>\n  <p>目前公司精密减速器已广泛应用于机床与CNC、AGV/AMR、光伏锂电、医疗影像、灌装设备、3C电子、无人机舵机、钢铁冶金等行业领域，可实现进口替代与成本下降。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261013/v2_5641e31571e94afb9ecd671af21cd451@5920579_oswg943014oswg1080oswg487_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>2022年，随着人形机器人的兴起，三凯机电也组建机器人服务团队，研发适用于机器人的行星减速器与谐波减速器。</p>\n  <p>同年，公司推出机器人领域用谐波减速器，自主开发高精度共轭齿形，实现多齿啮合；通过优化齿形设计与抗疲劳特种材料，承载能力较国内标准品有较大提升；同时体积小、重量轻，适配多关节机器人对空间和重量的严苛限制，可用于六轴、四轴工业机器人。</p>\n  <p>2024年，公司又专门推出更适配人形机器人关节的行星关节减速器。通过拓扑优化与异形集成设计，实现较高的扭矩/重量比与扭矩/体积比，为人形机器人提供动力基础。</p>\n  <p>目前，三凯机电已与国内多家头部机器人整机厂商深度合作，并进入北京人形机器人创新中心等多家机器人头部企业的核心供应链体系，实现稳定批量供货。</p>\n  <p><strong>值得注意的是，在今年8月的第二届世界人形机器人运动会上，天工系列机器人共斩获15金12银18铜，合计45枚奖牌，并在竞速、跳高、跳远、举重等多个赛项刷新行业纪录，其核心关节部件来自三凯机电。</strong></p>\n  <p>为适配人形机器人复杂多变、高冲击、高负荷的运动工况，三凯机电近两年在设备方面投入过亿元，正在全面升级生产加工、精密检测、研发试验等硬件设备。</p>\n  <p>基于未来人形机器人产业增长预期，今年年初，公司二期厂房暨“年产100万套精密齿轮减速器”项目开工，总建筑面积约6万多平方米。项目达产后将新增百万套级精密齿轮减速器年产能，并配套伺服电机、驱动一体化智能生产线，升级柔性生产与批量交付能力，预计新增年产值约10亿元。</p>\n  <p><strong>创始人问答：</strong></p>\n  <p><strong>硬氪：工业母机和人形机器人对行星减速器的要求有什么不同？人形机器人方向未来会做哪些拓展？</strong></p>\n  <p><strong>江建斌：</strong>人形机器人对减速器的核心诉求是更轻、更薄、更小，不过基本结构与工业母机所用产品相近，技术复用度较高，只在尺寸和工艺存在差异，公司已为此单独开设专用产线。</p>\n  <p>目前机器人方向的研发正在向“电机+减速器”的模组化形态突破。随着客户陆续提出配套电机的需求，公司的目标是提供即插即用、高度集成的关节模组。但各家机器人厂商的算法和应用场景不同，驱动器往往需要针对不同客户定制多个版本，而主流厂商又大多自研驱动，因此公司未来几年不会涉足驱动器设计，只聚焦机械部分，也就是“电机+减速器”的一体化集成设计。</p>\n  <p><strong>投资方观点</strong></p>\n  <p><strong>B轮领投基金：</strong>精密传动部件是人形机器人与高端装备的“卡脖子”核心零部件之一。三凯机电在精密传动领域积淀深厚，已在国内自动化市场得到广泛验证，看好其在人形机器人核心部件国产替代进程中的领先地位与规模化发展潜力。</p>",
-      "category": "tech",
-      "published_at": "2026-10-13T04:29:08+00:00",
-      "fetched_at": "2026-10-13T05:11:10.396354+00:00",
-      "fingerprint": "4abd9d63951fe4f4"
-    },
-    {
-      "source": "少数派",
-      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
-      "url": "https://sspai.com/post/115242",
-      "summary": "iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。<a href=\"https://sspai.com/post/115242\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-12T07:00:00+00:00",
-      "fetched_at": "2026-10-13T05:11:07.176307+00:00",
-      "fingerprint": "d33e97079c0c6fb6"
-    },
-    {
-      "source": "少数派",
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/115934",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/115934\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-12T09:30:00+00:00",
-      "fetched_at": "2026-10-13T05:11:07.176300+00:00",
-      "fingerprint": "16e866ca337e2181"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
-      "url": "https://sspai.com/post/116033",
-      "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...<a href=\"https://sspai.com/post/116033\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-13T00:01:49+00:00",
-      "fetched_at": "2026-10-13T05:11:07.176294+00:00",
-      "fingerprint": "a60be880c66849e4"
-    },
-    {
-      "source": "少数派",
-      "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
-      "url": "https://sspai.com/post/114561",
-      "summary": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。<a href=\"https://sspai.com/post/114561\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-13T03:09:17+00:00",
-      "fetched_at": "2026-10-13T05:11:07.176286+00:00",
-      "fingerprint": "0b1b5590ac149fff"
-    },
-    {
-      "source": "少数派",
-      "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-      "url": "https://sspai.com/post/116028",
-      "summary": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。<a href=\"https://sspai.com/post/116028\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-13T03:30:05+00:00",
-      "fetched_at": "2026-10-13T05:11:07.176274+00:00",
-      "fingerprint": "c5328b87d497bc60"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6677 CNY ↓-0.09%",
-      "url": "https://www.frankfurter.app/2026-10-12?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-10-12</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6677 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0041 (-0.09%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-10-13T05:11:05.779573+00:00",
-      "fingerprint": "2c0298e2a1c23b10"
     }
   ]
 }
