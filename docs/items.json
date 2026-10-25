@@ -1,7 +1,207 @@
 {
-  "updated_at": "2026-10-24T03:02:20.793434+00:00",
-  "count": 192,
+  "updated_at": "2026-10-25T02:56:30.110009+00:00",
+  "count": 190,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "category": "politics",
+      "published_at": "2026-10-24T15:21:44+00:00",
+      "fetched_at": "2026-10-25T02:56:29.903923+00:00",
+      "fingerprint": "b63a73bec91ba1d8"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "category": "politics",
+      "published_at": "2026-10-24T23:02:06+00:00",
+      "fetched_at": "2026-10-25T02:56:29.903917+00:00",
+      "fingerprint": "3fcd6f10560124f9"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "category": "politics",
+      "published_at": "2026-10-24T12:12:40+00:00",
+      "fetched_at": "2026-10-25T02:56:29.903910+00:00",
+      "fingerprint": "af154c8b7028fa6b"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "category": "politics",
+      "published_at": "2026-10-24T21:09:27+00:00",
+      "fetched_at": "2026-10-25T02:56:29.903901+00:00",
+      "fingerprint": "431f5566a31b29b4"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "日本以舉辦世界級活動聞名，但名古屋亞運卻是一片混亂",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1wr84j9xo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "飯店混亂、交通事故和外交失誤使組織者和承辦的公司成為焦點。",
+      "category": "politics",
+      "published_at": "2026-10-25T01:12:53+00:00",
+      "fetched_at": "2026-10-25T02:56:29.851664+00:00",
+      "fingerprint": "1028ec136e1bb9ba"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國加州一棟豪宅因男嬰受傷揭發涉嫌虐童案，屋內住着多名透過代孕出生的孩子。涉案男女被控串謀虐待兒童，事件亦引發外界關注美國代孕產業的監管問題。",
+      "category": "politics",
+      "published_at": "2026-10-25T00:38:54+00:00",
+      "fetched_at": "2026-10-25T02:56:29.851635+00:00",
+      "fingerprint": "f229e11283090276"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-25T02:56:29.487293+00:00",
+      "fingerprint": "ac965a872d542484"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-25T02:56:29.487172+00:00",
+      "fingerprint": "1f6056f34e61a5ea"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-25T02:56:29.487030+00:00",
+      "fingerprint": "c6f7fce2eddef14c"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-25T02:56:29.486892+00:00",
+      "fingerprint": "c7a37d520ea53c82"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-10-25T02:56:29.486730+00:00",
+      "fingerprint": "42532ee811b2ffa8"
+    },
+    {
+      "source": "The Verge",
+      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "summary": "Black Friday is still over a month away, but if you&#8217;re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "fetched_at": "2026-10-25T02:56:29.268027+00:00",
+      "fingerprint": "d31f8fa997636f36"
+    },
+    {
+      "source": "The Verge",
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&#38;B. But from moment one, her take on the genre was restless, relentlessly playing with what R&#38;B [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "fetched_at": "2026-10-25T02:56:29.268021+00:00",
+      "fingerprint": "e802392f2f096dfe"
+    },
+    {
+      "source": "The Verge",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-24T18:32:21+00:00",
+      "fetched_at": "2026-10-25T02:56:29.268015+00:00",
+      "fingerprint": "c7aa9b7dfeaf83bd"
+    },
+    {
+      "source": "The Verge",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-10-24T21:29:12+00:00",
+      "fetched_at": "2026-10-25T02:56:29.268004+00:00",
+      "fingerprint": "36111d6bc6b4991f"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "高秉强连投三轮，深圳智能宠物硬件公司完成数千万Pre-A轮融资｜硬氪首发",
+      "url": "https://36kr.com/p/4038149843178628?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，宠物智能硬件公司「橘猫宇宙」近日完成数千万元Pre-A轮融资，高秉强教授及旗下高锋耐心基金、前海创新投资（深圳）有限公司、常垒创投等持续加注。资金将主要用于技术创新、产品迭代、专利体系建设，和拓展全球线下渠道网络，并推进产线深度整合与量产交付。</p>\n  <p>此前，公司已连续完成两轮早期融资，投资方包括高秉强教授及旗下基金Brizan Ventures II期基金、高锋耐心基金、甘洁教授、未来科技基金、Beyond Venture基金等。苍竹资本担任独家财务顾问。</p>\n  <p>橘猫宇宙成立于2023年，公司聚焦宠物智能硬件赛道，首款产品为无电被动式猫窝梳毛收集器，其自研的专属成型模具与加工工艺，掌握梳齿结构、毛毡一体成型等技术，已完成PCT全球专利认证。产品在海外众筹平台完成验证，并进入欧洲头部宠物连锁渠道。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261023/v2_ffbeb8f5a9f048aa89564da18c1e999f@6022551_oswg3904961oswg2236oswg1458_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">橘猫宇宙无电被动式猫窝梳毛收集器（图源/企业）</p>\n  <p>创始人田佑任具备丰富的全栈软硬件开发能力，大学期间曾参加中国工程机器人大赛、RoboMaster机甲大师赛等机器人赛事，多次获得国家级奖项；其他核心成员覆盖机器人工程研发、消费硬件出海、品牌市场营销等方向，兼具技术落地与全球化商业化能力。</p>\n  <p>宠物硬件赛道，长期被“加法”惯性逻辑主导。主流玩家试图用将增加各类电控模块、接入联网功能、拓展感知采集维度，把功能堆砌直接等同于智能化，以此搭建差异化壁垒。</p>\n  <p>但繁复的机电叠加，反倒成为产品最突出的风险来源。</p>\n  <p>例如，对于养猫人群，季节性浮毛问题一直是用户的高频痛点，猫咪进入换毛周期时，毛发会大量散落在全屋各处，非常难处理。现有方案各有短板，手动梳毛耗费主人精力，很多猫咪本身抗拒被梳；市面上带电动结构的宠物理毛设备，则持续面临机构卡毛、运转故障等安全与可靠性隐患。</p>\n  <p>“用户真正需要的不是名义上的‘智能’，而是怎么让家里猫毛变少的具体结果。”橘猫宇宙创始人田佑任表示，宠物不会说话，无法主动规避风险，复杂的电控结构一旦发生机械异常，极易演变成直接的物理伤害。</p>\n  <p>基于安全性原则，橘猫宇宙选择在工程路径上做减法，其首款产品猫窝梳毛收集器PawSwing Neo采用无源纯机械结构，没有电机、电池与传感器，整机硬件也不搭载任何电路设计。</p>\n  <p>这种极致简化的背后，是一个回归常识的产品逻辑：宠物硬件的智能化，应首先服务于宠物。宠物自在舒适，养宠用户才会轻松舒心。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261023/v2_d6f212b6400641e5a80f39fdba6ff104@6022551_oswg4414952oswg2242oswg1466_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">无源纯机械结构（图源/企业）</p>\n  <p>以给猫梳毛为例，与其追着猫跑，强迫猫咪梳毛，同时给猫咪和用户带来麻烦，不如利用猫天然喜欢钻洞和进出猫窝的习性，让猫自己完成梳毛。</p>\n  <p>为此，橘猫宇宙团队将梳毛与收集结构巧妙地嵌入猫窝的出入口。这样一来，当猫咪每进出一次，浮毛就被顺势梳下并收集，既不需要主人的强行干预，也不会给猫带来被按住的压迫感。</p>\n  <p>在梳毛模块上，团队模拟了猫舌表面的倒钩结构，并对微观形态和力学参数上做了大量独立优化。</p>\n  <p>田佑任表告诉硬氪，结构优化的一个关键量化指标是“梳毛效率”：猫每抵抗一焦耳的功，能换来多少毫克猫毛被梳下。市面上常规的手动梳子，可梳下毛量约在0.5到1.5毫克每焦耳，而PawSwing Neo做到3到4毫克每焦耳。“我们并不是单纯做仿生复刻，而是借助仿生思路完成工程层面的优化。”</p>\n  <p>与此同时，猫舌的钩刺结构本身还承载唾液附着、辅助体温调节等生理作用，这些能力对梳毛工具而言并无价值。因此，团队在结构设计上主动做了取舍，只保留抓取浮毛的核心机制。</p>\n  <p>更关键的取舍发生在安全逻辑上。橘猫宇宙团队也曾考虑过“主动适应”的方式，用电机驱动梳毛模块的开合，根据猫的体型自动调整通道大小，但这一方案最终被放弃了。原因在于电控故障率的“长尾效应”：一旦电机在猫咪通过时发生卡壳，后果不是简单的“体验降级”，而是直接的物理伤害。</p>\n  <p>因此，橘猫宇宙提出了被动式结构，即通道的收缩力来自猫自身进出的动力，梳毛模块对猫身体的压力被设计为恒力。无论猫咪体型胖瘦、挤压力度大小，接触面的压力始终保持恒定。</p>\n  <p>这种被动架构下，整个梳毛功能链路无电、无主动运动部件，故障率在物理层面被硬性归零。橘猫宇宙用牺牲“自动调节”的智能感，换取了宠物硬件最极致安全底线。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261023/v2_d9e772a742ab4fa29bd7defaf42466ef@6022551_oswg3966994oswg2248oswg1482_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">橘猫宇宙首创被动式结构（图源/企业）</p>\n  <p>商业化方面，橘猫宇宙首款产品定价约200美元，整体退货率不到3%，远低于宠物硬件赛道的平均水平；同时，团队已建立起成熟的社群运营体系，以拓展品牌知名度和提高用户粘性、增加复购。</p>\n  <p>2026年，公司拿下欧洲最大的宠物专业连锁渠道，线下铺货门店超3000家，并同步加速布局北美、澳洲等市场。</p>\n  <p>当下的宠物硬件赛道，随着大模型和传感器成本不断下探，给产品加屏幕、加物联网模块、加AI语音正变得非常容易，但简单地堆料无法建立护城河，真正的壁垒，往往是从认知到产品设计的系统能力。</p>\n  <p>橘猫宇宙选择做减法，它的技术门槛不在电路板上，而是拼材料、力学与制造工艺。通过拉升梳毛效率的物理上限、用被动结构实现安全冗余、布下宽幅的PCT专利网，以及对供应链的深度穿透，从一款“不带电”的产品开始，橘猫宇宙试图验证一条以结构创新和品类定义为核心、而非以智能功能堆叠为卖点的宠物硬件路径。</p>\n  <p>按照规划，橘猫宇宙将于今年年底推出宠物硬件新品，并于2027年上线第二代梳毛平台的旗舰机型。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261023/v2_175fc2471dfe4a47b98d0a872868cb36@6022551_oswg3472988oswg2322oswg1286_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">可根据猫咪体型调整进出口宽度（图源/企业）</p>\n  <p><strong>以下为硬氪与橘猫宇宙创始人田佑任的访谈节选（经编辑）：</strong></p>\n  <p><strong>硬氪：作为一家智能宠物硬件公司，橘猫宇宙的首款产品是一款无电、无数据的纯机械设备，背后的产品思考��什么？你们会担心品牌被贴上“非智能”标签吗？</strong></p>\n  <p><strong>田佑任：</strong>智能化应当是解决用户痛点的结果，而不是先验的目的。判断是否要引入智能模块，我们看重的是技术方案能否在成本、安全与体验之间找到最优解，而不是为了迎合概念去进行硬件堆砌。</p>\n  <p>关于数据回传，现阶段的纯机械版本确实不具备用户端的数据闭环能力，但这不意味着我们脱离了数据驱动。我们的早期迭代依赖于自建受控实验环境的基准测试。在控制变量的封闭场景下，基于少数测试猫的长期追踪，能够提取出极高信噪比的底层物理数据。这种高质量的结构化数据，其迭代价值往往高于海量但充满噪声的C端众包数据。数据飞轮并非只有设备回传一条路径。</p>\n  <p>此外，我们团队具备深厚的机器人及多模态感知研发背景，后续会推出带传感与视觉识别的进阶版本。但在底层架构上，我们坚持Fail-safe（故障安全）的工程设计原则：即便传感器失效或系统死机，纯物理接触的机械结构依然能保证绝对的物理安全。 智能化可以依靠OTA或版本迭代逐步叠加，但安全冗余必须前置到最底层的设计之中。</p>\n  <p>品牌战略上，我们并不焦虑被贴上“非智能”的标签。我们希望向市场传递的核心认知是，橘猫宇宙是一家以底层工程创新和极致产品定义驱动的硬件公司。智能化只是工具，做出真正解决痛点且具备商业可行性的产品，才是硬件创业的长期壁垒。</p>\n  <p><strong>硬氪：作为全新品类出海，你们早期在用户认知和商业模型上，遇到过哪些成熟品类不会碰到的坑？硬件公司怎么规划从早期专利到后期渠道的壁垒？</strong></p>\n  <p><strong>田佑任：</strong>做全新品类，最大的痛点就是没参照物，需要从零去教育市场。</p>\n  <p>产品刚出海的时候，很多海外用户第一反应会质疑“这是不是一个智商税噱头”，甚至担心“机器会不会把猫弄伤”。成熟品类不需要解释这些常识，但我们得一点点去消解。早期真的只有极少数愿意尝鲜的人买单，必须熬到市场不断验证之后，大众认知才慢慢建立起来。好处是，一旦认知跑通，营销成本会快速下降。</p>\n  <p>其次是在商业模型上确实交过学费。一开始对出海的成本结构算得太天真，初代产品对出海链路算得不够细，定价过于保守，把运费、平台佣金、退换货和营销费用全部扣掉之后，仅有微量利润。后来我们重新算账，把价格拉高，销量反而更好了。这就说明，做新品类出海不能只盯BOM硬件成本，必须把全链路的隐性成本都算清，否则很容易陷入卖得越多、亏得越多的规模不经济。</p>\n  <p>作为一家硬件公司，壁垒要分阶段看。早期，我们在产品定义时就花重金做PCT全球专利布局，为公司发展争取黄金发展窗口期。等公司规模上去了，专利就不够了，壁垒会转向线下渠道。尤其在海外，大约85%的消费发生在线下。那些头部的连锁零售渠道，选品标准极其苛刻，他们只青睐具备全球顶尖创新力的产品。</p>\n  <p>所以我们团队打法很明确，先用现有的爆款单品去敲开这些头部渠道的大门；建立合作后，壁垒就变成了“渠道网络”。未来，橘猫宇宙会把矩阵里其他的新产品，持续导入这些已经打通的网络里，通过交叉销售进一步放大势能。</p>",
+      "category": "tech",
+      "published_at": "2026-10-24T06:29:55+00:00",
+      "fetched_at": "2026-10-25T02:56:29.169593+00:00",
+      "fingerprint": "d07c304fcc53834e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "独家｜字节AI应用再整合：小云雀并入即梦",
+      "url": "https://36kr.com/p/4039677577122946?f=rss",
+      "summary": "<p><strong>文｜邓咏仪</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>《智能涌现》从知情人士处获悉，近期剪映内部完成了一次业务整合，AI短剧创作平台小云雀并入智能创作平台即梦，产品仍保留独立入口。</p>\n  <p>我们了解到，此次调整主要是资源整合，目前即梦已经接入了小云雀短剧相关能力。调整后，小云雀的运营由即梦运营和市场负责人陈欣然负责，产品团队没有变化。</p>\n  <p>剪映这一轮业务整合的原因主要是增长空间受限，以及需要聚焦资源。一位前剪映人士告诉《智能涌现》，即梦、小云雀这样的AI原生产品虽然依旧保持增长，但用户增长尚未有效转化为与投入相匹配的回报，而市场上大量视频Agent产品的兴起，也在持续压缩自有产品的差异化空间。</p>\n  <p>这轮调整背后更重要的是一个背景：在大厂将力量重新集中到基础模型后，大家都对AI应用的优先级进行了重新评估。字节则是其中速度最快、调整最激进的一家大厂——在即梦和小云雀团队的合并之外，他们还在讨论其它的AI产品合并的可能性。</p>\n  <p>仅仅在两年前，即梦还承载着字节对AI应用的另一种期待。</p>\n  <p>2024年初，张楠卸任抖音集团CEO后，转向负责剪映和CapCut。同年5月，剪映推出即梦。彼时正值Sora横空出世，AI视频产品和Chatbot谁会成为下一个超级应用或入口，并没有明确答案——这是字节同时投入豆包和即梦的原因。张楠也曾公开表示，“希望即梦不只是一个创作工具，也能探索AI时代的内容社区。”</p>\n  <p>此后，即梦的产品重点几经变化。立项之初，即梦设想的分工类似剪映和抖音：Web端做创作工具，App端承载消费；而在Seedance模型推出后，App端还尝试过类似Sora的真人出镜、数字分身互动。</p>\n  <p>而随着模型能力提升，很多普通用户在抖音、豆包里就能完成AI创作。即梦所搭载的产品能力，也因此从文生、图生视频，延伸到首尾帧、智能画布等Agent编辑能力，逐渐向专业创作者靠拢。</p>\n  <p>据《智能涌现》了解，今年国庆前，即梦已经缩减了App端投入，推动App与Web端合并，未来资源将集中到面向专业创作者的Web端。此后，即梦也会加大海外版Dreamina的投入，以及商业化。</p>\n  <p>这两年间，模型能力快速提升，市场对应用的评估逻辑也随之改变。Coding Agent打开AI办公市场后，“模型即应用”的说法日渐主流。字节在2026年2月推出Seedance 2.0后，体系内模型和应用的关系也发生了微妙的变化。</p>\n  <p>早在Seedance 2.0发布之前，小云雀、即梦、剪映、豆包之间就有争抢Seedance首发权的现象。一位火山人士对《智能涌现》表示，这一情况在2.0发布后变得更加激烈——模型已然成了话语权更强的那一方。</p>\n  <p>产品增长有限，也间接导致了近两年剪映系的“创业潮”，一批资深产品和运营高管陆续离职创业，包括陈冕（前剪映及CapCut全球商业化和运营负责人）、明超平（剪映移动端剪辑负责人）、闹闹（剪映产品经理）、张琪智（剪映产品负责人）等。2024年底，我们也曾独家报道，剪映产品负责人张逍然离职，她后来加入了原剪映创始人郭列的创业公司Flova.ai。</p>\n  <p>与此同时，火山在大力开拓Seedance的MaaS服务，国内几乎所有视频Agent、短剧漫剧工作流都接入了Seedance。我们了解到，在Seedance系列模型上，火山MaaS服务带来的收入远高于即梦、小云雀等产品。</p>\n  <p>这直接改变了字节衡量自有AI应用价值的逻辑。当市场上大量视频应用能够接入模型、找到付费用户，像小云雀、即梦这样的自有AI视频应用就需要证明：它们在获客、留存和变现上能带来多少额外回报，彼此之间又有多少差异化？</p>\n  <p><strong>图片来源｜AI生成</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261024/v2_a0ba7de7b7f24b159d45b076d07f0dde@6100851_oswg458921oswg1080oswg286_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261024/v2_7f2a5c1ecbcc4d538453db1c8b897810@6100851_oswg457746oswg1080oswg286_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/UERXnSqDQBYvmLWFHkSjwA\" rel=\"noopener noreferrer\" target=\"_blank\">“智能涌现”</a>，作者：邓咏仪，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-10-24T09:38:23+00:00",
+      "fetched_at": "2026-10-25T02:56:29.169586+00:00",
+      "fingerprint": "7349d3a505e2e914"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
+      "url": "https://36kr.com/p/4039749830120583?f=rss",
+      "summary": "<p><strong>文｜邓咏仪</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>近一个月，包括Muse、Instinct在内的Personal AI产品引起全球轰动，成为最受关注的AI创业赛道。其中，Muse上线22天就突破500万次下载——ChatGPT当年花了56天才达到这一数字——难得地为AI应用赛道争了一口气。&nbsp;</p>\n  <p><strong>一家AI公司Today AI也许比Muse探索得更早。</strong>创始人齐俊元曾创办Teambition，之后在阿里、字节等大厂负责过各类产品。今年初组建团队后，Today AI自9月9日起陆续上线了国际版和国内版本。&nbsp;</p>\n  <p>用一句话概括，Today希望做的是用户的“私人助理”。通过用户授权Today的信息、应用数据后，Today将会在持续对话中积累记忆，目标是成为一个以“人”而非任务来组织的通用助手。&nbsp;</p>\n  <p><strong>和其他Personal AI产品相比，Today尤其强调AI助手要“像人”。</strong>这个坚持体现在产品的方方面面：用户在注册时，必须给AI助手起一个名字；在对话时，Today从一开始就坚持不以任务划分窗口，所有交互都在一个窗口完成。&nbsp;</p>\n  <p>有意思的是，很多年以前，当齐俊元还在创业时，Teambition也曾推出一个名���“今天”（Today）的产品。他曾经在产品上线时写道：“希望它能够比你更了解一天要做的所有事情，从琐碎的代办事项到重要的工作任务，从轻松的个人约会到严肃的公司会议，甚至是需要阅读的每一篇文章，然后由它温柔地提醒你眼下你该处理什么事……我们对它的期待很简单，就是它应当足够简单易用。”&nbsp;</p>\n  <p>在Muse爆火之前，许多投资人依然认为这只是一个美好的愿景。但Today AI团队并不这么认为——2026年，Claude Code和Cursor已经证明Agent可以在专业领域自主完成复杂工作；许多团队在专攻模型记忆和上下文工程，有不少突破。“一个Agent帮你管好所有事”不再只是技术上的空谈。&nbsp;</p>\n  <p>Today AI也是团队真正意义上，回答这个愿景的第一份答卷。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261024/v2_10ff538cf15c40b580550e24dec8e997@2057308263_oswg295176oswg1080oswg545_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">△Today AI产品界面&nbsp;</p>\n  <p><strong>10月21日，Today AI也正式宣布完成了超过2亿美金的首轮融资，投资方包括IDG资本、腾讯、五源资本、蚂蚁集团、红杉中国、传音控股、同歌创投及上海交大菡源资产。</strong></p>\n  <p>放在AI应用圈，��完全是一笔金额显赫的投资。不过，Today AI团队说，从第一天起，<strong>他们的愿景不止做AI应用，也要训模型</strong>，如此才能成为一家完全为“个性化”而生的公司——通过训练自己的交互模型，在降低单位智能成本的同时，让产品的语气、理解力和执行能力都更贴近“一个真正了解你的人”。&nbsp;</p>\n  <p>这是最近明星AI应用公司们的共同趋势。9月28日，Manus也推出了Personal Agent产品“Cue”，不久后也官宣了超过5亿美金的新融资。<strong>我们了解到，Manus也在训练自己的模型。</strong></p>\n  <p>本质上，AI应用公司和模型公司正在从两端相向而行——应用公司向上游训练模型，以降低单位智能的成本、提高效果和毛利；模型公司也在向下游做应用，寻找收入出口。当双方需要的能力越来越接近，AI应用和模型的边界自然越来越模糊。&nbsp;</p>\n  <p>初创需要拿大钱的另一重考量在于，做Personal Agent不止要训模型，更要打通服务和生态——而这对任何人来说都绝非坦途。&nbsp;</p>\n  <p>在国内，已经有AI手机助手被各类打车、购物、外卖等服务厂商联手封杀的例子；而在海外，平台生态虽然更分散，但Personal AI同样面临准入壁垒——9月20日，Amazon以“未授权AI Agent”违反使用条款为由限制Muse在其平台上的访问和购物。&nbsp;</p>\n  <p>对很多AI应用公司来说，无论是新创业方向还是融资，2026年都是格外寒冷的一年。这让很多中国背景的AI团队更加坚定选择，比如从day 1起就把重心放在海外，再视情况决定是否回到国内。&nbsp;</p>\n  <p>相比之下，Today AI的节奏更大胆——9月先在美区上线，两周后国区跟上，并迅速支持了飞书、钉钉、企业微信、滴答清单等平台。&nbsp;</p>\n  <p>Today AI团队说，这个节奏源于团队自己的判断：尽早发布本身就是竞争的一部分，声量、增长和获客都等不到产品“足够完美”的那一天。&nbsp;</p>\n  <p><strong>“在Personal AI这件事上，创业公司无论如何是有仗可打的。”</strong>他们说。尽管大厂已经纷纷入局，但创业公司的优势在于人才密度更集中、决策更快、敢于在记忆和主动性这类方向上更早、更激进地下注。&nbsp;</p>\n  <p>近期，智能涌现和Today AI的创始团队有过一次深入交流，在了解这个产品的同时，也试图请他们解答当下大家对Persoanl AI的诸多疑问。&nbsp;</p>\n  <p>以下是Today AI团队的自述：&nbsp;</p>\n  <h3><strong>Personal AI是伪需求吗？</strong></h3>\n  <p>Today上线之后，我们听到最多的声音是说：Personal AI是伪需求。但从历史来看，每一轮技术发展都会从大量质疑开始，直到逐渐被接受，上一轮Agent热潮同样如此。&nbsp;</p>\n  <p>从我们的判断来看，<strong>这一轮确实有增量需求在出现</strong>。过去所有Agent都在处理办公相关的东西，但生活中的需求一定也会被cover，每个人都可能需要一个助理。&nbsp;</p>\n  <p>当然，有没有到非常成熟的PMF阶段、用户是否已经愿意为之付费——这个结论为时尚早，我们自己也还在验证。但对需求本身，我们毫不怀疑。&nbsp;</p>\n  <p>Personal AI的热潮跟Claude Code有非常大的关系。在Claude Code之前，模型的function call能力和instruction following能力都不够，做出来的几乎是一个没有任何泛化性、全是预设好场景的助手——它没办法personal化。&nbsp;</p>\n  <p>Claude Code之后，Agent作为一种技术开始被证明能帮很多事，Model的能力也在泛化。&nbsp;</p>\n  <p><strong>Muse的爆火证明了一件事：Personal AI可以在短时间内触达大量用户。上线22天突破500万下载，远超ChatGPT当年的速度——这对整个赛道是极大的信心。</strong></p>\n  <p>Muse也帮助市场理解了 <strong>Personal Agent</strong> 到底是什么。在Muse之前，我们用语言去描述我们要做OS Agent，其实挺难给人解释明白。Muse出来以后，大家直观地知道了Personal Agent长什么样、能做什么。&nbsp;</p>\n  <p>我们判断需求是真实存在的——Personal Agent要处理的，是每个人每天都会遇到的大量琐碎、高频的事情，过去它们分散在各个应用和对话框里，没有一个助手能完整承接。&nbsp;</p>\n  <p>除了声量以外，我们觉得最重要的是，下载量不等于长期价值——产品是否有用，要看用户能不能持续使用、留存下来，context能不能持续沉淀。用户第二天、第二周、第二个月还在不在用，这才是有用的定义。&nbsp;</p>\n  <p>长期留存、主动性与打扰的平衡、隐私授权的边界、平台生态的准入，这些都还是行业面临的共同难题。&nbsp;</p>\n  <h3><strong>如果没有独立App，很难让用户感知Agent的价值</strong></h3>\n  <p>如果用一句话概括：Today是你的私人助理。&nbsp;</p>\n  <p>Today跟那些以task为核心去设计的办公Agent不一样，后者每发起一个任务就起一个session，任务完成就归档。<strong>我们希望Today像一个人——你持续在一个对话框里跟它聊，不需要每做一个任务就起一个新窗口。</strong></p>\n  <p>人的人生是延续的，你有很多重要的目标需要长期陪伴——学习、工作成长、职业规划。这些东西在以task为核心的产品里很难做到。&nbsp;</p>\n  <p><strong>最早3月份的时候，我们其实探索过做类似Instinct的方向——它住在IM里面，没有独立的App。但我们发现两个比较大的问题：</strong>一是没有GUI（以图形为主的软件界面），用户对Agent能力的探索引导就很弱。&nbsp;</p>\n  <p>如果你是个early adopter，熟悉这类产品能提供什么，当然可以自己摸索，但我们一直想做的是大众市场。&nbsp;</p>\n  <p>对普通人来说，GUI在现阶段更像一张地图，能引导他们去探索Agent这座藏着宝藏的迷宫。如果没有独立App、只有IM和对话框，用户很难感受到它跟一个普通聊天助手有什么区别。&nbsp;</p>\n  <p>第二个问题是，没有客户端就获得不了一部分设备权限，Agent本身能力也会受限。&nbsp;</p>\n  <p>确定了独立App的形态后，我们还要想清楚Agent应该连接什么。我们很快意识到，<strong>如果要做OS Agent，就不应该只服务某一个操作系统，而应该连接今天已经有的各种操作系统。</strong></p>\n  <p>这背后更重要的是，先弄清楚用户要解决什么问题，再选择合适的技术路径。比如，帮我操作手机软件不是我的真实需求，解决出行问题才是。订一张机票和帮我操作携程，是两个不同的需求；订票可以有很多实现方式，不一定非得操作手机上的携程App。&nbsp;</p>\n  <p>我们应该先搞清楚用户到底要做什么，再选择合适的技术路径，而不是为了某一种技术路径去重新定义用户需求。&nbsp;</p>\n  <p><strong>所以，Today在技术愿望和原理上是一个OS Agent，但对用户来说，交付的价值是Personal AI。</strong>我们的设备网关从一开始就按可扩展到更多设备的方向设计，不局限于PC、手机或某一个操作系统。&nbsp;</p>\n  <h3><strong>要面向最大众的用户做产品，做个性化服务</strong></h3>\n  <p>普通人面对Agent的时候其实面对的是个黑盒——他也不知道这个Agent能解决什么问题，他也就想不到自己有哪些问题要交给AI去解决。&nbsp;</p>\n  <p>意图应该由软件产生、由Agent产生，而不是由人来提供。所以主动性很重。理想状态是，你非常主动地、基于对用户的了解，非常精准地告诉他，你能帮他把什么事情做好，并且你真的能做好。&nbsp;</p>\n  <p><strong>为普通人、为最大众的用户做产品，这个方向是Today成立时就对齐好的，这一点我们从未动摇过。</strong></p>\n  <p>所以在产品设计上，我们要让Agent更像一个人。比如，我们一直坚持单session，也就是只有一个对话框。&nbsp;</p>\n  <p>过去很多Agent产品以task划分对话框，其实是上下文能力有限时的技术妥协——context一多，工程不成熟就一定会混乱，模型注意力也会涣散。&nbsp;</p>\n  <p>但随着长程记忆和跨session记忆的突破，我们认为未来Agent就应该是单session的形态，所以也做了大量工程优化：比如用尽可能小的模型、提高Context信息密度、降低延迟、设计自然的授权流程和画像展示。以及，通过分Bubble回复降低机械感，来提升拟人感。&nbsp;</p>\n  <p>在很多个人场景，用户需要记得“上次那件事在哪个对话框里”再去找，本身就是一个额外的动作。最自然的方式就是面对同一个对话框，不需要自己管理一堆session。&nbsp;</p>\n  <p>实测下来，同样一个任务，Agent Team跑一遍的token消耗，比单session明显要高，在日常琐碎的事情上效率也不一定更好，反而增加时延。&nbsp;</p>\n  <p>Agent Team在需要互相讨论或review的专业场景确实有价值，比如代码审核——但对Personal AI来说不是。&nbsp;</p>\n  <h3><strong>什么才是真正有用的Personal AI？</strong></h3>\n  <p>过去用户不愿意让AI做很多日常小事，核心原因是交代上下文的委托成本比自己做还高。日程、约会、记录宝宝打疫苗、记录宠物吃药——这些非常琐碎的事情，以前我从未想过会用AI来做，因为每次都要重新交代一遍背景。&nbsp;</p>\n  <p><strong>Today的关键设计就是降低委托成本。</strong></p>\n  <p><strong>为了这个目标，我们认为构建Persoanl AI最重要的两件事就是：记忆机制和主动性。</strong></p>\n  <p>我们积累记忆有两条路径：一是用户授权Connector，让Today进入你的数字世界——飞书、健康、Calendar——它会自己去了解你；二是通过日常对话，在聊天过程中积累对你的偏好和关注点的记忆。&nbsp;</p>\n  <p>比如，有段时间我经常和它聊记忆相关的论文，它发现我关心这个方向，就会主动在互联网上搜了相关论文推给我。&nbsp;</p>\n  <p>除了日常琐事，<strong>还有一类长期目标是以task为核心的办公agent很难做到的——学习、职业规划、健身等。</strong>Today会在记忆里帮你制定长程计划，主动提醒进度。比如，我把学语言委托给Today，它每天中午发一个课程，在我和它交互的过程中改进内容。&nbsp;</p>\n  <p><strong>主动性的核心难题是“太主动就是骚扰”。</strong>我们会根据用户反馈调整主动推送的频次：一看用户是不是真的回了主动消息，二看用户是不是至少读了。如果正向信号都没有采集到，我们就认为确实在做骚扰的事，会主动降低频次。&nbsp;</p>\n  <p>未来，人的时间会越来越多地被解放，这是Personal AI应该带来的价值——帮助你降低打扰、负载、上下文负担。如果带来不了，那这个产品就是有问题的。&nbsp;</p>\n  <p><strong>不过，Personal AI的运行成本确实比上一代AI产品高了很多，现在成本的确是个问题</strong>。有市场调查推测，instinct单天运行成本是1-3美金左右，调用sandbox（沙箱）、搜索、主动性机制、长程任务执行，都是很大的成本。&nbsp;</p>\n  <h3><strong>Personal AI有壁垒吗？</strong></h3>\n  <p>非常诚实地讲，现在Personal AI处于一个非常同质化竞争的阶段——所有人都看到了记忆和主动性的作用。<strong>很难说出一个极端的差异化，即便有，一两个功能点上的差异也很快会被竞争抹平。</strong></p>\n  <p><strong>我们更看重的不是某个单点功能，而是整体产品方向：像人一样交互、单session、让普通用户真正用得起来、长期目标的推进、主动发现用户可能需要的事情。</strong>这些加在一起构成Today的产品理念，而不是某个独家功能。&nbsp;</p>\n  <p>尤其是很多资深网民，他们的赛博世界数字资产已经非常非常多了。把他们的Context给一个Agent，这个Agent能不能以更高的效率去利用好这个Context？这个其实挺难真正拉开差距的。&nbsp;</p>\n  <p>又比如邮件，大家都会接入。单纯接入和处理邮件并不难，真正困难的是对邮件进行细致分类，这需要多层Sub-Agent架构，把具体场景的Know-how和Insights蒸馏进去。&nbsp;</p>\n  <p>壁垒可能不会来自某个单一技术，而是来自长期使用过程中形成的Context沉淀。用户用久了，Agent对你的理解会越来越深。虽然技术上你可以导出记忆、换到另一个产品，但摩擦成本是很高的。这种Context lock-in虽然不是绝对的壁垒，但会形成切换成本。&nbsp;</p>\n  <h3><strong>Person AI应该先做通用还是先做垂直？</strong></h3>\n  <p>做Today之前，我们创始团队也有人做过垂类Agent。做完以后发现，80%-90%的精力全部花在底层的工程上——怎么让Agent跑得更稳定，怎么构建记忆系统，怎么让它记住用户上一次的进度。真正针对场景的调优，可能只有10%。&nbsp;</p>\n  <p>如果我们做产品的effort，只有10%是某个场景专属的，泛化到其他场景是不是也差不多？健康、学习、理财......核心能力都是那套底层的东西：Context进来-沉淀Memory-再输出结果。而基本上所有场景都能形成这样一套loop，上层其实就是很薄的一层Harness。&nbsp;</p>\n  <p>按这个逻辑反推，垂类场景的壁垒就很薄——用户其实没有必要为每个需求下一个Agent。&nbsp;</p>\n  <p><strong>未来，大家可能只需要一个通用的个人助理，它会成为统一的入口</strong>，只有极度专业的、通用方案处理不了的需求，才是垂类Agent的空间，而它们之间也可以由这个通用个人助理来连接。&nbsp;</p>\n  <p>海外Personal AI已经出现几种不同的产品路径。比如Town从邮件场景切入，先把单一场景做深，付费转化率约15%；我觉得这类工具型产品的路线是成立的，但它和Today不一样。&nbsp;</p>\n  <p>Muse则面向更广泛的用户，以免费模式扩大规模，活跃用户约400万。而Muse带来的竞争压力意味着，同类产品即使在美国，也很难以订阅作为主要商业模式。&nbsp;</p>\n  <p>市场上也有订阅导向的产品，比如Grok Bot，周活约40万。Instinct探索的则是trusted networks：用户先与自己的Agent沟通，再由Agent与对方的Agent协商安排，最后把结果反馈给用户，链路相对更长。&nbsp;</p>\n  <p>不过，通用和垂类Agent的边界也没有这么分明。现在，Today在工作场景中更多承担协同侧的角色：安排时间、记录重要事项、做研究、提醒遗忘的事情。工作和生活在Personal AI上一定会互相重叠，一个人的生活是很难完整地区分开哪些是工作、哪些是生活的。&nbsp;</p>\n  <h3><strong>如何平衡隐私和交付任务结果？</strong></h3>\n  <p>这是一个很现实的问题，你不拿Context，能为用户做的事情就不多。基于这个前提，我们能做的是让隐私可控且透明。&nbsp;</p>\n  <p><strong>第一，完全透明。</strong>我们的记忆库，Agent记下来的所有东西对用户是完全可见的，包括基本信息、偏好、兴趣，用户随时可以查看。&nbsp;</p>\n  <p><strong>其次，完全可控。</strong>用户任何时候都可以删掉记忆，删除之后底层数据库完全不会保留。&nbsp;</p>\n  <p>我们还会做渐进式授权。当Today真正需要某个信息的时候才请求权限，而不是一上来就要求全部授权。&nbsp;</p>\n  <p>授权访问相关信息后，不等于授权Today替用户作出所有决定。日程调整需要用户确认；涉及支付和重要决定，最终确认权仍在用户手中。主动性意味着提前发现和准备，而不是跳过用户的决定。&nbsp;</p>\n  <p>其实我们一开始也非常担心冷启动问题。用户真的会授权吗？但内测发现，<strong>授权比例还是相当高的</strong>。当然要说明的是，这批用户还是偏Early Adopter画像，不能直接代表所有大众用户的态度。&nbsp;</p>\n  <p>我们现在的用户画像分布其实还挺广的。Early Adopter喜欢探索各种Agent能力；另一类用户不怎么探索，但在生活中稳定使用——记录、内容理解、个人管理。使用轨迹非常不一样。&nbsp;</p>\n  <p>用户的Aha moment一般发生在两个时间点：一些用户在第一天Onboarding环节就get到了，他们会觉得“这个Agent居然懂我这么多东西”，有种碰见老朋友的感觉。&nbsp;</p>\n  <p>另一类用户是在第二天收到主动推送的时候——它居然知道我对什么感兴趣，直接把相关信息推到我面前。&nbsp;</p>\n  <h3><strong>无论在中国还是海外做Agent，商业化难度都是类似的</strong></h3>\n  <p>我们不认同Personal AI只有在海外才能做成的说法。不同市场只是场景不同，并不是某个市场天然没有机会。&nbsp;</p>\n  <p>海外常见场景是邮箱、日历、购物比价，这些确实有成熟的Connector生态。国内邮箱场景不是主流，但大量的Context散落在飞书、健康、Calendar等应用里。&nbsp;</p>\n  <p><strong>很多人也会质疑Personal AI的一点是：没有微信数据就做不成，但我们对这点非常乐观。</strong></p>\n  <p><strong>用户真正想让Agent代劳的，大部分是非熟人网络的琐事</strong>，微信核心沉淀的是熟人社交网络，恰恰是大家最不希望Agent代劳的部分。只要能接入飞书、钉钉、企微等Connector，一样能收集到足够的Context。&nbsp;</p>\n  <p>国内确实存在数据孤岛问题，但我们接入其他Connector时暂时还没有遇到明显阻碍，Connector市场也在逐渐开放。&nbsp;</p>\n  <p>至于PMF，说实话还在验证。商业化也不是我们现阶段第一优先级，第一优先级是交付对用户真正有价值的场景。&nbsp;</p>\n  <p>从我们现在的用户来看，国内用户的整体数据并不差，但Connector生态不如美国成熟，还需要额外考虑隐私合规问题。&nbsp;</p>\n  <p>美区上线两周后，我们也上了国区。中国是一个相对共性、统一的大单一市场，这个市场早晚都要做，那还不如现在就做了。&nbsp;</p>\n  <p><strong>美国和中国的商业化难度，其实某种意义上是相同的。</strong>Muse现在免费，那其他公司在美国发产品，其实也很难收费——在这样的免费竞争态势下，Personal AI的商业化哪怕在海外也不容易。&nbsp;</p>\n  <p>我们未来会探索订阅，但目前看来订阅可能不是最合适的商业模式；导购和广告又会伤害用户体验。现在有点像Google还没有发明出广告商业模式的那个阶段——<strong>Personal AI如果能成功，它的商业模式可能跟今天设想的很不一样。</strong></p>\n  <h3><strong>AI应用公司就应该是模型公司</strong></h3>\n  <p><strong>如果今天还在用“AI应用公司”这个词来形容自己的创业，这是让人担心的。</strong></p>\n  <p>AI天生就是由工程和模型共同驱动的。你的目的可以是在应用层解决用户的问题，但要解决得足够好，就一定要有自己的模型能力、足够好的工程和infra能力。&nbsp;</p>\n  <p>而在应用上，要有清晰的用户问题定义和解决方案，在Harness和infra层面要有自己的理解和建设决心——随时准备好能调整和修改模型。&nbsp;</p>\n  <p>Anthropic为什么能在OpenAI这么强的对手面前做起来？是它先做了Claude Code，收集了非常好的轨迹数据，利用自己的Harness做后训练，模型和应用的飞轮就转起来了。&nbsp;</p>\n  <p>Cursor训自己的模型也是同样的逻辑：降低单位智能成本，提高毛利，提高智能水平。&nbsp;</p>\n  <p>但Today需要的模型和目前主流的模型方向不完全一样。我们更需要一个“交互模型”——交互感更好、更拟人、语气风格更自然的模型，同时还能真正执行任务。&nbsp;</p>\n  <p><strong>模型公司向上做应用，应用公司向下做模型，双方的能力越来越接近。未来可能不存在单纯的应用公司或单纯的模型公司。</strong></p>\n  <h3><strong>“创业公司无论如何是有仗可打的”</strong></h3>\n  <p>我们熟知的所有大厂基本都入场了，现在做产品、形成共识的速度都很快，竞争也很激烈。&nbsp;</p>\n  <p>很诚实地讲，创业公司不会有一个绝对的优势。但无论如何，都是有仗可打的。&nbsp;</p>\n  <p><strong>创业公司的优势在于决策更集中、更敢冒险。</strong>比如，我们可能是最早尝试在Agent里做记忆的团队之一。&nbsp;</p>\n  <p>创业公司会有一小段时间的产品领先性，虽然未必会形成壁垒性的优势，但这段时间仍然重要。&nbsp;</p>\n  <p>我们的判断是，Personal AI要处理的委托成本高的小事，并不都发生在熟人社交网络里。工作和生活的Context也分散在飞书、钉钉、企业微信等应用中。只要有Connector，就有机会接入这些信息。&nbsp;</p>\n  <p>我们也观察到，Connector生态正在逐渐成熟、开放，未来MCP、面向Agent友好的服务商肯定是存在的，以及Phone Use等技术，都可能成为进一步打通生态的方式。&nbsp;</p>\n  <p>不过，国内每家公司的Personal AI最终能否各自建立起生态？这仍然是个问题。&nbsp;</p>\n  <p><strong>图片来源｜\"Interior in Strandgade, Sunlight on the Floor\", Vilhelm Hammershøi</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261024/v2_7238e3292b0543eb93fd31bd6c0cf258@2057308263_oswg458921oswg1080oswg286_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">欢迎交流</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/G4Xyzo2hiAFFFrlNDpkYhw\" rel=\"noopener noreferrer\" target=\"_blank\">“智能涌现”</a>，作者：邓咏仪，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-10-24T10:50:23+00:00",
+      "fetched_at": "2026-10-25T02:56:29.169578+00:00",
+      "fingerprint": "d4d5326961cd2bdc"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "吉大刘春宝孵化，00后团队创业仿生灵巧脸，拿下数千万融资丨36氪首发",
+      "url": "https://36kr.com/p/4040083368629381?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261025/v2_7aec7fe91b3e4cfe8febcb9719b57f39@6221844_oswg504897oswg1058oswg662_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3500</strong>字，建议阅读<strong>9</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，仿生灵巧脸与情感交互技术公司——杭州灵颜科技有限公司（下称“灵颜科技”）近期已完成数千万元种子轮及种子+轮融资。种子轮投资人包括盈动资本、浙江火炬中心，种子+轮投资人包括毅达资本、梅花创投、领甪资本，老股东盈动资本继续追加投资。领甪资本担任本轮及后续轮次财务顾问。资金将主要用于产品迭代、核心零部件研发、算法平台建设以及团队扩充。</p>\n  <p>在具身智能与人形机器人产业狂飙突进的当下，当多数目光聚焦于机器人的“四肢”与“躯干”时，灵颜科技选择了一条极为垂直却关键的赛道——做人形机器人的“脸”。</p>\n  <p>灵颜科技成立于2026年6月，总部位于杭州，是国内首家实现音唇眼同步的仿生灵巧脸智能体研发企业，为人形机器人、服务机器人及情感陪伴设备提供FaceSoul Agent 全栈式情感交互解决方案。</p>\n  <p>公司创始人兼CEO赵常屹为00后吉林大学博士，曾作为核心成员参与无锡泉智博（国内头部关节电机公司）与杭州黑漫科技（乐聚机器人灵巧手供应商）的早期阶段。这三家企业均脱胎于吉林大学工程仿生教育部重点实验室，且创始人均师从“唐敖庆学者”领军教授刘春宝（现担任上述三家公司首席科学家），在产业链上形成了紧密的协同关系。</p>\n  <p>依托这一产业生态，灵颜科技推出了核心产品——FaceSoul Agent。这是一套全栈式仿生灵巧脸智能体技术架构，旨在为人形机器人、服务机器人及情感陪伴设备提供从“形”到“魂”的完整情感交互解决方案。</p>\n  <p>在灵颜科技的定义中，FaceSoul Agent由两部分构成。“Face”（仿生之形）负责高保真的物理呈现，通过仿生皮肤、肌肉传动设计、表情温度与姿态感知，还原人类最真实的面部形态与反应；“Soul”（灵魂之核）则承载了AI大模型、社会性认知、记忆学习与情感引擎，赋予机器人自我理解、情感认知与价值判断能力。</p>\n  <p>从产品矩阵来看，公司已推出四大系列：面向教育科研市场的“灵枢M1”、面向商业服务的“灵枢W1”、面向消费市场的“灵韵系列”以及面向人形机器人主机厂的“灵能系列”。此外，公司还提供IP定制服务。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261025/v2_f015a4b91d9a47dc9dcb79192316539c@6221844_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">产品展示（图源/企业）</p>\n  <p>同门创业的背景，为灵颜科技带来了极高的技术复用率与成本优势。赵常屹向硬氪坦言，灵颜科技的线驱技术路径正是来源于黑漫科技在灵巧手领域的沉淀，而微型驱动电机模组的技术则复用自泉智博在机器人关节上的积累。</p>\n  <p>线驱技术对人形机器人的“脸”有何关键作用？目前，市面上多数仿生脸企业采用连杆驱动，但在赵常屹看来，连杆驱动存在噪音大、占用空间大等痛点，且连杆的急回特性会在末端产生速度突变。</p>\n  <p>灵颜科技是国内少数做线驱灵巧脸技术路径的企业之一。线驱技术不仅节省了面部空间，使得产品面部自由度达到了国内同类产品最高的32个，还通过模仿人体肌肉的排布，让表情生成更加拟人、细腻。</p>\n  <p>此外，在软件与算法层面，灵颜科技避开了对话大模型的红海竞争，将研发焦点死死锁定在“表情生成算法”上。</p>\n  <p>赵常屹认为，主机厂通常会将对话、记忆等功能自己包揽，而对灵巧脸供应商的刚需是“把语音和视觉输入，转化为能说话、精准对齐的嘴型以及眼部动作”。这是一个将中文语音中的音素、韵律、语义状态和情绪意图，编码成统一时序表征，并在机器人多自由度运动空间中生成连续表情的过程。</p>\n  <p>此外，行业还有一个核心痛点是：大多数同行的算力依赖于外接本地服务器，难以真正集成到人形机器人本体上。</p>\n  <p>灵颜科技依托吉大实验室大量高质量人脸数据与仿生项目经验，自研了一整套轻量化的端侧表情生成模型。通过跨模态蒸馏、持续协同建模以及端侧量化部署，打通了从语音理解、表情生成到执行反馈的闭环。</p>\n  <p>谈及业绩与落地，赵常屹透露，公司成立四个月来，已与运营商、文旅展陈、商业服务及部分人形机器人主机厂达成合作或意向合作。公司计划今年以To B/To C直销及IP定制为主，占总营收的90%左右；明年随着主机厂需求的放量，人形机器人配套业务将占据半壁江山。</p>\n  <p>针对机器人与人类交互时的“恐怖谷效应”，赵常屹有着清晰的认知：75%-85%的拟人度是恐怖谷的区间，超过85%就不会了。</p>\n  <p>因此，灵颜科技通过仿生皮肤材料的质感与高精度的算法，将C端和B端产品线的拟人度做到了90%以上；而在IP定制线（如动物、卡通形象），则刻意将拟人度控制在65%以下，以规避恐怖谷区间。</p>\n  <p><strong>以下为硬氪和公司创始人兼CEO赵常屹的对话节选（经编辑）：</strong></p>\n  <p><strong>硬氪：目前行业里大家普遍采用连杆驱动，你们坚持走线驱路线，成本上会有压力吗？未来行业会往哪走？</strong></p>\n  <p><strong>赵常屹：</strong>其实恰恰相反，线驱的成本反倒更低一点，因为连杆的非标件实在太多了。大家现在之所以用连杆，是因为最近涌入灵巧脸赛道的企业很多，大家都在抢时间想快速跑到第一梯队，所以先用设计周期更短的连杆形式。</p>\n  <p>但未来脸一定会收敛到线驱这条路径。手很难收敛，因为线驱有疲劳寿命问题；但脸拉动皮肤的力非常小，正是这种线驱拉动的形式，才能模仿肌肉的驱动机制。目前国内正经在用线驱做的只有我们一家，因为线驱需要长期积累，比如每块肌肉的位置、每根线的绕线形式，我们在实验室都做过仿生机理测试。</p>\n  <p><strong>硬氪：在硬件量产和落地环节，灵颜科技有什么优势？</strong></p>\n  <p><strong>赵常屹：</strong>硬件层面，目前行业最大的痛点是没有一家可以量产，上产线大多只能手搓。但灵颜做了分模块设计，眉毛、眼睛、脖子各自成模组，未来可以直接去4条产线分别生产。</p>\n  <p>至于产能保障，近期有国外合作商提了几百台的需求。我们有一个好处，前期如果我们自己的产线搞不定，可以先拿黑漫或者泉智博的产线去帮我们消化订单。</p>\n  <p><strong>硬氪：灵巧脸市场的爆发拐点在哪？除了B端和C端，未来的业务规划中还有哪些增量？</strong></p>\n  <p><strong>赵常屹：</strong>我判断在今年年底或者明年Q1、Q2会有一波集中爆发。因为人形机器人在工厂的应用逐渐收敛，主机厂都在往To B和To C场景转，他们缺乏做脸的能力，需要找外部供应商。</p>\n  <p>今年业务以自主产品经营为主，IP定制、主机厂配套等作为补充；明年将重点提升主机厂配套的业务分量，使其成为重要支撑，同时持续推进直营B端和IP定制等业务，形成多元协同发展。</p>\n  <p>此外，海外市场我们现在同步在做。比如中东的客户对健康监测很感兴趣，我们在推“小灵医生”这条产品线；欧美市场则会推进IP定制的销售。产品迭代上，未来我们会做一款43自由度（加上脖子是46个自由度）的全线驱产品，完全实现类人化呈现。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>种子+轮投资方 毅达资本：</strong>人形机器人正跨越\"技术验证\"进入\"规模商用\"的深水区，本体与运动控制环节竞争已趋充分，情感表达层是产业链上几乎空白的价值高地。我们先后投资了一体化关节企业泉智博与灵巧手企业黑漫科技，对这支源自吉林大学工程仿生教育部重点实验室的团队建立了长期信任，关节、灵巧手、灵巧脸共享供应链、客户与产业资源，在技术和制造环节相互赋能，形成生态打法。灵颜从仿生皮肤、微型驱动到情绪模型全栈自研、零外部依赖，构成难以复制的竞争壁垒。投资灵颜，就是投资具身智能交互入口的基础设施。</p>\n  <p><strong>种子及种子+轮投资方 盈动资本：</strong>我们认为机器人不该只有躯干与四肢，还应该有一张会表达的脸。灵巧脸是具身智能产业链中供给最稀缺的交互部件，灵颜的表情实时生成不依赖预设库，音唇眼同步的拟人交互已达到国内领先水平。种子轮之后我们选择继续追加，因为团队用极短的时间完成了从概念验证到产品定型的跨越，产品化能力与工程化效率超出我们预期。盈动资本坚定看好这类能把技术真正做成产品的团队，也愿意用耐心资本陪他们走得更远。</p>\n  <p><strong>种子+轮投资方 梅花创投：</strong>早期投资就是投未来的稀缺性。具身智能的上半场比拼运动控制，下半场比拼产品落地与客户买单，灵巧脸正是机器人从\"能运动\"走向\"会交流\"的交互入口。梅花创投长期关注吉林大学校友创业：灵颜背后是国内唯一以仿生学为核心研究方向的部级重点实验室，独家同步人脸数据构成花钱也买不到的数据壁垒。技术可以买到，大模型可以调用，但这样的团队与平台买不到。灵颜的表情由情绪基座模型实时生成、不依赖预设库，音唇眼同步与动态瞳仁的组合在国内尚无同类产品。上游卖铲子，硬件为王，我们看好灵颜成为情感表达层的定义者。</p>\n  <p><strong>种子+轮投资方 领甪资本：</strong>领甪资本专注AI及具身智能等前沿科技赛道，致力于发现并长期赋能未来独角兽企业。每一次计算平台的跃迁，本质都是交互界面的跃迁，机器人时代的交互界面不是屏幕，而是一张灵巧脸。灵颜基于大模型的表情实时生成技术在国内尚无同类方案，产品形态与场景适配度领先同业。我们看好灵颜在情感表达层的稀缺卡位与团队的工程化速度，将围绕公司提供全生命周期的资源赋能，陪伴其成为具身智能交互部件的关键参与者。</p>\n  <p><strong>种子轮投资方 浙江火炬中心：</strong>灵颜科技是典型的\"投早、投硬、投国产替代\"标的。团队源自工程仿生教育部重点实验室，兼具人工智能与高端装备双重属性，具备从基础研究、核心部件到整机量产的完整能力链条，是科技成果从实验室走向产业化\"最后一公里\"的鲜活样本。中心深耕科技服务三十余年，将持续为这类掌握核心技术、处于产业化关键阶段的本土科技企业提供成果转化、政策对接与创业孵化支持。</p>",
+      "category": "tech",
+      "published_at": "2026-10-25T01:00:00+00:00",
+      "fetched_at": "2026-10-25T02:56:29.169563+00:00",
+      "fingerprint": "b95facc7fbcc3d38"
+    },
+    {
+      "source": "少数派",
+      "title": "在硅谷，遇见个人计算机历史",
+      "url": "https://sspai.com/post/116128",
+      "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=\"https://sspai.com/post/116128\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-10-24T08:26:02+00:00",
+      "fetched_at": "2026-10-25T02:56:27.895110+00:00",
+      "fingerprint": "ee9322cdaa9bddd8"
+    },
     {
       "source": "The Guardian - World",
       "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
@@ -1701,226 +1901,6 @@
       "published_at": "2026-10-18T23:13:24+00:00",
       "fetched_at": "2026-10-19T02:59:15.555008+00:00",
       "fingerprint": "f93e2daa812bff57"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Anti-government protesters battle with police in Albania",
-      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "category": "politics",
-      "published_at": "2026-10-17T20:53:00+00:00",
-      "fetched_at": "2026-10-18T02:46:12.384164+00:00",
-      "fingerprint": "6d1497d28ad88bff"
-    },
-    {
-      "source": "BBC World News",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "category": "politics",
-      "published_at": "2026-10-17T23:52:38+00:00",
-      "fetched_at": "2026-10-18T02:46:12.384158+00:00",
-      "fingerprint": "0bd6429ce4de8bfb"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "category": "politics",
-      "published_at": "2026-10-18T01:10:25+00:00",
-      "fetched_at": "2026-10-18T02:46:12.384152+00:00",
-      "fingerprint": "b677fdedabaf4479"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-      "category": "politics",
-      "published_at": "2026-10-17T20:52:17+00:00",
-      "fetched_at": "2026-10-18T02:46:12.384142+00:00",
-      "fingerprint": "a2a6b621103cfd0a"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
-      "url": "https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC駐北美記者分析，距離關鍵的國會中期選舉只剩幾個星期，白宮正面臨愈來愈多的挑戰。",
-      "category": "politics",
-      "published_at": "2026-10-17T05:43:01+00:00",
-      "fetched_at": "2026-10-18T02:46:12.329000+00:00",
-      "fingerprint": "b8428d15e6617ed7"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「我申請了200份工作」——用AI「撒網」投履歷為何容易弄巧成拙？",
-      "url": "https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "研究發現越來越多畢業生利用人工智慧在求職申請中偽造個人資訊。但有人認為他們別無選擇。",
-      "category": "politics",
-      "published_at": "2026-10-18T00:32:02+00:00",
-      "fetched_at": "2026-10-18T02:46:12.328994+00:00",
-      "fingerprint": "657a0d83de2b6603"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美國中國研究生涉嫌毒害越南同學：大學與受害者家屬怎麼說？",
-      "url": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "美國懷俄明大學一名越南籍研究生的家屬向BBC表示，受害人在辦公室的咖啡機內發現神經毒劑後，至今仍出現疲倦、食慾不振及睡眠欠佳等健康問題。",
-      "category": "politics",
-      "published_at": "2026-10-18T00:31:53+00:00",
-      "fetched_at": "2026-10-18T02:46:12.328988+00:00",
-      "fingerprint": "cdb291b8461ce170"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
-      "url": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "為何已在韓國定居的脫北者，如今對前往中國感到憂慮？BBC深入了解韓國警方發出旅遊警告的背景，以及脫北者實際遭中國當局拒絕入境的個案。",
-      "category": "politics",
-      "published_at": "2026-10-17T12:54:47+00:00",
-      "fetched_at": "2026-10-18T02:46:12.328982+00:00",
-      "fingerprint": "f0359e5428ca3d17"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC追蹤了一艘長達80米、配有水上滑梯的船隻，旨在進一步了解金正恩如何度過假期——這對大多數朝鮮人而言，是遙不可及的體驗。",
-      "category": "politics",
-      "published_at": "2026-10-18T00:31:34+00:00",
-      "fetched_at": "2026-10-18T02:46:12.328973+00:00",
-      "fingerprint": "0bc0150d063ef97c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-18T02:46:12.223284+00:00",
-      "fingerprint": "cac24968e5aa0d5b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-18T02:46:12.223165+00:00",
-      "fingerprint": "72f5a73135c2ad71"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Lean Now Ships with Verified Kernels",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-18T02:46:12.223011+00:00",
-      "fingerprint": "4a66e4fd16b0b1bd"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-18T02:46:12.222880+00:00",
-      "fingerprint": "d5c12904d62ec934"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-18T02:46:12.222735+00:00",
-      "fingerprint": "a68b24a6c70ad464"
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-17T15:04:36+00:00",
-      "fetched_at": "2026-10-18T02:46:12.095339+00:00",
-      "fingerprint": "0b81a58f5b3fe131"
-    },
-    {
-      "source": "The Verge",
-      "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-      "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-17T16:39:44+00:00",
-      "fetched_at": "2026-10-18T02:46:12.095333+00:00",
-      "fingerprint": "856e060c0f3ab2f7"
-    },
-    {
-      "source": "The Verge",
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-17T17:00:00+00:00",
-      "fetched_at": "2026-10-18T02:46:12.095326+00:00",
-      "fingerprint": "de0cce47f02c45d9"
-    },
-    {
-      "source": "The Verge",
-      "title": "TikTok bans Musk documentary account",
-      "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspension\" was imminent. Bleecker Street has [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-17T19:32:23+00:00",
-      "fetched_at": "2026-10-18T02:46:12.095316+00:00",
-      "fingerprint": "e41822633f704ba7"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "对话费德勒：加入On昂跑，是我回馈网球的一种方式",
-      "url": "https://36kr.com/p/4028636199555713?f=rss",
-      "summary": "<p><strong>作者 |&nbsp;谢芸子</strong></p>\n  <p><strong>编辑 | 张帆</strong></p>\n  <p>10月14日的晚间，在深圳人才公园的海岸，2000台无人机上演了一场震撼人心的灯光秀。</p>\n  <p>先是一只大手抛出一只网球，继而展现费德勒不同时期的打球影像，最后在天空中呈现“Dream On”的字样，化作“烟火”。</p>\n  <p>这是On昂跑对网坛传奇人物——罗杰·费德勒（Roger Federer）职业生涯的一种致敬。</p>\n  <p>今年8月，这位“20座大满贯男单冠军”的持有者，又迎来了一个新身份——成为“国际网球名人堂”中的一员。这不仅是对费德勒出色成绩的认可，也是对他在赛场外、长期推动网球运动发展的肯定。</p>\n  <p>对于中国网球运动，费德勒也是不可忽视的存在。</p>\n  <p>官方数据显示，自2002年起，费德勒累计17次到华参与比赛。他既见证了顶尖国际赛事在中国的落地，也让中国网球进入了更广泛的国际视野。</p>\n  <p>退役至今，当这位网球界领袖逐渐淡出赛场，人们转而更关注他在商业上的布局，其中就包括加盟On昂跑。</p>\n  <p>作为“联合创业者”，费德勒帮助这一来自瑞士的运动品牌，从跑步领域扩展到网球，并亲自参与产品设计。对他而言，能够真正做出好的网球鞋，让球员减少伤病、更享受赛场，是回馈网球运动的一种方式。</p>\n  <p>活动当日，包括36氪在内的媒体，与罗杰·费德勒进行了对谈。<strong>谈话内容包括他退役后的“身份转换”、对足球明星姆巴佩加入On昂跑的看法，以及对中国网球运动的展望。</strong></p>\n  <p>以下为经过编辑的对谈内容，有删节。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261016/v2_a3a495618c344ced9f1fa0f9e9b6ba33@394564713_oswg128839oswg1080oswg720_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片由采访对象提供</p>\n  <h3><strong>“网球是无比精彩的旅程”</strong></h3>\n  <p><strong>问：进入‌国际网球名人堂，你有什么感受？</strong></p>\n  <p><strong>费德勒：</strong>对我来说，这是一次很大的转变。</p>\n  <p>当我在国际网球名人堂演讲中，向支持我的人们表达感谢，这种感觉非常好，它会唤起你们共同经历过的美好瞬间。同时，当你站在这项运动的传奇们——那些曾向你示范该怎么做、让你心生梦想的英雄面前，这件事变得意义非凡。</p>\n  <p>我希望中国的孩子们也能梦想着入选名人堂、成为世界第一，因为网球带来的是一段无比精彩的旅程。</p>\n  <p><strong>问：你如何定义自己现在的角色？</strong></p>\n  <p><strong>费德勒：</strong>过去我是职业网球运动员，要不断地在世界各地参赛、保积分、在观众面前比赛；现在我已经是另一种状态了。感谢网球，它依然是我生活的主心骨，我初心依旧，也有更多自由和时间与品牌一起合作创造。</p>\n  <p><strong>问：如果用三个关键词回顾你的网球旅程，你会选择哪三个？</strong></p>\n  <p><strong>费德勒：</strong>梦想、努力，还有坚持。当然，如果还有一个词，也许是“旅行”。过去近30年，我一直在世界各地奔波，就像音乐人去做世界巡演一样，这是一段不可思议的时光。</p>\n  <p><strong>问：你认为自己对网球的未来有怎样的责任？</strong></p>\n  <p><strong>费德勒：</strong>我尤其喜欢和On昂跑一起做的事情。因为我住得离On昂跑总部很近，可以更深入参与新的网球鞋开发，比如为今天的运动员打造新的THE ROGER Pro。</p>\n  <p>我把这看作一种回馈网球的方式：希望做出真正好的网球鞋，让球员减少伤病、更享受赛场，帮助他们去追逐最大的梦想和冠军。同时，我也一直想去帮助和鼓励年轻人，在世界各地推动更多人参与运动。如果他们选择网球当然很好，但任何运动都很美好。</p>\n  <p>我想，我永远不会停止推广体育。</p>\n  <h3><strong>“姆巴佩的加入令人兴奋”</strong></h3>\n  <p><strong>问：深度参与On昂跑的设计研发，让你对网球有怎样的新理解？</strong></p>\n  <p><strong>费德勒：</strong>今天，很多原本来自网球的鞋型已成为日常生活方式的一部分。比如THE ROGER Centre&nbsp;Court，它曾经是一双网球鞋，现在是一双非常日常的鞋子。</p>\n  <p>另一方面，现代网球变得越来越激烈，大量滑步、摩擦和快速磨损要求专业网球鞋更加耐用，因此比赛鞋往往变得更厚重、更“硬核”。我想做的，是让网球鞋既能满足比赛需求，也能回到街头日常。</p>\n  <p>我很享受和On昂跑一起设计鞋的过程，因为On昂跑的思维来自跑步，也带着很强的求胜精神，我们尝试把在跑步鞋上看到的材质融入进来，为网球带来一种不同的思路。</p>\n  <p>现在我的时间更多了，当疫情来临、我开始逐渐淡出职业生涯，我有了更多时间待在总部，能够在实验室里不断创造、尝试。</p>\n  <p>从第一代THE ROGER&nbsp;Pro开始，我们陆续推出了THE ROGER Pro Fire、THE ROGER Pro 2和3，已经把目光投向更远的未来。在这一过程中，On昂跑联合创始人Olivier Bernhard给了我很多启发，我们始终希望把产品做得更好，这正是我想通过与On昂跑合作带来的东西。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261016/v2_60af9bf7d8b349bc8f95fbf0d7def240@394564713_oswg412682oswg1267oswg845_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">On昂跑THE ROGER Pro&nbsp;3专业网球鞋</p>\n  <p><strong>问：On昂跑选择与传奇运动员建立长期股东伙伴关系，这种模式为什么能成功？</strong></p>\n  <p><strong>费德勒：</strong>当初On昂跑的创始人David、Caspar和Olivier找到我时，他们希望我真正成为团队的一部分，不只是一个代言人或品牌大使，而是合作伙伴。</p>\n  <p>当你是股东或某种意义上的共同所有者时，心态和视角就会不同。对一名运动员来说，你可以思考得更长远，一切不必那么仓促，可以更着眼于为未来而建设。我觉得这种方式很有意思，在公司拥有一位关键合伙人，确实会改变整个格局——甚至可能影响其他品牌和运动员合作的模式。</p>\n  <p><strong>问：姆巴佩加入On昂跑意味着什么？</strong></p>\n  <p><strong>费德勒：</strong>我迫不及待想看一切将如何展开，并参与其中。在On昂跑进入网球、并在公司内部打造出一整套完整业务板块这件事上，我或许算得上某种“蓝图式”的人物。</p>\n  <p>姆巴佩将与足球总监蒂埃里·亨利携手，带领On昂跑进入足球领域。我自认是一名足球迷，对球迷来说，能实时看到Light&nbsp;Spray球鞋被设计出来的过程、看到姆巴佩本人和团队一起调整产品，这非常令人兴奋。</p>\n  <p>我们所有人都肩负压力，要做出一双尽可能出色的球鞋，也要以正确的方式做好足球这项业务。</p>\n  <p><strong>问：你更关注On昂跑未来的哪些动作？</strong></p>\n  <p><strong>费德勒：</strong>On昂跑进入足球和高尔夫领域，值得关注。团队有大量的工作要做，我相信这会给公司带来强劲增长。我希望其他运动项目也能随之跟进。</p>\n  <p>在网球方面，关键在于设计更多的球鞋、寻找最好的材质、与最优秀的运动员合作、倾听他们的反馈，并在顺境与逆境中都给予关注。胜利很重要，我们是一个求胜的品牌，我自己也是一名胜利者，但（对运动员）低谷时期的支持同样重要。</p>\n  <p>公司正处在一个极佳的位置，势头强劲，我希望能继续保持这样的增长。</p>\n  <h3><strong>“李娜是中国孩子的榜样”</strong></h3>\n  <p><strong>问：你如何看待自己与中国球迷之间的连接？</strong></p>\n  <p><strong>费德勒：</strong>我确实与中国球迷有一种特殊的连接。这最早要追溯到2002年，那时我在上海打球，有幸参加了网球大师杯。当时我还不满21岁，但已经得到了中国球迷的热情支持。此后我也参加过北京奥运会，担任瑞士代表团旗手。</p>\n  <p>2008年8月8日，开幕式那天正好是我的生日，所以那段经历对我来说格外特别。后来很多年里，我都会来参加上海的赛事，在那里赢过冠军，也参与过“旗忠网球场”的启用。</p>\n  <p>这些都让我一直有机会与中国球迷建立新的联系。</p>\n  <p><strong>问：你对中国年轻球员、家长和教练有什么建议？</strong></p>\n  <p><strong>费德勒：</strong>我认为让家长、教练和网球协会听到这一点很重要——“一个10岁、12岁或14岁的孩子，仍然拥有很多时间。”</p>\n  <p>我曾打电话给伴随我整个职业生涯的教练，询问他关于我孩子们的体能训练。他开口第一句话就是：罗杰，你只要知道你有的是时间。别紧张，一切都会好的。作为一位家长，听到这些让人安心。</p>\n  <p>每一场比赛、每一个青少年赛事，都不是最重要的。最重要的是成长，是这段旅程，是球员有多容易受教，有多享受打球、倾听和学习，以及积累经验。你要看的是自己在18到24岁时会处于什么位置？你希望自己的球技朝什么方向发展？关键在于之后的走向。</p>\n  <p>我父亲曾告诉我，要放开去打球，不要只是为了赢而过于保守，这是一种与众不同的思路。在瑞士我拿过12岁、14岁和16岁以下的全国冠军，但在国际赛场上16、17岁才有起色。有时候成长来得更晚，教练和家长必须有足够的耐心。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261016/v2_a9d8ab6fcb684e97906d2a993a80f31c@394564713_oswg522892oswg1267oswg845_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">活动当天，费德勒与中国年轻运动员发起“友谊赛”</p>\n  <p><strong>问：你如何看待中国网球的发展？</strong></p>\n  <p><strong>费德勒：</strong>想要真正发展网球，需要足够多、足够容易使用的球场，也要有足够的教练，让孩子有机会持续打球。整个生态必须协同运转。欧洲就是这样，在法国、西班牙或德国，很多小镇都有网球俱乐部，很多父母本身也打网球，这是一项非常大众化的运动。</p>\n  <p>我希望中国未来也能如此，并随着时间的推移，建造更多的球场。</p>\n  <p>因为球场不只是训练的地方，也是人们聚在一起的地方。我小时候的俱乐部生活，对我就非常重要。周末我常常和父母一起去球场，在那里待上一整天，对墙练球和朋友打球。慢慢地，网球变成了我生活和思考的一部分。</p>\n  <p>我相信在中国，参与网球的人越多，就越能形成冲击顶尖水准的能力。李娜赢得大满贯，是中国孩子重要的榜样。中国网球近几年发展得很好，但仍需继续向前。我认为中国网球未来的潜力很大。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261016/v2_ca9eb916a0384adab68825beb9052137@394564713_oswg68085oswg901oswg518_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">关注获取更多资讯</p>",
-      "category": "tech",
-      "published_at": "2026-10-17T05:36:44+00:00",
-      "fetched_at": "2026-10-18T02:46:11.998657+00:00",
-      "fingerprint": "12e614f2cf1b56c9"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "禾赛不只想卖激光雷达｜最前线",
-      "url": "https://36kr.com/p/4028766019719557?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261017/v2_d24d03c033e94341864214f5601af8ed@6310690_oswg6862128oswg2640oswg1772_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源 禾赛科技</p>\n  <p>文｜肖漫<br />编辑｜袁斯来</p>\n  <p>“我们不是为了卖激光雷达又造了一个 Kosmo。”在 Kosmo 发布会前，李一帆先明确了这一点。</p>\n  <p>Kosmo 是禾赛科技近日发布的三维世界数据引擎，由全球首款 8K 超高清 AI 空间相机 Kosmo One 和 AI 驱动的云平台 Kosmo World 组成。前者负责采集真实世界的空间信息，后者将这些信息重建为能够被 AI 理解、交互和训练的三维场景。</p>\n  <p>这是禾赛在激光雷达主营业务之外的一次延伸。过去，禾赛主要向汽车和机器人提供感知硬件；现在，它希望进一步参与物理 AI 的训练过程，把真实世界转化为可供 AI 使用的数据资产。</p>\n  <p>这也是李一帆从零部件提供商走向物理 AI 的核心基础设施提供商的第一步。</p>\n  <h2><strong>从激光雷达迈向物理 AI 核心基础设施</strong></h2>\n  <p>物理 AI 要真正走向规模化，至少需要解决两个问题：机器人如何在真实世界中完成动作，以及 AI 如何获得足够多、足够好的真实世界数据。</p>\n  <p>禾赛正在围绕这两个问题布局两项业务：机器人运动引擎与三维世界数据引擎。Kosmo 是后者首次系统性的产品化落地。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261017/v2_7b7b7a05794249d1b126584e60d7e40b@6310690_oswg3122652oswg2241oswg1788_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源 禾赛科技</p>\n  <p>Kosmo One 是这套系统的数据入口。它将高空间分辨率激光雷达、8K 超高清影像系统、一英寸大底 CMOS 和高精度 IMU 集成在一台设备中，同步采集真实环境的空间几何、色彩、纹理和设备位姿信息。</p>\n  <p>它试图降低空间采集的门槛。Kosmo One 支持即开即扫、智能指引和一键续扫等功能。在普通室内场景中，完成 100 平方米空间的扫描约需 15 分钟。</p>\n  <p>不过，扫描出一个逼真的三维场景，还只是第一步。对于具身智能而言，场景不仅要看起来真实，还要能被机器人理解，并用于训练和验证动作，这也是 Kosmo World 的作用所在。</p>\n  <p>Kosmo World 的底层是禾赛自主研发的 AI 原生三维空间重建与理解系统 Kosmo Spatial Core（KSC）。它能够从同一份采集数据中，同步生成 3DGS、mesh 和 depth 三种形态的三维数据。</p>\n  <p>三种数据解决的是具身面临的不同问题。3DGS 负责还原场景的视觉外观，让机器人训练时看到的画面更接近真实世界；mesh 是由网格构成的三维模型，可以用于物体的拆分、建模与交互；depth 则提供空间距离信息，帮助机器人判断物体的位置和远近。</p>\n  <p>这意味着，真实空间不再只是一个供人观看的三维模型，而可以进一步转化为适合机器人训练和仿真验证的环境，即所谓的 sim-ready 数据。</p>\n  <p>李一帆认为，物理 AI 对真实世界数据的需求，很难仅靠生成式 AI 满足。</p>\n  <p>“如果你完全用 AIGC 去生成完全虚拟的训练数据，真正获得的新鲜的信息就很有限。”他的判断是，生成式 AI 可以基于已有信息补全场景，但如果缺乏新的真实世界信息，模型对现实环境的理解仍然有限，训练效果也会受到影响。</p>\n  <p>这并不意味着合成数据没有价值。对于具身智能，合成数据能够帮助开发者扩充训练场景、覆盖更多边界情况，但前提是生成的环境和物理规律足够可信，且能够补充真实数据中缺失的信息。Kosmo 想做的，是从真实世界获取高保真的空间信息，再借助 AI 重建与补全，将其转化为能够反复使用的训练资产。</p>\n  <p>李一帆认为，这条路径有机会同时缓解两个问题：仿真环境与真实环境之间的差距，也就是 Sim-to-Real Gap，以及在真实物理环境中采集训练数据的高成本。</p>\n  <p>李一帆将 Kosmo 的商业化分成了三个阶段。最直接的是硬件收入，即销售空间相机Kosmo One；其次是面向企业客户的数据与模型服务。客户提供场景，禾赛负责采集、重建并交付可用的三维模型，商业模式有些类似 MaaS（Model as a Service，模型即服务）：客户购买的是处理后的结果，背后则涉及算力和模型生成服务。</p>\n  <p>更长期的目标，是将采集和重建形成的三维数据沉淀为可以反复使用的数字资产。李一帆希望，随着平台积累的空间模型越来越多，用户不必亲自扫描每一个场景，也能直接找到符合行业需求的资产。“这个可能需要至少 3—5 年才能建设出来。”他预计。</p>\n  <p>这意味着，Kosmo 的商业化并不只取决于相机能卖出多少台，还取决于它能否持续降低空间数据的采集、加工和使用成本，以及这些数据能否在不同客户和任务之间复用。</p>\n  <p>发布会上，禾赛 Kosmo 与银河通用机器人、原力灵机签署了战略合作，并展示了与迪士尼旗下皮克斯工作室（Pixar Animation Studios）、高德等合作的行业案例。这些合作所指向的，是三维世界数据在机器人训练之外的更多应用场景，例如影视媒体、文旅文博等。</p>\n  <h2><strong>禾赛打基底，Sharpa 上台前</strong></h2>\n  <p>“今天看似我们是在聊 Kosmo，但我觉得真正想跟大家交流和汇报的，不是 Kosmo 一个产品。”李一帆在发布会上说，“禾赛真正想讨论的是，从零部件提供商走向基础设施提供商的过程中，它看到了什么机会，以及为什么认为自己有能力参与其中。”</p>\n  <p>在他看来，物理 AI 2.0的终极目标是通用机器人。但目前，行业的注意力主要集中在模型和应用层，机器人硬件、计算和数据等底层基础设施，仍有大量问题没有解决。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261017/v2_31677ed200f94f09ae54d1d57625118a@6310690_oswg4081554oswg2880oswg1632_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源 禾赛科技</p>\n  <p>李一帆认为，数字 AI 能够快速发展，一个重要前提是底层基础设施已经相对成熟。物理 AI 则不同：机器人需要在现实世界中移动、感知和操作，模型能力必须通过硬件执行，训练也离不开真实环境的数据。这是禾赛同时布局机器人运动引擎与三维世界数据引擎的原因。</p>\n  <p>李一帆强调，这并不是一次与原有业务割裂的转型，而是技术能力的外延。精密机械传动、芯片、伺服电机、电磁材料，以及集成、制造工艺和量产验证，都与禾赛此前积累的技术和工程能力存在关联。</p>\n  <p>Kosmo产品只是第一步，禾赛后续还会有机器人关节驱动器等产品布局。李一帆将驱动器的重要性类比为电动汽车时代的电池，会直接影响整机性能、成本和产品化进程。</p>\n  <p>禾赛的思路是，让机器人真实的动作需求反过来定义硬件，即 AI-Defined Hardware。硬件不应只是被动承接算法要求的部件，还需要根据 AI 在真实环境中的任务需求，重新设计驱动能力与机械结构。</p>\n  <p>Sharpa 是这套思路的另一端落点。</p>\n  <p>Sharpa 的灵巧手拥有 22 个主动自由度，首款旗舰触觉灵巧手 Wave（W01）正是基于禾赛的动力模组打造。禾赛称，相比同类产品，其动力模组体积缩小了 37%，功率密度提升至 3 倍。</p>\n  <p>截至 2026 年第二季度末，禾赛动力模组累计交付超过 1 万套，产品也正从灵巧手模组向全身关节模组拓展。公司预计，2027 年动力模组出货量将达到六位数。</p>\n  <p>Sharpa 在操作端积累了大量需要验证的想法，能够较快地反馈给禾赛团队；禾赛改进动力模组后，又可以迅速交由 Sharpa 测试，形成研发闭环。</p>\n  <p>十年前，从激光雷达出发，禾赛已经具备了空间感知、芯片设计、精密制造和规模交付等能力。现在，它希望将这些积累延伸到更大的产业链环节中。</p>\n  <p>但基础设施业务与零部件业务的成功条件并不相同。动力模组需要证明性能、可靠性和成本优势，Kosmo 则还需要证明生成的数据能够切实改善训练效果，并且在不同场景中形成可重复的价值。</p>\n  <p>禾赛的 2.0 能否成立，最终不只取决于它推出了多少新产品，而取决于这些底层能力能否成为机器人公司真正愿意采用、持续使用的基础设施。</p>",
-      "category": "tech",
-      "published_at": "2026-10-17T06:39:49+00:00",
-      "fetched_at": "2026-10-18T02:46:11.998649+00:00",
-      "fingerprint": "608d2d95f0c30dac"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "前华为车BU世界模型基模负责人创业，杭州具身大脑公司获近亿元融资｜硬氪首发",
-      "url": "https://36kr.com/p/4025325566054529?f=rss",
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，具身大脑公司「格物通智」已完成近亿元天使轮融资，投资方包括匹克投资、鸿富资产、杭州资本、杭州人才集团、某省级具身产投及多家头部上市公司。资金将主要用于物理反演世界模型的大规模预训练与技术迭代、硬件与本体构建等，加快人才引进和规模扩充，并推进多个场景PoC验证和真实数据采集。Maple Pledge 枫承资本出任本轮独家私募股权融资顾问。</p>\n  <p>格物通智卡位杭州，于2026年8月成立，首轮即获得杭州市级层面三支基金的支持，包括杭州润苗基金、杭州颠覆性成果转化基金、杭州人才基金，是国家具身智能应用中试基地生态伙伴、‌杭创具身智能营成员。</p>\n  <p>公司面向真实产业场景研发自进化的灵巧操作智能，依托触觉-视觉为主的多模态数据真实闭环构建 “物理反演世界模型 + PSI物理自进化” 技术体系，为机器人提供有“手感”的具身大脑并在持续作业中自主沉淀实操经验、将“工龄”变成能力，实现越用越适配场景的持续进化。</p>\n  <p>本轮资方中，匹克投资作为国内头部运动科技履产业集团，已同格物通制签订战略合作协议，公司将围绕鞋履制造对 \"双柔+一高精\"，即柔性制造、柔性材料、亚毫米级精度的要求，在企业初期拿下规模化订单，共同推动技术落地与产业验证。</p>\n  <p>创始人兼CEO蔡佳博士毕业于西北工业大学航天学院，师从国家杰青黄攀峰院长，专注太空机器人的在轨灵巧操作研究；后加入华为2012实验室及车BU 2030实验室，深度参与ADS 2.0至4.0核心技术研发与百万级量产交付以及ADS6.0预研，担任百人团队主管及华为科学家委员会委员。</p>\n  <p>他同时拥有太空操作机器人、自动驾驶量产、世界模型三重复合背景，兼具AI前沿技术孵化、复杂智能系统关键技术突破与百万级量产的工程化经验，具备千万小时级数据治理与近万卡集群训练的系统性方法论，是华为智驾体系从技术验证到量产交付的核心参与者之一，曾获华为个人技术最高奖。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261014/v2_b9563c4a189841d695cdcfeed8b9fb9b@6022551_oswg303353oswg830oswg554_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">格物通智创始人兼CEO蔡佳博士（图源/企业）</p>\n  <p>此外，多位核心成员均来自华为、理想、地平线、智元等行业头部企业，毕业于清华、浙大、上交、中科大、复旦、哈工大、西工大及南洋理工等顶尖高校，覆盖前沿AI研究、复杂系统工程与规模化交付全链条，是一支具备学术科研底蕴与成熟产业落地能力的团队。</p>\n  <p>过去两年，具身智能在视觉感知、运动控制等技术环节取得了实质性进展，机器人可以识别物体、规划路径、复现复杂的肢体动作。然而，这类能力大多停留在远距离、非接触式的感知与执行层面，难以应对精细的操作难题。一旦进入真实生产现场，面对布料滑移、零件卡滞、插装阻力等接触层面的物理交互，仅靠视觉无法获取力的大小、方向与接触状态，感知维度的短板会直接暴露。</p>\n  <p>另一重底层瓶颈在于数据。多数具身智能企业依靠众包采集或素材库数据训练模型，这类数据和真实物理工况存在结构性偏差，光照、工艺参数、设备异常、人为干预等条件与现实环境脱节。更关键的是，真实场景中的数据带有明确的因果链条，“什么动作导致了什么结果，什么异常触发了什么调整。这些因果关联，在脱离场景的素材数据中几乎无法获取。脱离场景长出来的智能，很难真正落地。”格物通智创始人兼CEO蔡佳说。</p>\n  <p>在格物通智团队看来，机器人进入工厂只是起点。真正的挑战是，它能否在产线上持续作业，遇到问题后自己调整，并且把这次的经验带到下一个工位。</p>\n  <p>这条路被蔡佳拆成了三个环节，分别是Deploy——先把机器人放到客户现场，替客户完成一道具体工序；Learn——把作业中产生的成功经验、失败轨迹、异常恢复和人工纠正，转化为训练数据；Generalize——把从具体项目中沉淀的操作能力，迁移到下一个工位、下一个任务、下一个本体。</p>\n  <p>理解格物通智的技术基座，需要回到灵巧操作的核心难题：机器人如何形成“手感”。</p>\n  <p>传统机器人学习的是人手的关节轨迹，比如拧瓶盖时，机器人会通过学习人类手指运动轨迹模仿相应的动作。“但这只是‘形似’。”蔡佳告诉硬氪，“它不知道人需要用多大的力、摩擦系数是多少、遇到阻力时要加大力度还是调整角度。一旦换成不同材质的瓶盖、不同松紧程度的螺纹，模型就可能失效。”</p>\n  <p>针对这一盲区，格物通智团队首创提出了“物理反演世界模型”技术路线，让机器人从看得见的动作中推断接触、受力等隐含物理信息，用于大规模预训练；再结合真实力觉、触觉反馈进行校准，为动作数据补充可用于学习的物理标签。</p>\n  <p>触觉数据是这条路径的核心，也是行业公认的难题。由于触觉信号维度低，通常只有几十维，而一张图像有数百万维，要让两者在同一模型中融合对其的难度极大。同时，触觉数据的采集成本高、速度慢，规模化始终是瓶颈。</p>\n  <p>格物通智的解法是Real to Sim（真实到仿真），用真实物理交互数据，反向搭建仿真环境，已确定一系列操作路径。</p>\n  <p>这套数据管线的核心价值，是把互联网海量的第一、第三人称视频转化为可用于模型训练的有效数据。触觉信号规模化采集长期受制于高昂成本与低下效率，而视觉数据天然易于获取。依托 Real to Sim 方案，团队能够从视觉画面反推重建对应的触觉信号，让触觉数据实现和视觉数据同等规模的采集能力。</p>\n  <p>与此同时，在世界模型架构层面，方案大幅提升力觉、触觉这类物理信息的信噪比，实现与视觉信息的原生融合，以此习得超越人类水平的操作手感；并通过对物理因果关系建模与预测，让模型理解操作背后的底层规律，进一步强化跨场景泛化能力。</p>\n  <p>在此基础上，格物通智进一步搭建了PSI物理自进化体系，可以实现“物理反演—规划执行—真实反馈—评估学习—验证部署”的能力迭代闭环。机器人在作业中产生的成功经验、失败轨迹与人工纠正，经筛选评估后用于改进物理状态估计和操作策略，更新后的模型经验证再进入下一轮任务。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261017/v2_10320202d39e48748f198153393d9f3c@6022551_oswg1687558oswg1536oswg1024_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">构建 “物理反演世界模型+PSI物理自进化” 技术体系（图源/企业）</p>\n  <p>蔡佳告诉硬氪，这套机制的核心是双向改进，更准确的世界模型帮助机器人做出更有效的规划，更有价值的执行反馈则帮助模型识别自身误差、优化后续学习。同时，系统可以通过模型对失败原因与不确定性的判断，优化数据筛选，提升从经验中学习的效率。</p>\n  <p>这在工业场景中具有直接价值。“传统机器人部署到新工位时，需要反复示教、调测、试错；而我们希望实现的是，一个现场积累的经验，能够降低下一个现场的迁移成本。当客户每增加一个应用场景，我们收获的不仅是业务机会，还有可复用的部署经验。”蔡佳说。</p>\n  <p>硬氪了解到，格物通智正在同纺织服装、光模块及汽车零部件领域客户推进联合创新PoC，预计2026年年底将完成首个PoC交付。公司选择从边界清晰、可量化验收的任务切入，逐步扩大环境与任务覆盖，先突破Y轴精度成功率再突破X轴泛化性。在真实场景中验证基础能力，再将沉淀的经验迁移至更广泛的任务与本体。</p>\n  <p><strong>以下为硬氪与格物通智创始人兼CEO蔡佳的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：触觉数据采集长期面临成本与效率瓶颈，格物通智为何选择Real to Sim这条技术路径？</strong></p>\n  <p><strong>蔡佳：</strong>触觉是机器人实现灵巧操作的核心，但触觉数据采集本身一直是行业难题。如果只依靠触觉手套采集，不仅成本高、采集效率低，操作人员佩戴手套后，甚至会影响他们日常的正常作业。这也就造成了，手套能拿到的数据体量十分有限，难以支撑具身模型训练所需的泛化能力。</p>\n  <p>格物通智选择Real to Sim的思路很清晰，视频数据最容易规模化获取，那我们就从视频中反向重建交互接触等触觉信号。方案重建出的触觉数据精度，预期能够满足预训练需求，后续再通过真实现场数据进一步对齐精度。更重要的是，这套管线让触觉数据获得和视觉数据同等的规模化潜力。互联网上存量巨大的第一、第三人称视频，经过这套流程处理，都可以转化为附带触觉标签的训练样本。</p>\n  <p><strong>硬氪：你们在数据治理上强调质量优于数量，这个判断是怎么形成的？</strong></p>\n  <p><strong>蔡佳：</strong>核心在于是否能搭建一套可量化的数据价值评估体系，自动筛除低价值的冗余数据。</p>\n  <p>这套评估体系不是简单的人工抽检，而是从多个维度对数据打分，比如场景的稀有度、动作的多样性、失败案例的占比、与当前模型薄弱环节的匹配度等等。低分数据直接丢弃，高分数据进入训练集。同时，每一轮训练结束后，用固定的评测集检验模型表现，找出新的薄弱环节，再反向指导下一轮数据筛选。</p>\n  <p>可以用自动驾驶举例，如果采用均匀随机采样，人在驾驶过程中，90%以上的时间都处于平稳行驶状态，几乎没有紧急避让、复杂变道这类场景。这类常规数据无需大量累积，过量堆叠反而会削弱模型在关键场景下的学习效果。过去我们训练智驾世界模型，1000w clips的数据总量变化不大，但是其recipe每周都在优化刷新。因此需要对数据打分，保留high quality、good diversity样本。</p>\n  <p>我们把这套思路迁移到了做具身世界模型上。从第一天起，团队就坚持质量优先的数据理念，把数据冗余度控制在很低水平。不少同行在比拼百万小时量级的数据规模，但其中大量都属于冗余数据，真正有效的样本占比并不高。在存储成本持续走高的环境下，这套策略反而具备优势，我们不必为无效数据消耗资源。</p>\n  <p><strong>硬氪：格物通智选择从工业场景切入，不同客户对机器人具身操作能力的指标要求差异显著，团队如何定义场景切入的优先级？</strong></p>\n  <p><strong>蔡佳： </strong>不同工厂对能力边界的要求确实差异显著。精度要求从正负0.1毫米到一两毫米不等，节拍从毫秒级到分钟级不等，成功率要求从90%到99%不等，可靠工作时间从8小时到24小时不等。</p>\n  <p>格物通智的策略是选择与当前能力匹配的场景切入，逐步向更高要求延伸。我认为，创业公司的价值在于识别并聚焦真正有价值、能够规模化的场景，再通过循序渐进的方式扩展场景，可能做着做着就到达了具身智能的“GPT3时刻”。</p>\n  <p>对于具体场景，我们主要看几个维度，一是任务的可量化程度，验收标准是否清晰；二是与当前模型能力的匹配度，精度成功率能否达到客户的基本要求；三是场景的可复制性，一个现场积累的经验能否迁移到下一个现场。现在这个阶段，三分靠模型，七分靠工程。具身智能要真正变成实用，应该在这个场景里面长出来，而不是脱离场景在数采素材中长出来。</p>\n  <p>我们最看重的指标不是精度成功率，而是客户复购率。Demo精度成功率再高，如果客户不愿意复购，说明产品没有真正解决问题。复购意味着客户认为这个投入ROI是划算的，意味着机器人真正融入了生产流程。</p>",
-      "category": "tech",
-      "published_at": "2026-10-18T01:30:00+00:00",
-      "fetched_at": "2026-10-18T02:46:11.998634+00:00",
-      "fingerprint": "c14969919e318095"
-    },
-    {
-      "source": "少数派",
-      "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
-      "url": "https://sspai.com/post/104231",
-      "summary": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。<a href=\"https://sspai.com/post/104231\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-17T06:58:04+00:00",
-      "fetched_at": "2026-10-18T02:46:10.627827+00:00",
-      "fingerprint": "c5ba775541893835"
     }
   ]
 }
