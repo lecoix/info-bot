@@ -1,7 +1,287 @@
 {
-  "updated_at": "2026-11-02T04:03:29.128186+00:00",
-  "count": 187,
+  "updated_at": "2026-11-03T05:03:59.867404+00:00",
+  "count": 182,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+      "category": "politics",
+      "published_at": "2026-11-03T00:07:05+00:00",
+      "fetched_at": "2026-11-03T05:03:59.709410+00:00",
+      "fingerprint": "c380716d7c1b2ad5"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "category": "politics",
+      "published_at": "2026-11-03T01:56:27+00:00",
+      "fetched_at": "2026-11-03T05:03:59.709406+00:00",
+      "fingerprint": "9bcfdc55331da27b"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "category": "politics",
+      "published_at": "2026-11-03T03:32:36+00:00",
+      "fetched_at": "2026-11-03T05:03:59.709402+00:00",
+      "fingerprint": "e28f5ace93252c77"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US strikes Iran ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "category": "politics",
+      "published_at": "2026-11-03T03:39:08+00:00",
+      "fetched_at": "2026-11-03T05:03:59.709394+00:00",
+      "fingerprint": "fe01e4934507b524"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "愛情、幸運與魔法：年輕人為何找上了網上女巫？",
+      "url": "https://www.bbc.com/zhongwen/articles/crq8n9qq8q49o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "一家網上零售商表示，他們有售有助帶來好運咒語，而最近購買的人數大幅上升。",
+      "category": "politics",
+      "published_at": "2026-11-03T00:22:00+00:00",
+      "fetched_at": "2026-11-03T05:03:59.508590+00:00",
+      "fingerprint": "dc4a3ec2e5b17fdd"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "Netflix將美國心理學家菲利普·津巴多 (Philip Zimbardo) 1971 年備受爭議的研究改編成了一部六集真人秀，重新引發了一場由來已久的辯論，並引發了關於科學與娛樂之間界限的新問題。",
+      "category": "politics",
+      "published_at": "2026-11-03T00:21:54+00:00",
+      "fetched_at": "2026-11-03T05:03:59.508585+00:00",
+      "fingerprint": "4c829f30fc85be03"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "台灣選舉：四成陸配參選遭剔除，「法理死結」如何困住參政之路？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "「除籍滿10年」如何計算，成為這屆選舉多位陸配被剔除參選資格的爭議焦點。今年有25位「陸配」參選，當中逾4成參選人不符參選資格。",
+      "category": "politics",
+      "published_at": "2026-11-02T04:37:26+00:00",
+      "fetched_at": "2026-11-03T05:03:59.508581+00:00",
+      "fingerprint": "f1b3d90e30e0f626"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「英國政府對華政策摸著石頭過河」——國會報告",
+      "url": "https://www.bbc.com/zhongwen/articles/crz654pezgx7o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "下議院商業、創新、科學與貿易委員會的一份報告指出，英國政府對華事務的決策過程持續地「前後矛盾」。",
+      "category": "politics",
+      "published_at": "2026-11-02T15:41:05+00:00",
+      "fetched_at": "2026-11-03T05:03:59.508577+00:00",
+      "fingerprint": "0780f51f8cde4a8c"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "金與正發文 朝鮮否認策劃63億美元幣安黑客攻擊",
+      "url": "https://www.bbc.com/zhongwen/articles/ckwyqjd9w4x7o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國執法部門和網絡安全分析師將這宗破紀錄的盜竊案歸咎於平壤當局。",
+      "category": "politics",
+      "published_at": "2026-11-03T02:49:29+00:00",
+      "fetched_at": "2026-11-03T05:03:59.508568+00:00",
+      "fingerprint": "c825027219b189f4"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-03T05:03:59.062850+00:00",
+      "fingerprint": "0504cb6dc0b8cf0b"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-03T05:03:59.062767+00:00",
+      "fingerprint": "b00f3c61979d2dea"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-03T05:03:59.062666+00:00",
+      "fingerprint": "baf6a1185cdb25e9"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-03T05:03:59.062578+00:00",
+      "fingerprint": "c6b64c6f66589d18"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-03T05:03:59.062469+00:00",
+      "fingerprint": "f9ecf66c18226a74"
+    },
+    {
+      "source": "The Verge",
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-02T20:37:49+00:00",
+      "fetched_at": "2026-11-03T05:03:58.699220+00:00",
+      "fingerprint": "5f4b9fdfeb2042b9"
+    },
+    {
+      "source": "The Verge",
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-02T21:04:20+00:00",
+      "fetched_at": "2026-11-03T05:03:58.699217+00:00",
+      "fingerprint": "f6417c66c0228f42"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-02T22:02:36+00:00",
+      "fetched_at": "2026-11-03T05:03:58.699213+00:00",
+      "fingerprint": "d993c74239a01645"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this &#8203;point, we're not able to predict when supply and demand will be in [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-02T22:56:11+00:00",
+      "fetched_at": "2026-11-03T05:03:58.699204+00:00",
+      "fingerprint": "aa1e54ebadb6d5c1"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨上海交大副教授做光计算芯片，成立半年获云启、原子等连投5轮，已送流片",
+      "url": "https://36kr.com/p/4053338933105795?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_a03d85376a8649d9bc018180b919d5f8@6221844_oswg524290oswg782oswg782_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3300</strong>字，建议阅读<strong>8</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。公司成立后已连续完成5轮种子轮次融资，投资方包括海桐国际创新中心、云启资本、国泰海通、险峰长青、原子创投、同鑫资本和上海交通大学AI未来基金。资金将主要用于核心芯片研发与流片迭代、高端人才引进与团队建设，以及应用场景拓展与生态合作。</p>\n  <p>智子光垣于2026年5月成立，聚焦可重构全光计算架构与光子处理器研发，利用光的并行计算特性直接参与AI运算，绕开传统电子芯片在制程微缩、功耗和散热上的瓶颈，推动光计算从专用加速走向更具通用性的计算平台。</p>\n  <p>目前，智子光垣已组建近50人的研发团队，核心成员长期深耕光计算与芯片设计领域，累计完成数十款光芯片的设计、流片及验证，并发表了近20篇Nature/Science系列论文。创始人程远为上海交大人工智能学院副教授，长期从事光子芯片与边缘智能研究，曾任辛米尔科技联合创始人/CTO，主导全栈产品体系搭建。</p>\n  <p>产品布局方面，智子光垣规划了服务器端光电加速板卡和端侧光计算芯片两条产品线。两款产品的首版相关芯片均已送出流片，计划未来半年内陆续推出可部署产品。</p>\n  <p>目前，AI算力竞争正在从单纯追求峰值算力，转向每度电能支撑多少有效智能输出。随着AI从单次问答走向智能体持续思考、工具调用和任务执行，Token消耗快速增长，成本、供电和散热正在成为算力扩张的现实约束。</p>\n  <p>传统电子芯片已接近摩尔定律上沿，仅靠制程微缩很难跟上需求增长。而光计算的思路，是把矩阵运算映射到光的干涉、衍射过程中，利用光传播本身完成大量并行乘加运算。</p>\n  <p>程远表示，AI需要真正低功耗、不依赖先进制程、能够工程化落地的计算载体，而光计算在并行性、时延和能效上具备天然优势。</p>\n  <p>当前光计算行业处于工程化落地早期阶段，国内多条技术路线并行，市面上可用产品较少，且多为小规模专用计算，难以支撑真实大规模任务，也难在任务之间切换。</p>\n  <p>“通用光计算是行业趋势，但需要架构、器件、工艺、封测和软件系统协同推进。”程远称。</p>\n  <p>具体来看，智子光垣的技术路线是可重构全光计算架构。通过时空可重构，实现不同模型与计算任务的灵活适配；融合干涉计算与衍射计算的技术优势，借助Chiplet将干涉与衍射模块化放入同一架构，在单芯片中级联多个光计算核心，扩大计算规模，兼顾计算精度和灵活性。此外，公司同时推进“光传光算”与全光非线性技术，减少关键计算环节的光电转换，并通过软硬件协同校准，提升计算精度与芯片一致性。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_e0f3ca8bf7d94894bceb7cf2a1da8897@6221844_oswg1917647oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">可重构：干涉 x 衍射 x chiplet（图源/企业）</p>\n  <p>“可重构”决定光计算能适配多少任务。智子光垣从芯片底层设计时空重构架构，在空间和时间上调制计算关系，任务变化时通过重组光路或调整调度算法适配，而不必为每种应用重新设计芯片。“全光”则指向能效：让通信光直接参与计算，并把关键非线性操作留在光域，使计算链路中的光电转换趋近于零。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_a722e072763747c1ac4e306ef401d7f6@6221844_oswg592477oswg1080oswg530_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">全光：光传光算 x 非线性（图源/企业）</p>\n  <p>产品层面，烛龙OPU-08面向服务器计算加速，采用PCIe光电加速板卡形态，聚焦AI推理中的大规模矩阵运算，规格为256×256计算核心、150TOPS算力，可接入现有服务器，为大模型云端部署提供“光子Token”。玄鉴TOCU-07面向边缘端低功耗智能设备，规格为128×128计算核心、100TOPS算力，除光电计算外，还支持收集微弱自然环境光直接运算，省去该输入路径上的光电编码。</p>\n  <p>程远表示，烛龙与当前主流服务器光电加速板卡形态一致，亮点在于更通用的矩阵加速和模型部署能力；玄鉴则面向端侧低功耗场景，市面上同类产品还不多。更长期的目标是训推一体的通用光子GPGPU，预计2027年底或2028年初推出第一版。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_0ea95bc177814b70bdb27c445eff9f64@6221844_oswg523320oswg1080oswg587_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">服务器光电加速卡烛龙 OPU-08（企业/图源）</p>\n  <p>工程化方面，光计算面临器件差异、噪声、温漂等一致性问题。智子光垣通过软硬件补偿模块配合，在光芯片中加入自动化纳秒级校准模块，公司称可将矩阵运算误差降到10^-6水平，以提升批量芯片的精度一致性。公司目前与国内代工、封测厂合作推进批量生产，但产品性能仍需芯片回片后测试验证。</p>\n  <p>按照公司规划，近期重点是完成烛龙、玄鉴的封装测试、板卡联调、模型适配和客户验证，保障产品按计划推出；后续逐步推进更大规模的光计算板卡和通用光子GPGPU。</p>\n  <p>公司希望依托团队在前沿技术研发、芯片工程化及系统级产品部署方面的积累，将光芯片的落地应用进程加快2-3年。这一目标的实现，仍需上下游产业链协同支撑。</p>\n  <p>程远表示，公司还会重点关注AI算力基础设施、光通信和硅光产业链，以及制造封测等上下游环节。光通信和硅光产业链的成熟，为光计算提供了器件、工艺与封装基础；产业合作则将围绕工艺封测、服务器厂商、端侧应用伙伴和模型适配展开。</p>\n  <p>长期看，智子光垣致力推动通用光计算落地，让同一套硬件在光擅长的计算范围内适配不同模型和任务，并最终构建训推一体的光子GPGPU和配套软件系统。</p>\n  <p>“专用是光计算走向应用的第一步，通用是光计算成为算力基础设施的下一步。”程远说。</p>\n  <p>以下是硬氪与智子光垣创始人程远的访谈节选（经编辑）：</p>\n  <p><strong>硬氪：把干涉和衍射混合在一颗光计算芯片上，行业里为什么做的少？智子光垣为什么选这条路线？</strong></p>\n  <p><strong>程远：</strong>把干涉和衍射混合在一种光计算芯片上实现。这首先是架构级别的创新，团队长期从可重构架构层面推进系统级模型部署，研究上处于国际前沿。</p>\n  <p>采取这个技术，是为了突破传统光计算架构在灵活性与计算规模上的局限，完成光芯片内部的可重构，并采用基于干涉衍射的全光计算路径。可重构决定光计算能适配多少任务，全光路径则打开更大的能效空间，把光电转换需求降到接近零。只有完成可重构和全光，才能实现所谓通用光计算——在同一套硬件上适配不同任务和模型。难点在于如何调控光计算内部操作，把可重构算法在光芯片内部实现，同时保证每颗芯片性能一致，这需要从架构设计、工艺、封测整条产业链协同。</p>\n  <p><strong>硬氪：目前产品已经流片，客户和量产进展如何？</strong></p>\n  <p><strong>程远：</strong>目前已积累了不少意向客户。有板卡厂商计划推出一款光电加速板卡，我们的光芯片会在其GPGPU上作为协处理器加速模块发挥作用。量产方面，我们已与国内知名的代工和封测厂商建立合作，正在推进相关批量生产工作。同时，配合软硬件校准补偿模块，保证光芯片出来之后的一致性。</p>\n  <p><strong>硬氪：光计算走向实际应用，最难跨过的是什么？</strong></p>\n  <p><strong>程远：</strong>最难的是稳定交付和批量一致性。单块芯片的实验表现，必须变成批量产品在客户环境里的稳定表现。器件差异、噪声和温漂都会影响计算结果，所以我们在底层加入软硬件协同的纳秒级校准模块，并把封装测试、模型适配提前到设计阶段，从源头解决工程化难题，避免问题留到交付环节。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>云启资本表示：</strong>云启长期看好，光计算有望为AI算力基础设施带来新的突破。智子光垣团队在可重构全光计算架构上有深厚积累，同时具备从芯片研发到大客户规模化交付的产业经验。我们看好智子光垣在光计算领域的长期潜力，期待团队推动下一代 AI 计算架构在真实场景中实现规模化应用。</p>\n  <p><strong>原子创投董事总经理赵旸表示：</strong>下一代AI算力需要新的底层架构，我们长期看好全光计算，也一直在寻找真正能推动这项技术走向产业化的团队。</p>\n  <p>智子光垣在可重构架构与光传光算上的原创探索，让我们看到了新的技术可能。程远老师和团队既有多年科研积累，也有从芯片研发到产品规模化落地的完整创业经历；既能探索技术的边界，也知道如何让技术走出实验室，这样的创始团队极为难得。</p>\n  <p>期待与智子光垣携手，让中国原创的光计算技术走向世界，成为推动下一代AI算力变革的重要力量。</p>\n  <p><strong>国泰海通表示：</strong>AI算力产业发展的下半场向着token降本的方向发展，光计算芯片有望缓解AI算力紧缺困境，看好智子光垣的技术路线具备通用、可重构和大规模计算能力的核心优势，以及从前沿科学研究到半导体工程化落地的成功经验。</p>\n  <p><strong>海桐国际创新中心表示：</strong>看好智子光垣团队在光子前沿方向的创新潜力和团队技术优势，坚定陪伴团队深耕技术攻关与产业落地。我们将依托自身硬科技孵化生态资源，持续为智子光垣对接产业伙伴、科研平台与行业渠道，助力技术价值释放。期待智子光垣持续突破，在光计算赛道形成差异化优势，共同助力国内前沿算力产业生态建设。</p>",
+      "category": "tech",
+      "published_at": "2026-11-03T01:09:56+00:00",
+      "fetched_at": "2026-11-03T05:03:58.564003+00:00",
+      "fingerprint": "d6b97fe0f8cd8587"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "南科大教授创办，深圳离电柔性触觉企业再获数千万元Pre-A++轮融资｜硬氪首发",
+      "url": "https://36kr.com/p/4047980565887233?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，柔性触觉传感器公司「赛感科技」完成数千万元Pre-A++轮融资，本轮由广州工控东高基金独家投资。资金将主要用于离电柔性技术研发与新一代产品迭代落地，持续推进跨行业客户验证与产业化市场拓展，加速多场景行业渗透。</p>\n  <p>其中，广州工控作为产业投资方，同步为团队带来确定性的场景落地入口。目前已敲定首批订单，将落地于汽车制造环节。这也意味着触觉传感器的应用边界，正从具身智能赛道向外延伸，逐步渗透至工业质检、安全感知等多元场景。</p>\n  <p>赛感科技成立于2023年，技术源自南方科技大学超柔性电子学实验室，公司专注离电型柔性触觉传感器与机器人电子皮肤的研发、生产及销售，已完成材料、器件到系统层面的全链条技术布局。</p>\n  <p>创始人兼首席科学家郭传飞为南方科技大学材料科学与工程系长聘教授、国家杰出青年科学基金获得者，深耕柔性电子方向研究，累计申请专利40余件；CEO熊赓超拥有海尔体系内多年产业化操盘经验；团队汇聚二十余位博士、博士后科研骨干。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261102/v2_e2fd7d4d229c425c95ea03b43e74f996@6022551_oswg146541oswg1920oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">搭载赛感科技触觉传感器的灵巧手（图源/企业）</p>\n  <p>触觉在具身智能中的位置，已完成了从“可选项”到“必选项”的认知切换。“去年我们还需要向客户解释为什么机器人需要触觉，但今年3月之后，这已经不再是一个需要论证的问题。真正的分歧转移到了另一个层面，触觉信号究竟如何被用起来。”赛感科技CEO熊赓超说。</p>\n  <p>真正的工程难题才刚刚开始。一个必须承认的事实是，触觉与视觉在时间尺度上并不一致，视觉更新频率通常较低，触觉反馈则需要更高频率才能支撑闭环控制。将触觉信息简单拼接到以视觉为主的VLA模型中，容易造成频率错配，触觉非但不能增益，反而可能干扰原有决策。</p>\n  <p>触觉不是视觉的辅助通道，它需要独立的数据流、处理频率和模型接口。这意味着，当触觉信号进入具身基础模型时，不是增加一个输入通道那么简单，而是要从数据管道层面解决与视觉时间尺度兼容、同时保留触觉高频特性的问题。</p>\n  <p>为了保证触觉信号本身足够稳定可用，赛感科技团队从器件结构出发，其核心离电型界面电容技术，通过电子导体与离子导体接触面积的变化产生传感信号，在灵敏度、量程与线性度之间可以实现不同于传统路线的同步提升。</p>\n  <p>熊赓超告诉硬氪，传统柔性传感器长期受困于高灵敏、大量程、高线性度难以兼得的结构性矛盾，而离电方案能够在毫克级感知到百公斤级承载的全量程内保持线性响应。</p>\n  <p>具体指标上，赛感单点传感器和阵列电子皮肤，都具备低检测限、高灵敏度、大量程、高线性度的特点：检测限低至约1毫克、响应频率可达1KHz、量程可在1MPa中保持线性响应，用于在触觉手套形态下仍能保持这一水平，同时器件厚度和佩戴负担显著低于需要厚重结构做隔离的传统方案。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261102/v2_6890788faa754b27937991b68a58a695@6022551_oswg77309oswg929oswg614_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">离电柔性触觉技术（图源/企业）</p>\n  <p>“我们发现，客户在需求文档中列出的切向力、摩擦、向心力和温度等指标并不低，但当他真正进入真实交互后，验收核心往往先落到稳定性和一致性上。”熊赓超指出，触觉传感器的工程价值，不在于单次峰值指标有多高，而在于跨设备、跨批次的数据是否可比。“若跨设备一致性不足，数据规模越大，模型侧的清洗与对齐成本越高，训练价值反而被稀释。”</p>\n  <p>这一性能边界进一步传导至赛感科技团队的交付策略。公司并未将竞争焦点放在单点精度上限的持续抬升，而是把稳定性和一致性前置为商业化设计的约束条件，在可重复、可标定的器件基础上优化精度表现。</p>\n  <p>相应地，赛感科技采用传感器、板卡与封装集成的指尖模组形态交付，完成出厂标定，商业端客户可直接在本体内增加该触觉模块，无需器件装配、标定与调试。通过把部分系统集成与一致性控制前移至器件端，降低了下游客户的工程耦合和跨设备数据对齐成本。</p>\n  <p>更值得关注的变化发生在触觉的物理覆盖范围上。熊赓超告诉硬氪，过去具身公司的订单需求主要集中在灵巧手指尖，自下半年以来，指腹、手掌、手臂乃至肩部、躯干和足底的触觉需求同步出现。赛感科技在2026年年中首发的全尺寸人形机器人电子皮肤系统，已将触觉从指尖扩展至全身区域，覆盖压力感知、碰撞检测与步态反馈。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261102/v2_a4700b7623bd43fcb76aedb7b2813fe1@6022551_oswg197107oswg1921oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">赛感科技柔性触觉传感器（图源/企业）</p>\n  <p>当柔性触觉技术从单点指尖感知走向全身电子皮肤部署，传感器又要面对一套全新的物理约束。灵巧手的自由度不断提升，手指内部空间持续被电机、传动结构挤占，传统硬质基板传感器的安装空间越来越紧张。同时，人形仿生形态对感知层提出曲面贴合、可拉伸的要求，并且在弯折、拉伸形变过程中，信号漂移必须维持在可控区间。</p>\n  <p>赛感的柔性蒙皮方案正是针对这一���约束设计，它支持直接贴附于曲面，而非在模具中预留平面槽位再嵌入传感器。这一能力让本体结构不需要为传感单元单独预留安装位，机身迭代、曲面铺覆的灵活度大幅提升，能够适配不同构型的人形机器人快速部署全身触觉感知。</p>\n  <p>“触觉和视觉一样，正在成为具身智能的基石性感知通道，但两者不是替代关系，而是互补关系。”熊赓超说。视觉让机器人看见世界，触觉让机器人摸到世界。在VLA向VTLA演进的主线中，VTLA模型不仅限于把触觉简单叠加进视觉架构，关键是让两种信息在正确的频率和语义层级上协同。</p>\n  <p>赛感科技试图占据的位置，是在离电材料与器件工艺之上，提供从指尖模组、全身电子皮肤到触觉数据流的系统级方案，同时以汽车制造、电池安全等非具身场景，验证触觉在极端负载和长期可靠性下的工程边界。</p>\n  <p>当触觉从“有没有用”进入“好不好用”的阶段，决定感知方案能不能规模化落地的，不只是灵敏度数字，而是器件一致性、交付节拍和与下游模型层的耦合深度。</p>\n  <p><strong>以下为硬氪与赛感科技CEO熊赓超的访谈节选（经编辑）：</strong></p>\n  <p><strong>硬氪：触觉从指尖走向全身，客户需求从单点精度转向稳定性和一致性，你们如何理解这一变化？</strong></p>\n  <p><strong>熊赓超：</strong>这两个方向其实是同一个问题的两面。</p>\n  <p>触觉传感器真正的工程价值，不在于单次采样的峰值精度，而在于跨设备、跨批次的数据具备可比性。一旦一致性不足，数据集越大，模型端的数据清洗、对齐成本就越高，数据本身的训练价值反而会被稀释。目前行业对基础指标已经形成共识，比如5到10克的触检能力、30牛量程，灵巧手负载大多在3至5公斤区间，不同方案的稳定性差距显著。</p>\n  <p>赛感的思路是把稳定性、一致性设为商业化前置约束，先保证器件可复现、可标定，再优化精度。交付上采用传感器、板卡、封装一体化的指尖模组，部分产品出厂完成标定，客户可直接集成，省去自行装配标定的工作。将集成与一致性管控前置，降低下游的工程耦合以及多设备的数据对齐成本。</p>\n  <p>而当触觉从指尖延伸到指腹、手掌、肩臂、躯干、足底，传感器又面临另一套约束。像肩部场景，核心需求不是重载，而是人机交互里的轻接触识别；并且全身各处对量程、灵敏度、柔性、成本的要求各不相同，不能用同一种传感器简单铺满。另一方面，灵巧手内部空间被电机、传动结构挤占，硬质基板方案难以布置；人形本体还要求感知层可曲面贴合、可拉伸，形变下信号漂移可控。</p>\n  <p>赛感的柔性可蒙皮方案可以直接贴附曲面，无需在开模时预留安装槽，解除传感单元和本体结构的绑定，方便不同构型机器人快速铺展全身触觉。</p>\n  <p>简单来说，稳定性与一致性解决的是触觉数据能不能被模型有效使用，柔性可蒙皮解决的是触觉感知能不能大面积铺装上机器人本体，二者共同构成触觉从单点指尖走向全身电子皮肤的工程基础。</p>\n  <p><strong>硬氪：在VTLA模型中，触觉为什么不能仅仅作为视觉的辅助输入通道，触觉数据做分层处理的核心意义是什么？</strong></p>\n  <p><strong>熊赓超</strong>：触觉和视觉本身的感知时序、响应逻辑存在本质差异。</p>\n  <p>视觉偏向环境感知，采集帧率相对有限，服务于空间理解、场景推理这类偏慢的认知决策；而触觉属于接触式感知，交互事件往往是瞬态发生的，需要毫秒级高速反馈支撑物理闭环控制。如果把触觉信号作为附加输入、塞进以视觉为主导的VLA模型，很容易出现时序错配：高频触觉事件被低频视觉帧同步稀释，不仅无法发挥触觉独有的交互价值，额外引入的噪声还会干扰原有模型的推理稳定性。</p>\n  <p>所以触觉接入多模态模型，不是新增一路辅助信号，而是要搭建一套独立适配的数据管道，既要做到时序对齐，能够和视觉信息流在模型语义空间完成协同，又要完整保留触觉原生的高频瞬态特征，不能为了适配视觉节奏抹平接触瞬间的动态信号。</p>\n  <p>交付层面，赛感的方案一方面兼容客户现有数据接口，保障存量VLA体系的平滑接入；另一方面也输出标准化、面向VTLA原生架构的触觉数据流，适配多模态统一感知框架。</p>\n  <p>我们明显看到的是，下游已经形成明确诉求。对于触碰、拍击、滑脱这类需要即时响应的高频反射动作，并不适合全部上传到大模型主脑做推理。这类事件容错窗口极短，端侧本地识别、本地闭环，才能满足机器人物理交互的实时性要求。这就催生了触觉数据分层处理架构，低频、需要综合环境信息理解的交互决策，交由VLA大模型完成；毫秒级的接触反射、安全防护等高速闭环逻辑下沉到边缘端执行。</p>\n  <p>触觉必须先成为一条独立、可控、具备自身时序特征的信息流，而不是视觉的附属补充，才能在VTLA体系里，和视觉形成真正的互补协同，而不是简单拼接。</p>",
+      "category": "tech",
+      "published_at": "2026-11-03T01:30:00+00:00",
+      "fetched_at": "2026-11-03T05:03:58.563999+00:00",
+      "fingerprint": "32b38b08013763d6"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨交大博士融合世界模型和六臂机器人，再获数亿融资，合作多家500强客户",
+      "url": "https://36kr.com/p/4053394503603076?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_1e7fa1e1310e4ad29fbbb75c41732410@6221844_oswg270902oswg632oswg714_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3000</strong>字，建议阅读<strong>7</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。投资方包括建投投资有限责任公司、南通投管和云启资本三家机构。本轮资金将主要用于大模型研发、多臂机器人本体迭代、产线扩建以及全球市场的深度拓展。</p>\n  <p>飒智智能成立于2017年，核心团队兼具近20年机器人研发经验与头部人工智能算法基因。创始人兼CEO张建政为上海交通大学机械工程专业（智能机器人方向）工学博士，曾任职于新时达与发那科。</p>\n  <p>在工业制造向柔性化、复杂化演进的当下，传统工业机器人受限于固定作业与单一任务，而多数通用具身机器人又难以满足工业级的高精度与确定性要求。飒智智能切入的正是这复杂工业场景空白——如精密装配、灵巧包装、长序测试等。</p>\n  <p>在产品端，飒智智能已构建起覆盖单臂、双臂、四臂、六臂的全形态本体矩阵。据张建政介绍，新一代四臂机器人采用了空间对称构型，通过一个大脑控制四个机械臂，并借助高级协同算法，使多臂并行运行的效率比上一代翻了一倍。而六臂机器人“玄甲”则采用了前腰、后腰、肩膀各分布两臂的空间异构设计，能够全方位360度照顾周边的多条生产线，实现双工位并行、四臂交替。</p>\n  <p>“多臂并不是越多越好，就像桌子最少三个腿能稳定，四个、五个也能接受，但再多就没有意义了。”张建政对硬氪表示，通过空间构型理论的支撑，6个臂是目前最合理的布局方式。</p>\n  <p>相较于四臂，六臂的自由度增加了60%，在狭小空间内如何保证安全空间的动态隔离、避免碰撞，并实现复杂工艺的协同，对算力和算法有效性提出了极高要求。目前，这种空间异构的六臂构型在全球范围内具有唯一性，其作业复杂度相比四臂实现了指数级提升，效率提升达50%。</p>\n  <p>在具身智能最核心的“大脑”层面，行业目前普遍采用的VLA（视觉-语言-动作）模型存在端到端反射式模仿的局限，缺乏物理因果理解，导致场景泛化失效且不可解释。飒智智能的解决办法是，在今年WAIC上发布了自研的工业世界模型——玄枢·SageNexus（WASM）。</p>\n  <p>SageNexus的核心突破在于内化了物理因果，实现了从“被动响应”到“主动推理”的跨越。在架构上，它通过Encoder将视觉、点云、力反馈和工艺文档等异质数据映射到统一的物理语义空间，再由Decoder将高层任务意图转译为可执行的动作序列，并进行物理可行性校验，从而有效抑制大模型幻觉，避免生成不安全或不符合工艺约束的动作。</p>\n  <p>“我们讲的是数据、本体、控制、模型、场景这5个元素的闭环，把数据飞轮转起来了。”张建政强调。基于360TB多模态真实工业数据与三阶段训练，该模型沉淀了2000+场景技能库。在工业场景极为严苛的确定性要求下，该模型能够达到99.9%以上的可靠性。</p>\n  <p>此外，飒智智能通过云边端实时协同，构建了云端“慢闭环”、边缘侧“快闭环”与安全底线“闭环”的三环架构，确保机器人在长程复杂任务中的稳定输出。</p>\n  <p>在算力焦虑席卷行业的背景下，飒智智能提出了一条差异化路径：用算法的有效性来解决算力的依赖性。张建政认为，持续叠加算力资源，将推高客户投入成本，而通过提升算法效率，降低对暴力计算的依赖，才是具身智能真正落地的水平体现。</p>\n  <p>依托技术底座的成熟与灯塔工厂的真实应用验证，飒智智能的商业化迎来了快速增长，已覆盖3C半导体、汽车、能源、食品医药四大行业，全球500强或上市公司客户超50家。</p>\n  <p>“我们今年上半年已经完成了去年全年的任务，全年业务基本翻番，增长率在100%~120%。”张建政透露。</p>\n  <p>此外，海外市场正成为飒智智能的第二增长曲线。公司去年在墨西哥业务较多，今年开始全面开发东南亚（越南、印尼、马来、泰国、新加坡）市场，并在欧洲市场逐渐斩获大订单。据透露，其海外意向订单超五亿元。为了承接激增的需求，飒智智能位于上海马桥人工智能实验区的工厂目前已处于满产状态，公司计划在未来三年内扩建至现有场地4倍左右的规模。</p>\n  <p><strong>以下是硬氪与飒智智能创始人兼CEO张建政的访谈节选（经编辑）：</strong></p>\n  <p><strong>硬氪：在工业场景中，客户为什么一般优先选择多臂机器人，而不是多台单臂或双臂机器人组合？</strong></p>\n  <p><strong>张建政：</strong>这主要是由客户的现实场景决定的。特别是在原有的产线存量市场上，空间往往非常狭小，但又需要实现高效的生产。如果用多台两臂机器人，不仅占地方，而且很难实现高度协同。我们的六臂机器人采用了空间异构方式，可以做到一个机器人照顾周边4条生产线。比如在左侧的3个臂作业时，下面两个臂分别拿不同的工件组装，上面一个臂拿电批或胶枪进行锁附或涂胶。这种在狭小空间内的高效协同，是单臂或双臂堆叠无法实现的。此外，在包装场景中，装袋、装说明书、封口、装盒、扣盖，这需要多个手同时协作，六臂机器人能够一次性流畅完成，这是极具挑战性的工艺突破。</p>\n  <p><strong>硬氪：您提到“用算法的有效性来解决算力的依赖性”，这在模型层面是如何实现的？</strong></p>\n  <p><strong>张建政：</strong>现在行业里大家习惯拼命堆卡，但客户往往无法接受高昂的成本。我们的大模型（玄枢·SageNexus）不完全依赖暴力计算。首先，我们的数据非常纯净，全部来自工业场景的实际数据，这减少了模型训练的无效消耗；其次，我们在算法架构上做了大量优化，让模型在训练好之后，有部分可以直接部署在终端端侧执行训练出来的Skill。通过提升算法的效率，我们让机器人在满足99.9%工业级确定性的同时，大幅降低了对算力的依赖。这才是具身智能企业真正的核心竞争力。</p>\n  <p><strong>硬氪：目前具身智能行业都在探索群体智能，飒智智能在这方面有什么规划？</strong></p>\n  <p><strong>张建政：</strong>从单体智能到群体智能，再到生态智能，是我们1.0到3.0的战略路径。目前我们已经走入了群体智能阶段。我们现在已经初步实现了将几百台机器人在一个工厂里进行联合作业的群体控制算法。下一步，我们会通过融资进一步扩充研发团队，迭代群体智能，强化多智能体联动，实现更紧密协同、更精准调控。再往后，我们要做的是生态智能，不仅仅是控制几百上千台机器人，还要与工厂里的其他几百上千台设备统一控制起来。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>南通投管：</strong>飒智团队对工业场景、具身智能理解深刻，同时具备较强的落地能力，经过多年研发积累与业务实践，飒智在高质量工业数据、面向物理世界的大模型、以及工业现场编解码体系等多个层面构筑了坚实的核心竞争力，其具身机器人已在3C半导体、汽车产业链、能源产业链、高端食品和医药等多个工业生产领域实现规模化商业落地，获得多个头部标杆客户的重复采购。我们认为工业领域“机器替人”是必然趋势，具身智能凭借多模态感知与自主决策能力，正加速突破传统工业自动化刚性瓶颈，工业领域正在成为具身机器人短期落地的核心场景，飒智聚焦工业生产场景，领先优势明显，业务进入快速增长期。</p>\n  <p><strong>建投投资投资总监王枫：</strong>真实有效的工业场景落地和相关数据的匮乏，是当前具身智能企业面临的核心瓶颈与挑战。飒智智能的产品已在百余家大型国央企及世界500强���业实现规模化工业场景落地，并沉淀了海量相关数据，形成了坚实的技术壁垒。同时，其核心团队在研发与工程化落地方面展现出业内顶尖实力。基于此，我们持续看好飒智智能在工业具身智能赛道的发展前景。</p>\n  <p><strong>云启资本表示：</strong>工业现场的机器人既要适应有限的产线空间和复杂工序，也要保证长期运行的稳定性。飒智深耕工业场景多年，围绕多臂协同持续迭代产品，形成了覆盖单臂、双臂、四臂、六臂的产品布局，并在机器人本体、控制和模型等方面积累了扎实的技术能力。团队已在多个制造行业实现批量交付，积累了丰富的工程化落地经验。我们看好飒智将技术创新与真实工业需求相结合的能力，期待团队推动工业具身智能在更多生产场景中实现规模化应用。”</p>",
+      "category": "tech",
+      "published_at": "2026-11-03T02:06:20+00:00",
+      "fetched_at": "2026-11-03T05:03:58.563994+00:00",
+      "fingerprint": "5f63877a0e3ece73"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "48小时，点与点之间，发生了一些连接｜2026苏客松回顾",
+      "url": "https://36kr.com/p/4053448525370500?f=rss",
+      "summary": "<h2>&nbsp;</h2>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_92581d3aea164a6d85eba0feed24fb52@6438729_oswg193051oswg1080oswg1620_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松</p>\n  <p>10月30日到11月1日，来自50所城市、60多个学校的200位创造者，带着各自的想法来到苏州。</p>\n  <p>&nbsp;</p>\n  <p>48小时后，200多位选手完成了组队、开发和展示，<strong>现场诞生了64组项目。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_e4ee25b25635482e81a8fec20971ee02@6438729_oswg171509oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松</p>\n  <p>从开始筹备到活动落地，我们想做的其实不只是一场黑客松。除了让大家有地方写代码、做产品，<strong>也希望给创造者们一个认识彼此、交流想法、接触真实技术应用的机会。</strong><br />&nbsp;</p>\n  <p>现在回头看，这48小时里发生的很多事情，可能比我们最初设想的还要有意思。</p>\n  <p>&nbsp;</p>\n  <p><strong>先从认识一个人开始。</strong><br />&nbsp;</p>\n  <p>这次的选手证，我们做成了拼图的形状。四枚拼在一起，刚好组成一个完整的方形。<strong>希望每个人都能在这里，找到属于自己的那块拼图。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_1d5d8126eb274fb9bb80701cf8db8829@6438729_oswg187796oswg1080oswg1427_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">选手证</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_22487bf3f60f45eabb392f0f16ff0faf@6438729_oswg81316oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">工作人员证</p>\n  <p>除此之外，每位选手还收到了一只智能手环。我们根据报名资料，在后台匹配能力互补、可能适合组队的伙伴。如果两个人匹配成功，手环就会亮起来——<strong>这是来自苏客松的组队信号：嘿，也许你们可以认识一下。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_fcce88abf6b446c799e3c4b77384cf11@6438729_oswg116392oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_e933b9b6f8ee4787b03456057e1e75ea@6438729_oswg47853oswg1080oswg588_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p>手环负责牵线，剩下的就交给你们了。<br />&nbsp;</p>\n  <p><strong>这里不只有代码。</strong></p>\n  <p>&nbsp;</p>\n  <p>10月31日，🎃万圣夜撞上苏州大闸蟹的丰收季。<strong>于是，我们决定来一场特别的「蟹客松」。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_243ce1552dbd46a18818bec0ab880843@6438729_oswg140339oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_580a1d1a58ce4574b814c51b7a760683@6438729_oswg189712oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p>不给糖就捣蛋？<strong>在苏客松，先吃蟹再给糖。🍬</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_59f616b141cc4c9b94139017b781aa8c@6438729_oswg176157oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_7558b78bd0f84fc0b65eb8bf8f6f1ec0@6438729_oswg139977oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_e5fe9565be684c28a2ddcf5834c823bc@6438729_oswg128500oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_6b4efacfd0594c12a7fcc48d1de78946@6438729_oswg137742oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_cced23454bb54e1ca14f51c6281a5cda@6438729_oswg132316oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p>工作人员随机cos👻「床单幽灵」为大家助兴。⬇️</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_9edbe69e23c54a3dae32875646b09008@6438729_oswg188858oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p>熬夜开发，也不耽误「忙中作乐」，现场偶遇3D打印版奶龙嘉豪。⬇️</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_1799d2d603e14d3b8286d509af3eb5a4@6438729_oswg151993oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_9a69840e69994621bf8827ddebda405f@6438729_oswg91183oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p>48小时的最后一天，<strong>Demo游园会开场。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_73bd71a236cd49d3aad13a34ce10555e@6438729_oswg176073oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_d39cfd574ef046518efcdae98881f676@6438729_oswg156026oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>展位前此起彼伏的吆喝声，选手们拿着麦克风卖力拉人，</strong>甚至从大门口就开始「拦截」评委，热情地把人请到自己的摊位前。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_f1c42856110841df88e62d9a543b5333@6438729_oswg120229oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_4e413054876d476fad774a80098f2c02@6438729_oswg119236oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>从产品创意到现场演示，</strong>每支团队都努力让评委看见自己的作��，也让48小时的成果得到更多认可。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_1ab9853a113f41898c061e9a485c464b@6438729_oswg128378oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_9b11a9f7925d4197994088c41667698e@6438729_oswg107416oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>这些都是属于苏客松的现场。</strong></p>\n  <p>&nbsp;</p>\n  <p>还有更多有趣的现场，欢迎来云相册看高清的！🪐</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_8255a011ac9e452e81c11104a6b832ae@6438729_oswg166744oswg1080oswg1634_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松云相册</p>\n  <p><strong>✨ 恭喜每一支获奖团队！</strong></p>\n  <p>&nbsp;</p>\n  <p>经过评委老师们专业的评审，最终各获奖团队如下：<br />&nbsp;</p>\n  <p><strong>主赛道全场大奖：MR COACH</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_5d5dedda1b0f4383834f8906ffa953a6@6438729_oswg111102oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>主赛道二等奖：题目透镜、Reparo</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_d5569f279d9e4169a3fd6d457ffbeff2@6438729_oswg115238oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>主赛道三等奖：疯狂修仙中、Synkore醒课、REPPO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_5ad43fe656344540a94013270820024c@6438729_oswg107589oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>主赛道破圈潜力奖：知任、普塔PUTA</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_928f0d39c1ac4606893aed99dc5ebf01@6438729_oswg114927oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>PandaAI赛道·一等奖：熊猫小镇</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_6ce58611b515462ab58caa0c8ac06d0c@6438729_oswg110707oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>PandaAI赛道·二等奖：交易物种起源</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_4bfea8a78f3f423186308ad54a16d704@6438729_oswg81915oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>PandaAI赛道·三等奖：交易物种·时光机</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_a1f6a9ae640a4042b09dd35342ac6fe2@6438729_oswg78777oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>游园会显眼包奖：等你来桌面求助器、你的第一位AI采购下属、熊猫小镇</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_a7ab08b64bf24c34a8e8be3b2af1e126@6438729_oswg116486oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>新生代Builder奖：等你来桌面求助器</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_f7d5bb44433c40dd8e4e5bb484b2bd22@6438729_oswg78047oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p><strong>硬核极客奖：Agenote、脑洞最大奖：小银龄、未来独角兽奖：观音</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_72a03ed5c228430fbefa520470f74a1c@6438729_oswg114210oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p>恭喜所有获奖团队，<strong>也把掌声送给每一位坚持到最后的选手。</strong>48小时里，从一个想法出发，真正做出一个可以展示的作品，本身就是一件很了不起的事。<strong>无论是否获奖，每一份投入和创造都值得肯定。</strong></p>\n  <p>&nbsp;</p>\n  <p>活动结束了，故事还在继续。</p>\n  <p>&nbsp;</p>\n  <p>这几天，我们听到了很多来自选手、评委和合作伙伴的反馈。有人在这里找到了合拍的队友，有人发现了新的技术方向，也有人已经开始计划下一个项目。<br />&nbsp;</p>\n  <p>听到这些，筹备过程中的许多疲惫，好像都有了答案。</p>\n  <p>&nbsp;</p>\n  <p>当然，作为第一届苏客松，我们也知道还有不少需要改进的地方。无论是现场执行、流程衔接，还是评审机制和参与体验，都还有继续打磨的空间。<strong>感谢大家愿意提出建议和反馈，我们会认真收下，也希望下一次能做得更好。</strong><br />&nbsp;</p>\n  <p>活动顺利举行，离不开各位赞助方和合作方伙伴的支持。</p>\n  <p>&nbsp;</p>\n  <p><strong>感谢本次活动的合作伙伴：</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_613f41f285004159a1b52f91fd3a0465@6438729_oswg99599oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松合作伙伴</p>\n  <p>感谢乔、子璇、小尾巴、安琪、小杨、丛嘉、孙文彤、张思萌、Joey、小艺、Iris同学，<strong>作为志愿者深度支持了本次活动的落地。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_b3b808ac8ab04d0cb289716b793af1ac@6438729_oswg140336oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松工作人员</p>\n  <p><strong>最想感谢的，是每一位来到现场、熬夜创作、反复推翻又重来的年轻创造者们。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_fde3ae28984345339558ed6251289f79@6438729_oswg105008oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_a9efc2c341274372b49d593a93d80fe9@6438729_oswg103299oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_29c3c81df5b2489f857deb1b14b237ae@6438729_oswg97350oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_78a325be39184208ac4088756b7fccaa@6438729_oswg114095oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_d74585b7d60f4a82abb314ba0f87b944@6438729_oswg103011oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_4c77c1e3bb054e148e53ce8a16dbef58@6438729_oswg101818oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026苏客松现场</p>\n  <p>最后，也想对所有来到苏客松的朋友说：<br />&nbsp;</p>\n  <p><strong>48小时结束了，但我们希望这次相遇不是终点。</strong><br />&nbsp;</p>\n  <p>也许今天一起开发的队友，会成为下一次创业的伙伴；今天在展位前聊到的一个想法，未来会变成真正的产品；今天认识的某个人，也许会在很久之后，成为彼此故事里重要的一部分。</p>\n  <p>&nbsp;</p>\n  <p>我们期待这些连接继续发生，也期待下一次，能看到更多想法从这里出发。</p>\n  <p>&nbsp;</p>\n  <p><strong>Now, the dots connect.</strong></p>\n  <p>&nbsp;</p>\n  <p>明年苏客松，再见。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_2426bc98e243474684ba6602a98123db@6438729_oswg227795oswg750oswg750_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">序章青年社群</p>",
+      "category": "tech",
+      "published_at": "2026-11-03T03:08:35+00:00",
+      "fetched_at": "2026-11-03T05:03:58.563989+00:00",
+      "fingerprint": "7a8d699c628fd74e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "文商旅×具身智能：下一种消费体验，如何发生？丨WISE2026",
+      "url": "https://36kr.com/p/4053466880775048?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_5164ea2060d7479faef22d235e0a95d7@6301044_oswg264904oswg1001oswg751_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>具身智能让人期待的，是能够在</p>\n  <p>真实环境中感知、行动，完成具体任务。</p>\n  <p>筹备今年WISE的“具身智能&amp;文商旅”分会场时，我们先听了很多需求方的想法。需求方关心的事都很实在：有没有成熟对适配方案，到了真实场景下怎么用，成本能否承担，与现有业务和供应商体系是否合适？</p>\n  <p>另一边，具身智能企业也需要线下的真实场景，检验产品在日常运营中的表现。</p>\n  <p>所以今年WISE，我们让这两端在现场相遇了。</p>\n  <p>11月26日，“具身智能&amp;文商旅”分会场将在北京亦庄·国家信创园会议中心举行，主题为“文商旅的‘赛博场景’：具身智能激活新消费赛道”，由36氪、氪睿研究院、欧氪律共同主办，具身智能产业联盟联合主办。</p>\n  <p>这是36氪WISE2026商业之王大会的一个垂直讨论分会场，我们将议题落到住宅、商业地产、物业、商场和乐园等具体空间里。</p>\n  <p>目前，已确定到场企业包括：珠海万达商业管理集团、执惠集团、大悦城控股（大悦生活）、龙湖集团。</p>\n  <h2><strong>需求方先问的，是适配、用法和成本</strong></h2>\n  <p>前期沟通中，需求方对具身智能的一个直接诉求，是希望机器人能够承担部分常态化运营工作。但一项技术到了运营现场，还需要进一步说明，它怎样与原来的流程衔接，需要多少人员配合，使用效果又该怎样评估。<strong>场景适配与成本</strong>也是被反复提到的卡点。</p>\n  <p>围绕这些问题，“场景为王——具身智能落地文商旅的机遇与困境”圆桌里，将进一步讨论：从试点走向常态化运营，需要跨过哪些门槛？线下场景中的“数字员工＋实体机器人”，该怎样分工协作？</p>\n  <p>下午的分享，将进一步聊到，具身智能走进线下商业如何长期经营？</p>\n  <p>“长效运营——具身智能如何激活新消费赛道？”在讨论中算经营这笔账：具身智能带来的是降本，还是增收？机器人和数字员工能否成为新的“到店理由”？需求方愿意为什么样的服务买单，技术企业又靠什么持续盈利？</p>\n  <p>当天还将设置“规模出海——具身智能企业的下一条增长曲线”圆桌，把讨论延伸至企业的市场拓展。</p>\n  <h2><strong>台上聊问题，台下谈怎么合作</strong></h2>\n  <p>在台上的分享与讨论之外，台下外场的“具身智能&amp;文商旅”专场对接会，将为场景需求方、技术企业、投资机构与专业服务机构留出面对面交流的时间。</p>\n  <p>需求方可以把任务、预算和试点条件讲得更细，技术企业则回应已有方案能够做到什么、还需要怎样配合。双方如果能够明确一个值得继续沟通、评估或试点的方向，就是这次对接希望推动的进展。（如果你感兴趣可以联系文章末尾“对接合作”联系人）</p>\n  <p>推进过程中涉及的知识产权、数据安全、责任边界和项目合作，我们也邀请了相关专业服务机构参与交流。36氪与欧氪律将联合发布《2026 NewEco Elite具身智能&amp;人工智能产业之星律所/律师名录》，现场同时安排《2026中国具身智能法律服务白皮书》发布，为产业参与者了解相关专业经验提供参考。</p>\n  <h2><strong>机器人如何走进生活</strong></h2>\n  <p>我们逛的商场、居住的社区、游玩的乐园，都在这些讨论里。逛商场时，机器人能不能帮你找到想买的东西？去乐园时，一个机器人角色，能不能带你参与一段故事，而不只是合张影？如果你好奇机器人将以什么方式来到我们身边。也欢迎你来现场听一听！</p>\n  <p>最后，聊聊这张69元的听会票。</p>\n  <p>来分享的大多是集团或企业负责人，阵容顶配，干货拉满！所以性价比绝对超高。同时，我们希望这张票能把关心这些问题，愿意留出时间坐下来认真听一听的人聚在一起，让大家对这一天多一份期待，也多一份投入。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261103/v2_2e3a22acdccf481f93e248dde8fc86ae@6301044_oswg821oswg400oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码报名参会</p>\n  <p>时间：2026年11月26日</p>\n  <p>地点：国家信创园会议中心（通明湖信息城会议中心）</p>\n  <p>地址：北京经济技术开发区科谷一街10号院A区9号楼</p>\n  <p><strong>商务合作/对接合作：</strong>xingxue@36kr.com</p>\n  <p><strong>媒体合作：</strong>chenxinrui@36kr.com</p>\n  <p>特别提醒：“具身智能&amp;文商旅”是WISE2026商业之王分会场。同期11月26-28日三天WISE2026的主会、展区将同步进行，如果你感兴趣，点击文章末尾“阅读原文”，锁定为数不多的早鸟免费票！</p>",
+      "category": "tech",
+      "published_at": "2026-11-03T03:20:38+00:00",
+      "fetched_at": "2026-11-03T05:03:58.563975+00:00",
+      "fingerprint": "64e443082a2f298f"
+    },
+    {
+      "source": "少数派",
+      "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+      "url": "https://sspai.com/post/118122",
+      "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-02T07:00:00+00:00",
+      "fetched_at": "2026-11-03T05:03:56.111888+00:00",
+      "fingerprint": "a7295056f954f527"
+    },
+    {
+      "source": "少数派",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/118240",
+      "summary": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。<a href=\"https://sspai.com/post/118240\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-02T09:57:55+00:00",
+      "fetched_at": "2026-11-03T05:03:56.111883+00:00",
+      "fingerprint": "25230cb9056e36b2"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+      "url": "https://sspai.com/post/118232",
+      "summary": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。<a href=\"https://sspai.com/post/118232\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-03T00:18:34+00:00",
+      "fetched_at": "2026-11-03T05:03:56.111879+00:00",
+      "fingerprint": "2094ad593b61208e"
+    },
+    {
+      "source": "少数派",
+      "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+      "url": "https://sspai.com/post/118211",
+      "summary": "把喜欢的图烧进 CD 里，你也可以。<a href=\"https://sspai.com/post/118211\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-03T02:53:50+00:00",
+      "fetched_at": "2026-11-03T05:03:56.111870+00:00",
+      "fingerprint": "7788a8d5ee287d8a"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6593 CNY ↓-0.30%",
+      "url": "https://www.frankfurter.app/2026-11-02?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-11-02</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6593 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0141 (-0.30%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-11-03T05:03:54.699941+00:00",
+      "fingerprint": "70c0d20181007bd3"
+    },
     {
       "source": "BBC World News",
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -1541,336 +1821,6 @@
       "published_at": null,
       "fetched_at": "2026-10-28T03:43:51.981635+00:00",
       "fingerprint": "23df6a84d9913b41"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-      "summary": "<p>Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipated</p><p>The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year.</p><p>Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development assistance at the end of 2027.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-26T06:59:36+00:00",
-      "fetched_at": "2026-10-27T03:27:59.410724+00:00",
-      "fingerprint": "ed1d84d05e8c4acc"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-      "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-      "summary": "<p>Rapid Support Forces strike five power stations in three states controlled by Sudanese army</p><p>Sudan’s paramilitary Rapid Support Forces have launched a coordinated drone attack against five power stations, causing mass power outages across the country’s east, a government official said.</p><p>The drones hit two power stations each in the states of Al-Jazira and Gedaref and one in White Nile state, “resulting in power outages across large parts of these three states”, the official said on condition of anonymity.</p> <a href=\"https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-26T09:59:27+00:00",
-      "fetched_at": "2026-10-27T03:27:59.410718+00:00",
-      "fingerprint": "2f3de9f7785b0deb"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-      "summary": "<p><strong>Exclusive:</strong> Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy?</p><p>The water was rising rapidly. It had already reached Cayni Ali’s waist. Her home, five metres from the flooded River Juba in southern Somalia, never stood a chance. There was nowhere to go. Ali’s city of Jilib was under attack. Repeated airstrikes, said the mother of six, were pinning its population beside the rising river.</p><p>“The drones come all the time,” said the 27-year-old. “We hear them constantly. They kill animals, civilians. The town is big but destruction is everywhere.”</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-26T11:00:40+00:00",
-      "fetched_at": "2026-10-27T03:27:59.410710+00:00",
-      "fingerprint": "eb7f0340af3d096c"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "summary": "<p>Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze</p><p>Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a <a href=\"https://www.theguardian.com/global-development/2026/mar/25/heroism-horror-and-the-pits-of-hell-inside-the-last-days-of-el-fasher\">mass atrocity</a> that saw tens of thousands of civilians killed over several days.</p><p>A year after the <a href=\"https://www.theguardian.com/global-development/2025/nov/02/he-told-the-world-what-was-happening-in-el-fasher-then-they-sought-him-out-how-sudan-lost-a-true-hero-of-the-war\">fall of El Fasher</a>, the British government said it had sanctioned military leaders from both sides in the country’s ongoing conflict whom it suspected of sexual violence during the siege of the city.</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-10-26T15:07:23+00:00",
-      "fetched_at": "2026-10-27T03:27:59.410698+00:00",
-      "fingerprint": "c889760de5d37b05"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-      "category": "politics",
-      "published_at": "2026-10-27T02:40:17+00:00",
-      "fetched_at": "2026-10-27T03:27:59.242044+00:00",
-      "fingerprint": "87222fd3ea56f85a"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
-      "category": "politics",
-      "published_at": "2026-10-27T03:10:55+00:00",
-      "fetched_at": "2026-10-27T03:27:59.242038+00:00",
-      "fingerprint": "ce05360d5d90600b"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "category": "politics",
-      "published_at": "2026-10-27T02:01:27+00:00",
-      "fetched_at": "2026-10-27T03:27:59.242031+00:00",
-      "fingerprint": "7f2710e2a2a9c413"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
-      "category": "politics",
-      "published_at": "2026-10-26T21:02:47+00:00",
-      "fetched_at": "2026-10-27T03:27:59.242021+00:00",
-      "fingerprint": "d40554decfa031b4"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「鐵蛋白臉」真的存在嗎？從外表能否判斷缺鐵？",
-      "url": "https://www.bbc.com/zhongwen/articles/cx4g103g9jnvo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一些聲稱能發現缺鐵症狀的影片在網路上吸引了數百萬的點擊量。",
-      "category": "politics",
-      "published_at": "2026-10-27T00:19:12+00:00",
-      "fetched_at": "2026-10-27T03:27:59.106961+00:00",
-      "fingerprint": "a26f1fe8ad02f943"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "澳洲囚犯爭取吃Vegemite醬敗訴，為何獄中禁止「國民食物」？",
-      "url": "https://www.bbc.com/zhongwen/articles/cx98zq3gze22o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "因謀殺一名地產發展商而入獄的安德烈·麥克肯尼（Andre McKechnie）認為，享受澳洲文化是他的權利。",
-      "category": "politics",
-      "published_at": "2026-10-27T00:18:40+00:00",
-      "fetched_at": "2026-10-27T03:27:59.106955+00:00",
-      "fingerprint": "0c16abc568ac7b22"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
-      "url": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "福田康夫出任日本首相期間才不過一年，當時曾被國內輿論批評為「不負責任」；北京讚揚其對中日關係「作出積極貢獻」。",
-      "category": "politics",
-      "published_at": "2026-10-26T15:03:14+00:00",
-      "fetched_at": "2026-10-27T03:27:59.106949+00:00",
-      "fingerprint": "e5740235d6b262db"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "蔡康永稱「沒支持過台獨」後出席蔣萬安造勢 兩岸輿論未息",
-      "url": "https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "分析人士稱，「這根本不是一封求饒的『道歉信』，而是一封向特定市場與群眾溫柔清算的『道別信』」。",
-      "category": "politics",
-      "published_at": "2026-10-26T09:17:41+00:00",
-      "fetched_at": "2026-10-27T03:27:59.106942+00:00",
-      "fingerprint": "a213bce599f56b34"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
-      "url": "https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "特朗普承諾封鎖邊境及大規模遣返移民後重返白宮。這兩項標誌性政策如今取得了甚麼成效，又帶來哪些影響？",
-      "category": "politics",
-      "published_at": "2026-10-27T00:17:41+00:00",
-      "fetched_at": "2026-10-27T03:27:59.106931+00:00",
-      "fingerprint": "b152aabcc0519e9a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-27T03:27:58.414911+00:00",
-      "fingerprint": "05b8b1859a3d393a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-      "url": "https://github.com/otya128/winevdm",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-27T03:27:58.414788+00:00",
-      "fingerprint": "eb5128d7d4a24f90"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-27T03:27:58.414647+00:00",
-      "fingerprint": "da8785cc5779f5c9"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-27T03:27:58.414501+00:00",
-      "fingerprint": "2f04de563efd474f"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-10-27T03:27:58.414305+00:00",
-      "fingerprint": "fe7d7660eaaca489"
-    },
-    {
-      "source": "The Verge",
-      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-      "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The company's first [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-26T18:51:06+00:00",
-      "fetched_at": "2026-10-27T03:27:58.207954+00:00",
-      "fingerprint": "09c34956440a061d"
-    },
-    {
-      "source": "The Verge",
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-26T21:45:31+00:00",
-      "fetched_at": "2026-10-27T03:27:58.207948+00:00",
-      "fingerprint": "092e8ceea2bd79fc"
-    },
-    {
-      "source": "The Verge",
-      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-      "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-      "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&#38;H Photo) and the 512GB version $99 (Amazon, B&#38;H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-26T21:56:36+00:00",
-      "fetched_at": "2026-10-27T03:27:58.207941+00:00",
-      "fingerprint": "39130e60f0587b76"
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-26T23:34:58+00:00",
-      "fetched_at": "2026-10-27T03:27:58.207929+00:00",
-      "fingerprint": "b555ce2afa55383d"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "有个业务问题，想找技术伙伴聊聊？WISE2026「世界咖啡·产业对接」征集需求中",
-      "url": "https://36kr.com/p/4042414899270790?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261026/v2_7c715ff2e68a492cbca3864a8a74be81@6301044_oswg207875oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>如果你有一个具体业务问题，想看看AI或具身智能能不能帮上忙，可以把问题带来，和技术团队坐下来聊聊。</p>\n  <h2><strong>有些技术问题，找懂行的人一起拆开看看</strong></h2>\n  <p>你大概有过这种时候。</p>\n  <p>公司里总有那么一个环节，明显不顺。可能是客服，工单越堆越多，人手排不开；可能是质检，常年靠人眼盯着，慢，还容易漏；可能是仓库，搬运全靠排班，旺季一忙就打架；也可能是门店，导览、服务这类活儿，人手总是紧巴巴的。</p>\n  <p>你清楚哪里有问题。你也刷到过不少AI和机器人的消息，看过不少大佬的直播，收藏夹里是盘包浆的“某某行业落地案例”。但真到要往前走一步的时候，心头卡着的其实一直是三个很基础的问题：</p>\n  <p>我这情况，到底适不适合用这类技术？得先准备什么？靠谱的人，上哪儿找去？</p>\n  <p>你可能看过不少方案，但最想确认的还是：它能不能用在我们这个具体环节？</p>\n  <p>所以今年，我们在WISE里开了家“咖啡厅”，专门用来聊这个。</p>\n  <h2><strong>我们在WISE2026，留了几张桌子</strong></h2>\n  <p>正式官宣一下这件事。</p>\n  <p>11月26–28日，WISE2026商业之王大会主议程之外，我们再次把“世界咖啡·产业对接”搭了起来——围绕具体业务需求，安排和技术方的定向交流——同时，它与大会同期成立的具身智能产业联盟相衔接，重点方向聚焦AI应用和具身智能。（联盟成员详见文章结尾）</p>\n  <p>在这里，我们只做一件事：把带着问题的企业，和可能解决这个问题的企业，安排在同一张桌子上，聊一个具体的问题。</p>\n  <p>逻辑也很简单：场景需求方当“桌长”，固定坐在一张桌子前，把真实痛点摆上桌；技术方带着方案上门，按排好的日程挨桌轮转，一轮一轮聊。</p>\n  <p>这套形式也不是36氪第一次跑。今年的北京亦庄AI+产业对接会、上海出海大会产业对接会，都是从“收集真问题”开始的。今年两轮世界咖啡产业对接会，<strong>收获高意向企业190余家，正式申报企业153家，累计超过100轮对接</strong>，每一次都提前两个月开始筹备，我们<strong>不做随机匹配</strong>，每一轮都提前交叉验证。（下图是36氪制作的需求匹配意向图）</p>\n  <p><strong>这一次规模更大、覆盖更广，但起点没变：从你手上的问题开始。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261026/v2_ae65a7f8f6534b5081bc7a76d6f9c5b3@6301044_oswg67614oswg496oswg494_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪制作的需求匹配意向图</p>\n  <h2><strong>一杯咖啡的时间，讲究的是先对好眼神再上桌</strong></h2>\n  <p>你可能会问：这跟我去展会逛一圈，有什么不一样？</p>\n  <p>逛展会多半是这样的：你自己找人、自己判断、自己琢磨对方的东西跟你的业务对不对得上。</p>\n  <p>一场展会里，大概要把七成的力气花在“找到谁”上，剩下三成才是“聊事儿”。而真正难的是后者。</p>\n  <p>所以，WISE2026世界咖啡不是想找个时间，在线下交换名片，而是<strong>根据你的需求匹配相应的技术解决方</strong>，在现场直接高效沟通下一步应该怎么走！</p>\n  <p>没错，现场20分钟的对接，我们从现在就开始准备。</p>\n  <p><strong>会前就有准备。</strong>你先把业务问题提交上来——现在怎么做的、卡在哪儿、希望变成什么样。我们做审核和必要的核实，整理成一份说得清楚的摘要。坐到你对面的人，来之前已经看过你的情况，也想过自己能不能接。这样你们见面那二十几分钟，不用花在自我介绍上，可以直接进入“你这个条件下行不行”。</p>\n  <p><strong>对象是约好的，不是开盲盒。</strong>双向确认意愿之后，才会排进日程：你看对方的资料，觉得“愿意聊”；对方看你的问题，觉得“能接”。两头都点头，这场才算排上。到了现场就是预约制、一对一、按桌按点坐下。</p>\n  <p><strong>聊完，不代表结束。</strong>现场我们搭了一面“需求墙”，你的需求、你想解决的问题都会展示在上面，更多带着解决方案的技术方也看得见。当时没轮上聊的、没聊透的，也不急——会后我们回收反馈、接着跟进，把没接上的头给你续上。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261026/v2_578f9c1a271c421b9c4f41aced7a43c9@6301044_oswg93774oswg1080oswg630_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>简单说，我们把“找人”这段路提前走完了，好让现场那点时间，都用来聊事儿。</p>\n  <h2><strong>在这儿能聊什么？举个例子</strong></h2>\n  <p>今年的重点方向聚焦两个——<strong>AI应用和具身智能。</strong></p>\n  <p>之所以是这两个方向，跟眼下的时间点有关。今年这两件事都在从演示走向产线：机器人不再只在展台上做动作，而是在工厂里真的开始干活了。这个阶段的经验是最值钱的，因为第一批跑通的和第一批踩坑的，几乎同时在出现——谁在哪些环节上栽过、哪些条件看着不起眼其实很麻烦，这些话在通稿里读不到，只在一对一的桌上讲得出来。</p>\n  <p>简单举一些场景。</p>\n  <p>偏AI应用的，比如客服和工单的响应、内部知识和文档的检索、质量数据的分析和异常判断，还有流程里那些反复出现的人工环节。</p>\n  <p>偏具身智能的，比如工厂和仓库里的搬运、作业辅助，商业空间里的导览、配送、巡检。等等。</p>\n  <p>这些只是冰山一角。只要你手上有个问题，环境说得清、任务说得清、限制条件也说得出，就可以提交报名，来现场找到机会。</p>\n  <h2><strong>没想清楚用什么技术？那我们更呼唤你</strong></h2>\n  <p>之前我们对接场景方时，被问到最多的顾虑是这个：“我这问题还没想清楚能不能用AI，交上去会不会太外行？”</p>\n  <p>答案是，完全不会。</p>\n  <p>在这里，你只需要负责把业务问题讲清楚——这个环节现在是怎么运转的，卡在哪一步，你们想达到的效果是什么？而关于技术那部分，可以在交流中和技术方一起探讨，现成的方案是否适配、还需要哪些条件……</p>\n  <p>当然了，为了交流更高效，我们建议由熟悉这块业务、能讲清具体情况，并能参与后续讨论或协调的同事，来到我们现场。这样聊出来的结论，才更容易带回团队继续推进。</p>\n  <h2><strong>喝完咖啡能带走什么，我们把话说在前面</strong></h2>\n  <p>如果现场聊得顺，你能带走的东西有希望很具体：</p>\n  <p>1、一个更清楚的判断，知道这个问题到底要朝什么方向解决；</p>\n  <p>2、一份落地要具备的条件清单，数据、环境、流程、人员、预算大概要准备什么；</p>\n  <p>3、一两个可能适配的技术伙伴，以及后续沟通的基础；</p>\n  <p>4、还有一个明确的下一步，是继续验证、去做考察，还是先放一放。</p>\n  <p>当然，活动提供的是交流与连接的机会，不保证采购、试点或成交结果。具体的技术可行性、产品效果、合作条件，由参与企业自己沟通判断。</p>\n  <p>36氪负责<strong>组织、审核、匹配和协调</strong>。案例如用于公开传播，需事先经企业确认，不保证每家企业获得报道或曝光。<strong>双方免费报名</strong>，但报名或审核通过不等于获得预约席位。</p>\n  <p>还有一种情况是现场没聊透。放心！这趟也不会白来——双方留下联系方式，继续约时间。一杯咖啡的时间，能把边界聊清楚，这件事和当场聊出合作意向一样有价值。</p>\n  <h2><strong>都说到这儿了，先报名吧！</strong></h2>\n  <p>如果你读到这里，脑子里已经浮现出某一个具体的环节、某一类反复出现的事，那就是可以写下来的东西。不用包装，不用拔高。就用你们组里平时说话的口气写：现在是怎么干的，毛病出在哪儿，你想让它变成什么样。</p>\n  <p>写下来的那一刻，这件事就已经往前走了半步。剩下的半步，交给我们，也交给那张桌子对面的伙伴。</p>\n  <p>现在来报名吧，识别文末的二维码就行，接下来你只需要：</p>\n  <p><strong>提交信息。</strong>写下你的业务问题——现状、困难、希望改善的结果，顺便说一下哪些时间确定来不了。</p>\n  <p>接下来的工作我们来做：</p>\n  <p><strong>36氪审核。</strong>报名截止后集中审核，场景方看业务需求是不是具体、真实，技术方看方案成熟度和可落地的案例，同时兼顾整体的数量平衡。</p>\n  <p><strong>36氪进行双向匹配。</strong>通过审核的场景方进入需求清单，技术方进入匹配资源池，双方可以互相查看信息、标记意向对接对象。</p>\n  <p><strong>36氪与你一起确认日程。</strong>我们结合两边的意向，排出一张现场对接的时间表，同步参会指南。两个环节都确认了，这场参与安排才算落实。</p>\n  <p><strong>最后，现场交流加会后跟进。</strong>按预约签到、到桌交流、归纳下一步，会后回收反馈，继续跟进。</p>\n  <p>桌子正在摆了，咖啡也在萃取。你的问题，值得在这里被正经聊一次。</p>\n  <p>WISE2026商业大会·世界咖啡，等你的问题，也等你的名字。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261026/v2_72c3e04f459240bf81cff89667bba80a@6301044_oswg109045oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>（本次招募设置两条独立报名通道，请选择对应的二维码报名，错误通道提交的报名信息可能会影响后续审核）</p>\n  <p>特别说明：报名或审核通过不等于获得预约席位；活动提供交流与连接机会，不保证采购、试点或成交结果。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261026/v2_071d9d1d50ee4c3e94a81c01d20af8fd@6301044_oswg378079oswg1080oswg2830_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">本次对接会与同期成立的“具身智能产业联盟”相衔接���图中为首批加入联盟的企业</p>",
-      "category": "tech",
-      "published_at": "2026-10-26T07:59:36+00:00",
-      "fetched_at": "2026-10-27T03:27:58.133405+00:00",
-      "fingerprint": "4eaaab144cbb99a8"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "这场年轻人的咖啡局，聊聊「咖啡+AI」可以长出什么？",
-      "url": "https://36kr.com/p/4042455475475586?f=rss",
-      "summary": "<p>城市节奏越快，咖啡越像年轻人的“日常开关”。白天靠咖啡续命，周末咖啡店是见面、拍照、遛猫、带娃、逛市集的空间。</p>\n  <p>“日咖夜酒”“奶茶咖啡化”之外，咖啡消费还在长出更多新组合：咖啡+烘焙、咖啡+宠物、咖啡+博物馆、咖啡+市集、咖啡+文创。有人用9.9元完成日常摄入，也有人愿意为一杯手冲排半小时队。</p>\n  <p>咖啡越来越日常，但年轻人对咖啡的期待并不日常。精致的线上内容决定他们走进哪家店，线下场景的消费体验决定他们愿意待多久、下次还来不来。</p>\n  <p>不同的咖啡线下场景也在寻找自己的生存方式：社区咖啡嵌入生活半径，靠熟客和日常习惯形成复访；主题猫咖把宠物社交和情绪价值装进空间；博物馆、科技馆里的“科普咖啡厅”，成为科普体验和博物馆IP文创的载体；咖啡节则把咖啡、艺术、市集和青年文化聚在一起，短时间内制造城市话题和目的性到访。</p>\n  <p>以一杯咖啡为起点，走过六年时光，<strong>由浙江云创蔚来集团主办的宁波咖啡生活周IP精彩延续，上半年的活动已落地集盒广场，下半年的特别加场——“风从西南来”系列活动将于10月30日-11月1日在云创浙理青年国度举办。</strong>活动集合市集、青年共创与非遗体验，把咖啡、美食、艺术揉进城市日常。无数主理人与品牌在此相逢，把咖啡的烟火播种在甬城街巷，从本土出发向外生长，成为长三角土地上独一份的咖啡文旅印记。</p>\n  <p>从咖啡豆到一杯咖啡，从一次线上分享到线下打卡，一杯咖啡的消费行为背后，是一整条产业链的迭代进化，也是线下实体场景与线上数字营销的互动创新。</p>\n  <p>咖啡消费正在呈现两条并行的趋势：一边是平价化、日常化，咖啡成为高频刚需；一边是体验化、内容化，主理人店、社区店、宠物友好店、博物馆咖啡、咖啡节市集不断制造“非喝不可”的理由。对街区来说，真正需要的也不只是多一家咖啡店，而是能带来新体验、新客流、可传播、可复访的消费新业态。</p>\n  <p>与此同时，AI正在进入咖啡产业链。智能点单、无人咖啡零售、AI咖啡师、咖啡机器人运维、AI烘焙……被重构的不只是出品效率，还有岗位能力、培训体系和青年就业方向。AI不是只来抢咖啡师的拉花缸，它催生新工种：谁来运维咖啡机器人？谁来设计AI烘焙曲线？谁来培训既懂咖啡又懂设备的新人？这些问题，已经从概念走进门店和课堂。</p>\n  <p>10月31日（周六）下午，宁波首南街道云创浙理青年国度将举办“AiPartner带着Ai上前线——宁波咖啡生活周场景创新交流会”。</p>\n  <p>活动由鄞州区发展和改革局指导，首南街道办事处、36氪、云创蔚来集团联合主办，宁波诺丁汉大学李达三孵化园协办。活动定位为咖啡节中的场景创新产业交流环节，<strong>围绕消费和人才培训两大方向，挖掘场景创新机会，推动新技术、新产品在云创浙理青年国度及首南街道落地</strong>。</p>\n  <p>消费升级与青年就业，是这场场景挖掘的两个出发点。现场采用“双圆桌”形式，两场圆桌，一场聊“人”，一场聊“场”：</p>\n  <p>圆桌一聚焦<strong>「AI+咖啡全产业链新职业人才培养」——</strong></p>\n  <ul>\n   <li>AI进入咖啡产业链后，整条链上哪些环节被重构、哪些能力出现缺口？</li>\n   <li>AI与咖啡结合后，传统咖啡师的角色会怎么变？</li>\n   <li>AI咖啡师、咖啡机器人运维、AI烘焙等新工种如何定义能力模型？</li>\n  </ul>\n  <p>从课堂到咖啡机器人实训，我们邀请到美刻AI项目发起人姚锦程、宁波勇诚资产管理有限公司投资总监梁相炳、陆汇集团CIO常潞，希望把“AI+咖啡”的人才培养从概念推到可操作的课程和岗位。</p>\n  <p>云创4万方商业街、青年夜市和创业集市正在寻找智能咖啡零售、博物馆IP联名、人宠友��等数字消费新业态，以“AI咖啡师”体验专区为切口，形成“AI体验—消费转化—商户引流”的链路，让本地主理人与技术方现场对接。</p>\n  <p>圆桌二聚焦<strong>「青年数字消费场景与街区活力提升」，</strong>我们将与亦瀚文化合伙人吕佳凯、众乐乐咖啡艺术节创始人陈智、Daily Coffee主理人许家木、LeBRESSO主理人袁剑峰一同探讨——</p>\n  <ul>\n   <li>AI咖啡和咖啡新业态在哪些真实场景里落地？</li>\n   <li>在咖啡之外，数字平台的内容对咖啡店客流有什么影响？</li>\n   <li>从“打卡”到“常客”，主理人靠什么形成品牌持续消费人气？</li>\n   <li>一个街区场景里，不同的“内容物种”如何共同打造有生命力的青年消费生态？</li>\n  </ul>\n  <p>我们希望这场交流活动更像一个“场景实验室”，这个秋天的周末午后，不谈宏大叙事，放下FOMO情绪，一边喝咖啡、听主理人聊街区，一边看机器人做咖啡，让设备方、培训方、街区运营方碰一碰，看看哪些新业态能真正落下来。</p>\n  <p>让一杯咖啡，成为连接青年、产业与街区的“轻切口”，就够了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261026/v2_88d48ac079f648129e63cd98c5dad16b@6340959_oswg4304375oswg4500oswg7200_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-10-26T09:43:46+00:00",
-      "fetched_at": "2026-10-27T03:27:58.133399+00:00",
-      "fingerprint": "b5f7c429deddf7e9"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨Anthropic正式提交IPO申请；寿司郎传送带被曝窜出活老鼠；苹果客服称很多客户取消iPhone Duo订单",
-      "url": "https://36kr.com/p/4043364384707456?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>Kimi致歉：将为会员提供重置机会</li>\n   <li>马斯克宣布X长按点赞可向对方转账1美元</li>\n   <li>微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算</li>\n   <li>中国石油午后涨近4%，创2008年5月以来新高</li>\n   <li>科学家展示全球首款织进衣服的触摸屏</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>Anthropic正式提交IPO申请</strong></p>\n  <p>10月26日，Anthropic正式提交纳斯达克IPO申请，股票代码定为“ANT”。Anthropic上半年营收163亿美元，去年同期为12亿美元；上半年净亏损807亿美元。</p>\n  <p>Anthropic在招股书中披露，公司与多家科技企业签订大额算力及基础设施协议，相关支出承诺延伸至2036年。其中，公司承诺2026年4月至2033年7月向谷歌至少支出约1145亿美元；2026年5月至2036年4月向亚马逊至少支出1100亿美元；2026年11月至2033年5月向微软至少支出449亿美元，相关承诺原则上不因实际使用量减少而取消，特定违约等情形除外。（界面新闻）</p>\n  <p><strong>寿司郎传送带被曝窜出活老鼠</strong></p>\n  <p>10月25日，有网友爆料称，其10月24日在寿司郎一门店就餐时，发现传送带上出现一只老鼠，但因老鼠移动速度较快，未能拍摄到画面。该帖子爆料人称，发现老鼠后，其与经理进行了沟通，经理仅协商免单，并未提出其他赔偿方案；其索要消费凭据及就餐监控的请求遭经理拒绝。经理称，乘客日后若发现身体不适，可前往医院检查，并通过第三方机构鉴定后处理。</p>\n  <p>10月25日，记者拨打涉事门店电话，工作人员表示，消杀公司已于10月24日对门店进行全面核查，未发现老鼠踪迹。目前已对全门店进行了消杀，并对当天全部食材进行处理。至于老鼠的来源，工作人员称尚不清楚。关于赔偿问题，工作人员表示，可添加该店微信，提供当日就餐小票后予以协商。记者查询美团、大众点评，该门店已显示暂停营业，但记者10月25日从该涉事门店工作人员处获悉，其24日闭店，现已正常营业。（海报新闻）</p>\n  <p><strong>苹果客服称很多客户取消iPhone Duo订单</strong></p>\n  <p>10月25日，苹果首款折叠屏手机iPhone Duo正式发售仅两天，部分渠道的价格已经跌破官方定价。虽然苹果官网部分订单的预计交付时间仍排到2027年1月，但线下经销商已出现低于原价的现货报价。还有消费者通过地方补贴，以15499元买到了原价15999元的256GB版本。</p>\n  <p>针对“部分渠道iPhoneDuo破发”的情况，26日，苹果官方客服人员回应称：“第三方经销商退换货政策不一定和苹果官网一致，苹果官方渠道是支持14天无理由退换货。第三方渠道可能有平台补贴或者店铺优惠，苹果官网价格更稳定。”“有的第三方货源足但是买的人少也可能导致降价。”客服称。</p>\n  <p>上述客服还补充道，“有的客户订单显示等待时间比较长，但后续收货时间可能会提前，比如增加产能或者前面排队的客户取消订单，目前很多客户取消了订单。”（中新经纬）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Kimi致歉：将为会员提供重置机会</strong></p>\n  <p>10月26日凌晨，Kimi智能助手发文：对于近期Kimi会员使用K3.1 Pro时出现的限流及不必要的额度消耗，向大家致歉。今天，公司会为所有档位的订阅会员进行一次重置：所有有效期内的会员都将获得月度总额的25%作为补偿，相当于一周的用量。如果当前用量不足月度总额的25%，将重置为0。用量进度条会在今天结束前显示调整结果。同时，已调整配置，并正在减少不必要的子Agent调用和输出长度，让同样的额度完成更多实际任务。(上海证券报)&nbsp;</p>\n  <p><strong>灵快科技发布Botnow 3.0</strong></p>\n  <p>36氪获悉，灵快科技发布智能体平台Botnow 3.0。核心能力包括：Agent可自主拆解步骤并执行任务，支持人工在关键节点介入审批，并通过Skill技能包、MCP连接器接入企业原有系统与流程等。</p>\n  <p><strong>Acrab与端脑科技达成战略合作</strong></p>\n  <p>36氪获悉，端脑科技与Acrab近日达成战略合作。端脑科技输出AI NPC一体机、智能体软件与终端落地经验，Acrab提供AI芯片、操作系统、工具链等端侧计算底座，共同推进AI NPC在个人终端场景落地。本次合作将聚焦平台适配、硬件集成、多模态模型与Agent运行优化，打通从底层芯片、模型智能体到终端应用的完整链路，构建端侧AI能力闭环。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>马斯克宣布X长按点赞可向对方转账1美元</strong></p>\n  <p>25日，马斯克在X平台发文宣布：将为“长按点赞”操作加入转账1美元（约合 6.7 元人民币）功能，有关交易将会经由X Money完成。不过，马斯克暂未透露这一功能的上线日期。</p>\n  <p>据悉，X Money于7月下旬正式在美国上线，面向 Premium 和 Premium+ 订阅用户全量开放。X Money将账户存款、点对点转账以及Visa借记卡功能整合在X应用内。用户可在X内即时向他人汇款、收款或请求收款，无手续费和限额。随后在今年9月，X平台宣布，美国地区创作者从“原创内容奖励计划”和创作者订阅获得的收益，今后统一通过其支付服务X Money发放。（IT之家）</p>\n  <p><strong>宇树科技7天大涨超60%</strong></p>\n  <p>26日，A股人形机器人龙头宇树科技开盘后快速拉升，盘中涨幅一度突破8%；截至收盘，该股涨7.69%，报672元/股，总市值重回2700亿元以上。值得一提的是，自10月16日起的7个交易日，该股累计涨幅已超60%。（财联社）&nbsp;</p>\n  <p><strong>微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算</strong></p>\n  <p>全球最大软件公司微软当地时间10月26日表示，将向约6万名员工提供自愿离职补偿方案，以削减成本，并为迎接AI时代调整人员结构。符合条件的员工超过其员工总数的四分之一。微软发言人称，美国、加拿大、印度和英国的部分副总裁及以下级别员工具备申请资格，接受方案者将获得与标准遣散方案相近的待遇。不过，并非所有业务线都在适用之列。据知情人士透露，Xbox、Windows、Copilot及财务等部门将全面参与此次计划，而从事数据中心、销售、市场营销、网络安全和量子计算等工作的部分员工则不具备资格。(财联社)</p>\n  <p><strong>多所高校将通过数字人民币发工资</strong></p>\n  <p>近日，多所大学发布相关通知，学校在职在编人员工资将通过数字人民币钱包发放。扬州大学、南通大学和江苏师范大学均发布了相关通知，通知教职工完成数币钱包的开立与升级。（南方日报）</p>\n  <p><strong>中国石油午后涨近4%，创2008年5月以来新高</strong></p>\n  <p>油气板块日内震荡回升，中国石油涨近4%，创2008年5月以来新高，A+H股总市值站上2.3万亿，中海油服、海油工程、海油发展、中国海油均涨超3%。消息面上，欧洲天然气价格升至2022年以来的最高水平。此前挪威天然气运输系统运营商Gassco宣布，Troll气田在10月25日至26日期间发生非计划停运，影响规模为610万立方米/日。（财联社）</p>\n  <p><strong>国内首部AI电影4天票房仅119万元，平均1场仅两个人看</strong></p>\n  <p>10月23日，《三星堆：未来往事》正式登陆全国院线。猫眼专业版显示，截至10月26日午间，这部100分钟的电影累计综合票房119.2万元，26日排片8469场，上座率0.1%，场均人次0.1人。而根据猫眼专业版，《三星堆：未来往事》24日、25日场均日次均为2人。而其制作方博纳影业（SZ001330）此前曾在9月28日、10月9日、10月12日三个交易日涨停，不过，10月26日博纳影业盘中跌停，截至当日收盘，跌幅为10.06%，每股报5.54元，总市值76.14亿元。（每日经济新闻）</p>\n  <p><strong>SpaceX拟与阿波罗全球管理公司达成约400亿美元GPU设备融资租赁协议</strong></p>\n  <p>SpaceX披露，公司于当地时间10月24日与阿波罗全球管理公司旗下实体签署具有约束力的承诺函，计划通过主融资租赁协议租赁GPU计算设备及相关设施，用于公司选定的数据中心。相关协议预计于2026年底前完成签署，设备预计自2027年上半年起分批交付。根据披露，各批次租赁期限约为5年至5.25年，租金按季度预付。SpaceX预计，各租赁安排期限内的本金支付总额约为400亿美元。(界面新闻)</p>\n  <p><strong>快手旗下可灵AI增资至约8744.7万</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，可灵AI关联公司北京可灵智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、杭州阿里云飞天信息技术有限公司、北京百度网讯科技有限公司、国家人工智能产业投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约7192.4万元人民币增至约8744.7万元人民币，增幅约22%。北京可灵智能科技有限公司成立于2020年8月，法定代表人为盖坤，经营范围包括计算机系统服务、软件开发、货物进出口等，现由福创科技有限公司、盖坤及上述新增股东等共同持股。</p>\n  <p><strong>AI行情降温，海力士相关杠杆基金将在美国退市</strong></p>\n  <p>两只挂钩SK海力士的杠杆交易所交易基金，在美上市仅数月后就将进行清算退市，当前市场对AI交易的投资热情正逐步降温。这两只由Tradr ETFs发行的多空产品，分别为交易者提供该韩国芯片制造商美国存托凭证（ADR）两倍的日涨跌幅杠杆、以及两倍的反向日收益。该ETF发行商在声明中表示，两只基金都将于11月12日前后完成清算。（财联社）</p>\n  <p><strong>三星计划借助AI缩短芯片材料研发周期</strong></p>\n  <p>三星电子表示，计划利用人工智能技术，将新型半导体材料的研发耗时缩短3年。该公司在韩国产业协会论坛举办的一场研讨会上公布了这一目标，会议围绕人工智能在工业研发（R&amp;D）中的应用展开讨论。三星高级技术研究院负责人Choi Young-sang在论坛上称：“我们计划依托AI，把新型半导体材料的研发周期从5年压缩至2年，同时把筛选出的有潜力候选材料数量提升5倍以上。”（新浪财经）</p>\n  <p><strong>三星和SK海力士将于明年Q2量产并交付HBM4供应给英伟达</strong></p>\n  <p>据媒体报道，三星电子和SK海力士已将供应英伟达的8层HBM4的量产和出货时间定在明年第二季度左右。一位知情人士表示：“据我了解，英伟达将根据基于Rubin Ultra的NVL机架规模，同时配备8层HBM4。虽然12层HBM4仍将是今年的主要重点，但从明年年中开始，8层HBM4的比例将显著增加。”（财联社）</p>\n  <p><strong>Meta公司将通过普通股和优先股发行筹集约350亿美元资金</strong></p>\n  <p>META将同时通过远期销售协议发行约225亿美元的A类普通股并发行约125亿美元的存托股份。META将发行最多2.5亿份A系列存托股份，英伟达、AMD、博通将购买最多50亿美元的A类股票。（财联社）</p>\n  <p><strong>未来车辆将被强制安装C-V2X？知情人士称“相关部门已启动强标制定工作”</strong></p>\n  <p>“相关部门已经在推动车辆安装C-V2X（蜂窝车联网）的强标制定工作。相关工作组已经成立，有几十家单位已经参与进来了。”日前，一位不愿透露姓名的C-V2X领域从业者透露。据了解，营运车辆已被率先要求安装C-V2X。中信科智联科技有限公司副总经理范炬认为，在相关政策法规的进一步推动下，中国C-V2X产业将跨越“试点示范”的鸿沟，进入爆发式增长的新阶段。（每日经济新闻）</p>\n  <p><strong>马斯克：SpaceX为GPU采购敲定400亿美元债务融资</strong></p>\n  <p>北京时间10月26日凌晨，埃隆·马斯克在社交平台发文表示：过去这几周，债市几乎彻底关上了大门——任何公司，只要没有独立于AI数据中心的大规模收入，基本都拿不到钱了。SpaceX刚为GPU敲定了400亿美元的债务融资，但我们是投资级信用评级，而且有Starlink和发射业务带来的收入。这意味着，那200多家“新型云厂商”要迎来孔雀鱼级别的批量死亡和整合了。会有一些撑过去，但不会多。这笔资金主要是可赎回债务，用于采购将在明年第一季度和第二季度到货的GPU。（界面新闻）</p>\n  <p><strong>新易盛：三季度产量环比增长，高速率产品放量提速</strong></p>\n  <p>从新易盛方面获悉，公司第三季度产品产量较第二季度保持增长，业务交付规模进一步提升。新易盛此前在投资者交流中表示，800G光模块出货量持续提升，已成为今年交付主力；1.6T产品也已进入持续放量阶段，预计下半年放量节奏将进一步加快。随着高速率产品需求持续释放，公司产品交付规模有望稳步提升。（证券时报）</p>\n  <p><strong>长鑫科技旗下芯聚股权投资公司增资至约63.8亿</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，长鑫芯聚股权投资（安徽）有限公司发生工商变更，注册资本由约61.8亿元人民币增至约63.8亿元人民币。值得一提的是，今年7月和9月，该公司均发生增资。该公司成立于2022年3月，法定代表人为赵纶，经营范围为以自有资金从事投资活动、创业投资，由长鑫科技集团股份有限公司全资持股。</p>\n  <p><strong>字节跳动TikTok电商欧洲负责人陈熙即将离职</strong></p>\n  <p>字节跳动TikTok电商负责人陈熙（Kevin）即将离职，TikTok欧洲、英国区域整体业务后续由宋琪负责。据悉，陈熙此前曾担任滴滴网约车业务执行总裁，2020年末加入字节跳动。（新浪财经）</p>\n  <p><strong>苹果发布新款iPad mini</strong></p>\n  <p>苹果公司发布新款iPad mini，配备8.5英寸OLED显示屏和A20 Pro芯片，机身厚度仅5.4毫米，并支持IP67级抗水防尘。苹果称，新款设备的AI性能最高提升至前代的4.5倍，图形性能最高提升至2.7倍，蜂窝网络数据传输速度最高提升50%。（财联社）</p>\n  <p><strong>小鹏Robotaxi获批L4级示范运营资质</strong></p>\n  <p>36氪获悉，近日，小鹏集团获批广州市智能网联汽车应用示范运营资格，可在广州全域开展L4级Robotaxi示范运营。</p>\n  <p><strong>寒武纪获资金净流入13.02亿元</strong></p>\n  <p>Choice数据显示，10月26日，资金净流入额排名前十的个股依次是寒武纪、胜宏科技、长鑫科技、万向钱潮、百亚股份、沐曦股份-U、中国石油、模塑科技、瑞芯微、亿纬锂能。其中，寒武纪获净流入13.02亿元。(上海证券报)</p>\n  <p><strong>恒指收盘涨0.51%，半导体板块领跌</strong></p>\n  <p>36氪获悉，恒指收盘涨0.51%，恒生科技跌0.36%；半导体、有色金属、硬件设备板块领跌，长飞光纤光缆跌超8%，兆易创新、紫金矿业跌超5%；石油石化、煤炭、房地产板块涨幅居前，恒大物业涨超12%，中国石油股份涨超5%，中国神华涨超2%；南向资金净卖出20.75亿港元。</p>\n  <p><strong>日本前首相福田康夫去世</strong></p>\n  <p>日本前首相福田康夫于10月22日在东京的医院去世。福田康夫于2007年就任日本首相，任期约一年。在任期间，他致力于维护和稳定日中关系。（央视新闻）</p>\n  <p><strong>国家能源局：截至9月底，全国累计发电装机容量41.3亿千瓦，同比增长11.2%</strong></p>\n  <p>36氪获悉，国家能源局发布1-9月份全国电力统计数据。截至9月底，全国累计发电装机容量41.3亿千瓦，同比增长11.2%。其中，太阳能发电装机容量13.1亿千瓦，同比增长16.5%；风电装机容量7.0亿千瓦，同比增长20.4%。1-9月份，全国发电设备累计平均利用2174小时，比上年同期降低194小时。</p>\n  <p><strong>康师傅重庆公司新增发电业务等</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，康师傅（重庆）方便食品有限公司发生工商变更，经营范围新增发电业务、输电业务、供（配）电业务，以及光伏发电设备租赁、粮食加工食品生产、食品添加剂销售等。该公司成立于2006年5月，法定代表人为谭莉，注册资本500万美元，由康师傅方便面投资（中国）有限公司全资持股。</p>\n  <p><strong>ETF收盘：地产ETF华宝涨3.85% 巴西ETF易方达跌10.02%</strong></p>\n  <p>ETF收盘涨跌不一，地产ETF华宝(159707)领涨3.85%，石油ETF广发(159018)涨3.79%，石油ETF鹏华(159697)涨3.54%，巴西ETF易方达(520870)领跌10.02%，巴西ETF华夏(159100)��10.01%，半导体设备ETF国泰(159516)跌5.74%。(上海证券报)</p>\n  <h2>大公司财报</h2>\n  <p><strong>药明康德:第三季度归母净利润为83.18亿元，同比增长136.67%</strong></p>\n  <p>36氪获悉，药明康德公告，第三季度实现营收166.40亿元，同比增长38.01%;归母净利润为83.18亿元，同比增长136.67%。前三季度实现营收455.37亿元，同比增长38.59%;归母净利润193.98亿元，同比增长60.64%。</p>\n  <p><strong>蓝色光标：第三季度归母净利润9545.37万元，同比下降3.81%</strong></p>\n  <p>36氪获悉，蓝色光标公告，第三季度实现营收185.39亿元，同比下降1.06%；归母净利润9545.37万元，同比下降3.81%。前三季度实现营收531.00亿元，同比增长3.92%；归母净利润为3.07亿元，同比增长56.86%。</p>\n  <p><strong>万华化学：第三季度归母净利润为55.95亿元，同比增长84.38%</strong></p>\n  <p>36氪获悉，万华化学公告，第三季度实现营收665.51亿元，同比增长24.80%；归母净利润为55.95亿元，同比增长84.38%。前三季度实现营收1858.67亿元，同比增长28.87%；归母净利润156.58亿元，同比增长70.99%。</p>\n  <p><strong>中兴通讯：第三季度归母净利润13.07亿元，同比增长394.46%</strong></p>\n  <p>36氪获悉，中兴通讯公告，前三季度实现营收1168.38亿元，同比增长16.23%；归母净利润40.60亿元，同比下降23.71%。第三季度实现营收388.13亿元，同比增长33.99%；归母净利润13.07亿元，同比增长394.46%。</p>\n  <p><strong>海大集团：第三季度归母净利润12.96亿元，同比下降13.81%</strong></p>\n  <p>36氪获悉，海大集团公告，第三季度实现营收为91.09亿元，同比增长4.95%；归母净利润12.96亿元，同比下降13.81%。前三季度实现营收1033.49亿元，同比增长7.55%；归母净利润29.07亿元，同比下降29.83%。</p>\n  <p><strong>恩捷股份：第三季度归母净利润9.74亿元，同比增长14245.28%</strong></p>\n  <p>36氪获悉，恩捷股份公告，第三季度实现营收55.55亿元，同比增长46.95%；归母净利润9.74亿元，同比增长14245.28%；前三季度实现营收142.26亿元，同比增长49.07%；归母净利润17.94亿元，上年同期亏损8632.3万元，同比扭亏为盈。</p>\n  <h2>酷产品</h2>\n  <p><strong>科学家展示全球首款织进衣服的触摸屏</strong></p>\n  <p>近日，新加坡国立大学科学家展示了全球首款“织进衣服”的触摸屏。它集成在袖筒中，96×54像素，尺寸168毫米×105毫米，由一种既能显像又能感知触觉的纤维制成，手指按压有响应，可无线连接设备，还像普通衣物一样透气、柔韧，且可反复清洗。透气程度与棉布、牛仔布相当，机洗50次、弯折1000次后性能几乎不变。除了显示屏，麦克风、扬声器和传感器也以同样方式织入，可追踪运动、测量温度、探测环境。原型已能运行计算器、播放视频、充当指南针，把温度传感纤维放在腋下还能读出体温。(智慧科技迷)</p>\n  <h2>投融资</h2>\n  <p><strong>“K2Lab”完成千万元天使+轮融资</strong></p>\n  <p>36氪获悉，近日，“K2Lab”宣布完成由凯泰资本投资的数千万元天使+轮融资。半年内，“K2Lab”已连续完成由云时资本、华控基金、凯泰资本分别领投的三轮融资。本轮资金将主要用于海外业务拓展、模型算法与工程能力升级、商家Agent与商家联盟生态建设，以及 AI Native 组织建设。</p>\n  <p><strong>“诺亦腾机器人”完成Pre-A+++轮融资</strong></p>\n  <p>36氪获悉，近日，“诺亦腾机器人”（Noitom Robotics）完成Pre-A+++轮融资，本轮由汇融基金独家投资。</p>\n  <p><strong>“模感科技”完成亿元级天使+轮融资</strong></p>\n  <p>36氪获悉，全身多模态融合触觉解决方案公司“模感科技”（MoSense）近日完成亿元级天使+轮融资，由鼎晖投资、绿洲资本领投，逐际动力、龙芯创投、中科创星、华山资本、浦东创投以及某国内具身厂商跟投。后浪资本担任长期独家财务顾问。此前公司曾获得红杉中国、高瓴创投及智元机器人等参与的天使轮融资。</p>\n  <p><strong>“中科慧灵”完成数亿元A++轮融资</strong></p>\n  <p>36氪获悉，近日，聚焦人形机器人与具身智能核心技术研发及产业化应用的“中科慧灵”完成数亿元人民币A++轮融资。本轮融资由知来投资、涌铧投资、茂天投资、元禾辰坤、国科科智、鲁宁投资等机构联合投资。投资方涵盖市场化股权投资机构、专业母基金及产业投资平台，投资布局涉及人工智能、硬科技、先进制造等领域。</p>\n  <p><strong>整理丨宋清瑜</strong></p>",
-      "category": "tech",
-      "published_at": "2026-10-27T00:08:10+00:00",
-      "fetched_at": "2026-10-27T03:27:58.133393+00:00",
-      "fingerprint": "b2dd1662bbfc5809"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪首发丨红杉、高瓴、智元投过的全身触觉解决方案公司再获亿元级融资，团队来自港科大",
-      "url": "https://36kr.com/p/4043477378880388?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>本文约2500字，建议阅读5分钟</p>\n  </blockquote>\n  <p>硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成亿元级天使+轮融资，由鼎晖投资、绿洲资本领投，逐际动力、龙芯创投、中科创星、华山资本、浦东创投以及某国内头部具身厂商跟投。后浪资本担任长期独家财务顾问。此前公司曾获得红杉中国、高瓴创投及智元机器人等参与的天使轮融资。</p>\n  <p>模感科技成立于2026年5月，由港科大机器人比赛冠军团队孵化而成。联合创始人兼CEO严朝旭博士毕业于香港科技大学微电子系，长期从事高频系统、电磁算法及具身多模态传感研究。联合创始人兼CTO周航博士毕业于香港科技大学机器人专业，曾任车规级自动驾驶企业资深算法研究员，长期从事端到端自动驾驶模型、世界模型及具身智能算法研究。</p>\n  <p><strong>模感科技专注于人形机器人的全身多模态触觉解决方案。与主要提供电子皮肤硬件的厂商不同，模感科技的差异化优势在于能够提供从触觉硬件、感知算法到触觉世界动作模型的完整技术链条，形成覆盖硬件、算法与模型的全栈方案。</strong></p>\n  <p>具体而言，公司目前围绕三大核心产品展开布局：全身电子皮肤硬件MoSkin、多模态融合触觉算法MoTact，以及多模态融合触觉世界动作模型MoWorld。</p>\n  <p>硬件层面，模感科技从底层力学结构入手，采用具有负泊松比特性的可调控人工晶格结构。借助这一结构，结构在受力时可以通过晶格定向旋转与形变、分散外部载荷，在承受较大冲击时保护内部传感单元，同时在微小力作用下保持极高的感知灵敏度，解决了传统触觉传感器难以兼顾高灵敏度与宽量程的问题，并提升了系统的抗磁干扰和抗过载疲劳能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261027/v2_222a136f4d3241f2b86f4614529e5a33@5920579_oswg334900oswg744oswg752_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">MoSkin多模态触觉集成外壳</p>\n  <p>制造工艺方面，传统触觉传感器通常需要将传感薄膜贴附在机器人表面，再通过布线等方式完成集成。这种方式不仅工序较多、制造成本较高，也对复杂曲面的贴合能力提出了挑战，限制了触觉传感器向机器人全身大面积部署。</p>\n  <p>模感科技采用的磁光固化3D打印成型工艺，可将具有特定晶格结构的材料直接加工成一体化触觉结构件，并通过在材料中引入磁性单元形成电磁晶格，算法端采用超分辨率方案使其具备强大的多模态感知能力，同时兼顾低量产成本。该技术可适配硅胶、发泡材料、TPU等不同材质，有助于实现复杂曲面的成型。公司同时拥有全自动曲面大面积多模态标定算法，帮助下游客户实现即插即用。</p>\n  <p>同时，严朝旭向硬氪介绍，基于独创的“力学性能可编程”技术，同一套底层技术可以根据机器人不同部位的需求，调整材料与微观晶格结构的力学特性。例如，指尖需要更高的灵敏度，可以设计得更柔软；脚底需要承受较大冲击，可以强化其结构支撑能力；躯干则可以在大面积感知与结构强度之间取得平衡，所有的复杂方案都可以高效自动生成合理的拓扑结构。</p>\n  <p>算法层面，MoTact相当于“触觉小脑”，主要负责将硬件采集的多轴磁场信号解算为力、位移、滑移、材质等感知信息，并针对不同部位的应用需求进行算法优化。公司提出的技术能力包括稀疏超分辨率、复杂拓扑集成、抗漂移与抗磁干扰，以及KHz级高速阵列采样等，目标是让机器人能够更及时地识别接触状态和外部作用力，为抓取、操作及接触控制等高频动作提供反馈。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261027/v2_186c0d968b95453da08856250bde3f08@5920579_oswg834965oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">模感科技MoTact与MoWorld模型算法</p>\n  <p>模型层面，模感科技正同步推进基于触觉的多模态融合触觉世界动作模型MoWorld。相较于仅依赖视觉等信息进行环境判断，触觉能够提供接触力、物体形变及局部交互状态等信息。公司希望利用高频、多维的触觉反馈，持续修正机器人动作执行过程中的判断与控制，并将触觉信息作为物理先验补充到模型中，提升机器人在真实环境中的交互能力，缩小仿真训练与真实执行之间的差距。</p>\n  <p>据介绍，目前，模感科技的全身触觉系统已在推进与多家头部机器人本体厂商的合作，并拓展应用落地。在模型侧，公司已经与头部机器人ODM/OEM公司展开合作，推动整体触觉系统及模型的一体化部署，为机器人提供完整触觉-大小脑解决方案。除人形机器人相关业务外，多行业智能整体方案也在加速商业化落地。</p>\n  <p><strong>以下为创始人问答：</strong></p>\n  <p><strong>硬氪：磁光固化3D打印具体解决了触觉传感器领域的哪些痛点？</strong></p>\n  <p><strong>严朝旭：</strong>传统电子皮肤大多采用薄膜或织物形态，需要贴附在机器人结构件表面。但人形机器人的肩膀、腰部等位置往往具有复杂曲面，传统方案在贴合和集成上存在一定难度，容易受到结构设计和装配工艺的限制。</p>\n  <p>我们现在的思路，是直接把触觉感知能力集成到结构件中。过去可能需要机器人壳体供应商和电子皮肤供应商共同完成这件事，现在我们希望直接提供兼具结构与感知能力的触觉结构件。这种方式的优势在于，结构件在成型阶段就可以适配机器人的曲面形态，减少后续贴合带来的问题。目前，硅胶、橡胶、发泡材料等不同材质，以及一些复杂曲面结构，我们都在进行适配。</p>\n  <p>所以，我们的定位不只是电子皮肤，而是触觉结构件。通过将结构设计和传感能力结合起来，我们希望让触觉系统更容易集成到机器人的不同部位，也为后续规模化生产创造条件。</p>\n  <p><strong>硬氪：“力学性能可编程”具体解决了触觉领域的什么问题？</strong></p>\n  <p><strong>严朝旭：</strong>其实这是我们快速工程化能力的一个体现。不同机器人厂商对外壳材料、结构硬度和触觉灵敏度的要求并不一样。如果每接到一个客户的需求，都要重新设计结构、重新进行仿真，开发周期就会比较长。</p>\n  <p>因此，我们在前期设计和仿真环节，就把结构参数做成了可调控的。客户如果需要更强的抗冲击能力，我们就可以调整结构，让它更坚固；如果需要机器人手臂在轻微接触时就能感知，我们就可以将相应区域设计得更柔软、更灵敏。</p>\n  <p>我们也在通过仿真模型，分析结构形变与分布式复杂磁场信号之间的关系，从而更快地完成设计和参数调整。这样面对不同客户、不同机器人结构时，我们就不必每次都从头开发，可以在已有技术体系上快速适配。</p>\n  <p><strong>硬氪：在算法层面，公司如何针对机器人不同部位的触觉需求进行优化？</strong></p>\n  <p><strong>严朝旭：</strong>机器人不同部位的感知需求差异很大，因此算法也需要进行针对性设计。</p>\n  <p>例如，手指和手掌涉及抓取、精细操作等任务，对灵敏度、采样率和分辨率的要求比较高，我们就会提高这些区域的传感器布置密度，并针对高频接触动作优化算法。手和脚还涉及相对复杂的受力情况，因此需要进一步强化多轴力感知能力。</p>\n  <p>但对于躯干等大面积区域，需求可能有所不同。这些位置更关注低功耗和大范围覆盖，不一定需要持续进行高频采样。针对这类场景，我们可以设计相应的低功耗算法，例如在常态下采用低功耗监测模式，在检测到碰撞等事件后再提高采样频率。</p>\n  <p>因此，我们不是用同一套参数覆盖机器人全身，而是根据不同部位的接触特点、受力情况和任务需求，对传感器布局、采样率、分辨率及算法进行差异化配置。这样既能满足关键部位的精细感知需求，也有助于控制整套系统的功耗和成本。</p>",
-      "category": "tech",
-      "published_at": "2026-10-27T01:59:55+00:00",
-      "fetched_at": "2026-10-27T03:27:58.133384+00:00",
-      "fingerprint": "50780280044f674f"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "这家全球汽零巨头，为何跨界做机器人？",
-      "url": "https://36kr.com/p/4043530020115590?f=rss",
-      "summary": "<p>汽车产业链企业进入机器人领域正在成为行业新趋势。</p>\n  <p>一方面，整车和零部件价格战持续，企业利润承压，需要寻找新的业务方向。另一方面，以人形机器人为代表的机器人行业，被不少从业者和机构视为下一个阶段的增长主线。行业里广为流传的说法是，具身智能的上半场是自动驾驶，下半场是人形机器人。</p>\n  <p>在这样的判断下，包括小鹏、奇瑞、北汽、蔚来、比亚迪等在内的数十家车企，纷纷在机器人领域落子。</p>\n  <p>宁波的汽车零部件巨头企业「均胜电子」也加入战局。均胜电子早期靠汽车功能件起家，后来通过整合德国普瑞、群英、TechniSat，美国KSS、日本高田等优质资产，切入汽车电子与汽车安全领域，并结合中国市场进行二次创新，成为全球汽车零部件前三十强企业。目前，公司在全球20多个国家设有工厂，2025年营收超过600亿元，其中七成以上来自海外。</p>\n  <p>2025年，均胜电子将业务方向调整为“汽车+机器人”双轮驱动，开始布局人形机器人，定位为机器人领域的Tier1供应商，产品规划聚焦“大小脑+肢体+能源”三大领域，包括AI头部总成、能源管理系统、大小脑域控制器、电子皮肤与灵巧手、机甲等关键部件。其中的电子皮肤，即柔性触觉传感器，主要依托均胜电子与香山股份联营的均胜群英研发与制造。</p>\n  <p>均胜群英电子皮肤业务负责人亢宇冉博士对36氪表示，机器人业务在集团目前战略规划中排在第一位，是明确的第二增长曲线。</p>\n  <p>透过均胜，既能看到车企的积累与沉淀如何在人形机器人上复用，也能看到从汽车到机器人之间，那些无法直接平移到位的落差。</p>\n  <p><strong>1.&nbsp;押注具身智能下半场</strong></p>\n  <p>均胜电子成立于2004年，创立之初专注于汽车功能件。2011年，公司收购德国老牌汽车电子公司普瑞，营收规模突破百亿元，并由此开启了此后十余年的国际化并购。</p>\n  <p>2014年12月，均胜电子以超过9000万欧元收购德国高端内饰件公司群英，其后与原均胜功能件业务整合成全新的均胜群英。均胜群英擅长座舱空气管理系统、智能表面技术，而且在真木、真铝、碳纤维和新材料及工艺上有一定积累，长期服务奔驰、宝马、奥迪、大众、通用和兰博基尼等国际车企。</p>\n  <p>2016年至2018年，均胜又先后收购德国TechniSat汽车业务、美国汽车安全供应商KSS以及日本高田优质资产。公司一跃成为全球第二大汽车安全供应商、第四大智能座舱域控系统供应商，产品自此覆盖全球几乎所有主流车企。</p>\n  <p>2025年，均胜在全球超过20个国家拥有超过4万名员工，产品服务全球超过100个汽车品牌。当年实现营收约612亿元，其中海外收入444.46亿元，占比72.64%。</p>\n  <p>过去几年，汽车价格竞争从大众市场向中高端市场蔓延，整车及零部件企业普遍陷入“增收不增利”的困境，寻找第二增长曲线成为行业的共同课题。正如理想汽车创始人李想在今年5月所说，“具身智能的上半场是自动驾驶，下半场是人形机器人。”</p>\n  <p>据机器人商业评论统计，截至2026年8月，已有超过15家整车厂进军人形机器人赛道。除了整车厂密集入局，上游的零部件供应商也在顺势转向机器人。均胜体系也是这批跟进的零部件企业之一。</p>\n  <p>目前均胜已经与国内头部机器人厂商展开合作，一方面，均胜为智元的一款轮式底盘双臂带机器人提供整机代工业务，从头部、双臂到底盘均由均胜完成制造、装配和测试。另一方面是具身数据采集业务。整机出厂后，将在均胜内部搭建的多个真实场景部署，开展实景实训，采集机器人作业数据，并用于物理AI模型的训练。</p>\n  <p><strong>2.&nbsp;做机器人领域的Tier 1</strong></p>\n  <p>据亢宇冉介绍，均胜在机器人业务上延续的是其在汽车产业里的Tier 1供应商定位。换句话说，均胜不造机器人的本体，也不做单一产品，而是覆盖机器人从头到脚，包括AI头部总成、能源管理系统、大小脑控制器、灵巧手与电子皮肤这些关键部件。</p>\n  <p>以均胜群英的电子皮肤为例。电子皮肤是机器人的“触觉器官”，是一层像人造皮肤一样的柔性电子薄膜，贴在机器人表面，能感知压力、滑动、振动、温度等触觉信号。</p>\n  <p>在电子皮肤的技术路线上，均胜群英采取多线并行，以压阻为基础、以多模态为特色。据亢宇冉介绍，以压阻路线为基础，是因为它成熟度最高，适合高密度集成和规模化量产，也有成本优势，而且靠受压后的电阻变化来感知，不受强磁环境干扰。</p>\n  <p>目前，第一代电子皮肤基于压阻式，已研发并推出机器人指尖触觉传感器、夹爪触觉传感器与灵巧手全手触觉感知方案。第二代将研发电容式大面积电子皮肤，据亢宇冉介绍，电容路线靠受压后的电容变化来感知，灵敏度更高，也能实现接近觉感知，适合铺在更大面积的机身表面。</p>\n  <p>此外，均胜群英联合中科院宁波材料所、宁波东方理工研究院、北京航空航天大学等机构，依托浙江省重点研发技术尖兵项目，同步推进新型柔性电磁式电子皮肤的研发，这类方案靠磁场变化感知，适用于对磁场不敏感的场景。</p>\n  <p>目前，电子皮肤产品已适配均胜自研的灵巧手和工业夹爪。均胜群英的理念是先在自有产线上把技术环节打通、把验证做完，再对外供货，替客户提前发现问题，后期再推广到汽车主机厂等客户的产线。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261027/v2_0a2f27c5598942d5865cff68997c4b39@6244039_oswg116271oswg1436oswg761_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">均胜群英的电子皮肤搭载在机器人夹爪指尖</p>\n  <p>“这也是均胜群英做机器人关键部件的一大优势。”亢宇冉介绍，某个场景需要哪几个模块、压力精度要做到什么程度，都要靠产线中的真实需求得到反馈。部署应用越多，采集的数据越多，产品才能基于真实场景不断迭代，提供可靠性并降低成本，成本越低进而带来更多订单，形成正向循环。</p>\n  <p>亢宇冉表示，均胜群英做机器人优势在于工程化能力、场景数据与客户资源。在工程化上，均胜群英有数十年的产线建设经验，能把样机变成稳定批量交付的产品。在场景数据上，作为制造企业，均胜群英自有产线提供了大量典型工况，可直接把机器人和电子皮肤搬上去，在真实环境里验证并迭代&nbsp;</p>\n  <p>客户资源上，均胜群英有很多工厂和产线，正是机器人未来的买方。同时，均胜也向机器人公司供应关键部件。一边代工生产并部署使用机器人、一边研发生产和销售机器人关键部件，形成双向循环，这种互为客户的关系十分紧密。</p>\n  <p>但他也坦承，现阶段商业化是整个人形机器人行业共同的难题，即使是对于有丰富制造经验的车企也不例外。</p>\n  <p>亢宇冉将均胜群英机器人业务当前面临的挑战归纳为两个层面：一是客户需求与研发成本的平衡；二是规模化客户的获取。“具有真实需求的规模化客户还在形成过程中，愿意买单的客户要的是能直接落地、长期稳定运行的整体解决方案，而不是样品。这要求软硬件系统在免维护条件下连续运行一至两年，整体成本控制在企业和产线可接受的范围内。”</p>\n  <p>机器人业务的出海，均胜群英规划先从均胜自有海外工厂起步在自有产线完成机器人部署与验证之后，逐步向海外制造业客户推广。海外有大量的存量市场，在国际政策允许的前提下，将是机器人业务的蓝海。未来，均胜的目标客户仍以汽车客户为主，公司现有汽车客户也是潜在的机器人客户。</p>",
-      "category": "tech",
-      "published_at": "2026-10-27T02:56:53+00:00",
-      "fetched_at": "2026-10-27T03:27:58.133368+00:00",
-      "fingerprint": "92d030aee440df52"
-    },
-    {
-      "source": "少数派",
-      "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
-      "url": "https://sspai.com/post/117180",
-      "summary": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...<a href=\"https://sspai.com/post/117180\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-26T03:00:13+00:00",
-      "fetched_at": "2026-10-27T03:27:56.598212+00:00",
-      "fingerprint": "1fd80b63b6a92b11"
-    },
-    {
-      "source": "少数派",
-      "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-      "url": "https://sspai.com/post/115074",
-      "summary": "一起来看看 3D XPoint 这夸张的性能表现吧。<a href=\"https://sspai.com/post/115074\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-26T03:26:35+00:00",
-      "fetched_at": "2026-10-27T03:27:56.598206+00:00",
-      "fingerprint": "46e5cbfac61dc172"
-    },
-    {
-      "source": "少数派",
-      "title": "秋冬换季护肤买什么，双 11 选购推荐",
-      "url": "https://sspai.com/post/117414",
-      "summary": "双 11 到来之际的秋冬护肤选购与搭配建议。<a href=\"https://sspai.com/post/117414\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-26T07:00:00+00:00",
-      "fetched_at": "2026-10-27T03:27:56.598199+00:00",
-      "fingerprint": "b6555366cc841c28"
-    },
-    {
-      "source": "少数派",
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/117529",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/117529\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-26T10:17:46+00:00",
-      "fetched_at": "2026-10-27T03:27:56.598191+00:00",
-      "fingerprint": "de37cbe39a3c9b32"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-      "url": "https://sspai.com/post/117600",
-      "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...<a href=\"https://sspai.com/post/117600\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-27T00:27:58+00:00",
-      "fetched_at": "2026-10-27T03:27:56.598178+00:00",
-      "fingerprint": "60a173c7d456cbee"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6841 CNY →+0.00%",
-      "url": "https://www.frankfurter.app/2026-10-26?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-10-26</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6841 CNY</b> <span style=\"color:#888;font-size:14px;\">→ +0.0000 (+0.00%) 持平</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-10-27T03:27:55.293662+00:00",
-      "fingerprint": "89e20da05e1f3d36"
     }
   ]
 }
