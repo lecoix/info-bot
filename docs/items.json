@@ -1,7 +1,167 @@
 {
-  "updated_at": "2026-11-07T04:22:03.545950+00:00",
-  "count": 180,
+  "updated_at": "2026-11-08T04:03:43.135691+00:00",
+  "count": 179,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "category": "politics",
+      "published_at": "2026-11-07T18:14:38+00:00",
+      "fetched_at": "2026-11-08T04:03:43.012116+00:00",
+      "fingerprint": "082aa9ac915444e4"
+    },
+    {
+      "source": "BBC World News",
+      "title": "No clear winner after tight New Zealand general election",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "category": "politics",
+      "published_at": "2026-11-07T15:56:28+00:00",
+      "fetched_at": "2026-11-08T04:03:43.012109+00:00",
+      "fingerprint": "a3a63a91f6daf1ab"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "category": "politics",
+      "published_at": "2026-11-07T22:19:59+00:00",
+      "fetched_at": "2026-11-08T04:03:43.012103+00:00",
+      "fingerprint": "79a8ecf18d146019"
+    },
+    {
+      "source": "BBC World News",
+      "title": "What we know so far after Krakow gun attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "category": "politics",
+      "published_at": "2026-11-08T01:47:41+00:00",
+      "fetched_at": "2026-11-08T04:03:43.012093+00:00",
+      "fingerprint": "d04570c52c8f8b01"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "法國血庫冷藏設備遭駭客攻擊　幕後黑手眾說紛紜",
+      "url": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "法國血庫冷藏設備遭駭客攻擊調高溫度，但未造成血液損失。專家懷疑俄羅斯、伊朗駭客或青少年所為，攻擊具高度規劃性，目前尚無正式歸因。",
+      "category": "politics",
+      "published_at": "2026-11-08T00:08:14+00:00",
+      "fetched_at": "2026-11-08T04:03:42.822940+00:00",
+      "fingerprint": "12c94b1240e3dc4a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-08T04:03:42.253792+00:00",
+      "fingerprint": "62bcbf2fb4b3a672"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Amsterdam School",
+      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-08T04:03:42.253665+00:00",
+      "fingerprint": "b7a280853a2c0350"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-08T04:03:42.253525+00:00",
+      "fingerprint": "a5fe3cb9688bbbec"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-08T04:03:42.253386+00:00",
+      "fingerprint": "10bdc73097cfd238"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-08T04:03:42.253205+00:00",
+      "fingerprint": "579f1e45f94231f7"
+    },
+    {
+      "source": "The Verge",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-07T15:50:00+00:00",
+      "fetched_at": "2026-11-08T04:03:41.890558+00:00",
+      "fingerprint": "1ab28dde47a3074f"
+    },
+    {
+      "source": "The Verge",
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-07T16:00:00+00:00",
+      "fetched_at": "2026-11-08T04:03:41.890552+00:00",
+      "fingerprint": "45b944c4290360a1"
+    },
+    {
+      "source": "The Verge",
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-07T16:00:00+00:00",
+      "fetched_at": "2026-11-08T04:03:41.890546+00:00",
+      "fingerprint": "949ca82ab4607078"
+    },
+    {
+      "source": "The Verge",
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-07T17:00:00+00:00",
+      "fetched_at": "2026-11-08T04:03:41.890535+00:00",
+      "fingerprint": "70f1531fce2b0561"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "运动市场，打到骨折",
+      "url": "https://36kr.com/p/4055180749198208?f=rss",
+      "summary": "<p>文｜贺哲馨</p>\n  <p>编辑｜乔芊<br />&nbsp;</p>\n  <h3>调整</h3>\n  <p>2026年下半年，你很难找到一份好看的运动品牌财报。</p>\n  <p>国内头部品牌在同一季度首次集体出现零售流水负增长。安踏和FILA季度流水同比下跌，是2022年后的首次。李宁流水低单位数下降，电商是唯一的增长。特步主品牌同样中单位数下跌。361度是四家头部中唯一全线增长的一家，上半年营收增速也已放缓至8%。</p>\n  <p>耐克仍在下行通道，最新季度营收112亿美元，下降5%，管理层预计2027年全年营收下降个位数。彪马的降幅收窄至6.3%，但仍在下滑。</p>\n  <p>还在增长的国际品牌中，阿迪达斯三季度营收增长7%，但主要靠服装，鞋类与去年持平。昂跑二季度按固定汇率增长21.6%，最大的美洲市场只增长13%，不及预期；HOKA增速继续放缓至6.8%，母公司下调其全年增长预期至个位数。</p>\n  <p><strong>但流水数字本身不是重点，重点是它背后的信号：运动市场似乎正在经历一轮全球范围内的促销周期。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_4b0eb8b54bf3485ebed5bef39f908a1f@5922386_oswg255148oswg2400oswg1424_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">制图：36氪</p>\n  <p>北美和欧洲市场的促销和折扣集中在经典款和生活方式鞋类。在最新一季的财报电话会上，阿迪达斯CEO比约恩·古尔登认为“欧洲和北美市场已经饱和”，对生活方式鞋类的销售产生影响。他提到，“行业的一些主要产品线正在大幅打折”。</p>\n  <p>Dick's Sports将促销的源头归结到品牌本身。“一些品牌在自己网站上大幅促销，外溢到整个市场”，首席执行官Ed Stack说。言下之意是，<strong>头部品牌牵头打折，让经销商不得不跟进。</strong></p>\n  <p>Dick's Sports在全美拥有超过850家门店，是最大的运动全品类连锁经销商，主力售卖经典和生活方式鞋款，因此受到折扣冲击较大。通常来讲，生活方式鞋类定价更低，折扣频率和幅度大，更容易受到整体市场环境的波动。</p>\n  <p>除了休闲品类之外，专业产品也并未能幸免于此次风暴，但这似乎是国内市场特有的处境。</p>\n  <p>过去两年，国产品牌大量生产碳板专业跑鞋，导致产能过剩，市场陷入价格战。电商平台让比价更直接透明，专业跑鞋的价格水位被大幅度拉低。下半年，耐克自有渠道和第三方经销商开始大幅打折。专业跑鞋的价格水位继续下沉，国产品牌的生存空间被两头挤压，折扣幅度和库存指标随之加深。</p>\n  <p>国信证券数据显示，三季度末安踏主品牌全渠道库销比（即期末库存金额与当期销售金额的比例）约5个月，同比持平；大货线下折扣约71折，同比持平；线上折扣48折，同比加深2个百分点。FILA大货全渠道库销比维持在6个月以下，同比改善0.3个月；线下折扣72折，同比加深2个百分点，线上折扣接近6折，同比持平。</p>\n  <p>据中金数据，2024年三季度，特步主品牌零售折扣约七五折，库销比约4个月；特步公告显示，2026年三季度零售折扣为七至七五折，库销比升至4.5至5个月。两年间，折扣小幅加深，库存压力增加。</p>\n  <h3>各家反应</h3>\n  <p>按照行业惯例，运动品牌新品上市3个月内通常维持原价，3个月后才逐步进入八折区间。但在眼下的折扣环境里，各品牌新品的打折节点都不同程度地提前，折扣幅度也更深。</p>\n  <p>据媒体报道，7月，一款定价649元的耐克新品发售十余天后，价格就跌到五折左右；一款4月上市、定价999元的耐克跑鞋，7月在滔搏线上店以六折出售。后一件事的背景是：耐克宣布收回线上经销权，经销商要赶在年底前清仓。</p>\n  <p>国产品牌的折扣幅度与此相当。不同的是，在国际品牌渠道清仓式打折的冲击下，国产品牌连专业旗舰也难守价格：特步8月发布的160X 8.0 PRO，如今在旗舰店约六折即可入手；安踏最新的顶级碳板竞速鞋C10 PRO 2，线上已出现五七折的优惠。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_4c7e9b147e5347abace0607de7837658@5922386_oswg224554oswg2400oswg1564_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">制图：36氪</p>\n  <p>对占据大部分货架的国际品牌来说，减少出货是清理市场最快的办法，能缩短阵痛期。</p>\n  <p>耐克从2023年前后开始逐步削减Dunk、AJ1和Air Force 1等经典鞋款的供应。Dunk新配色从2023年的150多款，减到2025年的几十款；最新一季，Dunk的收入又被主动砍掉近一半。即便如此，市面上仍能见到多年前推出的Dunk在售。耐克时任CFO在6月称，售罄（sell-through）\"依然困难\"。</p>\n  <p>过去一年，阿迪达斯将重心放在服装上。古尔登提到，Originals鞋类目前负增长，但库存“低得多”，新品也在控制节奏，因为“把新品推进打折环境没什么意义”。</p>\n  <p>Samba之后，阿迪达斯并没有贸然推出下一款生活方式鞋，从去年的Superstar到今年的Stan Smith，阿迪达斯始终在谨慎试水休闲时尚品类的市场反应。此外，它还需要承受彪马“不计代价”的库存处理，这让古尔登对欧洲市场第四季度改善没有抱太高的预期。</p>\n  <p>采取减少出货的还有昂跑。这家公司在第二季度就已经主动缩减了面向北美批发商的供货量，导致当季北美批发渠道仅增长12.7%，不足去年同期增速的一半。管理层无法就市场何时恢复正常给出答案，但表示第三季度北美批发终端动销较第二季度明显回升。</p>\n  <p>增速持续放缓的HOKA，一边强调高端定位和全价销售，一边已经开始下探价格带。明年1月，定价115美元的Fly Pace将上市，用来吸引新消费者；HOKA还将推出受1970年代跑鞋启发的低帮鞋款Cielo 70，加码生活方式品类。CEO Stefano Caroti承认，HOKA可能在“120美元以下更紧凑的价格带”丢掉份额。</p>\n  <h3>何时回归</h3>\n  <p>针对这轮促销的起因，一种主流观点认为这是供给问题，而非需求问题。</p>\n  <p>Glossy今年7月的一篇报道援引行业人士称，如今北美促销环境很大部分是因为大型品牌在过去三年推出了过多的鞋款，客观上造成了市场供应大于需求。古尔登和耐克CEO贺雁峰（Elliott Hill）也在不同场合承认了供给过剩：古尔登说，一旦供应减少，“你们就会再次看到好的数字”；贺雁峰则承认，耐克在Jordan上“一直在过度供应经典复刻款”。</p>\n  <p>至于这部分鞋款何时清完，一心清库存的彪马CEO Arthur Hoeld表示，公司库存将在年底前恢复正常；古尔登则推测，到2027年下半年，“我们会处在不同的局面”，但他也说“可能只是希望和推测”。</p>\n  <p>但也有分析师认为，促销环境的本质是整个运动市场创新乏力，新品没有对上消费者的需求。Stifel分析师Peter McGoldrick在今年的返校季运动鞋调查中，把总主题概括为“缺乏新意”，称调查结果显示“灵感匮乏”。在此之上又叠加了通胀等外部因素，市场整体不景气。</p>\n  <p>市场调研公司Circana的数据显示，今年三季度，美国鞋类销售额与去年同期持平，销量则下降中个位数。Circana鞋类与配饰行业顾问贝丝·戈德斯坦（Beth Goldstein）说，消费者仍会为“能表达身份认同”的鞋买单，前提是品牌拿出“让人觉得相关”的产品。</p>\n  <p>再看国内。7月、8月全国服装鞋帽零售额分别同比下降1.0%和0.5%，9月才转正，靠的是电商交易增长，线下渠道仍然疲软。</p>\n  <p>在世界杯带来的服装热度退去之后，阿迪达斯选择再次在专业领域发力。明年，阿迪达斯将跑鞋品类延展出Hyperboost和Supernova，分别对应舒适和日常。<strong>古尔登对36氪表示，阿迪达斯已经拥有了“市面上最好的专业竞速跑鞋”，接下来的任务就是将产品优势扩展到更广泛的大众跑者群体。</strong></p>\n  <p>耐克的动作同样密集。10月13日，它在中国推出首批“本土源创系列”，包括NIKE Sportswear流形系列和JORDAN Streetwear立势系列，主打一件多穿、适应不同天气。贺雁峰称这是首个“出自中国、为中国打造”的系列，并且刻意只在线下门店首发。耐克中国团队正尝试把产品从概念到消费者的周期压缩到120天。</p>\n  <p>专业线上，耐克两个月内推出了4款跑鞋创新，从面向4小时以上跑者的入门竞速鞋Swooshfly，到采用双层Air Zoom的超级跑鞋。11月1日的纽约马拉松上，瑞典选手Andreas Almgren穿着尚未发售的Apex夺得男子冠军。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_fb23ccb09ea343bf8ccdd1897bd8f061@5922386_oswg165726oswg430oswg430_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">脚踩NIKE Apex的纽约马拉松跑者</p>\n  <p>国产运动品牌则继续把掘金方向放在户外，这里有始祖鸟口碑受挫后让出的新空间。安踏集团旗下的迪桑特和可隆，三季度零售额增长25%至30%。</p>\n  <p>安踏也在用自己的子品牌接住这部分需求。脱胎于北京冬奥会旗舰店的“安踏冠军”，定价比安踏主品牌高三到五成，主打越野跑、徒步和滑雪，已经开进始祖鸟、迪桑特所在的高端商场。</p>\n  <p>据报道，截至2025年年中，安踏冠军的门店规模扩大了7倍，单店年销售额破千万的门店超过13家。凯乐石则把越野跑鞋线FUGA做成了独立品牌：今年3月开进北京大兴机场，8月在法国霞慕尼开出欧洲首店。据悦跑数据研究院统计，FUGA在国内越野跑赛事中的穿着占有率为34.8%，排名第一。</p>\n  <p>当折扣周期来临，有的公司在止损，有的在等待时机。我们无法预测市场走向，正如一位消费投资行业人士所说：“因为我们本来就是历史的一部分。”</p>",
+      "category": "tech",
+      "published_at": "2026-11-08T03:05:46+00:00",
+      "fetched_at": "2026-11-08T04:03:41.766589+00:00",
+      "fingerprint": "c5c059657e68baeb"
+    },
+    {
+      "source": "少数派",
+      "title": "一个 05 后的个人数码编年史",
+      "url": "https://sspai.com/post/116750",
+      "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。<a href=\"https://sspai.com/post/116750\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-07T09:05:06+00:00",
+      "fetched_at": "2026-11-08T04:03:40.156184+00:00",
+      "fingerprint": "40d421f07dcad8a7"
+    },
     {
       "source": "The Guardian - World",
       "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
@@ -1631,176 +1791,6 @@
       "published_at": "2026-11-02T03:00:41+00:00",
       "fetched_at": "2026-11-02T04:03:26.055992+00:00",
       "fingerprint": "741e9de31bc2bed1"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "category": "politics",
-      "published_at": "2026-10-31T22:11:45+00:00",
-      "fetched_at": "2026-11-01T03:59:39.965094+00:00",
-      "fingerprint": "1620a9d27876be6c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "category": "politics",
-      "published_at": "2026-10-31T17:53:35+00:00",
-      "fetched_at": "2026-11-01T03:59:39.965089+00:00",
-      "fingerprint": "deefa82a83a2bcad"
-    },
-    {
-      "source": "BBC World News",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "category": "politics",
-      "published_at": "2026-10-31T19:22:26+00:00",
-      "fetched_at": "2026-11-01T03:59:39.965083+00:00",
-      "fingerprint": "2eb9ed0951b88425"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
-      "category": "politics",
-      "published_at": "2026-11-01T01:59:57+00:00",
-      "fetched_at": "2026-11-01T03:59:39.965072+00:00",
-      "fingerprint": "f845da07825410f4"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
-      "url": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "日本許多人會開始因為購買打折的「事故物件」（凶宅），他們稱毫不介意與幽靈同住。",
-      "category": "politics",
-      "published_at": "2026-11-01T00:03:15+00:00",
-      "fetched_at": "2026-11-01T03:59:39.834020+00:00",
-      "fingerprint": "d65c515df06a76db"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "裝扮成哈利波特，公開質疑泰國王室——他如今面臨34年監禁",
-      "url": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "自2020年以來，泰國已有294人因涉嫌違反冒犯君主罪而被起訴，刑期最長達50年。",
-      "category": "politics",
-      "published_at": "2026-10-31T07:55:00+00:00",
-      "fetched_at": "2026-11-01T03:59:39.833994+00:00",
-      "fingerprint": "913d95605828edcd"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Altoids Project",
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-01T03:59:39.201704+00:00",
-      "fingerprint": "03ef0338d3a520b6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-01T03:59:39.201609+00:00",
-      "fingerprint": "6725a773cbcfd0fd"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-01T03:59:39.201494+00:00",
-      "fingerprint": "5545fe355a55d4d0"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-01T03:59:39.201384+00:00",
-      "fingerprint": "4c6605822260484c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-01T03:59:39.201241+00:00",
-      "fingerprint": "2f8f2a14b01c9a21"
-    },
-    {
-      "source": "The Verge",
-      "title": "Happy Pikmin Day Eve",
-      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-31T17:50:12+00:00",
-      "fetched_at": "2026-11-01T03:59:38.836908+00:00",
-      "fingerprint": "74a96efb8296e745"
-    },
-    {
-      "source": "The Verge",
-      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-31T18:40:32+00:00",
-      "fetched_at": "2026-11-01T03:59:38.836903+00:00",
-      "fingerprint": "e625b621cbfd1124"
-    },
-    {
-      "source": "The Verge",
-      "title": "Keyboards of The Verge",
-      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-31T19:30:00+00:00",
-      "fetched_at": "2026-11-01T03:59:38.836897+00:00",
-      "fingerprint": "a90304fc83cb91dc"
-    },
-    {
-      "source": "The Verge",
-      "title": "Get in the spirit with these horrors from YouTube",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-10-31T21:06:58+00:00",
-      "fetched_at": "2026-11-01T03:59:38.836886+00:00",
-      "fingerprint": "d3f9477c8fd14c94"
-    },
-    {
-      "source": "少数派",
-      "title": "一图流 | 一张图看懂中国版 Apple 智能",
-      "url": "https://sspai.com/post/117953",
-      "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。<a href=\"https://sspai.com/post/117953\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-31T04:10:39+00:00",
-      "fetched_at": "2026-11-01T03:59:03.320367+00:00",
-      "fingerprint": "c5073120537bdbc9"
-    },
-    {
-      "source": "少数派",
-      "title": "本月玩什么｜影之刃零、战争机器：事变日等",
-      "url": "https://sspai.com/post/117960",
-      "summary": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=\"https://sspai.com/post/117960\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-10-31T05:29:19+00:00",
-      "fetched_at": "2026-11-01T03:59:03.320356+00:00",
-      "fingerprint": "52887fb06dcdd937"
     }
   ]
 }
