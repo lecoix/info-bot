@@ -1,7 +1,297 @@
 {
-  "updated_at": "2026-11-10T05:45:00.076227+00:00",
-  "count": 182,
+  "updated_at": "2026-11-11T04:24:57.066023+00:00",
+  "count": 211,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+      "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "summary": "<p>Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent</p><p>Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.</p><p>The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently posted on social media about children killed in Israeli airstrikes in Gaza and called for a ceasefire.</p> <a href=\"https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-11-10T15:39:26+00:00",
+      "fetched_at": "2026-11-11T04:24:57.063355+00:00",
+      "fingerprint": "60980c2cce418970"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "category": "politics",
+      "published_at": "2026-11-11T02:41:16+00:00",
+      "fetched_at": "2026-11-11T04:24:56.935814+00:00",
+      "fingerprint": "d0e1cc1440dbbaef"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "category": "politics",
+      "published_at": "2026-11-11T03:26:42+00:00",
+      "fetched_at": "2026-11-11T04:24:56.935811+00:00",
+      "fingerprint": "bb354b722b4500e4"
+    },
+    {
+      "source": "BBC World News",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "category": "politics",
+      "published_at": "2026-11-10T20:20:04+00:00",
+      "fetched_at": "2026-11-11T04:24:56.935807+00:00",
+      "fingerprint": "aebc2df496384854"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "category": "politics",
+      "published_at": "2026-11-11T01:01:20+00:00",
+      "fetched_at": "2026-11-11T04:24:56.935800+00:00",
+      "fingerprint": "bf0354919e892807"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "為何晚上睡前總是想吃零食？可以怎麼辦？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "你在睡前吃甜食是有生物學原因的，但你可以改變這個習慣。",
+      "category": "politics",
+      "published_at": "2026-11-11T00:21:56+00:00",
+      "fetched_at": "2026-11-11T04:24:56.854438+00:00",
+      "fingerprint": "643bd2c058f4a8dc"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "一名公務員如何長期瞞天過海，身兼五職？",
+      "url": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "卡西姆·喬杜里（Kashim Chowdhury）在三年內將納稅人的錢挪用28.4萬英鎊後，被判犯有欺詐罪。",
+      "category": "politics",
+      "published_at": "2026-11-11T00:21:53+00:00",
+      "fetched_at": "2026-11-11T04:24:56.854435+00:00",
+      "fingerprint": "76962c4bbdfe7d82"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "英國美軍在用基地反恐案件：華府稱三伊朗關聯者策劃",
+      "url": "https://www.bbc.com/zhongwen/articles/cmx20xpn40zyo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國司法部表示，這些男子涉及一連串陰謀，包括發生在英國空軍基地附近的一宗重大事件；該基地供美軍使用。",
+      "category": "politics",
+      "published_at": "2026-11-11T03:12:53+00:00",
+      "fetched_at": "2026-11-11T04:24:56.854430+00:00",
+      "fingerprint": "e0f8d9e2386f6b74"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
+      "url": "https://www.bbc.com/zhongwen/articles/cm0e0e7d7qv4o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC中文採訪多名政治分析人士，拆解這場善後操作背後所反映的維穩管治邏輯，以及又與即將舉行的選委會及特首選舉有何深層連結。",
+      "category": "politics",
+      "published_at": "2026-11-11T01:03:16+00:00",
+      "fetched_at": "2026-11-11T04:24:56.854426+00:00",
+      "fingerprint": "126982746c97c138"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
+      "url": "https://www.bbc.com/zhongwen/articles/cm36gnenlj59o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "黃仁勳正因涉嫌與一名中國間諜出軌而接受調查，他對世界秩序的未來遠比其他科技巨頭老闆重要得多。",
+      "category": "politics",
+      "published_at": "2026-11-11T02:41:36+00:00",
+      "fetched_at": "2026-11-11T04:24:56.854419+00:00",
+      "fingerprint": "d34e970c53e73371"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-11T04:24:56.495686+00:00",
+      "fingerprint": "ad37f01e70421265"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-11T04:24:56.495624+00:00",
+      "fingerprint": "cd5db2ceb2627276"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-11T04:24:56.495546+00:00",
+      "fingerprint": "3cead47eb0018323"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-11T04:24:56.495476+00:00",
+      "fingerprint": "8a1fd661f82a1db6"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-11T04:24:56.495393+00:00",
+      "fingerprint": "2b1a51c62db6caf6"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sony cancels live-service shooter Fairgames",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+      "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-10T21:06:12+00:00",
+      "fetched_at": "2026-11-11T04:24:56.328951+00:00",
+      "fingerprint": "24d30a68df26da8b"
+    },
+    {
+      "source": "The Verge",
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-10T21:40:31+00:00",
+      "fetched_at": "2026-11-11T04:24:56.328947+00:00",
+      "fingerprint": "daf7e9e96e7de529"
+    },
+    {
+      "source": "The Verge",
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "summary": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-10T22:00:00+00:00",
+      "fetched_at": "2026-11-11T04:24:56.328943+00:00",
+      "fingerprint": "e2816ea59479a5b2"
+    },
+    {
+      "source": "The Verge",
+      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-11T00:34:24+00:00",
+      "fetched_at": "2026-11-11T04:24:56.328937+00:00",
+      "fingerprint": "ad03d6d88297a6a8"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+      "url": "https://36kr.com/p/4064610635781257?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>外交部：中美双方就两国元首年内互动安排保持着沟通</p>\n  <p>全球芯片LOF于11月10日下午开市起停牌至收市</p>\n  <p>董明珠回应格力电器业绩下滑&nbsp;</p>\n  <p>宝马选定LG新能源、三星SDI供应下一代动力电池</p>\n  <p>百事公司北美业务陷入困境，裁员1000人</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>黄仁勋及英伟达，被指控涉嫌欺诈股东</strong></p>\n  <p>当地时间9日，美股收盘五分钟后，英伟达及黄仁勋便遭到股东集体诉讼，指控其涉嫌欺诈股东。分析师认为，一旦黄仁勋离任，英伟达将面临巨大的接班难题。现年63岁的黄仁勋是英伟达的核心支柱，金融数据服务商FactSet的数据显示，黄仁勋是英伟达第五大股东，持股约3.58%。分析师认为，公司目前没有成熟的接班计划，倘若黄仁勋离职，这将是一次大规模的领导层更替，而公司并未为此做好准备。</p>\n  <p>受到黄仁勋出轨事件持续发酵影响，算力芯片巨头周二继续下跌超5%，单日市值蒸发超2090亿美元，约合人民币1.39万亿元。本周前两天，公司市值累计蒸发超4200亿美元，相当于2.85万亿元。（第一财经、财联社）</p>\n  <p><strong>Anthropic正式启动IPO路演，发布相关路演视频</strong></p>\n  <p>Anthropic于11月10日正式启动首次公开募股（IPO）路演，并在官网发布相关路演视频。公司计划发行8.25亿股A类普通股，发行价区间为每股70至78美元，按发行价上限计算，基础发行规模最高约643.5亿美元。其中，Anthropic自身发行约8.014亿股，部分现有股东出售约2365万股。公司拟以代码“ANT”在纳斯达克全球精选市场上市。承销商另拥有30天额外购买最多1.2375亿股的选择权。</p>\n  <p>11月10日，一份文件显示，谷歌、英伟达、AMD、博通、美光、微软及台积电合作伙伴公司已同意通过同步私募方式，合计认购260亿美元的Anthropic无投票权普通股，认购价格与IPO发行价相同。（新浪财经、界面新闻、财联社）</p>\n  <p><strong>阿里巴巴：已正式申请平头哥独立上市</strong></p>\n  <p>36氪获悉，11月10日晚，阿里巴巴集团发布公告称，已向香港联交所交表，申请旗下子公司平头哥独立上市。上市完成后，平头哥仍将是阿里巴巴子公司。公告显示，2026年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。截至2026年4月，平头哥真武系列AI芯片累计出货量达56万片。</p>\n  <h2>AI最前沿</h2>\n  <p><strong>谷歌宣布Pathways在云端正式全面开放</strong></p>\n  <p>11月9日，谷歌宣布，Pathways现已在Google Cloud Platform正式全面开放。Pathways是谷歌自主研发的大规模分布式机器学习运行系统，曾用于训练Gemini等大型模型，目前向谷歌云客户开放。（财联社）&nbsp;</p>\n  <p><strong>Meta计划组建销售团队，拓展AI产品企业客户市场</strong></p>\n  <p>据报道，Meta Platforms正采取进一步措施，推动AI产品面向企业市场销售。公司已开始组建销售组织，计划向中小型企业销售AI产品，并与咨询公司及系统集成商建立合作关系，以争取大型企业客户。（财联社）</p>\n  <p><strong>马斯克透露擎天柱机器人最新消息</strong></p>\n  <p>特斯拉的人形机器人“擎天柱”是市场关注的焦点产品之一，特斯拉公司首席执行官马斯克日前表示，“擎天柱”将在2027年底左右开始交付，但交付形式可能是“租”而不是“卖”。马斯克表示，擎天柱的初期成本可能与电动汽车差不多，每台机器人的初始成本约为3万美元，之后会降至2万美元左右。马斯克预计擎天柱至少需要一年时间才能达到全面量产，在对外交付前，擎天柱将先在特斯拉的自有工厂中使用。特斯拉方面此前表示，“擎天柱”的工作效率将达到普通人的五倍左右。据业内人士透露，特斯拉可能在12月初开放擎天柱的预订。（央视财经）</p>\n  <h2>大公司财报</h2>\n  <p><strong>高盛预测Anthropic 2030年营收突破6000亿美元</strong></p>\n  <p>据Anthropic的主承销投行高盛的预测，Anthropic到2030年营收有望突破6000亿美元，较去年营收增长超130倍。高盛向该笔IPO潜在投资者展示的预测模型显示：公司今年总营收预计约520亿美元，2027年增至1360亿美元，2029年达到4420亿美元，2030年进一步冲高至6000亿美</p>\n  <p><strong>特斯拉国内10月销量暴跌，从第1掉至66名</strong></p>\n  <p>11月10日消息，据懂车帝排行榜最新数据，2026年10月特斯拉Model Y国内零售销量仅为7,807辆，较9月的50,359辆减少42,552辆，排名从第1位直接跌至第66位。从月度走势看，Model Y今年4月至9月的零售销量分别为22,990辆、28,911辆、38,654辆、25,158辆、29,260辆和50,359辆，排名基本稳定在全车型榜前三，6月和9月两度拿下月销冠军。10月榜单上，Model Y排在奔驰E级、丰田亚洲龙之后，销量同比下滑约六成。</p>\n  <p>品牌整体表现同样走低，10月Model 3国内零售1,010辆，特斯拉品牌当月国内零售合计8,817辆，同比下滑66.1%，是2022年7月以来的最低单月成绩，国内零售已连续第5个月同比下滑。（快科技）</p>\n  <p><strong>外交部：中美双方就两国元首年内互动安排保持着沟通</strong></p>\n  <p>11月10日，外交部发言人郭嘉昆主持例行记者会。有记者就中美元首会晤提问。郭嘉昆表示，中美双方就两国元首年内互动安排保持着沟通。（央视新闻）</p>\n  <p><strong>京东科技被曝架构调整，正式拆分“云科技”与“金融科技”两大板块</strong></p>\n  <p>据市场消息，京东科技上周内部官宣重大架构调整：公司正式拆分为“云科技”与“金融科技”两大板块，均与京东零售平级。其中，“云科技”一号位为徐丰。公开信息显示，徐丰是京东集团副总裁、原京东科技数字城市群总裁。2023年1月，京东科技进行组织架构调整，设立“一部三中心”，徐丰由原京东科技数字城市群总裁变动为京东科技销售中心负责人；2023年4月，徐丰升任京东科技总裁，向CEO李娅云汇报。2025年3月，时任京东集团副总裁、京东科技总裁的徐丰由M4-1晋升为M4-2。与此同时，京东探索研究院也被拆分，JoyAI、AI算法等核心部门整体并入云科技，并单列为一个C1部门。对于上述消息，向京东官方求证，截至发稿暂无回应。（新浪科技）</p>\n  <p><strong>贵金属价格波动，中国金币集团发布风险提示</strong></p>\n  <p>36氪获悉，中国金币集团发布关于贵金属价格波动的风险提示，文章表示，近期，受国内外多重宏观因素叠加影响，贵金属价格震荡加剧。广大集藏投资者需树立理性稳健的配置理念，客观认知贵金属市场运行规律，高度重视市场价格波动风险。理性参与、审慎操作，避免盲目追涨杀跌，科学管控投资集藏风险。</p>\n  <p><strong>全球芯片LOF于11月10日下午开市起停牌至收市</strong></p>\n  <p>36氪获悉，景顺长城基金管理有限公司公告，近期，景顺长城基金管理有限公司旗下景顺长城全球半导体芯片产业股票型证券投资基金二级市场交易价格明显高于基金份额净值，出现较大幅度溢价。11月10日中午收盘，本基金二级市场的收盘价为3.118元，截至11月6日，本基金基金份额净值为2.3571元。特此郑重提醒广大投资者，应密切关注二级市场交易价格溢价风险，审慎做出投资决策，如盲目投资，后续可能遭受重大损失。为保护投资者利益，本基金于2026年11月10日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。</p>\n  <p><strong>董明珠回应格力电器业绩下滑</strong></p>\n  <p>格力电器董事长董明珠近日谈及格力电器业绩承压的现状，董明珠表示，原材料铜价格上涨给企业经营带来压力，铜的价格达到铝价的5至6倍。在成本上涨的现实情况下，格力选择坚守产品品质，坚持使用铜材生产相关产品，宁可承受几十亿元的利润损失，也不愿为压缩成本更换材料。“铝也可以用来制作相关零部件，但在稳定性、可靠性、使用持久性方面存在不确定性，最终受损的会是广大消费者。”董明珠说，维护品牌根基，首要就是守住产品品质，不能以牺牲产品质量为代价换取短期经济效益。（界面新闻）</p>\n  <p><strong>央行11月10日开展1900亿元隔夜逆回购操作，操作利率为1.25%</strong></p>\n  <p>36氪获悉，央行11月10日开展1900亿元隔夜逆回购操作，操作利率为1.25%。</p>\n  <p><strong>美股三大指数集体收跌，英伟达跌超5%</strong></p>\n  <p>36氪获悉，11月10日收盘，美股三大指数集体下跌，纳指跌0.74%，道指跌0.3%，标普500指数跌0.38%。大型科技股多数下跌，英伟达跌超5%，近两个交易日累跌超9%，市值累计蒸发超4200亿美元；微软、英特尔跌超2%，苹果、谷歌小幅下跌，亚马逊涨超1%，特斯拉小幅上涨。热门中概股普跌，蔚来、爱奇艺跌超3%，阿里巴巴跌超2%，拼多多、网易、百度跌超1%，小鹏集团、哔哩哔哩小幅下跌，理想汽车涨超1%。</p>\n  <p><strong>美国信用卡债务总额升至1.29万亿美元，创历史新高</strong></p>\n  <p>当地时间11月10日，美国纽约联邦储备银行公布的最新家庭债务报告显示，今年第三季度，美国信用卡债务总额增加220亿美元，达到创纪录的1.29万亿美元，同比增长4.2%。纽约联储研究人员表示，随着通胀高企和借贷成本上升，消费者面临的财务压力持续加大，低收入及信用评分较低的借款人还款困难的情况尤为突出。数据显示，美国新发信用卡的平均利率约为24%，信用卡仍是成本较高的借贷方式之一。(央视新闻)</p>\n  <p><strong>据报英伟达CEO黄仁勋退出两场活动，日程中不再出现其姓名</strong></p>\n  <p>Business Insider援引一名不具名知情人士报道，英伟达首席执行官黄仁勋原定周一晚间在一场非公开CEO论坛上接受Anthropic一名高管的访谈，但目前已不在活动议程中。（新浪财经）</p>\n  <p><strong>理想汽车：“理想i6团购返佣”活动与公司无关</strong></p>\n  <p>36氪获悉，理想汽车法务部发文，关于网络社群以“理想i6团购返佣”为名招募人员下单的情况，理想汽车声明：该活动与理想汽车无关，理想汽车未组织或授权任何组织、个人开展该活动。理想汽车已就相关情况向警方报案，并将积极配合调查。</p>\n  <p><strong>足力健创始人成失信被执行人</strong></p>\n  <p>天眼查显示，近日，足力健老人鞋创始人张京康、张少康、辛俊兰及睢县足力健鞋业有限公司因有履行能力而拒不履行生效法律文书确定义务被肥西县人民法院列为失信被执行人（老赖），涉案金额195.42万余元。睢县足力健鞋业有限公司成立于2017年12月，法定代表人张京康，注册资本约1亿元，经营范围包含生产销售鞋及鞋材、健身器材、足疗机、按摩器械销售等，由张京康、张少康共同持股。值得一提的是，张京康名下多家公司已成失信被执行人（老赖）并被限制高消费。（每日经济新闻）</p>\n  <p><strong>A股再现“大肉签”，中一签最高赚超7万元</strong></p>\n  <p>11月10日，科创板迎来新股钶锐锶（688827.SH）。上市首日，该股便以298.94%的涨幅高开，盘中股价一度冲高至188元，涨幅达314.37%，以45.37元的发行价计算，投资者若中一签（500股）并在盘中高点卖出，浮盈将超过7万元，成为近期A股市场受关注的“大肉签”之一。截至界面新闻发稿，该公司股价已经有所回落，报135元/股，股价上涨了197.55%。（界面新闻）</p>\n  <p><strong>剑桥科技回应“砍单”传闻：与公司实际经营情况不符</strong></p>\n  <p>剑桥科技高管在11月9日召开的第三季度业绩说明会上表示，高速光模块订单需求旺盛，公司已对多项关键物料提前下单锁定产能，为2027年的大批量交付做好准备。目前围绕关键材料、核心器件、生产设备及全球制造体系形成的供应链协同能力，正成为公司重要竞争优势。近期，市场盛传北美大客户数据中心业务出现延迟，担忧订单被砍等消息。“相关传闻与公司实际经营情况不符。公司目前高速光模块订单需求旺盛，产能利用率持续保持高位，生产与交付节奏均按计划稳步推进。”剑桥科技高管回应。（证券时报）</p>\n  <p><strong>宝马选定LG新能源、三星SDI供应下一代动力电池</strong></p>\n  <p>宝马集团9日宣布，新增LG新能源、三星SDI作为第六代高压电芯供应商，并与两家企业分别签署供货合同，计划2020年代末启动交付，供货数量与合同金额未对外披露。（新浪财经）</p>\n  <p><strong>美国通胀数据将检验国债涨势，市场预期12月加息概率超八成</strong></p>\n  <p>债券交易员正等待周二公布的一份关键通胀报告，以寻找美联储政策路径的线索，并判断近期美国国债涨势是否还有延续空间。民主党横扫中期选举后，科技股遭到抛售，投资者纷纷转向避险资产，推动各期限美国国债收益率上周降至9月以来最低水平。随着股市周一显现企稳迹象，10年期美国国债收益率小幅升至4.88%，但仍远低于上月触及的5%以上水平。周二亚洲交易时段，该收益率基本持平。经济学家预计，美国晚些时候公布的消费者价格数据将显示，通胀增速有所放缓，但仍处于高位，使美联储在12月的下次会议上继续面临加息压力。（新浪财经）</p>\n  <p><strong>百事公司北美业务陷入困境，裁员1000人</strong></p>\n  <p>百事公司将在北美裁减约1000个工作岗位，该公司正试图扭转其本土市场销售疲软的局面。“我们对百事公司北美业务有明确的雄心：打造一个更强大、更面向未来的业务，实现行业领先的增长，”百事公司北美业务CEO拉姆·克里希南在周一致员工信中写道。“为此，我们需要更快、联系更紧密、能力更强，同时继续投资于增长——投资于我们的员工、能力和品牌。”未来一周，百事计划裁员，并表示此举旨在精简运营，并更好地连接公司北美业务各团队。根据公司文件，截至12月27日，百事公司在全球拥有约30.6万名员工，其中美国约有12.5万名员工。（新浪财经）</p>\n  <p><strong>韩国KOSPI 200指数期货涨5.76%触发侧车机制，程序化买入暂停5分钟</strong></p>\n  <p>韩国交易所公告称，当天上午9时06分02秒，韩国综合股价指数（KOSPI）200指数期货涨幅超过5%并持续逾一分钟，触发买入侧“侧车”（Sidecar）机制。KOSPI市场程序化买入报价暂停5分钟。公告显示，相关期货合约当时价格为821.04点，较基准价格776.26点上涨44.78点，涨幅为5.76%。（界面新闻）</p>\n  <p><strong>马斯克称特斯拉将退还部分赛博皮卡订金，并为停产决定辩护</strong></p>\n  <p>特斯拉首席执行官埃隆・马斯克为赛博皮卡以及公司这款极具争议的钢制皮卡的停产决定进行辩解，他声称该车订单量远远超过产能。马斯克周一在X平台发文表示，特斯拉大约8个月后将停止赛博皮卡的生产。他同时称，公司会在此之前尽可能多制造该车型，但特斯拉“不得不向大量用户退还订金”。马斯克表示赛博皮卡并非亏损车型，之所以停产，是因为“赛博皮卡复杂工艺带来的机会成本，远远超过增产赛博自动驾驶出租车（Cybercab）所能创造的价值”。（新浪财经）</p>\n  <p><strong>软银：截至第二季度末对OpenAI投资总额546亿美元</strong></p>\n  <p>软银：截至第二季度末对OpenAI投资总额546亿美元。（新浪财经）&nbsp;</p>\n  <p><strong>美国汽油价格自7月以来首次跌破每加仑4美元</strong></p>\n  <p>36氪获悉，11月10日，美国汽油价格自7月以来首次跌破每加仑4美元。</p>\n  <h2>大公司财报</h2>\n  <p><strong>KKR利润走高，手续费相关收益实现增长</strong></p>\n  <p>受益于管理费上涨带来的手续费相关收益增长，这家投资机构季度利润同比走高。KKR周一公布，第三季度利润11.2亿美元，折合每股1.19美元；去年同期利润8.599亿美元，每股0.90美元。FactSet数据显示，公司调整后每股收益为1.78美元，超出分析师1.58美元的预期。受管理费与手续费类业绩收入增长推动，手续费相关收益上涨27%，达到13.2亿美元。公司总营收从去年的55.3亿美元下滑至45.6亿美元。（新浪财经）</p>\n  <p><strong>软银集团上半财年净亏损7680亿日元，去年同期盈利2.92万亿日元</strong></p>\n  <p>11月10日，软银集团公布截至2026年9月30日的2026财年上半年业绩。报告期内，公司净销售额为4.24万亿日元，同比增长13.3%；税前亏损4387亿日元，去年同期为税前盈利3.69万亿日元；归属于母公司所有者的净亏损为7680亿日元，去年同期为净利润2.92万亿日元。投资收益大幅下滑是业绩变化的重要因素。报告期内，集团投资收益为1.73万亿日元，同比下降56%。其中，控股公司投资业务录得投资收益1.08万亿日元，主要来自英特尔股票带来的1.06万亿日元收益；愿景基金投资收益则从上年同期的3.42万亿日元降至7056亿日元。（界面新闻）</p>\n  <p><strong>本田上半财年净利润为5168亿日元，同比增长65.7%</strong></p>\n  <p>11月10日，本田汽车公布截至2026年9月30日的2026财年上半年业绩。报告期内，公司销售收入为12.04万亿日元，同比增长13.2%；营业利润为6487亿日元，同比增长48.1%；税前利润为7409亿日元，同比增长40.5%；归属于母公司所有者的净利润为5168亿日元，同比增长65.7%。本田同时调整2026财年全年业绩预期，预计销售收入为24.4万亿日元，同比增长11.9%，高于此前预期；预计营业利润为7800亿日元，归属于母公司所有者的净利润为5000亿日元。公司预计全年每股收益为128.44日元。（界面新闻）</p>\n  <p><strong>台积电：10月销售额5868.9亿元台币，同比增长59.7%</strong></p>\n  <p>台积电公布10月营收报告。公司当月合并营收约为新台币5868.9亿元，环比增长14.7%，同比增长59.7%。今年1月至10月，台积电累计合并营收约为新台币4.49万亿元，同比增长43.3%。（界面新闻）</p>\n  <p><strong>Rocket Lab预计第四财季营收为2.7亿至2.9亿美元，预估为2.655亿美元</strong></p>\n  <p>Rocket Lab第三财季营收为2.68亿美元，高于预估的2.579亿美元；调整后EBITDA亏损1800万美元，亏损幅度小于预估的2030万美元。公司预计第四财季营收为2.7亿至2.9亿美元，预估为2.655亿美元。（财联社）</p>\n  <p><strong>Hims&amp;Hers Health预计全财年营收为31.3亿至31.5亿美元，低于预估的32.1亿美元</strong></p>\n  <p>Hims&amp;Hers Health第三财季每股亏损14美分，去年同期为每股收益6美分；营收为8.904亿美元，略低于预估的8.928亿美元。公司预计全财年营收为31.3亿至31.5亿美元，低于预估的32.1亿美元。（财联社）</p>\n  <h2>投融资</h2>\n  <p><strong>“泛函数”完成近亿元天使轮融资</strong></p>\n  <p>36氪获悉，AI原生芯片设计公司“泛函数”近日完成近亿元天使轮融资，由上海未来产业基金领投，上海信投、上海科创集团、富海重产基金、徐汇资本、宽桥恒松、无限基金联合投资。本轮融资将重点用于AI原生芯片设计垂类模型训练、全流程工具链迭代、芯片工程与AI算法核心团队扩充，以及客户联合交付与市场拓展。自2026年3月成立以来，“泛函数”已经完成多轮融资。&nbsp;</p>\n  <p><strong>“正元量子”完成天使轮融资</strong></p>\n  <p>36氪获悉，超导量子计算公司“正元量子”宣布完成天使轮融资，正元量子成立于2026年，致力于研发可扩展的超导量子计算机。本次投资方包括深创投、浦东创投、德宁资本、湘江信成、深圳天使母基金等机构，多维资本担任独家财务顾问。本轮融资将主要用于千比特超导量子计算机研发，加速三维封装、低温互连和集成测控等关键技术验证。</p>\n  <h2>氪大事</h2>\n  <p><strong>氪大事短视频栏目，鲜活解读商业世界大事件。</strong></p>\n  <p>当买房不再划算，为何开始流行“租空房”？</p>\n  <p><strong>整理丨几何鱼</strong></p>",
+      "category": "tech",
+      "published_at": "2026-11-11T00:15:52+00:00",
+      "fetched_at": "2026-11-11T04:24:56.263231+00:00",
+      "fingerprint": "702914184f314331"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨交大团队获中网投与清华系资本领投亿元级融资，以“原子+光子芯片”切入量子计算",
+      "url": "https://36kr.com/p/4064699766068101?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_268839922fcd4a4580de9f6d314dcea5@6221844_oswg179900oswg2276oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3400</strong>字，建议阅读<strong>8</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，中性原子量子计算企业原基量子（Atomology）近期已完成亿元级天使轮融资。本轮融资由中国互联网投资基金（中网投）与清华系资本慕华科创联合领投，另有近10家机构参与跟投。资金将主要用于核心技术研发、工程化平台建设及核心团队扩充，加速推动中性原子量子计算系统从实验室原型向工程化、规模化和工业级产品演进。</p>\n  <p>原基量子成立于2026年4月，从诞生之初便选择了一条区别于传统科研团队的路径：基于中性原子和光子芯片的大规模可工程化量子计算。</p>\n  <p>公司目前研发人员占比超过80%，硕博学历占比超90%，核心成员多来自上海交大、中国科大、牛津大学等顶尖院校。值得一提的是，原基量子由国内光量子计算企业图灵量子孵化而来，核心团队深耕上海交大集成量子信息技术研究中心（IQIT）多年，完整继承了在冷原子、光子芯片及超表面光学等领域的技术积淀，这为团队快速推进工程化落地提供了底层支撑。</p>\n  <p>量子计算的发展本质上是一场寻找最佳量子比特载体的探索。中性原子凭借天然全同、长相干时间以及光镊阵列带来的大规模扩展潜力，被公认为是最具潜力的路线之一。</p>\n  <p>然而，行业普遍面临一个残酷的现实：技术突破不等于产业突破。当前大多数中性原子系统仍由数百个自由空间光学元件、庞大的激光器和复杂的控制系统构成，本质上仍是高度依赖人工调试的“实验室装置”。如何实现规模化制造与长期稳定运行，成为制约产业化的核心痛点。</p>\n  <p>原基量子COO方啸天对此有一个生动的比喻：“传统的实验平台就像是一个需要老手精心维护的精密仪器，一旦环境波动，可能50%以上的时间都在做恢复性工作。”</p>\n  <p>面对这一行业痼疾，原基量子的解法是“芯片化”与“模组化”双管齐下，试图将量子计算机从“手工打磨”变成“流水线制造”。</p>\n  <p>在芯片化方面，团队重点攻克了传统光镊技术难以大规模扩展的物理极限。传统方案依赖AOD、SLM等动态光器件，不仅规模上限被锁死在1万个量级，且存在严重的混频串扰和算法延时。</p>\n  <p>原基量子选择在整晶圆级超精密超表面光子芯片上做文章，通过超表面技术在单芯片上一次性生成百万量级的高密度静态光镊阵列，光路固化，无需复杂的空间光路调试。同时，团队将片上调制器（如铌酸锂电光调制器）与飞秒激光直写三维光波导结合，实现光路和调制器的全芯片化集成，彻底解决动态光镊“分辨率不够、位点串扰、大延时”的痛点。目前，其片上调控芯片带宽已突破110GHz，高密度光波导迭代周期缩短至3天。</p>\n  <p>在模组化方面，针对暂无法芯片化的外围设备，团队将其转化为高精度、高稳定性的标准化工程模组。方啸天强调，学术界追求的是“做好一次”的最高指标，而工业界要求的是“一次做好”的稳定可复制的输出。</p>\n  <p>通过主动反馈控制、恒温系统及精密封装技术，原基量子将复杂的宏观光路系统转化为可插拔、可升级的工业级产品，使其具备流水线制造、快速迭代和易于部署维护的能力。</p>\n  <p>这一“芯片+模组”的工程化路线，也得到了产业界的印证。2026年7月，包括MIT、Harvard、QuEra、Pasqal等全球31家顶尖机构和企业联合发表了一份中性原子量子计算战略的论文，其中专门用一章篇幅论述了“集成光子芯片”对于未来规模化扩展的重要性，涵盖超表面光镊、片上调控与高密度光波导等方向。这与原基量子此前的技术布局高度吻合，团队将其形容为“一种终于被印证的感觉”。</p>\n  <p>在技术演进路线上，原基量子有着清晰的“三步走”规划：大规模静态光镊阵列、可重构光镊阵列、高保真操控与存储。围绕这三个核心，团队制定了明确的研发OKR：在规模上，借助超表面芯片实现10万至100万量级的原子阵列，向百万比特级超级量子计算平台推进；在可重构性上，实现带宽大于200MHz、光镊重构时间小于50毫秒的高速实时反馈控制；在保真度上，结合低温环境与超高真空技术，将原子寿命提升至千秒量级，单比特门保真度目标大于99.99%。最终，通过芯片化与模组化，打通“寿命优势、读出功率门槛、运行中补位吞吐量”三大系统级难题，实现可外推的规模上限。</p>\n  <p>关于商业化落地，方啸天认为，中性原子路线要实现真正的商业价值，必须解决“交付”问题。未来的量子计算机不能是让博士团队现场维护数周只能用几小时的“娇贵设备”，而应该是可以快速部署、轻量化远程运维、接入云平台对外提供服务的工程产品。</p>\n  <p>而在场景选择上，原基量子目前更倾向于与量子计算中心（“量超融合”基础设施）结合，以及生物制药、金融优化等对算力有爆发式需求的领域。</p>\n  <p>“依据团队长期积累的产业经验，我们的策略是发散验证、收敛聚焦，在几个有倾向性的方向上投入，通过实际反馈来迭代工程产品，最终收敛到真正产生价值的核心场景。”方啸天表示。</p>\n  <p><strong>以下是硬氪与原基量子COO方啸天的访谈节选（经编辑）：</strong></p>\n  <p><strong>硬氪：当前做中性原子量子计算的公司不少，原基量子的路线与同行相比，最核心的差异化优势是什么？</strong></p>\n  <p><strong>方啸天：</strong>我们和大多数同行最大的区别在于对“产品”的定义。现在很多团队的做法是基于光学平台搭建量子计算机，这本质上是在做一个更精密的科学仪器。从第一性原理出发，这是两种不同目标所导致的底层逻辑区别。学术界追求的是在特定条件下跑出最高指标，但工业界要求的是在最差的环境下也能稳定可复制的输出。</p>\n  <p>原基量子的底层逻辑是把原子和光子芯片结合。传统的光镊阵列受限于AOD、SLM等空间光调制器的物理极限，规模上限通常在1万个量级，且存在混频和串扰。我们利用超表面光子芯片，可以在单芯片上一次性生成百万量级的静态光镊，而且结合高密度光波导芯片和片上调控的光子芯片，在保证性能的同时还能实现集成和稳定的运转。同时，对于无法芯片化的外围设备，我们做了高度标准化的模组。这套“芯片化+模组化”的体系，让我们的系统具备了流水线制造、快速迭代和易于部署维护的工业级属性。</p>\n  <p><strong>硬氪：量子计算目前普遍被认为离大规模商业落地还有距离，原基量子在商业化节奏和场景选择上是怎么考虑的？</strong></p>\n  <p><strong>方啸天：</strong>我们给自己的要求是，未来2到3年全部聚焦在工程产品的研发上，先把绝对算力和工程稳定性做出来，做出一个真正能交付的“整机”。现在去谈短期的营收并没有太大意义，但我们并不担心近期的市场化，因为团队在交大和产业界已经有大量的技术沉淀，这为我们后续的商业化打下了底子。</p>\n  <p>在应用场景上，我们看重两条线：一是与量子计算中心（如“量超融合”中心）结合，这类国家级或区域级基础设施对系统规模和稳定性有极高要求，非常适合我们的超大规模阵列；二是生物制药、金融优化等对算力有爆发式需求的行业。我们近期的策略是“发散验证、收敛聚焦”，在几个有倾向性的方向上投入，通过实际反馈来迭代我们的工程产品，最终收敛到真正产生价值的核心场景。</p>\n  <p><strong>硬氪：中性原子量子计算未来几年的技术演进方向是什么？原基量子接下来的关键里程碑是什么？</strong></p>\n  <p><strong>方啸天：</strong>中性原子必然朝着“大规模、可重构、高保真”三个方向演进。这也是我们的核心路线图。在规模上，我们通过超表面芯片先实现10万到100万量级的静态阵列；在可重构上，我们利用片上调制器和三维光波导，实现光束的高速、高精度独立控制；在保真度上，结合低温环境、连续装载和超高速低噪声成像技术，不断提升原子寿命和门操作精度。</p>\n  <p>近期我们的工程目标非常明确：第一阶段（M1）实现10万级阵列的稳定连续补位和高保真成像闭环；第二阶段（M2）向百万级阵列推进，并完成分区处理器（存储、交互、读出、回收）的架构验证。量子计算是一场长跑，我们现阶段的任务就是把“工程化”这条最难但最正确的路走扎实，让中国在下一代计算基础设施的竞争中拥有自主可控的核心硬件能力。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>中网投表示：</strong>“量子计算是我国抢占未来科技制高点、实现高水平科技自立自强的关键领域。当前，全球中性原子路线不断取得突破。原基量子同时具备中性原子、光子芯片、超表面以及产业化工程经验，围绕规模化和工程化构建核心能力，这也是我国量子计算产业发展所需要的方向。我们期待公司坚持自主创新，稳步推进技术验证与产业化探索，为我国量子计算创新发展贡献力量。”</p>\n  <p><strong>慕华科创投资团队表示：</strong>\"量子计算正处于从科研突破迈向产业突破的关键阶段，中性原子路线兼具规模扩展能力与高保真潜力，是未来通用量子计算的重要方向。未来量子计算的竞争不仅是物理体系的竞争，更是工程能力、产业协同能力和生态构建能力的竞争。原基量子兼具深厚技术积累和明确工程化路线，不仅有中性原子方向的长期沉淀，更在光子芯片、超表面、系统工程领域形成了独特优势，这种从底层器件到系统平台的完整能力体系，在未来产业化竞争中具备极高价值。\"</p>",
+      "category": "tech",
+      "published_at": "2026-11-11T02:00:00+00:00",
+      "fetched_at": "2026-11-11T04:24:56.263227+00:00",
+      "fingerprint": "4975418a7c4b8485"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨国产半导体模块厂商获近亿元 B 轮融资，营收大幅增长，海外占比近半",
+      "url": "https://36kr.com/p/4064722121823367?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <blockquote>\n   <p>本文约3800字，建议阅读9分钟</p>\n  </blockquote>\n  <p>硬氪获悉，国产碳化硅（SiC）功率模块厂商利普思半导体（以下简称“利普思”）近日完成近亿元B轮融资，新投资方为上海新微资本。本轮资金将主要用于加大AIDC相关产品研发和全球市场推广。</p>\n  <p>利普思（Leapers）成立于2019年11月，总部位于江苏无锡，是一家专注于第三代半导体碳化硅功率模块研发、制造及销售的企业，致力于为高压、大电流等应用场景提供高功率密度、高可靠性的功率模块及相关解决方案。</p>\n  <p>随着AI数据中心向800V HVDC架构升级，新能源汽车的800V高压平台普及，以及光储充对能量转换效率的要求不断提高，碳化硅在高压、高频、高温等用电场景中的应用价值日益凸显。相较于传统硅基器件，碳化硅具有更高的开关频率、更高的击穿电场强度、更低的开关损耗、更高的转换效率，正成为能源基础设施升级和算力建设的重要基础材料之一。</p>\n  <p>据Yole Group数据，2024年全球碳化硅功率器件市场规模约为34亿美元，预计到2030年将接近100亿美元，年复合增长率约为20.3%。国内方面，2024年中国第三代半导体功率电子市场规模约176亿元，涵盖以碳化硅为主的SiC、GaN器件；预计到2029年将超过460亿元。</p>\n  <p>利普思董事长兼CEO丁烜明介绍称，基于行业需求的增长，2026下半年以来，公司经营业绩同比去年增长幅度超过50%，新合作客户超30家，尤其在固态变压器和固态断路器的产品方面达成战略合作超10家。</p>\n  <p>丁烜明表示，技术优势上，利普思已经建立起一整套自主SiC模块正向设计体系，是国内首家采用自主高导热环氧灌封方案的SiC功率模块厂商，并在降低模块杂感和损耗、提高模块的耐高温、耐高压特性、提高循环功率寿命拥有多项自主知识产权。</p>\n  <p>目前，利普思的产品已广泛应用于电动重卡、工程机械、船舶、低空飞行器等高压电驱系统，以及超充、风电光储、固态变压器（SST）、固态断路器（SSCB）、变频器和轨交电源等场景。</p>\n  <p><strong>既有应用之外，AIDC正成为利普思重点布局的新市场。</strong>利普思已有多款1200V至3300V的SiC功率模组面向AIDC相关应用开展客户送样，部分项目进入可靠性验证阶段，相关产品有望于2027年迎来较为明显的放量。</p>\n  <p>除AIDC市场外，利普思也在推进下一代功率模块的封装技术创新。在今年6月德国PCIM展会上，公司发布了PCB嵌入式SiC模块新方案，将芯片直接嵌入PCB板内，旨在优化电气连接、降低系统杂散电感，并提升系统集成度。围绕这一方向，公司也在探索相关技术在电源领域的应用。</p>\n  <p>全球化布局是利普思的另一项业务基础。丁烜明告诉硬氪，公司已建立覆盖中国、日韩和欧洲、北美的研发及市场网络，在无锡、上海、深圳和日本设有研发中心，并在欧洲设立海外销售中心。公司核心技术团队成员来自蔚来、三菱、东芝、英飞凌、安森美等企业，具备功率半导体研发、产品应用及国际市场拓展经验。目前，公司海外营收已占比接近一半。</p>\n  <p>产能布局方面，目前利普思正在加速建设其扬州车规级功率半导体模块工厂。该工厂预计2027年4月完成通线投产。达产后预计年产能150万只SiC模块。届时，利普思无锡工厂和扬州工厂将达到年产220万只SiC的产能规模，为正在到来的第三代功率半导体需求爆发做准备。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_25a9233df65f4eb98c75536ca11cde36@5920579_oswg822982oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">（图源/企业）</p>\n  <p><strong>以下是硬氪与丁烜明交流节选：</strong></p>\n  <p><strong>硬氪：AIDC场景对碳化硅功率模块的需求有哪些不同？目前相关产品进展到了什么阶段？</strong></p>\n  <p><strong>丁烜明：</strong>AIDC供电链路分为五级：10kV/35kV中压交流经固态变压器SST直转 800V 直流，省去工频变压器、低压UPS、PDU；800V直流母线通过SSCB等固态保护器件向机架配电，母线可直接接入储能、BBU以替代传统UPS；机架内高变比 LLC 降压至54V/48V或12V中间总线；最后经板级多相VRM输出0.6~1.0V给GPU/CPU核心，5V/3.3V供给I/O及外围。</p>\n  <p>我们聚焦的是中压交流到800V直流这一段，核心设备是SST变换环节，配合800V侧的SSCB保护环节。中压侧的高频、高温工况下，碳化硅的优势最为明显。</p>\n  <p>目前，我们已经开发了1200V、1700V、2300V、3300V等多个电压等级的产品，并向国内外多家头部客户送样，部分项目进入可靠性验证阶段。AIDC设备单机功率通常达到数兆瓦，对应的功率模块需求量也比较大。我们正在对接国内外电力设备厂商，并优先推进有机会进入英伟达供应链的项目。</p>\n  <p>但从送样到规模化采购还需要时间。我们预计，相关业务有望在2027年第四季度左右迎来较为明显的放量。</p>\n  <p><strong>硬氪：公司目前在下一代智能SiC&nbsp;PCB功率模块方面有哪些布局？这类产品的技术优势和挑战分别是什么？</strong></p>\n  <p><strong>丁烜明：</strong>PCB嵌入式功率模块的思路，是取消键合线与独立模块外壳，把封装功能并入PCB叠层，也就是芯片直接埋入板内，用微孔电镀铜建立三维互连。它主要有三方面提升：功率回路电感从传统键合模块的10~20nH降到1~2nH，模块体积能缩小一半以上；另外去掉了键合线，也就解决了功率循环里最主要的失效问题，寿命可以达到传统模块的好几倍；而且这种对称叠层结构，本身就适合双面散热。</p>\n  <p>挑战不在电气，而在热与力。SiC的热膨胀系数约4ppm/K，铜是17，FR4更高，温度循环下界面剪切应力集中在微孔底部和芯片边缘，会带来脱粘、空洞和分层——这是量产真正的关键障碍。其次是800V以上的绝缘与局部放电，埋入结构内部空间紧凑，树脂和微孔侧壁是场强集中点。散热本身反而可以通过铜柱直通、内嵌氮化硅陶瓷来解决。还有一点容易被忽略：电感压到2nH以下之后，短路电流上升率更高，保护窗口被压缩到1微秒以内，驱动和保护必须一起重新设计。</p>\n  <p>落地节奏上，我们先锚定AIDC电源。它的800V与车载800V平台电压等级一致，工艺可以复用，但认证周期短、迭代快、连续满载的工况也更接近真实负载，适合先把工艺和良率跑通，再复制到车载和电源。</p>\n  <p><strong>投资人观点</strong></p>\n  <p><strong>新微资本：</strong>随着AI算力基础设施扩容、新型电力系统建设提速，SiC模块的价值日益凸显。利普思凭借自主正向设计和先进封装技术，产品在高压、大电流工况下优势突出，已在电网、重卡、储能、工业等场景建立了扎实的量产记录和客户口碑，并成功打入海外头部供应链。新微资本在功率半导体领域已围绕材料、器件、封装制造和下游应用进行全链条布局，SiC模块正是其中的重要一环。我们看好利普思在AIDC场景的成长空间，将持续为其赋能。</p>",
+      "category": "tech",
+      "published_at": "2026-11-11T02:10:08+00:00",
+      "fetched_at": "2026-11-11T04:24:56.263224+00:00",
+      "fingerprint": "6d1b48ff89abca35"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "关注A股市场动态？加入36氪官方交流群，获取每日资讯与企业舆情",
+      "url": "https://36kr.com/p/4064733248083080?f=rss",
+      "summary": "<p><strong>看市场，不只看股价，也要关注企业正在发生什么。</strong></p>\n  <p>每天A股开盘前，市场上总有大量信息值得关注。</p>\n  <p>上市公司发布了什么新公告？哪些企业有了新的业务进展？近期行业出现了哪些变化？热门概念背后，又有哪些值得关注的企业动态？</p>\n  <p>信息越来越多，如何从中快速找到有价值的内容，成为不少市场关注者日常面临的问题。</p>\n  <p>为了让大家更方便地获取市场资讯、了解企业动态，36氪企业全情报持续运营官方股票舆情交流群，围绕A股市场资讯、上市公司舆情和行业热点，为群成员提供日常信息分享与交流。</p>\n  <p>目前，36氪官方交流群持续开放加入，欢迎关注A股市场的朋友参与。</p>\n  <p>&nbsp;</p>\n  <h2><strong>一、每天有哪些值得关注的信息？</strong></h2>\n  <p>加入36氪企业全情报官方交流群，可以持续获取以下几类内容：</p>\n  <p><strong>1. 盘前市场早报，快速了解每日重点</strong></p>\n  <p>每个交易日上午9:00，社群定时分享A股市场早报，汇总当日重要市场资讯、行业动态及上市公司相关消息，并通过AI辅助整理重点内容。</p>\n  <p>帮助大家在开盘前快速了解市场信息，减少在多个平台之间反复查找资讯的时间。</p>\n  <p><strong>2. 上市公司动态，关注企业最新变化</strong></p>\n  <p>除了市场热点，上市公司自身的经营情况和业务进展同样值得关注。</p>\n  <p>社群将持续分享企业公开信息，涵盖业务布局、重大事件、企业经营动态及相关市场讨论，帮助大家从企业层面了解市场变化。</p>\n  <p><strong>3. 行业热点交流，获取更多信息视角</strong></p>\n  <p>围绕近期市场热点、行业趋势及企业动态，群成员可以分享自己关注的信息和观察，与其他市场关注者进行交流。</p>\n  <p>不同的行业视角和信息来源，也能帮助大家更全面地理解市场正在发生的变化。</p>\n  <p>&nbsp;</p>\n  <h2><strong>二、36氪企业全情报，提供持续的信息支持</strong></h2>\n  <p>社群日常分享的信息，背后依托的是36氪企业全情报的信息采集与分析能力。</p>\n  <p>36氪企业全情报由36氪与红麦聚信联合打造，背靠17年大数据积累，提供7×24小时全网信息采集服务。</p>\n  <p>信息覆盖权威媒体、社交平台、行业论坛等多个渠道，重点追踪企业动态、行业舆情及市场资讯。</p>\n  <p>对于关注A股市场的人来说，股价变化只是观察市场的一个维度。企业业务进展、行业政策变化、市场讨论热度等信息，同样值得持续跟踪。</p>\n  <p>36氪企业全情报希望通过多渠道信息采集与整理，让企业和行业的变化更及时地被发现。</p>\n  <p><strong>点击体验36氪企业全情报：</strong></p>\n  <p><a href=\"https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&amp;path=/pages/home/index\" rel=\"noopener noreferrer\" target=\"_blank\">https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&amp;path=/pages/home/index</a></p>\n  <p>&nbsp;</p>\n  <h2><strong>三、加入36氪官方股票舆情交流群</strong></h2>\n  <p>如果你平时关注A股市场，希望及时获取每日市场资讯，了解上市公司动态，或与更多关注资本市场的朋友交流，欢迎加入36氪企业全情报官方交流群。</p>\n  <p><strong>如何加入？</strong></p>\n  <p>扫描下方二维码，即可加入36氪官方股票舆情交流群。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_9b447aae2c054cffa47de034ef24596e@5284654_oswg10370oswg273oswg270_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码加入，获取每日市场资讯！</p>\n  <p><strong>温馨提示：社群主要用于公开信息分享与市场交流，不提供荐股及交易指导。</strong></p>",
+      "category": "tech",
+      "published_at": "2026-11-11T02:20:59+00:00",
+      "fetched_at": "2026-11-11T04:24:56.263218+00:00",
+      "fingerprint": "87acaf4f6b8f5725"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "别只说你的产品有多好，先说它解决了什么问题",
+      "url": "https://36kr.com/p/4064787786273673?f=rss",
+      "summary": "<p>在介绍一个创业项目时，很多团队习惯从产品和技术讲起。</p>\n  <p>我们用了什么技术、开发了哪些功能、拥有多少项专利、产品性能达到什么水平……这些内容都很重要，但对于第一次接触项目的人来说，可能还有一个更直接的问题：</p>\n  <p><strong>这个项目，到底解决了什么问题？</strong></p>\n  <p>一款产品功能再丰富，如果没有讲清楚它服务谁、解决什么需求，外界就很难真正理解它的价值。</p>\n  <p>&nbsp;</p>\n  <h2><strong>用户的真实需求，才是项目故事的起点</strong></h2>\n  <p>很多有意思的创业项目，其实都来自一个具体的问题。</p>\n  <p>比如，传统行业的某个环节效率太低，有团队尝试用AI重新设计工作流程；某类消费者长期面临产品选择困难，有创业者从细分需求出发开发新产品；制造业存在一些难以解决的生产问题，技术团队则希望通过新的设备和工艺找到突破口。</p>\n  <p>这些项目最值得介绍的，往往不只是采用了什么技术，而是为什么要做这件事，以及它能给用户带来什么改变。</p>\n  <p>对于创业团队来说，介绍项目时不妨换一种思路：</p>\n  <p>你发现了什么尚未被满足的需求？</p>\n  <p>你的产品具体解决了什么问题？</p>\n  <p>相比现有方案，有哪些不同？</p>\n  <p>目前产品已经走到了哪一步？</p>\n  <p>把这些问题讲清楚，项目的特点和价值自然更容易呈现出来。</p>\n  <p>&nbsp;</p>\n  <h2><strong>好的项目，需要一个讲清楚自己的机会</strong></h2>\n  <p>创业团队每天都在推进产品和业务，但并不是所有有价值的创新，都能自然进入公众视野。</p>\n  <p>尤其是早期项目，可能已经有了不错的技术和产品，却缺少专业的内容传播渠道；也可能在某个细分领域取得了实际进展，但还没有机会向更广泛的行业受众介绍自己。</p>\n  <p>36氪「项目推荐」希望为这些创业项目提供一个展示机会。</p>\n  <p>平台面向硬科技、AI、机器人、消费、企业服务、医疗健康、先进制造等领域开放项目征集。创业团队可以提交项目资料，介绍自己的产品、技术、应用场景和业务进展。</p>\n  <p>审核通过并符合发布要求的项目，有机会获得36氪免费的报道与曝光，让更多人了解项目正在做的事情。</p>\n  <p>我们关注的不只是项目用了什么新技术，也希望看到技术背后的实际需求，以及团队正在创造的价值。</p>\n  <p>&nbsp;</p>\n  <h2><strong>从解决一个问题开始，让更多人认识你的项目</strong></h2>\n  <p>一个创业项目不一定一开始就有完整的商业版图，也不一定已经取得很大的市场成绩。</p>\n  <p>但只要它在认真解决某个问题，就有值得讲述的内容。</p>\n  <p>如果你正在开发一款新产品，探索一个新的技术方向，或者已经在某个细分领域取得实际进展，不妨把项目介绍出来。</p>\n  <p>通过36氪「项目推荐」提交项目资料，让产品、技术和真实的业务故事有机会被更多人了解。</p>\n  <p><strong>好的项目，不只是做出来的，也值得被讲清楚。</strong></p>\n  <p>让好项目，更早被看见。</p>\n  <p><br />📌&nbsp;<strong>免费提交项目：</strong><br /><a href=\"https://36kr.com/seek-report-new\" rel=\"noopener noreferrer\" target=\"_blank\">https://36kr.com/seek-report-new</a></p>\n  <p>📮&nbsp;<strong>项目推荐联系邮箱：</strong><br /><a href=\"mailto:aireport@36kr.com\">aireport@36kr.com</a></p>\n  <p><strong>客服可以扫描下方二维码联系～</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260910/v2_61e9fced05214f5881a6e6e2ad218743@5284654_oswg50025oswg216oswg210_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码添加！</p>",
+      "category": "tech",
+      "published_at": "2026-11-11T03:16:27+00:00",
+      "fetched_at": "2026-11-11T04:24:56.263207+00:00",
+      "fingerprint": "2d7ec1c3d0aff3e8"
+    },
+    {
+      "source": "少数派",
+      "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+      "url": "https://sspai.com/post/118824",
+      "summary": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...<a href=\"https://sspai.com/post/118824\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-10T08:02:37+00:00",
+      "fetched_at": "2026-11-11T04:24:51.081624+00:00",
+      "fingerprint": "b9949ff964205a6e"
+    },
+    {
+      "source": "少数派",
+      "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+      "url": "https://sspai.com/post/118861",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/118861\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-10T08:44:26+00:00",
+      "fetched_at": "2026-11-11T04:24:51.081620+00:00",
+      "fingerprint": "eeacd96ce6470abd"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+      "url": "https://sspai.com/post/118905",
+      "summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。<a href=\"https://sspai.com/post/118905\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-11T00:26:34+00:00",
+      "fetched_at": "2026-11-11T04:24:51.081616+00:00",
+      "fingerprint": "7d01e08e91d01e93"
+    },
+    {
+      "source": "少数派",
+      "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+      "url": "https://sspai.com/post/118458",
+      "summary": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。<a href=\"https://sspai.com/post/118458\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-11T03:13:04+00:00",
+      "fetched_at": "2026-11-11T04:24:51.081609+00:00",
+      "fingerprint": "6237c0d4c5633339"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.6048 CNY ↑+0.10%",
+      "url": "https://www.frankfurter.app/2026-11-10?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-11-10</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6048 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0046 (+0.10%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-11-11T04:24:49.957009+00:00",
+      "fingerprint": "35e5aec8bd6af663"
+    },
     {
       "source": "BBC World News",
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
