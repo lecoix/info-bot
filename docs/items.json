@@ -1,7 +1,287 @@
 {
-  "updated_at": "2026-11-11T04:24:57.066023+00:00",
-  "count": 211,
+  "updated_at": "2026-11-12T05:30:43.927403+00:00",
+  "count": 181,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "category": "politics",
+      "published_at": "2026-11-11T22:07:37+00:00",
+      "fetched_at": "2026-11-12T05:30:43.663188+00:00",
+      "fingerprint": "3a0b6122a2ac65d0"
+    },
+    {
+      "source": "BBC World News",
+      "title": "New York building collapse kills at least two, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "category": "politics",
+      "published_at": "2026-11-12T05:12:56+00:00",
+      "fetched_at": "2026-11-12T05:30:43.663183+00:00",
+      "fingerprint": "d591981f32d42e17"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "category": "politics",
+      "published_at": "2026-11-12T05:06:27+00:00",
+      "fetched_at": "2026-11-12T05:30:43.663177+00:00",
+      "fingerprint": "7c670ec87508ee71"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "category": "politics",
+      "published_at": "2026-11-12T04:00:30+00:00",
+      "fetched_at": "2026-11-12T05:30:43.663166+00:00",
+      "fingerprint": "6b0875495d9978f4"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「中國間諜案」獲撤控男子BBC專訪：我是情報部門的替罪羊",
+      "url": "https://www.bbc.com/zhongwen/articles/cm9d71qne5p9o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC取得並查閱的數千則訊息顯示，一名中國官員曾設法了解多項敏感政治事務的內情。",
+      "category": "politics",
+      "published_at": "2026-11-11T13:43:29+00:00",
+      "fetched_at": "2026-11-12T05:30:43.583689+00:00",
+      "fingerprint": "37d4f7a5dd1dd4ad"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中美能源大戰，如何影響你的帳單？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "中美之間的博弈可能會對能源成本產生重大影響，但誰會最終獲勝？",
+      "category": "politics",
+      "published_at": "2026-11-12T01:45:18+00:00",
+      "fetched_at": "2026-11-12T05:30:43.583682+00:00",
+      "fingerprint": "bf8b484b78f288ef"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
+      "url": "https://www.bbc.com/zhongwen/articles/c8wy5x2q2wryo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "數以萬計民眾參與這場由西班牙主要工會發起的工業行動，抗議住房問題及生活成本高漲。",
+      "category": "politics",
+      "published_at": "2026-11-12T03:10:40+00:00",
+      "fetched_at": "2026-11-12T05:30:43.583676+00:00",
+      "fingerprint": "f11b1da666dd2651"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "黃仁勳婚外情：黃樂據稱已返回中國，曾多次入境美國、台灣",
+      "url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "據報導，捲入婚外情、被指涉入中國間諜活動的女子黃樂（Alice Huang Le）已經返回中國。近年來，她曾十次入境美國、八次入境台灣。",
+      "category": "politics",
+      "published_at": "2026-11-12T05:26:33+00:00",
+      "fetched_at": "2026-11-12T05:30:43.583668+00:00",
+      "fingerprint": "f09c3c565687fb13"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "黃仁勳疑涉另一宗婚外情，Nvidia董事會傳擬撤換執行長",
+      "url": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "隨着第二宗婚外情的報導曝光，Nvidia股價大幅下跌。據報董事會正與一家外部公司合作，尋找黃仁勳的潛在繼任者。",
+      "category": "politics",
+      "published_at": "2026-11-12T05:20:57+00:00",
+      "fetched_at": "2026-11-12T05:30:43.583627+00:00",
+      "fingerprint": "b36da127b3e98af8"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-12T05:30:43.153806+00:00",
+      "fingerprint": "c4aa53a5506ac6f4"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-12T05:30:43.153696+00:00",
+      "fingerprint": "7c413c5b5223a576"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-12T05:30:43.153557+00:00",
+      "fingerprint": "78b8986836f7bb24"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-12T05:30:43.153435+00:00",
+      "fingerprint": "e24137ce86d7c7f1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-12T05:30:43.153283+00:00",
+      "fingerprint": "f447363cc2876499"
+    },
+    {
+      "source": "The Verge",
+      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-11T18:13:52+00:00",
+      "fetched_at": "2026-11-12T05:30:42.926564+00:00",
+      "fingerprint": "92bde755004877b4"
+    },
+    {
+      "source": "The Verge",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-11T21:54:21+00:00",
+      "fetched_at": "2026-11-12T05:30:42.926559+00:00",
+      "fingerprint": "3c4a130ff1dbafc3"
+    },
+    {
+      "source": "The Verge",
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-11T22:00:00+00:00",
+      "fetched_at": "2026-11-12T05:30:42.926553+00:00",
+      "fingerprint": "3ddc5cc5a5b08ed6"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-11T22:44:36+00:00",
+      "fetched_at": "2026-11-12T05:30:42.926541+00:00",
+      "fingerprint": "a6547f8cea67f8f6"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "成为中国无醇品牌奖牌数第一，「新零」无醇啤酒想让快乐与喝醉无关 | 项目报道",
+      "url": "https://36kr.com/p/4005312451317633?f=rss",
+      "summary": "<p>作者 | 钟艺璇</p>\n  <p>当龙井茶、青梅、杨梅味的中国风味啤酒，与全世界的对手，尤其是德国、美国、比利时等传统强国同台对垒时，前者胜出的可能性有多大？</p>\n  <p>「新零」无醇啤酒给出了答案。今年8月的世界啤酒大奖赛（WBA）上，新零啤酒在无醇/低醇风味组同时拿下国家冠军和金、银、铜；同期的世界西打大奖赛（WCA）上，新零啤酒的\"柿椰有橙\"西打果酒拿下组别总冠军与金奖，\"杨梅莲雾\"西打果酒拿下铜奖。</p>\n  <p>两项赛事合计13枚奖牌，新零从此成为中国无醇品牌中奖牌数第一。“我们是通过中国的风味，赢得了海外评委的认可。”新零啤酒创始人孙晓楠告诉36氪。</p>\n  <p>这并非36氪第一次接触新零。&nbsp;2021年首次报道新零时，它刚拿到高瓴创投的天使轮，中国无醇啤酒还是一个鲜少人下注的品类。4年之后，创始人孙晓楠给出的数字是——2021年至2025年，新零连续5年的销量，超过中国海关全年进口的无醇啤酒总额；在山姆、盒马、奥乐齐等主要渠道，它都是无醇啤酒品类销量第一，更是山姆所有啤酒品类的销量第一。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_9cb0e3af1afd48299c45cee9e68db307@5971123_oswg4106994oswg4028oswg2743_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">「新零」成为中国无醇品牌中奖牌数第一</p>\n  <h3>不做酒精减法，而是重做啤酒</h3>\n  <p>2013年，孙晓楠第一次接触精酿啤酒，工作出差游历多国后，他发现，国外的无醇啤酒货架越做越大，中国却始终没有这个市场。</p>\n  <p>当时中国啤酒正面临一个分界点，销量见顶，此后便一路下行，但销售额却在上涨。孙晓楠的判断是，消费者喝得越来越少、但喝得越来越好。</p>\n  <p>他开始注意到无醇啤酒的机会。事实上，由于起步太晚，在几千亿规模的中国啤酒行业里，无醇还是个刚发芽的种子，直到2026年，中国无醇才约占啤酒消费量的1%左右。因此，它真正的参照系在海外——今天的德国、日本无醇市场份额约为10%，在欧美，无醇已经逐渐成为日常消费品。IWSR数据也显示，2025年全球21个主要市场的啤酒总销量微降1%，无酒精啤酒销量却逆势增长8%。</p>\n  <p>更重要的是，年轻人开始展露出对酒精的克制。孙晓楠告诉36氪，知名烈酒集团保乐力加曾与新零交流时提及，他们调研发现，全球40%的年轻人滴酒不沾。与此同时，中国的白酒整体销量腰斩，送礼与商务宴请场景的减少，让高端白酒的价格开始滑落。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_47c1f62d9ec94f4c926fa3bf5ea414cc@5971123_oswg102546oswg467oswg634_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">「新零」无醇啤酒产品图</p>\n  <p>因此，孙晓楠很快开始了人生的第二段创业，创立无醇啤酒品牌新零。但和传统大厂的先有啤酒、再除酒精不同，新零做无醇啤酒的思路是“清酿法”，即从酿酒环节开始，就围绕无醇重新设计。</p>\n  <p>国内目前两条较为主流的脱醇路线，分别是蒸馏法与脱醇法。前者利用酒精78.5℃的沸点，令其蒸发；后者则用半透膜过滤酒精。它们的共同点是，都需要先酿出啤酒，再用技术去除酒精。</p>\n  <p>但孙晓楠告诉36氪，这两套方法有三处硬伤，一是做不到真正的无醇，二是过滤会大量损失风味物质，三是为了保证口感，必须回填香精。</p>\n  <p>从创立起，孙晓楠就决定，新零不做酒精减法，而要重做啤酒。</p>\n  <p>清酿法从麦芽、酵母、发酵方式、温度、压力、设备参数开始，就围绕无醇啤酒设计。几年来，新零已经在原料、工艺、设备以及脱/控醇技术、低能量控制、酒感模拟等环节做了大量自主研发，拥有5项发明专利及20项其他专利。据孙晓楠介绍，产品能做到完全0酒精，同时把嘌呤压到4.2毫克/百毫升，而国标的低嘌呤门槛是≤50毫克/百毫升。</p>\n  <p>这条路走起来并不轻松。孙晓楠把从0到1的过程拆成四道坎：把酒精从有变成无，花了近一年；解决之后才发现，酒精不是最大的问题，好喝才是；口感终于通过了，又撞上批次一致性，这个月好喝，下月为什么不一样；最后一关才是时间，六个月以后还好不好喝，那九个月以后呢？</p>\n  <p>“前三个问题，实验做完就有答案，最后一个只能靠时间。”孙晓楠说。</p>\n  <h3>当喝酒成为一种主动选择</h3>\n  <p>究竟谁在喝无醇啤酒？</p>\n  <p>孙晓楠告诉36氪，新零的用户画像和普通啤酒几乎完全相反：女性占比约65%、男性约35%，而普通啤酒的男性占比超过85%。另外，新零用户中30岁以下人群超过70%，当月复购率超过40%，中产家庭用户占比超过60%。</p>\n  <p>但与他最初想象的不同，这些为无醇消费的年轻人们，为新零提供了一个反共识——喝无醇啤酒的人，并非是因为“不能碰酒精”，而是今天不想碰。</p>\n  <p>不能与不想之间，背后存在巨大的差异。孙晓楠说，酒桌文化在新一代身上明显失效，年轻人喜欢主动微醺，抵触被动喝醉，例如年轻女性，她们会在社交场合选择自带无醇啤酒，\"我不是不给你面子，我也在喝酒，只不过是无醇的\"。</p>\n  <p>他向36氪总结称，这是一种主动性的转变，即“喝到对方肚子里”，变为“喝到自己肚子里”。</p>\n  <p>孙晓楠还记得，自己曾在洲际集团工作时，曾问过酒店的国际总厨，喝过最好喝的啤酒是什么？</p>\n  <p>对方的回答颇为有趣，“只要是免费的酒，就是最好喝的”。</p>\n  <p>在多数西方文化中，喝酒往往被视为一种休闲和放松的方式，无论场合、无论微醺还是喝醉，都可以随时来一杯。但传统中国饮酒文化则注重氛围与礼仪，这也导致在许多社交场合中，人们喝酒是为了他人而饮。</p>\n  <p>如今这种现象正在发生变化，饮酒的快乐，可以与喝醉无关。孙晓楠认为，无醇、低醇与传统啤酒，并不是非此即彼的关系，一个人今天要上班，可以选择无醇，明天要小聚，可以喝低醇微醺，周末露营，又能选择正常酒精度。这也意味着，新零不想成为酒精的替代品，相反，它的解法是制造更多的需求。“我们现在不会用‘人’作为标签划分产品，而是用生活状态和场景划分。”他说。</p>\n  <p>在众多需求里，过年送礼成为最让他意外的一个。近年来，新零无醇啤酒在春节前后的销量有明显抬升，有买过的用户告诉他，自己买新零出于两个心意——一个是让对方尝尝鲜的新意；另一个心意则是心脏的心，希望对方能健健康康。</p>\n  <p>目前，新零的产品体系分为精酿线、国风线与创新线。精酿线最老，拥有皮尔森、比利时白啤、IPA三个口味，面向对啤酒有品鉴偏好的男性；国风线则用桂花、龙井、荔枝、山楂、杨梅这些中国本土风味酿酒，“中国味，中国造”；创新线负责脑洞，代表作是从《哈利·波特》里长出来的黄油啤酒——在原著小说中，它允许被未成年魔法师饮用，新零则用麦芽、酒花、酵母把它酿成了完全零酒精的版本，还带有谷物、饼干和太妃糖的香气，在二次元展会上卖得不错，如今是山姆会员店的主推单品之一。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_e2b91343e9a043ba91907df9df59f1bc@5971123_oswg283991oswg1000oswg1000_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">「新零」黄油风味无醇啤酒</p>\n  <p>在渠道上，新零已经进入山姆、盒马、奥乐齐等新零售渠道。36氪还了解到，新零去年开始正式规模化出海，虽占比不大，但营收已经实现翻倍增长。北美与中东目前都是新零重点拓展的海外区域，在北美，黄油啤酒成为敲门砖，在当地颇受欢迎；而在中东，当地对酒精极度零容忍，在必要的酒会场景上，完全零酒精的无醇啤酒正好补位。</p>\n  <p>团队方面，创始人孙晓楠并非酿酒出身，但常年和消费打交道，早年在Tesco英国、亚马逊、耐克、洲际酒店集团等多家世界500强工作过。目前新零团队不到20人，平均年龄28岁，总酿酒师方志远是国家级啤酒评酒委员，研发团队多有合成生物学背景。</p>\n  <p>孙晓楠告诉36氪，2026年对于新零最重要的是\"做减法\"——聚焦无醇、聚焦真正有毛利的渠道，“做窄路宽，打磨好产品，做时间的朋友。做对了，销售额是结果。”</p>",
+      "category": "tech",
+      "published_at": "2026-11-12T01:00:00+00:00",
+      "fetched_at": "2026-11-12T05:30:42.792470+00:00",
+      "fingerprint": "5be82260a1c3717f"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨海光创始核心技术团队创业AGI架构芯片，获清华系等基金数亿投资",
+      "url": "https://36kr.com/p/4066136377873286?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_dc401f6a05f642878d56533346504cd4@6221844_oswg397580oswg1024oswg576_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/视觉中国</p>\n  <blockquote>\n   <p>本文约<strong>3400</strong>字，建议阅读<strong>8</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，原生通用人工智能（AGI）架构芯片研发商——通芯人工智能科技（北京）有限公司（下称“通芯智能”）成立半年已连续完成数亿元种子轮及天使轮融资。融资由清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能以及豫资涨泉等财务投资人共同参与，集聚产业资本、头部科技VC和财务资本。资金将主要用于芯片流片前的核心架构设计及研发。</p>\n  <p>通芯智能成立于2026年4月，由人工智能科学家、通研院院长、北大和清华讲席教授朱松纯发起，依托北京通用人工智能研究院（通研院）孵化。</p>\n  <p>公司创始核心团队的平均芯片从业经验超过20年，骨干来自海光、百度、字节、阿里等头部芯片与AI团队，创始核心技术团队毕业于清华、北大、中科院、UCLA等院校，完整走过架构定义、前端设计、后端设计、流片、量产交付全链路，科学家团队覆盖大模型、世界模型、物理智能等AI全技术栈。创始人王海洋师从中国计算机事业的奠基人之一夏培肃院士，是龙芯CPU创始成员，曾任海光4代芯片架构负责人，GPU独角兽联创，拥有25年芯片研发及15年SoC架构设计经历，累计持有近百项国内外发明专利，在CPU、GPU、GPGPU等大芯片方向具备丰富的研发和量产经验。</p>\n  <p>当前，以GPGPU、Tensor Core为代表的传统架构主要面向统计式大模型优化，在因果推理、环境交互、物理智能等负载上存在天然不匹配。同时，算力、存力、运力失衡，推高了Token生产与机器人物理智能的落地成本。</p>\n  <p>王海洋表示，AGI竞争已经从单纯比拼峰值算力，转向面向物理世界交互的有效推理能力比拼。Token工厂、物理智能、机器人等产业对硬件成本、功耗高度敏感，行业需要一套原生适配认知推理的新型芯片架构。</p>\n  <p>因此，在当前大语言模型向AGI过渡的产业节点上，通芯智能选择了一条“不做GPU改良版，直接围绕CUV认知架构设计芯片”的差异化路线。</p>\n  <p>通芯智能的芯片设计理念源自朱松纯教授提出的认知（Cognition）、能力（Utility）、价值（Value）三维联合空间，即CUV架构。基于该理论底座，通芯智能以自研的Vector+Tensor+AGI Core三单元架构为基础，打造既支持向量、张量计算，又为物理、社交智能等提供原生支持的高性价比芯片。朱松纯教授表示：“通用人工智能的竞争，本质是架构之争。通芯要做的是把这条路落到硅上：以芯片适配AGI的认知架构，与‘通通’等智能体和大模型协同，构成端到端解决方案。”</p>\n  <p>在技术实现上，通芯智能采用了混合存算一体架构、通用+专用的计算架构以及灵活的云边端统一架构。通过向量矩阵单元、MoE专家模式、多级混合存算一体、图遍历引擎、原生加速STC-PG（时空因果解析图）等自研技术，解决通用GPU跑AGI时存在的“内存墙”、“稀疏不规则”、“图结构推理”等结构性错配问题。</p>\n  <p>据王海洋介绍，公司第一代芯片定位为高性价比的推理芯片，同时支持云端模型工厂和端侧物理智能，端侧对标英伟达的Thor系列，云端对标英伟达B300系列。</p>\n  <p>“随着大模型能力增强，AI正从训练时代走向推理时代。训练模型的需求在下降，而推理需求将占据绝对大头，用户对Token性价比的追求不断提高。”王海洋表示，通芯智能将首款芯片定义为高性价比推理芯片，正是为了回应这一趋势。</p>\n  <p>硬氪进一步了解到，公司成立三个月即完成架构设计和立项，现已进入芯片设计阶段，计划12月初展开FPGA原型验证工作，届时将展示阶段性成果。</p>\n  <p>在商业化落地方面，通芯智能规划了三个市场布局并已初步达成规模合作意向：第一，依托通研院体系及产业战略伙伴，在AGI通用智能体领域展开合作；第二，面向大模型智算集群和Token工厂，与整机厂商及地方智算中心合作，提供高性价比Token算力；第三，面向物理智能与具身机器人，提供端侧大算力推理芯片。</p>\n  <p>此外，公司后续还计划与北大、清华、中科院计算所、头部大模型和具身机器人公司等共建联合实验室，围绕CUV认知架构、物理智能算子、AGI芯片软硬件协同开展联合攻关，打通产学研落地通道。</p>\n  <p><strong>以下为硬氪与通芯智能创始人王海洋的访谈节选（经编辑）：</strong></p>\n  <p><strong>硬氪：通芯智能主打的AGI芯片，跟其他的AI芯片有何不同？</strong></p>\n  <p><strong>王海洋：</strong>举个例子，现在很多做光计算的公司，本质上还是在针对当前的大语言模型做计算加速。但大语言模型并不等于AGI。我们不是做一个更快、更省电的“计算器”，而是面向朱松纯教授提出的CUV认知架构，在硬件底层做原生设计。除了支持向量、张量计算来向前兼容现有的Transformer架构，我们还在芯片里增加了几十个专门针对AGI算法算子的硬件加速器，让未来的物理智能、空间智能算法能够完整、高效地跑在我们的芯片上。这在当前的芯片品类里是一个全新的东西，可以说是“新物种”。</p>\n  <p><strong>硬氪：目前跟产业界的接触中，客户真正在意的是什么？</strong></p>\n  <p><strong>王海洋：</strong>现在大家最在意的其实是推理成本，也就是Token的价格。前几年大家都在拼训练算力，但随着模型能力增强，基座模型公司越来越少，真正的落地主要在推理上。客户看我们的芯片，一是看我们能不能支持未来向AGI演进，二是看性价比。我们把第一代芯片定义为“支持AGI算法的、高性价比的推理芯片”，同时支持云端的智算集群和端侧的具身智能。</p>\n  <p><strong>硬氪：当前整个行业对AGI芯片的需求热情如何？未来有哪些趋势是你们重点关注的？</strong></p>\n  <p><strong>王海洋：</strong>这是一个渐进的过程。大模型发展非常快，但学术界和产业界逐渐发现它的局限性，现在大家都开始向AGI对齐。我们认为AGI芯片正处于类似2017年Transformer文章发表后、到ChatGPT爆发前的过渡阶段。芯片研发从立项到量产至少需要20个月，我们现在来做恰逢其时。</p>\n  <p>从趋势来看，第一是推理将占绝对大头，各种评测乐观一点的认为推理占比会到90%以上。第二是提高计算芯片的计算效率。目前芯片面临算力、存力、运力三大瓶颈，其中内存强是制约计算芯片效率最大的问题。我们提出的混合存算一体，是未来解决存力瓶颈的核心方案。不管未来技术流派怎么变，通过存算一体解决存力瓶颈的计算芯片，会成为绝对的主流，我们在这方面有明确的布局。第三是逐渐向AGI芯片过渡。现在无论学术界、还是产业界都在加快AGI的探索，芯片厂商也会加快布局。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>豫资涨泉资本创始人刘啸东表示：</strong>豫资涨泉资本重点布局科技智造与颠覆性科创技术领域，致力于在国内外寻找并投资真正有技术含量的优质标的。投资通芯智能，是看好训推分离之后推理侧算力的长期机会，也看重公司面向AGI时代提前布局的芯片底层架构。公司的团队也是吸引我们的一个重要原因：通芯智能的这支队伍既有研究院的科研底子，又有来自芯片大厂的近20款大芯片的工程化与量产经验，科学家、产业专家和管理者各管一段。这种“三角形”的结构，恰恰是把创新转化为创业最关键的一环。作为投资人，我们提供资本与耐心，愿与公司一道把架构和生态的根扎深，行稳致远。</p>\n  <p><strong>水木校友基金管理合伙人王学辉表示：</strong>通芯一边是研究通用AI的科学家，一边是亲手把海光、龙芯芯片做出来量产的工程师，公司定位于专门给人形机器人、智能体用的国产新芯片，软硬一体，解决现有芯片搞不定现实世界物理智能的痛点，我们看好大赛道未来前景，也看好团队，希望水木能不断赋能公司尽快实现流片。</p>\n  <p><strong>松霖科技战投负责人韩宗谕表示：</strong>我们看好通芯在AGI芯片与原生模型一体化的核心技术以及具备丰富量产经验的创始团队。本次投资是产业型战略布局，依托松霖在医养、后勤以及家庭场景的全球化产业基础，与通芯形成深度协同，加强具身智能底层算力能力。期待双方共同推进芯片适配、产品验证与商业化落地，共建可控、可落地的国产AGI机器人产业链。</p>\n  <p><strong>普超资本的创始合伙人李立伟表示：</strong>普超资本持续专注布局于人工智能时代的算力基础设施产业链。通芯智能打通AGI理论到芯片架构的技术链路，团队兼具前沿AGI科研积淀与长期算力大芯片全周期量产经验，以差异化架构适配因果关系、多物理场计算需求。我们期待公司软硬件协同落地，夯实国产AGI时代算力底座。</p>\n  <p><strong>青创伯乐创始合伙人兼董事长赖光宁表示：</strong>每一轮技术革命真正落地的时候比的都不是谁的概念更响，而是谁能把稀缺的东西变得便宜、可靠、可规模使用。AGI走到今天，谁能让智能算得更省，谁就掌握了下一阶段产业化的关键。通芯智能选择做AGI芯片，本质上是在参与定义这个时代的算力底座。他们既能在架构上做出原创判断，也扎实地在做落地工作；中国的底层创新，缺的往往就是这一股坚持做下去的劲头。青创伯乐愿意陪它把这件事做成；也希望通芯将来被记住的不只是他们的芯片产品，而是他们为中国AI产业打下的那段地基。</p>",
+      "category": "tech",
+      "published_at": "2026-11-12T02:08:06+00:00",
+      "fetched_at": "2026-11-12T05:30:42.792463+00:00",
+      "fingerprint": "5c7615cc8d8e33ad"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "我们需要一个不卖瑜伽裤的lululemon吗？",
+      "url": "https://36kr.com/p/4064801667584896?f=rss",
+      "summary": "<p label=\"正文\">文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <h3 label=\"二级标题\">失灵</h3>\n  <p>lululemon的创始人奇普·威尔逊（Chip Wilson）曾自诩创造了一台完美的商业机器，以至于他离开之后“即便是一台电冰箱来管理这家公司都能成功”。在这话说出的仅一年之后，这台机器的运转就出现了问题。</p>\n  <p>2025财年，lululemon在最主要的美洲市场营收下滑1%；2026财年跌势加快，第二季度美洲营收下降8%，可比销售跌了12%。今年1月，新款紧身裤Get Low因“透光”投诉暂停线上销售，上一次类似的风波还要追溯到2013年。</p>\n  <p>今年5月底，lululemon在长城办了一场瑜伽活动，现场用了日本太鼓，在社交媒体上惹起众怒，公司随后致歉。到第二季度，中国大陆营收按固定汇率计算下滑2%，可比销售跌了8%，远低于公司预期。股价也一路下行，今年5月初每股约130美元，比2023年底的高点跌去近四分之三。</p>\n  <p>同时董事会还得打起精神，应付一位好斗又极富表演欲的创始人。去年11月，威尔逊在华尔街日报上登了一整版面的广告，称lululemon“宛如一架失事的飞机”；今年春天，他干脆发起代理权之争。同时，门外还有野蛮人环伺——去年12月华尔街激进投资者艾略特管理公司（Elliott Management）建仓逾10亿美元，跻身lululemon最大股东之列。彼时公司刚宣布CEO卸任，正在物色接班人。</p>\n  <p>但在知情人士看来，lululemon今天处境绝非一日之寒。在2024年，这家公司主要市场美国开始出现疲软迹象，5月，时任首席产品官Sun Choe无预警离职，当日公司股价即跌去7%。</p>\n  <p>Wedbush分析师汤姆·尼基（Tom Nikic）说这件事发生在“amid this undercurrent of fear”（市场暗流般的担忧之中），并认为她在lululemon过去七年多的成功中起了关键作用。Sun Choe离职之后，公司宣布不再设首席产品官，产品设计交给入职才四个月的创意总监Jonathan Cheung。</p>\n  <p><strong>有lululemon前员工向36氪表示，Sun Choe离开后，公司明显“失去了增长动力”。</strong>在他看来，接手产品设计的Jonathan Cheung上任一年多，并没有拿出令人印象深刻的产品，一些忠实顾客就此流失。Sun Choe离开后没几个月，时任CEO 凯文·麦克唐纳（Calvin McDonald）也公开承认，女装品类“新品不足”（reduced newness）。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_06eaa6d41969431d82115cc1a4cdc8f0@5922386_oswg226342oswg3000oswg1320_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2025财年，lululemon在美洲的利润跌幅明显｜制图：36氪</p>\n  <p>这与市场的反应相符。在社交平台上被推荐为“值得入手”的lululemon单品里，最常出现的仍是Align瑜伽裤、Groove喇叭裤、Scuba卫衣和Define夹克，近三年推出的新品很少入选。</p>\n  <p>另一面，lululemon旷日持久的多品类转型仍未看到阶段成绩：鞋履、跑步、高尔夫、网球等名目里，尚没有一个能单独拎出来。鞋类至今被归入“配饰及其他”，这一类加起来只占总营收的13%。</p>\n  <p>2022年，麦克唐纳提出“Power of Three ×2”五年增长计划：以2021年为基数，到2026年营收翻倍至125亿美元，其中男装和数字渠道营收各翻一番，国际市场营收翻两番。如今时间到了，lululemon预计今年营收最多105亿美元；截至2025财年，男装和电商营收只增长了七成多，国际市场增长了约2.4倍，三项都没有达标。<strong>女装仍是lululemon最大的生意，2025财年贡献约63%的营收，这一比例过去三年几乎纹丝不动。</strong></p>\n  <p>截至8月2日的2026财年第二季度，lululemon营收24.2亿美元，同比下滑4%。撑起品牌的核心单品紧身裤销售下滑约20%。公司似乎陷入蜡烛两头烧的境地，全年营收预期随之下调为同比下滑5%至7%。</p>\n  <p>去年12月，麦克唐纳宣布卸任，今年1月底离开。半年内一系列人事变动随之展开，核心管理层几乎全部换人。最引人关注的是耐克老将海蒂·奥尼尔（Heidi O’Neill）9月8日正式就任CEO，结束了lululemon持续七个多月的临时联席CEO安排。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_25fb3db845d9477eaae0a04240016fbc@5922386_oswg74914oswg430oswg430_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">lululemon首席执行官Heidi O’Neill</p>\n  <h3 label=\"二级标题\">外来和尚</h3>\n  <p>海蒂在耐克工作了超过25年。最近的职位是消费者、产品与品牌总裁，统管全球产品线、品牌与营销，任内压缩了产品开发周期，并把足球和跑步列为优先品类。</p>\n  <p>在此之前，她以消费者与市场总裁的身份负责耐克在170多个国家的业务和损益，更早还主管过全球直营与数字业务，覆盖门店、电商、App和会员体系。</p>\n  <p><strong>接近耐克的知情人士向36氪透露，海蒂是耐克前CEO约翰·多纳霍（John Donahoe）的得力助手，是耐克直营战略和产品创新的关键推动者，也曾是耐克下届CEO的热门人选。</strong></p>\n  <p>lululemon董事会执行主席马蒂·莫菲特（Marti Morfitt）在一份声明中表示：“我们选择海蒂，是因为她经验广泛，曾在大规模业务中成功推行突破性的创意和举措，并且能够以内行的身份推动变革与增长。”</p>\n  <p>另一面，lululemon也终于和创始人达成了暂时的停战协议。今年5月27日，股东大会召开前夕，公司与威尔逊签署合作协议：威尔逊提名的ESPN前首席营销官劳拉·詹蒂莱（Laura Gentile）、昂跑前联席CEO马克·毛雷尔（Marc Maurer）进入董事会，公司还承诺再增补一位具备服装产品与品牌经验的董事；作为交换，威尔逊接受约18个月的停火期，并遵守投票约束和不诋毁条款。</p>\n  <p>海蒂获任的消息公布次日，lululemon股价下跌13%。一种观点认为，她的履历不够“野”。作为在耐克体系里成长起来的职业经理人，她未必能给这家公司带来足够的外部冲击，何况她力推过的直营战略，正是耐克现任CEO贺雁峰（Elliott Hill）上任后着手扭转的方向。</p>\n  <p>但也有分析师认为，lululemon的基本盘没有问题，财务依然健康，用不着传说中的猛药。“一家公司不可能永远保持爆发式增长。”晨星分析师大卫·斯沃茨（David Swartz）说。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_3ceee608b1f542a099b79036565606ff@5922386_oswg163360oswg2400oswg1320_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">新品乏力，lululemon的季度库存仍处在相对高的位置 ｜制图 36氪</p>\n  <p>无论如何，新品吸引力不足仍是公司眼下最急迫的问题。“我们看到顾客对营销活动和部分新款式反响不错，但整体而言，产品上市后的市场反应仍然不稳定。”今年9月的第二季度财报电话会上，身兼临时联席CEO与首席财务官的梅根·弗兰克（Meghan Frank）说。</p>\n  <p>海蒂上任刚满一个月就动了产品线的架构。10月7日，她任命Athleta CEO玛吉·高格（Maggie Gauger）为总裁兼首席产品官，统管设计、商品企划、鞋类、产品创新和材料科学，现有的设计与商品负责人都改向她汇报。这个职位在Sun Choe离开后空缺了两年多，其间设计和商品分属两条汇报线，如今重新收归一人。</p>\n  <p>lululemon对产品创新的忽视有其历史和结构上的根源。一位lululemon前高管向《环球邮报》旗下杂志《Report on Business》透露，2018年麦克唐纳上任前夕，公司的汇报结构已经变了，商品企划负责人拿到了更大的决策权。<strong>这是一种鼓励经验和路径依赖而非破坏式创新的安排。</strong>“你最终会变成一个长得跟别人差不多的品牌，”这位前高管说，“一切都很基础，很安全牌。”</p>\n  <p>lululemon在麦克唐纳任内实现了跨越式增长：营收从2017财年的26亿美元涨到2025财年的111亿美元，翻了两番；净利润在2024财年达到18亿美元的高点。但隐患也在这些年里埋下，Sun Choe的出走只是一个缩影。</p>\n  <p>“我不认为任何一个早年待过的人，会觉得它还能回到过去的样子。”曾在lululemon工作近十年的前高管布里·斯坦莱克（Bree Stanlake）说。但她也认为，lululemon需要重新焕发活力。</p>\n  <h3 label=\"二级标题\">sweet spot</h3>\n  <p>很长时间里，lululemon都对品牌形象锱铢必较。“第一个l必须小写。”公关曾这样要求媒体。在英文语境里，小写字母常被视作低调、谦逊、更有人味；而对品牌名写法如此较真，更常见于奢侈品而非运动公司。</p>\n  <p>在那几年，lululemon确实更像一个奢侈品牌，或者说，一家生活方式公司，而不是一个瑜伽品牌。从产品层面看，它的创新也已经很长时间与瑜伽无关了。刚刚结束的进博会上，lululemon一口气发布了三款新品，没有一款是为瑜伽准备的。</p>\n  <p>Ventscape跑步马甲瞄准的是冷天跑步的老难题：起跑时冷，跑开了又闷又潮。它把PrimaLoft ThermoPlume+保暖夹层和网眼面料拼在一起，在保暖和透气之间找平衡。Unrestricted Power训练系列用的是自研的PowerLu面料，主打支撑与灵活兼顾，减少深蹲、举重时衣服的束缚和移位。ShowZero网球系列则通过改变光线与面料的相互作用，让衣服被汗打湿后不易显痕。在一项靠出汗决胜负的运动里，lululemon的技术重点是让人看不出你出了汗。后两款要到2027年才在中国上市。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_c60260f49e6242418a28b34126e951c0@5922386_oswg63468oswg705oswg605_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Ventscape跑步马甲 ｜来源：品牌</p>\n  <p>从某种程度上说，lululemon也确实越来越像一个传统运动品牌。公司介绍，研发这款跑步马甲时，他们找来一群运动员，穿着原型在科罗拉多州的公路上跑了十几公里，再把反馈收集起来，作为后续几代产品迭代的依据。</p>\n  <p>按品牌的说法，lululemon产品的核心是“触感科学”（Science of Feel）：那些名目繁多的“科技”，背后说到底是面料和剪裁。<strong>在更强调动力科学的耐克、阿迪达斯衬托下，主打面料舒适度确实是一个差异化的卖点。</strong>但这是否也把lululemon的优势框在了贴身层（Base Layer）里？要知道，上一个靠贴身层打出名气的Under Armour，至今仍在泥潭里挣扎：截至今年3月的2026财年，它的营收下滑4%至约50亿美元，净亏损4.96亿美元，重组阶段还没走完。</p>\n  <p><strong>接近lululemon的人士告诉36氪，公司在体育营销上的思路也和耐克、阿迪达斯不同，“我们不会强调竞技上的输赢”。</strong></p>\n  <p>话虽如此，lululemon的签约名单上并不缺赢家：七届F1世界冠军刘易斯·汉密尔顿（Lewis Hamilton），在2010年温哥华冬奥会上打进冰球“金球”的西德尼·克罗斯比（Sidney Crosby），两度闯入美网男单四强的弗朗西斯·蒂亚福（Frances Tiafoe），2021年美网女单亚军莱拉·费尔南德斯（Leylah Fernandez），还有高尔夫球手马克斯·霍马（Max Homa）和Min Woo Lee。它还是加拿大奥运代表团的官方装备商。</p>\n  <p>在中国，它今年签下了网球运动员郭涵煜，品牌称她是首位征战全部四大满贯的中国签约球员。只不过在官方表述里，这些人被选中，理由往往是“领导力”和“对社区的积极影响”，而不是奖杯。</p>\n  <p>这到底是有意为之的策略，还是后来者的权宜之计，尚不可知。但这也许让lululemon始终处在一个需要拿捏平衡的中间地带：它想吸引真正热爱运动的人，“目标明确、积极向上”，却又不希望他们太过争强好胜。某种程度上，这比威尔逊口中的“超级女孩”（Super Girls）还难找。在他的回忆录里，完美的超级女孩24岁，受过良好教育，是顶尖运动员，对目标和运动都满怀热情。</p>\n  <p>从消费者的角度，他们似乎也并不想在lululemon买毛衣和裙子。GlobalData董事总经理尼尔·桑德斯（Neil Saunders）批评lululemon的货架上塞了太多“非核心产品”；今年第二季度，“配饰及其他”品类营收下滑13%。弗兰克也承认，公司今年对货品组合做了一些“纠偏”，砍掉了部分偏离核心优势的小配件。</p>\n  <p>更耐人寻味的是，lululemon当年的魔法仍然有效。<strong>紧身裤并没有过时，“穿得像一个热爱运动的富家女”依然备受追捧。</strong>Vuori、Alo Yoga都从lululemon身上学到了不少东西。有的品牌干脆就是lululemon旧部创办的，比如Left on Friday。Vuori在2024年底估值达到55亿美元，Alo则在今年进入了中国市场，计划一口气开出八家门店。</p>\n  <p>安大略运动品牌Azur Fit的创始人艾琳·沃德-威廉姆斯（Erin Ward-Williams）也在店里开瑜伽课。有顾客提醒她，同一商场里的lululemon也在办课，“他们在抄你”。她纠正对方：“他们没有抄我。那本来就是他们开创的。”</p>\n  <p>如今，轮到开创者回头去找那个甜蜜点了。</p>",
+      "category": "tech",
+      "published_at": "2026-11-12T02:20:56+00:00",
+      "fetched_at": "2026-11-12T05:30:42.792456+00:00",
+      "fingerprint": "c7d9a45cec754d53"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "联想为何要做词元生意？｜最前线",
+      "url": "https://36kr.com/p/4066221891196036?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_2c55dccc03054ab9986bafa86e86d7eb@6310690_oswg1529519oswg1552oswg1014_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源联想官方</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜袁斯来</p>\n  <p>11月10日，联想发布了“万全混合词元工厂”品牌，并宣布与张家口市政府合作建设首个混合词元母本工厂。</p>\n  <p>按照联想公布的规划，张家口母本工厂初期将建设1.5万P异构算力集群、约100MW智算中心，词元年产量超过2000万亿，峰值词元产出达到每秒2亿。到2030年，相关核心指标预计将在现有基础上提升10倍以上。</p>\n  <p>这意味着，联想希望改变过去从“卖AI设备”为主的业务模式，将算力资源进一步转化为“AI产出”。</p>\n  <p>过去三年，AI产业最确定的生意是算力。</p>\n  <p>从英伟达GPU到服务器、交换机，再到数据中心和配套电力设施，资本和产业资源持续涌入AI基础设施建设。谁能拿到芯片、谁能建设更大规模的算力集群，成为这一阶段竞争的关键。</p>\n  <p>但算力建设并不等于直接商业价值兑现，购买服务器、建设智算中心只是AI投入的开始。模型训练和推理需要持续消耗算力，如何提高设备利用率、降低单位推理成本、让模型稳定完成实际任务，才是AI能否真正进入业务流程的关键。</p>\n  <p>尤其当 AI 从简单地聊天工具走向智能体，Token消耗正不断增加。</p>\n  <p>过去，用户向大模型提出一个问题，模型返回一段答案，Token消耗相对有限。现在，智能体开始承担搜索、分析、决策和执行等连续任务，一次业务流程可能需要多轮模型调用，Token消耗也随之增加。国家数据局数据显示，截至2026年6月，我国日均词元调用量已突破500万亿。</p>\n  <p>这意味着，AI产业链的竞争正在出现新的变化：过去比拼的是谁拥有更多算力，接下来还要比谁能用同样的算力生产更多、更便宜、更有效的Token。</p>\n  <p>中信建投证券计算机行业首席分析师应瑛在会后交流时提到，从报表和投资账面看，AI基础设施仍然占据较高价值，但从未来三年的实际利润增速看，Token运营和应用环节有望承接更多的增长。</p>\n  <p>这与早期云计算产业的发展有相似之处。云计算最初解决的是企业IT资源的供给问题，随后竞争逐渐转向资源调度、平台服务和应用生态。AI基础设施也可能经历类似的过程：从卖算力，走向卖算力服务，再走向卖实际的AI生产能力。</p>\n  <p>在这个过程中，词元工厂成为一种新的基础设施形态，应瑛将其视为“New Cloud”，即新一代云平台。</p>\n  <p>词元工厂并不是简单地把一批GPU集中起来，再向外出售Token。它还需要解决不同算力、模型和业务之间的匹配问题。</p>\n  <p>联想为万全混合词元工厂搭建了“三层混合动力”——底层是联想问天AI基础设施，负责提供异构算力；中间层是万全混合词元工厂，负责算力管理、模型调度和Token生产；上层则是擎天与百应智能体解决方案和服务，将Token转化为具体业务场景中的生产力。</p>\n  <p>联想并不是唯一一个看到Token运营机会的企业。过去两年，不少原本主营服务器或算力设备的企业，也开始向Token运营和服务延伸。云厂商本身拥有算力资源、模型生态和客户入口，也在争夺企业AI基础设施市场。</p>\n  <p>应瑛认为，企业要进入词元工厂市场，可以类比云计算和IDC（互联网数据中心）行业，分硬资源、软运营两个门槛。硬资源方面，土地、电力价格或者服务器基础设施采购部署，只要有一项具备成本优势，就有一定入场基础；软运营方面，则需要能够进行算子调优、搭建高并发云平台的技术团队。即使硬件条件相同，不同运营团队也可能生产出成本差异明显的Token。</p>\n  <p>这意味着，词元工厂并不是一个只靠资本投入就能建立壁垒的行业。算力规模可以通过投资获得，但持续的调度优化、客户理解和运营效率，需要在真实业务中积累。</p>\n  <p>Token生产只是中间环节，企业愿意持续付费的最终原因取决于AI是否帮助它缩短了研发周期、提高了生产效率，或者创造了新的收入。</p>\n  <p>从服务器到智算中心，再到词元工厂，联想实际上是在争夺AI基础设施产业链中更靠近客户、也更接近商业价值兑现的位置。</p>\n  <p>不过，这场竞争才刚刚开始。对于联想而言，建设词元工厂只是第一步，能否把算力、模型和运营能力组合成一门有稳定客户、有持续收入、也有合理利润的生意，才是这场转型真正的考验。</p>",
+      "category": "tech",
+      "published_at": "2026-11-12T03:35:37+00:00",
+      "fetched_at": "2026-11-12T05:30:42.792447+00:00",
+      "fingerprint": "771af91436143677"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "写在《影之刃零》发售一周后 | 玩点好的",
+      "url": "https://36kr.com/p/4065714826269824?f=rss",
+      "summary": "<p>文丨果脯</p>\n  <p>现在再聊《影之刃零》本身，可能时间稍晚了。毕竟，满打满算游戏迄今已经上线一周有余，多数玩家都已经顺利完成了一周目，市面舆论也完成低开高走。</p>\n  <p>目前，游戏已经从上线初期的77%好评率，逐步回暖到了现在的94%，并且可能还会持续上涨；另一边的PS商店则有九成用户打出了满分。而在游戏发售72小时后，官方也表示全平台销量已经突破400万份。基于这份成绩，想来未来销量累计突破千万，恐怕也已经是时间问题。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_6a62e158613d41ab9da8885b0a199e01@6202862_oswg489864oswg1080oswg555_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《影之刃零》Steam页面</p>\n  <p>但如今再看《影之刃零》，其实仍不乏大量需要思考与纠结的复盘问题。</p>\n  <p>不可否认，哪怕抛开「国单」标签，放眼世界，《影之刃零》都是一款优秀的作品。</p>\n  <p>这个优秀，既来源于游戏本身的质量呈现，也来源于它能在不甚明朗的开局前提下，仍能说服大量玩家，逆转大众对其的第一印象。甚至我亲眼见证了同事从最初对其的各种不满，到最后折服于整段沐小葵的Boss战体验。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_fec0dabfbdbb4171a5c7dd525937231e@6202862_oswg592182oswg1080oswg657_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">沐小葵</p>\n  <p>但其中更重要的，或许是《影之刃零》在整个产品身上体现的「成长感」。毕竟市面上已经不乏对其的各类褒赞，我反而想从不足处再聊两嘴这款产品。</p>\n  <p>可能于不少玩家而言，《影之刃零》的通关体验是一个充满和解、接受或是逐步认可的过程。</p>\n  <p>一个明显的特征是，几乎没人会觉得第一二章的内容存在可圈可点之处。相反，更多人的高评价都来源于后续内容足够惊艳，让他们能够「原谅」前期章节的不足。当然，随着玩家逐步上手、熟悉，诸如打击感、战斗节奏等问题也正逐步被适应，对应都负面反馈也就自然而然被削弱。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_cb93fe0b73964b0a828ea96d86f3f2e4@6202862_oswg535234oswg1080oswg609_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Boss舞狮尊主</p>\n  <p>以及一些足够惊艳的传统文化设计</p>\n  <p>但个人来看，许多问题在《影之刃零》身上并没有得以解决，更值得认可的是团队创作者们在整个过程中付诸的思考。</p>\n  <p>毕竟如果每个产品都要追求极致，那么不论是《影之刃零》，还是更早的《明末：渊虚之羽》《黑神话：悟空》，最终都只会变成遥遥无期的空谈。</p>\n  <p>最明显的就是整套动作内容设计。</p>\n  <p>在早期的反馈中，动作内容是存在最多问题的模块，比如大量玩家吐槽「打击感不足」「反馈差」。一方面，这个问题主要受游戏整体内容完成度的影响，像音效、动作，以及各类细微处的技术画面表现，都可能对打击感带来破坏性的影响。更何况，《影之刃零》本身强调高速战斗与博弈，打击感在此间的重要性又要退而求次，完成度并不高。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_2bca1dd570584a5c989cdd3670256d77@6202862_oswg1066534oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏里的醉剑可以喝酒</p>\n  <p>说白了，单论动作内容，《浪人崛起》《鬼武者：剑之道》都足够成为《影之刃零》的老师，而《影之刃零》在质感、特色方面则更胜几筹。</p>\n  <p>另一方面，打击感问题一定程度上也是整个武侠题材的锅。</p>\n  <p>不少业内人士在讨论中，更倾向于用《战神4》对标《影之刃零》，核心原因就是《战神4》在题材与沉浸感间达到了绝佳的设计平衡——说白了就是，做出了让玩家认可的「西方神仙大战」。而当年《黑神话：悟空》的各路预告能够惊艳众人，也是因为它做出了足够扎实的东方神话质感。</p>\n  <p>但放在武侠打斗上，这些又是另一回事。</p>\n  <p>在强调动作的游戏里，卡肉、顿帧这种常规设计可以用以突出重量感，高速连段则能够强调速度感和连段体验，但在武侠背景里，《影之刃零》既要确保招式独特、博弈在线，又得让每套攻击都有其专属的技术表现，这显然并不现实——更何况，在传统武侠题材作品里，可能很多东西直接体现起来就是「轻飘飘」，或者说飘逸的，如果想要硬凹，更容易就会把杀人术变成了舞台表演。</p>\n  <p>因此，《影之刃零》最终处理的思路是，把招式「藏」起来，把武器、对抗博弈的重要性提起来。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_daa67e485cad425685ae132295149750@6202862_oswg501057oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">白山风雷剑</p>\n  <p>像一些基础性的招式，比如横扫、蹬腿等，会在特殊境地下，随攻击自然触发，这使得不同情境的战斗能展现不同的武学表达，同时也是丰富游戏的特殊交互内容，增加惊喜感。</p>\n  <p>而更加复杂的体系化内容，他们就会针对性做成武器，或是Boss战的的QTE交互。比如在游戏里，每一件武器都有各自的连段特性，并且都配套了数种处决动画，而作为「技能」的影之武装，则会更强调各路武学的表现形式。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_44ed2c8e40ab4837a825fc44b692692e@6202862_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">处决技</p>\n  <p>随着内容广度拓宽，玩家也自然就接受了深度不足的遗憾。更何况，恐怕现今还没有几款游戏，能像《影之刃零》一样把各类武学招数的交互自然地融入到各类战斗之中。哪怕是背靠《流星蝴蝶剑》后出身的《永劫无间》，基本也还是遵循了技能演出的逻辑，没有那么强的交互感。</p>\n  <p>其次则是游戏的心流设计。</p>\n  <p>说句不好听的，《影之刃零》的心流设计存在一定的节奏问题。从地图设计看，它做的是类银河恶魔城式的箱庭地图，但地图各个板块之间的衔接与过渡，基本都是围绕高密度的铃铛（坐火点）来构筑。而一切高密度且无意义的铃铛，恰恰又最容易阻断玩家的沉浸感。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_c9a21bd25261414e972a95a0c4bb6dfc@6202862_oswg962491oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏里的幻境地图（里武林）</p>\n  <p>至于铃铛的密度有多高……最夸张的情况莫过于，当你第一章首个Boss战结束后，只需走两步路看一段对话，就会立马发现又有一个铃铛。</p>\n  <p>于是，每个地图中带给玩家推进感的既不是景色变幻，也不是山重水复的惊喜感，而是「下一个铃铛在哪里」。</p>\n  <p>诚然，高密度的铃铛大量减少了玩家的跑图认路成本，但也是在地图设计层面给出了一个相对粗暴的解法。比如《影之刃零》最为重要的地图「庞镇」，其底层的跑路逻辑反而并不如前一章「陆家村」来得精妙，基本只是用铃铛连接了多个重要建筑板块。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_4328b99264044ef0870fa59a0636d96c@6202862_oswg885448oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏最重要的区域庞镇</p>\n  <p>也就是说，在这游戏里玩家的认路逻辑只有两种：一是判断自己有没有开启铃铛，破除地图迷雾；二是看相应地方的收集品、小怪有没有清除。</p>\n  <p>单从设计层面来看，比起纯粹的环境引导，这种设计肯定会更加破坏心流，也比较取巧。但从玩家的角度来看，如果可以，我个人其实更希望80%的游戏选择这一设计方法，毕竟它难度不高也好用，而且……也比较现实。</p>\n  <p>这才是《影之刃零》的可贵之处。</p>\n  <p>《影之刃零》无疑是有野心的，不论是从商业还是IP的角度而言。但过去很多年里，玩家吃过的细糠太多，很多人都忽略了游戏设计究竟有多难。直到近几年，随着国外惊艳全球的大作减少，许多开发者也才渐渐意识到这事。</p>\n  <p>直接游戏本身举例说明的话，这就好比想要击败Boss，80%玩家更轻松的选择都是找一套比较轮椅的战斗套路，而不是像UP主纯黑的视频一样兼顾表演、无伤和Boss交互。一套并不优秀的隐性引导，并不比直接干脆的显性引导好上多少。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_aed5e850d2924761966d17bfea6fcdaa@6202862_oswg417233oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏中的饰品，可以提供各类数值加成</p>\n  <p>就像这个饰品，低手惜之如命，高手嗤之以鼻</p>\n  <p>从这点来看，《影之刃零》，或者说如今有所成就的国单，都有一个难得的品质——克制。</p>\n  <p>这不单指设计层面不要好高骛远，或者说完成比完美重要，还强调给自己、给玩家能够呼吸的空间。无疑，在单机领域层面，国内开发者单论能力，其实并不比国外差多少，更多时候，他们只是没有国外那么好的市场土壤和积累足够深厚的项目管理经验，甚至许多东西（像国产题材的3A设计）还处在一个起步探索的阶段。</p>\n  <p>换而言之，《影之刃零》不是一部基于短板效应的游戏，相反，它只要拿出一段长板，就足以收获玩家认可，而剩下的东西，就是尊重玩家，或者说不为难玩家，比如减少游戏的垃圾时间，更为「慷慨」的游戏数值等等。这些东西，甚至受国外单机游戏冲击，曾变成一部分国内开发者心中的「祖宗之法」，不可轻变。</p>\n  <p><strong>结语</strong></p>\n  <p>可实际上，游戏行业何来「祖宗之法」？</p>\n  <p>游戏作为文娱类商品，比抄作业更可怕的是创作者选择放弃思考。继《黑神话：悟空》《明末：渊虚之羽》之后，国内一度掀起大批量的「类魂」产品风，甚至就连《影之刃零》做了类似坐火点的铃铛，都被不少人拿来比对类魂，说它哪里做得够「魂」，哪里又不「魂」。</p>\n  <p>更进一步来看，国产单机和主机游戏在过去两年迎来了快速增长机会，早前还有已经持续了十年的「索尼中国之星」计划，已经扶持并推出了多款优秀作品。然而游戏行业终归是内容行业，即使索尼扶持之下依然有不少国单折戟。因为在这背后，比抄作业更可怕的是创作者选择放弃思考。</p>\n  <p>不可否认，于很多开发者来说，「类魂」的确是一个低成本、高成功率的选择。但游戏行业从来不只有魂，「魂」也只是一种设计风格，而不应该成为一套可供复用的通解——就像不是只要用UE5做了就能算是3A游戏。</p>\n  <p>甚至个人来看，《影之刃零》能够突出长板，哪怕只在其他系统做出基础线之上的设计，就已经比之纯粹的「抄作业」要优秀了不少。</p>\n  <p>更别说，它本身的许多设计都已经有了自己的思考。比如在普通难度中，很多人都忽略了「六十六天」这一设定，但据梁其伟所述，游戏中这一设定与整套游戏系统bulid有着紧密的联系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_04fb34476e94415aae36d9c232a2bbd2@6202862_oswg429459oswg880oswg557_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">甄子丹</p>\n  <p>在多周目解锁的「六十六天」难度里，玩家其实也才能真正理解游戏内许多地图设计的小巧思——比如为什么整个游戏里，最「阴间」的只有能够自爆以命换命的爆弹怪；以及为什么，在前往庞镇前游戏会进入回忆扣除天数，在庞镇及后续地图这一设计又不再可见。</p>\n  <p>《影之刃零》当然是不完美的游戏，甚至我迄今都认为它缺点颇多，甚至其中不少Boss设计都多少有点粪怪潜质。但从市场来看，它又是今年最值得尊重、认可的单机游戏，毕竟单凭设计精神，它就已经超越了国内外整个游戏行业太多创作者了。</p>\n  <p>本文首发自<a href=\"https://mp.weixin.qq.com/s/wfp-skIx3AwTBGDtfhECqw\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪游戏”</a>。</p>",
+      "category": "tech",
+      "published_at": "2026-11-12T04:15:28+00:00",
+      "fetched_at": "2026-11-12T05:30:42.792431+00:00",
+      "fingerprint": "cd2ded8c98721a3d"
+    },
+    {
+      "source": "少数派",
+      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+      "url": "https://sspai.com/post/118175",
+      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？<a href=\"https://sspai.com/post/118175\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-11T06:50:39+00:00",
+      "fetched_at": "2026-11-12T05:30:41.351035+00:00",
+      "fingerprint": "a9581b8688d77475"
+    },
+    {
+      "source": "少数派",
+      "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+      "url": "https://sspai.com/post/118781",
+      "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...<a href=\"https://sspai.com/post/118781\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-11T09:30:00+00:00",
+      "fetched_at": "2026-11-12T05:30:41.351029+00:00",
+      "fingerprint": "2563ca83df94b601"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+      "url": "https://sspai.com/post/118935",
+      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。<a href=\"https://sspai.com/post/118935\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-12T00:22:09+00:00",
+      "fetched_at": "2026-11-12T05:30:41.351023+00:00",
+      "fingerprint": "6a0191c5e23865e3"
+    },
+    {
+      "source": "少数派",
+      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+      "url": "https://sspai.com/post/118921",
+      "summary": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...<a href=\"https://sspai.com/post/118921\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-12T03:12:02+00:00",
+      "fetched_at": "2026-11-12T05:30:41.351012+00:00",
+      "fingerprint": "9ddb156b1d88d2a0"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.5756 CNY ↓-0.63%",
+      "url": "https://www.frankfurter.app/2026-11-11?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-11-11</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.5756 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0292 (-0.63%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-11-12T05:30:40.222251+00:00",
+      "fingerprint": "9b2af8126e282c59"
+    },
     {
       "source": "The Guardian - World",
       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
@@ -1531,586 +1811,6 @@
       "published_at": null,
       "fetched_at": "2026-11-06T04:51:08.671745+00:00",
       "fingerprint": "652b0eb9c3e16c95"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-      "summary": "<p>Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit</p><p>A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.</p><p>“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday. “The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.”</p> <a href=\"https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-11-04T18:18:37+00:00",
-      "fetched_at": "2026-11-05T04:51:24.343191+00:00",
-      "fingerprint": "9aa01155d2e9936c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "category": "politics",
-      "published_at": "2026-11-04T16:26:15+00:00",
-      "fetched_at": "2026-11-05T04:51:24.211622+00:00",
-      "fingerprint": "91fc8537a51a82dc"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "category": "politics",
-      "published_at": "2026-11-05T03:56:16+00:00",
-      "fetched_at": "2026-11-05T04:51:24.211616+00:00",
-      "fingerprint": "b1a7a3701a980564"
-    },
-    {
-      "source": "BBC World News",
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
-      "category": "politics",
-      "published_at": "2026-11-04T18:01:27+00:00",
-      "fetched_at": "2026-11-05T04:51:24.211609+00:00",
-      "fingerprint": "56b9ffa8fd550eb4"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "category": "politics",
-      "published_at": "2026-11-05T03:47:56+00:00",
-      "fetched_at": "2026-11-05T04:51:24.211600+00:00",
-      "fingerprint": "e6b199bf98c83979"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "共和黨在美國中期選舉中慘敗的五大原因",
-      "url": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "從選民的不滿情緒，到總統本人支持度低迷，本文分析為何傳統共和黨票倉的美國選民轉而支持民主黨。",
-      "category": "politics",
-      "published_at": "2026-11-04T20:20:47+00:00",
-      "fetched_at": "2026-11-05T04:51:24.174483+00:00",
-      "fingerprint": "0343139903cb35e6"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
-      "url": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "一些共和黨人告訴BBC，特朗普只顧自己的政治遺產，漠視選民關注的問題，令共和黨付出了代價。",
-      "category": "politics",
-      "published_at": "2026-11-05T02:36:32+00:00",
-      "fetched_at": "2026-11-05T04:51:24.174476+00:00",
-      "fingerprint": "6f391b89fee5bc6d"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "民主黨在美國中期選舉中取得勝利，將在特朗普總統餘下的任期內掌控國會，標誌着美國政治格局出現重大變化。從烏克蘭和中東的衝突，到美國與中國的貿易關係，BBC記者分析這次選舉結果對世界其他地區意味着什麼。",
-      "category": "politics",
-      "published_at": "2026-11-04T21:02:11+00:00",
-      "fetched_at": "2026-11-05T04:51:24.174470+00:00",
-      "fingerprint": "3e840ca95dca92f5"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
-      "url": "https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "香港民主派活動人士黃之鋒被控違反中國《香港國安法》下的「串謀勾結外國勢力危害國家安全」罪，被判囚10年。BBC中文訪問了三位一直探望並寄信予黃之鋒的前戰友，了解他在獄中的變化。",
-      "category": "politics",
-      "published_at": "2026-11-05T04:46:50+00:00",
-      "fetched_at": "2026-11-05T04:51:24.174463+00:00",
-      "fingerprint": "d738340ba6456d92"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "黃之鋒勾結罪國安案判囚10年",
-      "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "香港民主派活動人士黃之鋒於高等法院被判囚10年，此前他已身在獄中超過6年。法律學者關注，案件反映《香港國安法》或可被「反覆動用」，令特定政治犯持續留在獄中。",
-      "category": "politics",
-      "published_at": "2026-11-05T04:17:23+00:00",
-      "fetched_at": "2026-11-05T04:51:24.174452+00:00",
-      "fingerprint": "4b9007038e49ba6b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-05T04:51:23.781177+00:00",
-      "fingerprint": "dfa876a54a2df16b"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "url": "https://www.spacex.com/starfall",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-05T04:51:23.781071+00:00",
-      "fingerprint": "758c929aca4a1d82"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-05T04:51:23.780934+00:00",
-      "fingerprint": "86d5c720b5bd89c8"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-05T04:51:23.780818+00:00",
-      "fingerprint": "9e49ad7916ca6612"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-05T04:51:23.780682+00:00",
-      "fingerprint": "6b097a287e2a565e"
-    },
-    {
-      "source": "The Verge",
-      "title": "How I learned to love an obnoxious phone grip",
-      "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
-      "summary": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-04T21:30:00+00:00",
-      "fetched_at": "2026-11-05T04:51:23.395171+00:00",
-      "fingerprint": "bb7264ac37ad7575"
-    },
-    {
-      "source": "The Verge",
-      "title": "17 better ways Elon Musk could have wasted $446 million",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-04T21:45:00+00:00",
-      "fetched_at": "2026-11-05T04:51:23.395165+00:00",
-      "fingerprint": "576b3975e72bb4e8"
-    },
-    {
-      "source": "The Verge",
-      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-04T22:42:15+00:00",
-      "fetched_at": "2026-11-05T04:51:23.395159+00:00",
-      "fingerprint": "b531b56f4ce7687d"
-    },
-    {
-      "source": "The Verge",
-      "title": "X says its updated web app is way faster",
-      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-      "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-05T00:25:12+00:00",
-      "fetched_at": "2026-11-05T04:51:23.395148+00:00",
-      "fingerprint": "4450c2fb3717fccd"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "当流量退潮，新消费场景靠什么留住年轻人？",
-      "url": "https://36kr.com/p/4054982649320583?f=rss",
-      "summary": "<p>当咖啡日益嵌入年轻人的生活半径，成为城市街角常见的消费场景，线下实体空间的商业逻辑正在发生微妙而深刻的重构。过去几年，行业内外热衷于探讨新业态的诞生与技术的迭代，然而当视线回归到具体的街区与门店时，一个冷酷的现实摆在所有经营者面前：当新奇感褪去、打卡热潮降温，线下咖啡门店究竟靠什么留住年轻人？</p>\n  <p>10月31日下午，“AiPartner带着AI上前线——宁波咖啡生活周场景创新交流会”进入到了更聚焦实操的下半场。第二场圆桌对谈将焦点转向线下街区的实际运营，探讨如何通过内容创新吸引青年消费客群并提升街区整体活力。本场座谈邀请了来自Daily Coffee、亦翰文化、众乐乐咖啡艺术节和LeBRESSO的品牌经营者，他们长期从事实体商业与场景运营，在相关领域积累了丰富的实战经验。</p>\n  <p><strong>1.实体生态的底色：情绪价值与长期主义</strong></p>\n  <p>在当下的新消费环境中，流量焦虑与网红滤镜几乎裹挟了所有的线下实体店。四位深耕一线的嘉宾在探讨中传递出一个务实的观点，纯粹依靠表面的线上营销与低价引流，已经无法支撑一个品牌的长远发展。</p>\n  <p><strong>1）摒弃流量依赖，回归产品本源</strong></p>\n  <p>针对当下许多新开门店依赖小红书等社交媒体进行大量网络投流的现象，嘉宾们指出了其背后的致命隐患。仅依靠低价和网红滤镜引流的门店，其生命周期将被严重压缩。这类店铺通常会在投流结束后的三到六个月面临严峻的考验，一旦失去资金方的持续投入，门店营业额便会迅速出现大幅滑坡。</p>\n  <p>此类现象会迅速将门店拖入一个无法逆转的恶性循环。经营者为了控制成本囤积食材，导致品质不断下降；而品质的下降又会进一步赶走忠诚度不高的打卡客群，店铺最终不可避免地走向死亡。因此，嘉宾们一致认为与其将精力耗费在营销上，不如回归产品本身，让消费者自发在平台上生产真实的内容，这反而能形成更长久的吸引力。</p>\n  <p><strong>2）跳出同质内卷，以差异化定位共建生态</strong></p>\n  <p>在线下街区的日常经营中，相邻的品牌往往容易陷入同质化内卷与恶性竞争，为此嘉宾们提出了“生态共建”的破局思路。好的消费生态与个体经营者之间会形成良性互动，而每一个店铺的经营状态也直接决定了整个街区是否具备真正的活力。</p>\n  <p>当各类咖啡品牌或餐饮业态在同一街区聚集时，彼此之间可以通过协同合作实现优势互补。例如专注手冲的店铺将单品做到极致，拥有烘焙业务的品牌则利用独家咖啡豆形成差异化优势，通过精准定位共同服务追求高品质生活的客群。不同品牌在各自领域深耕，能够合力提升街区的商业氛围，让所有经营者共享生态红利。</p>\n  <p><strong>2.线下场景的运营法则：四位一线经营者的实战分享</strong></p>\n  <p><strong>1）Daily Coffee·许家木：从满足提神刚需到提供定制化服务</strong></p>\n  <p>在咖啡消费尚未大众化的2015年，许家木在南部商务区开了第一家楼宇咖啡。面对密集的办公人群，他采取了极具实用性的低价策略，将常见的咖啡种类定价在10块以下。该店不做任何广告推销，纯粹依靠解决打工人的提神刚需来运转，凭借口口相传，一家仅4平米的店一天能卖出三四百杯。</p>\n  <p>而当阵地转移到社区店时，许家木的运营逻辑发生了根本性转变。社区店不再只是贩卖提神饮料，而是走向精品化与个性化。他会根据熟客的喜好去复刻特调咖啡，提供定制服务。在这种模式下，品牌个性尤为凸显。顾客高度认可经营者的个人风格与服务人情味，成功实现了从功能消费向情感消费的跨越。</p>\n  <p><strong>2）LeBRESSO·袁剑峰：坚守正宗日本生吐司体系，差异化深耕高净值客群</strong></p>\n  <p>LeBRESSO落址宁波和义大道购物中心，在经济调整的大环境下稳健运营多年。门店不做外卖、不付费投流，以三款核心标杆产品为主，整体产品控制在十款左右，聚焦品牌认知，拒绝下沉市场的价格内卷。</p>\n  <p>LeBRESSO的用户粘性，源于对产品底层能力的坚守：拥有落地国内的正宗日本生吐司体系，在日本本土亦有相关业务，严格遵循原版配方工艺，依托自研体系实现出品标准化，减少人为品质波动。高净值客群在周期中会缩减大额消费，愿意持续为高品质日常美食付费。基础款稳定之外，每月推出一款限量新品，保持顾客期待。品牌2021年开业之初，曾创下单款面包日销500个以上的成绩，以扎实产品为根基，持续为会员提供情绪价值。</p>\n  <p><strong>3）亦翰文化·吕佳凯：以科普体验与私域运营促活场馆</strong></p>\n  <p>面对科技馆、博物馆这类原本缺乏日常复购属性的场地，亦翰文化跳出了传统的售卖纪念品思维，选择从科普体验的角度重新定义咖啡空间。他们将杯子、吸管等物料全部解构为实验道具，让一杯咖啡变成了孩子可以带回家的科普道具。</p>\n  <p>为解决科技馆一次性客流的问题，亦翰文化建立了强大的私域运营体系。针对本地客群，推出系列科普体验产品，吸引孩子高频打卡；针对外地游客，则利用AI快速生成记忆点内容进行传播。这种将商业模式与科普场景高度匹配的创新激活了场馆活力，未来亦翰文化将以合肥为起点，尝试打造更大规模的“科普消费节”IP。</p>\n  <p><strong>4）众乐乐咖啡艺术节·陈智：强化主题创意与氛围营造，构建街区消费生态</strong></p>\n  <p>经历了疫情期间的逆势成长，众乐乐咖啡艺术节的陈智深知线下氛围营造对于吸引客群的重要性。他指出，举办咖啡节等线下活动，核心在于通过强烈的场景体验打造，精准服务好追求高品质生活的人群。</p>\n  <p>在具体策划中，团队善于利用在地文化制造反差感。以泉州文庙茶咖周为例，他们将市井气息浓厚的传统冻茶与现代冷萃特调结合，并联动当地环卫工人群体。这种传统地标与现代青年消费形态的碰撞，催生出极具新奇感的内容体验，迅速引发大众的情感共鸣，有效激活了老城区的消费活力。通过场景打造与品牌招募，茶咖周最终将多元业态聚集在一起，为青年群体提供了一个高频互动的线下体验场域。</p>",
-      "category": "tech",
-      "published_at": "2026-11-04T06:03:06+00:00",
-      "fetched_at": "2026-11-05T04:51:23.323813+00:00",
-      "fingerprint": "463c4a9d538343f3"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "6个月完成3轮融资，震业新材获国元数千万元A++投资｜36氪首发",
-      "url": "https://36kr.com/p/4055059760681858?f=rss",
-      "summary": "<p>36氪获悉，ADI（等温淬火球铁）金属材料企业震业新材近期完成数千万元A++轮融资，由国元股权投资独家投资。本轮融资将主要用于ADI材料产线扩建、核心工艺迭代研发，以及乘用车、商用车、工程机械等下游场景的商业化落地。&nbsp;</p>\n  <p>这是震业新材6个月内完成的第三轮融资。此前，公司先后完成超亿元A轮融资，和数千万元战略融资。&nbsp;</p>\n  <p>ADI是一种经等温淬火工艺处理的球墨铸铁材料，兼具高强度与高韧性，被广泛应用于齿轮、底盘、重载传动等核心安全部件。在汽车工业向轻量化、低成本加速转型的当下，ADI算是替代传统合金钢的一个重要材料方向。&nbsp;</p>\n  <p>但长期以来，国内ADI行业面临一个核心技术瓶颈：高强度与高延伸率难以兼得。 在ADI行业，1200MPa抗拉强度、4%延伸率是通用性能标准。延伸率达到5%~6%以上，才算真正意义上的高韧性结构材料——这是行业公认的关键技术分水岭。高强韧性意味着材料能够满足核心安全件抗冲击、抗疲劳、不断裂的严苛要求。&nbsp;</p>\n  <p>但国内主流厂商的技术水平普遍停留在\"高强度、低延伸率\"区间：QTD 900-8（900MPa抗拉强度，8%延伸率）、QTD 1200-4（1200MPa抗拉强度，4%延伸率）、QTD 1400-2（1400MPa抗拉强度，2%延伸率）。强度越高，延伸率越低，无法适配高端重载、精密齿轮等核心工况。</p>\n  <p>震业新材合伙人及技术负责人陈松林向36氪表示，2024年，震业新材实现了关键技术突破，从而具备了量产多款高性能ADI材料的能力。其中包括QTD 1200-10（1200MPa抗拉强度，10%延伸率）、QTD 1400-7（1400MPa抗拉强度，7%延伸率）。&nbsp;</p>\n  <p>陈松林对36氪解释：\"ADI等温淬火与常规淬火差异显著，生产需要铸造、热处理两端协同贯通。以往不少工程师仅精通铸造或热处理单一环节，无法从全流程视角实现精准管控。ADI的铸造成分配方必须与热处理工艺匹配，球化、孕育阶段各合金元素的控制比例各不相同，同时还受产品壁厚、结构形状影响。等温淬火周期一般数个小时，升温速率、保温节点等参数都会直接影响最终性能，需要精细化协同调控，工艺窗口极窄，对基材品质要求很高。\"而震业新材之所以能实现技术突破，正是对生产的全流程把控。&nbsp;</p>\n  <p>技术上的突破，加速了ADI材料在汽车应用中的价值释放。 减重方面，ADI密度约7.1~7.2g/cm3，低于钢的7.8~7.9g/cm3，同尺寸零件较合金钢轻约10%；由于ADI可一体成型、减少机加工工序，在实际应用中减重幅度更为可观。 震业新材投融资负责人高恒表示：\"ADI的强度能够媲美很多合金钢，但密度更低，有天然的轻量化优势和价格优势。加上一体成型工艺，更适合生产结构复杂的产品，减少机加工时间。\" 目前，震业新材已与多家头部企业展开研发合作，覆盖乘用车、商用车、农业机械、工程机械等领域，围绕齿轮、传动部件、底盘结构件等核心零部件开展联合研发。 从行业格局来看，ADI材料在国内仍处于产业化早期。&nbsp;</p>\n  <p>北美ADI由于技术成熟，在球墨铸铁领域渗透率已超15%，而国内目前渗透率不足2%。中国是全球最大的球铁生产与消费市场，球铁年市场规模达千万吨级别。随着高端ADI国产化技术成熟、成本优势持续释放，叠加汽车、工程机械、风电装备、船舶等领域的高端升级需求，国内ADI渗透率有望复制北美发展路径——从不足2%向15%迈进，对应的是一个具备较大增长潜力的市场.而深耕这一赛道的震业新材或将是这片市场中，较早有所收获的企业。</p>",
-      "category": "tech",
-      "published_at": "2026-11-04T06:25:54+00:00",
-      "fetched_at": "2026-11-05T04:51:23.323808+00:00",
-      "fingerprint": "17265078a0d87987"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "当AI不再「夸夸其谈」：决策模型爆红，物理世界需要端侧「快判断」",
-      "url": "https://36kr.com/p/4055330063766663?f=rss",
-      "summary": "<p>9月中旬，一家名叫TypeSafeAI的初创公司发布了一个叫Jev的模型。它不写文章，不聊天，甚至不输出一段完整的句子。它做的事只有一件：把输入归入预设的选项，返回一个是/否、一个评分、一个概率。就是这样一款“不会说话”的模型，上线数周用户破百万，财富500强中约三分之一的企业开始使用，24天内估值从约2亿美元飙到75亿美元。</p>\n  <p>它带出了一个迅速被行业共识的新品类名字：决策模型。OpenAI两周内跟进Decisions API，AWS、微软、Cloudflare相继入场，不到一个月涌现出十余款同类产品。决策模型的快速兴起，反映出人工智能产业正在发生一项重要变化：模型的价值评价，正在从内容生成质量进一步延伸至决策的准确性、响应速度与执行成本。</p>\n  <p>OmAI联汇CEO兼首席科学家赵天成指出，很多场景不需要夸夸其谈地生成内容，而需要一连串连续、快速、可度量的决策。“大语言模型其实也能做很多决策，<strong>但决策模型是快速模型，把全部能力和精力聚焦在可度量、可验证的决策上。</strong>决策模型切入的，正是另一类场景：这里需要的不是一段生成出来的内容，而是一个直接可用的判断——快、低成本、端侧可读。”</p>\n  <p>“决策的质量和成本”，这正是决策模型的产业逻辑起点。</p>\n  <h2><strong>决策模型，AI进入深水区后的“快思考”补位</strong></h2>\n  <p>事实上，近一年企业AI的叙事明显变了：前两年大家比的是“模型会不会写、会不会答”，现在云厂商、SaaS厂商和办公平台纷纷把AI Agent、智能体、智能决策嵌入 CRM、ERP、供应链和办公流程。产业信号很一致：AI正从内容生成工具，变成能进入业务流程、直接产出经营结果的“决策基础设施”。</p>\n  <p>Jev的路径输出不是文本，而是类型化的值：是或否、选项编号、校准后的概率分数，应用程序拿到就能直接用，不需要中间解析。代价是它“不会说话”，收益是端到端延迟压缩到70到500毫秒，比同类大语言模型快20到200倍；在微软的演示中，同一个分类路由请求，决策模型182毫秒返回，大模型用了6.4秒。这不是“稍微快一点”，而是把决策从“以秒计”拉回到“以毫秒计”，降低了高频连续决策链条的时延门槛，使其更容易进入实际业务流程。</p>\n  <p>决策模型的价值，在于推动AI模型形成更加清晰的能力分工。通用大模型继续负责复杂推理、内容生成和需要开放答案的任务；决策模型负责Agent工作流中那些答案空间有限、调用量大、必须快且稳的判断节点。决策模型不会取代大模型，但它把“决策”从“生成”的范畴里切割出来，让这类模型的决策质量、响应速度和调用成本，可以围绕具体任务得到更独立、明确的评估与优化。</p>\n  <p>“在实际的智能应用中，不同决策的难度不一样，不能一视同仁。就像解决哥德巴赫猜想，和日常做客服分类问题，理论上消耗的脑力完全不一样。”赵天成说道，“但现在大语言模型推理时，成本开销是一样的。”</p>\n  <p>这也解释了为什么企业端的采用速度如此之快。过去两年，大量企业场景被套上生成式的壳，本质上做的却是决策的事：工单路由、风险分级、流程审批、库存判断、Agent动作选择。生成式只是一个手段，决策才是目的。当手段的成本和延迟远远超过目的本身所需要的东西时，市场迟早会要求把手段和目的重新对齐。决策模型做的正是这件事：<strong>让模型聚焦在它该聚焦的事上，快速决策和快速响应，</strong>而不是用最昂贵的方式生产最不需要的内容。</p>\n  <p>“决策模型出现，公司整个团队第一反应是很振奋。”赵天成表示，过去五年OmAI联汇做的很多事，本质上就是决策模型所做的事情，只是在TypeSafe AI提出决策模型概念之前，没有一个大的名字把它们归纳成决策模型。</p>\n  <p>当一个行业开始用“快”和“可度量”来定义一个模型品类，而不是用“写得像不像人”来衡量一切时，说明它终于进入了深水区。<strong>深水区里，用户要的不是夸夸其谈，是一连串连续的、及时的、负担得起的判断。</strong>决策模型切中的，正是这个沉默而庞大的需求。不过，当这些判断进入机器人、无人机等物理设备，仅有快速和低成本还不够。</p>\n  <h2><strong>物理世界的决策，需要端侧原生的流式多模态</strong></h2>\n  <p>两类场景的共同需求，都是在明确任务和约束下快速作出可执行的判断；区别在于，数字工作流主要依据已有信息完成判断与操作，而物理世界需要模型持续感知动态环境，结合任务目标，空间状态及执行反馈实时调整决策。由此，决策从一次性的结果输出，演变为贯穿感知，理解与行动全过程的连续智能活动，对响应速度、判断准确性及执行可靠性提出了更高要求。判断窗口可能从秒级压缩至百毫秒级，错误代价也从简单的结果偏差上升为真实的物理世界风险。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_7bc370d739de4df5b053dee381acb458@5925182_oswg80262oswg1080oswg501_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>具体而言，<strong>物理世界的第一道门槛：输入变了。</strong></p>\n  <p>在软件工作流里，决策模型的输入是一段用户评论、一张表单、一条工单——本质仍是文本窗口。但物理世界的输入是：三路摄像头实时视频流、机器人本体姿态参数、自然语言指令同时涌入，动态、流式、多模态交织。</p>\n  <p><strong>第二道门槛：错误代价变了。</strong></p>\n  <p>数字空间决策错了，改一下重来；机器人决策错了，可能是鸡蛋夹碎，也可能是无人机炸机。是生和死的区别，而不是简单一个答案判错的区别。代价的严肃性倒逼出第三个要求：预判能力。当前决策模型做的是单步判断：这一轮对还是不对。但物理世界需要往后想两三步：刹车必须提前踩，等到看见墙再决策已经来不及。</p>\n  <p>这些变化指向了同一个结论：<strong>物理世界的决策模型必然走上“端侧原生的流式多模态”这条路径。</strong>而“端侧原生的流式多模态”，是OmAI联汇在今年上半年于业界第一次提出，这个概念追求：端侧原生、流式感知、快速决策。</p>\n  <p>物理世界的场景多以端侧多模态模型为核心，面向的是高并发、实时、流式、主动式的场景，必然需要快速响应机制。赵天成指出，“这正是一些纯粹用云端大语言模型落地物理世界时遇到的典型问题。而OmAI联汇推出的端侧部署、轻量化模型架构、流式架构的模型产品，都是在解决这类问题。”</p>\n  <h2><strong>从Flow到Go，端侧多模态迈向专门化决策模型</strong></h2>\n  <p>如果说前两部分回答的是“决策模型为什么火”“物理世界需要什么样的决策模型”，那么OmAI联汇的答案不在概念里，而在它已经铺开的VLX矩阵里。同时，VLX矩阵提供了<strong>一个更值得产业观察的样本</strong>：它不是单点模型，而是一套围绕物理世界实时决策展开的体系化能力。</p>\n  <p>回顾OmAI联汇近年来的发展，早在2021年，其已推出国内较早的视觉语言大模型之一，并拿到工信部首张多模态模型认证（OmModel 001号）。这意味着在多数人还把多模态当作概念时，联汇已经进入了模型能力的正式认证体系。</p>\n  <p>2025年2月，OmAI联汇开源VLM-R1，一款全球首个将GRPO强化学习方法从纯文本迁移到视觉语言领域的框架。这一步的关键在于它把“强化学习+视觉语言”的工程路径公开给了社区，说明联汇在视觉语言模型上的积累不是封闭演示，而是能应用生态的方法论输出。</p>\n  <p>到2026年上半年，OmAI联汇在业界第一次提出“端侧原生的流式多模态”概念。目前，VLX矩阵已形成四层能力：VLX-Flow负责持续感知，回答视频流里正在发生什么、是否需要关注；VLX-Seek负责精准定位，回答目标在哪里、要找的物品或区域是哪一个；VLX-VR负责视频推理，回答事件何时发生、前因后果和视频证据是什么；VLX-Go负责行动导航，回答下一处应前往、关注或执行什么任务目标。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_b87b86fff1294a4393adfdaaf9aa2347@5925182_oswg320704oswg1080oswg574_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>四层不是四个孤立模型，而是同一条视频流上共享基座、统一数据格式、打通推理链路的能力层。一套面对物理AI打通的端侧产品体系。事实上，现有VLX模型已在上述能力中具备不同层次的判断与决策能力。即将推出的决策模型，并非在原有体系之外增加一个孤立模块，而是面向物理世界高频、连续、实时的决策需求，对环境状态理解、任务判断、决策输出及响应效率进行进一步优化，推动模型从感知、理解到决策与行动形成更加紧密的智能闭环。</p>\n  <p>值得注意的是，<strong>技术路线是否成立，最终要看它有没有进入真实设备、真实场景和真实工作流。</strong>联汇的答案不是单点Demo，而是一组已经铺开的商业化落点。</p>\n  <p>低空场景里，OttoPlex御行智飞低空具身智能平台采用VLX-Seek 0.6B端侧版本，为低空巡检任务提供基于自然语言描述的目标与区域定位能力；定位结果不是停在模型输出里，而是可供飞手、上层任务系统或后续工作流进一步处理。</p>\n  <p>无人机侧，公安、海事、自然资源、园区、应急、救援等低空场景已商用落地；机器人侧，云深处、宇树等具身头部企业设备已部署；安防侧，已完成百万级摄像头的商业化服务接入；可穿戴侧，好马APP是全球首个服务近10万视障者的AI助视平台。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_940dcee1791545aea68b43b73b4be922@5925182_oswg110352oswg1080oswg627_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>再往底层看，华为昇腾、地瓜、RK3588国产芯片适配已经完成，苹果、联想、惠普、英伟达四大AI PC品牌端侧接入。这些跨场景、跨芯片、跨终端的商业化实践，不仅验证了OmAI联汇模型的工程化部署与场景适配能力，也为其进一步发展面向物理世界的实时决策模型提供了真实应用基础。</p>\n  <p>这一演进也意味着，OmAI联汇的技术体系正在从面向具体任务的感知、推理与行动能力，进一步走向面向物理世界的专门化实时决策能力。</p>\n  <p>在OmAI联汇的测算里，端侧可以做到0.1秒级响应，云端往往要5秒以上，约50倍差距。同时，端侧模型能够直接处理实时视觉信息，减少数据传输与信息转换带来的延迟及信息损失。再加上隐私与可用性——在部分安防、工业、低空和应急任务中，数据本地处理与断网可用，是重要的部署要求。成本上，端侧部署成本可降一个数量级，实时性提升数倍，国产芯片即可运行，这<strong>让具身智能从“Demo阶段”进入“量产阶段”</strong>的拐点有可能提前到来。</p>\n  <p>但端侧不意味着放弃云端。赵天成对终局的判断是分层的：“我觉得后面其实就是端云协同。慢思考的部分在云端跑，所有快思考、所有的快速决策，全部在端侧跑。我们在很多产品里就是这么用的，用完的结果比纯端或者纯云都要好。这个路径我们已经验证通了。”</p>\n  <p>对于物理AI而言，<strong>决策模型的价值最终需要在真实设备与实际任务中得到验证</strong>：能否在有限时间内作出可靠判断，并将持续感知、空间理解与行动执行有效衔接。随着人工智能从内容生成走向自主决策与实际任务执行，决策的准确性、响应速度与运行成本，正成为衡量模型实际应用价值的重要标准。</p>\n  <p>真正值得关注的，不再只是模型能够生成怎样的答案，而是能否在持续变化的真实环境中，更快、更准确、更低成本地作出判断。OmAI联汇长期积累的端侧原生流式多模态技术，以及在无人机、机器人等场景中的商业化实践，为其进一步拓展物理AI实时决策能力奠定了基础。</p>\n  <p>从持续感知、空间理解到行动规划，OmAI联汇已经建立起面向物理世界的多模态能力体系。而即将发布的专门化决策模型，将如何进一步打通感知、判断与行动之间的智能闭环，又将为无人机、机器人等动态智能终端带来怎样的能力升级？</p>\n  <p>随着11月发布节点临近，OmAI联汇即将亮相的端侧多模态决策模型，究竟将为物理世界的实时决策带来怎样的突破？答案值得期待。</p>",
-      "category": "tech",
-      "published_at": "2026-11-04T14:00:00+00:00",
-      "fetched_at": "2026-11-05T04:51:23.323801+00:00",
-      "fingerprint": "d6acc549f05d2d63"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨张雪回应“校招年薪10万起被嫌低”；A股史诗级大涨；“iPhone显示下周五多地-30℃”，苹果致歉",
-      "url": "https://36kr.com/p/4056098541425801?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>中国微短剧有了英文名：Duanju</li>\n   <li>京东外卖赛道负责人郭庆离职</li>\n   <li>科创板史上单次最大回购要来了</li>\n   <li>马斯克回应美国中期选举</li>\n   <li>卫龙换帅，“90后”余风接任CEO</li>\n   <li>瑞幸发布三季报，第三季度省了11亿元配送费</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>校招10万起薪被嫌低，张雪：选择是双向的</strong></p>\n  <p>张雪机车创始人张雪在重庆大学校招开出研发岗10万起的年薪，引发学生质疑，对比当地车企薪资被认为竞争力不足。张雪回应称招聘是双向选择，不能强制企业抬高薪资。本次校招计划招百人，研发岗占七成，配套宿舍、涨薪等福利，同时设立专项招录通道，懂机车、会实操的应届生薪资可上浮30%-40%。公司正推进年产50万辆摩托车扩产项目，急需大量研发人才。（界面新闻）</p>\n  <p><strong>A股史诗级大涨：超百股涨停，科技暴力反弹</strong></p>\n  <p>36氪获悉，11月4日，指数午后持续拉升，科创50指数涨超10%，创业板指涨近7%，深成指涨超4%，上证指数涨近2%，北证50涨超4%。全市成交额2.05万亿元，超4600只个股上涨。板块方面，半导体午后大爆发，多股涨停；通信设备、贵金属大涨，电子元器件、电脑硬件、生物科技等多数板块上涨。电信领跌，油气、白酒、煤炭、银行、保险等下跌。</p>\n  <p><strong>“iPhone显示下周五多地-30℃”，苹果致歉</strong></p>\n  <p>11月4日凌晨，大量苹果用户发现自带天气App出现“离谱”数据，北京、上海、厦门等多地气温出现“异常”，最低竟显示为-30℃左右，相关话题引发吐槽。针对此次异常，苹果官方客服回应称，经初步排查，原因为系统端口问题，并非硬件层面故障，技术团队已紧急完成修复。对于有用户猜测“数据定位跳转至其他地区”，客服予以否认：若属定位漂移，临近日期的天气数值应全部异常，而非仅具体到某一天出现极端值。此外，客服还表示收到大批用户反馈，对此深表歉意，后续将持续改善数据服务体验。目前，相关日期气温数据已恢复正常。（澎湃新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI高管称ChatGPT搜索量已达到谷歌的20%</strong></p>\n  <p>OpenAI挑战谷歌搜索现已“初见成效”。ChatGPT消费者产品负责人亚当・弗莱证实，ChatGPT上的搜索类查询量，约相当于谷歌搜索查询量的20%。OpenAI在过去两个月新增了2亿用户，周活跃用户数量跃升至12亿。用户每周使用ChatGPT创建15亿张图片，此外，ChatGPT的语音模式周活跃用户数量达到2.5亿。（财联社）</p>\n  <p><strong>Anthropic据报利用Claude模型辅助自研芯片设计</strong></p>\n  <p>11月3日，据报道，Anthropic已组建一支15人的芯片设计团队，并利用自家的Claude模型开展定制芯片的工程与设计工作。Anthropic在近期投资者会议上披露了相关进展。公司工程师发现，与英伟达、超威半导体（AMD）等大型设计企业的传统工作流程估算相比，Claude能够缩短芯片设计所需时间。（界面新闻）</p>\n  <p><strong>华为、阿里等20家单位：共建智能体互联基础设施，加速智能体赋能千行百业</strong></p>\n  <p>11月4日，中国信通院、华为、阿里、腾讯、小米、百度、火山引擎等20家单位联合发布《智能体发展自律公约》。其中提到，建设智能体互联基础设施。共建可互联的基础设施，发展智能体注册与解析、能力描述与发现、意图理解与转换、网络路由与连接、资源调度与计量、协议兼容与互认等技术与标准。不断降低智能体跨域发现连接成本，支撑智能体互联协同；加速智能体赋能千行百业。坚持服务实体经济，发展低门槛智能体开发部署工具，合作研发面向真实作业场景、创造实际价值的智能体，推动智能体嵌入现有生产系统和业务流程，打造标杆型应用。不断降低智能体落地应用成本，助力行业提质增效。（证券时报）</p>\n  <p><strong>Alphabet豪掷150亿美元扩建马来西亚AI数据中心</strong></p>\n  <p>谷歌母公司Alphabet表示，计划投资150亿美元，扩大位于马来西亚的AI数据中心和传统云计算相关业务，凸显出史无前例的人工智���应用热潮正在推动AI算力资源需求以及数字化基础设施需求加速增长。据了解，马来西亚已经成为东南亚主要的数据中心枢纽，吸引了甲骨文、亚马逊、阿里巴巴集团和字节跳动等公司。（财联社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>苹果智能登陆中国市场，首批实测反馈：续航、稳定性成槽点</strong></p>\n  <p>北京时间11月4日凌晨，iOS 27.3开发者Beta推送，国行Apple智能开启国内首次测试，复杂任务接入通义千问，预计12月正式上线，本次仅iPhone开放，iPad、Mac暂不纳入。国行版暂未上新Siri，超出本地模型能力时可调用千问，调用前会弹窗确认权限，用户数据不会用于模型训练。实测端侧的对象消除、写作、视觉识别等基础功能可用，但交互链路偏繁琐。不少测试用户反馈，该版本存在发热、续航变差的问题，还伴随App闪退、输入法卡顿等bug；弱网下千问接口容易超时，长对话容易丢失上下文。该功能仅支持A17 Pro及以上芯片机型，免费注册开发者就能升级，官方提醒不建议主力机安装。（界面新闻）</p>\n  <p><strong>中国微短剧有了英文名：Duanju</strong></p>\n  <p>中国微短剧出海热度持续攀升，迎来全球化发展的高光时刻。近期，海外行业圈内正发生一个极具标志性的变化：汉语拼音“duanju”已成为一个专属英文单词，专门用以代指微短剧。目前，“duanju”一词已被海外百科网站收录，纵观近两年（2024年11月-至今）数据，该词条浏览量呈急剧增长之态势。除此之外，在搜索引擎中输入“duanju”进行搜索，同样会弹出大量相关结果。（科创板日报）</p>\n  <p><strong>京东外卖赛道负责人郭庆离职</strong></p>\n  <p>11月4日，第一财经获悉，京东本地生活业务负责人郭庆因个人原因离职。郭庆原为美团S-team成员，2024年1月入职京东担任集团顾问，同年8月出任达达集团董事会主席，操盘京东外卖、即时零售等本地生活相关业务，京东外卖于2025年年初正式上线。（第一财经）</p>\n  <p><strong>机构：全球智能手机平均售价创单季度历史最高水平</strong></p>\n  <p>36氪获悉，根据Counterpoint Research最新的市场监测服务，尽管2026年第三季度全球智能手机出货量同比大幅下降19%，但全球智能手机营收仍同比增长3%，达到1140亿美元。平均售价（ASP）上涨支撑了市场营收，抵消了出货量下滑带来的影响。高端化趋势、更优的产品组合以及各价位段由存储驱动的涨价，推动全球ASP同比上涨27%至442美元，创下单季度历史最高水平。</p>\n  <p><strong>游族网络拟42亿买GPU</strong></p>\n  <p>11月3日晚间，A股游戏公司游族网络（002174.SZ）发布合同公告，宣布全资子公司拟采购金额为42.25亿元的GPU，推进公司转型升级，据了解这一采购动作约相当于公司去年营收的3倍，引发市场关注。11月4日上午开盘，游族网络一度大涨超4%，随后涨幅收窄，截至上午11点整，涨幅收至0.09%，报10.73元/股，总市值105.2亿元。具体来看，公告显示，上海游族信息技术有限公司（简称游族信息）近日与A公司签署了《销售合同》，游族信息向A公司采购型号为PRO5500（PCIe）的GPU产品，协议总金额为人民币42.25亿元。（第一财经）</p>\n  <p><strong>全球光刻胶巨头JSR或将易主</strong></p>\n  <p>综合多家媒体报道，三井化学计划从日本政府支持的产业革新投资机构（JIC）手中收购半导体材料大厂JSR，交易金额预计超过1.3万亿日元（约合人民币549亿元）。若最终交易落地，这将成为日本化工行业有史以来规模最大的收购案。JSR是全球第二大光刻胶供应商，按2025年销售额计算，占据全球约19%的市场份额，紧跟日本东京应化（TOK）之后。光刻胶是将电路图形转移到晶圆上的关键材料，也是芯片制造不可或缺的耗材。（财联社）</p>\n  <p><strong>科创板史上单次最大回购要来了</strong></p>\n  <p>11月4日，长鑫科技发布公告称，近日，该公司收到董事长朱一明的提议，提议将回购金额由“不低于人民币10亿元（含），不超过人民币20亿元（含）”增加至“不低于人民币25亿元（含），不超过人民币50亿元（含）”。10月16日晚，长鑫科技发布2026年三季度业绩预告，同时该公司董事长提议发起上市以来的首次回购。长鑫科技此次推出的新的回购方案，将创下科创板史上单次回购金额最高的案例纪录。（财联社）</p>\n  <p><strong>马斯克回应美国中期选举</strong></p>\n  <p>据CCTV国际时讯，美国企业家马斯克11月4日在社交媒体上发声：“猜我干预选举的激光通信这次没起作用。”现有申报记录显示，为帮助美国共和党在中期选举中胜出，马斯克已向联邦政治委员会捐赠4.45亿美元，他也因此成为此次中期选举最大的个人金主。据此前消息，美东时间11月4日凌晨1时，美国中期选举现场投票基本结束，各州将继续统计并公布计票结果。据决策台数据预测，民主党将获参议院100席中的52席、夺回参议院控制权，并预计夺回众议院控制权，将重新掌控国会。（央视新闻）</p>\n  <p><strong>特朗普中期选举失利后首次露面</strong></p>\n  <p>据央视新闻，当地时间11月4日，特朗普在中期选举失利后首次于白宫面对媒体。他承认选举失利很大程度源于和伊朗的冲突，但即便重来仍会做出相同决定，强调绝不能让伊朗拥有核武器。特朗普称，如果自己出现在选票上本可以取胜，还表示或许能和民主党融洽相处，警告民主党若发起弹劾将反噬自身。（财联社、央视新闻）</p>\n  <p><strong>比亚迪：网传“天神之眼C停产”等消息不实</strong></p>\n  <p>11月4日，比亚迪新闻打假办公室发文辟谣，网传天神之眼C停产、天神之眼B/C更换智驾方案均为不实消息。比亚迪表示坚持全栈自研，天神之眼智驾软件持续迭代升级，已经固定相关不实言论证据，将依法追责。（财联社）</p>\n  <p><strong>DRAM价格，再创新高</strong></p>\n  <p>今年10月，全球DRAM合约均价再度刷新历史新高，同时NAND闪存均价延续上月的最高价位。机构预计，今年第四季度，DRAM价格有望环比上涨，而NAND闪存方面，MLC闪存和SLC闪存价格走势将出现分化。(财联社）</p>\n  <p><strong>绿地控股集团等被执行8.1亿</strong></p>\n  <p>36氪获悉，天眼查App显示，11月2日，绿地控股集团有限公司等新增1则被执行人信息，执行标的8.1亿余元人民币，执行法院为江苏省南京市中级人民法院。该公司成立于1992年7月，法定代表人为张玉良，注册资本约226.5亿人民币，经营范围为实业投资，绿化，仓储，房地产，出租汽车，日用百货，纺织品，物业管理，化工产品，建材，五金交电，建筑施工，由绿地控股集团股份有限公司、绿地金创科技集团有限公司共同持股。</p>\n  <p><strong>2026年前三季度中国黄金产量同比下降近两成</strong></p>\n  <p>36氪获悉，中国黄金协会最新统计数据显示，2026年前三季度，国内原料产金累计220.935吨，同比减少50.847吨，同比下降18.71%；进口原料产金累计127.055吨，同比增加5.906吨，同比增长4.87%。国内原料和进口原料共计生产黄金347.990吨，同比减少44.941吨，同比下降11.44%。</p>\n  <p><strong>香港廉政公署起诉港交所前副总裁</strong></p>\n  <p>11月4日，香港廉政公署起诉港交所前副总裁汤宝衡及其母亲梁耀珍，二人被控取用电脑罪。控罪指2018至2023年间，汤宝衡多次查阅和本职无关的上市公司机密资料，其母亲账户随后交易相关股票获利超50万港元。案件当日在东区裁判法院提讯，调查由证监会转介，廉署表示调查仍在继续，不排除追加检控。（财联社）</p>\n  <p><strong>卫龙换帅，“90后”余风接任CEO</strong></p>\n  <p>11月3日晚，卫龙（09985.HK）发布人事公告，联合创始人刘福平辞任CEO，继续担任联席副董事长；原CFO余风接任CEO并兼任联席副董事长，雀巢、徐福记背景的陈阳出任新任CFO，任命当日生效。35岁的余风是创始人家族亲属，在卫龙任职15年，多岗位历练成长。近年卫龙持续调整产品结构，魔芋爽等蔬菜制品成为增长主力，对冲辣条品类下滑，同时布局海外市场，本次人事调整将服务产品迭代与出海战略。（界面新闻）</p>\n  <p><strong>Meta启动首次欧元债券发行</strong></p>\n  <p>11月4日，据报道，Meta在周二发行150亿美元美元计价债券后，已启动其首次欧元债券发行的簿记建档。据一位知情人士透露，该公司此次欧元债分为六档发行，期限从略高于四年到超过38年不等。知情人士称，最短期限批次的初始定价较中期互换利率高出约140个基点，而较长期限批次高出约370个基点。报道称，花旗集团和摩根士丹利负责管理此次欧元债券交易，预计将于周三晚些时候定价。（界面新闻）</p>\n  <p><strong>德明利:拟每10股派现6元合计派现1.91亿元，控股股东承诺延长一年不减持公司股票</strong></p>\n  <p>36氪获悉，德明利公告，公司董事会审议通过2026年第二次中期利润分配预案，以总股本3.18亿股为基数，拟向全体股东每10股派发现金红利6元，合计派现1.91亿元，不送红股，不进行资本公积金转增股本。该议案将提交11月20日召开的临时股东会审议。公司控股股东、董事长李虎承诺延长一年不减持公司股票，即自2026年7月27日起24个月内，不以任何方式减持其持有的公司股票。截至公告披露日，李虎持有公司股票1.11亿股，占总股本比例为35.01%。</p>\n  <p><strong>字节跳动限制员工使用外部AI？知情人士回应</strong></p>\n  <p>字节跳动出台新规，本月起封禁Claude、Codex等外部AI个人账号访问L4级别代码仓库、飞书文档等内部敏感资源。知情人士称，员工使用外部AI处理公开工作信息、或是用于个人生活场景，不在限制范围内。（北京商报）</p>\n  <p><strong>卡塔尔即将成为全球最大美国液化天然气买家</strong></p>\n  <p>卡塔尔国有能源企业有望在21世纪30年代初，成为全球最大的美国液化天然气（LNG）采购方。受中东战事影响，这个海湾国家的出口受限，因而开始寻找新气源。卡塔尔能源公司在10月下旬签署两项协议，每年可新增700万吨美国液化天然气，供给其海外客户销售。（新浪财经）</p>\n  <p><strong>苹果、微软、谷歌、亚马逊，单日市值合计增超1万亿美元，热门中概股普涨</strong></p>\n  <p>36氪获悉，11月4日收盘，美股三大指数集体上涨，纳指涨1.44%，道指涨3.03%，标普500指数涨1.58%。大型科技股多数上涨，苹果涨5.87%，单日增加市值约2816亿美元；微软涨6.24%，增加约2397亿美元；谷歌A股涨4.09%，增加约2790亿美元；亚马逊涨7.79%，增加约2095亿美元。四家公司合计增加市值约1.01万亿美元。热门中概股普涨，哔哩哔哩涨超5%，阿里巴巴、腾讯音乐、百度、网易涨超4%，蔚来、理想汽车、京东涨超3%，拼多多涨超2%，小鹏集团涨超1%。（36氪、21世纪经济报道）</p>\n  <p><strong>华晨宝马裁员波及沈阳三座工厂</strong></p>\n  <p>11月4日，界面新闻从多名员工处获悉，华晨宝马沈阳大东、铁西、动力总成三座工厂启动人员调整，主要涉及生产岗，也包含部分技术岗，估算裁员规模约1800至2000人，补偿方案为N+5。不少产线由两班改为单班，部分固定合同到期不再续签。本轮调整背景是宝马中国市场销量承压，三季度在华交付量同比下滑超两成，集团下调利润率指引。宝马方面暂未回应裁员相关问询，尚不确定本次调整是否属于全球重组计划。（界面新闻）</p>\n  <p><strong>王兴兴：明年是机器人行业临界点</strong></p>\n  <p>在2026世界互联网大会乌镇峰会互联网企业家论坛上，宇树科技创始人王兴兴表示，大概率明年将是机器人行业或是机器人模型的临界点。他提出未来世界最核心的资源包含数据、算力、芯片产能、能源和矿。（财联社、中国新闻网）</p>\n  <p><strong>召回汽车超80万辆，国家市场监管总局发布多则召回公告，涉及奥迪、丰田、大众、雷克萨斯、MINI、路特斯、Jeep等多个品牌</strong></p>\n  <p>国家市场监管总局发布多起车辆召回公告，合计召回车辆超80万辆，覆盖奥迪、丰田、大众、雷克萨斯、MINI、路特斯、Jeep等品牌。隐患包含转向机螺栓锈蚀、转向助力失效、燃油管泄漏、制动程序缺陷、后视镜支架粘合不良等，车企将为涉事车辆免费检修、更换配件或升级软件消除风险。（财联社）</p>\n  <h2>投融资</h2>\n  <p><strong>“凌川科技”完成10亿元B轮融资</strong></p>\n  <p>36氪获悉，人工智能芯片公司“凌川科技”近日完成10亿元B轮融资，本轮融资将主要用于下一代芯片研发与量产及全球市场拓展。本轮由亦庄国投屹唐盛和基金、启明创投、朝晖资本联合领投，知名投资机构国泰海通开元、华控投资、国寿长三角科创基金、北工投资、建信（北京）投资、沛坤资本、香港科技园创投基金、鼎晖百孚、金舵投资、厦门恒兴、铭时资本，产业投资方石溪资本、龙芯创投、安徽文旅投参与投资，老股东顺禧基金、水木投资集团、九智资本持续追加。</p>\n  <p><strong>“主动科技”完成4.64亿元人民币天使+轮融资</strong></p>\n  <p>36氪获悉，近日，“主动科技”宣布完成4.64亿元人民币天使+轮融资。本轮由高榕创投、国投先导、上海科创投联合领投，康君资本、中网投、国泰海通、浦东创投、上海科创基金、广药资本、闵金投、云启资本跟投，老股东道彤资本、华大松禾、英诺资本继续追加投资。本轮融资为公司持续推进侵入式脑机接口研发、临床转化与产业化建设提供资金支持，并为进一步拓展产业合作创造条件。</p>\n  <h2>大公司财报</h2>\n  <p><strong>SK电讯第三季度扭亏为盈，净利润达4118亿韩元</strong></p>\n  <p>11月4日，韩国电信运营商SK电讯（SK Telecom）公布第三季度财报，合并净利润达到4118亿韩元，而去年同期亏损1667亿韩元，高于市场预期的3463亿韩元。营收同比增长13.1%至4.4973万亿韩元，营业利润同比大幅增长1040.3%至5523亿韩元，均超过市场预期。公司表示，无线及固网电信业务收入恢复增长，推动整体盈利改善。（新浪财经）</p>\n  <p><strong>高通2026财年营收431亿美元，同比下降3%</strong></p>\n  <p>当地时间11月4日，高通公布2026财年第四季度及全年业绩。第四季度营收103.22亿美元，同比下降8%；净利润12.51亿美元，上年同期为净亏损31.17亿美元。全年营收431.2亿美元，同比下降3%；净利润136.28亿美元，同比增长146%，主要受57亿美元所得税收益推动。非GAAP口径下，全年营收432.4亿美元，同比下降2%；净利润113.11亿美元，同比下降15%。业务方面，全年汽车业务收入60.04亿美元，同比增长52%；物联网收入增长8%。高通预计2027财年非手机业务收入将增长逾60%，并重申数据中心业务收入目标为50亿美元。（界面新闻）</p>\n  <p><strong>宝马集团第三季度营收304.52亿欧元，同比下降5.8%</strong></p>\n  <p>11月4日，宝马集团发布财报显示，第三季度汽车交付量551075辆，同比下降6.3%；摩托车交付量46605辆，同比下降12.5%。第三季度营收304.52亿欧元，同比下降5.8%；息税前利润（EBIT）15.89亿欧元，同比下降29.7%。（界面新闻）</p>\n  <p><strong>麦当劳第三季度同店销售额同比增长1.5%，高于市场预期</strong></p>\n  <p>11月4日，麦当劳公布第三季度业绩报告，公司第三季度同店销售额同比增长1.5%，此前市场预估为1.35%；第三季度营收为71.6亿美元，预估为72.9亿美元；调整后每股收益为3.57美元，预估3.40美元。（界面新闻）</p>\n  <p><strong>瑞幸发布三季报，第三季度省了11亿元配送费</strong></p>\n  <p>11月3日晚瑞幸咖啡发布三季报，单季总净收入179亿元，同比增17%，non-GAAP净利润21.4亿元，同比增长50.9%，创下单季新高。三季度外卖配送费17.9亿元，较去年同期减少11亿元，占收入比重从18.9%降至10%，主要原因是订单结构转变，外卖占比回落、自提订单提升。自营门店利润率改善至23.3%，同比提升5.8个百分点。受去年外卖大战高基数影响，自营门店同店销售增速-11.1%，不过公司称季度内趋势持续好转，四季度改善进一步加速。本季度瑞幸净增门店2599家，总门店突破3.89万家；同时新增短期银行借款32.5亿元，并推出5亿美元股份回购计划。（第一财经）</p>\n  <p><strong>整理丨李琪</strong></p>",
-      "category": "tech",
-      "published_at": "2026-11-05T00:01:15+00:00",
-      "fetched_at": "2026-11-05T04:51:23.323793+00:00",
-      "fingerprint": "6ed2bbaa371ba5f5"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "国资入股、「臻泰智能」获数千万元B轮融资，脑机康复产品进入500+医院｜36氪首发",
-      "url": "https://36kr.com/p/4055104890655622?f=rss",
-      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，近日，西安臻泰智能科技有限公司（下称\"臻泰智能\"）已完成数千万元B轮融资，本轮由张江科投、信达未来产业基金联合投资，这也是公司成立以来首次引入国资。募集资金将用于三类脑机接口创新医疗器械注册、底层核心技术研发，以及全国“医院—社区—居家”三级康复网络规模化落地。</p>\n  <p>此前，公司曾获联想创投、奇绩创坛、苏州胡杨林资本等机构投资。</p>\n  <p>臻泰智能创始人王浩冲为西安交通大学机械工程硕士、生物医学工程在职博士。他介绍，公司依托西安交通大学“863计划”项目孵化成立，核心研究方向是脑机接口康复机器人。2017年，自己硕士读研期间，就在项目合作医院深度参与脑机康复临床试验。</p>\n  <p>当时，传统康复设备以被动、机械化训练为主，患者参与度较低，重复训练的依从性难以保证。而需求端，脑卒中、术后运动/认知障碍群体基数非常庞大，且基层、农村患者往往缺乏连续康复服务，黄金康复期难以有效利用。正是在这样的背景下，王浩冲希望将课题研究的技术成果产业化，服务更大群体。</p>\n  <p>2018年8月，王浩冲正式创办臻泰智能，将非侵入式脑机接口技术应用于医疗康复领域，为医院、康复机构提供“脑机智能康复整体解决方案”，现已取得4张国家二类医疗器械注册证，产品进入全国500多家医院和社区机构，累计服务患者数十万名。</p>\n  <p>传统被动康复的问题在于，被动训练仅依赖设备带动肢体运动，患者大脑负责主动运动意图的皮层区域并未充分激活，因而难以驱动神经可塑性的核心机制，即“神经突触连接的重塑”。而神经科学领域的共识是，大脑具有神经可塑性，有主动运动意图的训练才能有效驱动旁路运动神经突触连接重塑，这是神经康复的核心科学依据。</p>\n  <p>基于这一原理，臻泰智能的产品技术路线可概括为“BCI+VR+机器人”解决方案：脑机接口采集脑电、识别运动意图，作为患者主动参与的证明；VR通过沉浸式场景提供视觉、听觉与触觉反馈，与脑机接口的识别结果即时联动，强化患者主动运动意图的生成与维持；最后，康复机器人将意图转化为真实肢体运动，三者由此形成闭环。</p>\n  <p>与此同时，在神经可塑性框架下，团队进一步提出“主动、实时、双向闭环”三项核心技术要求。“我们认为，设备需在1秒内响应患者的运动想象意图，超过3秒则患者的主动意图响应已迟滞，训练无法有效触发神经反馈，效果会明显下降。”王浩冲表示。</p>\n  <p>不过，想把这一路线落地成可在医院大规模使用的产品，团队一度也“面临一片空白”。臻泰智能创业之初，国内脑机接口产业仍处于非常早期的阶段，缺少成熟的可穿戴式脑机接口硬件平台和针对患者的专用算法数据集。</p>\n  <p>“因此，我们提出‘通用脑机接口（GBCI）’理念，设定三项可检验指标：识别准确率大于90%、单次想象响应时间小于1秒、个体适用性大于90%。”该指标标准下，团队开始倒推所需的技术能力，并决定自研电极、芯片模组与算法。</p>\n  <p>电极方面，临床常规湿电极需涂抹导电膏，单患者训练窗口仅20分钟，涂膏与穿戴环节就要耗费5至10分钟。因此，团队转向盐水电极、干电极方案，针对阻抗较高问题在单个电极单元背后增加主动放大模组，并采用柔性结构解决运动状态下的抗干扰采集需求。</p>\n  <p>算法层面，王浩冲解释，传统实验室数据往往来自健康人群，迁移至患者群体时准确率会显著下降。臻泰智能选择从零开始，通过不断跟医疗机构开展临床合作，对不同损伤程度、不同康复阶段的卒中患者进行分层标注，积累有临床差异化样本。</p>\n  <p>例如，公司与宣武医院、空军总医院、仁济医院等多家三甲医院联合建立“脑机接口运动想象数据集”，包含左右手连续抓握，下肢抬腿、走路等动作，将平均识别准确率从常规的50%-60%，提升至 86.41%，部分患者超过90%。</p>\n  <p>这些临床数据的回流让模型迭代初具基础。臻泰智能提供的信息称，目前，500多家合作医院日均使用量达数千人次，全年累计数十万条患者记录。“我们希望，依托大规模真实世界临床数据验证产品的安全有效性。下一阶段，我们将聚焦于构建脑机接口神经数据基座模型，争取实现更加个性化、精准化的康复治疗与预测。”</p>\n  <p>产品方面，基于现有技术能力，臻泰智能已取得4张国家二类医疗器械注册证，分别针对脑电采集评估、上下肢康复、手功能康复、言语认知训练，涉及功能评定到PT（物理治疗）/OT（作业治疗）/ST（言语治疗）训练等维度。产品通道数覆盖8-128通道，其中32通道为临床常规配置，更高密度无线可穿戴脑电产品也在持续研发中。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_3ee48c43b22f46f480aba528d1cbabba@5930287_oswg809809oswg1262oswg710_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：臻泰智能</p>\n  <p>公司一项大样本临床对照实验称，采用主动闭环脑机康复路线后，康复疗效较传统被动训练提升约30%，治疗时间缩短近1/3。具体而言，使用脑控康复的患者LOTCA（洛文斯顿作业疗法认知评定量表）认知功能提升22.49%、FMA-LB（Fugl-Meyer下肢运动功能评分）提升22.30%、FMA-B（Fugl-Meyer平衡功能评分）提升30.62%、MBI（日常生活活动能力评估）提升36.50%。</p>\n  <p>另据王浩冲介绍，<strong>今年9月，公司在上海张江成立全资子公司，以AI算法为核心的脑机接口创新产品已启动三类医疗器械注册申报</strong>。此外，公司还计划向认知与情绪障碍领域延伸，面向阿尔茨海默病、抑郁症、焦虑症建立新的产品与技术底座。“我们希望实现脑机接口技术从康复型走向治疗型，完成‘运动-认知-情绪’三大领域布局，服务更多患者。”</p>\n  <p>民生示范与场景落地方面，臻泰智能已在西安高新区建成脑机康复产品体验中心，并与西安市残联签署科技助残战略合作协议；此外，公司在上海小蓝花市民中心落地了脑机接口认知康复示范站，聚焦老年认知筛查、非药物干预及居家康复。</p>\n  <p><strong>投资人观点：</strong></p>\n  <p>张江科投表示：脑机接口是国家未来产业的代表方向，神经康复是目前落地较为成熟的赛道、临床价值较高。臻泰智能具备底层技术自主研发优势和国家级项目平台支撑，同时深耕科技助残民生场景，兼具产业价值和社会价值。我们将依托张江科创生态，助力企业加速产业化进程。</p>\n  <p>信达未来产业基金表示：脑机康复技术应用已进入产业爆发窗口期。臻泰智能在该领域深耕多年，已形成技术、标准、临床、场景落地及社会影响力等多维度全方位领先优势，商业化路径清晰、增长确定性强。本轮投资后，我们将深度赋能企业资源整合与全国扩张，助力脑机技术普惠落地。</p>\n  <p>臻泰智能创始人兼CEO王浩冲表示：脑机接口医疗应用的终极价值是服务临床、普惠民生。本次B轮融资顺利完成，是资本市场对臻泰智能脑机康复产业化落地路线的高度认可，也是公司从创立之初就坚定发展的方向。未来，我们将加速推进运动、认知以及情绪三大领域多款脑机接口创新产品注册布局，持续深耕底层核心技术，加速医院、社区、居家全场景覆盖，始终以“科技服务生命”为发展使命，以技术创新持续破解脑重大疾病诊疗痛点，让前沿科技早日惠及更多患者与家庭。</p>",
-      "category": "tech",
-      "published_at": "2026-11-05T01:00:00+00:00",
-      "fetched_at": "2026-11-05T04:51:23.323777+00:00",
-      "fingerprint": "b9cb155907af2c08"
-    },
-    {
-      "source": "少数派",
-      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
-      "url": "https://sspai.com/post/115819",
-      "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=\"https://sspai.com/post/115819\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-04T06:50:48+00:00",
-      "fetched_at": "2026-11-05T04:51:21.813741+00:00",
-      "fingerprint": "7bd1b862f6a13100"
-    },
-    {
-      "source": "少数派",
-      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
-      "url": "https://sspai.com/post/117713",
-      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-04T12:25:55+00:00",
-      "fetched_at": "2026-11-05T04:51:21.813735+00:00",
-      "fingerprint": "77c8c48d74b56370"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-      "url": "https://sspai.com/post/118498",
-      "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-05T00:16:27+00:00",
-      "fetched_at": "2026-11-05T04:51:21.813728+00:00",
-      "fingerprint": "d11d6067d99aa013"
-    },
-    {
-      "source": "少数派",
-      "title": "Apple 官网排版细节鉴赏",
-      "url": "https://sspai.com/post/115399",
-      "summary": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=\"https://sspai.com/post/115399\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-05T02:57:22+00:00",
-      "fetched_at": "2026-11-05T04:51:21.813716+00:00",
-      "fingerprint": "4275edac251417ea"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6807 CNY ↑+0.45%",
-      "url": "https://www.frankfurter.app/2026-11-04?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-11-04</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6807 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0209 (+0.45%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-11-05T04:51:20.409712+00:00",
-      "fingerprint": "ae6c3c9c35a3e396"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "ANC faces anger over poor services as South Africans vote in local elections",
-      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-      "summary": "<p>Party expected to get less than a third of the vote amid frustration over water outages and power cuts</p><p>The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.</p><p>The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party. However, polls show it getting less than a third of the vote, down from 45.6% at the <a href=\"https://results.elections.org.za/dashboards/lge/\">last municipal elections</a> in 2021 and 40.2% in <a href=\"https://www.theguardian.com/world/article/2024/jun/02/south-africa-election-anc-coalition-talks-ramaphosa\">2024’s national elections</a>.</p> <a href=\"https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-11-04T04:00:23+00:00",
-      "fetched_at": "2026-11-04T04:36:50.564352+00:00",
-      "fingerprint": "8c4ec9300281deb5"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "category": "politics",
-      "published_at": "2026-11-03T16:19:29+00:00",
-      "fetched_at": "2026-11-04T04:36:50.420248+00:00",
-      "fingerprint": "6b6c7100781c3e9d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "category": "politics",
-      "published_at": "2026-11-03T20:42:47+00:00",
-      "fetched_at": "2026-11-04T04:36:50.420242+00:00",
-      "fingerprint": "b3922c87fbdbf45c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "category": "politics",
-      "published_at": "2026-11-03T22:45:59+00:00",
-      "fetched_at": "2026-11-04T04:36:50.420236+00:00",
-      "fingerprint": "a5b086ccd08b4cef"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-      "category": "politics",
-      "published_at": "2026-11-04T02:38:07+00:00",
-      "fetched_at": "2026-11-04T04:36:50.420224+00:00",
-      "fingerprint": "b76e6aa8da320f05"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "印尼有毒煙霾正令鄰國陷入政治難題",
-      "url": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "新加坡和馬來西亞政府正夾在焦慮不安的民眾與脾氣暴躁的鄰國之間。",
-      "category": "politics",
-      "published_at": "2026-11-04T00:23:42+00:00",
-      "fetched_at": "2026-11-04T04:36:50.291747+00:00",
-      "fingerprint": "c5c9772ba0f03950"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "英國移民改革改什麼？BNO港人會受影響嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/c63r50z3npr7o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "內政大臣公布改革英國永久居留要求的計劃。",
-      "category": "politics",
-      "published_at": "2026-11-03T11:37:55+00:00",
-      "fetched_at": "2026-11-04T04:36:50.291740+00:00",
-      "fingerprint": "d987e7df47e68da8"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "《蘋果日報》前社長張劍虹提早獲釋，向官媒稱「好懊悔」",
-      "url": "https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "除了張劍虹，據報至少還有3名因《香港國安法》入獄的人士，亦已提早獲釋。外界關注，壹傳媒創辦人黎智英能否同獲假釋機會。",
-      "category": "politics",
-      "published_at": "2026-11-04T03:05:22+00:00",
-      "fetched_at": "2026-11-04T04:36:50.291734+00:00",
-      "fingerprint": "e78de854d2052946"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "有望成為首位穆斯林美國參議員，42歲的賽義德是誰？",
-      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "在密歇根州，民意調查顯示，民主黨候選人阿卜杜勒·賽義德（Abdul El-Sayed）有望成為美國首位穆斯林參議員。",
-      "category": "politics",
-      "published_at": "2026-11-04T00:32:57+00:00",
-      "fetched_at": "2026-11-04T04:36:50.291727+00:00",
-      "fingerprint": "d191086536d05729"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "APEC峰會前，美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
-      "url": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "深圳APEC前夕，中俄「無上限」合有任何挑戰嗎？北京對烏克蘭停火興趣如何？在APEC中美俄三方領袖會面能有所突破？",
-      "category": "politics",
-      "published_at": "2026-11-04T00:23:34+00:00",
-      "fetched_at": "2026-11-04T04:36:50.291716+00:00",
-      "fingerprint": "3886ce690971160e"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-04T04:36:49.976845+00:00",
-      "fingerprint": "db83d0eb2b26ea41"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-04T04:36:49.976722+00:00",
-      "fingerprint": "101769515b6870b2"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-04T04:36:49.976581+00:00",
-      "fingerprint": "742c6bb2f77592e6"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-04T04:36:49.976445+00:00",
-      "fingerprint": "f4b6798da170456a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "C++26 Disapproved",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-04T04:36:49.976291+00:00",
-      "fingerprint": "74be5ff6d634534a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Please stop asking me when the AI bubble will pop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-03T23:37:45+00:00",
-      "fetched_at": "2026-11-04T04:36:49.683382+00:00",
-      "fingerprint": "9d97c8271a19f07f"
-    },
-    {
-      "source": "The Verge",
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-04T00:42:10+00:00",
-      "fetched_at": "2026-11-04T04:36:49.683376+00:00",
-      "fingerprint": "92c50f67a507db6c"
-    },
-    {
-      "source": "The Verge",
-      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
-      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-      "summary": "Ahead of the release of Rockstar Games&#8217; Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-04T01:02:53+00:00",
-      "fetched_at": "2026-11-04T04:36:49.683370+00:00",
-      "fingerprint": "621a6640b0eccbf0"
-    },
-    {
-      "source": "The Verge",
-      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
-      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-04T01:15:34+00:00",
-      "fetched_at": "2026-11-04T04:36:49.683358+00:00",
-      "fingerprint": "f7f87a71fb4a7970"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "最前线| 拓竹发布新一代3D打印机，9个独立打印头、最快6秒切换",
-      "url": "https://36kr.com/p/4054776330900353?f=rss",
-      "summary": "<p>11月3日，拓竹发布第三代旗舰3D打印机 H3C，标准套装起售价16499元，首发期间直降1000元。</p>\n  <p>作为拓竹新一代旗舰产品，H3C此次升级的重点不再局限于打印速度，而是围绕多材料打印展开。新机搭载Swaptek™九头闪切系统、顶置一体化AMS 3H供料系统以及可变线径挤出机三大核心技术。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_95c5e6248b5149b282f52db7329747b0@6310669_oswg1818727oswg4096oswg2400_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">H3C整机</p>\n  <p>多头切换是此次升级的核心。H3C首次在消费级产品中引入9个独立打印头，最快6秒即可完成换头。官方数据显示，单次换料产生的废料仅38mg。。Swaptek™九头闪切系统使得每个打印头拥有独立进料通道和主动预加热能，各通道耗材始终保持装载状态，无需反复退料、切料和重新送料。</p>\n  <p>针对九头切换带来的精度问题，拓竹升级了工具头减重设计、微米级精度补偿和全自动校准系统，减少频繁切换对打印效果的影响。</p>\n  <p>多材料打印不仅考验打印机本身，也对耗材管理系统提出了更高要求。过去，需要将打印机和多个 AMS 模块分开摆放。H3C则推出了全新的 AMS 3H 系统，将耗材密封保存、自动送料和烘干功能整合在一起，集成于机身顶部。</p>\n  <p>可变线径挤出机试图解决的是材料边界问题，除常规 1.75mm 外，新增 2.85mm 线径挤出通道，使得机器具有更强的抗屈曲能力，能够在挤出过程中承受更大的推送力，同时提供更高的熔融流量。也因此，H3C成为首款可稳定打印消费级最软耗材75A TPU的 3D 打印机。</p>\n  <p>这一能力也让软硬材料混打成为可能。例如，鞋类产品可以在需要缓冲的区域使用柔性材料，在需要支撑的区域使用硬质材料，从而减少后期组装环节。</p>\n  <p>此外，H3C还支持CMYKW叠色打印、不同尺寸喷嘴混用，以及刀切、画笔、压印和冷烫金等工具头自动切换，进一步拓展了桌面3D打印机的加工边界。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_866777010f954d968d47f3ebe544f5e1@6310669_oswg937445oswg1320oswg600_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">H3C打印作品</p>\n  <p>整体来看，H3C发布展现了拓竹进一步拓宽桌面3D打印机产品边界的进攻。接下来，行业竞争可能会从过去的速度、精度之争，转向材料兼容性、自动化程度与最终产品完成度的竞争。</p>\n  <p>另一方面，与上一代产品H2C上涨1500元的价格也是一场测试，测试消费者愿意为更高阶的桌面制造能力支付多少溢价。</p>",
-      "category": "tech",
-      "published_at": "2026-11-04T01:33:10+00:00",
-      "fetched_at": "2026-11-04T04:36:49.575283+00:00",
-      "fingerprint": "000fdd22071a978c"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货",
-      "url": "https://36kr.com/p/4054776980378758?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，人工智能芯片公司「凌川科技」近日完成10亿元B轮融资，本轮融资将主要用于下一代芯片研发与量产及全球市场拓展。</p>\n  <p>本轮由亦庄国投屹唐盛和基金、启明创投、朝晖资本联合领投，知名投资机构国泰海通开元、华控投资、国寿长三角科创基金、北工投资、建信（北京）投资、沛坤资本、香港科技园创投基金、鼎晖百孚、金舵投资、厦门恒兴、铭时资本，产业投资方石溪资本、龙芯创投、安徽文旅投参与投资，老股东顺禧基金、水木投资集团、九智资本持续追加。</p>\n  <p>「凌川科技」由北京市人工智能基金与快手集团共同发起设立，前身为快手集团的异构计算与芯片事业部，专注于智能视频与生成式视频等多模态大模型的底层算力。</p>\n  <p>公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，于2018年起从零到一搭建了快手异构计算和芯片团队，是兼具学术深度与产业实战的领军人物。团队在快手内部自研SL200芯片智能视频SoC芯片，并于2024年3月正式拆分独立运营。</p>\n  <p>自2017年《Attention Is All You Need》发表，NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；</p>\n  <p>2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI Generated Video）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间。</p>\n  <p>短视频是中国在全球范围内具有明显领先优势的垂直赛道，涌现了快手、字节跳动、小红书等大型商业应用，可灵、Seedance等国际领先的大模型持续迭代。</p>\n  <p>随着短剧、互动视频、AI广告等应用的爆发，视频数据的处理和传输需求急剧增长，对底层算力的效率、功耗和成本提出了更高要求。</p>\n  <p>在这一趋势下，AIGV正被视为下一代智能算力的重要应用场景，产业正从“生成像素”迈向“模拟物理”的世界模型驱动阶段，有效算力需求相比传统文本模型呈指数级增长，在所有大模型Token消耗中占据重要部分。</p>\n  <p>面对AIGV的汹涌浪潮，刘凌志此前判断，当前这一赛道是数百亿级赛道，“未来三到五年将爆发至数千亿级，并可能突破万亿元。”</p>\n  <p>但是，传统通用GPU在视频处理任务上存在明显的效率瓶颈，导致Token 和运营成本居高不下。</p>\n  <p>与此同时，国内视频生成大模型快速演进，算力消耗进一步放大。面对算力供给的根本性问题，国产专用芯片需求愈发迫切，这对我国继续在短视频领域保持国际领先尤为重要。</p>\n  <p>这种局面下，更高效、更专用、更好用的算力底座芯片成了刚需。</p>\n  <p><strong>针对AIGV等生成式大模型场景的算力瓶颈，「凌川科技」将技术重心放在了延迟确定性计算架构上。</strong></p>\n  <p>据介绍，「凌川科技」深度融入RISC-V开源生态，<strong>推出创新性延迟确定性DiPU（Deterministic Inference PU）架构</strong>，采用数据流驱动与空间计算架构，通过编译器完全控制存储与调度，解决多模态大模型以及生成式视频对于高显存与带宽的依赖，实现了延迟、时序与带宽三重确定性。</p>\n  <p>硬氪了解到，公司首创的3D近存架构采用多芯片模组（MCM）设计，通过混合键合（Hybrid Bonding）及先进封装技术，实现不同功能和制程芯片的异构集成。</p>\n  <p>据团队介绍，「凌川科技」<strong>采用全国产3D堆叠技术的芯片于4月完成流片，并于近日回片，预计将于明年规模出货</strong>。该芯片专攻AI视频生产环节，目标是大幅降低视频生成成本，缩短生成时间，与SL系列共同覆盖视频生产、推荐、审核、分发的全链路。</p>\n  <p>值得一提的是，「凌川科技」<strong>还为3D近存拓扑设计了NUMA Fast Load机制</strong>，打破近存访问壁垒——Memory Slice形成分层NUMA域，计算核心直连访存，编译器将大模型权重与激活值切片预排布，本地访问时延低于2ns。</p>\n  <p><strong>这一理念对标Hot Chips上披露的OpenAI Jalapeño</strong>（业界首颗原生支持NUMA HBM4的推理ASIC），DiPU架构在3D集成下进一步深化为兼具极致带宽与可控功耗的“发射台式”预取机制。</p>\n  <p>更进一步，在软件层，「凌川科技」围绕DiPU架构<strong>自研了统一计算平台LUCAS</strong>（Lingchuan Unified Computing Architecure Stack），通过从应用适配层到硬件执行层的四层软件架构，适应不同应用，并同时做到支持主流开源生态、图/Eager 模式、TILE-BASED编程以及CLUSTER AFFINE，形成一整套专用算力+开源架构+场景深度优化的技术路线。</p>\n  <p>在软件栈构建上，「凌川科技」选择拥抱开源生态，基于Python DSL（如Triton/TileLang+MLIR）自动生成算子，无需客户自建生态；</p>\n  <p>同时，开放底层Intrinsic接口供性能关键代码做极致优化，并提供CUDA兼容层，为拥有大量存量CUDA代码且不愿重构的客户深度优化。</p>\n  <p>目前，<strong>该平台已完成对Qwen、通义万相、Hunyuan Video、MiniMax等主流开源及视频生成模型的适配优化。</strong></p>\n  <p>基于“芯片+软件栈”的全栈能力，「凌川科技」还推出了AIGV平台Nebula，以自研芯片为底座，打通推理、模型服务到行业应用，覆盖文生/图生视频全链路，软硬协同、多模型纳管，面向内容制作与文旅落地。</p>\n  <p>布局下一代架构的同时，「凌川科技」的现有产品已实现大规模落地。目前，<strong>SL200芯片已销售近十万颗，部署至快手、阿里云、百度云、B站等互联网公司</strong>，覆盖快手99.7%的直播转码业务。</p>\n  <p>此外，2026年，SL200还通过与电信等合作伙伴实现产品落地，共同服务数据中心、智慧安防、文娱交通等场景，在节省客户存储空间的同时保证画质清晰，相关技术指标测试均已过关。</p>\n  <p>团队方面，「凌川科技」核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上的芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产。</p>\n  <p>团队拥有多名入选国家级高层次人才计划和北京市、上海市、湖北省等省部级人才计划的专家，以及多位具有丰富产业化经验的行业带头人。</p>\n  <p><strong>投资方观点</strong></p>\n  <p><strong>亦庄国投：</strong>亦庄国投集成电路投资事业部总经理、屹唐盛和基金董事总经理郑浩：“亦庄国投作为北京经开区产业赋能型投资平台，投资凌川科技，核心看重其稀缺的规模化落地能力与自主架构创新，确定性算力底座支撑大模型时代的生态位，以及项目落地经开区对完善智能算力产业链的强牵引作用。我们也将以耐心资本陪伴其从规模化量产走向全球竞争。”</p>\n  <p><strong>启明创投：</strong>主管合伙人周志峰：“在生成式视频和大模型算力需求指数级增长的节点上，凌川选择了一条差异化路径：以“延迟确定性”架构切入，深度融入RISC-V生态，用专用芯片解决通用GPU在多模态大模型场景中效率不高、成本高企的痛点。这种“硬件为基础、软件定义”的打法，恰好契合我们对AI基础设施“效能优先”的判断。我们相信，团队兼具华为与英特尔的芯片基因以及快手的大规模系统能力，有望在智能算力这个细分赛道中跑出“本垒打”级机会。”</p>\n  <p><strong>石溪资本：</strong>石溪资本长期关注并深耕半导体与新兴科技赛道，凌川科技是我们在云端专用大算力基础设施环节的重要布局。当下视频生成已从前沿尝鲜功能升级为云端算力增长最快的核心负载，通用算力的能效边界已逐渐跟不上视频大模型的需求爆发。公司团队与产业伙伴长期扎根视频生成处理领域，对大模型负载与业内的新应用趋势有深入理解，有望成长为该赛道的核心参与者。我们将与企业一同前行，共同见证算力产业的下一个增长周期。</p>\n  <p><strong>老股东顺禧基金：</strong>凌川科技2024年分拆自快手集团，聚焦多模态大模型推理这一高增长的蓝海赛道，是国内多模态大模型推理专用芯片领军企业。公司凭借创新技术架构优势，有望大大降低芯片单位推理成本，同时与快手、可灵等在商业侧深度绑定。作为公司首轮投资机构，顺禧基金连续多轮追加投资，始终看好团队的技术积淀与商业化前景。</p>\n  <p><strong>以下是硬氪与凌川科技COO张文静的访谈</strong></p>\n  <p><strong>硬氪：今年视频行业变化很多，比如Sora的变化，这对算力提出什么新要求？你们有因此而改变产品策略吗？</strong></p>\n  <p><strong>张文静：</strong>公司的技术路线始终与视频场景深度协同。今年行业的快速迭代，本质上表明视频生成正在从早期的“技术秀场”全面转向“商业闭环”，技术兑现必须由业务ROI来驱动。这对凌川而言是明确的利好，不仅没有动摇我们的路线，反而强力印证了我们早期产品定义的预判。</p>\n  <p>例如今年OpenAI在Sora上的战略调整，验证了‘不计成本的堆砌通用算力模式’在商业上不可持续，以及场景和受众规模的重要性。视频生成的核心痛点是推理算力成本过高，单位产出ROI难以转正，业务越多亏损越大，这本质上是沉重的TCO压力反噬了商业扩张。国内模型在性价比和工程化上的快速追赶，也加速了这一趋势的显现。</p>\n  <p>这件事从另一个角度指明了一个不可逆的共识：大模型正走向应用深水区，厂商必须不计一切代价降低全周期TCO。模型是产业链的赋能工具，必须落在具体商业场景中产生正向现金流。正是基于此，凌川坚定聚焦于“工程化兑现以及商业化降本”，不单纯追求技术以及指标上的领先，而是强调真正落地的能力，攻克推理端成本的产业瓶颈。</p>\n  <p><strong>硬氪：目前视频领域最先跑通商业闭环的场景是什么？</strong></p>\n  <p><strong>张文静：</strong>以AI漫剧、AI短剧、AI互动视频、AI广告等为代表的垂直内容形态，是目前已得到明确验证、形成稳定付费闭环的场景。不仅流量变现链路清晰，其内容生成流中AI的渗透率还在随成本下降而指数级增长。</p>\n  <p>从底层架构看，当服务规模推向亿级用户的时候，继续采用动辄数万美元的通用GPU承载即时推理，在商业上存在结构性失衡。除了高额的成本以外，GPU并不能在大模型推理端发挥极致的效用，也就因此导致部分“算力空转”的问题。对于利润极度敏感的下游内容商而言，推理算力成本直接决定了项目的生死。</p>\n  <p>此外，首帧时延与端到端生成效率也是影响用户体验和付费意愿的关键因素。过去生成一段视频动辄数分钟的等待体验，对用户的即时交互意愿不友好。因此，大模型推理端对下一代芯片及算力集群的要求集中在，<strong>极致的每单位TCO成本，以及能够支撑即时互动的低时延吞吐。</strong>这正是凌川提前布局的核心战场。</p>\n  <p><strong>硬氪：通用GPU与专用ASIC的行业趋势会发生怎样的变化？</strong></p>\n  <p><strong>张文静：</strong> 半导体产业演进史上有一个经典规律——“牧本浪潮”（Makimoto's Wave），即通用化与专用化大致以十年为周期交替主导。&nbsp;</p>\n  <p>过去十年是通用芯片的周期，当通用算力效率遇到瓶颈，产业会转向专用路线来追求极致的能效。大模型进入落地期后，场景是驱动算力革新的第一动力。通过对视频推理关键算子与访存机制的深度定制，专用芯片能带来数量级的效能提升并大幅优化TCO。凌川坚定的正是这条以专用效能驱动产业普及的落地路线。</p>\n  <p><strong>首页图源｜企业供图</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_c9131f3119c245ababdf79348d8050b9@1199336245_oswg79490oswg1280oswg399_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">欢迎交流</p>",
-      "category": "tech",
-      "published_at": "2026-11-04T01:33:32+00:00",
-      "fetched_at": "2026-11-04T04:36:49.575277+00:00",
-      "fingerprint": "8f2207f3ce4ae8d2"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪官方股票舆情交流群开放加入，抢先掌握A股一手资讯！",
-      "url": "https://36kr.com/p/4054849345672326?f=rss",
-      "summary": "<p>每天开盘前，你会关注哪些市场消息？</p>\n  <p>上市公司有没有新的业务进展？行业里出现了哪些值得关注的变化？市场热点背后，又有哪些企业动态值得留意？</p>\n  <p>对于关注A股市场的人来说，及时获取信息、了解行业动态，往往是观察市场的重要一环。</p>\n  <p>为此，36氪企业全情报持续运营官方股票舆情交流群，希望为关注资本市场、上市公司和行业动态的朋友，提供一个获取信息、交流观点的地方。</p>\n  <p>目前，社群持续开放招募，欢迎感兴趣的朋友加入。</p>\n  <p>&nbsp;</p>\n  <h2><strong>一、进群能获得什么？</strong></h2>\n  <p><strong>1. 每日市场早报，及时了解盘前资讯</strong></p>\n  <p>每个交易日上午9:00，社群会分享A股市场早报，精选当日值得关注的市场资讯、行业动态及上市公司相关消息，并通过AI辅助整理，帮助大家快速了解市场信息。</p>\n  <p>不用花大量时间在不同平台之间来回切换，也能及时掌握当天的重要资讯。</p>\n  <p><strong>2. 上市公司动态与行业舆情分享</strong></p>\n  <p>围绕上市公司经营动态、业务布局、重大事件及行业热点，持续分享全网公开信息。</p>\n  <p>从权威媒体报道到社交平台、行业论坛的相关讨论，帮助大家从不同维度了解企业动态，发现值得进一步关注的信息。</p>\n  <p><strong>3. 市场热点交流，拓展信息视角</strong></p>\n  <p>社群成员可以围绕市场热点、行业变化和上市公司动态进行交流，分享各自关注的信息与观点。</p>\n  <p>不局限于单一行业或个股，让不同关注方向的朋友能够在交流中获取更多信息。</p>\n  <p>&nbsp;</p>\n  <h2><strong>二、为什么选择36氪企业全情报？</strong></h2>\n  <p>36氪企业全情报由36氪与红麦聚信联合打造，背靠17年大数据积累，提供7×24小时全网信息采集服务。</p>\n  <p>覆盖权威媒体、社交平台、行业论坛等多类信息来源，重点关注企业动态、行业舆情和市场资讯。</p>\n  <p>对于关注资本市场的用户来说，除了关注股价变化，也可以多看看企业本身发生了什么，以及行业正在出现哪些新变化。</p>\n  <p>36氪企业全情报希望通过持续的信息整理与分享，帮助大家更及时地了解企业和市场。</p>\n  <p><strong>点击了解：</strong><a href=\"https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&amp;path=/pages/home/index\" rel=\"noopener noreferrer\" target=\"_blank\">https://channel.36kr.com/api/x/wechat/urlLink?channelId=1&amp;path=/pages/home/index</a></p>\n  <p>&nbsp;</p>\n  <h2><strong>三、加入36氪官方社群</strong></h2>\n  <p>如果你平时关注A股市场，想及时了解上市公司动态、行业热点，或者希望认识更多关注资本市场的朋友，欢迎加入36氪企业全情报官方交流群。</p>\n  <p><strong>社群交流内容：</strong></p>\n  <p>A股市场资讯与每日早报</p>\n  <p>上市公司舆情及企业动态</p>\n  <p>行业热点与市场信息分享</p>\n  <p>市场观察与观点交流</p>\n  <p>&nbsp;</p>\n  <p><strong>加入方式：</strong></p>\n  <p>扫描下方二维码，即可加入36氪官方股票舆情交流群。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_1124a8c33cfb4fe5b095d282ab744467@5284654_oswg10627oswg288oswg281_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码加入！</p>\n  <p><strong>温馨提示：社群主要用于公开信息分享与市场交流，不提供荐股及交易指导。</strong></p>",
-      "category": "tech",
-      "published_at": "2026-11-04T02:46:43+00:00",
-      "fetched_at": "2026-11-04T04:36:49.575271+00:00",
-      "fingerprint": "b1c0d86faf9eeaf7"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "WISE 2026 特别策划 - Re：Frame者征集",
-      "url": "https://36kr.com/p/4054890923824260?f=rss",
-      "summary": "<p>Re：Frame 是36氪在「WISE 2026商业之王」中推出的特别策划环节，是一项面向创新者的年度案例征集与现场发布计划。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_f5e0e7fb05fd4b43944fa1bf78cb307d@6301044_oswg320459oswg1001oswg750_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h2><strong>为什么发起「Re：Frame者征集」</strong></h2>\n  <p>今天，各行各业都在谈创新。但是真正改变一个行业的创新，可能最初往往并不显眼。它可能只是重新提出了一个问题，改变了一种交付方式，建立了一套新的连接关系，或者让人们开始用另一种标准判断“什么才是好的”。</p>\n  <p>本活动由36氪联合42章经共同发起，我们希望找到那些正在通过新技术、新产品、新商业模式或新协作方式，改变一个行业原有规则的人、公司和项目。</p>\n  <h2><strong>Re：Frame在寻找什么？</strong></h2>\n  <p>不只是寻找“做得更大、更快”的项目，更关注那些真正改变了行业“旧默认”的创新：</p>\n  <p><strong>重构问题</strong><br />不再回答行业一直在问的问题，而是提出了一个新的问题。</p>\n  <p><strong>重构供给</strong><br />改变了产品、生产、供应链、服务或交付方式。</p>\n  <p><strong>重构连接</strong><br />重写了渠道、信任机制及产业链上下游的协作关系。</p>\n  <p><strong>重构价值</strong><br />改变了行业的定价逻辑、评价体系，或衡量“好”的标准。</p>\n  <h2><strong>Re有什么意义？</strong></h2>\n  <p>对行业而言，Re希望提供一组值得提前关注的变化信号。它们不一定已经拥有最大的规模，却可能代表一种新的技术路径、产品逻辑、商业模式或产业关系。</p>\n  <p>对创新者而言，Re希望提供的不只是一项荣誉，而是一次获得“定义权”的机会。入选者可以公开讲清楚：</p>\n  <p><strong>行业过去如何运行，我改变了什么，以及这项改变为什么值得被更多人看见。</strong></p>\n  <p>对普通观众而言，Re也不只是在展示几个优秀项目。我们希望通过这些真实案例，让更多人理解未来并不是突然到来的——它往往先发生在少数人的产品、客户、订单和交付现场中。</p>\n  <h2><strong>谁可以参与</strong></h2>\n  <h3><strong>「我在重新定义」——自荐</strong></h3>\n  <p>如果你是创业者或产业从业者，正在推动一项可能改变行业规则的产品、技术、模式或解决方案，可以申报自己正在做的事。</p>\n  <h3><strong>「我看见谁在重新定义」——他荐</strong></h3>\n  <p>如果你观察到某个人、公司或项目正在改变一个行业，也可以推荐TA，并说明：</p>\n  <p><strong>TA改变了什么？你为什么确信？</strong></p>\n  <p>被推荐者确认相关信息后，将正式进入评审。</p>\n  <h2><strong>如何申报</strong></h2>\n  <ol>\n   <li><strong>一句话讲清改变：</strong>TA把行业的什么“旧默认”，换成了什么“新默认”？</li>\n   <li><strong>用100字介绍项目：</strong>尽量让不了解这个行业的人，也能在一分钟内听懂。</li>\n   <li><strong>提供真实进展：</strong>可以是数据、客户、订单、交付记录、合作方、专利或公开报道等可验证材料。</li>\n   <li><strong>上传商业BP</strong></li>\n  </ol>\n  <h2><strong>入围流程：</strong></h2>\n  <p><strong>36氪编辑部初筛</strong><br />按照“真实性 × 锐度 × 正在发生”进行筛选，重点判断改变是否真实、是否清晰、是否已经产生进展。</p>\n  <p><strong>Top 50公开公示</strong><br />入选项目向全网公开，并开放大众背书。背书不是排名投票，仅作为评审参考信号。</p>\n  <p><strong>联合评委会复评</strong><br />由36氪团队、合作方代表及一线投资人、行业学者共同评审。</p>\n  <p>评审重点包括：</p>\n  <ul>\n   <li>创新价值：30%</li>\n   <li>落地成长性：30%</li>\n   <li>锐度与正在发生：20%</li>\n   <li>行业影响力：20%</li>\n  </ul>\n  <h2><strong>入围后可以获得什么？</strong></h2>\n  <p><strong>Top 50</strong></p>\n  <p>收录于《2026 Re名单》电子册，获得全网公示与曝光</p>\n  <p><strong>Top 9</strong></p>\n  <p>进入终评候选池，获得配套宣发资源支持</p>\n  <p><strong>Top 5</strong></p>\n  <p>登上WISE 2026大会主舞台，获得15分钟Re：Frame独立路演展示机会</p>\n  <h3><strong>时间轴：</strong></h3>\n  <p>启动征集：2026年10月20日</p>\n  <p>报名截止：2026年11月15日</p>\n  <p>专业评委评审：2026年11月16日-20日</p>\n  <p>WISE 现场路演：2026年11月28日</p>\n  <p>宣传周期：2026年10月20日-12月&nbsp;</p>\n  <h3><strong>入围标准</strong></h3>\n  <p>基础价值（锐度 + 正在发生）（20%）：锐度：视角独特，直击产业真问题，跳出同质化叙事；正在发生：项目处于进行时态，近期有可观测进展，具备当下产业讨论价值。</p>\n  <p>创新价值（30%）：技术、产品、商业模式或解决方案具备突破性创新，提供行业新范式、新思路，区别于存量成熟方案。</p>\n  <p>落地成长性（30%）：落地扎实，团队能力、核心壁垒清晰；项目可持续迭代，具备可预期成长空间，业务风险可控。</p>\n  <p>行业影响力（20%）：对产业链具备示范与借鉴价值，能够启发行业共识，契合当前产业核心议题，拥有长期参考意义。</p>\n  <h3><strong>大赛咨询与合作：</strong></h3>\n  <p>联系方式：xumengtong@36kr.com ；17610129955（同微信）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_ba5e58c6d9d243b2aa1df1db003d651c@6301044_oswg17038513oswg4500oswg28486_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-11-04T03:36:35+00:00",
-      "fetched_at": "2026-11-04T04:36:49.575261+00:00",
-      "fingerprint": "16cb2848f12b8e8c"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "WISE 2026 特别策划 - 我们的创业梦",
-      "url": "https://36kr.com/p/4054909861942149?f=rss",
-      "summary": "<p>WISE 2026 的最后小时，不属于已经成功的公司，属于还没被听见的人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_c1d3da1aaf2a488cbf2a2ed5ca7dbc3d@6301044_oswg252035oswg1001oswg751_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <h3><strong>一、活动介绍</strong></h3>\n  <p>每一个后来被时代叫响的名字，都有过一段无人回应的自我介绍。</p>\n  <p>这个阶段里，产品可能还不完整，团队可能只有几个人，用户屈指可数，商业模式也远没有被验证。能拿出来的，或许只有一个真实的问题、一个刚刚做出的产品，以及一句“我想试试看”。</p>\n  <p>WISE 2026的主题是“请以我的名字呼唤我”。</p>\n  <p>今年，我们将看见那些已经形成清晰路径、正在创造商业价值的名字。但我们也想知道：在这些名字之后，<strong>下一个值得被听见的人在哪里？</strong></p>\n  <p>因此，WISE 2026决定留出一个窗口，给尚未被世界叫出名字的创业者。这就是“我们的创业梦”。</p>\n  <p>它不是一场比融资规模和成熟度的比赛。我们希望找到那些真实表达、敢于试错、愿意用产品和用户价值说话的人。</p>\n  <p>WISE2026不想只做一份报名表，也不想做一次结果导向的评选。从线上征集、UGC话题、作品展示和公众投票，到WISE 2026大会的专属曝光窗口，我们希望让优秀的创业者获得被更多用户、投资人和产业伙伴看见的可能。</p>\n  <p>你的视频可能成为一张创业梦人物卡、一条被广泛转发的短片或一次公众投票中的真实选择；优秀项目还有机会来到WISE 2026现场，在大会上，向商业世界介绍自己。</p>\n  <p>在世界记住你的名字之前，先让我们听见你的创业梦。</p>\n  <h3><strong>二、活动面向人群</strong></h3>\n  <ul>\n   <li>在校大学生 / 高校毕业生</li>\n   <li>早期创业者 / 副业探索者</li>\n   <li>有技术、设计、运营、内容、供应链等能力的团队成员</li>\n   <li>对创业感兴趣、想找方向/找搭子的个人</li>\n   <li>👉 零基础也欢迎，个人可报，团队更佳。</li>\n  </ul>\n  <h3><strong>三、活动福利与规则</strong></h3>\n  <ul>\n   <li>填写本表单即视为报名/登记参与意向。（提交内容须为本人/本团队真实想法，不得抄袭、刷量、发布违规信息。 ）</li>\n   <li>主办方可能通过填写的联系方式与您沟通：入群、领资料、参加路演、线上点评等相关活动。</li>\n   <li>优秀项目更有机会到 WISE 2026 现场说说我们的创业梦。</li>\n   <li>36氪全平台联动，把你的创业故事推到聚光灯下——让对的人看见，让机会主动找来。</li>\n   <li><strong>00后首席提问官：</strong>提报优秀项目，抢占现场席位，直接向行业老炮发问——别让好问题只留在心里。</li>\n   <li><strong>《梦的档案》专栏</strong>：所有通过初审的投稿进入 WISE 2026 大会专题页专栏轮播并署名，优秀项目投稿可获36氪主站刊发资格。</li>\n   <li><strong>梦的第二章</strong>：优质的投稿者，获得投资人1V1现场对接机会。36氪×青年创业者，不止一面之缘，而是一场长期陪伴。</li>\n   <li>你的创业梦，值得被拍成电影——入选36氪 WISE 2026 故事片《我们的创业梦》，让千万人看见你的故事。</li>\n  </ul>\n  <h3><strong>🚩（划重点）视频拍摄要求</strong></h3>\n  <p><strong>横屏 16:9，1080P 及以上，手机拍摄即可，时长 3 分钟（</strong>2 分 30 秒至 3 分 30 秒<strong>），视频大小控制在300MB以内，环境安静、光线充足；</strong></p>\n  <p><strong>开场统一句</strong>（约 8 秒）——“我叫 ____，____ 岁，来自 ____。这是我的创业梦。”</p>\n  <p>拍摄要求：正面、静止镜头、说完自然停顿 2 秒</p>\n  <p><strong>结尾统一句</strong>（约 15 秒）——“三年后，我要让 ____。（停顿）WISE2026 让商业世界听见我们的声音！（停顿）”</p>\n  <p><strong>中间 160 秒完全自由</strong>。不管控的结构：起点时刻 → 现在做到哪一步 → 缺什么 / 想对谁说什么</p>\n  <p>（视频内容提示可包含：梦的起点、你在做的事、你放弃了什么、你的第一批 10 个人（谁在用、谁在帮）、三年后的那一天、我最缺什么等话题，毫无限制……）</p>\n  <p><strong>（*个人信息仅用于本次活动通知与匹配，不做商用，投稿视频即授权主办方用于本次活动相关的剪辑、展示与传播。）</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_5cdd879ccbe74a37930354a808b42611@6301044_oswg5394249oswg1080oswg7871_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-11-04T03:50:06+00:00",
-      "fetched_at": "2026-11-04T04:36:49.575244+00:00",
-      "fingerprint": "5fc94099f2c58f58"
-    },
-    {
-      "source": "少数派",
-      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-      "url": "https://sspai.com/post/118317",
-      "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-03T07:12:54+00:00",
-      "fetched_at": "2026-11-04T04:36:47.699155+00:00",
-      "fingerprint": "4734444af824250a"
-    },
-    {
-      "source": "少数派",
-      "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
-      "url": "https://sspai.com/post/118263",
-      "summary": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。<a href=\"https://sspai.com/post/118263\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-03T14:00:00+00:00",
-      "fetched_at": "2026-11-04T04:36:47.699148+00:00",
-      "fingerprint": "c8b572e3857008b1"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
-      "url": "https://sspai.com/post/118402",
-      "summary": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。<a href=\"https://sspai.com/post/118402\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "fetched_at": "2026-11-04T04:36:47.699141+00:00",
-      "fingerprint": "1dc27a8e2d133573"
-    },
-    {
-      "source": "少数派",
-      "title": "国行 Apple 智能上手：这些功能已经准备好",
-      "url": "https://sspai.com/post/118404",
-      "summary": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。<a href=\"https://sspai.com/post/118404\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-04T02:41:10+00:00",
-      "fetched_at": "2026-11-04T04:36:47.699129+00:00",
-      "fingerprint": "c4aacf26476bc666"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6598 CNY ↑+0.01%",
-      "url": "https://www.frankfurter.app/2026-11-03?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-11-03</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6598 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0005 (+0.01%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-11-04T04:36:46.831314+00:00",
-      "fingerprint": "cb5d56cfacde5b02"
     }
   ]
 }
