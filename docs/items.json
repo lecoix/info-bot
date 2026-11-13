@@ -1,7 +1,287 @@
 {
-  "updated_at": "2026-11-12T05:30:43.927403+00:00",
-  "count": 181,
+  "updated_at": "2026-11-13T04:48:30.098495+00:00",
+  "count": 209,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+      "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+      "summary": "<p>After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’</p><p>The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation.</p><p>Kundizeza’s story <a href=\"https://static1.squarespace.com/static/6a4f3fb6a6178e0225b39a4c/t/6a95fffc36f1fc568e02f7fe/1788215293124/3.The+Blue+Fighter.pdf\">The Blue Fighter</a>, which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October.</p> <a href=\"https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-11-12T13:14:38+00:00",
+      "fetched_at": "2026-11-13T04:48:30.094056+00:00",
+      "fingerprint": "758208eaa2780f86"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "category": "politics",
+      "published_at": "2026-11-12T20:09:16+00:00",
+      "fetched_at": "2026-11-13T04:48:29.893902+00:00",
+      "fingerprint": "88784d92e59c8158"
+    },
+    {
+      "source": "BBC World News",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "category": "politics",
+      "published_at": "2026-11-13T02:48:29+00:00",
+      "fetched_at": "2026-11-13T04:48:29.893896+00:00",
+      "fingerprint": "5ab32b935289d189"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "category": "politics",
+      "published_at": "2026-11-13T02:01:35+00:00",
+      "fetched_at": "2026-11-13T04:48:29.893890+00:00",
+      "fingerprint": "c4e104b78dbe843c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "category": "politics",
+      "published_at": "2026-11-13T03:57:01+00:00",
+      "fetched_at": "2026-11-13T04:48:29.893880+00:00",
+      "fingerprint": "607d4d7557c40807"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "從失禁到長期疼痛，數以百萬計的女性在分娩數十年後仍然飽受後遺症困擾。",
+      "category": "politics",
+      "published_at": "2026-11-12T08:33:39+00:00",
+      "fetched_at": "2026-11-13T04:48:29.847936+00:00",
+      "fingerprint": "b1eb3b049467a530"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "黃仁勳辭職：暫時接掌Nvidia的克雷斯是誰？還有哪些正式接班人選？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "財務長科萊特·克雷斯將暫時接替黃仁勳，但另有數人被視為可能的正式接班人。",
+      "category": "politics",
+      "published_at": "2026-11-12T16:12:19+00:00",
+      "fetched_at": "2026-11-13T04:48:29.847929+00:00",
+      "fingerprint": "1374eb0611537f86"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "微軟系統全球癱瘓：Outlook、Teams、Copilot受影響",
+      "url": "https://www.bbc.com/zhongwen/articles/crvg2d7v05yno/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "監測網站顯示，這次中斷影響74個國家的用戶，已持續超過八小時。",
+      "category": "politics",
+      "published_at": "2026-11-13T04:10:29+00:00",
+      "fetched_at": "2026-11-13T04:48:29.847923+00:00",
+      "fingerprint": "3f8f8d1e97e62bef"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "深陷醜聞的黃仁勳辭職，AI芯片巨頭Nvidia陷入動盪",
+      "url": "https://www.bbc.com/zhongwen/articles/cmn80j4vnj1jo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "美國議員現在想就他被指控的其中一段關係是否與中國間諜有關對他進行質詢。",
+      "category": "politics",
+      "published_at": "2026-11-13T04:33:40+00:00",
+      "fetched_at": "2026-11-13T04:48:29.847905+00:00",
+      "fingerprint": "99fce9932566e63d"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-13T04:48:29.632621+00:00",
+      "fingerprint": "4e10e32134f86500"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-13T04:48:29.632475+00:00",
+      "fingerprint": "226483c2eb286b9a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-13T04:48:29.632333+00:00",
+      "fingerprint": "9ab435bfd5da65a2"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-13T04:48:29.632196+00:00",
+      "fingerprint": "80680dd0523308da"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-13T04:48:29.632040+00:00",
+      "fingerprint": "bc816e16a4a037cf"
+    },
+    {
+      "source": "The Verge",
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-12T23:30:52+00:00",
+      "fetched_at": "2026-11-13T04:48:29.341079+00:00",
+      "fingerprint": "ecab0e7e397b3108"
+    },
+    {
+      "source": "The Verge",
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-12T23:43:22+00:00",
+      "fetched_at": "2026-11-13T04:48:29.341073+00:00",
+      "fingerprint": "dd62360cdb556845"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-13T00:11:44+00:00",
+      "fetched_at": "2026-11-13T04:48:29.341066+00:00",
+      "fingerprint": "371ebe6d794efd4a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-13T00:46:07+00:00",
+      "fetched_at": "2026-11-13T04:48:29.341056+00:00",
+      "fingerprint": "a33c16c8e7593e79"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "硬氪首发丨前迪士尼亚太成员下场“造”交互智能基座，获数百万种子轮融资",
+      "url": "https://36kr.com/p/4066337448907656?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;邱晓芬</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，面向AI Native终端的交互智能SYNAPUFF近期完成数百万元种子轮融资，资方为FIRST RULE VENTURES、浦东创投。</p>\n  <p>SYNAPUFF联合创始人兼CEO李诗淼向硬氪表示，他们希望开发面向AI Native终端的交互智能基座，让智能体不仅知道自己能做什么，还能判断什么时候做、以什么方式做，以及如何根据人的反应调整行为。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_a81abcc3e52c4651baa2725229cf0b65@1199336245_oswg58304oswg1080oswg1620_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">SYNAPUFF联合创始人兼CEO李诗淼</p>\n  <p>李诗淼的经历横跨娱乐体验、投资和人机交互。</p>\n  <p>李诗淼曾任职于迪士尼亚太总部，作为早期成员参与了一系列经典IP的衍生项目。随后，她加入拾象科技，作为foundingteam member，参与多个硬科技独角兽的系统性研究与投资；</p>\n  <p>2021年，她创立蚁触科技，围绕触觉反馈模型与多模态交互技术，打造了触感广告、触感营销、触感座舱，服务LVMH、开云、奥迪等客户，曾获红杉中国投资。</p>\n  <p>2025年她开始前往香港科技大学（广州）人机交互实验室开展研究，并于2026年开启新创业项目。SYNAPUFF另一位联合创始人兼首席科学家为范明明博士，现任香港科技大学（广州）常聘副教授、博士生导师，长期从事人机交互与人智协同领域的人工智能研究。</p>\n  <p>在2026年10月最新发布的全球Top2%顶尖科学家榜单中，范教授凭借对human factor及人工智能领域的研究成果上榜。</p>\n  <p>过去几十年，人机交互的基本逻辑始终是由人主动发起——无论是键盘、触摸屏，还是语音助手，都是用户发出明确指令，设备作出相应反馈。</p>\n  <p>但当AI成为终端的原生能力，智能体开始具备持续感知环境、理解情境、主动提供服务的可能性，传统的“指令—响应”模式也开始显现局限。</p>\n  <p>尤其是，当基础大模型公司开始将能力延伸至各类智能终端，AI的任务理解和执行能力有望进一步提升。</p>\n  <p>相比之下，如何理解人的意图、判断互动时机，并以恰当的方式作出回应，仍是一个尚未充分解决的问题，也正成为行业新的竞争焦点。</p>\n  <p>SYNAPUFF将自身定位为面向AI Native终端的交互智能公司。李诗淼向硬氪表示，她们希望提升的是智能体的“情商”。但这并不只是识别用户情绪，而是让智能体具备理解交互情境、判断互动边界和动态调整自身行为的能力。</p>\n  <p>例如，机器人知道用户可能口渴，但如果对方正在开会，直接递水未必合适。因此，机器人需要结合环境、用户状态和互动历史，判断自己的动作何时介入、如何回应，以及何时退出。</p>\n  <p>为此，公司提出“P Framework”——尝试将传统的“感知—理解—行动”，转变为“试探—接收反应—决策-接收反应-决策”的交互闭环。</p>\n  <p>也就是说，智能体不必一开始就准确理解用户意图，而是可以先通过眼神、身体转向、声音或其他轻量化交互信号表达意图，再根据用户回应，决定继续、等待或退出。</p>\n  <p>具体而言，“P Framework”主要包含三个组件：互动动态模型，预测行动可能引发的用户反应；人格策略，根据角色、关系和行为约束选择动作；non-verbal behaviour生成模型，动态调度不同模态介入交互。</p>\n  <p>不过，这套架构并非要重新训练所有底层能力，而是希望组织已有的视觉识别、情绪识别等模型，并结合原生的非文本语言动作生成能力，形成独立且能够适配不同终端形态的交互决策框架。目前，公司表示正在训练相关模型。</p>\n  <p>数据也是这套模型的关键。</p>\n  <p>李诗淼向硬氪表示，SYNAPUFF计划通过标注受控实验数据、公开影视数据、真实场景部署积累互动数据，并通过对照不同动作及用户反馈，训练模型优化互动策略。</p>\n  <p>与主要围绕任务是否完成来评价模型不同，交互智能还需要关注一个行为是否在合适的时机发生、用户是否愿意回应，以及交互能否自然持续。这意味着，模型需要从人与智能体的双向互动中获得反馈，而不只是判断一次指令有没有被正确执行。</p>\n  <p>在未来的商业模式设计上，公司希望围绕交互智能技术平台，与不同类型的AI Native终端企业探索技术合作及商业化路径，核心目标是将互动决策能力做成可跨不同构型终端复用的技术能力。</p>\n  <p><strong>以下是硬氪与李诗淼的访谈（略经摘编）</strong></p>\n  <p><strong>硬氪：你的职业经历看起来比较多元，为什么最终选择进入AI Native终端交互领域创业？</strong></p>\n  <p><strong>李诗淼：</strong>我高中时就发现，自己对创业很憧憬。比起帮助人们完成任务，我更想创造让人感到快乐、惊喜，甚至不可思议的体验。</p>\n  <p>我的职业路径看似跳跃，但主线始终没变。在迪士尼，我学习最优秀的角色IP和体验如何被科学的系统工程定义；进入投资行业后，我开始理解技术演进及其对生活的改变；后来创办蚁触科技，又尝试通过触觉交互，把难以描述的感受变成可以生成和传递的体验。</p>\n  <p>2020年初，我在CHI读到一篇介绍虚拟湿度渲染机制的论文，受到很大启发。论文核心作者就是我现在的联创范教授，我也因此开始在人机交互领域进行系统性学习。</p>\n  <p>这些经历都指向同一个问题：技术究竟能为人创造多少新的体验？AI Native终端让我看到，技术创造新体验有了新的可能，舞台也从屏幕延伸到了真实世界。</p>\n  <p><strong>硬氪：为什么AI Native的硬件行业最近纷纷开始关注交互智能了？</strong></p>\n  <p><strong>李诗淼：</strong>过去整个产业主要解决两类问题：一是智能化水平，包括对任务的感知、推理、理解任务及应答能力；二是终端本体，包括续航、元器件、关节、灵巧手、整机等。</p>\n  <p>但从更广泛的AI终端产业来看，基础模型正让不同设备逐步拥有理解、推理和执行能力。下一阶段的竞争，可能不仅是谁的模型更聪明，还包括谁能够让这些智能能力以更自然、更符合人类习惯的方式被使用。</p>\n  <p>所以这里需要发展的是一套新的交互范式，本质上我们正在经历从单向任务理解型的传统交互到双向智能交互的迁移，这当中会包括人与智能体之间的持续交互，以及多个智能体之间的协同与通信。随着硬件和任务执行能力的进步，AI Native终端必然需要进一步解决如何进入真实社会空间、与人长期共处的问题。</p>\n  <p>今天新一代的终端行业，有点像2006年至2007年智能手机出现之前的山寨手机时代，有非常多不同的AI录音卡片、AI随身设备甚至陪伴机器人出现在市场上，用户很难分辨哪个才是自己能一直使用起来的。</p>\n  <p>就像当年智能手机逐渐确立全屏交互范式一样，我认为AI Native终端也需要找到属于自己的交互范式，重新定义人与终端之间的关系。</p>\n  <p><strong>硬氪：你们做的交互智能，与基础模型有什么区别？</strong></p>\n  <p><strong>李诗淼：</strong>我们的重点不是重新训练一个具备全部知识和任务能力的大模型，而是围绕智能交互这一特定问题，探索能够适配不同场景与终端的模型和技术架构。</p>\n  <p>我们希望模型通过有限任务训练后，面对从未见过的新情境，仍然能够理解并尝试处理问题，为智能体提供双向交互能力。</p>\n  <p>例如，不同终端可能使用不同的传感器和表达方式，但它们都需要解决一些共通的问题：判断用户是否愿意互动、预测自身行为可能引发的反应，以及如何根据反馈调整交互策略。</p>\n  <p>我们希望将这些共通能力抽象出来，而不是为每一种硬件构型重新开发一套交互逻辑。</p>\n  <p><strong>硬氪：你们现在的技术研发进展如何？</strong></p>\n  <p><strong>李诗淼：</strong>目前团队已经搭建相关技术框架，正在重点训练原生的跨构型non-verbal behaviour动作生成模型。这是我们探索交互智能的一项重要研发工作。通过具备物理身体的终端，我们可以观察交互行为如何影响用户反应，并验证相关的互动决策机制。</p>\n  <p>整体处于早期研发阶段，主要工作集中在技术路线和产品定义。</p>\n  <p><strong>硬氪：你们如何保证自己的技术不会被基础模型公司替代？</strong></p>\n  <p><strong>李诗淼：</strong>如果核心价值只是提升某项任务的效率，确实可能很快被基础模型的进步覆盖。但人的体验、行为和社会关系是一个更复杂的问题空间，难以通过简单的效率指标衡量。我们希望与通用基础模型形成分工，前者负责理解指令和完成任务，我们则关注如何与人建立合适的互动关系。</p>\n  <p>我们认为，交互智能的价值不仅来自模型能否理解一个情境，也来自它能否在真实终端上形成持续的交互闭环。比如，同样一句提示、同样一个动作，在不同的时机和不同的关系背景下，可能引发完全不同的用户反应。只有不断获取交互反馈、评价交互效果，并优化行为策略，才能提升这种能力。</p>\n  <p>我们希望与通用基础模型形成分工，前者负责理解指令和完成任务，我们则关注智能体如何将自身能力转化为自然、恰当的交互体验。</p>\n  <p><strong>首页图源｜SYNAPUFF官网</strong></p>",
+      "category": "tech",
+      "published_at": "2026-11-12T05:33:36+00:00",
+      "fetched_at": "2026-11-13T04:48:29.245137+00:00",
+      "fingerprint": "16241347813f02fa"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职，特朗普：建议库克接任；腾讯“裁员50%”？知情人士回应；宣扬错误婚恋观，德芙代运营方被罚80万",
+      "url": "https://36kr.com/p/4067443683120000?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>张一鸣再发声谈字节AI</p>\n  <p>商务部：中美正就降税、贸易、投资等问题保持密切沟通</p>\n  <p>美股三大指数集体收跌，英伟达跌超4%</p>\n  <p>SpaceX与特斯拉合并谈判取得进展，最早12月宣布交易</p>\n  <p>联合航空禁止Muse、Instinct等AI智能体预订航班</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>英伟达宣布CEO黄仁勋辞职，CFO科莱特·克雷斯出任临时CEO</strong></p>\n  <p>11月12日，英伟达宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司现任执行副总裁兼首席财务官科莱特·克雷斯（Colette Kress）出任临时CEO，并继续担任CFO，直至正式继任者确定。董事会将启动新任CEO遴选程序，同时考虑内部及外部候选人。英伟达董事会还任命Harvey C. Jones担任公司首任董事会主席，Jones曾任新思科技CEO兼执行董事长。</p>\n  <p>当天，美国总统特朗普表示，在黄仁勋辞职后，蒂姆·库克应该接任英伟达的首席执行官。“黄仁勋表现出色，但他现已辞职，唯一能接替他的人选只有苹果的执行董事长库克，”他说。“让一位传奇人物接替另一位传奇。”同日，美国企业家马斯克在社交媒体平台回应网友建议他聘用黄仁勋时表示：“那将是我的荣幸。”</p>\n  <p>另据知情人士透露，临时首席执行官科莱特・克雷斯11月13日将在这家芯片企业位于加州圣克拉拉的总部召集高管团队开会。这位因信息涉密而要求匿名的知情人士称，克雷斯将和一众高层管理人员讨论领导层安排以及业务延续方案。（财联社）（界面新闻）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_f54afc2da92c42ee941a6aecbab7bef9@5667365_oswg45022oswg740oswg490_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">配图</p>\n  <p><strong>知情人士：腾讯“裁员50%”说法完全不属实</strong></p>\n  <p>11月12日消息，针对外界关于“腾讯裁员50%”的说法，界面新闻从接近腾讯的知情人士处获悉，在腾讯28周年的Linktime线上直播中，腾讯管理层主动表达了要加快组织变革的决心，同时特别提到，这和几年前那次“降本增效”不一样。前一次相对被动，更偏“降本”；这一次是面向AI时代的主动出击，更偏“增效”，激发团队去创造新的价值，鼓励一线同事积极举手向前冲，中间的管理层则需要变得更扁平和灵敏。为了应对新的变革，内部需要主动思考新打法和新战场，50%的人像陆军一样，守土有责，通过提效去做好现有的核心业务；另50%的人像海军一样，拥抱浪潮，探索AI Native、拓展新的发展空间。这是公司资源适应AI时代的重新调度，可能也是所谓“裁员50%”的谣言误读出处，该说法完全不属实。（界面新闻）</p>\n  <p><strong>宣扬错误婚恋观，德芙代运营方被罚80万</strong></p>\n  <p>11月12日，据“上海市场监管”微信公众号发布的长三角违法广告典型案例信息显示，上海宗正食品有限公司作为快手平台“德芙官方旗舰店”的运营主体，于2026年8月为推销“德芙巧克力七彩缤纷礼盒”，自行设计、制作并在店铺内发布含有“跟男朋友要了很久的德芙七彩礼盒也没给我买，今天趁男朋友不在跟暧昧对象分享了抖音，驾车2小时送了过来，很甜”等内容的宣传视频，将对待感情的不忠行为包装成“甜蜜体验”，宣扬错误婚恋观，违背社会良好风尚。</p>\n  <p>2026年10月，上海市普陀区市场监管局依据《中华人民共和国广告法》有关规定，对当事人作出罚款80万元的行政处罚。（界面新闻）&nbsp;</p>\n  <h2>AI最前沿</h2>\n  <p><strong>张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”</strong></p>\n  <p>11月12日，从多方知情人士处获悉，近期字节跳动创始人张一鸣再次在内部分享中谈到AI业务。据了解，张一鸣在近期一次面向AI团队的全员会议上表示，字节有能力与OpenAI和Anthropic展开竞争，但真正追平前沿技术，“最早也要到2029年或2030年”。字节跳动的大模型要对标国际第一梯队。张一鸣坦言，与海外顶尖AI公司相比，字节Seed系列模型的预训练数据集规模仍然少了，这是字节AI当下最需要关注的问题。（澎湃新闻）</p>\n  <p><strong>Anthropic：AI有望10年内攻克癌症等疑难病症</strong></p>\n  <p>Anthropic首席执行官Dario Amodei预测，人工智能的进步有望在10年内攻克癌症、阿尔茨海默病等疑难病症。他表示：“癌症、阿尔茨海默病、心脏病以及精神类疾病，10年内都将成为历史遗迹。”近期Anthropic通过收购多家生物技术初创企业，拓展药物研发业务。该公司还于上月在官方博客披露，已经启动内部新药研发工作。（新浪财经）</p>\n  <p><strong>百度推出大模型交易平台词元所，日均调用Token超7000亿</strong></p>\n  <p>36氪获悉，在百度世界2026开幕式上，百度创始人李彦宏表示，模型迭代速度非常快，今年前9个月，几乎每天都有不止一款新模型发布，与此同时，对模型的调用需求也迎来大爆发。由此催生的一批词元中转站。为此，百度推出大模型交易平台词元所。他表示，词元所是大模型的交易所，希望汇聚好的模型和模型提供商，让企业乃至个人都能便捷地找到、购买和使用可信的模型Token。词元所上线一个月以来，入驻供应资源已超100个，日均调用次数突破5000万，日均调用Token超7000亿。</p>\n  <p><strong>美科技监督项目呼吁民主党收紧科技监管，出台AI与数据中心新规</strong></p>\n  <p>美国科技监督项目为新国会的民主党人提供一份行动蓝图，该机构将本次中期选举称为“首届AI与科技问责选举”。一份备忘录显示，这家科技监督机构呼吁民主党持续对大型科技企业施压，推出社交媒体、人工智能、数据中心相关立法。科技监督项目创始人兼CEO Sacha Haworth在周三的备忘录中表示：“民主党当下最不该做的，就是回到对大型科技企业放任如常的老样子。”（新浪财经）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>商务部：中美正就降税、贸易、投资等问题保持密切沟通</strong></p>\n  <p>商务部新闻发言人何亚东在11月12日举行的商务部例行新闻发布会上说，“300亿对300亿”对等降税框架安排有利于稳定和拓展中美双边贸易，中美两国工商界对此都抱有较高期待。目前，中美双方就实施这一安排保持密切沟通。希望美方与中方共同努力，尽快推动这一安排落地见效，为两国农产品贸易创造更多有利条件。关于经贸磋商，中美双方正在就贸易、投资等领域各自关切问题保持密切沟通，有关进展将适时公布。（新华社）</p>\n  <p><strong>美股三大指数集体收跌，英伟达跌超4%</strong></p>\n  <p>36氪获悉，11月12日收盘，美股三大指数集体下跌，纳指跌0.39%，道指跌0.36%，标普500指数跌0.35%。大型科技股涨跌不一，英伟达跌超4%，市值蒸发1820亿美元；SK海力士跌超3%，奈飞、英特尔跌超2%，苹果、Meta小幅下跌；英伟达GPU的竞争对手博通、AMD涨超5%，谷歌、特斯拉涨超1%，微软、亚马逊小幅上涨。热门中概股普跌，爱奇艺、阿里巴巴跌超7%，蔚来跌超5%，小鹏集团、理想汽车、哔哩哔哩跌超3%，百度、微博跌超2%。</p>\n  <p><strong>网红酸奶Blueglass母公司换帅</strong></p>\n  <p>天眼查App显示，近日，网红酸奶Blueglass关联公司北京悦活餐饮管理有限责任公司发生工商变更，谷勇卸任法定代表人、董事长，由谷成轩接任。该公司成立于2012年5月，注册资本约1510万元人民币，经营范围包括餐饮管理、酒店管理、企业管理咨询等，由谷勇、Joy Yogurt Limited、北京悦悦悦信息咨询合伙企业（有限合伙）等共同持股。（界面新闻）</p>\n  <p><strong>Anthropic IPO认购需求约为发行规模的6倍，拟募资最高644亿美元</strong></p>\n  <p>11月13日消息，据报道，人工智能公司Anthropic的首次公开募股（IPO）认购需求约为可供认购股份数量的6倍。根据公司提交的文件，Anthropic及其联合创始人计划通过IPO募资最高644亿美元，并通过同步进行的私募配售募资260亿美元，两项合计最高904亿美元。公司目标完全稀释后估值约为1.4万亿美元。（界面新闻）</p>\n  <p><strong>香港交易所：以人民币计价、挂钩人民币货币基金(82800.HK)的衍生权证11月12日上市</strong></p>\n  <p>36氪获悉，香港交易所发文称，一只以以人民币计价、挂钩人民币货币基金的衍生权证11月12日上市。这是时隔约十年，人民币衍生权证再度亮相香港市场，为投资者带来更多人民币产品选择。该权证目前是香港市场上唯一一只以人民币计价的衍生权证。</p>\n  <p><strong>天孚通信：11月12日首次回购10万股，成交价为140.56元/股-150元/股</strong></p>\n  <p>36氪获悉，天孚通信公告，公司于2026年11月12日首次通过股份回购专用证券账户以集中竞价交易方式回购股份10万股，占公司总股本的0.0092%，最高成交价为人民币150元/股，最低成交价为人民币140.56元/股，成交总金额为1454.34万元。根据此前方案，公司拟以自有资金回购股份，回购资金总额不低于1亿元且不超过1.5亿元，回购价格不超过350元/股，回购股份将用于注销并减少注册资本。</p>\n  <p><strong>A股三大指数集体收跌，全市场超4600股飘绿</strong></p>\n  <p>36氪获悉，A股三大指数集体收跌，沪指跌0.67%，深成指跌1.68%，创业板指跌2.44%；物理AI、AI短剧领跌，华策影视、上纬新材跌超10%，宇树科技跌超8%；食品饮料、银行涨幅居前，广百股份、皇台酒业涨停，金种子酒涨超6%；半导体板块走强，燧原科技、盛科通信涨超10%，沐曦股份、摩尔线程、寒武纪涨超8%；个股跌多涨少，全市场超4600股飘绿。</p>\n  <p><strong>央行11月12日日开展3840亿元隔夜逆回购操作，操作利率为1.25%</strong></p>\n  <p>36氪获悉，央行11月12日开展3840亿元隔夜逆回购操作，操作利率为1.25%。</p>\n  <p><strong>美联储2027年议息安排出炉，10月常规利率决议将改为货币政策讨论</strong></p>\n  <p>11月13日，美联储周四公布2027年联邦公开市场委员会（FOMC）修订后的暂定会议日程。全年计划举行8次会议，分别于1月26-27日、3月16-17日、4月27-28日、6月8-9日、7月27-28日、9月14-15日、10月26-27日及11月16-17日举行。其中，10月26-27日会议将专门讨论广泛的货币政策战略问题，不按常规在第二天公布利率决议。2028年首次会议暂定于1月25-26日举行。（金十数据APP）</p>\n  <p><strong>美联储12月加息50个基点的概率为15.3%</strong></p>\n  <p>据CME“美联储观察”：美联储12月加息25个基点的概率为84.7%，加息50个基点的概率为15.3%。美联储到明年1月累计加息25个基点的概率24.4%，累计加息50个基点的概率为64.7%，累计加息75个基点的概率为10.9%。（财联社）</p>\n  <p><strong>知情人士：度小满支付获央行更名许可，启用“满易支付”为存量商标复用</strong></p>\n  <p>11月12日消息，据中国人民银行北京市分行发布非银行支付机构重大事项变更许可信息公示，北京度小满支付科技有限公司获准变更公司名称为北京满易支付有限公司，变更监事为刘晖，变更财务负责人为李竹。对此，有知情人士透露，“满易”并非全新名称，相关商标此前已经完成注册，本次属于存量商标复用，并非临时新设。它此前已经出现在度小满相关的小贷公司和信贷产品中。（新浪科技）</p>\n  <p><strong>长鑫科技副总裁：来自服务器市场的内存需求占比超50%</strong></p>\n  <p>11月12日，在2026 IC China行业大会上，长鑫科技副总裁骆晓东表示，内存需求进入“分层时代”，不同细分市场需求分化，目前服务器市场需求占比超50%，服务器市场高端存储和高性能芯片需求走高。汽车市场单车存储容量也在提升，预计到2030年，车载存储和车规芯片的需求年复合增速将达到30%左右。行业要跳出传统存储仅仅关注容量和速率的固化思路，根据目前的内存需求，内存可拆分为五个核心维度：容量、带宽、写入率、访问粒度和延迟。（第一财经）</p>\n  <p><strong>SpaceX与特斯拉合并谈判取得进展，最早12月宣布交易</strong></p>\n  <p>知情人士透露，马斯克旗下SpaceX与特斯拉的合并谈判正取得进展，双方最早可能于今年12月宣布交易，有望创下全球企业并购规模纪录。不过，交易宣布时间也可能推迟至2027年初。（新浪财经）</p>\n  <p><strong>日本拟就安全风险对AI企业设置处罚条款</strong></p>\n  <p>知情人士周三透露，日本政府正考虑要求人工智能相关企业落实安全保障措施，并对违规行为设置处罚，以此应对先进AI带来的各类风险。该提案在一场围绕AI法律体系的闭门工作组会议上提出。当下市场愈发担忧先进AI模型会出现不可预测的行为；近期还接连发生多起备受关注的数据泄露、非法访问事件，外界怀疑和AI滥用有关。（新浪财经）</p>\n  <p><strong>花旗连续下调英伟达目标价</strong></p>\n  <p>花旗将英伟达目标价从285美元下调至225美元。花旗此前于11月10日将英伟达目标价从315美元下调至285美元。（财联社）</p>\n  <p><strong>8天6板大东方：当前股价与公司经营业绩、行业情况严重偏离，存在市场情绪过热、非理性炒作风险</strong></p>\n  <p>36氪获悉，大东方发布股票交易风险提示公告称，2026年11月3日至2026年11月12日的8个交易日中，公司股票已发生6个交易日涨停，公司股价期间累计涨幅达81.77%，已两次触及上涨异动。公司存在业绩下滑风险，且前三季度仅实现微利。公司主营业务未发生重大变化，股价短期内连续上涨，公司当前股价与公司经营业绩、行业情况严重偏离，存在市场情绪过热、非理性炒作风险，随时存在快速下跌风险。敬请投资者理性决策，审慎投资。</p>\n  <p><strong>消息称SK海力士HBM4良率突破70%</strong></p>\n  <p>据报道，SK海力士的HBM4良率近期已突破70%。不过，SK海力士尚未正式公布具体的良率数据。业界高度重视HBM4良率突破70%这一事实。良率是指合格产品数量与总产量的比值；在相同的计算标准下，良率从60%提高到70%，意味着在相同的生产投入下，合格产品的产量大约增加16.7%。（财联社）</p>\n  <p><strong>国家发改委：11月12日24时起汽、柴油价格每吨分别下调645元、625元</strong></p>\n  <p>36氪获悉，据国家发改委消息，10月29日国内成品油价格调整以来，国际市场原油价格震荡回落，本次调价的前10个工作日平均价格低于上次调价前10个工作日平均价格。根据国际市场油价变化情况，自11月12日24时起，国内汽、柴油（标准品）价格每吨分别下调645元、625元。</p>\n  <p><strong>谷歌与三星电子等合作推出AI智能眼镜</strong></p>\n  <p>谷歌11月12日宣布，与Gentle Monster、Warby Parker和三星电子合作推出配备Gemini技术的全新智能眼镜系列，现已正式开启预售。（界面新闻）</p>\n  <p><strong>SpaceX正研发AI芯片机架，降低对英伟达配套零部件依赖</strong></p>\n  <p>据SemiAnalysis，SpaceX正在研发Kessel，这是一款定制版Vera Rubin NVL72机架，它用无源PCB中板替代原有的NVLink线缆盒。该方案保留Oberon的72个GPU封装、18个计算托盘与9个交换托盘，但将这些托盘围绕中板背靠背排布。SpaceX计划直接向英伟达采购芯片封装，其余零部件自行采购，绕开英伟达L6计算板。这将让SpaceX在供应商选择与元器件采购上掌握更大自主权。（新浪财经）</p>\n  <p><strong>知名科技分析师艾夫斯：马斯克需要向德克萨斯州民主党人“抛出橄榄枝”</strong></p>\n  <p>知名科技分析师丹·艾夫斯（Dan Ives）表示，在民主党赢得中期选举后，埃隆·马斯克必须寻求与德克萨斯州官员达成政治妥协，以维护SpaceX在人工智能数据中心方面的雄心。民主党人吉娜・伊诺霍萨赢得得克萨斯州州长选举后，各界对新建数据中心的审视力度明显加大。她主张在针对电力、水资源及社区建立更强有力的保护措施之前，暂停对相关项目的审批；不过，她也表示愿意与马斯克旗下的公司开展合作。（新浪财经）&nbsp;</p>\n  <p><strong>OpenAI据悉以1.25万亿美元估值融资150亿美元</strong></p>\n  <p>据报道，OpenAI以1.25万亿美元估值融资150亿美元。（界面新闻）</p>\n  <p><strong>联合航空禁止Muse、Instinct等AI智能体预订航班</strong></p>\n  <p>继银行、零售商出于隐私顾虑出台同类禁令之后，联合航空宣布将禁止各类AI智能体与AI助手预订本航空公司的航班。该禁令既适用于在联合航空App、官网直接发起的订票行为，也涵盖通过旅行社与旅游聚合平台完成的订票。航司称，正在更新订票、出票与分销相关政策，同时更新客户帮助页面，帮助用户保护个人信息。（新浪财经）</p>\n  <p><strong>马斯克回应Anthropic或不续租算力：乐意收回</strong></p>\n  <p>针对Anthropic可能在2027年年中后停止租用SpaceX算力的消息，SpaceX CEO埃隆·马斯克回应称，公司乐意收回相关算力。但他认为，实际情况可能恰恰相反。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>拓荆科技：发行股份购买资产并募集配套资金事项获上交所审核通过</strong></p>\n  <p>36氪获悉，拓荆科技公告，公司拟通过发行股份及支付现金方式购买无锡尚积半导体科技股份有限公司82.97%股份、上海泰纳微企业管理有限公司100%股权和无锡宽行企业管理有限公司100%股权并募集配套资金。截至公告披露日，上海证券交易所已审核通过本次交易。本次交易尚需经证监会同意注册后方可实施，能否取得同意注册及最终完成注册时间存在不确定性。</p>\n  <p><strong>龙芯中科：定增申请获上交所审核通过</strong></p>\n  <p>36氪获悉，龙芯中科公告，公司于2026年11月11日收到上海证券交易所出具的审核意见，公司向特定对象发行A股股票申请符合发行条件、上市条件和信息披露要求，上交所将在收到公司申请文件后提交中国证监会注册。本次定增事项尚需获得中国证监会同意注册的决定后方可实施，最终能否获得同意注册及时间尚存在不确定性。</p>\n  <h2>大公司财报</h2>\n  <p><strong>鸿海第三季度净利润775.2亿新台币，创单季新高</strong></p>\n  <p>11月12日，鸿海公布第三季度净利润775.2亿元新台币，创单季新高，季增29%，年增34%。鸿海前三季度净利润达1874.17亿元新台币，创同期新高，年增30%。鸿海表示，第三季度产品组合与营运规模提升，核心获利大幅成长。针对第四季度与全年展望，该公司表示，季对季及年对年皆强劲成长；全年展望上修。鸿海预计2027年AI机柜出货量将实现高双位数增长，市占率提升。（界面新闻）</p>\n  <p><strong>思科第一财季营收185亿美元，同比增长24%，上调全年业绩预期</strong></p>\n  <p>思科当地时间11月12日公布，2027财年第一季度（截至2026年10月24日）营收185.17亿美元，同比增长24%；按美国通用会计准则（GAAP）计算，净利润45.52亿美元，同比增长59%，摊薄后每股收益1.14美元，同比增长58%；非GAAP每股收益1.40美元，同比增长40%。其中，网络业务营收增长43%，产品营收增长32%。思科将2027财年营收预期上调至748亿至758亿美元，非GAAP每股收益预期上调至5.47至5.53美元，并预计面向大型云服务商的AI基础设施业务收入将达到90亿美元，较2026财年总额增长一倍以上。（界面新闻）</p>\n  <p><strong>中芯国际：前三季度净利润73.14亿元，同比增长91.6%</strong></p>\n  <p>36氪获悉，中芯国际公告，2026年前三季度营业收入606.18亿元，同比增长22.4%；归母净利润73.14亿元，同比增长91.6%；扣非净利润56.33亿元，同比增长77.3%。第三季度单季营业收入219.83亿元，同比增长28.1%；归母净利润28.47亿元，同比增长87.6%；扣非净利润26.39亿元，同比增长107.3%。</p>\n  <h2>投融资</h2>\n  <p><strong>机器人制造商Agile Robots融资5亿美元，投资方包括软银和英伟达</strong></p>\n  <p>11月12日，总部位于德国的机器人制造商Agile Robots宣布完成5亿美元融资，累计融资总额增至近20亿美元，公司估值达85亿美元。本轮融资由软银集团领投，英伟达、日立等参投。（界面新闻）</p>\n  <p><strong>“曦选创智”完成5亿元天使轮融资</strong></p>\n  <p>36氪获悉，由优必选、沐曦股份、锋龙股份共同出资设立的具身智能端侧芯片企业“曦选创智”完成5亿元天使轮融资，投后估值40亿元。本轮融资由纪源资本、经纬创投联合领投，多家机构跟投。曦选创智聚焦打造自主可控的具身智能端侧芯片与计算平台，首颗自研芯片定位为面向机器人的“大小脑一体”SoC。公司计划2027年向产业伙伴提供开发验证平台，用于适配和测试，2028年推出首款SoC产品及配套的具身智能整体解决方案。</p>\n  <p><strong>“纬钛机器人”完成数亿元A轮融资</strong></p>\n  <p>36氪获悉，视触觉传感器研发商“纬钛机器人”近期完成数亿元A轮融资，由中车资本、永鑫方舟联合领投，银杏谷资本、木棉花基金、华仓资本、鲁信创投等机构参与投资。</p>\n  <p><strong>AI数据中心初创公司Torus完成5亿美元融资，推出集成储能系统的模块化数据中心</strong></p>\n  <p>11月11日，美国能源存储初创公司Torus宣布完成5亿美元C轮融资，由Magnetar领投，Iconiq Capital、Origin Ventures和Trinity Capital等机构参与。本轮融资将用于生产名为Foundry的新型模块化AI数据中心产品，该产品将电池储能系统与AI计算设备集成在集装箱大小的模块中，AI基础设施公司Hydra Host是其客户之一。（新浪财经）&nbsp;</p>\n  <p><strong>整理丨几何鱼</strong></p>",
+      "category": "tech",
+      "published_at": "2026-11-13T00:21:02+00:00",
+      "fetched_at": "2026-11-13T04:48:29.245131+00:00",
+      "fingerprint": "728f2e5df64755bc"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨北航博士做AI4S，获亿元融资，要造自驱动实验室",
+      "url": "https://36kr.com/p/4067548192576389?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_4676d91fda7147f390b0a200be4b11c4@6221844_oswg217857oswg2036oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3000</strong>字，建议阅读<strong>8</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，面向科学研发的Physical AI公司——青葵智造近日宣布完成亿元A轮融资，由创东方投资、飞荣达股份及金辉大数据共同参与。资金将重点用于核心技术研发、重点行业拓展以及云实验室建设，加速自驱动实验室的产业化落地。</p>\n  <p>青葵智造成立于2021年，核心业务是面向生物医药、化学工业、先进材料、新能源等领域，提供“AI设计—自动化执行—多模态数据回流—模型自适应迭代”的干湿实验闭环解决方案。公司创始人、董事长陈南江为北航博士，曾任职于北航机械学院，在机器人及智能制造领域有十余年连续创业经验。</p>\n  <p>近年来，AI4S（AI for Science）正从计算驱动的科学发现，向AI自主实验执行演进。不过，行业内仍面临着“Execution Gap”（执行鸿沟）与“Data Gap”（数据鸿沟）这样的核心痛点，即数字世界中的智能决策，与真实世界中的实验执行尚未充分打通。</p>\n  <p>“目前不少科学模型仍然依赖公开文献和数据库训练，但公开数据往往存在实验条件记录不完整、失败样本不足等问题。模型可以提出很多假设，但如果缺少真实实验验证和持续的数据反馈，就很难不断提高预测和决策能力。”陈南江向硬氪直言。随着大模型技术的爆发，行业逐渐意识到，没有高质量的结构化湿实验数据，AI在条件筛选与合成层面的能力将遭遇天花板。</p>\n  <p>基于这一判断，青葵智造选择了一条“软硬一体、干湿闭环”的路线。陈南江将一套完整的自动化实验室解决方案类比为人体：底层是负责物理执行的硬件（双手），中层是负责调度的操作系统（神经系统），顶层是负责实验设计决策的科学大模型（大脑）。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_1a209678d4e34777877643374ca29537@6221844_oswg738939oswg942oswg628_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>青葵智造自动化合成实验室（图源/企业）</p>\n  <p>在硬件层，NexoLab将经典化学实验动作和流程进行了标准化、数字化和模块化，从标准化执行单元到投料合成、样品处理及分析、分离纯化等工作站，以及标准实验流程等不同层级，都能实现模块化的柔性配置，以适配各类常见反应条件及分析方法。同时充分发挥青葵制造团队的自动化、软件技术积累，实现了常见实验的可靠性、可重复性和一致性。</p>\n  <p>在管理调度层，AI-LabOS将物理设备抽象为可调用的智能体，把不同实验流程分解为不同智能体的标准化实验动作，以实现各类实验流程的适配，同时借助不同层级的数据采集解决方案，实现了覆盖执行单元、实验节拍、反应条件、实验室运营管理等多维度的数据采集和追溯，并可以通过调度仿真与数字孪生技术，实现多台套机器人的协同调度与实验流程编排，让不懂硬件编程的化学家也能快速上手，最大限度的提升实验产出效率。</p>\n  <p>在决策层，MoleMind基于湿实验室产生的多维高质量数据进行各类型模型训练，可以实现包括智能实验设计、设备状态预测、实验数据可靠性评价、实验优化及自迭代、反应条件优化等在内，适用于不同场景的垂类模型，真正的将模型应用到实验辅助分析、实验辅助设计与决策中。</p>\n  <p>“化学实验里有很多细节，比如氮气环境下不同形状物质的加样及称量，平行反应器如何进行热设计和结构设计以保障搅拌和温度曲线的一致性。我们要把这些理解透彻，再转化成软件界面和底层算法。”陈南江表示。目前，青葵智造已获批成为工信部人工智能标准化技术委员会成员单位，并牵头建立市重点实验室。</p>\n  <p>在效率与精度上，相较于传统的人工实验模式，NexoLab可以将实验效率提升数十倍；同时，机器人操作摒弃了人工误差，在实验可靠性、安全性上具有显著优势。AI-LabOS可以通过智能化分析及调度，最大程度提高设备利用率，并实现全维度的数据追溯，改善传统实验室人工管理的无序和低效。MoleMind则充分借助AI的知识沉淀能力，真正让不同维度的数据、知识实现融合、积累、迸发，并最终辅助科学家拓展科学边界。</p>\n  <p>在商业化路径上，青葵智造目前的客户覆盖制药、精细化工、新材料、新能源及科研院所等领域的头部机构，包括中科院、勃林格殷格翰、恒瑞医药、国轩高科等。</p>\n  <p>陈南江透露，由于底层实验环节（如固液混合、投料反应、分析检测等）已实现了高度的模块化和标准化，公司产品的跨行业适配性较强，客户复购率表现良好。</p>\n  <p>在设备交付之外，青葵智造正在探索第二增长曲线。今年下半年，公司建成了首个自持的全自动AI化学机器人实验室，除了为自己的模型训练提供高质量数据。公司也开始尝试对外提供实验即服务（Experiment as a Service）。制药、材料、新能源或科研院所可以通过云端实验入口实现从实验任务到实验结果的双向传递，并可以实时查看包括水氧环境、加热曲线、分析图谱在内的各类实验数据。</p>\n  <p>此外，由于海外人力成本更高、对环境与安全性要求更严，陈南江认为海外市场将成为接下来重点发力的方向。目前，青葵智造已在新加坡和韩国设立办公室，并已经与当地的高校、科研院所及产业客户展开合作。</p>\n  <p><strong>以下是硬氪与青葵智造创始人陈南江的访谈节选（经编辑）：</strong></p>\n  <p><strong>硬氪：现在做AI4S的团队很多，青葵智造的核心差异化在哪里？</strong></p>\n  <p><strong>陈南江：</strong>差异化可以分为两块。第一是行业Know-how的转化。AI4S本身就是一个高度交叉融合的行业，我们团队的基因是机械自动化、软件及AI，但化学领域的实验设计、实验操作、结果分析等有非常丰富的内容和细节，我们需要对这些场景和需求进行充分的了解，并将其转化为标准化、数字化的软硬件模块，并充分借助AI进行各类化学场景的理解、学习和沉淀，与自动化、AI的基因实现融合。</p>\n  <p>第二是真正的干湿闭环。干湿实验闭环说起来简单，但要实现干实验和湿实验两个体系的融合和闭环，是目前行业各类型企业真正面临的问题。我们一直坚持在湿实验体系的基础上进行干实验设计，并坚持用真实实验场景覆盖实验设计、实验执行到实验迭代的全流程验证，并建立围绕这一体系的实验质量评价体系，让干湿实验闭环能够在真实的实验场景下迭代。截止目前，我们已经在科研、产业等领域验证并得到了一些比较好的结果。</p>\n  <p><strong>硬氪：客户是否会担心科学AI产生“幻觉”或错误？目前AI在实验中的信任度如何？</strong></p>\n  <p><strong>陈南江：</strong>这个问题非常关键。我们肯定不能用通用语言模型直接做实验，而是在通用大模型底座上，用湿实验室跑出来的真实垂直数据来训练模型，这会大大消减幻觉。目前在全世界的水平范围内，AI自动生成的实验方案，仍然需要化学家来做最终核准。也就是说，现阶段还是人机结合，没有完全无人。但我们相信，随着高质量实验数据规模的不断扩大，数据标准化程度的逐步提升，AI在某些领域的预测、判断准确率会越来越高，并最终超越人类科学家。</p>\n  <p><strong>硬氪：公司接下来的重点规划是什么？</strong></p>\n  <p><strong>陈南江：</strong>第一是大力发展自持的机器人实验室，大量做真实实验来积累和沉淀高质量结构化数据。在AI4S的细分竞争中，本质就是真实实验数据的竞争。第二是在大量数据基础上，把MoleMind训练得更聪明。第三是海外拓展，中国在软硬件结合的方向上迭代很快。从技术目标上看，我们希望在一两年内让云实验室形成规模优势，把数据池做大。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>创东方投资表示：</strong>“我们看好AI4S从技术验证走向产业应用的发展机遇。青葵智造围绕科学智能决策、实验自动化与数据闭环构建了系统性技术能力，并在真实产业场景中持续验证商业价值。期待公司通过本轮投资，持续拓展在不同领域的商业化应用。”</p>\n  <p><strong>飞荣达表示：</strong>“随着AI算力基础设施快速发展，液冷散热及热管理技术对材料性能、研发效率和工艺优化提出了更高要求。青葵智造在智能实验、材料配方筛选及自动化测试方面的技术积累，与飞荣达在电磁屏蔽材料、功能性材料、热管理材料及液冷等技术方面的业务布局均有协同潜力。期待以本次投资为契机，探索AI与自动化实验技术在材料研发及工艺优化中的应用，加快技术创新与产业化进程。”</p>",
+      "category": "tech",
+      "published_at": "2026-11-13T02:04:43+00:00",
+      "fetched_at": "2026-11-13T04:48:29.245123+00:00",
+      "fingerprint": "0df1874223cc60d6"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "超跑面料供应商Alcantara：智驾时代，内饰比拼触感｜最前线",
+      "url": "https://36kr.com/p/4067598702384258?f=rss",
+      "summary": "<p>10月28日，Alcantara在北京意大利文化处办了一场关于色彩、材质与表面工艺的沙龙。表面是材料展示，背后是一条清晰信号：汽车内饰的竞争，正从屏幕、芯片、算力，回撤到内饰设计的品质和触感。</p>\n  <p>过去几十年，Alcantara的标签是超跑。法拉利、兰博基尼、保时捷座舱里的翻毛触感，代表运动与稀缺。但中国市场正在改写这套语法。2026北京车展上，小米SU7 Ultra单车内饰覆盖约5平方米Alcantara，落在座椅、方向盘、仪表台中缝和门板；极氪、红旗等品牌也把它作为内饰主视觉。同一张材料，正从性能符号变成用户可感知的豪华基线。</p>\n  <p>逻辑并不复杂。电动车同质化加剧，三电参数难拉开差距，座舱成了品牌叙事的剩余阵地。面料承担三个功能：一是触感反馈，高摩擦系数让方向盘和座椅在激烈驾驶中不打滑；二是轻量与合规，相比真皮更轻、VOC更低、材料利用率更高；三是情绪价值，颜色、纹理、绒感直接定义这是运动车还是移动客厅。</p>\n  <p>活动圆桌里，Pininfarina中国区总经理李汉卿与消费电子、材料设计代表同台，讨论的其实是同一件事：CMF不再附属造型，而前置到产品定义阶段。智能驾驶渗透后，方向盘使用频次下降，但人对座舱的停留时间变长，面料要同时承接少干预的舒适和可辨识的豪华。</p>\n  <p>对车企来说，面料正在从成本项变成体验资产；对材料商来说，中国市场不再是销售终点，而是CMF创新的试验场。当汽车变成第三空间，触感会比参数更早被人记住。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_00e7f62b7bcc449ea1be141c2ac50401@5809365_oswg3822593oswg3240oswg2160_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">法拉利品牌车型使用Alcantara面料</p>",
+      "category": "tech",
+      "published_at": "2026-11-13T02:58:31+00:00",
+      "fetched_at": "2026-11-13T04:48:29.245114+00:00",
+      "fingerprint": "61add7fdc9f7a49a"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "炸了！英伟达最大的雷，是没接班人",
+      "url": "https://36kr.com/p/4067628486267780?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_174aa30f8e6a47b4b585eae8d70f9174@6314151_oswg1176241oswg900oswg1030_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>CFO 接任临时 CEO。</p>\n  <p>&nbsp;</p>\n  <p>文<strong>&nbsp;|</strong>&nbsp;刘思洁</p>\n  <p>封面来源&nbsp;<strong>|&nbsp;</strong>网络</p>\n  <p><br />&nbsp;</p>\n  <p>当地时间2026年11月12日，英伟达官方宣布，联合创始人黄仁勋辞去公司总裁、首席执行官及董事会成员职务，即刻生效。</p>\n  <p>英伟达同时宣布，现任执行副总裁兼首席财务官科Colette Kress，出任临时CEO，并继续担任CFO，直至正式继任者确定。董事会将启动新任CEO遴选程序，同时考虑内部和外部候选人。此外，英伟达董事会还任命Harvey C. Jones担任公司首任董事会主席。</p>\n  <p>公告没有说明辞任原因。但过去一周，围绕黄仁勋私人关系的报道持续发酵，11月8日，英伟达董事会已宣布启动独立调查。</p>\n  <p>执掌33年的创始人，就这样离开了全球市值最高的科技公司之一。</p>\n  <p>英伟达股价也受到冲击。<strong>12日美股开盘，英伟达报150.99美元，较前一日下跌13%，盘中一度触及148.8美元。而在10月6日，英伟达股价创下243.37美元的历史高点，至此已累计下跌近40%。</strong></p>\n  <p>为什么几段出轨绯闻，会让一家公司的创始人和CEO离职？而谁又会是下一任英伟达CEO？</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_421552d170644959871046e946c6c402@6314151_oswg1788oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>&nbsp; CEO和下属发生关系，为什么不是私事？</strong><br />&nbsp;</h2>\n  <p>黄仁勋此前已公开承认一段婚外情。随后，《纽约时报》援引五名英伟达前员工的说法，称他还与公司医疗健康业务副总裁金伯莉·鲍威尔（Kimberly Powell）存在婚外情，而鲍威尔直接向他汇报。</p>\n  <p>老板的婚外情，难道不是私生活吗？</p>\n  <p>如果对象是外人，这确实是私事。但当对象是公司员工，尤其是向CEO直接汇报的高管时，事情就变了。<strong>这已经是权力关系，不只是私人关系。</strong></p>\n  <p>美国大型上市公司普遍限制高管与下属之间未披露的亲密关系，逻辑很简单，公司必须确保权力和资源的分配基于能力与业绩，而非私人关系。这类关系一旦未披露，就可能被视为利益冲突和治理缺陷。</p>\n  <p>资本市场层面的压力更直接。欧美大型机构投资者，如养老基金、主权财富基金和大型公募，普遍受ESG（环境、社会和公司治理）投资准则约束。职场性骚扰、权力滥用和重大治理缺陷，都可能拉低公司的ESG评级。如果董事会处理不力，部分被动基金和有合规要求的机构可能被迫减持。</p>\n  <p><strong>所以在美国大型企业里，CEO与下属发生未披露的亲密关系，可能触发人力资源调查、董事会调查，甚至直接导致CEO下台。</strong></p>\n  <p>麦当劳前CEO史蒂夫·伊斯特布鲁克（Steve Easterbrook）就是典型案例。2019年，麦当劳董事会以违反公司政策、判断失误为由解除其职务，起因正是他与一名员工发生了双方自愿的亲密关系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_cc668aae64bf4e9e8d11a30c6afda900@6314151_oswg2308oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>谁会接任黄仁勋？</strong></h2>\n  <p><strong>当下的英伟达最需要什么来度过创始人的卸任和由此带来的一系列风暴？答案或许是稳定。</strong></p>\n  <p>这次人事变动里另一个值得注意的新职位，是董事会主席。这是英伟达成立33年来首次设立这一职位，出任者是Harvey C. Jones。</p>\n  <p>Jones曾任芯片设计软件公司新思科技CEO，自1993年英伟达创立当年起就担任公司董事，也曾在审计委员会、提名与公司治理委员会任职。在CEO突然离任、独立调查仍在进行的时刻，由一位资历最深、熟悉公司治理的老董事出任主席，目的显然是稳住董事会和市场。</p>\n  <p>而Colette Kress似乎正是最适合做临时CEO的人。</p>\n  <p>Colette Kress自2013年起担任英伟达CFO，此前在微软、思科和德州仪器工作过，拥有接近25年的科技行业财务经验。她熟悉英伟达的财务状况、资本市场和公司内部运营，也长期与黄仁勋一起出现在财报会和投资者活动中。</p>\n  <p>目前，英伟达最需要先处理的是一系列非常现实的问题：稳定员工，稳定投资人，维持客户和供应商关系，确保英伟达的财报、产品发布和业务决策不会因为CEO离职而中断。这让Colette Kress成为最自然的过渡人选。</p>\n  <p>但她的短板也很明显，其核心履历是财务管理，而非芯片架构或者CUDA生态，很显然，她无法像黄仁勋一样去定义下一代技术路线，她更像是一个稳定的过渡型CEO。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_dd494aa3d497419291a440b03ad91c51@6314151_oswg112155oswg1080oswg543_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Polymarket上关于谁将接任黄仁勋的预测</p>\n  <p>目前，在预测平台Polymarket上排名靠前的另一个CEO人选，是Ian Buck。</p>\n  <p>Buck目前是英伟达负责超大规模计算和高性能计算业务的副总裁，主管面向大型云服务商和AI客户的硬件、软件及产品合作。他也是CUDA的重要创造者之一。</p>\n  <p>2004年，Buck加入英伟达。在此之前，他在斯坦福大学攻读计算机科学博士，研究的就是如何让GPU承担图形渲染之外的通用计算任务。</p>\n  <p>英伟达能够从一家游戏显卡公司，变成人工智能产业的基础设施公司，CUDA是其中最关键的技术和商业基础之一。Buck参与了这套软件生态的早期建设，也长期负责英伟达的加速计算业务。</p>\n  <p>从技术基因来说，他比Kress更接近英伟达的“技术继承人”。</p>\n  <p>但问题仍然存在，技术负责人和CEO是两种不同的工种。目前公开资料能够证明Ian Buck是英伟达的核心技术和产品负责人，但不能证明他已经具备黄仁勋一样的领导能力。</p>\n  <p>董事会也可能向外部寻找人选。外界讨论的名字还包括Jeff Fisher、Michael Kagan，甚至AMD CEO苏姿丰，但这些目前都只是外界推测。</p>\n  <p><strong>过去33年是黄仁勋的时代，而英伟达最大的风险，或许正是过度依赖黄仁勋一个人。但一家市值数万亿美元的公司，本就不该把命运系于一人。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_9916ce9e58d7478684e53292551f32ba@6314151_oswg56928oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_5d986799536346fc936708b7e79eb3f5@6314151_oswg2783oswg900oswg74_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>你觉得黄仁勋到底因为啥离职？</strong></p>\n  <p><strong>欢迎在评论区分享你的看法~</strong></p>",
+      "category": "tech",
+      "published_at": "2026-11-13T03:29:10+00:00",
+      "fetched_at": "2026-11-13T04:48:29.245099+00:00",
+      "fingerprint": "5f53db148e560ca4"
+    },
+    {
+      "source": "少数派",
+      "title": "Mac 选购指南 2026 冬季版",
+      "url": "https://sspai.com/post/85735",
+      "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。<a href=\"https://sspai.com/post/85735\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-12T06:42:04+00:00",
+      "fetched_at": "2026-11-13T04:48:27.976040+00:00",
+      "fingerprint": "3dfb1d631e5f5b05"
+    },
+    {
+      "source": "少数派",
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+      "url": "https://sspai.com/post/118366",
+      "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=\"https://sspai.com/post/118366\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-12T08:37:25+00:00",
+      "fetched_at": "2026-11-13T04:48:27.976034+00:00",
+      "fingerprint": "2b943c022e0200ac"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "url": "https://sspai.com/post/118966",
+      "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。<a href=\"https://sspai.com/post/118966\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-13T00:48:17+00:00",
+      "fetched_at": "2026-11-13T04:48:27.976026+00:00",
+      "fingerprint": "034582aa55af8e49"
+    },
+    {
+      "source": "少数派",
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "url": "https://sspai.com/post/118512",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...<a href=\"https://sspai.com/post/118512\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-13T03:35:48+00:00",
+      "fetched_at": "2026-11-13T04:48:27.976014+00:00",
+      "fingerprint": "5b176a80962826c8"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.5483 CNY ↓-0.60%",
+      "url": "https://www.frankfurter.app/2026-11-12?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-11-12</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.5483 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0273 (-0.60%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-11-13T04:48:26.771957+00:00",
+      "fingerprint": "b52638d16ad17383"
+    },
     {
       "source": "BBC World News",
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
