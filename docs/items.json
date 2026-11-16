@@ -1,7 +1,267 @@
 {
-  "updated_at": "2026-11-15T04:32:31.022635+00:00",
-  "count": 179,
+  "updated_at": "2026-11-16T04:29:17.656099+00:00",
+  "count": 178,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "category": "politics",
+      "published_at": "2026-11-16T03:09:49+00:00",
+      "fetched_at": "2026-11-16T04:29:17.536395+00:00",
+      "fingerprint": "8d84ec1e724b0968"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "category": "politics",
+      "published_at": "2026-11-16T01:47:57+00:00",
+      "fetched_at": "2026-11-16T04:29:17.536390+00:00",
+      "fingerprint": "56dedeeec32c3b29"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "category": "politics",
+      "published_at": "2026-11-16T03:08:31+00:00",
+      "fetched_at": "2026-11-16T04:29:17.536383+00:00",
+      "fingerprint": "871c4bfc0c426ed1"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "category": "politics",
+      "published_at": "2026-11-15T19:32:39+00:00",
+      "fetched_at": "2026-11-16T04:29:17.536372+00:00",
+      "fingerprint": "7c7b29f5e4c81914"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
+      "url": "https://www.bbc.com/zhongwen/articles/cq39gn7g7depo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "黃仁勳的醜聞使外界開始關注新加坡作為半導體貿易中心的成功——以及其是否成為非法貿易行為場所的疑問。",
+      "category": "politics",
+      "published_at": "2026-11-15T06:46:06+00:00",
+      "fetched_at": "2026-11-16T04:29:17.414140+00:00",
+      "fingerprint": "5235d8de87344ccf"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
+      "url": "https://www.bbc.com/zhongwen/articles/cwj3kmyk8ne1o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "超過2,800萬人在Instagram和X上觀看了他的競選宣傳片，該片以書籍和法國國旗為背景，展現出應有的總統威儀。在隨後24小時內進行的法國輿論研究所（Ifop）民調中，約22%的受訪者表示「可能」會投票給他。",
+      "category": "politics",
+      "published_at": "2026-11-16T00:26:12+00:00",
+      "fetched_at": "2026-11-16T04:29:17.414134+00:00",
+      "fingerprint": "1c9d979e758c25c7"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "中國、俄羅斯和美國領導人正籌備首次三方會晤，引發歐洲憂慮。一些人認為，這令人聯想到第二次世界大戰後，大國將世界劃分為不同勢力範圍的歷史。",
+      "category": "politics",
+      "published_at": "2026-11-16T00:25:06+00:00",
+      "fetched_at": "2026-11-16T04:29:17.414127+00:00",
+      "fingerprint": "4b4b2070a1af40c0"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
+      "url": "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "英偉達醜聞引發了人們的質疑：儘管美國有所限制，但先進的人工智慧晶片最終是否流入了中國。",
+      "category": "politics",
+      "published_at": "2026-11-16T03:49:26+00:00",
+      "fetched_at": "2026-11-16T04:29:17.414121+00:00",
+      "fingerprint": "4dc0c6d7f45e2bdb"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "APEC深圳峰會前瞻：中方確認美中俄會晤，日方盼習近平按慣例與高市握手",
+      "url": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "深圳APEC2026到來，特朗普（川普）稱將與中俄領袖在深圳會面，中俄確認正協調三方會晤。BBC中文專訪APEC執行秘書長討論敏感議，稱對領導人出席保持樂觀。",
+      "category": "politics",
+      "published_at": "2026-11-16T01:43:29+00:00",
+      "fetched_at": "2026-11-16T04:29:17.414111+00:00",
+      "fingerprint": "af912a69de359a12"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-16T04:29:16.972476+00:00",
+      "fingerprint": "dcc6efaac047652c"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-16T04:29:16.972356+00:00",
+      "fingerprint": "87d2912ca1d33f52"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-16T04:29:16.972221+00:00",
+      "fingerprint": "4a41bfb9fc315bc4"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-16T04:29:16.972090+00:00",
+      "fingerprint": "756563a4144915c6"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-16T04:29:16.971926+00:00",
+      "fingerprint": "9b09620054bd9f2b"
+    },
+    {
+      "source": "The Verge",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-15T20:43:49+00:00",
+      "fetched_at": "2026-11-16T04:29:16.677652+00:00",
+      "fingerprint": "7310523931ec31d7"
+    },
+    {
+      "source": "The Verge",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-15T21:05:02+00:00",
+      "fetched_at": "2026-11-16T04:29:16.677646+00:00",
+      "fingerprint": "9e09af32ba885800"
+    },
+    {
+      "source": "The Verge",
+      "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+      "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+      "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes &#38; Ladders ranks among their best. It doesn't have the seamless throughline production-wise that their collabs with Alchemist [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-15T21:49:22+00:00",
+      "fetched_at": "2026-11-16T04:29:16.677639+00:00",
+      "fingerprint": "dc785de9ef44a414"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-16T01:26:56+00:00",
+      "fetched_at": "2026-11-16T04:29:16.677629+00:00",
+      "fingerprint": "c57d5fdb338c13eb"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "黄仁勋吃了上市太早的亏",
+      "url": "https://36kr.com/p/4067755181003654?f=rss",
+      "summary": "<p>作者&nbsp;|&nbsp;黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>11月12日，英伟达突然宣布，公司联合创始人黄仁勋辞去总裁、首席执行官及董事职务，即时生效。现任首席财务官Colette Kress将出任临时CEO，董事会同时任命Harvey Jones为公司历史上首位董事长，并启动新任CEO的遴选程序。</p>\n  <p>自1993年创立英伟达以来，黄仁勋长达33年的掌舵生涯正式落下帷幕。从GPU到人工智能，黄仁勋带领英伟达完成了数次重大战略转型，将一家初创芯片企业发展为全球最具影响力的科技巨头之一。</p>\n  <p>然而，就在不到五个月前，黄仁勋还在英伟达年度股东大会的董事选举中获得了约99%的赞成票。如此鲜明的前后反差，也让市场重新审视一个长期被英伟达耀眼业绩所掩盖的公司治理问题：</p>\n  <p>作为公司的创始人和长期领导者，黄仁勋为何没有像谷歌的佩奇与布林、Meta的扎克伯格那样，通过AB股制度巩固自身的控制权？</p>\n  <h2><strong>01 1999年还不是AB股时代</strong></h2>\n  <p>关于这一问题的答案，或许要从英伟达1999年上市时的股权安排说起。彼时，硅谷科技公司上市以“同股同权”为常见安排，对于创始人而言，可以凭借持股、高管职位、个人声望等方面影响公司决策，<strong>但没有天然高于普通股东的投票权</strong>。英伟达也沿用了这一传统，只发行了普通股。</p>\n  <p>再说双层股权结构，其实也不是互联网时代的发明。早在上世纪，已有不少知名美股上市公司就利用双层股权结构，以不同投票权的股票来维持控制权，典型如福特汽车、纽约时报等。然而，<strong>将这套制度明确用于保护科技企业的长期战略，并逐渐成为大型科技互联网企业IPO经常采用股权结构，是此后互联网时代才形成的趋势。</strong></p>\n  <p>2004年，谷歌上市时就采用了AB股结构。在投票权层面，佩奇和布林将公众持有的A股设为每股一票，创始人等持有的B股设为每股十票。在谷歌的招股书中明确表示，传统上市公司结构可能削弱企业的独立性，因此希望通过AB股维持管理层对公司的长期控制权，保障长期战略的实施。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_296b5936e27d4955aea60ebdc54493f8@5426566_oswg263141oswg1080oswg584_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：科技股同股不同权历史演变；资料来源：36氪制图</p>\n  <p>相比之下，英伟达的上市时间只早了五年，沿用一股一票的股权安排，很大程度上反映的是当时科技企业的股权治理惯例。而且，纳斯达克的5640规则限制上市公司事后通过发行超级投票权股票等方式，不公平地削弱现有普通股东的投票权。<strong>因此，作为已经上市的英伟达，想要引入超级投票权以保护创始人，制度层面的难度已经远远高于IPO之前。</strong></p>\n  <h2><strong>02 黄仁勋持股在持续稀释</strong></h2>\n  <p>英伟达股权的分散程度颇高，从上市之初就已显现。其1999年招股书披露，黄仁勋在IPO前持有约13.1%的股份，IPO后降至10.8%；2026年的持股比例进一步降至3.58%。融资、增发、股权激励与个人持股变动，使得黄仁勋的持股比例在持续下降，他的投票权也相应的在持续减弱，为此次“下课事件”埋下了伏笔。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_9fe8fd58146c449ea3c33aa54a4639c4@5426566_oswg989776oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：黄仁勋股权稀释时间线；资料来源：36氪制图</p>\n  <p>早年间，硅谷科技公司创始人因股权稀释失去控制权的情况已有先例。1985年，乔布斯与苹果CEO斯卡利围绕公司经营发生激烈冲突。虽然，乔布斯彼时仍是苹果最大的个人股东，但持股比例已降至约11%，已经不足以左右董事会的决定。而董事会则选择支持斯卡利，并通过业务架构调整，乔布斯被解除了经营管理职权，他于同年9月离开了自己创办的苹果。</p>\n  <p>再看微软，1986年上市后，盖茨仍持有约45%的股份，尽管他个人的持股比例逐步下降，截至2000年卸任CEO前仍保有约14%的股份。得益于上市初期盖茨较高的持股比例，且此后的股权稀释的过程相对渐进，以及长期积累的领导权威，盖茨在CEO任期内始终保持着较强的公司控制力。</p>\n  <p>相比之下，黄仁勋在英伟达上市时仅持有约11%的股份，与盖茨相比，“皮衣战神”持股比例对应的投票权明显偏弱。而且，<strong>随着此后持股比例的进一步下降，黄仁勋本就偏弱的投票权又在持续减弱，可以说是早早失去了依靠控股来主导公司决策的基础。</strong></p>\n  <h2><strong>03 黄仁勋领导公司33年靠的是业绩权威</strong></h2>\n  <p>所以，黄仁勋对英伟达的影响力很难用股权比例对应的投票权来解释。企业运行中的管理权从来不只来自投票箱，还来自业绩权威、战略判断以及董事会对高管的长期信任。</p>\n  <p>从图形芯片走向可编程GPU，再到CUDA生态的持续投入，<strong>英伟达多次在市场形成共识之前押注长期技术路线</strong>。尤其是CUDA，在早期难以立即贡献可观回报，却逐渐构筑起软硬件协同的竞争壁垒；此后，生成式AI推动算力需求爆发，英伟达从芯片供应商进一步成为全球AI基础设施的核心参与者。</p>\n  <p>这些关键的战略决策及其带来的巨大商业成功，逐步奠定了黄仁勋在英伟达的核心领导地位。在公司的日常运营中，黄仁勋长期主导产品研发方向、研发资源分配、供应链协同以及客户关系管理，公司扁平化的管理方式强化了他对基层业务和经验决策的影响力。对董事会和机构投资者而言，支持他既是认可过去的成绩，也包含对其未来判断能力的信任。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_3b547c74e99d4bb99adc71c9e19e3c9f@5426566_oswg85385oswg1000oswg522_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：英伟达长期营业收入表现；资料来源：wind，36氪</p>\n  <p>因此，黄仁勋即便不具有法律意义上的绝对控制权，却长期拥有事实上的战略主导权，凭借持续兑现的业绩，在缺少股权保护的情况下维持了33年的领导地位。2026年6月的董事选举中，他获得约99%的赞成票，便是这种信任的直观体现。</p>\n  <p><strong>但上述“黄仁勋模式”存在一个内在条件：业绩权威必须不断得到认可</strong>。它可以随着公司成功而增强，一旦经营业绩或个人声誉受到冲击，长期积累的领导权威便可能迅速削弱，特别是缺乏绝对控制权的黄仁勋，以可能因此失去董事会的支持，甚至失去对公司的经营主导权，此次“下课事件”则是上述观点的明证。</p>\n  <h2><strong>04 AB股究竟保护了谁？</strong></h2>\n  <p>基于英伟达以董事会为中心的治理模式，根据公司细则，董事会只需获得过半数董事支持，有权随时任免CEO等高级管理人员，无论是否存在正当理由。黄仁勋即使是创始人，也不能单凭不到4%的持股否决董事会的人事决定。</p>\n  <p>对于持股比例较低且缺乏绝对控制权的黄仁勋而言，即使长期担任CEO，也必须依靠业绩增长和股东信任维持其领导地位。由于无法凭借自身投票权控制董事会，董事会便能够对其形成实质性的权力制衡，并在必要时推动管理层的人员调整。由此可见，黄仁勋此次辞任并不意外，正是英伟达长期以来股权结构与公司治理机制共同作用的结果。</p>\n  <p>耶鲁大学教授Jeffrey Sonnenfeld在近期的采访中指出，黄仁勋在缺乏双层股权保护的情况下，依然成功领导英伟达逾30年，成为反对AB股制度的有力例证；然而，颇具讽刺意味的是，如果英伟达当年赋予他超级投票权，如今撤换他的难度将大幅增加。</p>\n  <p>谷歌和Meta是典型的AB股结构，超级投票权赋予创始人更强的公司控制力，使其能够减少市场短期波动与股东压力的干扰，并推动长期战略布局。但当创始人的判断或行为出现问题，普通股东可能则难以通过投票改变公司治理格局。<strong>所以，AB股放大了创始人的战略自主权，也相应降低了外部纠错的便利性。</strong></p>\n  <p>而英伟达没有采用AB股结构，既有1999年上市时的历史因素，也形成了不同于谷歌、Meta等科技巨头的治理逻辑，即选择用业绩说话，而非用制度锁死控制权，由此保留董事会的监督与纠错能力。黄仁勋的此次辞任则再次证明，<strong>无论业绩权威曾经有多大，缺乏制度性控制权的创始人，始终都要受到公司治理规则的约束。</strong></p>\n  <p>*免责声明：</p>\n  <p>本文内容仅代表作者��法。</p>\n  <p>市场有风险，投资需谨慎。在任何情况下，本文中的信息或所表述的意见均不构成对任何人的投资建议。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。我们无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。</p>",
+      "category": "tech",
+      "published_at": "2026-11-15T12:41:58+00:00",
+      "fetched_at": "2026-11-16T04:29:16.538409+00:00",
+      "fingerprint": "3f3bf5544c17f1bc"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨黄仁勋考虑回归担任英伟达CEO；129万/支的“天价抗癌药”进医保了；美国罕见全国停飞超4小时",
+      "url": "https://36kr.com/p/4071682515817605?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>OpenAI解散机器人团队</p>\n  <p>SpaceX首次实现“筷子夹飞船”</p>\n  <p>2026年版国家基本医保药品目录发布，新增107种药品</p>\n  <p>微软就全球服务中断道歉</p>\n  <p>加密货币全线大跳水，超31万人爆仓</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>黄仁勋讨论重掌英伟达，硅谷盟友游说支持回归</strong></p>\n  <p>据报道，在被董事会驱逐数天之后，英伟达公司前首席执行官黄仁勋正在讨论重返公司的可能性。随着几位硅谷盟友开始游说支持他回归，黄仁勋已经在讨论重返公司的想法。一名黄仁勋的盟友透露，他们正在组建一个由硅谷企业高管组成的“作战室”，游说推动黄仁勋复职，并计划争取白宫方面的支持。这名人士表示：“在科技行业，除了那些前沿研究实验室之外，所有有影响力的人都喜欢黄仁勋。”他还补充说，黄仁勋本人支持这项行动。</p>\n  <p>Altimeter Capital Management和Atreides Management上周晚些时候在社交媒体发文称，鉴于“黄仁勋长期领导下取得的非凡成功”，以及他的离职所带来的不确定性，英伟达董事会在决定未来领导层时应采取“缓慢、审慎且深思熟虑的”方式。（新浪财经、鞭牛士）</p>\n  <p><strong>原价129万一针的CAR-T抗癌药首次纳入基本医保</strong></p>\n  <p>11月14日，国家医保局宣布，药明巨诺（02126.HK）的CAR-T药物瑞基奥仑赛已被纳入医保目录。进入医保前，瑞基奥仑赛的定价为129万元/支。哈尔滨血液病肿瘤研究所马军所长告诉记者，纳入医保后，瑞基奥仑赛的定价已降到30万元/支以下。据悉，CAR-T是一种免疫细胞疗法，凭借在血液肿瘤领域取得的惊艳“战绩”，成为近年抗癌治疗的“新秀”。CAR-T药物以“天价”闻名，每针的价格在100万元左右，即便叠加各种优惠，每针价格也在50万元左右。过去几年，CAR-T药物曾多次尝试进入基本医保目录，均因定价过高，止步于形式审查阶段。（经济观察报）</p>\n  <p><strong>因技术故障，美国停飞全国航班&nbsp;</strong><br />&nbsp;</p>\n  <p>美国当地时间11月13日，美国联邦航空管理局（FAA）因航空交通管制系统出现通信故障，发布全国性航班地面停飞令，要求全美各机场暂停出港航班起飞。这项指令于当地时间下午3时54分左右发布，持续超过4小时。</p>\n  <p>对于事故原因，官方初步表示，FAA航空交通管制中心发生通信故障，老旧系统中的路由器和交换设备因数据负载问题出现异常，影响了通信及雷达信息的稳定传输。为确保飞行安全，当局因此决定暂停全国航班起飞。当地时间15日，美国交通部长达菲表示，美国航空运输预计当天逐步恢复正常，受飞机和机组人员不在预定执勤位置影响，可能到16日才能全面恢复。（新华社）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>OpenAI推出ChatGPT钱包</strong></p>\n  <p>北京时间周五晚间，OpenAI宣布推出ChatGPT钱包。该产品的主要卖点是AI巨头与美国运通、万事达和Visa三大支付网络合作，通过替代支付凭证，让AI代理无需接触用户的真实信用卡信息即可完成付款，同时保留原有信用卡奖励和交易争议保障。OpenAI表示，这项功能上线初期先面向美国成年Pro订阅用户开放，且必须持有符合条件的美国信用卡，ChatGPT钱包上线初期不会从交易中抽成。（财联社）</p>\n  <p><strong>Google为Gemini推出个人财务分析功能，接入银行账户和信用卡，帮用户分析收支</strong></p>\n  <p>当地时间11月13日，Google宣布为Gemini推出全新的个人财务分析功能，通过整合Google Wallet（Google钱包）以及第三方金融数据服务Plaid，允许用户将银行账户、信用卡等金融账户连接到Gemini，让AI直接读取个人交易记录，分析消费习惯、追踪资金流向，并根据实际财务状况制定预算和储蓄计划。用户启用该功能后，可以在Gemini对话中使用@Google Wallet调用个人财务数据。Google特别强调，这项功能采用只读访问机制。即使用户授权Gemini读取银行账户和信用卡信息，AI也不能直接转移资金、管理账户或者进行投资操作。（IT之家）</p>\n  <p><strong>OpenAI解散机器人团队</strong></p>\n  <p>据媒体报道称，OpenAI已解散其独��机器人团队，将团队研究人员重新分配至其他部门。一位OpenAI发言人表示，此举并不意味着公司退出机器人领域，机器人技术仍然是OpenAI长期愿景的核心组成部分。OpenAI原机器人研究团队已被并入公司的核心研究团队，向首席研究官Mark Chen汇报；而应用机器人团队和硬件团队则被重新划归公司规模更大的应用部门，该部门由OpenAI总裁Greg Brockman领导。这是OpenAI第二次解散机器人团队。（财联社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>英伟达回应黄仁勋继任者传闻&nbsp;</strong></p>\n  <p>据报道，英伟达董事会在寻找黄仁勋潜在继任者的过程中，已接触Arm首席执行官雷内·哈斯（Rene Haas）。2013年加入Arm前，哈斯曾任英伟达计算产品业务高管。 报道称，哈斯只是英伟达董事会目前考虑的几位候选人之一，尚不确定他是否会收到正式邀请，也不确定他是否会接受该职位。 针对上述传闻，英伟达董事会在一份声明中表示，公司正遴选负责CEO人选物色工作的猎头机构，尚未与任何潜在候选人正式接触，“针对任何具体候选人——无论是来自公司内部还是外部——的猜测，目前都为时过早”。（界面新闻）</p>\n  <p><strong>51个一类新药进入新版国家医保药品目录</strong></p>\n  <p>从国家医保局获悉，2026年国家医保药品目录和商业健康保险创新药品目录在苏州发布。新版国家医保药品目录新增107种药品，其中51个一类新药，再创历史新高。新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等多个临床急需治疗领域。商业健康保险创新药品目录调整同步开展，新增12种药品，其中包括全球首个实体瘤CAR-T、中国首个血友病基因治疗药物等重大创新药品。调整后，2026年商业健康保险创新药品目录共有28种。此次调整后，2026年版国家医保药品目录药品总数达到3331个，其中西药1935个、中成药1396个。新版目录于2027年1月1日正式落地执行。（新华社）</p>\n  <p><strong>2026年版国家基本医保药品目录发布，新增107种药品</strong></p>\n  <p>国家医疗保障局、人力资源社会保障部今天（14日）发布《国家基本医疗保险、生育保险和工伤保险药品目录》以及《商业健康保险创新药品目录》（2026年），这是国家医保局成立以来开展的第9次国家基本医保药品目录调整，本次调整共新增107种药品，其中51个为1类创新药，再创历史新高。本次国家基本医保药品目录调整，新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等多个临床急需治疗领域。同时，将34种临床价值有限、有更好替代方案或说明书信息项缺失且无法供应的药品调出目录。综合调入、调出及剂型合并，2026年版国家基本医保药品目录药品总数达到3331个。（央视新闻）</p>\n  <p><strong>微软就全球服务中断道歉&nbsp;</strong><br />&nbsp;</p>\n  <p>当地时间11月13日，微软公司就导致数百万用户受影响的全球性服务中断事件深表歉意。微软表示，此次故障“与网络攻击或人工智能/智能体（AI agents）无关”，而是由早先一次“网络容量升级”引发，目前尚无法预计何时能完全恢复服务。微软此前称，恢复工作进展“令人鼓舞”，目前正致力于消除此次故障留下的“后续影响”。该故障曾导致Teams、Outlook以及人工智能软件Copilot在至少70个国家无法使用。（第一财经）</p>\n  <p><strong>2026年度电影总票房破320亿</strong></p>\n  <p>截至11月15日，2026年度电影总票房（含预售）突破320亿元。暂列年度票房榜前五位的均为国产片：《飞驰人生3》《欢迎来龙餐馆》《功夫女足》《八仙！》《给阿嬷的情书》。据测算，今年以来电影全产业链产值近5000亿元。（央视新闻）</p>\n  <p><strong>游族网络：控股子公司收到14.28亿元闪存颗粒采购订单</strong></p>\n  <p>11月15日，游族网络公告称，控股子公司智存合盈于2026年11月2日与B公司签订了《采购合同》，约定B公司以订单的形式，向智存合盈采购闪存颗粒产品，合同自双方盖章之日起生效，有效期2年。《采购合同》未约定合同金额，具体价格以采购订单为准。2026年11月12日，B公司向智存合盈出具采购订单采购闪存颗粒产品，订单金额为14.28亿元人民币（含税）。（财联社）</p>\n  <p><strong>比特币跌破63000美元，日内跌超7%，加密货币全线大跳水，超31万人爆仓</strong></p>\n  <p>11月15日，加密货币市场全线大跳水。21财经雷达数据显示，截止10:30左右，比特币跌破63000美元，日内跌超7%；XRP、BNB跌超9%；以太坊日内大跌10%。根据CoinGlass数据统计，最近24小时，加密货币全网超31万人爆仓，爆仓总金额超过19亿美元。其中，超九成为多单爆仓。（21世纪经济报道）</p>\n  <p><strong>香港迪士尼报警，约1.7万个门票二维码被盗</strong></p>\n  <p>近日，香港迪士尼乐园约有1.7万个电子门票二维码在网上票务系统中被盗，引发关注。11月15日，香港警务处方面回应记者称，案件暂列“有犯罪或不诚实意图而使用电脑”，交由大屿山警区重案组跟进，暂未有人被拘捕。记者注意到，香港迪士尼乐园度假区官方网站正进行系统维护，购买乐园门票及预订酒店服务现已暂停。据了解，11月12日晚，迪士尼乐园一名负责内部网络系统及日常运作的人员发现公司电脑系统出现异常，约有1.7万个电子门票二维码在网上票务系统中被盗，并立即停止网上票务运作，向香港警方报案。（南方都市报）</p>\n  <p><strong>意大利因照片隐私问题对Meta罚款超8亿欧元</strong></p>\n  <p>意大利数据保护局14日发布公告说，已对元宇宙平台公司（Meta）旗下爱尔兰公司处以8.05亿欧元（约合8.87亿美元）罚款，原因是该公司在未经安卓用户同意情况下获取手机相册信息。公告说，Meta爱尔兰公司通过安卓设备上的脸书应用程序，访问了存储在意大利用户智能手机中的照片、视频及相关元数据，事先未获得用户专项同意，也未向用户作出充分告知。（新华社）</p>\n  <p><strong>SpaceX首次实现“筷子夹飞船”</strong></p>\n  <p>SpaceX星舰第十五次试飞的上面级飞船返回得克萨斯州星港，在完成着陆点火和姿态翻转后，成功被发射塔“筷子”机械臂捕获。这是SpaceX首次成功捕获从地球轨道返回的星舰上面级飞船，为实现星舰完全、快速重复使用迈出关键一步。此次飞船此前已完成26颗第三代星链卫星部署，但超重型助推器回收未能成功，因此本次任务未实现两级全部回收。（财联社）</p>\n  <p><strong>北交所开市五周年，总市值约8000亿元</strong></p>\n  <p>11月15日，北京证券交易所迎来开市五周年。截至目前，北交所有上市公司355家，总市值约8000亿元。（央视新闻）</p>\n  <p><strong>币安称计划下周全面恢复提现服务</strong></p>\n  <p>币安周六表示，计划在下周末前恢复所有剩余网络和资产的提现功能。此前，这家全球最大的加密货币交易所遭遇了一起网络入侵事件，导致平台上价值63亿美元的资产在上个月被盗；目前，该交易所的运营正逐步恢复正常。币安在社交平台X上发文称：“本周，我们已恢复了87个网络的提现功能。我们的目标是在下周末前，恢复所有剩余网络和资产的提现。”（新浪财经）</p>\n  <p><strong>深圳已成为中国内地首个外贸进出口超5万亿元的城市</strong></p>\n  <p>2026年APEC领导人会议周新闻中心举行广东省、深圳市专场中外媒体吹风会。会上，深圳市商务局局长张非梦表示，根据最新数据，深圳外贸再创新高，已成为中国内地首个外贸进出口超5万亿元的城市。（证券时报）</p>\n  <p><strong>特斯拉：开始面向个人销售Cybercab</strong></p>\n  <p>特斯拉表示，已向一小部分客户开放Cybercab预订，意味着该公司准备向普通消费者推出这款无人驾驶汽车。这款两座车型没有方向盘和脚踏板，此前已作为特斯拉自动驾驶出租车服务的一部分在奥斯汀上线。特斯拉自动驾驶出租车官方账号周五在X平台发文称，如今Cybercab将对服务覆盖区域内的“选定客户”开放购买。目前尚不清楚特斯拉对个人使用的定义，也不清楚个人版Cybercab是否只能在奥斯汀现有的地理围栏区域内行驶——奥斯汀也是目前该自动驾驶车辆作为无人出租运营的唯一地点。特斯拉此前仅面向车队运营方投放过意向登记表，并未开放个人版Cybercab预订。（新浪财经）</p>\n  <p><strong>英雄联盟全球总决赛中国战队夺冠</strong></p>\n  <p>11月15日，英雄联盟全球总决赛决赛中，中国BLG战队战胜韩国Gen战队，加冕S16总冠军，这是中国战队时隔五年再度捧起S赛冠军奖杯。（第一财经）</p>\n  <p><strong>知名婚纱品牌Vera Wang致歉</strong></p>\n  <p>11月14日，婚纱品牌Vera Wang相关方就近期被曝拖欠押金等问题发布致歉声明。声明方是Vera Wang HAUTE婚纱在中国大陆的独立授权合作方TopshelfFashion Group，其表示对此高度重视，已直接对接受影响顾客。目前，所有超出商定退款时限的押金均已退还；其余相关未到商定退款时限的押金，将与顾客协商按计划完成退款。据悉，近日有多位网友在社交平台上反馈Vera Wang拖欠数万元押金。按约定押金应在7-15个工作日内退还，部分顾客却被拖延长达近2月。据蓝鲸新闻了解，有消费者已收到押金退款。（财联社）</p>\n  <h2>酷产品</h2>\n  <p><strong>“苹果最暗产品“发布：苹果首款智能家居中枢HomeView屏幕最低仅0.3尼特&nbsp;</strong></p>\n  <p>苹果硬件工程副总裁Matthew Costello在11月13日在接受TechRadar采访时，表示，苹果首款智能家居中枢HomeView屏幕最低仅0.3尼特，高管笑称是“最暗的苹果产品”。他还表示“我非常喜欢HomeView，这是我们迄今为止设计的产品中最暗的产品，最低亮度降至0.3尼特。所以官方来说，我打造的是苹果公司有史以来最暗的产品。我不知道这是好事还是坏事，但我对此非常自豪。”对于调暗屏幕亮度，Costello表示由于HomeView需要摆在床边，在夜间点亮后如果太亮，可能会影响用户的睡眠，因此需要降低暗光环境中的存在感。（来源：IT之家）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261116/v2_1d98bf2c991e4b209b29d3a34ed10cad@5667365_oswg29820oswg650oswg366_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">配图</p>\n  <p><strong>整理丨</strong>昌怡</p>",
+      "category": "tech",
+      "published_at": "2026-11-16T00:09:56+00:00",
+      "fetched_at": "2026-11-16T04:29:16.538403+00:00",
+      "fingerprint": "9aa52b23eda832cd"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "3.5万亿医保基金，明年为这些新药“买单”",
+      "url": "https://36kr.com/p/4070947046675589?f=rss",
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>定价百万、一针治愈的“抗癌针”，全病程只吃一片的“流感神药”，爆火全网的GLP-1降糖药……又一批新药能用医保报销了。</p>\n  <p>11月14日，2026年国家基本医保目录公布，新增药品107个，其中1类新药51个，调整后目录内药品总数增至3331个。</p>\n  <p>国家医保目录动态调整走到第9个年头，“腾笼换鸟、有进有出”的基础规则早已定型。但每年，决定着3.5万亿医保基金如何使用的目录调整背后，博弈依然复杂：有些新药呼声很高，但卡在“50万不谈、30万不进”的隐性门槛外；有的临床价值突出，又因入院难或基金压力等因素影响迟迟无法落地。</p>\n  <p>尽管如此，今年的新版目录，还是给出了几个超出预期的答案。</p>\n  <p>最具代表性的产品就是“抗癌针”CAR-T。从2021年国内有首款CAR-T上市至今，历经5年追逐“陪跑”，来自药明巨诺、曾标价129万元一针的瑞基奥仑赛首次进医保，成为目前唯一可用医保报销的CAR-T产品。</p>\n  <p><strong>瑞基奥仑赛的医保定价为28.86万元。如按居民医保住院费用平均70%的报销比例来算，明年起，患者自费价将降至10万元以下。</strong>另据医保部门方面强调，该品种“在一定时间内继续享受‘三除外’政策优惠”，这意味着其入院难度有所降低。</p>\n  <p>此外，肿瘤、代谢、呼吸系统等大病种集中的疾病领域，也都有不少“明星产品”被纳入。其中抗肿瘤药方面，百利天恒的双抗ADC伦康依隆妥单抗、艾伯维的淋巴瘤双抗药艾可瑞妥单抗，均首次进医保；GLP-1降糖药迎来“大爆发”，信达生物的玛仕度肽、诺和诺德的依柯胰岛素司美格鲁肽等4款产品集体入围。</p>\n  <h2><strong>129万CAR-T降价至29万</strong></h2>\n  <p>“CAR-T自己‘集采’了自己。”看到新版医保目录后，一位细胞与基因治疗（CGT）领域从业者开玩笑称。但他认为，瑞基奥仑赛进医保，无论从患者获益，还是CGT赛道的资本认可度等角度，“都是好事”。</p>\n  <p>哈尔滨血液病肿瘤研究所马军对《经济观察报》表示，截至目前，国内接受了CAR-T治疗的患者仅有9200人左右。与之相对的是，大量符合CAR-T标准的患者因价格无缘治疗。药明巨诺董事会主席兼行政总裁田丰称，每年，仅有不足4%符合适应症的患者接受治疗。</p>\n  <p>2021年，瑞基奥仑赛成为第二款在中国上市的CAR-T产品，其129万元的初始定价国内在10款已获批产品中是最高的。上市5年来，瑞基奥仑赛累计治疗患者仅1200余例。</p>\n  <p>“<strong>我认为，CGT产品整体定价降到50万、30万以内，这种治疗选择才有现实意义。</strong>这会改变患者的决策思路，因为绝大多数中国患者听到100万就放弃了，但价格在可承受区间，他们便不会拖到毫无选择时再考虑，这就避免错失治疗窗口，或因反复化疗导致制备细胞质量变差、疗效打折；另一方面，患者使用CAR-T意愿增强，也能抬高CGT市场增长空间。”CGT创业者刘良判断。创业前，他曾是一名医生。</p>\n  <p>给CAR-T降价，因此成为过去几年CGT企业的共同努力方向。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261115/v2_7779609d2baf4cfb9ae5c55770fa18d1@5930287_oswg466835oswg1800oswg2380_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪制图</p>\n  <p>支付端，各类商保/惠民保、按疗效付费探索是基础操作。去年，国家医保局首次设立商保创新药目录，缓解高价创新药无法进入普通基本医保的问题，并提供“三除外”政策优惠，药明巨诺、复星凯瑞等5家企业的CAR-T集体入选。</p>\n  <p><strong>36氪从国家医保局方面获取的信息称，该目录今年开始执行后，瑞基奥仑赛是5款CAR-T中采购金额增幅和医疗机构用量增幅最高的。这或许也是药明巨诺率先“激进”降价进医保的原因之一。</strong></p>\n  <p>但仅凭支付端优惠，治标不治本。行诚生物商务副总裁刘肖认为，CAR-T产品想普惠，“最笨但也最扎实”的路径还是降低制造成本。他介绍，受限于“一对一”高度定制化的制备过程，早期CAR-T单次生产成本就达40-60万元。</p>\n  <p>尤其是复星凯瑞、药明巨诺的CAR-T上市时，本就带有海外技术引进的成分，加之彼时国内CGT产业链尚未成熟，原料、设备高度依赖进口，生产成本基本都在50万元以上。叠加前期研发投入和后期市场费用，在业内看来，百万元一针并没有很夸张的溢价。</p>\n  <p>但随着CGT产业不断成熟，CAR-T降价已具备现实基础。因为，CAR-T的“个性化”主要体现在患者T细胞采集、体外转染扩增和回输环节；而慢病毒载体、质粒、检测试剂等上游原料、设备可以做标准化预制，且已形成国产化供应链。</p>\n  <p>业内有观点认为，考虑到研发和市场端的费用，定价30万左右的CAR-T想盈利，生产成本需低于10万元。</p>\n  <p>据36氪了解，对近两年上市，或处在申报阶段的CAR-T企业来说，如果一开始就依托国产化供应链来做，会相对容易，目前已有企业能实现。甚至，有些处在审批阶段的企业，如华道生物，已对外宣称自家CAR-T定价23-25万。</p>\n  <p>不过，对复星凯瑞、药明巨诺、传奇生物（并未实际销售）这类企业来说，转向国产化意味着要做重大工艺变更，这同样是一笔高昂费用。“没有新药上市申报那么复杂，但也是非常正式的审批流程。”</p>\n  <p>医保目录公布后，田丰也表示，能降价进医保，主要得益于慢病毒载体等核心原材料国产化。</p>\n  <p>多位受访者一致认为，本次降价，将直接带动瑞基奥仑赛的市场竞争力，也为同靶点其他CAR-T定下新的定价参照，后续产品降价是大势所趋。不过，对通用型CAR-T、体内CAR-T等走“自体CAR-T平替路线”的企业来说，这或许会形成一定压力。“自体CAR-T疗效成熟、安全性更优，以前唯一的短板就是价格，现在短板没了，优势是压倒性的。”</p>\n  <h2><strong>流感、偏头痛、干眼症……</strong></h2>\n  <h2><strong>这些常见病新药也有医保买单了</strong></h2>\n  <p>如果说CAR-T等高价值肿瘤创新药解决的是“救命”问题，体现的是国家医保保障患者有机会使用临床价值明确、减轻灾难性医疗支出的初衷；另一条更贴近普通人“健康主线”的慢病与常见病新药供给，也在持续丰富。</p>\n  <p>36氪注意到，糖尿病、痛风等基础慢病，以及流感、偏头痛、干眼症等近年高发的常见病，今年也都迎来临床价值更优的新药。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261115/v2_1477c69f14e845e2b3f7edd9722d1f1e@5930287_oswg609574oswg1800oswg2046_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪制图</p>\n  <p>“老药”更新迭代，凭借新作用机制为患者提供疗效更优、安全性更好的治疗方案，是这些疾病的共性看点。</p>\n  <p>以糖尿病为例，今年，共有信达生物、诺和诺德、辉瑞/先为达、派格生物的4款GLP-1产品被纳入。传统二甲双胍、胰岛素等药物虽能有效降糖，但难以同时改善体重、心血管等伴随问题。GLP-1类药物改变了这一局面，也因此成为近几年医药市场的“重磅单品”。</p>\n  <p>此前，礼来的替尔泊肽与诺和诺德的司美格鲁肽已是医保降糖方案中的两大主力，今年医保新增的几款产品，又提供了双靶点、复方等选择，临床定位也从通用方案转向更细分的场景。例如，诺和诺德的依柯胰岛素司美格鲁肽，面向需要使用胰岛素但顾虑体重增加的后线强化治疗患者，提供“基础胰岛素周制剂+GLP-1”的组合方案。</p>\n  <p>痛风是另一个典型案例。过去，痛风急性发作主要依靠秋水仙碱等药物加以控制，其作用机制是在炎症反应的下游环节进行较为宽泛的抑制，且需每日服药，存在肝肾负担。今年被纳入医保的金赛药业伏欣奇拜单抗，则在炎症源头阻断IL-1β，实现“半年注射一次”的长效作用。</p>\n  <p>与此同时，一些近年来患者基数持续增长的常见病，同样迎来治疗方案更新。此类疾病虽未必严重，但发作时对患者生活质量的影响较为显著。</p>\n  <p>偏头痛就是典型案例之一。职场压力之下，偏头痛在年轻上班族群体中愈发高发。过去，患者多依靠布洛芬、曲坦类应急止痛，副作用多、难以长期坚持。神基制药的夫瑞奈珠单抗是一款靶向CGRP通路的偏头痛预防单抗，治疗方式为每月或每季度注射一次，降低了长期管理的负担。</p>\n  <p>再比例流感。在“老药”奥司他韦之后，本轮PA靶点流感新药的竞争焦点是“单次服药覆盖全程治疗”。最早上市的是罗氏的玛巴洛沙韦（“速福达”）；去年起，同机制国产新药集中获批，但因上市首年未赶上医保准入，主要拓展院外药店市场。彼时亦有从业者向36氪表示，进入医保、取得院内“入场券”，将成为2026年流感新药的核心议题。</p>\n  <p>今年，济川药业的玛硒洛沙韦率先被纳入医保，成为国产PA靶点流感新药中首个享受医保报销的产品。后续其他国产企业是否跟进、以何种节奏跟进，或将在一定程度上决定谁能成为“国产版速福达”。</p>\n  <p>同样值得关注的是，部分临床呼声较高的药物并未能进入医保目录。例如抗失眠的“雷生”系列：今年，卫材的莱博雷生、先声药业的达利雷生、扬子江的法赞雷生均申报了医保谈判，最终无一入围。</p>\n  <p>“雷生”系列失眠药物2025年才开始陆续上市，“非精神管制”的定位使其在自费市场已具备一定销量基础，并享有较高定价。例如，先声药业对达利雷生今年的销售预期已达7亿元。因此，企业短期内以大幅降价换取医保放量的意愿可能相对有限。</p>\n  <p>（刘良为化名）</p>",
+      "category": "tech",
+      "published_at": "2026-11-16T00:30:00+00:00",
+      "fetched_at": "2026-11-16T04:29:16.538396+00:00",
+      "fingerprint": "8434a4f7df3c2d2a"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "晶泰孵化的虚拟细胞公司完成Pre-A轮融资，华盖、红杉、星连等投资超亿元｜36氪首发",
+      "url": "https://36kr.com/p/4071054629737606?f=rss",
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，虚拟细胞公司「无界进化」已完成超亿元Pre-A轮融资。本轮融资由星连资本、Prosperity7、华盖资本、华控基金及德同资本等机构联合投资，老股东顺为资本、红杉中国和松禾资本追加。这也是公司在半年内完成的第二笔融资。</p>\n  <p>无界进化方面称，本轮资金将用于推动细胞响应预测、科学假说检验与高通量自动化实验反馈的深度协同，打造覆盖“靶点发现-虚拟筛选-临床方案优化”的AI生物学平台。</p>\n  <p>2026年来，虚拟细胞概念从论文走向资本市场。动脉智库统计称，全球虚拟细胞领域的融资总额已突破30亿美元。资本快速向该赛道集中的原���并不复杂。过去几年，AI制药的进展主要集中在分子层面，生成能结合靶点的化合物的算法已相对成熟，但分子进入细胞之后会发生什么，仍需要实验验证。而虚拟细胞希望补齐的正是这一环节，它希望帮助研究者在做实验之前，判断哪些方向更值得投入。</p>\n  <p>但预测要可信，前提是模型见过足够多、足够好的细胞扰动数据。这恰恰是行业公认的瓶颈。有研报测算，当前可用的高质量、带标记扰动数据，距离模型训练需求还差约1000倍，阴性结果尤其稀缺，因为失败实验很少被发表，药企内部数据也不会对外共享。但持续、标准化地生产有因果意义的实验数据需要时间，于是，企业间的竞争重心也开始从“谁的模型更聪明”，转向“谁能把预测更快送回湿实验验证”。</p>\n  <p>无界进化由晶泰科技（02228.HK）孵化成立，核心资产便是覆盖细胞多组学的虚拟细胞基础模型系列OCOO，已发布基于转录组数据训练的虚拟细胞基础模型OCOO-T，可直接对细胞在扰动下的基因表达变化建模。通俗地说，就是输入“用什么药、敲掉哪个基因、作用多久”，模型便会尝试输出“这批细胞的转录组会怎么变”。</p>\n  <p>在Tahoe100M、Replogle、PBMC三个单细胞扰动权威基准的同条件评测中，OCOO-T已取得领先表现。这类预测虽还不能替代动物实验或临床，但可以在立项、靶点比较和实验排序阶段，帮研究者少走一些弯路。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261115/v2_bfdf5e4e8507452fb3df86e3c8e3f6d9@5930287_oswg1378990oswg1430oswg798_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：无界进化</p>\n  <p>但只做模型，在今天的AI4S赛道已经不是新鲜故事。无界进化提出一套名为“递归科学发现（Recursive Scientific Discovery，RSD）”的机制。它借用了AI领域“递归自进化（RSI）”的思路，但把改进对象从模型本身扩展到了科研过程。例如，科研问题如何提出、假说怎么推演、分析怎么做、实验成功和失败分别留下什么……这些都将被不断记录、关联和复用。</p>\n  <p>目前，无界进化已基于这套机制推出两个产品。首先是假说挖掘引擎The Popper Projec（TPP），通过接入科研智能体和多源数据库，它会生成、质疑并完善可检验的假说，用可追溯的推理链标出证据和空白；另一个是Karl Workbench科研工作台，试图把记录、积累、产物、监督、进化变成日常研究流程的一部分，现已开启内测。</p>\n  <p>无界进化方面提供的信息称，今年10 月，在耶鲁大学、Broad研究所等机构联合发布的科研Agent基准SciAgentArena复测中，搭载DeepSeek基础模型的Karl Workbench“在单细胞组学与空间组学两个场景均获第一”。</p>\n  <p>与此同时，模型预测得再准、假说推演得再完整，最终都要回到证据。因此，无界进化的另一半“答案”在实验台上。公司搭建了一套覆盖细胞培养、扰动和多组学检测的自动化实验体系。在模型挑出更值得验证的方向，完成实验检验预测并产生新数据后，新数据会再用于改进模型。</p>\n  <p>这其实就是AI4S企业反复提及的“干湿闭环”。其难点在于稳定转动，因为实验通量、数据标准化或任何一个环节出问题，模型都有可能无法达成预期成果。对此，无界进化的应对方式是，是把实验体系和数据管理一起做，前端用自动化设备提高通量，后端用统一的数据与研究产物管理机制，再把每次实验的结果接回模型。</p>\n  <p>除此之外，临床场景是更“硬核”的检验方法。据无界进化方面表示，公司已参与由北京大学第一医院牵头的“肝胆胰肿瘤类器官培养与智慧诊疗北京市重点实验室”共建，希望将虚拟细胞能力接入患者来源的类器官样本，让AI预测与真实样本上的实验结果相互校正。“这或许比在公开数据集上刷分要慢，却是虚拟细胞进入药物研发一线的必经之路。”无界进化方面表示。</p>\n  <p>另据介绍，晶泰科技的产业背景将为无界进化提供另一层支撑。前者在分子设计、自动化合成及药物管线上的积累，使“分子生成—细胞响应预测—湿实验验证”有可能在同一体系内衔接，也使得模型能从研发早期就面对真实管线，而非只是公开基准。</p>\n  <p>“药物研发的尺度，既在于分子工程的精度，也在于人类对复杂生命与疾病机制理解的深度。我们希望把海量生物学数据、大模型与自进化方法耦合起来，提升创新药研发的确定性。联合创始人赵亚龙则提到，本轮融资将主要用于基础大模型研发、高通量自动化干湿闭环体系扩容和产业生态建设。”无界进化联合创始人赖力鹏表示。</p>",
+      "category": "tech",
+      "published_at": "2026-11-16T00:30:00+00:00",
+      "fetched_at": "2026-11-16T04:29:16.538387+00:00",
+      "fingerprint": "4855f0bf3062fb51"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "哈工大团队创立、李泽湘出手，AR潜水面镜公司融资数千万｜硬氪首发",
+      "url": "https://36kr.com/p/4070604926850185?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，星域蔚蓝（深圳）科技有限公司（以下简称「星域蔚蓝」）近日完成数千万元天使+轮融资，本轮投资方为湖南财信。此前种子轮及天使轮投资方为初心资本、华山资本、香港X科技基金。资金将重点投向核心光学模组与水下可靠性体系的技术迭代，完善AR潜水互联系统的配套硬件生态，并加速全球渠道布局与规模化量产交付。</p>\n  <p>星域蔚蓝成立于2025年，聚焦水下智能AR装备赛道，专注极端水环境下光波导光学系统、潜水计算算法与高可靠性水下硬件的研发与制造。公司推出全球首款AR潜水电脑面镜AREX ONE，目前主要面向水肺潜水场景，覆盖休闲潜水与技术潜水等不同需求。该产品自上线Kickstarter众筹以来，累计筹得资金超700万港币，计划于2027年正式开启全球交付。</p>\n  <p>核心团队具备机器人、AI+AR技术与深度潜水的交叉复合背景。创始人兼CEO王静攀毕业于哈尔滨工业大学，曾参加RoboMaster机甲大师赛事，具备机器人硬件开发背景，主导的多款硬件方案曾实现产业化应用；联合创始人兼产品负责人陈睿拥有东南大学、蒙纳士大学双硕士学位，研究聚焦AR人机交互，AI应用落地。两人在高中时期便是队友，曾共同参加世界级机器人赛事。CMO Max为法国籍资深潜水从业者，拥有8000余次潜水实践经历，具备专业水下影像制作相关从业经历。公司多名核心成员持有CCR闭路循环呼吸器潜水资质，可完成百米级深度实机下潜验证。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261115/v2_1ed29de7252048d6897d21752924103b@6022551_oswg428036oswg596oswg900_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">法籍同事Max在仙本那测试产品（图注/企业）</p>\n  <p>Max加入团队的过程，也是这款产品获得专业潜水用户认可的缩影。王静攀向硬氪介绍，Max最早以测试用户的身份接触 AREX，曾三次专程来华参与产品实测，在第三次测试结束后选择正式加入团队。他既能够输出一线水下实操经验，也依托自身在海外潜水社群的资源，协助团队在真实场景里持续验证产品方案、校准设计取舍。</p>\n  <p>潜水硬件长期属于一个技术演进相对缓慢的品类。以代表性的潜水电脑为例，作为潜水员获取深度、时间、减压信息的主要工具，数十年来始终以腕表形态为主。</p>\n  <p>这种形态带来了天然的交互短板：潜水过程中，用户需要频繁抬腕低头查看数据。尤其在技术潜水这类对信息密度要求极高的场景，反复查看腕表会持续分散潜水员的注意力。而潜水又是一项对安全冗余要求极高的运动，深度、免减压时间、气体余量、上升速率等指标直接关乎生命安全，数据能否及时、直观地被潜水员获取，是水下安全体验的底层基础。</p>\n  <p>尽管存在明确的体验与安全升级需求，但想要实现突破性创新，却绕不开水下场景带来的双重工程挑战。</p>\n  <p>一方面，传统光学方案无法在水下极端环境中保持可靠显示，普通AR光波导模组在水下十余米即可能因压力而失效；另一方面，潜水场景的考验远高于普通消费电子，海水盐雾腐蚀、剧烈的冷热温差、持续高压环境，多重极端条件叠加，对硬件整体工程设计提出极高的挑战。</p>\n  <p>“当时，市场部分声音一度认为，光波导的基础技术走向成熟，AR眼镜行业或将迎来类似iPhone时刻的产业拐点。但经过严谨调研后我们发现事实并非如此。” 星域蔚蓝创始人王静攀告诉硬氪，消费级AR眼镜普遍面临重量、功耗、算力难以同时兼顾的“不可能三角”，佩戴体验不佳，因此退货率居高不下。</p>\n  <p>并且，“即便基础光波导方案在陆上得到验证，也不代表能直接复用至水下环境，会对光学结构提出完全不同的要求，这恰恰是我们看到的机会。”王静攀说。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261115/v2_bc6842a3765748709bcdbb0fe76e785e@6022551_oswg68068oswg510oswg348_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">水下光波导展示（图注/企业）</p>\n  <p>亲身潜水经历、用户调研与技术条件的变化，让团队逐步明确了产品切入点。在王静攀看来，这一场景恰好绕开了陆上AR眼镜最难解决的几组矛盾。第一，潜水员对深度、时间、气体余量等关键数据的需求几乎是全时段的，不同于普通智能眼镜“偶尔调用”的使用频率，数据一旦出现延迟或缺失，直接关系到用户的生命安全。在这一场景中，能否及时、清晰地读取关键信息，为近眼显示提供了明确的应用需求。</p>\n  <p>其次，水下浮力天然抵消了设备的重量负担。对比普通AR眼镜每增加一点算力，就要以克为单位反复取舍；在水下，浮力让设备可以承载更强的算力与更丰富的显示能力，恰好为AR体验的发挥释放了空间。</p>\n  <p>第三，潜水人群具备高净值、高客单价的消费特征。目前全球持证潜水员超过3000万人，这一群体对专业装备的付费意愿与付费能力远高于普通消费电子用户，足以支撑一个创新品类在供应链尚未成熟、成本偏高的早期阶段完成商业化闭环。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261115/v2_da1acdce921143d58c1861c7d80203d6@6022551_oswg139732oswg768oswg1024_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">团队使用AR潜水眼镜探索沉船（图注/企业）</p>\n  <p>具体到产品端，AREX ONE的核心突破，在于将一套完整的潜水电脑系统与AR显示模组集成于面镜形态之中。</p>\n  <p>这一形态变化的意义不仅是“把数据搬到眼前”，而在于改变了用户在水下读取信息的方式，将关键数据持续呈现在视野中，让潜水员在不中断对外界观察的前提下完成信息获取，减少因转移视线而产生的注意力分散。</p>\n  <p>但王静攀也指出，水下信息交互的核心矛盾，从来不是简单堆砌数据，而是如何在恰当时机输出匹配当下场景的有效信息。水下环境中，信息过载和信息缺失同样会带来安全隐患。</p>\n  <p>基于这一判断，AREX ONE在显示逻辑上做了场景化分层适配。面向休闲潜水，界面优先收敛至深度、免减压时间、上升速率这类最关键的安全指标，尽可能减少视觉干扰；当用户切换至技术潜水模式时，设备便会调出基于 ZHL\u001e16C 算法的全套专业参数，包括组织氮气负荷、氧分压（PPO₂）、预计到达水面时间等，支撑潜水员完成深度停留、气源切换等关键决策。不止预设模式，产品还允许用户通过配套App调整各类数据字段的展示位置与优先级。</p>\n  <p>这套分层设计并没有止步于软件界面。AREX ONE的核心产品思路，是将潜水面镜本身作为基础的计算与显示终端，再依靠模块化互联系统，让用户按照自身的潜水场景按需拓展能力。</p>\n  <p>面镜本体之外，整套互联系统包含多款选配配件，可以叠加气体监测、生物识别、照明等模块。比如空气集成发射器，能够同时采集多个气瓶的余量数据，适配侧挂潜水、频繁切换气源的技术潜水场景；Sync自适应潜水灯实现免手持照明，光束跟随使用者视野；AI海洋生物识别模块同时支持水下录像，潜完水之后可自动生成海洋生物图鉴与潜点地图。</p>\n  <p>除了记录潜水日志，App还能留住潜水中的发现。海洋生物图鉴可以帮助用户认识这些生物，并逐渐积累自己的探索记录。</p>\n  <p>为扛住水下高压、盐雾腐蚀等极端工况，硬件层面也做了针对性工程设计，主要围绕水下极端环境的可靠性展开，满足多日连续潜水与出海场景的使用需求。按照团队的设计思路，光学、结构和软件需要协同考虑：既要在水压、温差和海水环境下保护精密光学元件，也要结合环境光线、水体条件和潜水员的观察习惯，判断信息是否清晰、是否适合在当时出现。</p>\n  <p>目前，AREX ONE正加快推进量产工艺优化与可靠性验证工作。据团队介绍，产品已完成120米深度的水压测试，团队成员和内测KOL还携带设备奔赴斯洛文尼亚洞穴、佛罗里达地下洞穴系统、马耳他潜艇残骸等复杂水下环境，完成了多次百米级真实场景下潜实测。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261115/v2_216e0c25fc054da389403a11dafdca93@6022551_oswg438753oswg717oswg400_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">横跨亚欧美的潜水KOL对AREX ONE进行了测评（图注/Youtube&amp;Ins）</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261115/v2_9abc3c393b3b49de8257fbd9ee0dca85@6022551_oswg19255083oswg5184oswg3888_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">已完成120米深度的水压测试（图注/企业）</p>\n  <p>按照规划，AREX ONE将于2027年开启全球交付，并逐步展开更大规模的市场动作。当前，团队将优先完成潜水产品的验证、量产与交付，并把首批用户的持续使用反馈带回研发。更长期看，近眼显示与端侧AI也可能拓展至其他户外运动场景，但仍需围绕不同运动的实际需求逐一验证。</p>\n  <p>星域蔚蓝正以水下光波导技术为底座、搭配可拓展的模块化硬件生态，推动潜水电脑从传统腕表形态向AI驱动的水下智能交互终端升级。</p>\n  <p><strong>以下为硬氪与星域蔚蓝创始人王静攀的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：AR/VR眼镜在消费市场已经发展多年，也曾经历“百镜大战”，为何面向潜水场景的AR产品直到近几年才迎来创业团队入局，背后原因是什么？</strong></p>\n  <p><strong>王静攀：</strong>潜水场景对于水下实时数据的强需求早已客观存在，甚至相比绝大多数陆地AR使用场景，它的需求刚性要高得多。</p>\n  <p>传统装备体系下，潜水员获取深度、免减压时间、气体余量等关键安全数据，只能依靠抬腕查看腕表式潜水电脑。而在技术潜水、沉船渗透、洞穴潜水这类环境复杂、风险等级更高的作业场景，潜水员需要持续观察周遭水下环境，哪怕只是短暂将视线从环境移向手腕，都有可能忽略周边风险，埋下安全隐患。</p>\n  <p>也正因如此，把潜水关键数据直接投射在潜水面镜视野内，摆脱反复抬腕看表的交互局限，这一构想在全球潜水行业已经被探讨、尝试了十余年。但受限于光学硬件方案的短板，早期的技术路径很难解决视野遮挡问题。过去原型产品大多采用不透光屏幕、普通棱镜方案，数字显示会侵占实景视野，在水下会带来显著安全风险，难以投入实际使用。</p>\n  <p>直到近两三年，消费级光波导技术逐步走向成熟，它最核心的特质就是透光显示，能够做到实景环境与数字信息在同一视场共存，用户一边观察真实水下世界，一边读取叠加的潜水数据，不会割裂视野。</p>\n  <p>不过也要区分，消费端成熟不等于水下可用。市面通用光波导模组是按照陆地常压环境设计，面对水下高压、盐雾腐蚀、冷热剧烈冲击会出现结构损坏、光学偏移等问题。我们正是踩在光波导技术从实验室走向产业化的窗口入局，在此基础之上重新完成光学、结构、材料层面的改造适配。如果没有光波导技术的成熟作为基础，这套面向真实潜水使用的 AR 面镜，放在两年前根本不具备落地的可能性。</p>\n  <p><strong>硬氪：潜水是对安全与品牌信任门槛极高的领域，装备可靠性直接关系水下生命安全。作为行业新入局的创业品牌，如何在专业潜水群体当中建立信任？</strong></p>\n  <p><strong>王静攀：</strong>潜水是典型的高信任成本赛道。和普通消费电子不同，潜水装备属于安全关键设备，专业潜水用户评判一个新兴硬件品牌，并不会只看产品概念有多创新。相比功能参数，他们更关心三件事：产品能否按规划稳定交付、创业团队能否长期持续运营、对外公布的性能数据与水下实测结果是否真实可信。一旦以上任何一环存疑，即便产品方案听起来十分亮眼，也很难获得专业群体的接纳。</p>\n  <p>所以我们在对外内容输出上设置了非常严格的标准。市面上有些产品会使用AI生成的画面来展示产品效果，但潜水装备不能这么做。我们对外放出的所有水下实拍影像、深海测试画面，全部留存完整的原始拍摄档案与测试记录，每一段演示素材都来源于真实下潜测试，避免给潜水员传递错误的产品预期。</p>\n  <p>信任的另一层来源，来自团队自身对潜水场景的深度理解与实操验证。星域蔚蓝团队中，很多核心成员本身就是持证高阶潜水员，其中多人持有CCR闭路循环呼吸器潜水资质，可完成百米级深度实机下潜验证，能够站在使用者视角去理解装备在真实水下会遇到的各类风险。产品从实验室压力测试，到洞穴、沉船等复杂高危环境的实地下潜验证，不少测试都是团队成员亲自携带样机完成。</p>\n  <p>在潜水这个圈层属性极强的垂直行业，光靠营销宣传很难建立公信力。真正能够打动用户的，是真实可追溯的测试记录、团队亲身下场的大量实机验证，以及垂直社群当中专业潜水爱好者、KOL自发的实测反馈，这也是新品牌建立信任最扎实的路径。</p>",
+      "category": "tech",
+      "published_at": "2026-11-16T03:00:00+00:00",
+      "fetched_at": "2026-11-16T04:29:16.538372+00:00",
+      "fingerprint": "8381f3c05996bacf"
+    },
+    {
+      "source": "少数派",
+      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+      "url": "https://sspai.com/post/118392",
+      "summary": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？<a href=\"https://sspai.com/post/118392\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-15T07:55:16+00:00",
+      "fetched_at": "2026-11-16T04:29:14.905383+00:00",
+      "fingerprint": "8027af1ee822c084"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：逾十万人次联署要求黄仁勋复职",
+      "url": "https://sspai.com/post/119119",
+      "summary": "<p>逾十万人次联署要求黄仁勋复职</p><p>Microsoft 365 服务在 19 小时全球宕机后恢复</p><p>国产前沿模型携带 Blackwell GPU 特征</p><p>线缆更换导致全美飞机停飞</p><p>流媒体用户抱怨更难找到想看作品</p><p>特斯拉 Cybercab 订阅协议包含苛刻条款</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/119119\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-15T23:24:34+00:00",
+      "fetched_at": "2026-11-16T04:29:14.905377+00:00",
+      "fingerprint": "94cb53c5b6f8be64"
+    },
+    {
+      "source": "少数派",
+      "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+      "url": "https://sspai.com/post/119012",
+      "summary": "能切换老设备音质的媒体播放器。<a href=\"https://sspai.com/post/119012\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-16T02:52:11+00:00",
+      "fetched_at": "2026-11-16T04:29:14.905365+00:00",
+      "fingerprint": "e519397402c61f48"
+    },
     {
       "source": "BBC World News",
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
@@ -1521,276 +1781,6 @@
       "published_at": null,
       "fetched_at": "2026-11-10T05:44:41.694618+00:00",
       "fingerprint": "46308f8242ee487b"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
-      "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
-      "summary": "<p>See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives</p><p>African philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester.</p><p><a href=\"https://www.eventbrite.co.uk/e/see-my-world-film-festival-tickets-2000609164867\">See My World</a>, a day dedicated to independent creators from across the African diaspora in the north of England, will take place at the Contact theatre on 21 November.</p> <a href=\"https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-11-08T12:00:39+00:00",
-      "fetched_at": "2026-11-09T04:20:07.742130+00:00",
-      "fingerprint": "d2755ebc4728e1ef"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "Collision of two trains in Egypt kills at least seven",
-      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-      "summary": "<p>President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo</p><p>Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.</p><p>The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry.</p> <a href=\"https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-11-08T17:51:17+00:00",
-      "fetched_at": "2026-11-09T04:20:07.742118+00:00",
-      "fingerprint": "dfb7c585a47464e2"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
-      "category": "politics",
-      "published_at": "2026-11-09T02:50:13+00:00",
-      "fetched_at": "2026-11-09T04:20:07.579677+00:00",
-      "fingerprint": "4688c3e49b475ee5"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Homes and temples glow across India to mark Diwali",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
-      "category": "politics",
-      "published_at": "2026-11-08T14:42:09+00:00",
-      "fetched_at": "2026-11-09T04:20:07.579671+00:00",
-      "fingerprint": "d2b9303010106a59"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "category": "politics",
-      "published_at": "2026-11-08T19:58:02+00:00",
-      "fetched_at": "2026-11-09T04:20:07.579665+00:00",
-      "fingerprint": "07141ad7abea7551"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "category": "politics",
-      "published_at": "2026-11-08T23:34:18+00:00",
-      "fetched_at": "2026-11-09T04:20:07.579654+00:00",
-      "fingerprint": "379d0639d8e7925b"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
-      "url": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "六人在波蘭第二大城市克拉科夫主要廣場發生的一宗隨機槍擊案中喪生，其後警方在襲擊者家中發現另外三具遺體。",
-      "category": "politics",
-      "published_at": "2026-11-08T10:31:39+00:00",
-      "fetched_at": "2026-11-09T04:20:07.494727+00:00",
-      "fingerprint": "c03dcd69905b9437"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
-      "url": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "這些節奏明快、張力十足的短篇劇集透過手機觀看，在中國大受歡迎，在英國也正迅速興起。",
-      "category": "politics",
-      "published_at": "2026-11-09T00:20:25+00:00",
-      "fetched_at": "2026-11-09T04:20:07.494721+00:00",
-      "fingerprint": "3f37b006923f1c8e"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "銷量急挫，Labubu熱潮正在退燒嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "隨著人們對這些收藏玩具的興趣減弱，其母公司泡泡瑪特（Pop Mart）的收入也隨之下降。",
-      "category": "politics",
-      "published_at": "2026-11-08T07:35:18+00:00",
-      "fetched_at": "2026-11-09T04:20:07.494714+00:00",
-      "fingerprint": "205a6b818687ae36"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "Nvidia就黃仁勳與疑似中國間諜有婚外情展開調查",
-      "url": "https://www.bbc.com/zhongwen/articles/cmewevvp5x5lo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "黃仁勳承認對妻子「不忠」，並表示將配合安全部門調查。",
-      "category": "politics",
-      "published_at": "2026-11-09T01:37:14+00:00",
-      "fetched_at": "2026-11-09T04:20:07.494704+00:00",
-      "fingerprint": "21aca160da845fee"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-09T04:20:07.291008+00:00",
-      "fingerprint": "3c21dbfc6436aa83"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-09T04:20:07.290877+00:00",
-      "fingerprint": "7113845d73105744"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Unlocking any car from X brand in most of the world",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-09T04:20:07.290733+00:00",
-      "fingerprint": "5c91c386677b0bcd"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-09T04:20:07.290585+00:00",
-      "fingerprint": "5a786529aaee4f4c"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "RIP, Harvest",
-      "url": "https://aphyr.com/posts/427-rip-harvest",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-09T04:20:07.290396+00:00",
-      "fingerprint": "7c8756cc02a616ad"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-08T20:22:39+00:00",
-      "fetched_at": "2026-11-09T04:20:07.053413+00:00",
-      "fingerprint": "54c06e97d6e0a2b7"
-    },
-    {
-      "source": "The Verge",
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-08T20:52:05+00:00",
-      "fetched_at": "2026-11-09T04:20:07.053407+00:00",
-      "fingerprint": "d1d29453d583846b"
-    },
-    {
-      "source": "The Verge",
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-08T22:37:22+00:00",
-      "fetched_at": "2026-11-09T04:20:07.053401+00:00",
-      "fingerprint": "d08dc641958eb323"
-    },
-    {
-      "source": "The Verge",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-08T22:54:50+00:00",
-      "fetched_at": "2026-11-09T04:20:07.053390+00:00",
-      "fingerprint": "f0be6325bfc4dec9"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "香港与内地企业“拼船出海”，全球人才看见更多可能",
-      "url": "https://36kr.com/p/4054854397187205?f=rss",
-      "summary": "<p>国家“十五五”规划明确提出“统筹教育强国、科技强国、人才强国建设”，围绕全方位培养、引进、用好人才作出系统安排。配合国家“十五五”规划，《香港第一个五年规划》也提出打造香港为国际高端人才集聚高地，并制定了“针对性引进有助国家和香港发展所需的人才”策略。</p>\n  <p>在此背景下，“香港·全球人才机遇展——伦敦站”，这个由香港人才服务办公室（香港人才办）主办、粤港澳大湾区发展办公室和香港驻伦敦经济贸易办事处作为合作单位的活动，于10月17日及18日在伦敦盛大举行。机遇展汇聚来自50多家香港与北京市、上海市、西安市，以及大湾区内地城市的企业，共提供超过200个职位空缺，涵盖了银行金融、创新科技、工程建造及专业服务等领域，不仅为国际英才拓展了更多选择空间，更彰显香港与内地城市的强劲联动，合力出海。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_33cc26fe5fba4dedb38968089ed94c9c@5510391_oswg2187384oswg5472oswg3648_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>对于许多正考虑跨境职业发展的专业人士而言，这次机遇展的意义不仅在于规模，更在于它把通常分散在不同渠道的职位与行业信息，集中到了一个可以面对面交流的空间里，让选择不再是一个城市与另一个城市之间的取舍，而是整个区域内多种职业路径的组合。</p>\n  <h2><strong>从展位到对话：连接如何发生？</strong></h2>\n  <p>两日活动共吸引逾4,500人次参与，当中职业博览区是两天里最热闹的地方。企业招聘代表与参会者面对面交流，热情解答求职人才查询，与参会者分享职位要求、团队文化、签证流程。现场交流也转化为实际成果：参展企业共收到超过1.2万份简历，部分求职人才更获现场面试。对企业而言，这是精准对接全球人才的机会；对人才而言，这是一场零距离、高效率的直接对话。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_d5f824d6909b434885ef727074885c09@5510391_oswg4540848oswg5917oswg3704_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>广州市南沙区粤港澳人才协作中心是参展单位之一，其总监罗静颖对现场反应印象深刻。她表示：“我们非常高兴看到现场的热烈程度超出预期。”活动一开始就不断收到来自全球各地人才的咨询，“今天我们已收到约一百份简历，但这只是线下数量；还有一些人才通过电子邮件发送电子版简历，后续我们也会进行深入匹配和筛选。”</p>\n  <p>有参展企业代表认为，机遇展让企业与全球人才直接交流，物色具国际视野及跨文化协作经验的人才，支持业务拓展。</p>\n  <p>在创新与科技领域，内地企业参与尤为集中。过去几年，中国企业在人工智能、智能制造、生物科技等领域的全球竞争力持续上升，对国际人才的需求也随之增长。香港作为国际金融中心和国际人才枢纽，提供连接全球人才与内地产业需求的通道。</p>\n  <p>罗静颖同时指出：“无论是在人工智能、生物医药，还是集成电路、新能源等领域，南沙都为产业发展提供了很好的环境与土壤。这次活动发挥了香港作为‘超级联系人’的优势，帮我们企业连接到许多国际化人才资源。”</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261105/v2_e30601d8ca5c4cf393e68720d84d30bc@5510391_oswg858845oswg1125oswg750_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>粤港澳大湾区正发展成为全球创新和产业协同的重要区域。作为区域内的国际城市，香港担当着连接全球人才与内地产业需求的重要角色，从人才进入内地的中转站，逐步延伸为长期落户生活、拓展事业的目的地。</p>\n  <p>未来，香港更会通过北部都会区（北都）等大型项目持续延伸联动优势。北都占地约300平方公里，其中河套深港科技创新合作区香港园区聚焦研发，新田科技城提供大规模先进制造空间，将创造大量高增值岗位。这些项目意味着未来十年、二十年里，大湾区内部会出现更多跨城市的职业路径。</p>\n  <p>粤港澳大湾区发展专员林雅雯在机遇展的专题演讲中亦谈到《香港第一个五年规划》与大湾区建设，指出香港会参与大湾区建设成为具有全球影响力的国际一流湾区和世界级城市群，其中北都作为香港深度参与大湾区建设的主平台，将推动教育、科技、产业、人才和城市建设协同发展。她鼓励当地人才来港发展，立足香港，把握大湾区机遇。</p>\n  <h2><strong>论坛与工作坊：传信息，也拓人脉</strong></h2>\n  <p>本次全球人才机遇展不仅通过职业博览“汇机遇”，还借助论坛和工作坊“传信息”与“拓人脉”。</p>\n  <p>论坛聚焦香港及中国内地的发展机遇、人才概况与市场趋势。现场汇聚了政商界领袖、已来港发展的国际人才，以及资深人力资源代表，从政策、行业和个人经验几个层面把信息逐一拆解。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261104/v2_8242527f57714282b789f0a577fe0b35@5510391_oswg4553756oswg6961oswg4641_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>工作坊则更偏向实践应用，两天安排多场主题分享，内容从职业路径到求职策略与面试技巧。演讲者中既有企业高管，也有熟悉香港招聘市场的人力资源代表，还有在国际金融专业机构任职、熟悉跨境人才流动的讲者。同时，参会者完成指定活动任务，更可获得免费简历咨询、ATS简历优化及职业形象照拍摄等服务。</p>\n  <p>跨境职业决策从来不是单一变量的计算，薪酬、税率、签证便利度固然关键，但工作机会、行业生态、生活文化等因素同样影响选择。对于香港人才办而言，这次机遇展既是推广香港，也是把发展机遇具体呈现在人才面前、协助其决策的平台。</p>\n  <p>其中，来自英国的大学生Leo Wickert表示，父亲在香港工作让他两次到访香港，并喜欢上香港的生活方式、美食、自然环境、高效节奏以及职业发展机遇。此次参展，他重点关注金融尤其是审计职位，认为现场面对面交流比网上查资料收获更大，工作坊也让他更好把握行业趋势，尽早规划发展路径。若有合适机会，他会积极把握。</p>\n  <h2><strong>香港人才办：搭桥引路，持续支持</strong></h2>\n  <p>作为活动主办方，香港人才办负责论坛议题设计、展位组织等。香港人才办总监陈海劲表示，机遇展让全球人才了解香港和中国内地的事业发展机会，并与企业直接交流和进行职业配对。他强调，香港人才办的支持不会随展会结束而中止，会继续在全球推广香港，针对性引进国家和香港发展所需的人才。</p>\n  <p>这次活动成效在会后仍在持续显现。根据活动后问卷调查，近九成表示活动加深了他们对香港和中国内地的了解，更有九成半受访者表示活动让他们更有兴趣探索香港及中国内地的发展机遇，可见活动取得积极成果。&nbsp;</p>\n  <p>这次伦敦机遇展，是香港人才办开展了超过100次的外访之一。未来，香港人才办会继续走出去，在亚太、欧洲及北美等地区举办推广活动，助力香港和内地企业“拼船出海”，帮助企业精准对接全球人才，并把香港的优势与机遇带到人才面前。</p>\n  <p>想要了解更多香港人才办未来举办的活动信息，可关注香港人才办网站获取最新动态。</p>",
-      "category": "tech",
-      "published_at": "2026-11-09T02:25:54+00:00",
-      "fetched_at": "2026-11-09T04:20:06.927162+00:00",
-      "fingerprint": "bde8bfaa8fca51ba"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "一年融5轮，首颗星计划明年一季度发射，「谱星航天」连续完成两轮近3亿元融资｜融资首发",
-      "url": "https://36kr.com/p/4061912127247490?f=rss",
-      "summary": "<p>文&nbsp;|&nbsp;阿至</p>\n  <p>36 氪获悉，<strong>光学载荷与微纳卫星系统解决方案提供商「谱星航天」已于近期连续完成Pre-A+、A轮两轮融资，融资规模近3亿元</strong>，投后估值达数十亿元 ，资金将主要用 于团队建设、研发投入，以及首个轨道面 128 颗星的投产与快速组网。</p>\n  <p>Pre-A+轮由老股东金浦智能、联融志道追加投资，新鼎资本跟投；A轮由长发基金、闵金投、长兴基金联合领投，贵州省高新基金、崇山资本等机构跟投。谱星航天成立一年，共完成 5 轮融资，累计融 资金额近 6 亿元，是今年商业航天资本热潮中，卫星赛道融资节奏最快的公司之一。</p>\n  <p>谱星航天专注光谱定量遥感领域，是36氪长期关注的企业。其核心打法是将“光学遥感定量化能力”与“卫星批产工程化能力”深度结合，<strong>计划分批次发射共计1024颗高光谱定量卫星，目标是构建全球天覆盖的高光谱定量遥感星座</strong>，为客户提供小时级大气监测、天覆盖高光谱影像及高精度航线监测等服务。</p>\n  <p>具体到产品序列，谱星航天规划了载荷、卫星与技术服务三大板块，逻辑上依次递进，现阶段以载荷和卫星两大板块为业务推进重点。从卖载荷、卖卫星到卖服务，最终想成为具备核心载荷及卫星研制能力的光谱定量遥感数据运营商。</p>\n  <p>据创始人贺小军透露，谱星的团队规模已从年初的20人快速聚集至70余人，多数具备5到8年以上的航天光学遥感从业经验，其中近三成为AI与数据方向人才，这也是其下半年以来的招聘重点，AI技术已经渗透到系统研发、光谱遥感、数据处理以及遥感应用等全链条。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_410ee39b274640aa84b7d4614114d493@577536001_oswg1121886oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">长春谱星空间卫星工厂投入使用</p>\n  <p>当然，对于一家创业公司来说，资金和团队只是起点，人才密度、资本效率与组织效率的乘积，需要在业务进度上得到更直接的体现。</p>\n  <p>贺小军提到，长春谱星空间的卫星工厂已经投入使用，目前在研的16颗卫星及50余台光学载荷已经导入，正在开展小批量试制和工艺过程的持续迭代，预计最终产能还可以进一步提升。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_c08f833560cc46bf983c143abba4f4d8@577536001_oswg106306oswg1080oswg642_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">整星热真空试验</p>\n  <p>具体到产品落地的时间表，谱星航天为某客户研制的一颗科学探测卫星、两颗自主运营的光谱定量遥感卫星，目前均已进入总装环试阶段，其余十余颗卫星也即将进入桌面联试阶段。</p>\n  <p>按照贺小军的规划，2027年底谱星航天在轨运营的光谱定量遥感卫星将达到十余颗，开始地市级天覆盖定量遥感应用示范，公司也即将开始首批示范区的征集工作。</p>\n  <p>“<strong>客户的科学探测卫星预计能在春节前完成总装，一季度发射</strong>，完成该科学星座首发星验证，开展卫星平台及科学载荷性能评估，推动产品定型，为后续的30余颗小批量组网奠定基础。”贺小军表示。</p>\n  <p>“<strong>我们自主运营的两颗光谱定量遥感卫星预计一季度完成研制，4月份完成发射</strong>，开展卫星平台及大气同步探测光谱仪、高分辨光谱相机、压缩光谱成像仪等载荷性能评估，完成产品定型。”贺小军提到，这两颗自运营卫星也将输出试点区域的天覆盖数据用于定量遥感应用示范，并沉淀垂类遥感大模型训练所需的高品质数据集，为后续谱星1024颗卫星组网铺路。</p>\n  <p>商业化方面，此前我们了解到的是，谱星航天已签订的正式合同总额达数亿元，涵盖卫星定制、载荷研制及技术服务。但客观来看，目前谱星航天产品仍处于首台套研制阶段，尚未开始批量交付，收入释放存在时间差，业绩需要等到发射节点之后，随批产交付节奏逐步兑现。</p>\n  <p>贺小军透露，<strong>2026年公司的确认收入大约会在数千万量级。</strong></p>\n  <p>“今年的确是航天产业十年难遇的黄金窗口期，谱星抓住了机会。但我们也清醒地认识到，这种大风口不会持续太久，行业终归会回归常态。”在贺小军看来，只有不断为行业客户创造价值，才能把窗口期的热度沉淀为可复购、可持续的商业闭环。</p>\n  <p>客观来看，过去全球商业遥感领域的发展更多由供给驱动，卫星越造越多、分辨率越拍越高，但需求端并没有跟上，政府订单消化了大部分产能，真正的市场化收入占比有限。对商业用户来说，真正需要的是能够支撑业务的决策和判断——只有嵌入产业的实际生产流程，形成数据采集、处理、服务的正循环，商业遥感应用市场的空间才会真正打开。</p>\n  <p>谈及行业节奏与市场预期，贺小军表示，可回收火箭带来的发射成本下降已成共识，对谱星的商业闭环是重要助力。但另一方面，谱星卫星重量轻，通过合理设计甚至可实现“一箭百星”的快速发射，所以<strong>发射并不是主要瓶颈，真正的瓶颈在需求端，关键是遥感应用的付费意愿。</strong>“从大B到小B再到C，每一步商业模式的探索，都意味着资本、人力与技术的持续投入。当谱星的付费用户数量突破10万，或许就意味着航天遥感行业的拐点真正到来。”</p>\n  <h3><strong>投资机构评价：</strong></h3>\n  <p><strong>新鼎资本：</strong>谱星航天深耕高光谱定量遥感，兼具光学载荷自主研发和微纳卫星整星研制能力。公司核心团队既有整星总体设计经验，也经历过卫星批量研制和在轨验证。公司已凭借整星和光学载荷产品赢得客户订单，并规划建设自有高光谱星座，为未来持续提供遥感数据服务打下基础。新鼎资本长期关注商业航天产业链。我们看好星座建设带来的制造需求，也看好高质量遥感数据在行业应用中的长期价值。谱星从卫星研制向数据服务延伸的成长路径，正是本次投资吸引我们的地方。期待与团队长期同行，共同推动高光谱遥感的商业化应用。</p>\n  <p><strong>长发基金：</strong>空天信息是国家重点布局的战略方向，光谱定量遥感是商业遥感里高潜力赛道。谱星航天成建制的工程团队、自主可控的核心技术，以及“载荷&nbsp;-&nbsp;卫星&nbsp;-&nbsp;星座&nbsp;-&nbsp;数据服务” 一体化布局，具备很强的产业带动价值。我们作为联合领投方，看好谱星航天的技术路线与商业化潜力，期待和团队一起把高精度光谱遥感服务推向更多行业场景，为空天信息基础设施与遥感产业高质量发展贡献力量。</p>\n  <p><strong>闵金投：</strong>我们坚定看好谱星航天的发展。定量高光谱遥感是商业遥感赛道极具价值的方向，公司规划的星座具备广阔商业想象空间。同时公司立足光学载荷、微纳卫星研制，具备短期内订单落地、实现营收的能力，成长确定性突出。核心团队拥有一线航天工程经验，对行业规律理解透彻。本次投资也是对区内优质硬科技企业的加码支持，期待谱星航天立足闵行、发挥自身优势，赋能“火箭星城” 建设。</p>\n  <p><strong>长兴基金：</strong>卫星是系统工程之巅，而总体单位是这顶王冠上的明珠。谱星团队兼具航天“国家队”级的星座级工程实力与敏锐的市场化商业思维，拥有光学遥感领域全链条、工程化、产品化的头部一线经验，正是我们寻找的“链主”之才。我们投资谱星，投资的不只是一家企业，更是一条产业链、一个产业集群——以卫星总体为牵引，让结构、载荷、星载电子等上下游伙伴在长春开放集聚、协同共赢，让“造卫星，找长春”从愿景变为行业共识，成为这座城市崭新的产业名片。</p>\n  <p><strong>贵州省高新基金：</strong>谱星航天吸引我们的，是其站在高光谱遥感这一技术与产业发展的交汇点上，业务方向顺应高光谱遥感从定性观测走向定量应用的趋势。公司通过自主研制光学载荷和卫星，并延伸至数据处理和行业应用，着力推动遥感数据从“能够观测”向“能够量化”发展，让空间信息成为可用于产业决策的生产要素。目前，高光谱遥感在各行业中的应用仍处于持续拓展阶段，公司的产品和服务也正在更多场景中不断验证和完善。随着光谱遥感在各行业渗透率持续提升，谱星航天有望成为连接航天基础设施与行业数字化应用的重要纽带。</p>\n  <p><strong>崇山资本：</strong>谱星航天创始人贺小军博士，曾主持55颗卫星研制工作，深耕载荷、整星研制、数据运营全链路，是业内少有的覆盖三大环节的领军人物。公司锚定“光谱+定量”遥感核心路线，切入航天新兴赛道，差异化布局，避开与同行的正面竞争；依托光谱指纹识别、高精度辐射定标技术，实现遥感观测从“看见形态”到“读懂成分、量化指标”的跨越，打造独有的技术价值，首轨128颗卫星频轨资源已获批复，构筑起排他性先发优势。公司研发团队积淀深厚、专业功底扎实，兼具突出创新能力，为企业长远发展持续注入核心动能。崇山资本投资谱星航天，坚信谱星航天将秉持务实笃行的底色，向新而行，实现跨越式发展的战略目标。</p>",
-      "category": "tech",
-      "published_at": "2026-11-09T02:32:10+00:00",
-      "fetched_at": "2026-11-09T04:20:06.927156+00:00",
-      "fingerprint": "2399a97cbe483692"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36万「中女」，一年买走52亿江南布衣",
-      "url": "https://36kr.com/p/4061858250773385?f=rss",
-      "summary": "<p><strong>作者 |&nbsp;谢芸子</strong></p>\n  <p><strong>编辑 | 张帆</strong></p>\n  <p>消费行业集体过冬的2026年，江南布衣反而迎来了巅峰。</p>\n  <p>10月20日，江南布衣报收23.2港元，当天达到上市以来的最高价23.66港元，年初至今累计涨幅超过29%。</p>\n  <p>支撑股价的，是公司发布的最新财报。</p>\n  <p>在截至6月30日的2026财年，江南布衣营收60.46亿元，同比增长9.0%；归母净利润9.97亿元，同比增长11.7%；毛利率66.6%，净利率16.5%。</p>\n  <p>另据浦银国际报告，2026财年后的7月至今，江南布衣流水持续获得高单位数增长，国庆黄金周的流水增长更是超过10%。</p>\n  <p>把对比维度放大到整个行业。</p>\n  <p>尽管江南布衣与安踏体育、波司登、海澜之家不在一个量级，但从股价及业绩涨幅看，今年以来，江南布衣算是领跑了整个行业。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_c6ea48b0c3f44f2fb4d8b0bce15d310e@394564713_oswg311675oswg1262oswg450_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">表格来自Wind；数据截自2026年11月5日</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_a316997de8e54a6c8902d333559db283@394564713_oswg49176oswg1044oswg567_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片截自Wind</p>\n  <p><strong>“小而美”的公司实现反超，多少有些反直觉。</strong></p>\n  <p>消费分级时期，非必选消费普遍焦虑；户外当道，传统时装品牌更多处于增长困境。</p>\n  <p>再从消费者感知看，江南布衣仍与两个标签相连：一是设计上“有些夸张、看不懂”，二是五年前的那场“邪典童装”风波。这些构成了大众对这个品牌的第一层“滤镜”。</p>\n  <p>挨骂与赚钱同时发生在一家公司，看似矛盾，实则是筛选的结果——<strong>江南布衣不需要人人喜欢，只需要喜欢的人一直购买。</strong></p>\n  <h3><strong>谁在为江南布衣买单？</strong></h3>\n  <p>1994年，李琳与丈夫吴健在杭州开始经营服装生意，随后转向自主设计。</p>\n  <p>独立分析师唐小唐回忆，江南布衣创立之初主打“反传统”路线，以“人文、自然、强调剪裁”的设计为特色，早期用户多是文化、传媒领域的知识分子。</p>\n  <p>这种基因延续至今，宽松廓形、自然色、棉麻等材质的肌理感，使江南布衣在商场拥有一定辨识度——它不依赖醒目Logo，消费者买的是“看起来就像江南布衣”，而不是某一件当季爆款。</p>\n  <p>最新财报中，JNBY的目标客户定义为25至40岁的现代女性，强调她们好奇心强，善于发现平凡生活中的惊喜与诗意。<strong>这是官方定位，并不等同于真实的会员画像。</strong></p>\n  <p><strong>社交平台上流传的另一个词或许更贴切——“中女”。这个词通常指30岁以上、有稳定消费力、为自我取悦穿衣的女性。</strong></p>\n  <p>有“老粉儿”告诉36氪，JNBY一开始的设计非常独特，“有些雷霆配色穿上身很好看”，“但设计经常神一阵鬼一阵”。</p>\n  <p>在她的感知中，购买这一品牌的多是一些“生活在一、二线城市、体制内或‘老企业’工作，有一定消费力的女性”。“她们逛商场不一定去奢侈品区，却也看不上朗姿、伊芙丽，觉得不够有设计感或是过于年轻”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_a2c37dd85b8743c6a11601bbe9e00535@394564713_oswg967204oswg1266oswg565_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">JNBY2026春夏新品；图片来自官方微博</p>\n  <p>当然，小规模样本不足以代表全部会员。</p>\n  <p>东吴证券7月报告显示，江南布衣的主力价格带为500至2000元，低于地素时尚的1000至4000元。<strong>这些女装都谈不上便宜，却能使消费者就算在低线城市，也能买到一种不完全追随大众、区别于快时尚与运动风格的服装。</strong></p>\n  <p>这批用户的购买力，最终体现在财报数据里。</p>\n  <p>按江南布衣2026财年的零售规模计算，一、二线城市带来的合计贡献52.3%，三线及以下城市贡献47.7%。这至少能说明，江南布衣的消费人群在各城市的分布相对均衡。<strong>而比会员画像更关键的，是复购。</strong></p>\n  <p>2026财年，江南布衣活跃会员账户超过61万个。对比雅戈尔在2021年披露的190万活跃用户，这一数据不算多，但购买力强。</p>\n  <p>报告期内，江南布衣会员贡献的零售额占比超过80%；年度购买超过5000元的高价值会员超过36万人，贡献零售额52亿元，占线下渠道零售总额超过六成。<strong>粗略折算，这批高价值会员2026财年的人均消费超过1.44万元，是公司真正的基本盘。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_5fbb22ac45114178b33404f65e11e0e6@394564713_oswg24325oswg894oswg204_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪根据公开数据制表</p>\n  <h3><strong>十年维修与“一个盒子”&nbsp;</strong></h3>\n  <p>对于服装品牌，设计负责找到第一批用户。但江南布衣所说的“自然、简约、诗意”，始终是“形而上”的表述，消费感知因人而异。</p>\n  <p>不只是江南布衣，同行对自身风格的定义也多是抽象标签。</p>\n  <p>太平鸟的定位是“悦享品质时尚”，不强调固定的设计师语言；地素DAZZLE则偏向都市潮流，东吴证券将其设计概括为“图案、装饰和不对称”，官方称之为“矛盾冲突美学”。</p>\n  <p><strong>不过，定位差异并不等同于鲜明的辨识度。</strong></p>\n  <p>疫情后，消费者更看重稳定性与普适性，各品牌今年秋冬的新品也呈现一定趋同。小红书等社交平台上，已有用户吐槽JNBY的风格越来越保守，“班味儿很重”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_ff44ac94077b4ff088b8dc7804a0445f@394564713_oswg1181529oswg1264oswg566_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">从左到右，依次为JNBY、太平鸟、DAZZLE的秋冬新品</p>\n  <p>当独特风格不再是优势，留住用户的砝码落到了运营。</p>\n  <p>江南布衣的会员体系主要有银卡与金卡两级，权益包括“专属折扣、生日特权、洗护福利、十年维修”等。</p>\n  <p>以往，这种“管家式”的服务多存在于奢侈品牌，且成衣类的产品保修基本在1年内。在中高端女装赛道，江南布衣的会员服务是绝对的少数派。</p>\n  <p><strong>在帮助会员降低洗护成本的同时，江南布衣还替消费者——尤其是那部分没时间逛街的职业女性节省了决策成本。</strong></p>\n  <p>《21世纪商业评论》曾报道，江南布衣花费两三年的时间打磨了一套算法，其中的“线上数据洞察看板”为会员添加了“材质、版型、颜色”等偏好标签。导购会根据这些标签，主动推荐产品。</p>\n  <p>按公司CMO黄盛的表述，这套系统的推荐命中率达到70%；基于会员标签的广告投放效率同样可观——在腾讯平台的时尚女装领域“投1元挣7元”，ROI仅次于UR和优衣库。</p>\n  <p><strong>比标签更具感知力的是“BOX+不止盒子”。</strong></p>\n  <p>公开资料显示，在江南布衣，用户每年只需花费399元，就可以收到6次搭配好的服装组合。免费试穿，中意的留下，不适合的退回。&nbsp;</p>\n  <p>此外，针对金卡会员，江南布衣还特别推出了“1对1”搭配师的定制服务。&nbsp;</p>\n  <p>到这里，私域的闭环已经完成——<strong>设计负责筛选，服务负责留下。</strong>腾讯智慧零售也曾披露，江南布衣的企业微信社群渗透率达到35%，属于行业头部水平。&nbsp;</p>\n  <h3><strong>一年只净增1家店</strong></h3>\n  <p>与会员服务形成对照的，是近乎“抠门”的线下拓店。</p>\n  <p>2026财年，江南布衣全球门店总数为2118家，全年仅净增1家。这并不意味着渠道停滞：2026财年年中，公司门店总数一度达到2163家，下半财年净减少45家。门店调整的同时，渠道结构也在变化。</p>\n  <p>全球范围看，江南布衣自营门店全年净增9家至501家，经销商门店净减8家至1617家。报告期内，自营收入同比增长10.7%，经销收入仅增长1.3%；2025财年则是自营收入下滑6.2%、经销收入增长9.6%。</p>\n  <p><strong>两年间的此消彼长，或许反映出公司现阶段的渠道取舍。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_6798eda0041647d8939b5ec2e6804791@394564713_oswg6835oswg803oswg86_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪根据财报数据制表</p>\n  <p>门店之外，精打细算的还有货品。</p>\n  <p>江南布衣没有线上专供款，全国门店与线上共享“一盘货”，减少缺码、断货与局部滞销。在零售行业，线上线下打通是数字化的重要一环，江南布衣则把这笔收益直接算了出来。</p>\n  <p>2026财年，库存共享及分配系统为江南布衣带来的增量零售额达到14.05亿元，同比增长23.6%。这部分增长来自现有货品与渠道的重新匹配，而非简单的扩店。</p>\n  <p>同期，江南布衣线上收入增长20.5%，线下仍贡献约76%的收入。线上负责持续触达用户、调配货品，门店继续提供试穿、面料感知和搭配服务。</p>\n  <p>可以看出，江南布衣不是停止扩张，而是选择性扩张：关掉低效店，把资源投向高端购物中心、优质点位，进行店铺升级。它关注的不在门店数量，而是新店能否带来增量，现有门店能否产生持续收益。</p>\n  <p><strong>这种选择，也建立在购物中心对其招商价值的认可上。</strong></p>\n  <p><strong>“江南布衣一直是购物中心重量级的招商品牌，只要想做零售都会跟它联系。”</strong></p>\n  <p>在上海购物中心协会品牌专业委员会秘书长杜斌的观察中，江南布衣的门店销售相对平稳，这种平稳在疫情后更显珍贵。“自2026年以来，只要是持续开店的品牌，都会被购物中心重视。”</p>\n  <h3><strong>只做固定的生意，天花板已现</strong></h3>\n  <p>只不过，江南布衣的增长焦虑并没有消失。</p>\n  <p>唐小唐的判断指向更长期。他认为，江南布衣的核心客群规模基本固定，已触及天花板，后续无大规模拓客空间。且与疫情前相比，公司近年来的营收增速明显放缓。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_4546a34bc2b2460bbe14dac51162732e@394564713_oswg164430oswg1252oswg723_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪根据Wind数据制图</p>\n  <p><strong>关键问题在于，江南布衣除主品牌之外，尚未出现同等量级的增长引擎。</strong></p>\n  <p>近年来，江南布衣也在发展更偏年轻通勤的LESS。在唐小唐的介绍中，集团对LESS的定位类似Miu Miu与Prada的层级关系。</p>\n  <p>2026财年，LESS营收7.31亿元，同比增长17.4%，且其毛利率达到70.2%，甚至超过主品牌JNBY的69.9%，是集团内毛利率最高的品牌之一。‌</p>\n  <p>不过从部分消费者感知看，LESS与JNBY的风格差异不大。它能否形成足够清晰的第二客群，仍需观察。</p>\n  <p><strong>更明显的短板在速写。</strong>这个2005年推出的男装品牌，2026财年收入下降1.1%至7.12亿元，门店由308家减至283家。</p>\n  <p>CEO吴华婷说得直接：“我没有办法改变男性穿着和喜好的习惯。”这句话也揭示了家庭复购的限度。江南布衣至今未把在女装积累的认同复制到男性品牌。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_8985e63646aa4333ae16dd90e684756c@394564713_oswg106367oswg827oswg319_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">36氪根据财报数据制表</p>\n  <p>值得关注的是，江南布衣仍在寻找新的入口。2026年9月，江南布衣宣布与意大利高端鞋履及皮具品牌Marsèll合作，独家负责其在大中华区的运营。</p>\n  <p>财报会上，CFO范永奎特别提到“江南布衣要成为一个有国际影响力的百年品牌”，重点向海外市场和生活方式两大方向长期布局。至少目前，江南布衣的海外收入占比仅0.6%，新品类也未见水花。</p>\n  <p>在这一过程中，外部竞争不只来自女装竞品。</p>\n  <p>Euromonitor数据显示，2019年至2025年，国内女装市场规模复合增速约-0.7%，同期运动服市场复合增速约4.6%。两组数据不能直接证明运动服与女装的替代关系，但<strong>‌‌当人们更愿意为功能性与运动场景支付溢价，中高端女装的消费优先级自然下降。</strong></p>\n  <p><strong>有江南布衣用户对36氪坦言，近年来她的衣橱更多是lululemon以及不需要费精力打理、有自然褶皱的Pleats Please。</strong>前者提供运动场景和身体感受，后者提供设计辨识度，两者分走的是同一批客群的预算与品牌注意力。</p>\n  <p>增长的故事讲到这里，股东回报是另一本账。</p>\n  <p>2026财年，江南布衣派息率达110%，这份“慷慨”涵盖上市十周年的特别派息，也足以证明现金流充裕。<strong>但特别股息本身不能代替对新客、新品牌和新品类的投入。</strong></p>\n  <p>现如今的江南布衣，已向市场证明了小众审美可以做成一门超过60亿的生意。接下来要回答的问题是——除了让老客继续买，如何吸引更多新人下单。如果这个问题迟迟没有答案，高分红也只意味着一家成熟公司的暂时性收获，而非下一轮增长的开始。</p>\n  <p>*免责声明：</p>\n  <p>本文内容仅代表作者看法。&nbsp;</p>\n  <p>市场有风险，投资需谨慎。在任何情况下，本文中的信息或所表述的意见均不构成对任何人的投资建议。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。我们无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_3d4bd354d84c467684fae9ae4f4eeeb4@394564713_oswg63834oswg901oswg571_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">关注获取更多资讯</p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s?__biz=MzIzOTk2Mjc1Mg==&amp;mid=2247629433&amp;idx=1&amp;sn=1d0574c8bc038198295faba4cad9cd1f&amp;chksm=e839f268f085f3448d0e5cfa0bcc23c7c94c4bd3932e2c4ca6235f876c31b1dcf85519a52d1f&amp;mpshare=1&amp;scene=1&amp;srcid=1109ALJzNHdlJWTi1eMHaEMg&amp;sharer_shareinfo=4f3a10f0139e3443a0c89153813aa3e5&amp;sharer_shareinfo_first=4f3a10f0139e3443a0c89153813aa3e5#rd\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪财经”</a>，作者：谢芸子&nbsp;张帆，36氪经授权发布。</p>",
-      "category": "tech",
-      "published_at": "2026-11-09T02:39:33+00:00",
-      "fetched_at": "2026-11-09T04:20:06.927148+00:00",
-      "fingerprint": "5675fcbc6223ea77"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "122天、团队不止翻倍，耐克首批本土源创系列幕后｜专访",
-      "url": "https://36kr.com/p/4059160873046920?f=rss",
-      "summary": "<p>很长时间，耐克在中国最为人称道的“本土化”，几乎都在广告里。</p>\n  <p>2008年8月18日，刘翔在鸟巢因伤退赛，次日耐克在报纸上登出新广告：“爱运动，即使它伤了你的心。”2020年春节，W+K上海为耐克拍了一支短片：姑姑和侄女为一个红包你推我让，从客厅一路较劲成一场体能对决。人们记住了广告里的中国式人情，却很少有人记得那几年耐克在中国卖的是哪件衣服。</p>\n  <p>上个月，这家运动巨头在中国推出首批由本土团队设计的系列，作为对外界质疑这家公司创新速度和能力的回应。</p>\n  <p>“中国市场是一个能够不断激发灵感、创造产品的地方，中国消费者的独特性为耐克提供了一个很好的机会，让我们能进一步投入本土消费者洞察。”负责这一系列的耐克大中华区本土产品源创副总裁Flavia Cervantes告诉36氪。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261108/v2_1b2c1b5a1a9b4595b34c11b439fed711@5922386_oswg4611107oswg2000oswg2999_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">耐克大中华区本土产品源创副总裁Flavia Cervantes&nbsp;</p>\n  <p>加入耐克前，Cervantes在奢侈时尚和生活方式品牌工作了约十年。在耐克，她先在全球产品创新团队任职，后加入欧洲、中东及非洲区（EMEA）的本土产品团队Express Lane。</p>\n  <p>这个团队的历史要追溯到2017年前后：耐克推行“消费者直接攻势”（Consumer Direct Offense）战略，在北美、西欧和中国先后设立Express Lane，任务是“快速创造、更新和交付产品，以回应消费者需求”，目标是把产品开发周期缩短一半。</p>\n  <p>2017年也是球鞋文化的顶峰，耐克几乎独占鳌头，与Off-White合作的“The Ten”正是那一年发布。复刻和联名在全球卖得火热，Express Lane做的更多是“更新”：在现有鞋型上换材料、换配色，推动售罄。设在上海的Express Lane还要同时服务上海��首尔和东京，更像一个面向东亚的快速反应中心，而不是专为中国设计产品的团队。那些年耐克的“中国特供”，多半是春节限定的红金配色和刺绣，很少触及版型本身。</p>\n  <p>但按照Cervantes的说法，一切都和过去不一样了。</p>\n  <p>“我们正在投入大量资源扩充团队。”Cervantes说，<strong>团队规模“超过翻倍”。</strong>更大的变化在职能上：团队补充了过去没有的能力和岗位，从材料、面料的选择到廓形设计、产品线搭建，都在上海完成。</p>\n  <p>速度也变了。据《华尔街日报》，耐克一款新品从开发到上市，通常需要约18个月，一些鞋类的开发周期还要更长。但首批本土源创系列只用了122天，Cervantes说，这“很可能是耐克有史以来最快的系列”。<strong>至于往后的节奏，她不愿剧透，只说一年推出的系列“不止三次”。</strong></p>\n  <p>首批系列分为Nike 流形系列和Jordan立势系列两条线，只有服装。设计以纯色为主，靠廓形、剪裁和叠穿说话，比耐克过去带中式元素的产品克制得多：一套裙裤可拆可叠，有三种穿法；部分外套采用三合一设计，应付换季和不同场合。团队还为中国市场开发了五种新面料。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261108/v2_972047ceae864d4f9e195c910bf3beb2@5922386_oswg164091oswg1500oswg900_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">耐克在本届进博会上展示第一季本土源创系列｜来源：品牌</p>\n  <p>首批产品偏向生活方式，这也恰恰是运动鞋服里最受潮流左右、也最容易陷入折扣的品类。Cervantes表示，后续将扩展到专业运动，并做到“从头到脚”统一设计，鞋类也会加入。</p>\n  <p>“我们说快速推出新品，不是为了追潮流，也不是为了快而快。”在Cervantes看来，追上潮流只是第一步，持续交付好产品、让年轻人“一再回到我们这里”，才是耐克的目的。<strong>为此，团队也在摸索：属于中国市场的产品“一致性”是什么。</strong></p>\n  <p>所谓一致性，即是让消费者在看到logo之前就认出你。1982年，Bruce Kilgore设计的Air Force 1作为篮球鞋问世，按惯例一两季后就会停产；巴尔的摩三家零售商不断向耐克求货，这双鞋才在1984年重回货架。此后四十年，耐克几乎没动过它的鞋型，只是一年年地换配色、做联名，把一双白色AF1做成了街头的基本款。</p>\n  <p>1987年，建筑系出身的Tinker Hatfield受巴黎蓬皮杜中心外露结构的启发，在Air Max 1的中底开了一扇窗，让气垫“被看见”；此后Air Max家族一代代改款，那扇窗始终都在。这些鞋没有去追潮流，但最后潮流总是能够回到它们身上。</p>\n  <p>而经典最初的生命力，往往来自离消费者最近的地方。AF1当年能够回到货架，靠的不是总部的判断，是巴尔的摩街头的需求。Cervantes的团队也想从这里起步：团队成员的爱好本身就是素材库，有同事参加越野跑和徒步群，有不少跑者，也有人本身就是艺术家和创作者。她来中国两个月，对小红书上消费者拆解产品、讨论细节的专业程度印象深刻。</p>\n  <p>“我们真正想做到的，是看到自己的产品也能被这样审视和展示：它们能解决问题，搭配得当，并带有只有耐克才能提供的创新。”</p>\n  <p>首批源创系列以限量形式只在部分线下门店发售。被问及是否会像ACG那样开设专门门店，Cervantes表示本土源创系列将是耐克零售新概念的重要组成部分，也没有透露线上安排。</p>\n  <p>不过，据我们了解，耐克未来很长一段时间都将以线下为重心，目的是重塑品牌的高端形象。从2027年1月1日起，滔搏、宝胜在电商平台上经营的耐克线上店铺也将停止运营。</p>\n  <p>“但我们最想要的，是这种面对面的体验，让消费者亲眼看到、亲手感受我们做了哪些不一样的事。”Cervantes最后说。</p>",
-      "category": "tech",
-      "published_at": "2026-11-09T02:39:59+00:00",
-      "fetched_at": "2026-11-09T04:20:06.927139+00:00",
-      "fingerprint": "61cefff3f28a94c0"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "「国家队」的作业不好抄",
-      "url": "https://36kr.com/p/4061923101660041?f=rss",
-      "summary": "<p>作者&nbsp;|&nbsp;黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>时隔两年，A股投资者又听到了一个熟悉的声音：“924又来了？”</p>\n  <p>11月2日，央行、金融监管总局和证监会再度联手，推出了一系列稳定资本市场的政策举措：包括开展新一轮证券、基金、保险公司互换便利操作，将股票回购增持再贷款转为长期制度性安排，并将再贷款利率由1.25%降至1%。</p>\n  <p>与此同时，证监会宣布拟优化上市公司股份回购规则，进一步放宽回购条件，并推动新募集的18只主动ETF加快建仓，为市场提供增量资金支持。中国国新、中国诚通等“国家队”资金的投资动向也再次引发市场关注，由此进一步强化了投资者对“国家队”在市场低迷时期入场的预期。</p>\n  <p>更为关键的是，上述举措很容易让投资者联想到2024年9月24日的那场政策发布会。当时，央行行长潘功胜在介绍首期5000亿元互换便利工具时明确表示，如果实施效果良好，还可以再来5000亿元，甚至第三个5000亿元。这番近乎“弹药无限”的表态，极大提振了投资者信心，随后A股开启了一轮迅猛上涨，由此诞生了令人印象深刻的“924行情”。</p>\n  <p>不过，与当时的政策力度相比，本轮央行的表述明显更加温和，政策重心更多落在现有工具的优化和落实上。11月3日，央行开展了1000亿元互换便利操作，政策支持依然明确，但节奏相对克制。某种程度上，经历了上一轮市场短时间内的大幅上涨，管理层或许也更加重视市场修复的节奏，在稳定投资者信心的同时，又要避免短期的情绪过热。</p>\n  <p>那么，国家队的入场是否意味着A股已经触底了呢？这次“924行情”还能重演吗？</p>\n  <h2><strong>历史复盘：国家队的抄底表现如何？</strong></h2>\n  <p>在过去近20年中，中央汇金、证金公司等“国家队”资金已经多次在A股市场大幅调整期间入场。从历史表现来看，国家队的买入时点往往接近市场的阶段性底部，而且随着国家队资金的进场，A股在多数情况下均有不同程度的反弹。虽说国家队不是每次都能够精准的抄到最低点，但中长期表现已然证明其具备极强的择时能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_43b77ce8b8d04af4a3d0ff2c772758df@5426566_oswg436302oswg1080oswg528_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：近二十年国家队入场与A股大盘表现；资料来源：华西证券，36氪</p>\n  <p>2008年，全球金融危机持续蔓延，A股大盘在经历近一年的大幅下跌后，市场情绪已经极度低迷。同年9月，中央汇金宣布增持工商银行、中国银行和建设银行，并承诺未来一年继续增持。</p>\n  <p>此后，上证指数继续下探，并于10月末触及1665点的阶段性低位；随着国内货币政策转向宽松，叠加四万亿投资计划的刺激，以及全球金融市场逐步恢复稳定，A股则开启了一轮大幅反弹。至2009年8月，上证指数最高回升至盘中3478点，较前期低点累计上涨超100%。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_fc484e6d4a1f46909c9b8baff1d708fc@5426566_oswg249388oswg1080oswg793_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：上证指数2008~2010年间表现；资料来源：wind，36氪</p>\n  <p>2011年至2013年，A股又经历了一轮持续时间较长的市场调整。</p>\n  <p>在此期间，面对经济增长放缓的压力、货币政策转向紧缩及欧债危机的冲击，中央汇金于2011年10月宣布增持工、农、中、建四大行股票；2012年10月，汇金再次宣布增持四大行，并承诺未来六个月还将继续买入。不过，这两次增持均未能立即扭转市场下跌的趋势，直到2012年12月，上证指数才出现一轮阶段性反弹，但力度相对有限。</p>\n  <p>2013年6月，国内市场流动性骤然收紧，A股则出现了大幅度的下跌调整，汇金公司于6月下旬宣布增持银行股和保险股。在国家队下场的同时，市场资金面紧张的局面也逐步缓解，上证指数在1849点（6月25日）附近见底，随后开启一轮V字型反弹，到当年9月的阶段性高点，指数累计上涨15%。</p>\n  <p><strong>2015年的股灾可以说是国家队大规模入场最具代表性的案例。</strong></p>\n  <p>同年6月，上证指数在站上5178点历史阶段性高点后迅速下跌，投资者恐慌情绪快速蔓延，集中抛售引发市场踩踏。汇金公司于7月宣布已在二级市场买入相关ETF产品，并将继续相关操作，证金公司等机构也相继采取稳定市场的措施。</p>\n  <p>国家队入场后A股并未立即终结下跌，而且还在当年8月再次出现大幅调整，直到2016年1月才真正触底。随着持续的去杠杆，市场流动性压力明显缓解，A股才逐渐恢复稳定；从大盘指数开始反攻，至2018年1月下旬的阶段性高点，上证指数从2016年初低点累计反弹约34%。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_ef4ce6fcb1ec4bea91aaa3e0957017ee@5426566_oswg254969oswg1080oswg793_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图：上证指数2015~2018年间表现；资料来源：wind，36氪</p>\n  <p>最近一轮典型的国家队入场发生在2023~2024年间。2023年10月，汇金公司宣布增持四大行，并计划未来六个月继续增持。2024年2月，汇金公司进一步宣布扩大ETF增持范围，加大增持力度。彼时，A股已经经历了长时间的调整，市场估值和投资者情绪均处于近10年的低位。此后，上证指数从2024年2月~5月间有一轮小幅反弹。</p>\n  <p>尽管市场随后再度调整，但在9月24日，央行、金融监管总局和证监会联合推出一揽子金融政策，市场对流动性环境和经济前景的预期明显改善，投资者信心迅速恢复，推动A股迎来一轮快速上涨。至10月8日，上证指数盘中最高触及3674点，较9月低点累计反弹36%，成交额也在当时刷新历史新高。</p>\n  <p>从国家队历次入场的时机来看，虽然未必是抄在市场的最低点，但大多处于A股深度调整、投资者情绪极度低迷的阶段，即便入场后大盘还会继续下探，随着市场环境的逐步改善，后续往往能够迎来一轮较为可观的反弹。<strong>由此可见，国家队的抄底能力主要体现在能够把握市场深度调整带来的投资机会，并具备承受大幅波动的能力。</strong></p>\n  <h2><strong>02 国家队的优势：买得低，也拿得住</strong></h2>\n  <p><strong>首先，市场深度调整往往伴随着非理性抛售，为国家队提供了合理的买入机会。</strong></p>\n  <p>在A股深度调整的后期，市场往往会出现超出基本面变化的恐慌性抛售，资产价格下跌加重投资者焦虑，止损与杠杆平仓又推动价格继续下行，由此形成负反馈循环，2015年股灾便是如此。</p>\n  <p>在上述交易环境中，市场估值整体被快速压缩，并存在大面积错杀的情况。国家队恰恰在情绪最为恐慌、风险溢价较高的时候为市场提供买盘，因此期间整体的持有成本相对较低。随着政策、流动性等利好的持续释放，被动抛售减弱、市场预期改善，前期过度压缩的估值便具备了修复空间。</p>\n  <p>国家队历次抄底的操作，恰恰体现了巴菲特那句经典的投资理念：“在别人贪婪时恐惧，在别人恐惧时贪婪。”</p>\n  <p><strong>其次，国家队更突出的优势在于长期持有能力，这也是普通投资者最难复制的核心点。</strong></p>\n  <p>跌多了会反弹可以说是常识，而真正困难的是在买入后承受继续下跌的痛苦。即便估值已经足够便宜，但投资者还是会受到浮亏、仓位约束、杠杆、情绪压力等因素的影响，特别是在持续下跌且无重大利好，反弹看似遥遥无期的时刻，投资者很容易怀疑当初的判断。</p>\n  <p>再看国家队，不仅承担稳定市场的政策职能，能够在市场波动较大时保持持续投资，负债端相对稳定。即使入场后出现浮亏，国家队的定力也使其具备跨越较长周期的能力。2015年7月国家队入场后，市场又经历两轮深跌，正好说明与买到最低点相比，是否拥有足够的资金和定力更为重要。</p>\n  <p><strong>第三，国家队入场往往与政策环境的改善相互配合，进一步提高了市场反弹的可能性。</strong></p>\n  <p>国家队直接买入股票或ETF，主要意在承接抛盘、缓解短期流动性压力，并向市场释放稳定市场的政策信号。但是根据历史经验，市场反弹往往需要重大利好的持续释放，这些利好主要分为以下三类：</p>\n  <p>1.流动性改善，典型如2008年的降息降准、2015年后杠杆压力逐步缓解；</p>\n  <p>2.政策支持，如2008年的大规模投资计划、2024年9月的政策组合拳；</p>\n  <p>3.外部环境缓和，如2008年全球金融危机后的风险偏好修复。</p>\n  <p>从节奏来看，国家队作为稳定市场的政策工具，进场通常在市场需要支撑的时候，而上述利好则往往在国家队入场后逐步显现。从2008年汇金宣布增持到2009年市场反弹，从2024年2月扩大ETF增持规模到9月政策转向，都能看到这种先进场稳定市场、再等待利好释放的过程。</p>\n  <p><strong>国家队凭借稳定的资金来源和较强的持有能力，能够承受政策见效前的市场波动，并静待市场反弹带来的投资回报。</strong></p>\n  <p>所以，国家队入场为投资者提供了重要的投资信号，而真正决定反弹力度和持续性的关键因子，是流动性、政策面和基本面的改善预期。因此，国家队抄底最值得普通投资者借鉴的，或许就在市场极度恐慌时，为自己的判断留出足够长的兑现时间，较强的定力才能让这份潜在回报有机会转化为最终的投资收益。</p>\n  <p>*免责声明：</p>\n  <p>本文内容仅代表作者看法。</p>\n  <p>市场有风险，投资需谨慎。在任何情况下，本文中的信息或所表述的意见均不构成对任何人的投资建议。在决定投资前，如有需要，投资者务必向专业人士咨询并谨慎决策。我们无意为交易各方提供承销服务或任何需持有特定资质或牌照方可从事的服务。</p>",
-      "category": "tech",
-      "published_at": "2026-11-09T02:44:37+00:00",
-      "fetched_at": "2026-11-09T04:20:06.927124+00:00",
-      "fingerprint": "ee67ab4851e6c05c"
-    },
-    {
-      "source": "少数派",
-      "title": "苹果产品那些不够颠覆，却值得被学习的细节",
-      "url": "https://sspai.com/post/118114",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118114\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-08T03:18:54+00:00",
-      "fetched_at": "2026-11-09T04:20:05.559257+00:00",
-      "fingerprint": "543d4ee10b08d01c"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：特斯拉将停产 Cybertruck",
-      "url": "https://sspai.com/post/118805",
-      "summary": "<p>特斯拉将停产 Cybertruck</p><p>深圳在 APEC 前夕整顿非法市场</p><p>美国数据中心股持续遭抛售，大量建设项目被取消</p><p>京津冀三地消协组织敦促航司、平台规范机票退改签</p><p>FBI 警告冰柜网络安全攻击风险</p><p>广电总局部署开展新一轮微短剧专项治理工作</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/118805\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-08T22:41:56+00:00",
-      "fetched_at": "2026-11-09T04:20:05.559250+00:00",
-      "fingerprint": "8f86ea1ee9c83da8"
-    },
-    {
-      "source": "少数派",
-      "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
-      "url": "https://sspai.com/post/118612",
-      "summary": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...<a href=\"https://sspai.com/post/118612\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-09T03:00:00+00:00",
-      "fetched_at": "2026-11-09T04:20:05.559238+00:00",
-      "fingerprint": "94b9dcd67d0bf1c3"
     }
   ]
 }
