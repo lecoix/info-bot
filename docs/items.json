@@ -1,7 +1,317 @@
 {
-  "updated_at": "2026-11-16T04:29:17.656099+00:00",
-  "count": 178,
+  "updated_at": "2026-11-17T06:14:45.338792+00:00",
+  "count": 181,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
+      "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
+      "summary": "<p>Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human</p><p>The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people opposed to their capture, which officials argue is necessary to stop human-wildlife conflict in the city.</p><p>The 44-member Waterfall troop (named after the area they mainly inhabit) was captured in the southern seaside suburb of Simon’s Town on Friday and Saturday. A second, smaller Seaforth troop is also due to be moved.</p> <a href=\"https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-11-16T10:19:08+00:00",
+      "fetched_at": "2026-11-17T06:14:45.335155+00:00",
+      "fingerprint": "b07bfa65b9f5c89d"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
+      "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
+      "summary": "<ul><li><p>Suspect named as Greene Da’monte Khiree</p></li><li><p>Drug smuggling carries life sentence in Nigeria</p></li></ul><p>An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country.</p><p>Nigeria’s National Drug Law Enforcement Agency (NDLEA) said a 28-year-old player named as Greene Da’monte Khiree from the state of Georgia was arrested at Lagos’s main airport last Wednesday after he arrived on a flight from Thailand via the United Arab Emirates.</p> <a href=\"https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-11-16T13:16:36+00:00",
+      "fetched_at": "2026-11-17T06:14:45.335150+00:00",
+      "fingerprint": "9392df1faac827c5"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "summary": "<p>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’</p><p>Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.</p><p>The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s <a href=\"https://www.theguardian.com/world/2026/mar/26/meps-back-plans-for-return-hubs-raising-fears-of-human-rights-black-holes\">newly agreed returns law</a> that allows<em> </em>people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country.</p> <a href=\"https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-11-17T01:10:59+00:00",
+      "fetched_at": "2026-11-17T06:14:45.335141+00:00",
+      "fingerprint": "8a89a626759eac45"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "category": "politics",
+      "published_at": "2026-11-17T02:37:53+00:00",
+      "fetched_at": "2026-11-17T06:14:45.211208+00:00",
+      "fingerprint": "4dfe5806c8eee85f"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "category": "politics",
+      "published_at": "2026-11-17T01:26:01+00:00",
+      "fetched_at": "2026-11-17T06:14:45.211204+00:00",
+      "fingerprint": "5247aaf3360071f2"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "category": "politics",
+      "published_at": "2026-11-17T05:59:01+00:00",
+      "fetched_at": "2026-11-17T06:14:45.211198+00:00",
+      "fingerprint": "15833b015bab4adc"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "category": "politics",
+      "published_at": "2026-11-17T05:57:38+00:00",
+      "fetched_at": "2026-11-17T06:14:45.211188+00:00",
+      "fingerprint": "09543f7a2b137148"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。",
+      "category": "politics",
+      "published_at": "2026-11-16T09:03:22+00:00",
+      "fetched_at": "2026-11-17T06:14:45.126947+00:00",
+      "fingerprint": "590a4fb678250791"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
+      "url": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "一些俄羅斯富豪渴望回到90年代的寡頭政治體制，當時商人掌握著權力。",
+      "category": "politics",
+      "published_at": "2026-11-17T00:34:50+00:00",
+      "fetched_at": "2026-11-17T06:14:45.126938+00:00",
+      "fingerprint": "03b72699647d9a93"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "「讓黃仁勳回歸」運動：輝達駁斥、特朗普支持恢復其CEO職位",
+      "url": "https://www.bbc.com/zhongwen/articles/ck3rgq3l5yr1o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "多位科技業領袖表態支持一項行動，要求這家AI晶片龍頭讓黃仁勳重返執行長職位。",
+      "category": "politics",
+      "published_at": "2026-11-17T05:44:23+00:00",
+      "fetched_at": "2026-11-17T06:14:45.126912+00:00",
+      "fingerprint": "b27dc602b96ebeda"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
+      "url": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "當世界領導人本週齊聚深圳，他們將看到一座代表中國未來的科技之城：機器人、AI、摩天大樓，處處展現蓬勃的創新活力。但這很可能只是故事的一半：因為峰會停工的建築工人、為生計奔波的零工群體，對未來有著不同的想像。",
+      "category": "politics",
+      "published_at": "2026-11-17T02:09:22+00:00",
+      "fetched_at": "2026-11-17T06:14:45.126907+00:00",
+      "fingerprint": "f950e1856ef91ab3"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。",
+      "category": "politics",
+      "published_at": "2026-11-17T05:49:26+00:00",
+      "fetched_at": "2026-11-17T06:14:45.126897+00:00",
+      "fingerprint": "e7277c3449b71617"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Test/verification technique effectiveness with Astra",
+      "url": "https://danluu.com/astra-testing/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-17T06:14:44.667120+00:00",
+      "fingerprint": "254d845fc8e9f80e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-17T06:14:44.667020+00:00",
+      "fingerprint": "8940dcdaa2ee7385"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-17T06:14:44.666889+00:00",
+      "fingerprint": "be34d4a6cb91c077"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-17T06:14:44.666776+00:00",
+      "fingerprint": "d4515e27dcb7f192"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-17T06:14:44.666644+00:00",
+      "fingerprint": "ddde1161b716eb7e"
+    },
+    {
+      "source": "The Verge",
+      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony \"Tony Huge\" Hughes launching YouTube channels over a decade [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-16T21:41:57+00:00",
+      "fetched_at": "2026-11-17T06:14:44.282354+00:00",
+      "fingerprint": "a27a4257daf04b16"
+    },
+    {
+      "source": "The Verge",
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-16T22:54:59+00:00",
+      "fetched_at": "2026-11-17T06:14:44.282349+00:00",
+      "fingerprint": "4af98b7e3bf90778"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-16T23:17:34+00:00",
+      "fetched_at": "2026-11-17T06:14:44.282343+00:00",
+      "fingerprint": "ae3d9685f670ac12"
+    },
+    {
+      "source": "The Verge",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-16T23:35:58+00:00",
+      "fetched_at": "2026-11-17T06:14:44.282333+00:00",
+      "fingerprint": "e242ad74e03e30b6"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "AI时代，TCL华星开始重新理解一块好屏",
+      "url": "https://36kr.com/p/4071761698263939?f=rss",
+      "summary": "<p>当AI进入电脑，连屏幕的长宽比都可能发生变化。</p>\n  <p>在TCL科技集团高级副总裁、TCL华星首席执行官赵军看来，当用户需要与智能体对话，额外的显示面积就可能成为新需求。这也是TCL华星布局超宽屏的一个出发点。</p>\n  <p>这个细节揭示了显示产业正在面对的变化：AI终端的交互方式，会影响屏幕的尺寸、形态与技术选择，显示企业需要更早理解终端如何使用。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261116/v2_6485738fca564e3c9007b108b33e7123@430412560_oswg16896534oswg8256oswg5504_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>11月13日，TCL华星全球显示生态大会在武汉举行。从大会和群访，可以看到TCL华星的两条探索路径：通过显示技术适配AI终端，以及把AI引入屏幕的研发制造。其实两者最终指向同一个问题——AI时代，显示企业应该承担怎样的新角色？</p>\n  <h3>从交付规格到理解体验</h3>\n  <p>过去，面板企业通常根据客户提出的规格开发产品。赵军认为，随着AI终端发生变化，显示企业需要更前瞻地判断终端形态、应用场景和需求，提前做好技术与产品准备。</p>\n  <p>“去开发一块好屏在AI系统中的体验和扮演的角色”，是他对这一变化的概括。</p>\n  <p>这意味着，面板企业参与产品创新的位置有望前移。屏幕多宽、如何交互、功耗多高，需要放进终端的使用场景中一起考虑。</p>\n  <p>不同终端也会带来不同的技术需求。按照赵军的判断，传统PC增加AI能力，会提高对交互和低功耗的要求；带屏AI眼镜则可能需要硅基MicroLED等新的显示技术。超宽屏布局更多是基于成熟的LCD、OLED技术，对产品形态进行调整。</p>\n  <p>印刷OLED则是TCL华星面向中尺寸市场的重要技术准备。公司此次展示的14英寸印刷OLED超轻薄低反笔电显示，据披露厚度小于0.66毫米、重量不足66克，为轻薄终端提供了新的屏幕选择。联想、微星等品牌的印刷OLED终端产品，也出现在大会披露的合作成果中。</p>\n  <p>技术储备正在向产业化推进。按照公司计划，8.6代印刷OLED产线t8已于10月31日搬入设备，预计2027年第四季度量产出货。</p>\n  <p>从这一布局看，面板厂需要把对终端的理解，落实为不同的技术和产品组合。AI带来的机会，也藏在这些具体选择中。</p>\n  <h3>让AI走进屏幕研发</h3>\n  <p>终端需求发生变化，研发方式也要跟上。TCL华星正在尝试让AI参与从理解客户需求到形成设计方案的工程过程。</p>\n  <p>这项工作首先面对的是一个具体问题：客户提出的要求，并不总能直接变成工程师可用的设计指引。部分需求可能不完整，也可能存在模糊表述，需要进一步识别、整理和转化。</p>\n  <p>据赵军介绍，TCL华星开发的智能体已能识别这些规格和要求，将其转化为内部标准化设计指引，这一环节的准确率已超过90%。公司还在将AI、智能体与数十种专业软件结合，推进自动化设计。</p>\n  <p>本次大会发布的“显示研发设计全流程硅基员工”，则融合大模型、多智能体与工程工具，覆盖方案策划、设计、仿真、验证及品质管理等环节。此前发布的星智垂域大模型，为公司在显示领域应用AI提供支撑。</p>\n  <p>这条路径的价值，在于把客户的语言、显示行业的知识和工程工具连接起来。模型对需求的理解，需要通过设计、仿真与验证，逐步转化为可以执行的工程方案。</p>\n  <p>赵军表示，公司下一阶段希望进一步打通产品设计开发与生产制造，目前这一衔接仍处于探索阶段。其目标，是让AI参与更完整的产品实现过程。</p>\n  <p>TCL科技集团首席执行官王成在大会上说：“把产业经验与AI能力融合，让技术进步转化为研发、制造和经营效率。”对于工业AI，这也给出了一个具体方向：让模型进入企业已有的工程流程，在真实任务中发挥作用。</p>\n  <h3>显示制造能力的新去向</h3>\n  <p>AI也让TCL华星开始重新审视，显示制造积累的能力还能用在哪里。</p>\n  <p>玻璃基封装是公司正在探索的方向。按照赵军的介绍，这项布局面向AI基础设施，依托的能力包括在大尺寸玻璃上进行微米级加工、布线，以及控制平整度。这些都来自过去的半导体显示制造经验，同时也涉及玻璃打孔等新能力。</p>\n  <p>这为理解显示企业参与AI产业提供了另一个视角：新业务的起点，可能就藏在既有产线积累的工艺和工程经验里。如何把这些经验带入新的应用，会影响企业在AI产业链中的位置。</p>\n  <p>从理解AI终端，到用AI组织研发，再到探索基础设施，TCL华星正在把显示技术与AI产业连接得更深。对于显示企业，新的机会来自更早参与需求定义，也来自把长期积累的产业经验，转化为开发下一代产品的能力。</p>",
+      "category": "tech",
+      "published_at": "2026-11-16T12:19:55+00:00",
+      "fetched_at": "2026-11-17T06:14:44.164569+00:00",
+      "fingerprint": "b0978f9ba2a409e9"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "8点1氪丨DeepSeek因算力不足限额；英伟达董事会没考虑让黄仁勋回公司担任CEO；AI演员代言美瞳广告被罚6.82万",
+      "url": "https://36kr.com/p/4073099271230601?f=rss",
+      "summary": "<h2>今日热点导览</h2>\n  <p>阿里正式发布Qwen4，智能体及编程能力进阶</p>\n  <p>金饰价格连跌5个交易日，盘中跌破3900美元/盎司</p>\n  <p>三星将为SpaceX生产卫星芯片，目标2030年投入运行</p>\n  <p>大麦娱乐：因专注发展个人事业，樊路远辞任董事会主席及首席执行官</p>\n  <p>英伟达AI算力合约份额下跌，英伟达GPU占比仅39%</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>因算力不足，DeepSeek对App/网页版限额使用</strong></p>\n  <p>DeepSeek对App/网页版的长对话进行了限额使用。多名用户反馈，DeepSeek提示因“算力不足，不再支持超过7天不活跃的长对话”，并对单次输入文字的上限进行了调整，缩短至4万字左右。此外，还会限制每日的对话额度，当用户日使用量达到上限时，会提示“因服务器繁忙，使用额度已达上限。”</p>\n  <p>此次限额是DeepSeek近期算力紧张状态的延续。据DeepSeek官方状态页记录，2026年10月以来平台已发生8起服务中断，涉及对话服务及V4 Pro、V4.1 Flash的API。8月至10月，V4.1Flash API的可用性为99.46%，折算下来全年约有47.3小时不可用。(科创板日报、IT之家)</p>\n  <p><strong>英伟达董事会，不考虑让黄仁勋重任CEO</strong></p>\n  <p>据报道，知情人士称，英伟达董事会没有在考虑让黄仁勋回公司担任CEO。董事会目前专注于调查，并未讨论让黄仁勋回归。(财联社)</p>\n  <p><strong>AI演员方桃子代言美瞳广告，被罚6.82万</strong></p>\n  <p>11月16日，记者从“信用广东”获悉，因在未取得医疗审查证明的情况下发布美瞳广告，且虚构产品使用效果，虚拟人物“方桃子”的运营方广州我的影视文化传媒有限公司被广州市番禺区市场监管局罚款68288元。</p>\n  <p>视频发布时间为8月3日至8月5日，视频中虚拟人物“方桃子”宣称”我的美瞳戴了一天，都很舒服”“因为这个美瞳做了高光定轴，可以放心眨眼”等主观体验感受。市场监管部门认定，当事人虚构使用产品效果，发布虚假广告。</p>\n  <p>据悉，AI短剧《被裁掉的女孩》虚拟女主“方桃子”出道仅30天，吸粉超40万。其账号1-20秒视频的报价为16.8万元，21-60秒视频的报价为20.8万元，60S以上视频的报价为25.8万元，超过大批百万乃至千万粉丝真人博主。（北京日报、澎湃新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>阿里正式发布Qwen4，智能体及编程能力进阶</strong></p>\n  <p>36氪获悉，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化。Qwen4面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务。Qwen4-Max现已上线千问AI平台对外提供API服务，缓存命中每百万Tokens低至0.5元，完成单任务的平均费用较上代模型大降6成；用户也可通过阿里Token Plan调用新模型，或在千问办公、Qoder、千问App等应用中直接体验。</p>\n  <p><strong>腾讯混元Hy4 flash发布，任务速度大幅提升</strong></p>\n  <p>36氪获悉，11月16日，腾讯混元最新语言模型Hy4 flash发布，模型总参数量为224B（其中64B Engram参数），激活参数仅为12B，支持多模态和1M上下文长度。Hy4 flash每百万Token输入0.5元、输出2元，命中缓存时仅需0.02元，价格相比Hy4大幅降低。</p>\n  <p><strong>华为云发布并开源昇腾原生具身世界模型</strong></p>\n  <p>36氪获悉，华为云“行业AI梦工厂”11月16日发布昇腾原生具身世界模型CloudRobo-WM1.2，并宣布开源。该模型采用共享世界模型骨干网络实现预测增强的世界表征，基于世界模型原生DualAct架构，实现了世界模型原生动作生成，在RoboTwin 2.0、LiberoPro 2.0两个评测基准中均排名第一。</p>\n  <p><strong>豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景</strong></p>\n  <p>36氪获悉，近日，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，让AI办公进一步走向职业化。据悉，这也是业内首个面向多个专业场景、不同职业人群定制的AI工作台功能。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>英伟达推出面向高性能计算的Vera CPU机架级平台</strong></p>\n  <p>英伟达宣布推出面向高性能计算的Vera CPU机架级平台。Vera为智能体科学带来更高性能，能效比x86 CPU提升一倍。完整的Vera CPU平台将由戴尔科技、HPE、联想和Supermicro提供。（财联社）</p>\n  <p><strong>英特尔单日暴跌近30%遭股东起诉，被指控隐瞒PC销售长期放缓所带来的影响</strong></p>\n  <p>美国芯片巨头英特尔遭股东提起诉讼。这些股东指控其隐瞒了个人电脑（PC）销售长期放缓所带来的影响，从而对他们构成欺诈。PC销售放缓近期曾导致该公司股价单日暴跌约29%。这起诉讼发生在英特尔股价大幅下跌之后。10月30日，英特尔股价单日下跌28.6%，市值蒸发约1400亿美元。而在10月29日，英特尔公布了第三季度财报，并给出低于市场预期的第四季度业绩指引，同时警告PC市场疲软至少将持续至2027年上半年。 原告将诉讼矛头指向英特尔7月23日至10月29日期间的信息披露，认为公司管理层没有充分披露PC需求放缓和库存积压对经营业绩的影响，也没有充分说明公司在数据中心芯片需求增长背景下面临的供应限制。(财联社、第一财经)</p>\n  <p><strong>美国航班取消量超1.7万架次，美交通部长拒绝道歉</strong></p>\n  <p>据旅行应用程序Flighty称，周末美国发生的航空交通瘫痪事件，是35年来因技术问题导致航班取消数量最多的一次，超过了西南航空2022年的系统崩溃事件。据Flighty和Cirium等航空数据提供商称，周五长达四小时的全国性停飞令波及了美国所有航空公司，截至周日，航班取消数量已超过1.7万架次。这一数字超过了2022年冬季假期期间因西南航空技术故障导致的16900架次航班取消纪录。</p>\n  <p>当地时间11月15日，美国交通部长达菲在接受美国全国广播公司采访时表示，他不会为11月13日发生的全美航班地面停飞事件道歉。达菲称，虽然事情发生在他的任期内，但其根源是历史遗留问题。达菲称，无论是民主党还是共和党都对此事件负有责任，因为美国航空业的基础设施投资不足可追溯至二三十年前。（新浪财经、CCTV国际时讯）</p>\n  <p><strong>金饰价格连跌5个交易日，盘中跌破3900美元/盎司</strong></p>\n  <p>11月16日，国际金价盘中持续震荡，现货黄金由涨转跌，盘中跌破3900美元/盎司，截至发稿，跌超0.4%。</p>\n  <p>国内多家品牌金饰价格亦随之继续下调，已连跌5个交易日。其中，老凤祥报1163元/克，周生生、老庙黄金足金饰品均报1165元/克。若以周生生1月29日年内高点1708元/克计算，金饰克价回撤已超540元。记者按此估算，消费者若在年内高点入手50克金镯，截至目前已暴跌超27000元。(中新经纬、央视财经)</p>\n  <p><strong>三星将为SpaceX生产卫星芯片，目标2030年投入运行</strong></p>\n  <p>三星电子将扩建位于得克萨斯州奥斯汀的芯片工厂，为马斯克旗下太空企业SpaceX生产星链卫星搭载的STM32V8微控制器（MCU）。三星已经在得州布局晶圆代工基地，如今在原有客户（特斯拉、英伟达、AMD的AI芯片订单）之外新增SpaceX卫星芯片业务，其美国业务版图正快速拓展至航天与国防领域。</p>\n  <p>引援韩国《首尔经济日报》11月15日报道，三星计划为此将投资19亿美元扩产，目标在2030年投入运行。该芯片目前已用于星链低地球轨道卫星之间的微型激光链路系统。SpaceX星链工程副总裁迈克尔 · 尼科尔斯曾表示，STM32V8的高性能算力与大容量嵌入式存储器“对于满足严苛的实时处理需求至关重要”。现阶段STM32V8主要在意法半导体法国Crolles工厂以300毫米晶圆生产，三星晶圆代工亦有参与；奥斯汀扩产旨在将部分产能转移至美国本土。(环球市场播报、IT之家)</p>\n  <p><strong>苹果计划在2027年发布6款iPhone</strong></p>\n  <p>根据目前供应链消息及多方爆料，苹果计划从2027年开始进一步扩大iPhone的产品阵容，全年预计推出6款机型，并首次采用春季、秋季两波更新的策略。从中端到轻薄旗舰，再到高端折叠屏，苹果似乎准备彻底改变过去一年集中发布新品的节奏。</p>\n  <p>春季将率先推出三款新品，分别是iPhone 18e、iPhone 18和第二代iPhone Air。其中iPhone 18e定位是中端市场，iPhone 18负责覆盖主流消费者，iPhone Air 2则继续主打轻薄设计。秋季才是真正的重头戏。2027年恰逢iPhone诞生20周年，苹果据称准备跳过iPhone 19命名，直接推出iPhone 20系列，以周年旗舰的身份带来更大的设计变化，目前流传的升级方向包括四曲面屏幕、玻璃机身等。（快科技）</p>\n  <p><strong>韩国今年前10个月新能源汽车出口量超去年全年</strong></p>\n  <p>韩国产业通商部11月16日发布资料显示，韩国今年1至10月新能源汽车累计出口量达88.4407万辆，已超过去年全年水平（87.4万余辆）。具体来看，10月新能源汽车出口额同比增长49%，为31亿美元。其中，混动汽车同比增长53.1%，为20.6亿美元；电动汽车同比增长41.6%，为10.4亿美元。在新能源汽车的助推下，10月整体汽车出口额同比增长18.1%，为65.5亿美元，创下历年同期最高纪录。面向北美（33.8亿美元，同比增33.2%）和欧盟（11.8亿美元，同比增58.2%）市场的出口增势明显。（界面新闻）</p>\n  <p><strong>美的集团总市值逼近7000亿，时隔5年9个月再创新高</strong></p>\n  <p>11月16日，早盘美的集团涨超1%，股价刷新此前在2021年2月10日创出的历史高点，A+H股总市值逼近7000亿元。消息面上，从2026年3月起，截至10月31日，公司已回购1.45亿股（占总股本1.89%），且全部用于注销、减少注册资本。行情背后，刚刚披露完毕的2026年三季报展现出较强经营韧性，在国内消费需求承压背景下，公司利润实现稳健增长；海外OBM自有品牌、楼宇科技、机器人自动化以及算力液冷温控等新业务，成为资本市场重点关注的成长变量。</p>\n  <p>财报数据显示，2026年前三季度美的集团实现营业总收入3691亿元，归属于上市公司股东的净利润414亿元，同比增长9.3%，营收、净利润双双实现同比正增长。拆分季度数据看，第三季度单季归母净利润达149亿元，同比增幅超过25%。(财联社、金融界)</p>\n  <p><strong>巴菲特将6150股伯克希尔A类股转换为922.5万股B类股并捐赠给四家基金会</strong></p>\n  <p>11月16日消息，沃伦·巴菲特将把6150股伯克希尔哈撒韦A类股转换为922.5万股B类股，并捐赠给四家家族基金会。其中，苏珊·汤普森·巴菲特基金会将获369万股，谢伍德基金会、霍华德·G·巴菲特基金会和NoVo基金会各获184.5万股。捐赠完成后，巴菲特将持有18.214万股A类股和1162股B类股。巴菲特表示，计划将其持有的全部伯克希尔股票捐赠给这四家基金会，以逐年增加慈善拨款。（界面新闻）</p>\n  <p><strong>诺基亚等五家公司组建AI超级工厂联盟，拟在北欧和波罗的海地区建设跨国AI基础设施</strong></p>\n  <p>诺基亚、Nscale、Skeleton、Telia和Verda于11月16日宣布组建AI Gigafactory Northern（AIGF Northern）联盟，计划在北欧和波罗的海地区建设分布式AI超级工厂，为欧洲企业、研究机构及公共部门提供大规模AI计算、主权云、高速网络连接和低碳能源服务。（财联社）</p>\n  <p><strong>调查显示欧元区第四季度通胀率预计将升至4%</strong></p>\n  <p>一项调查显示，在10月价格涨幅是欧洲央行目标的两倍后，经济学家们纷纷上调预测，料今年最后一个季度欧元区通胀率将达到4%。根据11月6日至11日对19位经济学家进行的调查，他们对欧元区第四季度通胀率的预估中值从上月调查时的3.8%上调至4%。西班牙、意大利和法国的通胀预期也被上调，德国的预期则被下调。（新浪财经）</p>\n  <p><strong>工信部：对应付账款规模大、故意拉长账期或投诉较多的汽车企业，工业和信息化部将联合相关部门开展约谈并督促整改</strong></p>\n  <p>36氪获悉，工业和信息化部相关负责人就《关于开展汽车企业供应商账款支付调研评估工作的通知》作出回应。这位负责人说，按照要求，工业和信息化部将每年开展一次系统调研评估并公布评估结果，晒晒“成绩单”，鼓励先进典型，督促后进整改，推动塑造良好产业生态。对应付账款规模大、故意拉长账期或投诉较多的汽车企业，工业和信息化部将联合相关部门开展约谈并督促整改。希望通过上述举措，充分激发各方的积极性，共促产业高质量发展，不断提升产业链供应链韧性和安全水平，加快构建公平公正、诚实守信、互利共赢产业生态。</p>\n  <p><strong>大麦娱乐：因专注发展个人事业，樊路远辞任董事会主席及首席执行官</strong></p>\n  <p>36氪获悉，大麦娱乐发布公告，樊路远因专注发展个人事业，已辞任公司执行董事、董事会主席及首席执行官；委任徐宏为公司非执行董事及董事会主席，沈严为执行董事及联席总裁。徐宏自2022年4月起担任阿里巴巴集团首席财务官。他于2020年1月至2021年10月担任大麦娱乐（前称：阿里影业）非执行董事。沈严2016年加入阿里巴巴集团，于2021年出任优酷副总裁，2026年3月出任大麦演出总裁，负责大麦娱乐演出内容与科技业务板块。在此之前，沈严担任支付宝旗下O2O事业部的快速消费品板块总经理。</p>\n  <p><strong>英伟达机器人学习工程师辞职：黄仁勋离职让我格外失望</strong></p>\n  <p>英伟达机器人学习工程师戴士钦（Darrell Dai）近日发文，宣布将离开公司，称“黄仁勋离职让我格外失望”。</p>\n  <p>戴士钦认为，他在一切事情都没有得到充足解释的情况下，就不得不面对黄仁勋离职的现实。虽然他对黄仁勋的钦佩，并不意味着他可以不受审视。但英伟达的未来方向、企业文化以及那些真正承担具体工作的人将受到怎样的影响，目前对他来说仍不清楚。（IT之家）</p>\n  <p><strong>美股三大指数集体收跌，大型科技股集体走弱</strong></p>\n  <p>36氪获悉，11月16日收盘，美股三大指数集体下跌，纳指跌2.49%，标普500跌1.92%，道指跌1.41%；大型科技股集体走弱，Lumentum跌超8%，美光科技、英特尔跌超7%，英伟达、谷歌跌超4%，亚马逊跌超3%，Meta、特斯拉跌超2%，微软跌超1%，苹果小幅下跌；热门中概股多数下跌，蔚来跌超6%，百度跌超5%，哔哩哔哩跌超4%，阿里巴巴跌超3%，拼多多、京东跌超1%，理想汽车、网易小幅下跌，小鹏集团涨超3%。</p>\n  <p><strong>AMD完成对World Labs的收购，李飞飞出任执行副总裁兼首席科学家</strong></p>\n  <p>11月16日，AMD宣布完成对AI研究公司World Labs的收购，以增强其在AI模型领域的研发能力。World Labs专注于开发可创建和模拟交互式3D环境的AI模型，以及机器人学习与仿真技术。World Labs创始人李飞飞加入AMD，担任执行副总裁兼首席科学家，直接向AMD董事长兼首席执行官苏姿丰汇报。（界面新闻）</p>\n  <p><strong>白云山：子公司拟3.5亿港元认缴亚洲大健康基金有限合伙份额</strong></p>\n  <p>36氪获悉，白云山公告，公司全资子公司广药白云山香港有限公司拟出资3.50亿港元认缴沃博资本大健康有限合伙基金（简称“亚洲大健康基金”）有限合伙份额，占其募集完成后的比例为35%。亚洲大健康基金拟注册于中国香港，目标规模为10亿港元，重点投向医疗健康行业（包括但不限于医疗保健、生命科学及消费品行业）。</p>\n  <p><strong>涉17家重点车企：供应商账款支付情况调研评估将进行</strong></p>\n  <p>11月16日，从中国汽车工业协会获悉，协会将对17家重点汽车企业的供应商账款支付情况开展调研评估，推动汽车企业规范供应商账款支付。记者了解到，此次调研评估工作每年开展一次，采取“车企定期报送+样本供应商抽查”相结合的方式进行。汽车企业需于每年1月31日前报送上一年度账款支付情况报告，并于7月31日前报送当年上半年账款支付情况报告。同时，将从每家企业的供应商中随机抽取样本供应商，数量不少于15家，通过资料核查、现场调研等方式确认报送信息的真实性。评估内容包括企业账款支付管理制度和数字化系统建设情况；中小企业账款支付账期是否不超过60天、是否全部采用现金支付；非中小企业账款支付账期是否符合60天要求，以及现金和银行承兑汇票支付比例是否不低于80%等。(财联社)</p>\n  <p><strong>英伟达AI算力合约份额下跌，英伟达GPU占比仅39%</strong></p>\n  <p>11月16日，摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%。而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩。</p>\n  <p>越来越多评估观点认为，在创始人黄仁勋深陷婚外情风波、辞去首席执行官一职之后，一直主导AI生态的英伟达正迎来第一次真正考验。依托高利润率与强劲现金流，英伟达短期内大概率仍能维持领先地位；但随着主要客户分散芯片供应商，叠加美国政府正考虑收紧出口管制，其垄断地位或将受到冲击。(财联社)</p>\n  <h2>上市进行时</h2>\n  <p><strong>炎症疾病生物技术公司Rezera推迟在美2亿美元IPO</strong></p>\n  <p>开发口服NLRP3炎症抑制剂、管线已推进至III期临床的生物科技企业Rezera于近日表示将暂缓上市。该公司此前申报IPO，计划发行1670万股，发行区间11–13美元，募资2亿美元。药企葛兰素史克作为新投资方及其关联方，承诺最高认购2500万美元份额，占本次发行规模的13%。（财联社）</p>\n  <h2>大公司财报</h2>\n  <p><strong>爱奇艺：第三季度总收入60.1亿元，Non-GAAP运营利润2500万元</strong></p>\n  <p>36氪获悉，爱奇艺发布截至2026年9月30日未经审计的第三季度财报。三季度爱奇艺总收入60.1亿元。其中，会员服务收入39.7亿元，在线广告服务收入12.8亿元，内容发行收入4.0亿元，其他收入3.6亿元。Non-GAAP（非美国通用会计准则）下的运营利润为2500万元。</p>\n  <p><strong>百度：第三季度营收308亿元，AI云基础设施收入同比增长94%</strong></p>\n  <p>36氪获悉，百度发布2026年第三季度财报，财报显示，三季度百度实现营收308亿元；一般性业务收入250亿元，同比增长1%；AI业务收入132亿元，占百度一般性业务收入53%，已连续三季占比过半。报告期内，百度AI云基础设施收入82亿元，同比增长94%；AI应用收入26亿元；AI原生营销服务收入24亿元。</p>\n  <p><strong>小鹏集团：第三季度营收242.8亿元，同比增长19.1%</strong></p>\n  <p>36氪获悉，小鹏集团发布2026年第三季度财报，财报显示，小鹏集团三季度实现营收242.8亿元，同比增长19.1%；净亏损8.7亿元，上年同期净亏损3.8亿元。三季度汽车总交付量为118390辆，同比增加2.1%。对于2026年第四季度，公司预期汽车交付量将介乎169000至174000辆，按年增加约45.38%至49.68%，按季增加约42.75%至46.97%；总收入将介乎304亿元至318亿元，按年增加约36.61%至42.90%，按季增加约25.23%至30.99%。</p>\n  <p><strong>亚瑟士集团：前三季度净销售额达到8051亿日元，同比增长28.8%</strong></p>\n  <p>36氪获悉，亚瑟士集团公布2026年前三季度财务业绩。截至2026年9月30日的2026年前三季度财务数据，净销售额达到8051亿日元，同比增长28.8%（按汇率中性计算，同比增长19.2%）；营业利润达到1755亿日元，同比增长37.5%（按汇率中性计算，同比增长28.2%）；归母净利润达到1147亿日元，同比增长32.9%。</p>\n  <h2>酷产品</h2>\n  <p><strong>小马智行与丰田合作的第七代铂智4X Robotaxi启动示范运营</strong></p>\n  <p>36氪获悉，11月16日，小马智行与丰田合作研发并量产的第七代铂智4X Robotaxi在广州正式投入示范运营，面向公众开放L4级自动驾驶服务，成为双方七年自动驾驶合作的重要里程碑。该车搭载小马智行第七代车规级自动驾驶系统，采用丰田面向L4级自动驾驶设计的车辆平台与冗余化控制系统，可应对暴雨、夜间、拥堵等复杂场景。</p>\n  <p><strong>iPhone Duo 2原型机或有Face ID</strong></p>\n  <p>11月16日，据科技博主马克·古尔曼最新消息，苹果正在规划未来几代iPhone Duo折叠屏手机的升级方向，其中Face ID面容识别和操作按钮将成为优先推进的两项功能。不过，受研发进度影响，第二代机型能否搭载Face ID仍存在变数。</p>\n  <p>据悉，苹果工程师已经开发出搭载Face ID的iPhone Duo 2原型机，目前正在尝试将面容识别系统集成到手机外屏中。如果最终实现，用户无需展开手机，就能直接通过外屏完成面容解锁，体验看齐iPhone 18 Pro。（快科技）</p>\n  <h2>投融资</h2>\n  <p><strong>“英伟芯”完成累计数亿元多轮融资</strong></p>\n  <p>36氪获悉，近日，下一代高速光互连解决方案提供商“英伟芯”宣布，已分阶段完成Pre-A、Pre-A+系列融资，累计金额数亿元。其中，Pre-A轮融资由上海科创集团和上海未来产业基金领投，浦东创投旗下浦东天使基金参与跟投；Pre-A+轮由经纬创投和中金资本旗下基金领投，老股东持续加注。所募资金将重点用于硅光芯片、NPO/CPO/OIO光引擎的研发迭代、量产产品的批量交付、高端人才扩充以及头部客户导入，持续推进国产AI高速光互连产业链自主可控。</p>\n  <p><strong>“途深智合”完成Pre-A及Pre-A+轮数亿元融资，凯乘资本担任长期独家财务顾问</strong></p>\n  <p>近日，“途深智合”连续完成两轮合计数亿元 Pre-A 轮及 Pre-A+ 轮融资。Pre-A轮融资由上海科创集团领投、中生引领、舟山途毅等机构共同投资；Pre-A+轮融资由金鼎资本、镁伽科技、清科控股等机构联合投资。凯乘资本担任长期独家财务顾问。本轮融资所募资金将主要用于：加速自研管线推进，持续升级ToursynClaw一站式AI药物设计平台，加强团队运营与市场拓展。</p>\n  <p><strong>整理丨</strong>宋清瑜</p>",
+      "category": "tech",
+      "published_at": "2026-11-17T00:11:01+00:00",
+      "fetched_at": "2026-11-17T06:14:44.164564+00:00",
+      "fingerprint": "7c65d3ddcc5797d2"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪创意项目征集赛 · 第二期正式开启！",
+      "url": "https://36kr.com/p/4073250329318534?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261117/v2_a70284852a064a008e72a18aebb0789b@5284654_oswg1656416oswg1828oswg860_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">创意项目征集赛第二期正式开启！</p>\n  <p>36氪创意项目征集赛第二期正式启动！</p>\n  <p>本期继续面向不同领域、不同发展阶段的创业项目及创新创意开放征集，通过项目报道、公开展示和大众投票，让更多有价值的想法走到台前。</p>\n  <p>无论你正在打磨一款产品、探索一种新的商业模式，还是已经组建团队并开始落地实践，都可以来参与。</p>\n  <p>入选项目将有机会角逐「创意项目TOP10」，获得36氪专访、榜单推荐及多渠道曝光，让项目获得更多展示机会。</p>\n  <p>&nbsp;</p>\n  <h2><strong>一、什么样的项目值得报名？</strong></h2>\n  <p><strong>不设赛道限制，期待更多有意思的创意。</strong></p>\n  <p>无论是AI、机器人、硬科技、消费、企业服务、医疗健康，还是先进制造、出海等领域，只要有创新想法和实际探索，都欢迎报名。</p>\n  <p>本次活动不设融资阶段、企业规模及发展成果门槛。</p>\n  <p>已经成立公司的创业团队；</p>\n  <p>正在产品研发或市场验证的早期项目；</p>\n  <p>有明确创意、正在寻找落地机会的个人或团队。</p>\n  <p>我们希望看到不同阶段、不同方向的项目，也希望让更多尚未被广泛关注的创新想法获得展示机会。</p>\n  <p>&nbsp;</p>\n  <h2><strong>二、活动日程</strong></h2>\n  <p><strong>项目报名期：2026.11.17—2026.12.06</strong></p>\n  <p>开放项目报名，提交项目资料及报道申请，36氪将对报名项目进行审核。</p>\n  <p><strong>公开评选期：2026.12.07—2026.12.13</strong></p>\n  <p>通过审核并完成报道发布的项目进入公开展示及大众投票环节，参与本期「创意项目TOP10」评选。</p>\n  <p>&nbsp;</p>\n  <h2><strong>三、如何参与评选？</strong></h2>\n  <p>项目提交报道并通过审核后，将由36氪发布项目报道文章。</p>\n  <p>本期继续采用<strong>公开展示、大众投票</strong>的评选方式，最终根据各项目报道文章页底部的点赞量进行排名，确定本期获奖名单。</p>\n  <p><strong>项目审核与展示：</strong></p>\n  <p>工作人员将通过微信通知入选项目。所有通过审核并进入公开展示环节的项目，均可参与本期大众投票。</p>\n  <p><strong>大众投票：</strong></p>\n  <p>项目报道发布后，项目方可以邀请投资人、客户、朋友、创业者及其他关注项目的人参与点赞，让更多人了解项目，为认可的创意助力。</p>\n  <p><strong>排名与结果公布：</strong></p>\n  <p>投票截止后，根据各项目报道文章页底部的最终有效点赞量进行排名，并据此确定获奖名单。</p>\n  <p>最终产生本期「创意项目TOP10」。</p>\n  <p><strong>TOP1—TOP10项目均可获得对应的36氪项目推荐权益。</strong></p>\n  <p>&nbsp;</p>\n  <h2><strong>四、入选TOP10，能获得哪些资源？</strong></h2>\n  <p>本期奖项分为第1名、第2—3名、第4—10名三个梯队，根据最终排名匹配不同的项目推荐资源。</p>\n  <h3><strong>第1名</strong></h3>\n  <p>36氪项目推荐视频专访：围绕项目产品、团队及业务进展进行视频专访，并分发至36氪官网、抖音、小红书、B站、视频号等新媒体渠道。</p>\n  <p><strong>36氪项目推荐周榜单：</strong>「36氪项目新势榜」TOP1重点推荐，并在36氪官网、36氪项目推荐公众号等渠道获得榜单曝光。</p>\n  <p>项目宣发：36氪项目推荐公众号、36氪官网发文宣发大赛获奖项目，进行专题介绍及推广。</p>\n  <p>运营位曝光：36氪官网首页Banner曝光1天、PC首页信息流No.15位置曝光1天、APP项目推荐资讯页Banner曝光1天。</p>\n  <p><strong>36氪定制实物礼包：</strong>《新经济看36氪》书籍×1、《信号》书籍×1、36氪太空人勋章×1、36氪定制帆布袋×1。</p>\n  <h3><strong>第2—3名</strong></h3>\n  <p>36氪项目推荐视频专访：围绕项目产品、团队及业务进展进行视频专访，并分发至36氪官网、抖音、小红书、B站、视频号等新媒体渠道。</p>\n  <p><strong>36氪项目推荐周榜单：</strong>「36氪项目新势榜」重点推荐，并在36氪官网、36氪项目推荐公众号等渠道获得榜单曝光。</p>\n  <p>项目宣发：36氪项目推荐公众号、36氪官网发文宣发大赛获奖项目，进行专题介绍及推广。</p>\n  <p>运营位曝光：APP项目推荐资讯页Banner曝光1天。</p>\n  <p><strong>36氪定制实物礼包：</strong>《信号》书籍×1、36氪太空人勋章×1。</p>\n  <h3><strong>第4—10名</strong></h3>\n  <p><strong>36氪项目推荐周榜单：</strong>「36氪项目新势榜」重点推荐，并在36氪官网、36氪项目推荐公众号等渠道获得榜单曝光。</p>\n  <p>项目宣发：36氪项目推荐公众号、36氪官网发文宣发大赛获奖项目，进行专题介绍及推广。</p>\n  <p>实物奖励：36氪太空人勋章×1。</p>\n  <p>&nbsp;</p>\n  <h2><strong>五、如何报名参与？</strong></h2>\n  <p><strong>扫描下方二维码，提交项目报道申请。</strong></p>\n  <p>在活动报名期内，通过「36氪项目推荐」提交项目资料及报道申请即可参与。</p>\n  <p>提交项目报道后，36氪将对项目进行基础审核。工作人员会在3个工作日内添加报名时填写的微信（请确保提交的手机号可以顺利搜索到微信），并跟进后续报道事宜。</p>\n  <p><strong>项目报道正式发布后，即视为成功参与本期活动。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261117/v2_88be712f091843c9aa6e766a88ed5fda@5284654_oswg85954oswg570oswg219_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">扫码联系</p>\n  <p>&nbsp;</p>\n  <p><strong>第二期征集现已开启，期待看到更多有想法、有创意的项目。</strong></p>\n  <p>让好的创意不止停留在想法里，也让更多值得关注的项目，被更多人看见。</p>",
+      "category": "tech",
+      "published_at": "2026-11-17T02:55:16+00:00",
+      "fetched_at": "2026-11-17T06:14:44.164557+00:00",
+      "fingerprint": "90e39b171fc135d2"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发",
+      "url": "https://36kr.com/p/4072342767047814?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，AI Memory智能硬件公司「穗升科技」近日完成数千万元Pre-A轮融资，本轮由NexTide Capital、阿尔法公社投资。资金将重点投入长期记忆引擎、主动式Agent的体验优化，拓展家庭、团队场景，推进硬件量产交付，并搭建海外渠道、完善本地化交付能力。</p>\n  <p>穗升科技成立于2025年，旗下品牌Memoket以可穿戴硬件为入口，结合自研底层长记忆引擎，提供能够理解用户前情、主动与用户交互的Personal Agent。首款硬件Gem贴合用户现有佩戴习惯，可单独佩戴，也可以配件形式与智能手表搭配使用，无感收录现实对话，并支持在App、桌面端跨会话回溯、检索和调用信息。</p>\n  <p>该款产品在2026年9月开启量产，同步登陆美国亚马逊与品牌官网；10月进入日本市场，硬件销量及软件订阅收入均实现翻倍增长。</p>\n  <p>创始团队具备深厚的消费电子与AI产品操盘经验。创始人王时远为前安克创新全球CMO、中国区总裁，核心成员中包含3名连续创业者，曾任职于安克、字节、华为、腾讯及头部AI应用企业，能力覆盖大规模模型训练、AI应用产品定义、可穿戴硬件设计、供应链与全球商业化。部分成员已合作超过10年，在长期共事中形成了从底层技术到全球渠道的完整闭环能力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260626/v2_3cd8257ac8da4c6ebe702ec250e8635b@6022551_oswg530099oswg1080oswg568_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Memoket可穿戴硬件Gem（图源/企业）</p>\n  <p>AI硬件正处在从“记录”到“理解”的关键拐点。</p>\n  <p>过去，大量产品聚焦问答场景，硬件负责收音、软件生成总结，用户提问、Agent给出答案。这套模式在信息检索场景中成立，但在现实物理世界中，对话和决策是连续发生的。信息的价值往往并不在单次对话本身，而关乎它能否和数月前的口头约定、上周调整的预算、明天即将推进的会面形成关联。</p>\n  <p>在咖啡厅见客户、在办公室推进项目、到现场确认进度，中小企业主每天都在大量对话中做决定。预算变了、交期调整了、答应客户的事还没跟进。这些信息散落在不同时间和地点，一旦遗漏一个细节，就可能带来返工、损失或信任的消耗。</p>\n  <p>当AI记忆被框定在单次交互之内，它就无法感知上下文的变化，更难以在关键时刻主动提供支持。伴随拾音与转写逐渐成为智能设备的基础能力，真正的分水岭开始转向跨时序上下文的串联能力。</p>\n  <p>“传统AI产品记录的是切片，而人的工作和生活是连续的。”穗升科技创始人兼CEO王时远告诉硬氪，“如果AI不能理解你之前发生了什么，它就永远只是一个被动响应的工具，而不是一个能帮上忙的伙伴。”</p>\n  <p>这正是穗升科技所切入的空白地带。从被动记录走向主动理解，从单次问答走向长期记忆，让轻量化硬件成为物理世界与数字世界之间的连续记忆载体。</p>\n  <p>在AI硬件层出不穷的今天，形态的选择本身就是一种战略判断。眼镜能捕捉视线，戒指能监测体征，而在王时远看来，选择手环配件作为Personal AI入口，有其独特的合理性。</p>\n  <p>第一层考量是佩戴的持续性。Personal AI的前提是持续在场，如果设备需要用户额外花精力去佩戴、摘取或频繁操作，使用频次就会不可避免地衰减。手环是已经被市场长期验证过的形态，用户天然具备佩戴习惯。</p>\n  <p>Gem在设计上提供了两种选择，既可以作为独立手环佩戴，也可以直接挂在用户已有的手表表带上。无论哪种方式，它都是在用户原本就习惯佩戴的腕部位置增加仅11克重量，不需要改变日常行为，就能实现全天候的无感记录。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261116/v2_adc315ed069446948efdf370730f8208@6022551_oswg1604738oswg2208oswg1384_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Memoket可穿戴硬件Gem（图源/企业）</p>\n  <p>第二层考量是数据获取的密度与质量。中小企业主的核心信息场景，在于面对面的物理世界对话。Gem的拾音能力能够覆盖日常交流，将物理世界中稍纵即逝的语言，转化为可被理解、可被调用的数字资产。相比之下，其他穿戴形态在兼顾持续拾音与全天候佩戴时，往往面临更复杂的物理限制，很难两全。</p>\n  <p>“AI硬件本质上是让AI拥有‘触角’。”王时远表示，“手环是目前我们团队认为最贴近这个触角角色、且用户最愿意长期佩戴的形态。它不打扰你，但它一直在场。”</p>\n  <p>硬件完成感知采集，软件负责信息结构化梳理，而自研长记忆引擎KITE，决定了这套Personal AI体验的上限。</p>\n  <p>传统的交互范式里，记忆的责任主体始终是用户。用户需要会后回看录音、见客户前翻找历史对话、在项目推进中手动整理待办；即便AI可以加速摘要和检索，本质上依然是等待用户调取的被动工具。</p>\n  <p>Memoket的KITE引擎，正是为打破这种局限设计。多数AI系统的记忆局限在单次对话，信息彼此割裂；而KITE可以跨会话串联时序线索，它在LoCoMo与LongMemEval-S两项长对话记忆基准上，目前准确率分别可达到93.51%和85.60%，考核重点就是AI能否从大量分散对话里定位信息、跨越会话边界建立连续上下文。</p>\n  <p>“记忆是主动式AI的基础设施。如果记忆不准确、不连续，所有主动推荐、提前提醒都无从谈起。用户不会信任一个记错事情的助手。”王时远说。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261116/v2_c0f3b277de8541b0ad09597e0a8945f7@6022551_oswg1820727oswg1572oswg940_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">自研长记忆引擎KITE（图源/企业）</p>\n  <p>依托这套长记忆底座，Memoket已接入Google Calendar、ChatGPT、Claude、Slack、Notion等工具，用户可在App、桌面端回看对话、跨会话检索，把信息直接融入工作流。</p>\n  <p>同时，基于这套记忆能力，产品功能下一步的突破方向，是探索主动交互的能力边界。硬氪了解到，本月Gem App端将上线Personal Agent Beta测试版本，核心功能是增加实时上下文弹窗提醒，让AI能够自主识别用户沟通中的待确认事项、未履约约定，在合适时机给到用户提示。</p>\n  <p>以客户洽谈场景为例，当用户和客户沟通时，设备持续采集对话，KITE会同步比对历史交流记录，识别尚未确认的约定与待跟进事项，并在App出现弹窗提示。</p>\n  <p>“我们不是在做一个去噪更好的录音器，也不是在做一个更精准的会议纪要工具。我们关注的是，每一次调用能否真正解决用户工作中的具体问题。少遗漏一次承诺，少做一次返工，在关键时刻接上之前的线索。”王时远说。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261116/v2_685c378e2d73405f91c0893006fcb4b5@6022551_oswg1465620oswg1588oswg1064_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2026年10月进入日本市场（图源/企业）</p>\n  <p>在AI大模型能力逐步平权、硬件方案加速成熟的背景下，单纯比拼参数或功能的边际效应正在递减。真正构成壁垒的，是能否持续获取高质量的、真实场景下的个人数据，能否建立长期记忆，并在理解用户的基础上主动提供价值。</p>\n  <p>穗升科技以手环为入口，以长记忆引擎为底座，将产品从“被动响应”推向“主动服务”。随着用户与AI的长期相处，记忆持续更新、理解不断加深，Personal AI的价值将不再是单点功能的堆叠，而是一个随时间增长的、不可替代的个人数字资产。</p>\n  <p><strong>以下为硬氪与穗升科技创始人王时远的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：当手机和智能手表在“一站式满足”上越来越强，未来用户是否还需要额外佩戴一个AI录音器或Memory配件？</strong></p>\n  <p><strong>王时远：</strong>从客观的商业规律来看，对于需求频率极低的轻度用户，手机和智能手表的一站式功能确实足够了。但移动互联网过去十年的发展经验表明，当通用设备走向功能大而全时，垂直领域必然会分化出一批不被“一站式”满足的专业用户，这就是独立AI硬件的结构性机会。</p>\n  <p>我们目前的早期用户画像非常聚焦，以高频决策、高对话密度的中小企业主为主，目前积累了数千多名早期用户，基本符合我们的初始设计。对这类人群而言，通用设备在专业场景下存在明显的物理与体验摩擦。</p>\n  <p>比如在Apple Watch上录音，极易被来电或通知打断；即便录完了，通用系统通常只给出一段摘要，缺少原始文件，想要接入大模型深度处理还需要手动导出。对于需要高频回溯、建立长期记忆的用户来说，这种数据链路是断裂的。他们需要的是一个更专业、无感且链路完整的独立工具。</p>\n  <p>未来的Personal AI大概率会需要一个综合性入口，但很难一个通用Agent在所有细分场景里都做到最好，大家都在找通用设备覆盖不到的垂直缝隙。我们相信穗升在这一波需求中切入得足够早，且抓住了最核心的一批刚需人群。</p>\n  <p><strong>硬氪：即将上线基于上下文的主动式Personal Agent Beta功能，它在交互上会带来哪些实质改变？</strong></p>\n  <p><strong>王时远：</strong>我们计划将上线基于上下文的主动式Personal Agent功能。这是我们从“被动记录”向“主动服务”跨越的关键一步。</p>\n  <p>过去的AI硬件大多是“事后总结”，但真实决策往往发生在对话进行之中，一旦某个承诺、待确认事项或关键问题被错过，事后再补就已经产生了沟通成本。Memoket 要做的，是把AI辅助的节点从“会后”提前到“事中”。</p>\n  <p>用一个具体场景来理解。用户此前已经和同事约定，本次会议要确认一项交付节点。会议开始后，Gem会持续采集现场对话，音频实时上传云端；KITE长记忆引擎同步检索用户历史会话、日程与待办线索，识别出“约定确认但尚未提及的事项”。当对话节奏进入合适窗口，系统会通过App主动弹出提醒，告诉用户“本次应确认交付节点”。这个提醒发生在沟通过程中，而不是等会议结束后再生成一份静态纪要。</p>\n  <p>当然，这类 “事中提醒” 对工程链路要求很高。它不是简单的语音转写，而是一条包含实时音频流传输、云端上下文比对、历史记忆检索、端侧提醒触达的完整链路。其中最核心的指标是延迟：如果提醒能在几秒内出现，它会像一个贴身助理；但如果延迟过长，用户已经进入下一个话题，提醒就会显得突兀甚至无效。因此，我们在Beta阶段重点优化端到端延迟，目标是让提醒更贴近对话现场的自然节奏。</p>\n  <p>我们的核心定位是做一个基于Context的主动式Agent，而非单纯的会议纪要工具，其壁垒在于信息串联能力，能把用户跨时间、跨设备的分散信息建立关联，最终转化为精准的主动提醒。</p>\n  <p><strong>硬氪：行业都在寻找大模型在物理世界的落点，大家也把这类随身硬件视为重要的Personal AI入口。在未来的竞争中，你认为决定这个入口成败的关键壁垒是什么？</strong></p>\n  <p><strong>王时远：</strong>相比纯软件Agent，穿戴形态的录音硬件给用户的感知更具象、更实在，是可触摸的交互载体。</p>\n  <p>Memoket并不追求做一个全能助手，核心是帮用户捕捉那些有业务价值、但很容易被忽略的对话细节，并且在恰当的时机给到提醒。</p>\n  <p>过去大家用手机录音，本质逻辑没有变，人先记住这件事，再主动打开设备、事后检索调取，记忆的主体还是用户。而穗升想翻转这个关系，由硬件持续感知、长记忆引擎完成信息沉淀，记忆的主体交给系统，用户不必再耗费精力去留存、回溯零散细节。这也是我们团队长期技术积累最终落地的方向，是切入这个赛道的底层逻辑。</p>\n  <p>长远看，录音穿戴不会是唯一的Personal AI入口，但它在“捕获物理世界对话”这件事上，有独特的优势。不同形态会各自承接不同诉求，通用终端满足轻量化需求，垂直穿戴硬件服务高频、高价值的线下沟通场景，两条路线会长期并存。</p>",
+      "category": "tech",
+      "published_at": "2026-11-17T03:00:00+00:00",
+      "fetched_at": "2026-11-17T06:14:44.164549+00:00",
+      "fingerprint": "31b1d1447f6e523a"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "业绩快报 | 爱奇艺Q3Non-GAAP运营盈利，内容生态转型与AI战略初显成效",
+      "url": "https://36kr.com/p/4073327210304649?f=rss",
+      "summary": "<p>11月16日，爱奇艺（NASDAQ:IQ）发布2026年第三季度财报。报告期内，公司保持核心业务领先的同时，继续推进“转型长视频社交媒体”与“All in AI”两大战略。三季度，平台内容供给进一步扩大，内容成本结构持续优化，Non-GAAP运营利润重回盈利。</p>\n  <p>数据显示，三季度，公司实现总收入60.1亿元（人民币，下同），Non-GAAP运营利润2500万元。分业务看，会员服务收入39.7亿元，在线广告服务收入12.8亿元，内容发行收入4亿元，其他收入3.6亿元。</p>\n  <p><strong>内容领先是爱奇艺发展的基石。</strong>三季度，爱奇艺长剧集、电影和少儿内容季度云合总市占率保持行业第一，中剧云合总市占率首次登顶。其中，长剧《重器》热度值突破9000，刑侦中剧《重案六组：消失的警号》分账票房超过5700万元，刷新中剧行业分账记录。与此同时，海外业务同样保持高速扩张，海外会员收入同比增长近30%，拉丁美洲地区的会员收入同比增长强劲。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261117/v2_f124f500a0a34eceaba67df875ca7d31@1267484143_oswg1728021oswg1268oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p><strong>在保持核心优势基础上，爱奇艺通过分账模式加速重构内容投资逻辑。</strong>三季度，公司进一步完善去中心化创作者生态，通过爱奇艺号与纳逗Pro的协同打通，为创作者提供数据分析与创作支持。当季，爱奇艺号内容上传量同比增长超360%，平台新上线分账长篇内容总量环比增长超200%，带动分账收入环比两位数增长。</p>\n  <p>在当天财报电话会上，爱奇艺CEO 龚宇表示&nbsp;，分账模式在丰富内容供给的同时，也带来了内容成本结构的改善。通过将部分内容成本从固定投入转为按效果分成，平台能降低制作投入，改善现金流表现。同时，收益和播放效果绑定，有助于激励制作方优化预算分配，提升内容投资效率。</p>\n  <p><strong>内容供给扩充的另一个重要路径是以AI赋能内容制作，实现提质增效。三季度财报显示，</strong>短剧与漫剧数量呈指数级增长，动漫、少儿、中剧和电影等长视频内容数量均实现环比两位数增长。短剧、漫剧正是以AIGC为主力供给的品类，动漫与儿童品类由于CG技术成熟度高，AI渗透最快。三季度AI制作的《天子传奇：姬发篇》《天子传奇：洪武大帝》两部作品，相比传统制作方式，制作成本缩减50%–80%，制作周期缩减80%&nbsp;。<strong>爱奇艺首席内容官王晓晖介绍，平台采取AI生成、实拍与AI混制“双轨并行”策略，逐步从短剧、漫剧向中剧、长剧延伸。&nbsp;</strong>已经上线的《灵魂摆渡》浮生梦系列三部AI网络故事片，累计分账票房突破1400万元，每部均在首周收回制作成本。“目前约有20个长剧项目，使用实拍和AI结合的混制模式进行制作，这也是未来爱奇艺的重点探索方向。”他表示，AI与真人实拍的深度混制作品《天行九歌之举世无双》预计2027年上线。</p>\n  <p>龚宇表示，AI不只是降低制作成本，而是让优秀的创作团队、有影响力的IP与AI工具结合，用更短的周期、更可控的投入，把创意变成作品，推动内容成本实现结构性、可持续的优化。</p>",
+      "category": "tech",
+      "published_at": "2026-11-17T04:31:40+00:00",
+      "fetched_at": "2026-11-17T06:14:44.164533+00:00",
+      "fingerprint": "05b947e36880a5da"
+    },
+    {
+      "source": "少数派",
+      "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+      "url": "https://sspai.com/post/118100",
+      "summary": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...<a href=\"https://sspai.com/post/118100\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-16T07:37:51+00:00",
+      "fetched_at": "2026-11-17T06:14:41.641526+00:00",
+      "fingerprint": "92035a1643bf75e5"
+    },
+    {
+      "source": "少数派",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/119148",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/119148\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-16T10:09:47+00:00",
+      "fetched_at": "2026-11-17T06:14:41.641520+00:00",
+      "fingerprint": "26d74ecd0cc1520f"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+      "url": "https://sspai.com/post/119160",
+      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119160\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-16T23:57:40+00:00",
+      "fetched_at": "2026-11-17T06:14:41.641514+00:00",
+      "fingerprint": "40981d836e3f97ec"
+    },
+    {
+      "source": "少数派",
+      "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+      "url": "https://sspai.com/post/118442",
+      "summary": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。<a href=\"https://sspai.com/post/118442\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-17T02:59:51+00:00",
+      "fetched_at": "2026-11-17T06:14:41.641504+00:00",
+      "fingerprint": "ee2756fe7a43f3c9"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.5043 CNY ↓-0.50%",
+      "url": "https://www.frankfurter.app/2026-11-16?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-11-16</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.5043 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0228 (-0.50%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-11-17T06:14:40.348356+00:00",
+      "fingerprint": "22497bcae91336ff"
+    },
     {
       "source": "BBC World News",
       "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
@@ -1501,286 +1811,6 @@
       "published_at": null,
       "fetched_at": "2026-11-11T04:24:49.957009+00:00",
       "fingerprint": "35e5aec8bd6af663"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "category": "politics",
-      "published_at": "2026-11-10T05:33:25+00:00",
-      "fetched_at": "2026-11-10T05:44:59.916420+00:00",
-      "fingerprint": "2f68b82d21faa9dd"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-      "category": "politics",
-      "published_at": "2026-11-10T00:09:49+00:00",
-      "fetched_at": "2026-11-10T05:44:59.916413+00:00",
-      "fingerprint": "d3212160414aac1d"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "category": "politics",
-      "published_at": "2026-11-09T19:58:01+00:00",
-      "fetched_at": "2026-11-10T05:44:59.916407+00:00",
-      "fingerprint": "c4bc507025bdc22c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "category": "politics",
-      "published_at": "2026-11-10T03:58:13+00:00",
-      "fetched_at": "2026-11-10T05:44:59.916398+00:00",
-      "fingerprint": "4a9293f6fb187443"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
-      "url": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "白金漢宮一名幕僚表示，若貝安德首相向王室提議查爾斯三世訪華，國王將「小心考慮」。",
-      "category": "politics",
-      "published_at": "2026-11-09T16:31:02+00:00",
-      "fetched_at": "2026-11-10T05:44:59.875298+00:00",
-      "fingerprint": "c76740f3078bd067"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "黃仁勳婚外情掀起國安風暴：拆解五大看點",
-      "url": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "輝達（英偉達）總裁黃仁勳承認婚外情並向公眾致歉，為何引發國安及輿論風暴？新加坡的角色又是如何？會影響台灣的產業鏈嗎？中國為何嚴厲否認相關指控。",
-      "category": "politics",
-      "published_at": "2026-11-09T13:10:28+00:00",
-      "fetched_at": "2026-11-10T05:44:59.875292+00:00",
-      "fingerprint": "9898963bb974272e"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "這名科技業億萬富豪高層陷入一場涉及私人生活與國家安全的醜聞。",
-      "category": "politics",
-      "published_at": "2026-11-09T17:25:50+00:00",
-      "fetched_at": "2026-11-10T05:44:59.875285+00:00",
-      "fingerprint": "9c1e8f8fb77105a6"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
-      "url": "https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "黃仁勳因與一名被指控為中國間諜的女子有婚外情，正受到其所在公司的調查。",
-      "category": "politics",
-      "published_at": "2026-11-10T04:02:29+00:00",
-      "fetched_at": "2026-11-10T05:44:59.875274+00:00",
-      "fingerprint": "005b6a5f2cdd111a"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-10T05:44:59.616775+00:00",
-      "fingerprint": "590ce642a5a8a979"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-10T05:44:59.616641+00:00",
-      "fingerprint": "fca505743bb9dd49"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-10T05:44:59.616505+00:00",
-      "fingerprint": "a8ac24a5fed69e71"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-10T05:44:59.616373+00:00",
-      "fingerprint": "3c86ca6a06f60e03"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-10T05:44:59.616227+00:00",
-      "fingerprint": "a989f1582084d0cf"
-    },
-    {
-      "source": "The Verge",
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-09T23:07:59+00:00",
-      "fetched_at": "2026-11-10T05:44:59.364267+00:00",
-      "fingerprint": "38ea5b66d2595223"
-    },
-    {
-      "source": "The Verge",
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-09T23:47:46+00:00",
-      "fetched_at": "2026-11-10T05:44:59.364261+00:00",
-      "fingerprint": "cd027b24b17aebaf"
-    },
-    {
-      "source": "The Verge",
-      "title": "What could China get from Jensen Huang?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-09T23:51:58+00:00",
-      "fetched_at": "2026-11-10T05:44:59.364255+00:00",
-      "fingerprint": "44bb6093a440b817"
-    },
-    {
-      "source": "The Verge",
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-10T00:28:49+00:00",
-      "fetched_at": "2026-11-10T05:44:59.364244+00:00",
-      "fingerprint": "05e31abb81030e94"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "最前线｜仰望鼎曜阿联酋全球首发，预估售价200万元",
-      "url": "https://36kr.com/p/4062540807099270?f=rss",
-      "summary": "<p>11月7日，比亚迪旗下仰望品牌在阿联酋阿布扎比全球首发超豪华行政旗舰轿车——仰望鼎曜。这也是仰望首次以完整品牌形象在海外举行全球发布会，意味着比亚迪的全球化战略，正从规模扩张进一步迈向高端品牌引领。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_77148fee987649918d87e402fad6501f@16862410_oswg209564oswg1707oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">仰望鼎曜，图源：现��拍摄</p>\n  <p>此次发布的鼎曜包含行政版与山河鼎韵限量版，后者已经开启预订，预估售价约200万元，预计2027年第二季度交付。作为仰望全新的超豪华行政旗舰，鼎曜将竞争视野进一步延伸至劳斯莱斯、宾利等传统超豪华品牌所在的市场。</p>\n  <p>与传统豪华品牌强调历史传承不同，仰望希望通过东方文化与前沿技术，建立一套属于中国品牌的豪华叙事。</p>\n  <p>鼎曜以“大器鼎成”为设计理念，从中国传统礼器“鼎”中汲取灵感。新车长宽高分别达到5600×2030×1590mm，轴距3500mm，采用方正威仪的车身轮廓，以及礼宾级中轴对开门设计。前脸点阵式宝石格栅、甲骨文车标等元素，则进一步强化了东方文化辨识度。</p>\n  <p>车内采用中轴对称布局，强调行政座舱的秩序与尊崇感。山河鼎韵限量版还融入苏绣、和田玉等中国传统工艺，试图将中国文化从视觉符号延伸至豪华体验。</p>\n  <p>技术仍然是仰望冲击超豪华市场的核心支点。</p>\n  <p>鼎曜搭载易四方四电机独立驱动系统，具备高速爆胎稳行、应急浮水等极端场景安全能力；新一代云辇全主动车身控制系统，可通过路面预瞄实时调节悬架，兼顾大型行政轿车所需的舒适性与稳定性。</p>\n  <p>智能化方面，鼎曜搭载全新一代天神之眼智能辅助驾驶系统，首次应用比亚迪自研璇玑A3智驾芯片，支持高速、城市领航及泊车辅助等功能。同时，新车配备第二代刀片电池及闪充技术，CLTC工况续航超过1000公里。</p>\n  <p>这些技术共同指向仰望对于豪华的另一种定义：不只依赖昂贵材料与传统工艺，更通过底层技术创新，将安全、性能和舒适转化为豪华体验。</p>\n  <p>鼎曜的全球首发，也发生在比亚迪出海规模快速增长的节点。</p>\n  <p>数据显示，比亚迪新能源乘用车出口量从2022年的5.59万辆增长至2025年的104.96万辆，2026年1—10月进一步达到150.74万辆，已超过去年全年。阿联酋是其海外市场增长的缩影，今年前三季度，比亚迪当地销量达到11495辆。</p>\n  <p>过去几年，中国汽车出海的主要竞争力来自新能源技术、供应链效率与产品性价比。随着规模持续扩大，如何在全球市场建立高端品牌认知，成为中国车企需要回答的新问题。</p>\n  <p>选择阿布扎比首发鼎曜，正是一次具有象征意义的尝试。中东拥有成熟的超豪华汽车消费市场，也是全球顶级汽车品牌的重要竞技场。</p>\n  <p>从追求出口规模，到以旗舰产品输出技术标准与品牌价值，比亚迪正在尝试推动高全球化竞争的一次升级。而鼎曜能否真正进入全球超豪华汽车消费者的选择名单，将成为检验这一战略的重要标尺。</p>",
-      "category": "tech",
-      "published_at": "2026-11-09T13:10:46+00:00",
-      "fetched_at": "2026-11-10T05:44:59.161862+00:00",
-      "fingerprint": "bdf4dd66b783caa9"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "SK-II推出新精华，押注PITERA™科研叙事延伸高端护肤生意",
-      "url": "https://36kr.com/p/4062617457235081?f=rss",
-      "summary": "<p>36氪获悉，11月6日，SK-II在第九届中国国际进口博览会上发布全新护肤浓缩精华液，品牌将其称为“神仙锁精华”。这款产品以SK-II核心成分PITERA™为基础，加入精华油微珠，主打紧致、抗皱和保湿等功效。它也被放进品牌原有的“神仙水”产品体系中，形成一套新的搭配方案。</p>\n  <p>从产品设计看，新精华并非另起一套成分叙事，而是围绕PITERA™做配方延展。根据品牌资料，产品采用浓缩PITERA™与精华油微珠复配的方式，提出“先渗后锁”的配方逻辑：前者承担滋养和渗透，微珠则在皮肤表面形成保护膜。每瓶50毫升产品据称含约1.6万颗微珠，平均尺寸约0.7毫米。品牌将其与含有超过90% PITERA™的护肤精华露（即“神仙水”）组合，分别对应保湿、紧致等不同功效诉求。</p>\n  <p>SK-II同时公布了一组围绕压力与皮肤老化的研究数据。品牌称，其研究团队对49,677个基因表达进行测序，发现氧化压力会扰乱701个基因的表达；另有针对亚洲女性的研究显示，压力与皮肤状态变化存在关联。不过，这些数据来自品牌及其母公司宝洁的研究，新闻资料未完整披露研究设计、对照条件和统计细节，不能直接等同于新产品在真实消费人群中的功效结论。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261109/v2_7460f6fca3bb411fba31d27d5f2185aa@5922386_oswg753884oswg1004oswg670_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">SKII“神仙锁精华”</p>\n  <p>在功效测试方面，品牌提供的资料显示，33名35至54岁的中国女性连续6周、每天早晚使用新精华后，抗皱和紧致指标相较使用前有所改善，且在第2周、第4周和第6周呈递进趋势。神仙水与新精华搭配使用的测试，则分别涉及2025年36名女性的保湿度、光泽度测试，以及2026年32名女性在前臂进行的紧致度、细腻度测试。样本量较小，且部分测试在前臂进行，结果更适合作为产品功效验证材料，而非对所有消费者效果的保证。</p>\n  <p>新品发布背后，<strong>是SK-II在高端护肤市场继续依靠核心单品和成分资产维持竞争力的策略。</strong>PITERA™已成为品牌最具辨识度的技术标签，“神仙水”则是其长期主力产品。此次将新精华与神仙水绑定，既能借助成熟单品的消费者认知降低新品教育成本，也为品牌提供了提高客单价、推动多件连带购买的机会。至于新品的定价、上市渠道和销售目标，品牌暂时并未披露。</p>\n  <p>从母公司宝洁的财务表现看，美妆业务仍是集团增长较快的板块。宝洁2026财年（截至2026年6月30日）美妆业务净销售额为160.23亿美元，同比增长7%；有机销售额增长5%。但其中护肤品类有机销售额持平，宝洁解释称，超高端品牌SK-II的增长被大中华区护肤业务销量下滑所抵消。这意味着SK-II的高端产品增长仍有一定韧性，但尚不足以完全对冲中国市场的量端压力。</p>\n  <p>进入2027财年第一季度（2026年7月至9月），宝洁美妆业务净销售额同比增长6%至44.1亿美元，有机销售额增长5.4%。不过，宝洁并未单独披露SK-II的收入、销量或中国市场表现，无法据此判断新产品能为品牌带来多大增量。集团2026财年总净销售额为870.32亿美元，同比增长3%；大中华区占集团净销售额约7%。</p>\n  <p>对SK-II而言，新精华的意义不只在于增加一个SKU，更在于把已有的成分研究转化为新的产品组合和消费场景。在中国高端护肤市场竞争加剧、消费者对功效证据要求提高的背景下，品牌需要证明PITERA™的科研叙事能够持续转化为可感知的产品差异。新品能否真正带动增长，最终仍取决于上市后的复购表现、渠道动销，以及其能否改善品牌在大中华区面临的销量压力。</p>",
-      "category": "tech",
-      "published_at": "2026-11-09T14:28:41+00:00",
-      "fetched_at": "2026-11-10T05:44:59.161856+00:00",
-      "fingerprint": "c605d61a4aa63e9d"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "8点1氪丨外媒称黄仁勋或被英伟达免职，尚未指定接班人；突然大规模封号，ChatGPT回应；买烟可优先结账？零食有鸣回应",
-      "url": "https://36kr.com/p/4063180322526336?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>王健林任万达商管董事长</li>\n   <li>董宇辉自有品牌回应“首款蛋糕9个月保质期”</li>\n   <li>玛莎拉蒂将与尊界合作，推动本地化生产</li>\n   <li>美民主党拟对马斯克等发起调查</li>\n   <li>SpaceX拟在得州建设240亿美元超级计算设施</li>\n  </ul>\n  <h2>TOP 3大新闻</h2>\n  <p><strong>外媒：黄仁勋或被英伟达免职，尚未指定接班人</strong></p>\n  <p>美东时间11月8日，英伟达创始人兼CEO黄仁勋于致员工信中承认婚外情，并向董事会、员工及全球股东致歉。英伟达董事会已宣布由独立董事和外部律师启动调查。彭博社报道称，作为英伟达联合创始人，黄仁勋以亲力亲为、不知疲倦的管理风格著称。这家公司尚未公布明确的接班计划，黄仁勋也没有明显的指定接班人。他多次表示希望在未来数十年继续执掌英伟达，并围绕自己建立了一种非正式的组织架构度。据路透社报道，美国投资机构Yorkville Ives的合伙人兼高级董事总经理丹·艾夫斯表示：“显然，根据董事会的调查结果，黄仁勋可能被免去首席执行官职务。”（中新经纬）&nbsp;</p>\n  <p><strong>突然大规模封号，ChatGPT回应</strong></p>\n  <p>11月8日，多家技术社区集中曝出OpenAI突发大规模账号封禁事件，大量用户在Reddit、国内开发者社群反馈ChatGPT账号无预警停用，其中包括每月订阅费用为200美元的Pro用户。部分用户表示，账号被封前没有收到任何通知，长期积累的聊天记录和工作资料也因此无法访问。</p>\n  <p>有网友推测这是OpenAI防止用户薅羊毛，开始限制同一台设备的账号上限。业内人士表示，OpenAI这个举止，绝非突然。之前，他们开启了逆向反代，还将ChatGPT和Codex合并为一个Token池。几天前，他们就悄悄锁死了单设备的付费号上限。还上线了一份《理解ChatGPT的支付卡与设备限制》的官方文件，将Go、Plus以及Pro 100、Pro 200、Pro 500档位，全部纳入了硬性配额管控。</p>\n  <p>对此，OpenAI Support账号作出回复，表示由于涉及具体账号信息，无法在公开社区论坛处理账号停用申诉。用户应通过封禁通知邮件中的链接提出申诉；如果没有收到邮件，可以通过官方申诉表单或帮助中心联系客服。该回复并未解释用户账号被封的具体原因。（第一财经）&nbsp;</p>\n  <p><strong>买烟可优先结账？零食有鸣回应</strong></p>\n  <p>近日，有网友在社交平台发帖称，零食有鸣某门店张贴着“购买香烟者优先结账”的提示，并称“保证真烟，假一赔百”。该消息迅速在网上发酵，引发大量网友吐槽。有消费者在评论区留言，“只听过军人优先、急救优先，第一次看到买烟优先”。还有人表示，“要是大家都排着队，有人直接优先，换谁心里都会不舒服”。大家普遍认为，商家可以设置快速通道，但不能以购买香烟作为享受优先服务的门槛。这种差异化对待，本身就容易传递出不利于控烟的导向。</p>\n  <p>11月9日，界面新闻就此联系零食有鸣客服核实上述提示是否属于品牌统一制度。客服人员向界面新闻记者表示，“目前公司没有出台相关文件，不是公司整体的规定”。客服同时说明，售卖香烟有着明确资质门槛，门店必须先办理烟草专卖零售许可证，才可以开展卷烟零售业务，香烟货源需要门店从当地烟草公司采购，进货链路不经过品牌总部，不过品牌方对加盟门店具备相应的介入管理权限。针对上述争议性告示，客服称会把线索移交给对应监督部门核实处理。（界面新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>Anthropic公布新版Fable和Mythos模型</strong></p>\n  <p>Anthropic PBC公布了Mythos和Fable人工智能模型的新版本，寄希望在备受期待的美股上市前巩固其在AI开发领域的领先地位。Anthropic表示，定于周一发布的Fable 5.2能够处理难度更高的软件工程工作，执行控制机器人等更多与硬件相关的任务，并处理长期运行的项目。该模型还能够同时协调超过1000个AI智能体。同一型号的Mythos 5.2在网络安全和生命科学领域的防护措施更少，将通过此前公布的验证计划向部分机构推广。Anthropic表示，这两款模型都比之前的版本更快，而Fable的价格更低。（新浪财经）</p>\n  <p><strong>千问办公2.0发布，为首个支持多人与Agent协作的Team Agent</strong></p>\n  <p>36氪获悉，11月9日，千问办公发布2.0版本，这是其上线三个月以来最大的一次升级。该版本推出了行业首个支持多人与Agent协作的功能“协作”，同时上线“人机共创”、“资料空间”、“自动任务”和“三端互联”等核心能力，让Agent从服务个人走向服务团队和组织。目前，所有功能已在千问办公客户端全量上线。</p>\n  <p><strong>阿里云Token Plan额度上调70%以上</strong></p>\n  <p>36氪获悉，11月9日，阿里云上调Token Plan个人版订阅额度，Lite、Essential、Standard三档套餐月费不变，月度额度提升约74%至78%。&nbsp;</p>\n  <p><strong>Anthropic估值预期骤降40%，美股科技股遭抛售AI巨头承压</strong></p>\n  <p>近期，大量美国科技股遭抛售，AI领域投资回报受到越来越多的审视。据报道，部分潜在投资者准备给予Anthropic1.2万亿至1.3万亿美元的IPO估值，较此前预期的2万亿美元下降至多40%。而英国《金融时报》的最新报道称，投资者预计Anthropic估值可能接近1.5万亿美元。另据外媒报道，OpenAI最新一轮融资已完成110亿美元，后续份额预计在未来数周完成，本轮融资总规模可能增至200亿美元，公司估值约为1.25万亿美元。报道称，OpenAI最初的目标是以1.4万亿美元的估值筹集至少300亿美元资金，但当前市场环境下，公司不得不缩减融资计划。（彭博社）</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>国务院关税税则委员会：在2个月内继续暂停实施24%的对美加征关税税率，保留10%的对美加征关税税率</strong></p>\n  <p>36氪获悉，国务院关税税则委员会发布关于调整对原产于美国的进口商品加征关税措施的公告。为落实中美两国元首华盛顿会晤达成的成果共识，根据《中华人民共和国关税法》、《中华人民共和国海关法》、《中华人民共和国对外贸易法》等法律法规和国际法基本原则，经国务院批准，自2026年11月10日13时01分起，调整《国务院关税税则委员会关于对原产于美国的进口商品加征关税的公告》（税委会公告2025年第4号）规定的加征关税措施，在2个月内继续暂停实施24%的对美加征关税税率，保留10%的对美加征关税税率。&nbsp;</p>\n  <p><strong>王健林任万达商管董事长</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，大连万达商业管理集团股份有限公司发生工商变更，陈洪涛卸任董事长，由王健林接任。值得一提的是，王健林曾于2012年卸任该公司董事长。该公司成立于2002年9月，法定代表人为陈洪涛，注册资本约271.6亿人民币，经营范围包括商业综合体管理服务、非居住房地产租赁、物业管理等，由大连万达集团股份有限公司、王健林、Tencent Mobility Limited等共同持股。</p>\n  <p><strong>ST思科瑞：自11月11日起复牌并撤销其他风险警示，证券简称变更为“思科瑞”</strong></p>\n  <p>36氪获悉，ST思科瑞公告，公司股票将于2026年11月10日停牌一天，自11月11日起复牌并撤销其他风险警示，证券简称由“ST思科瑞”变更为“思科瑞”，扩位简称变更为“思科瑞微电子”，证券代码不变，日涨跌幅限制仍为20%。&nbsp;</p>\n  <p><strong>董宇辉自有品牌回应“首款蛋糕9个月保质期”&nbsp;</strong></p>\n  <p>近日，与辉同行推出的自有品牌“禾与春时”首款产品千层蛋糕系列，因标注保质期9个月引发争议，不少网友质疑产品是否添加大量防腐剂，属于“科技与狠活”。11月9日，界面新闻问询禾与春时旗舰店在线客服“这款蛋糕9个月保质期是否是防腐剂保鲜”，客服回应：9个月是“未拆封、-18℃以下冷冻保存”的保质期，靠的是冷冻保鲜+密封包装，不是靠防腐剂。客服还表示，蛋糕是自有品牌“禾与春时”的自营品，原料资质、质检都齐全合规，吃得安全又放心。（界面新闻）&nbsp;</p>\n  <p><strong>玛莎拉蒂将与尊界合作，推动本地化生产</strong></p>\n  <p>11月9日获悉，玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂Design”，该项目为华为、江淮和Stellantis的三方合作。目前，新车外观已确认，规划明年第四季度有进一步量产动态。（第一财经）&nbsp;</p>\n  <p><strong>尊界或推全新子品牌，定价40-50万区间、主打SUV车型</strong></p>\n  <p>从知情人士处获悉，尊界或将推出一个全新子品牌，定价区间在40-50万左右，车型主打SUV。“其与玛莎拉蒂的合作分属于两个项目，目前（子品牌）具体细节尚未正式确定。”该知情人士透露。此前有市场传闻称，玛莎拉蒂母公司Stellantis、华为、江淮三方合作接近落地，目前规划两款全新纯电车型，整车将由尊界超级工厂负责制造。（财联社）&nbsp;</p>\n  <p><strong>WorkBuddy致歉，发布补偿措施</strong></p>\n  <p>11月8日晚，腾讯旗下AI工具WorkBuddy发布《关于DeepSeek-V4.1 Flash折扣活动的说明与补偿公告》，就优惠活动调整未及时公告向用户致歉，并公布补偿方案：11月5日14:00至11月8日23:59使用过DeepSeek-V4.1 Flash的账号，该期间使用DeepSeek-V4.1 Flash模型所产生的积分消耗全部按原价5折优惠结算，差额部分（即实际消耗积分总额的50%）将全部返还。该返还无需申请，系统自动核算并返还，预计7个工作日内到账。（第一财经）</p>\n  <p><strong>央行11月9日开展1820亿元隔夜逆回购操作</strong></p>\n  <p>36氪获悉，2026年11月9日，中国人民银行以固定利率、数量招标方式开展了1820亿元隔夜逆回购操作，全额满足了一级交易商需求。操作利率1.25%。</p>\n  <p><strong>人民币兑美元中间价报6.7188</strong></p>\n  <p>36氪获悉，11月9日，人民币兑美元中间价报6.7188，下调20点。</p>\n  <p><strong>上周公募调研逾2000次，电子等行业受青睐</strong></p>\n  <p>公募排排网数据显示，上周（2026年11月2日—11月8日），共有142家公募机构参与到A股调研活动中，覆盖到27个申万一级行业中的170只个股，合计调研达2173次，较以往周度调研数据相比，展现出较高的调研热情。上周6个行业公募调研次数超100次，其中电子行业被调研479次居首，此外，医药生物和机械设备公募调研次数均不少于200次。（证券时报）&nbsp;</p>\n  <p><strong>美民主党拟对马斯克等发起调查</strong></p>\n  <p>美国国会民主党议员8日表示，明年1月民主党接管国会后，将对美国亿万富翁埃隆·马斯克、白宫办公厅主任斯蒂芬·米勒及部分企业发起调查。民主党籍的联邦众议员罗伯特·加西亚与联邦参议员伊丽莎白·沃伦当天在电视访谈中作出上述表态。（新华社）&nbsp;</p>\n  <p><strong>苹果开源HALO，触觉感知成A股映射焦点</strong></p>\n  <p>苹果研究团队近日在arXiv披露人形机器人自主控制系统HALO并开源相关代码。该成果主要验证了语义层零样本迁移的可行性，但对A股板块的影响更偏叙事强化，受益方向将集中于补齐触觉感知这一明确技术短板的相关环节。（新浪财经）</p>\n  <p><strong>SpaceX拟在得州建设240亿美元超级计算设施</strong></p>\n  <p>SpaceX计划在得克萨斯州建设一座配备独立天然气发电厂的人工智能超级计算设施，项目总投资达240亿美元，约为该公司比特币持仓价值的17倍。持有比特币的SpaceX于今年6月完成了历史上规模最大的首次公开募股（IPO），如今该公司计划在得克萨斯州建设一座自行供电的超级计算设施。（新浪财经）&nbsp;</p>\n  <p><strong>上交所ETF连续28个交易日净流入，合计金额逾5400亿元</strong></p>\n  <p>9月22日至11月6日，上交所ETF连续28个交易日净流入，合计净流入金额5412.35亿元。其中，11月3日单日净流入634.54亿元，创年内新高。分产品看，9月22日至11月6日，净流入前三的为沪深300ETF华泰柏瑞（951.52亿元）、科创50ETF华夏（716.95亿元）、沪深300ETF易方达（601.15亿元）。（证券时报）&nbsp;</p>\n  <p><strong>伯克希尔·哈撒韦公司准备发行日元债券</strong></p>\n  <p>据知情人士透露，伯克希尔哈撒韦公司已委托瑞穗证券和美银证券，筹备一项潜在的基准规模日元计价、固定利率、高级无担保债券发行计划。该债券将在美国证券交易委员会（SEC）注册。知情人士称，该交易的正式宣布预计将在近期进行，但“需视市场状况而定”。（新浪财经）&nbsp;</p>\n  <p><strong>欧洲央行行长拉加德暗示12月将加息</strong></p>\n  <p>欧洲央行行长克里斯蒂娜·拉加德在接受日本《读卖新闻》采访时暗示，欧洲央行有可能在下个月举行的管理委员会会议上再次加息。拉加德指出，“我们知道未来几个季度的通胀数据仍将居高不下”，表达了对物价上涨的危机感。关于12月加息，她表示：“根据我们目前掌握的信息，除非发生重大变化，否则政策走向将符合我的预期。”（新浪财经）&nbsp;</p>\n  <p><strong>马斯克：SpaceX与Anthropic算力合约并非单向押注</strong></p>\n  <p>风投家Chamath Palihapitiya此前提出，SpaceX与Anthropic的算力合同里包含解约条款，SpaceX可借此向这家AI实验室大幅抬价。11月8日，埃隆·马斯克对此作出反驳，称这笔交易并非单向押注。马斯克8日晚间在X平台回复AI评论员Rohan Paul转发的Palihapitiya讲话片段时写道：“当然，这是双向约束。如果算力供给充足、价格走低，SpaceX的收入也会下滑。赌场里输赢自负，双方都没什么好抱怨的。”（新浪财经）</p>\n  <p><strong>软银公司上调全年业绩预期，上半年营收和营业利润均创历史新高</strong></p>\n  <p>11月9日，日本电信运营商软银公司公布2027财年上半年财报，并上调全年业绩预期。公司预计全年营收将达到7.9万亿日元，高于此前预测的7.5万亿日元；营业利润预期从1.1万亿日元上调至1.16万亿日元；归属于母公司股东的净利润预期从5600亿日元上调至6100亿日元，部分反映了出售Energy Global优先股权益所带来的收益。（新浪财经）</p>\n  <p><strong>英伟达宣布对多家韩国AI创企投资计划</strong></p>\n  <p>英伟达11月9日发布声明称，公司高管与韩国科学技术信息通信部副部长共同会见超20家韩国初创企业，涵盖基础模型、物理AI、AI基础设施以及AI半导体等领域。英伟达宣布投资韩国AI互连技术创企Point2，并计划进一步投资AI实验室Motif Technologies、物理AI创企RLWRLD和企业级AI公司Upstage。（界面新闻）</p>\n  <p><strong>美股三大指数集体收涨，大型科技股普涨</strong></p>\n  <p>36氪获悉，11月9日收盘，美股三大指数集体上涨，纳指涨2.74%，标普500涨2.35%，道指涨2.15%；大型科技股普涨，美光科技、闪迪涨超6%，特斯拉、Meta涨超5%，亚马逊、微软、苹果涨超2%，谷歌小幅上涨，英伟达跌超4%；热门中概股多数下跌，爱奇艺跌超5%，阿里巴巴、拼多多跌超3%，京东、哔哩哔哩跌超2%，理想汽车、百度跌超1%，网易小幅上涨。</p>\n  <p><strong>AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施</strong></p>\n  <p>11月9日，AMD宣布，第五代EPYC服务器处理器将为谷歌云TPU 8tx提供主机基础设施。TPU 8tx是首个支持硬件强制机密计算的云端TPU系统。双方将结合AMD EPYC处理器、Infinity Guard安全技术及谷歌TPU算力，帮助企业在云端运行推理、微调和强化学习等AI工作负载，同时保护敏感数据。AMD表示，其EPYC处理器已成为全球超过10家主要超大规模云服务商及前沿AI实验室的主机CPU选择。（财联社）</p>\n  <p><strong>谷歌宣布Pathways在云端正式全面开放</strong></p>\n  <p>11月9日，谷歌宣布，Pathways现已在Google Cloud Platform正式全面开放。Pathways是谷歌自主研发的大规模分布式机器学习运行系统，曾用于训练Gemini等大型模型，目前向谷歌云客户开放。（财联社）</p>\n  <p><strong>高盛数据显示，对冲基金上周快速抛售全球科技股</strong></p>\n  <p>因为担心美国民主党可能会阻碍数据中心建设，引发了对AI交易的急剧重新评估，对冲基金上周以有纪录以来最快的速度之一抛售全球科技股。科技股是上周全球和美国遭净卖出幅度最大的板块，其百分比金额大致追平高盛集团自2016年以来的数据。根据该银行截至11月6日的主经纪业务数据，这也引发了四个月来最大规模的单一股票净卖出潮。(财联社)</p>\n  <p><strong>荣昌生物:签署泛RAS(ON)小分子抑制剂全球独占许可协议，将支付首付款5000万元、最高里程碑付款48.7亿元</strong></p>\n  <p>36氪获悉，荣昌生物公告，公司与烟台荣昌制药签署《许可协议》，获得泛RAS(ON)小分子抑制剂全球独占性许可。公司将支付首付款5000万元，最高里程碑付款48.7亿元，并按年度净销售额3%-7%支付特许权使用费。公司现有肿瘤产品管线目前主要专注于实体肿瘤ADC及双特异性抗体，本次引进的泛RAS(ON)小分子抑制剂项目可补充现有管线、拓宽公司肿瘤产品组合，并为日后与公司管线内其他资产开展联合开发创造机会。</p>\n  <p><strong>马斯克：特斯拉可能将出租而非出售Optimus机器人</strong></p>\n  <p>马斯克最新表示，特斯拉很可能会向客户出租其人形机器人，而不是出售。特斯拉已经在其弗里蒙特工厂启动了optimus的早期量产，预计将在2027年底左右开始向外部客户交付。（财联社）</p>\n  <p><strong>SK海力士拟扩充美国团队，深化与核心客户合作</strong></p>\n  <p>SK集团11月9日表示，韩国芯片厂商SK海力士准备扩充美国地区员工规模，此举意在加强与英伟达等美国核心大客户的联系。SK集团称，SK海力士计划在12月3日前后新增高管任命、重组美国业务体系。（新浪财经）</p>\n  <h2>上市进行时</h2>\n  <p><strong>神州半导体IPO申请11月16日上会</strong></p>\n  <p>36氪获悉，上海证券交易所上市审核委员会定于2026年11月16日召开2026年第58次上市审核委员会审议会议。审议江苏神州半导体科技股份有限公司的首发事项。&nbsp;</p>\n  <p><strong>Sakana AI计划最早2027年秋季进行IPO</strong></p>\n  <p>据报道，日本AI公司Sakana AI准备进行首次公开募股（IPO），最早可能于2027年秋季在日本或美国上市。该公司已聘请高盛担任IPO顾问。（财联社）</p>\n  <p><strong>龙行天下上交所IPO过会</strong></p>\n  <p>36氪获悉，上交所上市审核委员会召开2026年第57次上市审核委员会审议会议，审议结果显示，广东龙行天下科技股份有限公司首发符合发行条件、上市条件和信息披露要求。</p>\n  <h2>大公司财报</h2>\n  <p><strong>搜狐：第三季度总收入为1.33亿美元</strong></p>\n  <p>36氪获悉，11月9日，搜狐公司公布2026年第三季度财务报告。财报显示，搜狐第三季度总收入为1.33亿美元。其中，搜狐公司营销服务收入为1500万美元，在线游戏收入为1.14亿美元。财报显示，第三季度营销服务收入为1500万美元，同比增长10%；在线游戏收入为1.14亿美元，同比下降30%；净亏损为1500万美元。&nbsp;</p>\n  <p><strong>五大航空央企净赚约47亿，上年同期约51.9亿元</strong></p>\n  <p>10月底，航空产业上市公司三季报陆续披露。中航沈飞、中航西飞、航发动力、中航机载和中航光电，这五家分别对应整机、发动机、机载系统和连接器等航空装备关键环节的央企上市平台，前三季度合计实现归母净利润46.78亿元。相比上年同期约51.9亿元的水平，这张“赚钱地图”并不平整。有的公司收入和利润同步回落；有的收入增长超过两成，但利润仍未厚起来；也有公司靠新增需求维持了两位数增长。（每日经济新闻）</p>\n  <p><strong>神农集团：10月商品猪销售收入5.91亿元，同比增长49.24%</strong></p>\n  <p>36氪获悉，神农集团公告，2026年10月份，公司销售商品猪42.84万头，同比增长55.9%（其中，向集团内部屠宰企业销售商品猪6.55万头）。商品猪销售收入5.91亿元，同比增长49.24%。商品猪销售均价9.83元/公斤，环比下降6.02%。&nbsp;</p>\n  <p><strong>环旭电子：10月合并营业收入66.44亿元，同比增加18.87%</strong></p>\n  <p>36氪获悉，环旭电子公告，公司2026年10月合并营业收入为66.44亿元，同比增加18.87%，环比减少11.25%。公司2026年1月至10月合并营业收入为535.24亿元，同比增加8.72%。</p>\n  <h2>投融资</h2>\n  <p><strong>理想汽车旗下创投公司增资1亿元</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，重庆车之辕创业投资有限公司发生工商变更，注册资本由6亿元人民币增至7亿元人民币，增加1亿元。该公司成立于2022年3月，法定代表人为王扬，经营范围为创业投资（限投资未上市企业），由重庆车之轩科技有限公司全资持股。天眼查集团信息显示，该公司为理想汽车集团成员企业。</p>\n  <p><strong>“优理奇机器人”完成5亿元Pre-A轮融资</strong></p>\n  <p>36氪获悉，“优理奇机器人”完成5亿元Pre-A轮融资。老股东谢诺投资、涌铧投资连续多轮超额追加投资，新进机构包括绿地集团、柯力传感、华工创投、新景富盈、红鸟启航基金、玉林产投等产业及财务投资人。</p>\n  <p><strong>抖音旗下星罗拾光增资至约363.83亿元</strong></p>\n  <p>36氪获悉，天眼查App显示，近日，深圳星罗拾光科技有限公司发生工商变更，注册资本由283.825亿元人民币增至363.825亿元人民币，增加80亿元，增幅约28.19%。该公司成立于2022年9月，法定代表人为石玉磊，经营范围含信息系统集成服务、软件开发、货物进出口、技术进出口、计算机软硬件及辅助设备批发和零售等。由抖音集团（香港）有限公司全资持股。</p>\n  <p><strong>“清析智研”完成近亿元天使轮融资</strong></p>\n  <p>近日，“清析智研”完成近亿元天使轮融资，投资方包括中芯聚源、高瓴创投、智元机器人、风物资本、东方嘉富及多家产业背景基金。成立不到半年，清析智研已在AI+材料研发与产业交付上取得阶段性进展，累计签约订单数千万元，客户涵盖先进制造、半导体、新材料等领域的产业企业与科研机构，并已与头部智能终端客户签署材料全栈委托研发订单。同时，公司即将发布全球首个全模态专家级智能表征分析模型，进一步推动专业模型能力的产品化。此外，清析自主研发的新一代稀土永磁材料已推进中试转化，目标于2027年实现量产。</p>\n  <h2>酷产品</h2>\n  <p><strong>2027款岚图知音将于11月13日上市</strong></p>\n  <p>36氪获悉，11月9日，岚图汽车正式官宣：智慧超充纯电大五座SUV 2027款岚图知音，将于11月13日正式上市。</p>\n  <p><strong>整理丨几何鱼</strong></p>",
-      "category": "tech",
-      "published_at": "2026-11-10T00:01:00+00:00",
-      "fetched_at": "2026-11-10T05:44:59.161850+00:00",
-      "fingerprint": "e724940bbcf4f08b"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "让eVTOL从产品成为商品，交易与运力服务商「零界航空」完成千万元天使轮融资｜36氪首发",
-      "url": "https://36kr.com/p/4063336242549893?f=rss",
-      "summary": "<p>36氪获悉，<strong>eVTOL交易与运力服务商安徽天泽零界航空有限公司（以下简称“零界航空”）近日完成千万元天使轮融资，由上海互翔投资管理有限公司独家投资。</strong>本轮资金将主要用于推进验证基地的建设与运营、完善OC运行体系、拓展主机厂合作网络、建设数字化平台与专业团队等。</p>\n  <p>今年5月，民航局披露过一组数据：国内已有19个无人驾驶航空器完成型号审定，在审型号超过70个。航空器下线指日可待，但属于它们的航线却还没有画好。一个更朴素的问题来到台前：造出来之后，谁来买、谁来飞、谁来为每一次飞行兜底？</p>\n  <p>这是一段横亘在产品和商品之间的空白。</p>\n  <p>“主机厂负责把技术变成产品，造出安全、可靠、成本可控的航空器。而运行是另一套逻辑，要面对的是安全责任、空域协调、属地资源、机队调度、客户账期等诸多问题。”零界航空创始人吴振亚说。</p>\n  <p>换句话说，eVTOL要真正成为商品，靠的不再是制造能力的延伸，而是投入真实场景、跑通商业闭环的运行能力。零界航空切入的正是这一段：不造飞机，专注交付后的持续运营与资产流转，让飞机真正飞得起来、算得过账。</p>\n  <h2><strong>起飞前，先想好怎么“落地”</strong></h2>\n  <p>零界航空的起点是一段招商引资的历史。在推动主机厂落地并和地方政府开展合作的过程中，一个现实问题浮出水面：<strong>地方有场景和预算，主机厂有产品，但中间的交易组织和持续运行，需要一个专业角色来补位。</strong>零界航空也就此诞生。</p>\n  <p>“主机厂把技术变成产品，这一段已经卷得很充分了。”吴振亚说，“但低空经济接下来的竞争，不是比谁造的飞机多，而是谁先在安全边界之内，把常态化运行跑通。企业多飞出一班合规航线，政府手里就多一份放开空域的底气。”</p>\n  <p>零界航空的起手式，是组织融资租赁交易。今年9月，零界与峰飞、皖江金租签署三方战略合作协议，协议包含30架V2000CG凯瑞鸥的采购，首批5架将于年内交付，其中2架已在9月完成交付。这也是吨级eVTOL第一次以可分期购入资产的形态进入市场。</p>\n  <p>融资租赁在航空业并不新鲜，但eVTOL是个例外——没有运营历史，没有残值曲线，无法进行风控定价。破解这个局面的办法，是把物权、资金流和运营权切分开来，金融机构直接向主机厂放款，地方客户以小额租金获得使用权；零界则在其中用回购和运营兜底，从而换取金融机构的放款意愿。</p>\n  <p>“重资产金融化有它自己的历史路径。飞机、船舶、工程机械，都是先有一批公司持续把租金跑出来，才慢慢长出残值曲线和二级流转市场。”在吴振亚看来，eVTOL市场现在缺少的，是第一组被完整记录下来的真实现金流。</p>\n  <p><strong>所以把飞机租出去只是第一步，更关键的命题在于交付之后如何让它在一座城市里产生价值，变成一件可持续管理的资产。</strong></p>\n  <p>围绕这个命题，零界航空搭建了由“airOS”和“零界飞选”组成的数字化底座，把原本难以量化的航空器运行和资产交易，转化为可监控、可计价、可复制的标准体系，并据此向地方客户提供四类服务。</p>\n  <p><strong>一是选型与交付验收。</strong>基于数字化交易平台“零界飞选”和AI交易智能体，在众多机型中帮客户匹配真实场景需求，把控交付标准。</p>\n  <p><strong>二是金融方案设计。</strong>为不同预算结构的客户匹配购买或租赁的资产结构，缓解客户现金流压力。</p>\n  <p><strong>三是搭建运行体系。</strong>协同进行OC取证，提供机队调度、安全管理等运行服务，让航空器具备持续运行的基础条件。</p>\n  <p><strong>四是数据反馈。</strong>airOS平台把每一架航空器的飞行时长、任务频次、维修记录和运营成本结构化地沉淀下来。对监管侧，这些数据能够为城市低空安全运行提供参考；对主机厂，真实的航线反馈有助于支撑产品研发迭代；对金融侧，持续发生的飞行数据和租金流水都能够转化为可量化的资产信用，为eVTOL这个新资产类别积累定价依据。</p>\n  <p>“所以客户买走的不是一架飞机，而是一整套能飞起来、管理好、算得过账的运营服务方案。”吴振亚说。在eVTOL缺乏真实商业闭环的当下，这套方案切中了两个要害：用融资租赁解决“买得起”，用运行体系和数字底座解决“信得过”，为低空经济从制造走向商业兑现，提供了一个可落地的观察样本。</p>\n  <h2><strong>把难走的路，先走一遍</strong></h2>\n  <p>零界把第一批验证押在两座基地上。</p>\n  <p>位于山东滨州的合资公司，是零界航空落下的第一子。零界与峰飞航空在滨州共同成立了区域运营平台，这也是峰飞唯一一家对外合资公司。首批凯瑞鸥货运eVTOL落地后，将围绕沿海与园区场景开展常态化物流飞行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_4674c61f9bae47f7af35691ee3ef3e92@6413691_oswg1441407oswg1885oswg1259_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">滨州基地交付的凯瑞鸥货运eVTOL</p>\n  <p>另一座基地位于陕西榆林，零界联合地方国有投资平台与科研机构，以租赁方式引入多架航空器，主要验证资产如何被租赁、如何被计价、以及期满如何回购或流转。</p>\n  <p>两个基地的侧重点不同，指向的是同一个命题：<strong>一座城市如何从零走向常态化运行，以及这套体系能否形成可复制的运营和成本模型。</strong></p>\n  <p>从航线组织、安全记录、异常处置到最终沉淀下来的运行数据，这些在真实场景中跑出来的经验，也将成为空域管理协同和地方监管标准制定所需要的参考实证。</p>\n  <p>“我们想先把难走的路走一遍。”吴振亚说，“等一座城市通过这几班货机，确认常态化运行是可控、可预期的，才能去打开更大片的空域、批准更多的场景。零界希望在这个过程里，扮演的是探路者，而不只是一个做生意的企业。”</p>\n  <p>这套模式也开始带来实际的收益。据吴振亚透露，榆林项目加之此前在河南、安徽等地落地的国资租赁与运行服务，零界航空今年的整体营收已达千万元。</p>\n  <p>基于两个基地的运行情况，零界航空计划在2027年继续拓展城市节点，进一步扩大验证范围。对于新节点的选择，吴振亚主要有四项考量：是否存在真实且持续的任务需求，地方政策与产业配套是否支持，空域是否允许常态化飞行，以及是否有能够承接属地资源的合作方。</p>\n  <p>“优先选择海岛、沿海及地广人稀地区等具有物流、巡检或应急救援刚需的场景。这类地区交通成本高、替代方案少，客户愿意为运输效率付费的空间更大。”他说。这一选择也呼应了监管层“先载货后载人、先远郊后城区”的发展路径。</p>\n  <p>长期来看，零界航空希望从当前自购飞机、验证场景的模式，逐步转向平台化运营。当运行数据和商业模型被充分验证后，航空器资产可以由地方平台、通航公司或其他客户持有，零界则作为平台方，负责连接航线航路、运力供给和付费买家，提供运力调度、运行管控等服务，“终极目标是成为低空出行领域的‘滴滴’。”</p>\n  <p>用吴振亚的话说，低空经济当前不是一个赚钱的行业，但未来一定是一个值钱的行业。零界航空现在要做的，是把“值钱”这个判断通过真实场景验证出来，逐步摸索出一套能被市场验证、能被资本定价的城市航空商业体系。</p>",
-      "category": "tech",
-      "published_at": "2026-11-10T02:40:42+00:00",
-      "fetched_at": "2026-11-10T05:44:59.161841+00:00",
-      "fingerprint": "f235ad7f26f9bd1b"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "2026商业世界值得关注的人，齐聚WISE现场丨首批嘉宾正式官宣",
-      "url": "https://36kr.com/p/4063344462304388?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_5b6ef5035a374bbcbf7c5fbffe743aad@6301044_oswg2002676oswg5001oswg1407_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>又是一年11月，36氪WISE2026商业之王大会，今年在北京亦庄和你见面。</p>\n  <p>WISE商业之王大会像一扇持续打开的窗口，每一年都向我们展示中国商业世界不断发生的变化。今年是WISE大会走过的第14年，从互联网浪潮到AI时代，从商业模式创新到技术驱动的产业变革，每一年，都有新的故事发生，也总有一群人，率先走向变化的中心。</p>\n  <p>2026年，这些变化变得更加具体。AI不再只是屏幕里的对话框，机器人开始走进真实生活，新的创业方式、新的商业机会不断涌现。那些曾经关于未来的讨论，正在成为今天真实发生的商业故事。</p>\n  <p>今年的WISE，我们一起聊聊，新技术如何真正走进商业？新的增长机会正在何处发生？那些站在变化一线的人，又在做出怎样的判断与选择？</p>\n  <p>于是，我们邀请了那些在商业一线探索与行动的人，继续和大家在WISE相见！</p>\n  <p>WISE2026商业之王，首批嘉宾，正式官宣。更多惊喜还在路上！扫描海报或文章底部“观众报名二维码”即可报名参会，席位有限，早鸟票仅剩最后五天，期待和你现场相见！</p>\n  <h2><strong>首批嘉宾阵容</strong></h2>\n  <p><strong>王兴兴丨宇树科技股份有限公司创始人、CEO、CTO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_4ef18ee1ef024f8d8057c4f7e1d114f2@6301044_oswg177060oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>王兴兴，宇树科技（Unitree）创始人、CEO、CTO。在硕士研究生期间，全球范围内，个人创先研发了使用低成本外转子无刷电机驱动的高性能四足机器人XDog，开创了全球低成本高性能足式机器人的技术先河。XDog机器人在2016年受到了国内外多家媒体的报道，在全球机器人圈内获得巨大反响。</p>\n  <p>随后2016年8月创立了宇树科技（Unitree），在全球率先公开零售高性能四足机器人，全球销量历年领先，显著推动了全球高性能四足机器人和人形机器人的商业化进程。累计提交国内外专利申请200余项。带领公司获美团、腾讯、阿里、红杉、顺为、经纬等的多轮投资。曾带领团队让公司产品登上央视牛年春晚、冬奥会开幕式、Super Bowl和央视蛇年春晚、马年春晚等。荣获 2025 年中国青年五四奖章、2025 年第六届全国非公有制经济人士优秀中国特色社会主义事业建设者、2025《时代》周刊“全球 100 位最具影响力 AI 人物”，2026《时代》周刊封面人物，第四届全国创新争先奖状等荣誉。</p>\n  <p><strong>夏立雪丨无问芯穹联合创始人兼CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_6130eeb9835b4bfeaf67340da659ed75@6301044_oswg170050oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>夏立雪，无问芯穹联合创始人兼首席执行官，学士与博士均毕业于清华大学电子工程系，师从汪玉教授。长期致力于人工智能系统设计方法学研究，他在大语言模型的压缩加速、生成式AI模型芯片等领域的相关工作，是世界首个面向深度学习语音合成领域的定制化硬件设计，在国际上处于领先地位。发表学术论文30余篇，谷歌学术引用3500余次，连续五年入选斯坦福全球学科Top 2%科学家榜单，连续两年入选AI 2000人工智能全球最具影响力学者榜单（芯片方向Top100）。曾获2025年全国工业和信息化系统劳动模范、2025央视年度十大AI人物、2025财富40U40商业精英等荣誉。2023年创立无问芯穹，在他的带领下，无问芯穹已发展成为AI 基础设施领域最具代表性的高新技术企业之一。</p>\n  <p><strong>郝建业丨天津大学菁英教授、博士生导师、MemoraX AI创始人兼CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_1bf54cde64d04e9bb6441b6e28316a5a@6301044_oswg195287oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>郝建业，天津大学菁英教授、博士生导师、MemoraX AI创始人兼CEO，国家优秀青年科学基金获得者，博士毕业于香港中文大学，曾于麻省理工学院从事博士后研究。长期深耕深度强化学习、多智能体系统与具身智能，在ICML、NeurIPS、ICLR及Nature Communications等国际顶会顶刊发表论文150余篇，谷歌学术引用超1.5万次，获国际会议最佳论文奖4次、NeurIPS竞赛冠军4次。曾任华为诺亚方舟决策推理实验室主任、大模型算法实验室主任、华为医疗军团技术总裁，主导多个AI产业项目从0到1孵化。</p>\n  <p>2026年创立MemoraX AI，专注于构建下一代AI记忆基础设施，致力于突破大模型长期记忆能力瓶颈。目前，公司已推动长期记忆技术在医疗、金融、软件开发、智能终端等10多个行业实现商业化落地，并在成立半年内完成三轮数亿元融资。</p>\n  <p><strong>王翔丨高山新域创始合伙人、小米集团前总裁、高通大中华区前总裁</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_d3698487670c4e33ba606dd168328df8@6301044_oswg228648oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>王翔，高山新域创始合伙人、小米集团前总裁、高通大中华区前总裁，2015年加入小米集团，历任高级副总裁、国际业务部总裁，小米集团总裁及代理首席财务官等职务，主导国际业务拓展与知识产权体系建设，为小米全球化扫清专利障碍并建立专利壁垒。2022年12月卸任集团总裁，转任高级顾问。</p>\n  <p>后转向科技创业孵化与投资，创立高山新域并担任创始合伙人，聚焦AI应用、科技出海与智能制造三大方向，助力年轻创业者链接中国供应链与全球市场。现任具身智能产业联盟联席理事长。</p>\n  <p><strong>郭后扬‌丨诺瓦聚变创始人、董事长兼CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_245483ff218546fc985e4d3d85e34b13@6301044_oswg182003oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>郭后扬‌，美国物理学会会士（APS Fellow）、特聘专家，现任福耀科大·诺瓦核聚变创新研究院院长、福耀科技大学特聘教授，也是全球极少数同时深度参与托卡马克与场反位形（FRC）两大主流聚变路线的科学家，学术与工程经历横跨亚洲、欧洲、美国的顶尖机构：曾任全球最大托卡马克JET偏滤器再循环组组长与实验负责人、美国能源部最大FRC研究计划负责人、TAE Technologies首席科学家、美国最大托卡马克General Atomics DIII-D边界等离子体与材料研究中心创始人兼主任、中科院EAST托卡马克研究室主任，且具备国内多家聚变企业CTO经历，在基础理论和装置建造等多方面具有宝贵的实践经验。这一横跨东西方院校企业、贯通两条聚变路线的复合履历，构成了参与全球未来能源科学范式定义所必需的学术和产业背景。</p>\n  <p><strong>张翼丨未来不远机器人创始人兼CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_9251a25c94624b76a57b4f12bb753ea8@6301044_oswg1359578oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>张翼，未来不远机器人创始人兼CEO，前美股互联网上市公司掌门教育创始人兼CEO。2022年，创立未来不远机器人，获得包括真格基金，博裕创投，字节等多轮近10亿融资。目前未来不远机器人已经进入500多个家庭进行付费使用，是全球首个进入真实家庭环境使用的通用机器人。</p>\n  <p><strong>赵燕 | 华熙集团董事长、华熙生物董事长兼总裁</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_c7db7a366b76450c96bad7e62b940645@6301044_oswg171120oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>赵燕，华熙国际投资集团董事长、华熙生物（688363.SH）董事长兼总裁，现任北京市政协常委、海淀区人大代表、全国工商联执委、全联女企业家商会常务会长、北京市工商联副主席。1989年创立华熙国际，建设运营五棵松“双奥场馆”，开创“华熙LIVE”模式。2000年创立华熙生物，率先实现透明质酸生物制造，市场份额全球第一。曾获全国三八红旗手、中国经济年度人物、福布斯中国杰出商界女性100等荣誉。</p>\n  <p><strong>李志飞丨出门问问创始人、CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_8747d5a9e61f4199b24fee9df254d613@6301044_oswg245826oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>李志飞，出门问问创始人兼CEO，约翰霍普金斯大学计算机系博士，自然语言处理与人工智能专家，前Google总部科学家。</p>\n  <p>2012年，李志飞离开Google回国创办出门问问。过去十余年，他持续带领公司穿越移动互联网、AIoT与生成式AI多个技术周期，主导研发并商业化落地语音助手、智能硬件、多模态大模型及AIGC产品，包括魔音工坊（海外版DupDub）、奇妙元、奇妙问等。</p>\n  <p>同时，他围绕Agent能力与AI原生工作流，探索新一代AI原生应用与硬件形态，推出TicNote、CodeBanana等Agentic AI产品。在这一过程中，李志飞形成了一条中国创业者中较为少见的、连续跨代际转型的实践路径，并持续探索AGI的工程实现与商业化边界。</p>\n  <p>李志飞带领的出门问问先后获得红杉资本、真格基金、Google、SIG、歌尔声学等知名机构投资，并于2024年4月24日在香港交易所上市，被称为“AIGC 第一股”。</p>\n  <p><strong>樊耀塬丨纳开量子创始人兼CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_1deebc62458740569735d5677ee2676b@6301044_oswg172182oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>樊耀塬，1998年出生，北京大学物理学院本科、电子学院量子电子学博士，从事冷原子研究超8年。博士期间主导搭建国内首台超冷原子干涉陀螺仪系统，并联合搭建国内首台超冷原子布洛赫振荡型重力仪。2026年以优秀毕业生身份完成博士学业，同年4月创立纳开量子，致力于中性原子量子计算机研发。公司掌握将9种元素原子冷却至10nK以下温区的核心工艺，已交付量子模拟整机“纳开一号”并获千万级市场订单，成立数月内完成破亿元天使轮及天使+轮融资，高瓴创投、长石资本等机构参与。</p>\n  <p><strong>陈天润 | 魔芯科技创始人、CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_ce79fc5c444145e3bf7ad1d6481c3c64@6301044_oswg1150217oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>魔芯科技创始人兼CEO陈天润系浙江大学博士，师从中国工程院院士潘云鹤。深耕空间智能与4D世界模型领域，在Science、Nature Photonics、IEEE TPAMI等期刊及ICCV、CVPR、ICML、SIGGRAPH等会议发表高水平论文50余篇。多项研究成果入选会议Highlight、Oral、Spotlight，获2024年Chinagraph最佳论文奖。同时担任NeurIPS、ICML、CVPR国际会议审稿人。2022年荣获共青团中央科技创新最高奖项“中国青少年科技创新奖”，系浙江省高校唯一获奖者。先后入选2024福布斯Forbes Asia 30 Under 30、2022胡润U30中国创业先锋、2023创业30 Under 30+等青年科创领域主流权威榜单。</p>\n  <p><strong>亓鲁（Gavin）丨影石创新研究院院长</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_ddf152fe611f4abfb26b500c1c98d184@6301044_oswg170440oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>亓鲁（Gavin），影石创新研究院院长，武汉大学计算机学院教授、博士生导师，国家级高层次青年人才。累计发表学术论文80余篇，其中CCF-A类论文一作与通讯论文40余篇，学术引用逾19,000次，担任TPAMI编委。现任影石Insta360研究院负责人及首席人工智能官，推动智能影像与AI技术在产品端的融合。</p>\n  <p><strong>周子寒丨群核科技首席科学家</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_f5b753bb66e74e04a4288092c228d7d8@6301044_oswg173661oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>周子寒，群核科技首席科学家，“国家级海外高层次青年人才”，清华大学自动化系学士，美国伊利诺伊大学厄巴纳香槟分校（UIUC）电子与计算机工程硕士/博士，曾任宾夕法尼亚州立大学信息科学与技术学院助理教授（长聘轨）。在计算机视觉和机器学习领域有深入的研究成果，特别是三维视觉方向。在学术领域已经发表了40余篇论文，研究结果发表于CVPR，ICCV，ECCV，TPAMI，TIP，TMM等顶级的国际会议与杂志，引用超过5000次。</p>\n  <p>2013年1月-2021年4月就职于美国宾夕法尼亚州立大学信息科学与技术学院，历任研究员、助理教授（长聘轨），聚焦三维计算机视觉前沿研究；</p>\n  <p>2021年5月加入群核科技，任首席科学家，主导三维空间智能技术和群核科技世界模型的自主创新研发。</p>\n  <p><strong>李柯宏丨酷哇科技联合创始人兼COO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_1464af3207d54e85ac5abe35478f9f22@6301044_oswg158837oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>李柯宏，酷哇科技联合创始人、COO，负责公司经营与商业化。曾任职于美元VC，后进入产业，完整经历机器人产品从定义、落地到复购盈利的全过程。</p>\n  <p><strong>信晓旭丨后摩智能联合创始人、产品副总裁</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_85bfa8b6d778478dbb90a0960c933875@6301044_oswg191161oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>信晓旭，后摩智能联合创始人、产品副总裁，具有15年以上计算芯片产品、市场和销售经验，曾任海思计算芯片产品总监，负责海思昇腾系列多款AI芯片的产品定义和市场推广，涵盖自动驾驶、安防、数据中心等领域。在Cavium（被Marvell 60亿美金收购）作为中国区创始团队成员之一，带领团队将中国区业务从零做到数亿人民币。</p>\n  <p><strong>曹芳宁丨多维资本创始人</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_73af8a5c27124170bcb49dd583f58808@6301044_oswg1201465oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>曹芳宁女士是多维资本创始人。创立多维资本前，她曾任罗兰贝格全球合伙人，拥有超十年战略咨询经验，深扎汽车与消费产业，曾任上海市政府高级顾问及三家上市公司独董。2015年创立多维资本以来，她带领团队聚焦硬科技、前沿科技行业的投融资和跨境并购业务，累计完成几百亿美元交易，被誉为“跨体系产业架构师”。</p>\n  <p><strong>刘扬 | 原力无限联合创始人&nbsp;</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_3a9f5932e4f149e99e3e282c0b9e9a40@6301044_oswg158512oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>刘扬，原力无限联合创始人，北京航空航天大学硕士，连续创业者，拥有20余年科技行业从业经历。曾任职于腾讯、百度、迪士尼等企业，长期深耕智能驾驶与人工智能领域。联合创立原力无限，负责产品规划与商业化落地，推动具身智能机器人向真实产业场景转化。</p>\n  <p><strong>朱清毅丨朱葛机器人创始人、董事长、CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_dd90e435a3a743f1a4f1827644171f63@6301044_oswg169533oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>朱清毅，视障科技创业者，（瑞士）新华都商学院EMBA，中国残联无障碍技术专家。2001年创办全国首个视障无障碍信息网站，2009年创立朱葛机器人，主导研发“AI LOOK”盲人助理机器人，融合激光雷达与深度视觉，主打无需预扫图、无需遥控、开机即走，致力于用具身智能解决视障群体出行难题。公司已完成Pre-A轮融资，产品进入小批量交付阶段。</p>\n  <p><strong>周顺波丨欧拉万象创始人兼CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_5f5a0e2c5c604987a6216d045163b1e8@6301044_oswg1306249oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>香港中文大学机器人学博士，华为“天才少年”，曾任华为云物理智能创新Lab负责人、首席技术专家，从0到1搭建华为具身智能团队。2026年3月创立欧拉万象，专注可养成家庭机器人，推动机器人从极客场景走向大众家庭，公司半年内完成四轮融资。</p>\n  <p><strong>于亚飞丨EverHarbour AI智能眼镜总经理</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_8c71706f9e814f1d80132bfc8d7e1663@6301044_oswg1797368oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>于亚飞，EverHarbour AI 智能眼镜总经理。</p>\n  <p>从投资人转型为 AI 眼镜产业的实践者，他带领团队秉持以“优雅不彰，自在随行”为核心品牌理念，围绕舒适佩戴、优雅设计、全天候长续航与 AI 能力原生融合三条主线打磨产品，推动 AI 会议智能整理、多音效开放式听音等能力在真实工作与生活商务场景中落地。</p>\n  <p>在2026全球影像场景产业大会，上品牌提出“先理解用户，再定义产品”是独到观点。</p>\n  <p><strong>曹静文丨萤石网络董事会秘书</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_0613c36ea3d44878a346d591da78c769@6301044_oswg181919oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>曹静文，美国伊利诺伊大学香槟分校金融与会计本科双学位。曾任德勤全球总部金融服务行业高级审计师，后历任海康威视内控部高级内审、董事会办公室投资者关系经理。2024年5月起任萤石网络董事会秘书，负责公司治理、信息披露与投资者关系管理，以及公司战略市场部。</p>\n  <p><strong>吕志威 |&nbsp;广汽领程营销企划部部长&nbsp;</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_bb6f3bc5fe3a4dc48b6a7a6d10d74847@6301044_oswg170369oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>吕志威，全面统筹公司营销规划、营销策略、品牌建设、市场推广、公关传播、大型市场活动策划执行、数字化营销等。平衡短期获客目标与长期品牌建设，支撑公司业务增长，助力品牌在新能源商用车赛道加速破圈。</p>\n  <p><strong>邓堃丨黑芝麻智能应用工程副总裁</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_645a8a3d4b694a478eecc8a1acac2fd9@6301044_oswg223406oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>邓堃，黑芝麻智能应用工程副总裁，领导团队开发基于黑芝麻智能芯片的自动驾驶平台化算法应用、SOC应用、系统集成应用。领导团队为OEM/Tier1客户提供黑芝麻智能芯片、算法、工具链相关的技术支持和工程落地。</p>\n  <p><strong>张虹丨可计算开店Locxx.ai CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_7f1a58d7bea64f9db9b4743ca7dfca1d@6301044_oswg166320oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>张虹，实体零售空间智能决策创业者。曾任头部本地生活平台供应链产品经理、新零售产品经理，从0到1搭建营销与流量交易体系，执掌零售空间交易体系LCN十年。现主导研发零售空间流量底座模型，用AI把选址、客流与拓店从经验判断转为可验证的计算，为连锁品牌与新锐品牌交付开店决策能力。</p>\n  <p><strong>鲁扬丨PureblueAI 清蓝创始人&amp;CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_205763fe13d148909f4f1a098d2e5f4c@6301044_oswg1495230oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>鲁扬毕业于清华⼤学中⽂系，20余年科技⾏业经验。前字节跳动⽕⼭引擎市场总经理、⾖包⼤模型市场负责⼈，前销售易市场副总裁，早年在IBM/联想/京东等企业任职。中国商⼴协数委员会常务理事，⻁啸奖、⾦匠奖等营销奖项专家评委，《To B增⻓实战》系列书籍联合作者。获2023中国⼗⼤⾸席品牌官、第⼗五、十七届⻁啸奖年度⼈物等称号。</p>\n  <p><strong>曲凯丨42章经创始人</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_ad8c2a1c53d54286beb7308389f2b95f@6301044_oswg191627oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>曲凯，杜克大学研究生，中信《创投42章经》一书作者，福布斯中国30 under 30。曲凯在“得到”上的专栏获得超20万付费订阅，在知乎上拥有数十万粉丝，并曾多次荣获36氪及虎嗅年度“最受欢迎作者”。42章经是目前国内AI领域头部媒体，拥有超过15万播客订阅，与超过35万微信公众号订阅，订阅者包括字节跳动创始人张一鸣、美团创始人王兴等等。2023年以来，42章经成功帮助数十家AI赛道公司获得融资，并参与其中数家投资。</p>\n  <p><strong>张阳丨Wanaka CEO</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_10d48823d45a444d9903a371825c4686@6301044_oswg179349oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>张阳，90后连续创业者。曾任职于小米和字节跳动，负责国际化出海产品，主导过从0到千万级DAU的增长。2022年离开字节后先后创办社交产品LiveIn与AI教育产品Answer AI，后者年经常性收入达300万美元。2025年创立Wanaka，定位AI驱动的UGC游戏创作与熟人社交平台，对标“游戏界的抖音”，天使轮获锦秋基金等机构数百万美元投资，估值5000万美元。产品分为网页端AI游戏引擎与移动端社交应用，主打让普通用户通过对话与拖拽即可创作游戏，并分享给朋友一起玩。</p>\n  <p>以上嘉宾是WISE2026商业之王大会首批官宣的嘉宾，更多惊喜还在路上！&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_f4c9ff203df749c2bad73dbd99f16392@6301044_oswg57930oswg1024oswg1024_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>扫描该二维码即可报名参会，席位有限，早鸟票仅剩最后五天，期待和你现场相见！</p>\n  <p>同时，WISE2026商业之王特别策划的“产业对接会”还在火热招募中，扫描下方二维码即刻报名“产业对接会”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_7a9e921f76e7490ca0b32c82cabc27c3@6301044_oswg126914oswg1024oswg1024_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261110/v2_0d4ec58f32444890871fb3dcebc0d6b7@6301044_oswg122562oswg1023oswg1023_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-11-10T02:57:39+00:00",
-      "fetched_at": "2026-11-10T05:44:59.161825+00:00",
-      "fingerprint": "bd332eaa9ad29663"
-    },
-    {
-      "source": "少数派",
-      "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验",
-      "url": "https://sspai.com/post/118227",
-      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...<a href=\"https://sspai.com/post/118227\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-09T07:40:22+00:00",
-      "fetched_at": "2026-11-10T05:44:42.783657+00:00",
-      "fingerprint": "6d019ce92974060a"
-    },
-    {
-      "source": "少数派",
-      "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
-      "url": "https://sspai.com/post/118799",
-      "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。<a href=\"https://sspai.com/post/118799\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-09T08:24:03+00:00",
-      "fetched_at": "2026-11-10T05:44:42.783650+00:00",
-      "fingerprint": "8f4ba8b1d04c1727"
-    },
-    {
-      "source": "少数派",
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/118833",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/118833\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-09T10:27:59+00:00",
-      "fetched_at": "2026-11-10T05:44:42.783636+00:00",
-      "fingerprint": "2ffc81e09d78a52a"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-      "url": "https://sspai.com/post/118854",
-      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/118854\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-10T00:24:40+00:00",
-      "fetched_at": "2026-11-10T05:44:42.783618+00:00",
-      "fingerprint": "f8ed114e1848fa59"
-    },
-    {
-      "source": "少数派",
-      "title": "今年双十一，这些鼠标值得一看",
-      "url": "https://sspai.com/post/111065",
-      "summary": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。<a href=\"https://sspai.com/post/111065\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-10T03:00:25+00:00",
-      "fetched_at": "2026-11-10T05:44:42.783607+00:00",
-      "fingerprint": "a422eb1cea9fdff6"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.6002 CNY ↑+0.36%",
-      "url": "https://www.frankfurter.app/2026-11-09?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-11-09</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.6002 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0165 (+0.36%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-11-10T05:44:41.694618+00:00",
-      "fingerprint": "46308f8242ee487b"
     }
   ]
 }
