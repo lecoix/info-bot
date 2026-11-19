@@ -1,7 +1,297 @@
 {
-  "updated_at": "2026-11-18T05:42:00.713033+00:00",
-  "count": 180,
+  "updated_at": "2026-11-19T05:40:57.919060+00:00",
+  "count": 181,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "summary": "<p>A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza</p><p>Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s <a href=\"https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize\">Nobel peace prize winner, Navi Pillay</a>, if the <a href=\"https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj\">court rules on Thursday that the Myanmar government committed genocide</a> against the Rohingya.</p><p>The ICJ has never found a state responsible for committing genocide, and a significant factor in previous cases has been how to prove “intent” in a crime defined as acts committed with the “intent to destroy, in whole or in part” a national, ethnical, racial or religious group.</p> <a href=\"https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-11-18T09:58:28+00:00",
+      "fetched_at": "2026-11-19T05:40:57.915547+00:00",
+      "fingerprint": "11b2c0aec9d7aaef"
+    },
+    {
+      "source": "The Guardian - World",
+      "title": "One in four women globally unable to refuse sex within marriage, says UN",
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "summary": "<p>Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds</p><p>One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.</p><p>In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in Arab states face the same predicament. In Latin America and the Caribbean, one in 10 women are not able to refuse sex, said the report by the UN Population Fund (<a href=\"https://www.unfpa.org/latest?_gl=1*qgl8yd*_up*MQ..*_gs*MQ..&amp;gclid=Cj0KCQiAtvXXBhC2ARIsAJc8SUT_aKqck2yVoC8vNqJ6FDghCWHDwCXcKD3yGJ9fmgqTGSh0z0LaYAcaAvlMEALw_wcB&amp;gbraid=0AAAAAoaU5jLrFra9lcVEXtmHPvgYu0nsj\">UNFPA</a>) published on Thursday.</p> <a href=\"https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-11-19T04:00:16+00:00",
+      "fetched_at": "2026-11-19T05:40:57.915539+00:00",
+      "fingerprint": "2b7e66a3cbc379a3"
+    },
+    {
+      "source": "BBC World News",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "category": "politics",
+      "published_at": "2026-11-19T02:20:15+00:00",
+      "fetched_at": "2026-11-19T05:40:57.833568+00:00",
+      "fingerprint": "787ec3ea015eb548"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "category": "politics",
+      "published_at": "2026-11-18T23:04:06+00:00",
+      "fetched_at": "2026-11-19T05:40:57.833564+00:00",
+      "fingerprint": "5a9c64a2d43f289a"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "category": "politics",
+      "published_at": "2026-11-18T17:00:40+00:00",
+      "fetched_at": "2026-11-19T05:40:57.833559+00:00",
+      "fingerprint": "3899f95c62c8755c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "category": "politics",
+      "published_at": "2026-11-19T04:42:52+00:00",
+      "fetched_at": "2026-11-19T05:40:57.833550+00:00",
+      "fingerprint": "b294a552230e3405"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "黃仁勳婚外情掀「中國間諜」迷因：幽默與偏見之間，亞裔女性如何自處？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "黃仁勳醜聞曝光後，網上湧現大量「中國間諜」、「美人計」笑話。這些看似無傷大雅的時事迷因，卻讓部分亞裔女性感到困擾。",
+      "category": "politics",
+      "published_at": "2026-11-18T12:17:23+00:00",
+      "fetched_at": "2026-11-19T05:40:57.730196+00:00",
+      "fingerprint": "3816d71bcc178fbb"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "麒麟山莊離APEC主會場約30分鐘車程，三面環山、一面臨水，封閉性和安保條件都很好。它也與習近平的父親習仲勳有淵源，還接待過已故朝鮮領導人金正日。",
+      "category": "politics",
+      "published_at": "2026-11-18T08:06:49+00:00",
+      "fetched_at": "2026-11-19T05:40:57.730192+00:00",
+      "fingerprint": "c152b63dd42cebc8"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機",
+      "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "這是中國自1980年以來，首次有最高領導人親赴機場迎接外國元首。1980年前，華國鋒、毛澤東都有多次赴機場迎接外國領袖的歷史。",
+      "category": "politics",
+      "published_at": "2026-11-18T13:21:40+00:00",
+      "fetched_at": "2026-11-19T05:40:57.730187+00:00",
+      "fingerprint": "ebb64bb62020edaa"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "「他們能坐下來，就說明這個世界還沒有到第一次或第二次世界大戰那個狀況。」香港科技大學榮休教授丁學良對BBC說。",
+      "category": "politics",
+      "published_at": "2026-11-19T00:11:57+00:00",
+      "fetched_at": "2026-11-19T05:40:57.730178+00:00",
+      "fingerprint": "34ff6da994631c5f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-19T05:40:57.393867+00:00",
+      "fingerprint": "ab00b903e6c15228"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-19T05:40:57.393788+00:00",
+      "fingerprint": "92460c3cc95e98a3"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-19T05:40:57.393693+00:00",
+      "fingerprint": "e8a84f6111970e8a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-19T05:40:57.393606+00:00",
+      "fingerprint": "0c457241d113ed5a"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-19T05:40:57.393480+00:00",
+      "fingerprint": "f539fcdaf975fdb9"
+    },
+    {
+      "source": "The Verge",
+      "title": "Absolute Batman can save DC Studios",
+      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-18T21:20:00+00:00",
+      "fetched_at": "2026-11-19T05:40:57.012108+00:00",
+      "fingerprint": "7d3a781439efe00a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To his left were about a dozen empty chairs - [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-18T22:05:48+00:00",
+      "fetched_at": "2026-11-19T05:40:57.012103+00:00",
+      "fingerprint": "2ee1cbf3de902b1c"
+    },
+    {
+      "source": "The Verge",
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-18T23:18:35+00:00",
+      "fetched_at": "2026-11-19T05:40:57.012099+00:00",
+      "fingerprint": "d8ba4398191c3d46"
+    },
+    {
+      "source": "The Verge",
+      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the conflict following weeks of back and forth between [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-19T01:39:45+00:00",
+      "fetched_at": "2026-11-19T05:40:57.012089+00:00",
+      "fingerprint": "b863bb1d729a3521"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
+      "url": "https://36kr.com/p/4075322592187524?f=rss",
+      "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，近日，镁伽科技已完成新一轮近2亿美元融资。本轮融资由阿曼苏丹国主权财富基金阿曼投资局（OIA）参与投资，亚投资本、Granite Asia、创新工场等老股东加注，招银国际、苏创投、三江招商集团等机构跟投，覆盖国际主权资本、头部金融资本及地方国资产业资本等。</p>\n  <p>当前，AI for Science想要真正跑通绕不开一个底层问题：数据。成规模、高质量、可复用的科研数据目前仍是稀缺资源，而国内绝大多数生命科学实验室的设备和耗材仍不具备大规模、一致性产生数据的能力。</p>\n  <p>镁伽创始人、首席执行官黄瑜清曾将其形容为“科学家们对数据日益增长的需求，和相对落后的生产力之间的矛盾”。也正是这一矛盾，让AI自动化实验室在今年的AI4S投资热潮中再度迎来了自己的小高峰。</p>\n  <p>随着人工智能从数字世界走向真实世界，仅有数据还不够，需要推动AI真正进入科学研究、实验室、生产线等复杂物理系统，连接模型、数据、软件、硬件与物理执行，完成从思考、设计到执行、观测、持续反馈学习和优化的完整过程。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261118/v2_edc2f736de6b4a8c9c8aafb467b4f014@5930287_oswg8007061oswg7146oswg4019_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源：镁伽科技</p>\n  <p>在国内，镁伽科技是较早布局该方向的公司之一。成立十年来，镁伽科技累计完成近6亿美元融资。2025年6月，镁伽科技曾递表港交所。据招股书，截至2025年6月，镁伽科技在手订单15亿元。</p>\n  <p>创业早期，镁伽团队曾想做一台能部署到上百万个生命科学实验室的通用机器人，但很快发现，科学家需要的不是单个设备，而是从实验设计到执行、数据处理的整套解决方案。</p>\n  <p>于是，团队从2019年起转向打造超级实验室。其核心载体是镁伽鲲鹏实验室，被公司定义为“生命科学行业的数据工厂”。该项目于2021年1.0版本投产、实现7×24小时无人实验，如今已迭代至4.0版本。</p>\n  <p>据镁伽科技方面公开信息，迭代后的镁伽鲲鹏实验室最大的变化是从“自动化执行”走向“自主智能体驱动”，定位面向AI for Science 建设的新一代AI原生科学发现与验证平台。实验室被拆成两个“大脑”，其中干实验大脑接到目标后会自动查阅文献、设计实验路径，湿实验大脑负责翻译和下发指令，中间的调度智能体指挥机械臂完成设备间转移，可将科学研发重新设计为“AI设计-自主实验-真实验证-数据生产-模型学习”的闭环。</p>\n  <p>以近期运行数据为例，该平台在7个月内完成了31条药物研发管线的规模化推进。</p>\n  <p>在业务侧，镁伽科技目前形成了科学智能与工业智能两大板块。其中，科学智能方面，公司已为超过500家客户交付相关基础设施，覆盖跨国药企、CRO、生物科技公司及科研机构，支持从早期科研、靶点探索、药物筛选到候选优化、生产质控等环节；镁伽鲲鹏实验室则为超过200家客户提供科研服务。</p>\n  <p>一个被多次提及的案例是，依托镁伽鲲鹏实验室，某抗体药研发团队用4个月完成针对18个靶点的56轮干湿实验闭环迭代，相当于传统模式下几十名名科研人员3、4年的工作量。</p>\n  <p>近期，镁伽科技还联合腾讯云、Twist Bioscience发起Poreva Open全球AI蛋白质设计挑战赛，不限模型和技术路线，由镁伽鲲鹏实验室承接湿实验验证，希望以超过一万条蛋白质设计序列的规模，为AI4S建立“开放的评价标尺”。</p>\n  <p>工业智能方面，主要聚焦半导体、光互联、新型显示等制造场景，提供缺陷识别、质量控制、良率分析、异常诊断与工艺参数优化等能力，目标不只是“发现缺陷”，还要让AI逐步理解材料、工艺、设备与良率之间的复杂关联。</p>\n  <p>与此同时，公司的商业模式也在不断演进，形成了两类交付模式：一类是以智能基础设施为核心，提供融合AI、软件与硬件的产品和平台；另一类是ARO（AI-Native Research Organization），将AI能力与实验执行融合，为客户提供科研服务。前者输出基础设施与技术能力，后者进一步将这些能力转化为实际科研成果，持续生成来自真实世界的高质量反馈，加速科学发现。</p>\n  <p>镁伽科技方面表示，本轮融资后，将继续加大核心技术研发和全球业务投入，加强在中国、欧洲、北美、中东及东南亚等市场的合作。“过去，AI最重要的能力是从人类已经积累的知识中学习。下一阶段，它将越来越多地进入真实世界，通过实验、制造和持续反馈，帮助人类创造新的知识、新的材料、新的工艺和新的产品。我们希望建设的，就是让这种能力可以规模化发生的基础设施。”黄瑜清称。</p>",
+      "category": "tech",
+      "published_at": "2026-11-19T00:30:00+00:00",
+      "fetched_at": "2026-11-19T05:40:56.750668+00:00",
+      "fingerprint": "93e99689e918c763"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "36氪首发丨钠电正极材料厂商获金投致源战略投资数千万元，万吨线将于Q4量产",
+      "url": "https://36kr.com/p/4076024574301061?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_842009cc149c46e7a4211f7bd8f55f45@6221844_oswg792979oswg2122oswg1376_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>3100</strong>字，建议阅读<strong>8</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，钠离子电池正极材料公司——钠远新材科技（无锡）有限公司（下称“钠远新材”）近期已完成数千万元A轮融资，由金投致源战略投资。本轮资金将主要用于马鞍山经开区先进电池终端集成智造基地建设，同时支撑无负极电池开发及海外市场拓展。</p>\n  <p>钠远新材成立于2022年，由深耕电池行业多年的德国海归博士团队创立。创始人刘众擎博士曾任职于德国于利希研究中心（欧洲顶尖能源研究机构），师从德国工程院院士Martin Winter，并曾在牛津大学和全球先进材料龙头德国肖特集团从事电池材料和产品的开发研究工作。</p>\n  <p>刘众擎认为，钠电正极材料的演进路线可以概括为三个阶段：2022至2023年以层状氧化物为主，2024至2025年转向NFPP，2026年起NFS逐步起量。</p>\n  <p>其逻辑在于：层状氧化物与锂电三元工艺相似，早期锂价高企时易于产业化，但锂价暴跌后性价比消失，且存在安全隐患；NFPP更接近磷酸铁锂，制程与应用有迹可循，因而率先起量；NFS技术难度最高——低温烧结的软性材料易吸水，高压下易分解产气。</p>\n  <p>目前，钠远新材已形成了NFS（硫酸铁钠）与NFPP（磷酸焦磷酸铁钠）两条聚阴离子材料体系，并配套循环回收材料体系。</p>\n  <p>硬氪了解到，钠远新材团队独创NFS“软硬结合+搭骨架”技术，通过硬质添加剂与主料的“AB料体系”解决了NFS单一材料压实密度低、高温循环差、易产气的技术瓶颈；NFPP则采用“超熔融合成技术”大幅降低材料粉阻，提高材料性能。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_ca294137fee542c89c3db441b9f4d097@6221844_oswg862428oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">NFS（硫酸铁钠）材料（图源/企业）</p>\n  <p>公司对两款材料有清晰分工：NFS短期瞄准消费类、轻型动力、UPS、启停等非超长循环场景，并凭借3.6V高电压平台在PACK端形成显著成本优势；NFPP则瞄准大储能与人工智能AIDC场景，主打长循环与高压实。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_3332295f3d7148639e59f91539c6bbd7@6221844_oswg636601oswg1074oswg679_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">NFPP（复合磷酸铁钠）材料（图源/企业）</p>\n  <p>公司判断，NFS不含磷、BOM成本小于1万元/吨，而NFPP涉及磷元素，原料成本约一万五六至一万七八，两者光原料端差价即达1万元左右，且NFS是唯一不受磷酸铁锂价格波动影响的材料，对比NFPP，更适合使用在轻型动力等对价格高度敏感的场景中，对现存铅酸电池形成替代。</p>\n  <p>目前，钠远新材的NFS材料已于2025年在江西千吨级先行验证产线上实现量产，并采用第二代喷雾法工艺。公司正进一步开发硬质添加剂与AB料体系的适配方案，拓展材料应用边界。在无负极电池领域，公司投入较大，从早期1Ah以内的小软包，推进至10Ah、20Ah级别大电芯的开发，规划今年年底做出6020或7220体系的完整电池包并上车验证。</p>\n  <p>目前，公司与德国肖特集团（固态钠电开发项目）进行合作，由肖特提供固态电解质、钠远提供正极材料与无负极方案，将电池技术从纯无负极液态向无负极半固态、全固态逐步过渡；正极侧进行界面优化与纳米固态电解质包覆，负极侧进行SEI界面处理，未来有望将钠离子电池密度提升至250-320 Wh/kg，进一步应用于车用、低空、机器人等新兴场景。</p>\n  <p>同时，公司正将业务向终端集成延伸。钠远新材方面向硬氪表示，这一延伸并非主业变化，国内材料端业务始终是企业发展的第一曲线，而终端集成方案则是针对海外市场的“辅助性、相辅相成”的第二增长曲线。</p>\n  <p>这是因为，海外客户与国内电芯客户需求不同，海外市场往往需要一套完整的集成式解决方案，单纯提供正极材料难以落地。“海外对于钠电的终端需求不比国内弱，但它没有完整的产业链，没办法直接将材料出售到海外，所以我们必须参与到终端集成里去。”刘众擎称。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_2359e617c3754cdd8d2a4955c261b1db@6221844_oswg212612oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">钠离子电池电芯（软包）（图源/企业）</p>\n  <p>公司强调，自身定位仍是材料公司，布局电池终端集成更多是为了推动行业应用落地，加速市场化进程，未来PACK包量产不排除寻找产业内合作伙伴共同推进。</p>\n  <p>目前，钠远新材在海外已布局东南亚（印尼、马来西亚的光储一体化分布式项目）、中亚（巴基斯坦，巴基斯坦商务部及海外客户曾来华调研，公司牵头联合正极、电芯、终端PACK及整车应用等国内合作方共同对接）、俄罗斯及北方低温地区，以及欧洲市场（特种电源、房车、分布式储能等项目在谈）。国内方面，低温换电与低温轻型动力后装需求也在同步推进，与海外低温需求形成协同。</p>\n  <p>展望未来，公司认为行业竞争已从“讲故事、讲技术好”转向“产品能否真正满足客户需求、整个供应链能否都赚到钱”，2026至2028年要解决的是材料、电芯到终端怎么形成良性循环的问题。</p>\n  <p>产能规划上，钠远新材走的是“中试—千吨—万吨—远期扩产”的渐进路线：2024年在无锡建成百吨级工程技术中心，2025年江西千吨级先行验证产线实现量产，2026年安徽六安万吨级双栈产线计划Q4量产；同时正在筹划10万吨产能的远期规划。公司规划明年产能达到万吨、后年达到3万至5万吨，并逐步向10万吨级发展，可持续性将成为核心考验。</p>\n  <p><strong>以下是硬氪与创始人刘众擎的访谈节选（经编辑）：</strong></p>\n  <p><strong>硬氪：钠电正极材料从层状氧化物到NFPP再到NFS，为什么NFS最难却最值得做？</strong></p>\n  <p><strong>刘众擎：</strong>层状氧化物像锂电三元，设备、流程都接近，最早容易做，但锂价低于20万在价格上缺乏性价比，电压稍高还过不了针刺。NFPP像磷酸铁锂，制程和使用有迹可循，所以2024、2025年很多公司选择从层氧转做NFPP，量起得快。NFS是软性材料、低温烧结，易吸水，高压下易分解产气、导致鼓包胀气，当时行业里只有我们一家选这个方向。</p>\n  <p>我们2024年底推出硬质添加剂，用软硬结合搭骨架技术解决应用端问题，2025年量产，2026年客户验证陆续做完。NFS不含磷，BOM成本低于1万元/吨，是唯一不受磷酸铁锂价格波动影响的材料，比NFPP原材料成本便宜近1万块钱，明年起量后，很可能像当年NFPP替代层状氧化物一样，应用于更多场景。</p>\n  <p><strong>硬氪：NFS在PACK端的成本优势体现在哪里？</strong></p>\n  <p><strong>刘众擎：</strong>不能只看单颗电芯。比如做个7220电池包，NFS电压平台3.6V，20颗电芯就够达到72V；NFPP电压只有2.85V，72V电池包需要26到27颗电芯。一颗20Ah电芯30多块钱，光PACK端就差200块，而一组7220的包可能卖不到1000块，这就是20%的成本差。原来NFS这款材料有很多问题、用不了，但一旦能用，就能很快打开市场，今年下半年已经开始起量。我们也乐意帮助客户做电芯设计、拓场景，客户嫌倍率差，我们就把NFS从0.5C、1C迭代到20C、30C——客户做得好、多买材料，对我们也是好事。</p>\n  <p><strong>硬氪：无负极和固态是下一代方向，钠远作为材料公司为什么投入这么大？边界在哪里？</strong></p>\n  <p><strong>刘众擎：</strong>无负极被视为通往固态的第一级台阶，即无负极钠电-无负极半固态-无负极全固态三级演进逻辑。但无负极最大的问题是负极侧钠金属90多度会融化，只有半固态、全固态才能保证安全、过130度温箱测试，大动力必须过这一关。我们跟德国肖特合作，肖特出固态电解质，我们出正极材料和无负极方案，从纯液态往半固态、全固态过渡；正极做界面优化和纳米级包覆，负极做SEI界面处理。今年计划先完成20Ah级无负极电芯和整装模组包、让它上车跑一下，明年跟肖特推进半固态和全固态验证。但钠远是材料公司，做电芯方向的研究主要是为了推动行业往前走，未来电芯怎么生产，可能会找产业内伙伴一起做或推广，现在还没定。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>金投致源董事长方健：</strong>看好钠离子电池的长期战略价值。钠远新材围绕NFS、NFPP两条聚阴离子正极技术路线构建差异化技术壁垒，打通正极材料、电芯设计到终端应用的技术闭环。钠远材料体系具备高安全、宽温域、可循环回收的特点，同时适配下一代无负极钠离子电池，高度契合储能、轻型动力等场景产业化需求。</p>\n  <p>本轮资金投向马鞍山经开区建设先进电池终端集成智造基地，是公司从材料端向下游终端系统延伸的关键一步，补齐“材料—电芯—PACK”一体化制造能力，缩短产品验证周期、提升交付响应效率；同时加速推进未来无负极钠离子电池在终端的应用验证。</p>\n  <p>马鞍山拥有成熟的新能源产业配套，金投致源管理的马鞍山经开区母基金依托地方产业生态，助力企业落地制造产能、就近对接下游客户资源。我们认为，钠电正处在商业化放量的关键窗口期，钠远新材双路线并行的一体化布局，有利于持续优化良率、降低系统成本，加速钠电成套方案落地；后续我们将持续赋能企业产业链对接、产线建设与市场拓展，共同助力、推动钠远的发展。</p>",
+      "category": "tech",
+      "published_at": "2026-11-19T01:46:57+00:00",
+      "fetched_at": "2026-11-19T05:40:56.750661+00:00",
+      "fingerprint": "61919a2de394dc80"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "撕开欧美中高端健身器材缺口，浙江跑出健身器材全球化黑马",
+      "url": "https://36kr.com/p/4076016687617157?f=rss",
+      "summary": "<p>过去三十年，全球家庭健身的话语权一直握在欧美品牌手中，从硬件、内容、到软件乃至AI的创新叙事，主场都在太平洋彼岸。中国虽然是全球最大的健身器材制造国，却始终只有工厂、没有品牌。</p>\n  <p>美国智能健身品牌Peloton市值一度自高位大幅回撤，使主流叙事判定“家庭健身”只是疫情催生的短暂泡沫，也让一些后起的新兴品牌抓住市场机会，来自杭州的健身品牌「麦瑞克」在海外实现逆势生长：2021年启动出海，近两年海外销售额复合增长率约75%。</p>\n  <p>今年麦瑞克在亚马逊美国站动感单车、划船机、椭圆机三大类目市占率均位居第一，划船机在欧美多个站点取得领先份额。TikTok&nbsp;Shop渠道健身器材类目市占率位居第一。</p>\n  <p>中国企业在硬件制造与供应链端积淀深厚，出海厂商长期习惯了依托供应链能力做大硬件产品规模。麦瑞克却选择了“软硬结合”的路径，通过扩大研发投入，补齐内容与算法短板，将硬件产品、软件系统与AI能力整合为一套完整的解决方案。在麦瑞克创始人、董事长罗卫波看来，这条路注定艰难，但是公司实现出海模式升级的必经之路。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_ce9fb066685f40b1b10e82610c89278f@5688585_oswg1897674oswg6746oswg5052_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">麦瑞克创始人、董事长罗卫波</p>\n  <p>麦瑞克的海外增长路径可以总结为：在市场端放弃先去东南亚轻资产试水、再升级欧美的常规路径，直接切入客单价200-600美元的中高端市场。在品类打法上，以打爆划船机这一经典单品登顶亚马逊销售榜，再按同样逻辑逐步拉动椭圆机、动感单车、跑步机等品类。并且同步拓展2B企业市场。</p>\n  <p><strong>1.定位欧美中高端市场，啃下品牌出海“硬骨头”</strong></p>\n  <p>麦瑞克启动出海前，在国内面对的是一个长期陷入价格战的健身器材行业，疫情后的消费市场低迷让大盘进一步承压。彼时麦瑞克已在国内拿下多个品类销冠，椭圆机、筋膜枪在京东、天猫做到销量第一，划船机、动感单车陆续弯道超车，年GMV超10亿元。罗卫波判断：“国内市场受价格战内卷，寻求全球新兴市场的突围。”</p>\n  <p>美国作为全球最大的健身器材市场，规模达几百亿美元，保持着约10%的年复合增长率。“如果在美国市场能取得绝对领先的成绩，那到欧洲和其他市场，产品只要做本地化适配也很容易取得成功。”罗卫波说。</p>\n  <p><strong>市场选择决定了麦瑞克从一开始就以“全球化布局”为核心策略，目标客群聚焦在全球家用健身中高端用户，产品客单价定在200-600美元。</strong>“我们当时放弃了铺货的模式，不做低价竞争，而是坚定做全球化品牌，走价值驱动之路。”。罗卫波表示。</p>\n  <p>具体来说，麦瑞克的海外选品思路有两点。一是锁定有氧设备的核心盘，罗卫波解释，“这个品类在海外的客单价高、消费者更看重品牌，低客单价产品难以塑造品牌”。二是坚持“三不做”原则：品质、颜值、工艺不过关，一律不做。</p>\n  <p>真正让麦瑞克在海外打开局面的是划船机。这款产品在出海前已在国内被验证为爆款，团队调研后发现，海外的划船机产品普遍存在外观老土、品质不稳、阻力偏小三大短板，并针对这些短板对划船机进行一系列产品优化。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_671af0a486e948b585f8b77438fc38fa@5688585_oswg7830647oswg4000oswg1714_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">麦瑞克划船机</p>\n  <p>2023年亚马逊Prime会员日，定价400美元/台的“划船机MR-950R1ZH”销量近5000台，成为品牌第一个海外旗舰单品。</p>\n  <p>但是产品打爆凸显了“大件出海”背后的物流难题，健身器材多为大件或超大件，头程与尾程运费是两项主要成本，美国的尾程超重费按70磅、130磅分档计价，欧洲则是另一套阈值体系。</p>\n  <p>对此麦瑞克的应对方法是，同一套模具的核心部件（表盘、电机盖等）不变，只针对不同市场运费门槛调整可变部位的尺寸重量，从而优化尾程运费。并建设海外仓摊薄履约成本、缩短配送时效。</p>\n  <p>为提升海外本地化服务能力，麦瑞克计划明年在美国、欧洲落地自营办公室，招聘本土团队负责品牌、渠道与售后环节。</p>\n  <p><strong>2.跳出卖硬件传统路径，开拓高端2B市场</strong></p>\n  <p>在罗卫波看来，家庭健身器材行业有个近乎宿命的痛点：“一时兴起、三分钟热度、长期积灰。”用户买回一台设备，但缺乏指导，锻炼过程枯燥，设备很容易被闲置“吃灰”。</p>\n  <p>传统厂商一般只关注销售，卖出后与用户再无交集，这种一次性交易撑不起品牌心智，也更难实现复购。麦瑞克选择在系统软件和内容能力上解决这一难题，组建超过200人的研发团队，投入数亿元研发，搭起了“软硬服一体化”系统生态，包括自研AI私教课程APP麦瑞克，自建游戏团队开发实景竞技APP《绝影之竞2》。</p>\n  <p>目前，麦瑞克的“AI私教Mia”也已上线，近期也会推出AI心率私教产品，通过用户的心率、疲劳度等生理数据，定制单次或阶段性训练方案。罗卫波预计，随着硬件结构向中高端迁移，软件收入将迎来明显拐点，成为独立的营收来源，公司收入结构也有望从“卖硬件”走向软硬件并重。</p>\n  <p>三年前，麦瑞克推出高端智能健身品牌“绝影XENJOY”，同时面向C端客群与B端市场，目前已落地众多商业空间、企业健身房及企事业单位等B端客户场景。绝影团队还与国家体育总局训练局进行联合调研、共同研发，为运动员提供战备保障产品。“解决方案的能力本质是软件、内容与AI能力的结合。”罗卫波表示。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_0980efb573764c7b9fc5f4c0aaa0c1bd@5688585_oswg9181013oswg7008oswg4672_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">麦瑞克产品在海外市场销售</p>\n  <p>罗卫波还看到一个更大的潜在市场：新一代年轻人从小养成运动习惯，正逐渐成长为消费主力。“这一代人的运动意识，会明显高于我们这一代人。”</p>\n  <p>未来3-5年，麦瑞克规划双线并进：在国内抓住市场扩容机会，打造代表性的健身品牌；在海外以“硬件+内容+智能”产品力与国际品牌竞争中高端市场，对标国际品牌搭建海外内容体系。</p>\n  <p>在TikTok等海外社交媒体上，麦瑞克以达人建联与直播为核心打法，针对不同市场户型与运动痛点，进行产品差异化打磨，用生活化、可共情的原生内容还原真实居家使用场景；同时搭建金字塔式达人合作体系，联动垂类博主、居家KOC等多元本土达人，以真实体验口碑建立信任。截至目前，TikTok店铺累计建联达人超1.38万位。这套打法正逐步沉淀为适配TikTok生态的国货家庭健身出海范式。</p>\n  <p>在罗卫波的规划中，麦瑞克的成长路径可以总结为“商业验证、产品沉淀、品牌塑造、生态构建”这四步，终点是真正成为一家有全球化影响力的健身品牌。麦瑞克想做的，不只是把产品卖到海外，而是让中国运动科技真正参与全球竞争、站上世界舞台。</p>\n  <p>（作者 冯亚玲；编辑 杨越欣）</p>",
+      "category": "tech",
+      "published_at": "2026-11-19T02:50:37+00:00",
+      "fetched_at": "2026-11-19T05:40:56.750655+00:00",
+      "fingerprint": "fbd70647f132013c"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "从传统外贸到自有品牌：一家温岭工厂的出海转向",
+      "url": "https://36kr.com/p/4076034642924416?f=rss",
+      "summary": "<p>用热泵替代老式锅炉取暖在国内早已不是新鲜事，但却是世界许多地方正在悄然发生的改变。2025年欧洲热泵销量增长甚至达到两位数。</p>\n  <p>在浙江温岭，贴着「鑫磊」标识的空气动力设备与暖通空调产品正陆续发往东南亚、中东与欧洲市场。</p>\n  <p>作为一家国家级专精特新“小巨人”企业，鑫磊的业务覆盖空气压缩机、鼓风机、真空泵和暖通空调设备等产品。2025年，暖通空调设备收入同比增长24.75%，是公司主要增长板块之一。</p>\n  <p>1996年创办以来，鑫磊长期以贴牌代工为主，产品销往欧美与东南亚；近年鑫磊开始向海外推出自有品牌，试图在中国制造集体转向的节点，从幕后的制造者转变为台前的品牌方。</p>\n  <p>“中国制造企业过去几十年形成非常强的制造能力，但今天越来越多企业面对另一个问题：作为品牌，能不能被全球市场理解和接受。”领英中国区人才解决方案新客户开发部总经理张飞观察到，“产品做得好，和全球市场真正了解、信任这家公司，中间其实还有一段距离。”</p>\n  <p>钟佳妤就站在这道新题面前。她是鑫磊创始人钟仁志的女儿，2000年出生，从小在鑫磊厂里长大。2021年，钟佳妤大学毕业后回到公司，从市场部做起，2023年接班出任总经理。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_d0bc916493d943cf90b9f26f53191d7c@5688585_oswg1810072oswg3941oswg2772_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">钟佳妤</p>\n  <p><strong>1.&nbsp;从5亩厂房到A股上市公司</strong></p>\n  <p>据钟佳妤介绍，鑫磊是全国较早拿到ASME罐体���证和CE认证的企业，也因此成为最早把小型空压机卖到欧洲的中国工厂之一。</p>\n  <p>“父辈创业时的第一个厂房只有5亩，还是从国道边租来的。”她印象里，那时生意极好，来拉货的车能一直排到凌晨，因为能做CE和ASME认证的企业很少。</p>\n  <p>2008年之前，鑫磊主要从事压缩机生产和销售，外销占比非常高。2008-2010年间，公司遭遇反倾销，被征收超过70%的关税，导致欧洲客户流失、订单与收入显著下滑。</p>\n  <p>鑫磊尝试过两条路破局：一是去越南设厂，最后因汇率剧烈波动放弃；二是与意大利厂商合作，由对方装配鑫磊的零部件，但因为成本上升，这条路收效有限。最后鑫磊还是回到产品本身，联合高校研制出旋转式、涡旋式、螺杆式等新产品，欧盟反倾销措施到期后，凭借新产品，订单又重新回来了。</p>\n  <p>也在那两年，鑫磊从零开始搭建国内销售体系，被迫长出属于自己的市场、产品与交付能力。钟佳妤认为，这段经历也为后来在海外打造自主品牌做了铺垫。</p>\n  <p>2020年新冠疫情期间，鑫磊参与中石化口罩生产线的设备替换，用国产设备替代韩国设备；2022年，公司获评国家第四批专精特新“小巨人”企业；2023年1月19日，鑫磊股份在深交所创业板挂牌上市。</p>\n  <p>这是许多中国制造企业熟悉的路径。张飞观察到，过去很多企业的全球化是产品的全球化。产品可能已经遍布世界，但企业始终隐身幕后。因为那时候客户首先关心的是产品、技术、质量和交付能力，至于这家公司是谁、拥有怎样的团队和文化，并不总是最重要的信息。</p>\n  <p><strong>2.&nbsp;先当学生，再当总经理</strong></p>\n  <p>钟佳妤学的是传媒，读书时在4A公司和甲方市场部都实习过，一毕业就回了公司。</p>\n  <p>最初在市场部，她负责品牌升级，重组团队，把展会、文稿、代理商门店的视觉输出统一起来。她最先改动的是最容易被忽略的品牌名。过去公司对外叫“鑫磊压缩机”，她改成了“鑫磊”。“随着产品品类越做越多，我们早就不止压缩机这一个产品了。”她希望留给客户的印象是，鑫磊是一家公司，一个品牌，而不是某个生产机器的工厂。</p>\n  <p>刚回公司时，钟佳妤看到问题就向上反映，觉得这里该改、那里也该改。董事长提醒她，如果只做传声筒，把问题转交上去，永远融不进这家公司。从那以后，她先把来龙去脉摸清楚，再带上两三套自己想好的方案，去找对应的负责人商量着办；能先动手的小事先自己做，出了问题自己承担。</p>\n  <p>2023年10月董事会换届，钟佳妤出任总经理。此前她负责市场和营销比较多，刚担任总经理时对制造和研发有些抵触：环节与环节之间靠人工衔接，数据靠人报送，和她在外面见过的先进产线相比差距很明显。</p>\n  <p>一位代理商的话对她影响颇深：“学习鑫磊，了解鑫磊，再改变鑫磊。”在她看来，一家企业能走三十年、走到上市，必然有它自身的逻辑，先学，再谈改变。</p>\n  <p>她选择先从销售入手，这个环节能顺着订单了解不同人的分工：一张订单从接手到交付，要经过研发、采购、生产，一个环节一个环节地跟，他们平时在做什么、卡在哪里、什么情况下会拖，都看得见。</p>\n  <p>上任以后，她换掉过一些人。对留下来、新进来的，她讲得很直接：平常工作的时候是下属，生活中都是我的老师。</p>\n  <p>第一年，她用两件事让同事们愿意坦诚相对。一是轮岗，管生产的人去干一段销售，管销售的人进车间待一段，位置一换，原来藏在各自岗位背后的信息差就没有了。二是项目，她不直接给答案，把问题摆到桌上，让相关的几个人各自拿方案，各自讲为什么这么选。几个项目下来，大家都了解了中高层的想法。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_a3269cd884d64831a99c1ef2e5ed3f99@5688585_oswg1986479oswg1920oswg1080_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">鑫磊员工工作场景</p>\n  <p>在出海这条线上，她认为自己做得最见成效的一件事，是把销售逼出了工厂。原先是几个大销售接单，其余人跟单，主要依赖展会、独立站与国际站获客，大部分销售都守在温岭，等客户上门。如今，鑫磊先借助海关数据平台建立联系，摸清谁在进口、进口多少、从何而来；再让销售做海外陌拜，长期驻外跑市场。</p>\n  <p>在海外组织的搭建上，鑫磊按距离远近分两套打法。对东南亚这类邻近且华人密集的市场，直接从销售团队内部竞聘转岗，辅以驻外补贴派出；管理岗用��国人，内勤则招募具备多语言能力的当地员工，地推销售、仓储与售后全部本地化。</p>\n  <p>更远、环境更复杂的市场，则要靠品牌吸引人。钟佳妤说，海外候选人第一次听到鑫磊，了解其实有限，所以鑫磊在领英上持续发布内容，让行业里的人先认识这家公司，再叠加薪酬待遇，自然有吸引力。</p>\n  <p>她对时机的判断也被证明是正确的：在俄罗斯、中东、东南亚，欧美品牌的统治力逐渐走弱，市场对中国品牌的接受度在上升，当地职业经理人换平台时，中国品牌自然成为不错的选项。俄乌冲突后欧洲能源紧缺，各国用热泵中央空调替代锅炉与天然气，形成一个快速增长的新兴市场。</p>\n  <p><strong>3.&nbsp;从贴牌到自主品牌</strong></p>\n  <p>近些年，鑫磊独立出自有品牌部，在越南、中东、荷兰设立分公司，聘用当地员工开展本地化销售，并配套本地化仓储与售前售后服务。</p>\n  <p>鑫磊还说服一部分贴牌商转为经营自己的品牌，并配套品牌支持政策，包括官网、展会、当地营销，与他们共同承担品牌营销费用。</p>\n  <p>不过做自有品牌，不可避免会和之前的外贸客户形成竞争关系。为此，鑫磊划了一条边界。</p>\n  <p>产品上，活塞空压机这类产品依赖商超渠道销售，渠道掌握在贴牌商手里，仍然以贴牌为主。转做自有品牌的，一类是工业设备，客户看重的不是知名度，而是研发与制造能力，对中国品牌接受度更高。另一类是热泵中央空调，加上光伏的海外补贴可达50%到60%。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261119/v2_59f1f894e37a49a391fabc553bce28e1@5688585_oswg9909574oswg5000oswg3333_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">鑫磊空气能热泵空调</p>\n  <p>从市场来看，欧美仍是鑫磊贴牌业务最集中的市场，自有品牌的发力点放在中亚、中东、东南亚和“一带一路”沿线。</p>\n  <p>品牌定位上，钟佳妤的思路是：做不了国民品牌，就做专业品牌。国民品牌靠大众认知，铺广告、进卖场，鑫磊主要瞄准安装商，做贴身服务，在当地做培训和技术支持，先把安装商服务好，他们在向终端推荐产品时，才会优先考虑鑫磊。</p>\n  <p>而在服务安装商之前，第一步要做的是先被安装商看到。工业品的采购决策链条长，客户往往在第一次联系销售之前，就已经查过一轮公司基本情况，如果这时候查不到、看不清，连被考虑的机会也没有。</p>\n  <p>领英是覆盖全球200多个国家和地区、会员超过14亿的专业网络，企业可以按行业、职能和地区，在目标市场里找到采购者和决策者，也让对方找到自己。“这也是鑫磊选择领英作为窗口的原因，当客户先在专业网络里了解过鑫磊，再接到销售的联系，就不必从零开始建立了解，信任也能更快积累起来。”张飞说道。</p>\n  <p>鑫磊曾计划为一家美国客户在越南建厂，已经选好地址地块都已看好。就在合同即将签署的周末，美国关税政策出台，钟佳妤经过思索最终决定放弃。很快美国对来自马来西亚和越南的产品启动反倾销与反补贴调查，而她的放弃反而避免了公司投资石沉大海。</p>\n  <p>“出海并非一味加仓，在众人争相布局之时，懂得不做什么，同样是一种能力。</p>\n  <p>”钟佳妤总结道。</p>\n  <p>过去三十年，中国制造靠产品走向世界。钟佳妤觉得，对自己这一代人来说，接过的不只是一座工厂，更是把“中国制造”讲成“中国品牌”的机会，谁能抓住这个机会，谁就能在下一个三十年继续留在牌桌上。</p>\n  <p>（作者 冯亚玲；编辑 杨越欣）</p>",
+      "category": "tech",
+      "published_at": "2026-11-19T02:55:58+00:00",
+      "fetched_at": "2026-11-19T05:40:56.750646+00:00",
+      "fingerprint": "fc0230b805d61f63"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "聚焦个人知识与成长领域，「Akasi」要做更垂直的Personal Agent｜早期项目",
+      "url": "https://36kr.com/p/4075055709508740?f=rss",
+      "summary": "<p>毋庸置疑，PA（Personal Agent，个人智能体）已经是当下最热闹的AI产品方向。</p>\n  <p>2026年9月，Meta 发布 Muse，希望它能主动替用户处理邮件、安排旅行、推进长期目标；10月，国内的 Today AI 宣布累计融资超过 2 亿美元。能记住一个人、持续替他办事的 AI，吸引了大公司和创业者同时入场。</p>\n  <p>但 PA 还远未收敛成一种固定的产品形态。替人订票、购物、管理日程的个人助手，是目前最容易被看见的一种。更广泛的探索还包括如何帮助一个人学习、创作、理解自己，以及在长期相处中提供陪伴。“Personal”意味着 AI 开始围绕一个人的经历、偏好和目标持续工作，至于这种关系最终会怎样存在，仍有许多可能。</p>\n  <p><strong>「Akasi」选中的，是知识与成长这一部分。它希望人们把读过、想过的东西积累在这里，再从中得到新的想法。</strong>这款聚焦知识管理方向的PA产品，由杭州的「谦贞数字」团队从今年4月开始开发，彼时还没有PA一词。他们相信，AI会从普适化的工具走向更私人的领域。</p>\n  <p>在谦贞数字团队看来，当个人智能体能做的事越来越接近，交互的质感会成为用户愿不愿意长期使用一款产品的关键。隔几天再聊起一个问题，用户希望对面还是那个熟悉的伙伴。它记得上次谈到了哪里，也有自己的看法，有时会提出不同意见。相处久了，共同的经历也会影响它下一次怎样回应。Akasi 希望通过 AI 人格化技术，把这样的体验带进日常的学习和思考。</p>\n  <p>Akasi能记笔记、管理知识，也能和用户聊天，把笔记做成播客。它的桌宠有可选择的性格，可以换装，还会写下它对用户的观察。谦贞数字团队称它为「个人知识领域的 Personal Agent」，希望它成为一个陪人学习、思考的伙伴。</p>\n  <p>11月18日，「Akasi」 正式上线。据团队提供的数据，Akasi 首轮内测的次日留存率为 42%，三日留存率为 33%。</p>\n  <p>过去一年，我们与谦贞数字创始人王金鹏有过多次交流。期间，谦贞从二十余人的团队扩展到如今的八十余人；围绕“AI人格算法”，他们的产品重心从多角色共创UGC世界游戏“乌托”，延伸到今天的 Akasi。而反复出现在谈话里没有变化的，是王金鹏的一个愿望——让 AI 在与人的相处中发生变化。</p>\n  <h2><strong>01 一只 Personal 的灵感罐</strong></h2>\n  <p>向我们演示 Akasi 时，王金鹏先打开了一张知识图谱——里面有心理学、人工智能的资料，也有佛学和哲学。每篇笔记是一个节点，点开后，右侧显示内容，节点之间的线表示知识的关联。其中一条线，把《金刚经》和荣格人格联系在了一起。</p>\n  <p>这是他自己在 Akasi 中积累的资料。王金鹏做 AI 人格算法研究，需要在几个学科之间来回阅读，希望理解人的心理，再把其中的一些机制转化成 AI 可以运行的系统。资料越积越多，如何在需要时重新调用它们，也成了日常研究中的问题。</p>\n  <p>这条连线让王金鹏想到了他在人格研究中关心的一个问题：人原本认定了一件事，后来又是怎样改变看法的？回头再读《金刚经》里的“破执”，他觉得两者之间有值得继续探究的地方。</p>\n  <p><strong>在Akasi主页面的右下角，有一个“灵感罐”，用来收集这些随时掉落的灵感。积累在知识库里的内容，可以由 AI 重新寻找关联，形成供用户查看、讨论的灵感。</strong>它试着从用户已经拥有的材料里，找出此前没有注意到的东西。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261118/v2_8117a1e711824046878317ceb17d217d@5748245_oswg3002204oswg3810oswg1980_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Akasi的主界面，右下角有灵感罐</p>\n  <p>有一段时间，王金鹏密集研究世界模型，Akasi 根据他浏览的资料，从认知科学、心理学等七个维度整理了可进一步探索的方向。王金鹏说，其中关于预测编码与自由能的线索，也为他后续的研究提供了启发。</p>\n  <p>相比得到一篇完整的文章，他更看重这些尚未写成文章的想法。<strong>“现在要想搞到一个非常好的 idea，需要花大量的时间。”他说。</strong></p>\n  <p>在今天，让AI写出一篇文章、一份材料已经十分容易，写作之前的事情反而更具考验。此前读过什么，哪个念头值得追下去，两份看起来没有关系的材料能不能帮助自己理解同一个问题，生成速度加快之后，个人积累如何参与生成，反而成为一个需要重新处理的问题。</p>\n  <p>Obsidian 等笔记工具允许用户为笔记添加链接，构成知识网络。王金鹏希望在 Akasi 中，让 AI 承担更多寻找和组织联系的工作。</p>\n  <p>一位参与内测的用户，也提到了积累之后如何重新使用的问题。过去，这位用户会把检索和AI问答获得的内容复制进文档、手动整理，但文档建好后，往往很少再次打开。使用Akasi时，AI会自动将讨论内容生成笔记，他则在工作间隙重新翻阅，查看思路和知识点之间的关联。在这位用户看来，生成的笔记不仅保存了回答，也帮助自己梳理了思路。</p>\n  <p><strong>谈及Akasi现阶段希望抵达的地方，王金鹏告诉36氪，“希望大家一旦想到灵感，想到涌现的知识、创造力，就能想到我们的产品。”</strong></p>\n  <h2><strong>02 一个有自己视角的知识伙伴</strong></h2>\n  <p>在 Akasi 的早期内测中，备考学生的出现，让这个工具的一部分价值变得具体。</p>\n  <p>考研未必需要很多跨学科的联想，却需要长时间地阅读、整理和记忆。王金鹏发现，一些受邀参与测试的用户很喜欢桌宠联机，可以和朋友一起使用，像进入了一个小小的线上自习室。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261118/v2_951093e5b05541158bc7aa69b155fc9d@5748245_oswg5105636oswg4474oswg2327_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Akasi的桌宠联机</p>\n  <p>在演示中，王金鹏打开桌宠日记，读出它对自己的观察：“今天主人一头扎进了佛学的逻辑迷宫里面。”</p>\n  <p>Akasi 的桌宠会根据用户留下的内容，回应他们近期关注的事情。读过的资料、记下的想法，除了变成知识图谱中的节点和连线，也成为这个伙伴了解用户的线索。</p>\n  <p><strong>在桌宠设置上，Akasi 提供不同的形象和十六种可选性格。</strong></p>\n  <p>对一个陪人阅读的伙伴来说，性格也体现在它把注意力放在哪里。用王金鹏举的例子，有的性格更关心一个人为什么这样做，有的更关心接下来该怎么办。团队希望，用户相处久了，能认出这个伙伴看问题的方式，也能感到过去一起读过、讨论过的内容，对下一次交流有影响。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261118/v2_5995e92385ae43858f2ac19a7fac6c02@5748245_oswg4355474oswg4475oswg2329_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Akasi桌宠的性格</p>\n  <p>要提供贴合个人的帮助，需要用户持续留下资料和想法。但每一次记录都要付出精力，用户也需要先感受到这些积累的价值，才愿意继续使用。</p>\n  <p>桌宠日记、联机与养成，是 Akasi 围绕持续使用所做的尝试。用户记录、思考，可以获得用于换装等奖励的积分。团队希望，这些日常反馈能让记录与学习更容易坚持；随着积累增加，知识之间的联系又能带来更长期的回报。</p>\n  <p>在 Akasi 里，用户可以放入已有笔记、文档和链接，也可以围绕资料与 AI 讨论。王金鹏称之为“知识复利”——它需要时间，也需要用户先有一些积累，“它不是上来就立马能给你产出这些东西。”</p>\n  <p>一位从事程序开发、使用过多款笔记工具的内测用户，把Akasi的价值分成了使用价值与情绪价值：知识图谱和播客具有实用价值，桌宠则带来情绪上的反馈。他喜欢把文件拖给桌宠处理的交互方式，也对桌宠联机格外感兴趣。对QQ宠物的记忆，让他期待这种陪伴和互动能在新的产品中延续。</p>\n  <h2><strong>03 让人格研究走进产品</strong></h2>\n  <p>怎样让一个 AI 有稳定可辨的性格，又能因为与人的相处而改变？这是谦贞数字旗下 AI 心智实验室 Emergi Lab 研究交互质感时面对的一个具体问题。一次讨论可能只影响它眼下的回应。哪些经历值得记下来，什么样的证据足以让它调整今后的判断，则需要分别研究。</p>\n  <p>早期，团队开发了基于荣格心理类型的人格适应框架 JPAF，研究不同心理类型如何参与判断、适应情境；后续的 Emergi-PersonaOS 则区分相对稳定的人格信念与当下状态，为长期变化设置证据、评审和版本记录。随着对记忆、情绪、关系和人格演化的研究深入，团队也将相关机制组织为名为「Emergi-MentalOS」的心智系统。</p>\n  <p>对 Akasi 而言，这些研究为产品设计提供了机制和方法。不同性格带来的讨论视角、历史资料的调用，以及桌宠对用户关注点的回应，都是团队希望持续改进的体验。研究提出的方法能否在真实使用中有效，还需要放回具体场景检验。</p>\n  <p>自研产品给了这种研究一个持续面对用户的机会。用户怎样组织资料，会沿着哪些线索展开讨论，又如何评价桌宠的反馈，都能帮助团队发现新的问题。团队希望把这些问题带回研究，再把改进用于产品，让技术积累与日常体验之间形成持续的反馈。</p>\n  <p>王金鹏自己也成了使用者。他说，自己几乎不需要陪伴类的 AI 产品，现在却会用 Akasi 整理阅读和研究，寻找值得继续追下去的线索。从他自己的知识图谱，到用户日常留下的一篇笔记、一段讨论，Akasi 为团队提供了观察个人知识需求的具体场景。</p>\n  <p>从第一款产品《乌托》到如今的 Akasi，两款产品在测试期间的用户留存和持续使用表现，都远好于各自的同类产品。团队在调研中发现，用户在意的是与自己相处的那个 AI 有什么独特之处：它记得此前的交流，也有自己的看法。团队认为，人格化明显提升了产品的交互质感，这正是用户愿意一次次回来的原因。</p>\n  <p>在谦贞数字看来，当 AI 的能力越来越接近，交互的质感会成为用户选择谁、留在谁身边的理由。这也是未来 AI 产品真正的分水岭。</p>",
+      "category": "tech",
+      "published_at": "2026-11-19T03:40:21+00:00",
+      "fetched_at": "2026-11-19T05:40:56.750630+00:00",
+      "fingerprint": "7883bfec2becd88f"
+    },
+    {
+      "source": "少数派",
+      "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+      "url": "https://sspai.com/post/118732",
+      "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。<a href=\"https://sspai.com/post/118732\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-18T06:54:30+00:00",
+      "fetched_at": "2026-11-19T05:40:54.934488+00:00",
+      "fingerprint": "5730ad87d613e83b"
+    },
+    {
+      "source": "少数派",
+      "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+      "url": "https://sspai.com/post/118985",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/118985\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-18T08:59:58+00:00",
+      "fetched_at": "2026-11-19T05:40:54.934483+00:00",
+      "fingerprint": "9df597e3220c2c9b"
+    },
+    {
+      "source": "少数派",
+      "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+      "url": "https://sspai.com/post/119239",
+      "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。<a href=\"https://sspai.com/post/119239\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-19T00:29:30+00:00",
+      "fetched_at": "2026-11-19T05:40:54.934477+00:00",
+      "fingerprint": "b573351f9d14e65b"
+    },
+    {
+      "source": "少数派",
+      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+      "url": "https://sspai.com/post/119039",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/119039\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-19T02:58:08+00:00",
+      "fetched_at": "2026-11-19T05:40:54.934467+00:00",
+      "fingerprint": "54747887b550a01f"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.4879 CNY ↓-0.04%",
+      "url": "https://www.frankfurter.app/2026-11-18?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-11-18</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.4879 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0018 (-0.04%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-11-19T05:40:53.622824+00:00",
+      "fingerprint": "a66d4c94fb2b6e28"
+    },
     {
       "source": "The Guardian - World",
       "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -1521,286 +1811,6 @@
       "published_at": null,
       "fetched_at": "2026-11-13T04:48:26.771957+00:00",
       "fingerprint": "b52638d16ad17383"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "category": "politics",
-      "published_at": "2026-11-11T22:07:37+00:00",
-      "fetched_at": "2026-11-12T05:30:43.663188+00:00",
-      "fingerprint": "3a0b6122a2ac65d0"
-    },
-    {
-      "source": "BBC World News",
-      "title": "New York building collapse kills at least two, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "category": "politics",
-      "published_at": "2026-11-12T05:12:56+00:00",
-      "fetched_at": "2026-11-12T05:30:43.663183+00:00",
-      "fingerprint": "d591981f32d42e17"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "category": "politics",
-      "published_at": "2026-11-12T05:06:27+00:00",
-      "fetched_at": "2026-11-12T05:30:43.663177+00:00",
-      "fingerprint": "7c670ec87508ee71"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "category": "politics",
-      "published_at": "2026-11-12T04:00:30+00:00",
-      "fetched_at": "2026-11-12T05:30:43.663166+00:00",
-      "fingerprint": "6b0875495d9978f4"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「中國間諜案」獲撤控男子BBC專訪：我是情報部門的替罪羊",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9d71qne5p9o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC取得並查閱的數千則訊息顯示，一名中國官員曾設法了解多項敏感政治事務的內情。",
-      "category": "politics",
-      "published_at": "2026-11-11T13:43:29+00:00",
-      "fetched_at": "2026-11-12T05:30:43.583689+00:00",
-      "fingerprint": "37d4f7a5dd1dd4ad"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中美能源大戰，如何影響你的帳單？",
-      "url": "https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "中美之間的博弈可能會對能源成本產生重大影響，但誰會最終獲勝？",
-      "category": "politics",
-      "published_at": "2026-11-12T01:45:18+00:00",
-      "fetched_at": "2026-11-12T05:30:43.583682+00:00",
-      "fingerprint": "bf8b484b78f288ef"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
-      "url": "https://www.bbc.com/zhongwen/articles/c8wy5x2q2wryo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "數以萬計民眾參與這場由西班牙主要工會發起的工業行動，抗議住房問題及生活成本高漲。",
-      "category": "politics",
-      "published_at": "2026-11-12T03:10:40+00:00",
-      "fetched_at": "2026-11-12T05:30:43.583676+00:00",
-      "fingerprint": "f11b1da666dd2651"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "黃仁勳婚外情：黃樂據稱已返回中國，曾多次入境美國、台灣",
-      "url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "據報導，捲入婚外情、被指涉入中國間諜活動的女子黃樂（Alice Huang Le）已經返回中國。近年來，她曾十次入境美國、八次入境台灣。",
-      "category": "politics",
-      "published_at": "2026-11-12T05:26:33+00:00",
-      "fetched_at": "2026-11-12T05:30:43.583668+00:00",
-      "fingerprint": "f09c3c565687fb13"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "黃仁勳疑涉另一宗婚外情，Nvidia董事會傳擬撤換執行長",
-      "url": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "隨着第二宗婚外情的報導曝光，Nvidia股價大幅下跌。據報董事會正與一家外部公司合作，尋找黃仁勳的潛在繼任者。",
-      "category": "politics",
-      "published_at": "2026-11-12T05:20:57+00:00",
-      "fetched_at": "2026-11-12T05:30:43.583627+00:00",
-      "fingerprint": "b36da127b3e98af8"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-12T05:30:43.153806+00:00",
-      "fingerprint": "c4aa53a5506ac6f4"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-12T05:30:43.153696+00:00",
-      "fingerprint": "7c413c5b5223a576"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-12T05:30:43.153557+00:00",
-      "fingerprint": "78b8986836f7bb24"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-12T05:30:43.153435+00:00",
-      "fingerprint": "e24137ce86d7c7f1"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-12T05:30:43.153283+00:00",
-      "fingerprint": "f447363cc2876499"
-    },
-    {
-      "source": "The Verge",
-      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-11T18:13:52+00:00",
-      "fetched_at": "2026-11-12T05:30:42.926564+00:00",
-      "fingerprint": "92bde755004877b4"
-    },
-    {
-      "source": "The Verge",
-      "title": "United won’t let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-11T21:54:21+00:00",
-      "fetched_at": "2026-11-12T05:30:42.926559+00:00",
-      "fingerprint": "3c4a130ff1dbafc3"
-    },
-    {
-      "source": "The Verge",
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-11T22:00:00+00:00",
-      "fetched_at": "2026-11-12T05:30:42.926553+00:00",
-      "fingerprint": "3ddc5cc5a5b08ed6"
-    },
-    {
-      "source": "The Verge",
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-11T22:44:36+00:00",
-      "fetched_at": "2026-11-12T05:30:42.926541+00:00",
-      "fingerprint": "a6547f8cea67f8f6"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "成为中国无醇品牌奖牌数第一，「新零」无醇啤酒想让快乐与喝醉无关 | 项目报道",
-      "url": "https://36kr.com/p/4005312451317633?f=rss",
-      "summary": "<p>作者 | 钟艺璇</p>\n  <p>当龙井茶、青梅、杨梅味的中国风味啤酒，与全世界的对手，尤其是德国、美国、比利时等传统强国同台对垒时，前者胜出的可能性有多大？</p>\n  <p>「新零」无醇啤酒给出了答案。今年8月的世界啤酒大奖赛（WBA）上，新零啤酒在无醇/低醇风味组同时拿下国家冠军和金、银、铜；同期的世界西打大奖赛（WCA）上，新零啤酒的\"柿椰有橙\"西打果酒拿下组别总冠军与金奖，\"杨梅莲雾\"西打果酒拿下铜奖。</p>\n  <p>两项赛事合计13枚奖牌，新零从此成为中国无醇品牌中奖牌数第一。“我们是通过中国的风味，赢得了海外评委的认可。”新零啤酒创始人孙晓楠告诉36氪。</p>\n  <p>这并非36氪第一次接触新零。&nbsp;2021年首次报道新零时，它刚拿到高瓴创投的天使轮，中国无醇啤酒还是一个鲜少人下注的品类。4年之后，创始人孙晓楠给出的数字是——2021年至2025年，新零连续5年的销量，超过中国海关全年进口的无醇啤酒总额；在山姆、盒马、奥乐齐等主要渠道，它都是无醇啤酒品类销量第一，更是山姆所有啤酒品类的销量第一。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_9cb0e3af1afd48299c45cee9e68db307@5971123_oswg4106994oswg4028oswg2743_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">「新零」成为中国无醇品牌中奖牌数第一</p>\n  <h3>不做酒精减法，而是重做啤酒</h3>\n  <p>2013年，孙晓楠第一次接触精酿啤酒，工作出差游历多国后，他发现，国外的无醇啤酒货架越做越大，中国却始终没有这个市场。</p>\n  <p>当时中国啤酒正面临一个分界点，销量见顶，此后便一路下行，但销售额却在上涨。孙晓楠的判断是，消费者喝得越来越少、但喝得越来越好。</p>\n  <p>他开始注意到无醇啤酒的机会。事实上，由于起步太晚，在几千亿规模的中国啤酒行业里，无醇还是个刚发芽的种子，直到2026年，中国无醇才约占啤酒消费量的1%左右。因此，它真正的参照系在海外——今天的德国、日本无醇市场份额约为10%，在欧美，无醇已经逐渐成为日常消费品。IWSR数据也显示，2025年全球21个主要市场的啤酒总销量微降1%，无酒精啤酒销量却逆势增长8%。</p>\n  <p>更重要的是，年轻人开始展露出对酒精的克制。孙晓楠告诉36氪，知名烈酒集团保乐力加曾与新零交流时提及，他们调研发现，全球40%的年轻人滴酒不沾。与此同时，中国的白酒整体销量腰斩，送礼与商务宴请场景的减少，让高端白酒的价格开始滑落。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_47c1f62d9ec94f4c926fa3bf5ea414cc@5971123_oswg102546oswg467oswg634_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">「新零」无醇啤酒产品图</p>\n  <p>因此，孙晓楠很快开始了人生的第二段创业，创立无醇啤酒品牌新零。但和传统大厂的先有啤酒、再除酒精不同，新零做无醇啤酒的思路是“清酿法”，即从酿酒环节开始，就围绕无醇重新设计。</p>\n  <p>国内目前两条较为主流的脱醇路线，分别是蒸馏法与脱醇法。前者利用酒精78.5℃的沸点，令其蒸发；后者则用半透膜过滤酒精。它们的共同点是，都需要先酿出啤酒，再用技术去除酒精。</p>\n  <p>但孙晓楠告诉36氪，这两套方法有三处硬伤，一是做不到真正的无醇，二是过滤会大量损失风味物质，三是为了保证口感，必须回填香精。</p>\n  <p>从创立起，孙晓楠就决定，新零不做酒精减法，而要重做啤酒。</p>\n  <p>清酿法从麦芽、酵母、发酵方式、温度、压力、设备参数开始，就围绕无醇啤酒设计。几年来，新零已经在原料、工艺、设备以及脱/控醇技术、低能量控制、酒感模拟等环节做了大量自主研发，拥有5项发明专利及20项其他专利。据孙晓楠介绍，产品能做到完全0酒精，同时把嘌呤压到4.2毫克/百毫升，而国标的低嘌呤门槛是≤50毫克/百毫升。</p>\n  <p>这条路走起来并不轻松。孙晓楠把从0到1的过程拆成四道坎：把酒精从有变成无，花了近一年；解决之后才发现，酒精不是最大的问题，好喝才是；口感终于通过了，又撞上批次一致性，这个月好喝，下月为什么不一样；最后一关才是时间，六个月以后还好不好喝，那九个月以后呢？</p>\n  <p>“前三个问题，实验做完就有答案，最后一个只能靠时间。”孙晓楠说。</p>\n  <h3>当喝酒成为一种主动选择</h3>\n  <p>究竟谁在喝无醇啤酒？</p>\n  <p>孙晓楠告诉36氪，新零的用户画像和普通啤酒几乎完全相反：女性占比约65%、男性约35%，而普通啤酒的男性占比超过85%。另外，新零用户中30岁以下人群超过70%，当月复购率超过40%，中产家庭用户占比超过60%。</p>\n  <p>但与他最初想象的不同，这些为无醇消费的年轻人们，为新零提供了一个反共识——喝无醇啤酒的人，并非是因为“不能碰酒精”，而是今天不想碰。</p>\n  <p>不能与不想之间，背后存在巨大的差异。孙晓楠说，酒桌文化在新一代身上明显失效，年轻人喜欢主动微醺，抵触被动喝醉，例如年轻女性，她们会在社交场合选择自带无醇啤酒，\"我不是不给你面子，我也在喝酒，只不过是无醇的\"。</p>\n  <p>他向36氪总结称，这是一种主动性的转变，即“喝到对方肚子里”，变为“喝到自己肚子里”。</p>\n  <p>孙晓楠还记得，自己曾在洲际集团工作时，曾问过酒店的国际总厨，喝过最好喝的啤酒是什么？</p>\n  <p>对方的回答颇为有趣，“只要是免费的酒，就是最好喝的”。</p>\n  <p>在多数西方文化中，喝酒往往被视为一种休闲和放松的方式，无论场合、无论微醺还是喝醉，都可以随时来一杯。但传统中国饮酒文化则注重氛围与礼仪，这也导致在许多社交场合中，人们喝酒是为了他人而饮。</p>\n  <p>如今这种现象正在发生变化，饮酒的快乐，可以与喝醉无关。孙晓楠认为，无醇、低醇与传统啤酒，并不是非此即彼的关系，一个人今天要上班，可以选择无醇，明天要小聚，可以喝低醇微醺，周末露营，又能选择正常酒精度。这也意味着，新零不想成为酒精的替代品，相反，它的解法是制造更多的需求。“我们现在不会用‘人’作为标签划分产品，而是用生活状态和场景划分。”他说。</p>\n  <p>在众多需求里，过年送礼成为最让他意外的一个。近年来，新零无醇啤酒在春节前后的销量有明显抬升，有买过的用户告诉他，自己买新零出于两个心意——一个是让对方尝尝鲜的新意；另一个心意则是心脏的心，希望对方能健健康康。</p>\n  <p>目前，新零的产品体系分为精酿线、国风线与创新线。精酿线最老，拥有皮尔森、比利时白啤、IPA三个口味，面向对啤酒有品鉴偏好的男性；国风线则用桂花、龙井、荔枝、山楂、杨梅这些中国本土风味酿酒，“中国味，中国造”；创新线负责脑洞，代表作是从《哈利·波特》里长出来的黄油啤酒——在原著小说中，它允许被未成年魔法师饮用，新零则用麦芽、酒花、酵母把它酿成了完全零酒精的版本，还带有谷物、饼干和太妃糖的香气，在二次元展会上卖得不错，如今是山姆会员店的主推单品之一。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_e2b91343e9a043ba91907df9df59f1bc@5971123_oswg283991oswg1000oswg1000_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">「新零」黄油风味无醇啤酒</p>\n  <p>在渠道上，新零已经进入山姆、盒马、奥乐齐等新零售渠道。36氪还了解到，新零去年开始正式规模化出海，虽占比不大，但营收已经实现翻倍增长。北美与中东目前都是新零重点拓展的海外区域，在北美，黄油啤酒成为敲门砖，在当地颇受欢迎；而在中东，当地对酒精极度零容忍，在必要的酒会场景上，完全零酒精的无醇啤酒正好补位。</p>\n  <p>团队方面，创始人孙晓楠并非酿酒出身，但常年和消费打交道，早年在Tesco英国、亚马逊、耐克、洲际酒店集团等多家世界500强工作过。目前新零团队不到20人，平均年龄28岁，总酿酒师方志远是国家级啤酒评酒委员，研发团队多有合成生物学背景。</p>\n  <p>孙晓楠告诉36氪，2026年对于新零最重要的是\"做减法\"——聚焦无醇、聚焦真正有毛利的渠道，“做窄路宽，打磨好产品，做时间的朋友。做对了，销售额是结果。”</p>",
-      "category": "tech",
-      "published_at": "2026-11-12T01:00:00+00:00",
-      "fetched_at": "2026-11-12T05:30:42.792470+00:00",
-      "fingerprint": "5be82260a1c3717f"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "36氪首发丨海光创始核心技术团队创业AGI架构芯片，获清华系等基金数亿投资",
-      "url": "https://36kr.com/p/4066136377873286?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_dc401f6a05f642878d56533346504cd4@6221844_oswg397580oswg1024oswg576_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/视觉中国</p>\n  <blockquote>\n   <p>本文约<strong>3400</strong>字，建议阅读<strong>8</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，原生通用人工智能（AGI）架构芯片研发商——通芯人工智能科技（北京）有限公司（下称“通芯智能”）成立半年已连续完成数亿元种子轮及天使轮融资。融资由清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能以及豫资涨泉等财务投资人共同参与，集聚产业资本、头部科技VC和财务资本。资金将主要用于芯片流片前的核心架构设计及研发。</p>\n  <p>通芯智能成立于2026年4月，由人工智能科学家、通研院院长、北大和清华讲席教授朱松纯发起，依托北京通用人工智能研究院（通研院）孵化。</p>\n  <p>公司创始核心团队的平均芯片从业经验超过20年，骨干来自海光、百度、字节、阿里等头部芯片与AI团队，创始核心技术团队毕业于清华、北大、中科院、UCLA等院校，完整走过架构定义、前端设计、后端设计、流片、量产交付全链路，科学家团队覆盖大模型、世界模型、物理智能等AI全技术栈。创始人王海洋师从中国计算机事业的奠基人之一夏培肃院士，是龙芯CPU创始成员，曾任海光4代芯片架构负责人，GPU独角兽联创，拥有25年芯片研发及15年SoC架构设计经历，累计持有近百项国内外发明专利，在CPU、GPU、GPGPU等大芯片方向具备丰富的研发和量产经验。</p>\n  <p>当前，以GPGPU、Tensor Core为代表的传统架构主要面向统计式大模型优化，在因果推理、环境交互、物理智能等负载上存在天然不匹配。同时，算力、存力、运力失衡，推高了Token生产与机器人物理智能的落地成本。</p>\n  <p>王海洋表示，AGI竞争已经从单纯比拼峰值算力，转向面向物理世界交互的有效推理能力比拼。Token工厂、物理智能、机器人等产业对硬件成本、功耗高度敏感，行业需要一套原生适配认知推理的新型芯片架构。</p>\n  <p>因此，在当前大语言模型向AGI过渡的产业节点上，通芯智能选择了一条“不做GPU改良版，直接围绕CUV认知架构设计芯片”的差异化路线。</p>\n  <p>通芯智能的芯片设计理念源自朱松纯教授提出的认知（Cognition）、能力（Utility）、价值（Value）三维联合空间，即CUV架构。基于该理论底座，通芯智能以自研的Vector+Tensor+AGI Core三单元架构为基础，打造既支持向量、张量计算，又为物理、社交智能等提供原生支持的高性价比芯片。朱松纯教授表示：“通用人工智能的竞争，本质是架构之争。通芯要做的是把这条路落到硅上：以芯片适配AGI的认知架构，与‘通通’等智能体和大模型协同，构成端到端解决方案。”</p>\n  <p>在技术实现上，通芯智能采用了混合存算一体架构、通用+专用的计算架构以及灵活的云边端统一架构。通过向量矩阵单元、MoE专家模式、多级混合存算一体、图遍历引擎、原生加速STC-PG（时空因果解析图）等自研技术，解决通用GPU跑AGI时存在的“内存墙”、“稀疏不规则”、“图结构推理”等结构性错配问题。</p>\n  <p>据王海洋介绍，公司第一代芯片定位为高性价比的推理芯片，同时支持云端模型工厂和端侧物理智能，端侧对标英伟达的Thor系列，云端对标英伟达B300系列。</p>\n  <p>“随着大模型能力增强，AI正从训练时代走向推理时代。训练模型的需求在下降，而推理需求将占据绝对大头，用户对Token性价比的追求不断提高。”王海洋表示，通芯智能将首款芯片定义为高性价比推理芯片，正是为了回应这一趋势。</p>\n  <p>硬氪进一步了解到，公司成立三个月即完成架构设计和立项，现已进入芯片设计阶段，计划12月初展开FPGA原型验证工作，届时将展示阶段性成果。</p>\n  <p>在商业化落地方面，通芯智能规划了三个市场布局并已初步达成规模合作意向：第一，依托通研院体系及产业战略伙伴，在AGI通用智能体领域展开合作；第二，面向大模型智算集群和Token工厂，与整机厂商及地方智算中心合作，提供高性价比Token算力；第三，面向物理智能与具身机器人，提供端侧大算力推理芯片。</p>\n  <p>此外，公司后续还计划与北大、清华、中科院计算所、头部大模型和具身机器人公司等共建联合实验室，围绕CUV认知架构、物理智能算子、AGI芯片软硬件协同开展联合攻关，打通产学研落地通道。</p>\n  <p><strong>以下为硬氪与通芯智能创始人王海洋的访谈节选（经编辑）：</strong></p>\n  <p><strong>硬氪：通芯智能主打的AGI芯片，跟其他的AI芯片有何不同？</strong></p>\n  <p><strong>王海洋：</strong>举个例子，现在很多做光计算的公司，本质上还是在针对当前的大语言模型做计算加速。但大语言模型并不等于AGI。我们不是做一个更快、更省电的“计算器”，而是面向朱松纯教授提出的CUV认知架构，在硬件底层做原生设计。除了支持向量、张量计算来向前兼容现有的Transformer架构，我们还在芯片里增加了几十个专门针对AGI算法算子的硬件加速器，让未来的物理智能、空间智能算法能够完整、高效地跑在我们的芯片上。这在当前的芯片品类里是一个全新的东西，可以说是“新物种”。</p>\n  <p><strong>硬氪：目前跟产业界的接触中，客户真正在意的是什么？</strong></p>\n  <p><strong>王海洋：</strong>现在大家最在意的其实是推理成本，也就是Token的价格。前几年大家都在拼训练算力，但随着模型能力增强，基座模型公司越来越少，真正的落地主要在推理上。客户看我们的芯片，一是看我们能不能支持未来向AGI演进，二是看性价比。我们把第一代芯片定义为“支持AGI算法的、高性价比的推理芯片”，同时支持云端的智算集群和端侧的具身智能。</p>\n  <p><strong>硬氪：当前整个行业对AGI芯片的需求热情如何？未来有哪些趋势是你们重点关注的？</strong></p>\n  <p><strong>王海洋：</strong>这是一个渐进的过程。大模型发展非常快，但学术界和产业界逐渐发现它的局限性，现在大家都开始向AGI对齐。我们认为AGI芯片正处于类似2017年Transformer文章发表后、到ChatGPT爆发前的过渡阶段。芯片研发从立项到量产至少需要20个月，我们现在来做恰逢其时。</p>\n  <p>从趋势来看，第一是推理将占绝对大头，各种评测乐观一点的认为推理占比会到90%以上。第二是提高计算芯片的计算效率。目前芯片面临算力、存力、运力三大瓶颈，其中内存强是制约计算芯片效率最大的问题。我们提出的混合存算一体，是未来解决存力瓶颈的核心方案。不管未来技术流派怎么变，通过存算一体解决存力瓶颈的计算芯片，会成为绝对的主流，我们在这方面有明确的布局。第三是逐渐向AGI芯片过渡。现在无论学术界、还是产业界都在加快AGI的探索，芯片厂商也会加快布局。</p>\n  <p><strong>投资方观点：</strong></p>\n  <p><strong>豫资涨泉资本创始人刘啸东表示：</strong>豫资涨泉资本重点布局科技智造与颠覆性科创技术领域，致力于在国内外寻找并投资真正有技术含量的优质标的。投资通芯智能，是看好训推分离之后推理侧算力的长期机会，也看重公司面向AGI时代提前布局的芯片底层架构。公司的团队也是吸引我们的一个重要原因：通芯智能的这支队伍既有研究院的科研底子，又有来自芯片大厂的近20款大芯片的工程化与量产经验，科学家、产业专家和管理者各管一段。这种“三角形”的结构，恰恰是把创新转化为创业最关键的一环。作为投资人，我们提供资本与耐心，愿与公司一道把架构和生态的根扎深，行稳致远。</p>\n  <p><strong>水木校友基金管理合伙人王学辉表示：</strong>通芯一边是研究通用AI的科学家，一边是亲手把海光、龙芯芯片做出来量产的工程师，公司定位于专门给人形机器人、智能体用的国产新芯片，软硬一体，解决现有芯片搞不定现实世界物理智能的痛点，我们看好大赛道未来前景，也看好团队，希望水木能不断赋能公司尽快实现流片。</p>\n  <p><strong>松霖科技战投负责人韩宗谕表示：</strong>我们看好通芯在AGI芯片与原生模型一体化的核心技术以及具备丰富量产经验的创始团队。本次投资是产业型战略布局，依托松霖在医养、后勤以及家庭场景的全球化产业基础，与通芯形成深度协同，加强具身智能底层算力能力。期待双方共同推进芯片适配、产品验证与商业化落地，共建可控、可落地的国产AGI机器人产业链。</p>\n  <p><strong>普超资本的创始合伙人李立伟表示：</strong>普超资本持续专注布局于人工智能时代的算力基础设施产业链。通芯智能打通AGI理论到芯片架构的技术链路，团队兼具前沿AGI科研积淀与长期算力大芯片全周期量产经验，以差异化架构适配因果关系、多物理场计算需求。我们期待公司软硬件协同落地，夯实国产AGI时代算力底座。</p>\n  <p><strong>青创伯乐创始合伙人兼董事长赖光宁表示：</strong>每一轮技术革命真正落地的时候比的都不是谁的概念更响，而是谁能把稀缺的东西变得便宜、可靠、可规模使用。AGI走到今天，谁能让智能算得更省，谁就掌握了下一阶段产业化的关键。通芯智能选择做AGI芯片，本质上是在参与定义这个时代的算力底座。他们既能在架构上做出原创判断，也扎实地在做落地工作；中国的底层创新，缺的往往就是这一股坚持做下去的劲头。青创伯乐愿意陪它把这件事做成；也希望通芯将来被记住的不只是他们的芯片产品，而是他们为中国AI产业打下的那段地基。</p>",
-      "category": "tech",
-      "published_at": "2026-11-12T02:08:06+00:00",
-      "fetched_at": "2026-11-12T05:30:42.792463+00:00",
-      "fingerprint": "5c7615cc8d8e33ad"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "我们需要一个不卖瑜伽裤的lululemon吗？",
-      "url": "https://36kr.com/p/4064801667584896?f=rss",
-      "summary": "<p label=\"正文\">文｜贺哲馨</p>\n  <p>编辑｜乔芊</p>\n  <h3 label=\"二级标题\">失灵</h3>\n  <p>lululemon的创始人奇普·威尔逊（Chip Wilson）曾自诩创造了一台完美的商业机器，以至于他离开之后“即便是一台电冰箱来管理这家公司都能成功”。在这话说出的仅一年之后，这台机器的运转就出现了问题。</p>\n  <p>2025财年，lululemon在最主要的美洲市场营收下滑1%；2026财年跌势加快，第二季度美洲营收下降8%，可比销售跌了12%。今年1月，新款紧身裤Get Low因“透光”投诉暂停线上销售，上一次类似的风波还要追溯到2013年。</p>\n  <p>今年5月底，lululemon在长城办了一场瑜伽活动，现场用了日本太鼓，在社交媒体上惹起众怒，公司随后致歉。到第二季度，中国大陆营收按固定汇率计算下滑2%，可比销售跌了8%，远低于公司预期。股价也一路下行，今年5月初每股约130美元，比2023年底的高点跌去近四分之三。</p>\n  <p>同时董事会还得打起精神，应付一位好斗又极富表演欲的创始人。去年11月，威尔逊在华尔街日报上登了一整版面的广告，称lululemon“宛如一架失事的飞机”；今年春天，他干脆发起代理权之争。同时，门外还有野蛮人环伺——去年12月华尔街激进投资者艾略特管理公司（Elliott Management）建仓逾10亿美元，跻身lululemon最大股东之列。彼时公司刚宣布CEO卸任，正在物色接班人。</p>\n  <p>但在知情人士看来，lululemon今天处境绝非一日之寒。在2024年，这家公司主要市场美国开始出现疲软迹象，5月，时任首席产品官Sun Choe无预警离职，当日公司股价即跌去7%。</p>\n  <p>Wedbush分析师汤姆·尼基（Tom Nikic）说这件事发生在“amid this undercurrent of fear”（市场暗流般的担忧之中），并认为她在lululemon过去七年多的成功中起了关键作用。Sun Choe离职之后，公司宣布不再设首席产品官，产品设计交给入职才四个月的创意总监Jonathan Cheung。</p>\n  <p><strong>有lululemon前员工向36氪表示，Sun Choe离开后，公司明显“失去了增长动力”。</strong>在他看来，接手产品设计的Jonathan Cheung上任一年多，并没有拿出令人印象深刻的产品，一些忠实顾客就此流失。Sun Choe离开后没几个月，时任CEO 凯文·麦克唐纳（Calvin McDonald）也公开承认，女装品类“新品不足”（reduced newness）。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_06eaa6d41969431d82115cc1a4cdc8f0@5922386_oswg226342oswg3000oswg1320_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">2025财年，lululemon在美洲的利润跌幅明显｜制图：36氪</p>\n  <p>这与市场的反应相符。在社交平台上被推荐为“值得入手”的lululemon单品里，最常出现的仍是Align瑜伽裤、Groove喇叭裤、Scuba卫衣和Define夹克，近三年推出的新品很少入选。</p>\n  <p>另一面，lululemon旷日持久的多品类转型仍未看到阶段成绩：鞋履、跑步、高尔夫、网球等名目里，尚没有一个能单独拎出来。鞋类至今被归入“配饰及其他”，这一类加起来只占总营收的13%。</p>\n  <p>2022年，麦克唐纳提出“Power of Three ×2”五年增长计划：以2021年为基数，到2026年营收翻倍至125亿美元，其中男装和数字渠道营收各翻一番，国际市场营收翻两番。如今时间到了，lululemon预计今年营收最多105亿美元；截至2025财年，男装和电商营收只增长了七成多，国际市场增长了约2.4倍，三项都没有达标。<strong>女装仍是lululemon最大的生意，2025财年贡献约63%的营收，这一比例过去三年几乎纹丝不动。</strong></p>\n  <p>截至8月2日的2026财年第二季度，lululemon营收24.2亿美元，同比下滑4%。撑起品牌的核心单品紧身裤销售下滑约20%。公司似乎陷入蜡烛两头烧的境地，全年营收预期随之下调为同比下滑5%至7%。</p>\n  <p>去年12月，麦克唐纳宣布卸任，今年1月底离开。半年内一系列人事变动随之展开，核心管理层几乎全部换人。最引人关注的是耐克老将海蒂·奥尼尔（Heidi O’Neill）9月8日正式就任CEO，结束了lululemon持续七个多月的临时联席CEO安排。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_25fb3db845d9477eaae0a04240016fbc@5922386_oswg74914oswg430oswg430_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">lululemon首席执行官Heidi O’Neill</p>\n  <h3 label=\"二级标题\">外来和尚</h3>\n  <p>海蒂在耐克工作了超过25年。最近的职位是消费者、产品与品牌总裁，统管全球产品线、品牌与营销，任内压缩了产品开发周期，并把足球和跑步列为优先品类。</p>\n  <p>在此之前，她以消费者与市场总裁的身份负责耐克在170多个国家的业务和损益，更早还主管过全球直营与数字业务，覆盖门店、电商、App和会员体系。</p>\n  <p><strong>接近耐克的知情人士向36氪透露，海蒂是耐克前CEO约翰·多纳霍（John Donahoe）的得力助手，是耐克直营战略和产品创新的关键推动者，也曾是耐克下届CEO的热门人选。</strong></p>\n  <p>lululemon董事会执行主席马蒂·莫菲特（Marti Morfitt）在一份声明中表示：“我们选择海蒂，是因为她经验广泛，曾在大规模业务中成功推行突破性的创意和举措，并且能够以内行的身份推动变革与增长。”</p>\n  <p>另一面，lululemon也终于和创始人达成了暂时的停战协议。今年5月27日，股东大会召开前夕，公司与威尔逊签署合作协议：威尔逊提名的ESPN前首席营销官劳拉·詹蒂莱（Laura Gentile）、昂跑前联席CEO马克·毛雷尔（Marc Maurer）进入董事会，公司还承诺再增补一位具备服装产品与品牌经验的董事；作为交换，威尔逊接受约18个月的停火期，并遵守投票约束和不诋毁条款。</p>\n  <p>海蒂获任的消息公布次日，lululemon股价下跌13%。一种观点认为，她的履历不够“野”。作为在耐克体系里成长起来的职业经理人，她未必能给这家公司带来足够的外部冲击，何况她力推过的直营战略，正是耐克现任CEO贺雁峰（Elliott Hill）上任后着手扭转的方向。</p>\n  <p>但也有分析师认为，lululemon的基本盘没有问题，财务依然健康，用不着传说中的猛药。“一家公司不可能永远保持爆发式增长。”晨星分析师大卫·斯沃茨（David Swartz）说。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_3ceee608b1f542a099b79036565606ff@5922386_oswg163360oswg2400oswg1320_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">新品乏力，lululemon的季度库存仍处在相对高的位置 ｜制图 36氪</p>\n  <p>无论如何，新品吸引力不足仍是公司眼下最急迫的问题。“我们看到顾客对营销活动和部分新款式反响不错，但整体而言，产品上市后的市场反应仍然不稳定。”今年9月的第二季度财报电话会上，身兼临时联席CEO与首席财务官的梅根·弗兰克（Meghan Frank）说。</p>\n  <p>海蒂上任刚满一个月就动了产品线的架构。10月7日，她任命Athleta CEO玛吉·高格（Maggie Gauger）为总裁兼首席产品官，统管设计、商品企划、鞋类、产品创新和材料科学，现有的设计与商品负责人都改向她汇报。这个职位在Sun Choe离开后空缺了两年多，其间设计和商品分属两条汇报线，如今重新收归一人。</p>\n  <p>lululemon对产品创新的忽视有其历史和结构上的根源。一位lululemon前高管向《环球邮报》旗下杂志《Report on Business》透露，2018年麦克唐纳上任前夕，公司的汇报结构已经变了，商品企划负责人拿到了更大的决策权。<strong>这是一种鼓励经验和路径依赖而非破坏式创新的安排。</strong>“你最终会变成一个长得跟别人差不多的品牌，”这位前高管说，“一切都很基础，很安全牌。”</p>\n  <p>lululemon在麦克唐纳任内实现了跨越式增长：营收从2017财年的26亿美元涨到2025财年的111亿美元，翻了两番；净利润在2024财年达到18亿美元的高点。但隐患也在这些年里埋下，Sun Choe的出走只是一个缩影。</p>\n  <p>“我不认为任何一个早年待过的人，会觉得它还能回到过去的样子。”曾在lululemon工作近十年的前高管布里·斯坦莱克（Bree Stanlake）说。但她也认为，lululemon需要重新焕发活力。</p>\n  <h3 label=\"二级标题\">sweet spot</h3>\n  <p>很长时间里，lululemon都对品牌形象锱铢必较。“第一个l必须小写。”公关曾这样要求媒体。在英文语境里，小写字母常被视作低调、谦逊、更有人味；而对品牌名写法如此较真，更常见于奢侈品而非运动公司。</p>\n  <p>在那几年，lululemon确实更像一个奢侈品牌，或者说，一家生活方式公司，而不是一个瑜伽品牌。从产品层面看，它的创新也已经很长时间与瑜伽无关了。刚刚结束的进博会上，lululemon一口气发布了三款新品，没有一款是为瑜伽准备的。</p>\n  <p>Ventscape跑步马甲瞄准的是冷天跑步的老难题：起跑时冷，跑开了又闷又潮。它把PrimaLoft ThermoPlume+保暖夹层和网眼面料拼在一起，在保暖和透气之间找平衡。Unrestricted Power训练系列用的是自研的PowerLu面料，主打支撑与灵活兼顾，减少深蹲、举重时衣服的束缚和移位。ShowZero网球系列则通过改变光线与面料的相互作用，让衣服被汗打湿后不易显痕。在一项靠出汗决胜负的运动里，lululemon的技术重点是让人看不出你出了汗。后两款要到2027年才在中国上市。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261111/v2_c60260f49e6242418a28b34126e951c0@5922386_oswg63468oswg705oswg605_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Ventscape跑步马甲 ｜来源：品牌</p>\n  <p>从某种程度上说，lululemon也确实越来越像一个传统运动品牌。公司介绍，研发这款跑步马甲时，他们找来一群运动员，穿着原型在科罗拉多州的公路上跑了十几公里，再把反馈收集起来，作为后续几代产品迭代的依据。</p>\n  <p>按品牌的说法，lululemon产品的核心是“触感科学”（Science of Feel）：那些名目繁多的“科技”，背后说到底是面料和剪裁。<strong>在更强调动力科学的耐克、阿迪达斯衬托下，主打面料舒适度确实是一个差异化的卖点。</strong>但这是否也把lululemon的优势框在了贴身层（Base Layer）里？要知道，上一个靠贴身层打出名气的Under Armour，至今仍在泥潭里挣扎：截至今年3月的2026财年，它的营收下滑4%至约50亿美元，净亏损4.96亿美元，重组阶段还没走完。</p>\n  <p><strong>接近lululemon的人士告诉36氪，公司在体育营销上的思路也和耐克、阿迪达斯不同，“我们不会强调竞技上的输赢”。</strong></p>\n  <p>话虽如此，lululemon的签约名单上并不缺赢家：七届F1世界冠军刘易斯·汉密尔顿（Lewis Hamilton），在2010年温哥华冬奥会上打进冰球“金球”的西德尼·克罗斯比（Sidney Crosby），两度闯入美网男单四强的弗朗西斯·蒂亚福（Frances Tiafoe），2021年美网女单亚军莱拉·费尔南德斯（Leylah Fernandez），还有高尔夫球手马克斯·霍马（Max Homa）和Min Woo Lee。它还是加拿大奥运代表团的官方装备商。</p>\n  <p>在中国，它今年签下了网球运动员郭涵煜，品牌称她是首位征战全部四大满贯的中国签约球员。只不过在官方表述里，这些人被选中，理由往往是“领导力”和“对社区的积极影响”，而不是奖杯。</p>\n  <p>这到底是有意为之的策略，还是后来者的权宜之计，尚不可知。但这也许让lululemon始终处在一个需要拿捏平衡的中间地带：它想吸引真正热爱运动的人，“目标明确、积极向上”，却又不希望他们太过争强好胜。某种程度上，这比威尔逊口中的“超级女孩”（Super Girls）还难找。在他的回忆录里，完美的超级女孩24岁，受过良好教育，是顶尖运动员，对目标和运动都满怀热情。</p>\n  <p>从消费者的角度，他们似乎也并不想在lululemon买毛衣和裙子。GlobalData董事总经理尼尔·桑德斯（Neil Saunders）批评lululemon的货架上塞了太多“非核心产品”；今年第二季度，“配饰及其他”品类营收下滑13%。弗兰克也承认，公司今年对货品组合做了一些“纠偏”，砍掉了部分偏离核心优势的小配件。</p>\n  <p>更耐人寻味的是，lululemon当年的魔法仍然有效。<strong>紧身裤并没有过时，“穿得像一个热爱运动的富家女”依然备受追捧。</strong>Vuori、Alo Yoga都从lululemon身上学到了不少东西。有的品牌干脆就是lululemon旧部创办的，比如Left on Friday。Vuori在2024年底估值达到55亿美元，Alo则在今年进入了中国市场，计划一口气开出八家门店。</p>\n  <p>安大略运动品牌Azur Fit的创始人艾琳·沃德-威廉姆斯（Erin Ward-Williams）也在店里开瑜伽课。有顾客提醒她，同一商场里的lululemon也在办课，“他们在抄你”。她纠正对方：“他们没有抄我。那本来就是他们开创的。”</p>\n  <p>如今，轮到开创者回头去找那个甜蜜点了。</p>",
-      "category": "tech",
-      "published_at": "2026-11-12T02:20:56+00:00",
-      "fetched_at": "2026-11-12T05:30:42.792456+00:00",
-      "fingerprint": "c7d9a45cec754d53"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "联想为何要做词元生意？｜最前线",
-      "url": "https://36kr.com/p/4066221891196036?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_2c55dccc03054ab9986bafa86e86d7eb@6310690_oswg1529519oswg1552oswg1014_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源联想官方</p>\n  <p>文｜肖漫</p>\n  <p>编辑｜袁斯来</p>\n  <p>11月10日，联想发布了“万全混合词元工厂”品牌，并宣布与张家口市政府合作建设首个混合词元母本工厂。</p>\n  <p>按照联想公布的规划，张家口母本工厂初期将建设1.5万P异构算力集群、约100MW智算中心，词元年产量超过2000万亿，峰值词元产出达到每秒2亿。到2030年，相关核心指标预计将在现有基础上提升10倍以上。</p>\n  <p>这意味着，联想希望改变过去从“卖AI设备”为主的业务模式，将算力资源进一步转化为“AI产出”。</p>\n  <p>过去三年，AI产业最确定的生意是算力。</p>\n  <p>从英伟达GPU到服务器、交换机，再到数据中心和配套电力设施，资本和产业资源持续涌入AI基础设施建设。谁能拿到芯片、谁能建设更大规模的算力集群，成为这一阶段竞争的关键。</p>\n  <p>但算力建设并不等于直接商业价值兑现，购买服务器、建设智算中心只是AI投入的开始。模型训练和推理需要持续消耗算力，如何提高设备利用率、降低单位推理成本、让模型稳定完成实际任务，才是AI能否真正进入业务流程的关键。</p>\n  <p>尤其当 AI 从简单地聊天工具走向智能体，Token消耗正不断增加。</p>\n  <p>过去，用户向大模型提出一个问题，模型返回一段答案，Token消耗相对有限。现在，智能体开始承担搜索、分析、决策和执行等连续任务，一次业务流程可能需要多轮模型调用，Token消耗也随之增加。国家数据局数据显示，截至2026年6月，我国日均词元调用量已突破500万亿。</p>\n  <p>这意味着，AI产业链的竞争正在出现新的变化：过去比拼的是谁拥有更多算力，接下来还要比谁能用同样的算力生产更多、更便宜、更有效的Token。</p>\n  <p>中信建投证券计算机行业首席分析师应瑛在会后交流时提到，从报表和投资账面看，AI基础设施仍然占据较高价值，但从未来三年的实际利润增速看，Token运营和应用环节有望承接更多的增长。</p>\n  <p>这与早期云计算产业的发展有相似之处。云计算最初解决的是企业IT资源的供给问题，随后竞争逐渐转向资源调度、平台服务和应用生态。AI基础设施也可能经历类似的过程：从卖算力，走向卖算力服务，再走向卖实际的AI生产能力。</p>\n  <p>在这个过程中，词元工厂成为一种新的基础设施形态，应瑛将其视为“New Cloud”，即新一代云平台。</p>\n  <p>词元工厂并不是简单地把一批GPU集中起来，再向外出售Token。它还需要解决不同算力、模型和业务之间的匹配问题。</p>\n  <p>联想为万全混合词元工厂搭建了“三层混合动力”——底层是联想问天AI基础设施，负责提供异构算力；中间层是万全混合词元工厂，负责算力管理、模型调度和Token生产；上层则是擎天与百应智能体解决方案和服务，将Token转化为具体业务场景中的生产力。</p>\n  <p>联想并不是唯一一个看到Token运营机会的企业。过去两年，不少原本主营服务器或算力设备的企业，也开始向Token运营和服务延伸。云厂商本身拥有算力资源、模型生态和客户入口，也在争夺企业AI基础设施市场。</p>\n  <p>应瑛认为，企业要进入词元工厂市场，可以类比云计算和IDC（互联网数据中心）行业，分硬资源、软运营两个门槛。硬资源方面，土地、电力价格或者服务器基础设施采购部署，只要有一项具备成本优势，就有一定入场基础；软运营方面，则需要能够进行算子调优、搭建高并发云平台的技术团队。即使硬件条件相同，不同运营团队也可能生产出成本差异明显的Token。</p>\n  <p>这意味着，词元工厂并不是一个只靠资本投入就能建立壁垒的行业。算力规模可以通过投资获得，但持续的调度优化、客户理解和运营效率，需要在真实业务中积累。</p>\n  <p>Token生产只是中间环节，企业愿意持续付费的最终原因取决于AI是否帮助它缩短了研发周期、提高了生产效率，或者创造了新的收入。</p>\n  <p>从服务器到智算中心，再到词元工厂，联想实际上是在争夺AI基础设施产业链中更靠近客户、也更接近商业价值兑现的位置。</p>\n  <p>不过，这场竞争才刚刚开始。对于联想而言，建设词元工厂只是第一步，能否把算力、模型和运营能力组合成一门有稳定客户、有持续收入、也有合理利润的生意，才是这场转型真正的考验。</p>",
-      "category": "tech",
-      "published_at": "2026-11-12T03:35:37+00:00",
-      "fetched_at": "2026-11-12T05:30:42.792447+00:00",
-      "fingerprint": "771af91436143677"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "写在《影之刃零》发售一周后 | 玩点好的",
-      "url": "https://36kr.com/p/4065714826269824?f=rss",
-      "summary": "<p>文丨果脯</p>\n  <p>现在再聊《影之刃零》本身，可能时间稍晚了。毕竟，满打满算游戏迄今已经上线一周有余，多数玩家都已经顺利完成了一周目，市面舆论也完成低开高走。</p>\n  <p>目前，游戏已经从上线初期的77%好评率，逐步回暖到了现在的94%，并且可能还会持续上涨；另一边的PS商店则有九成用户打出了满分。而在游戏发售72小时后，官方也表示全平台销量已经突破400万份。基于这份成绩，想来未来销量累计突破千万，恐怕也已经是时间问题。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_6a62e158613d41ab9da8885b0a199e01@6202862_oswg489864oswg1080oswg555_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《影之刃零》Steam页面</p>\n  <p>但如今再看《影之刃零》，其实仍不乏大量需要思考与纠结的复盘问题。</p>\n  <p>不可否认，哪怕抛开「国单」标签，放眼世界，《影之刃零》都是一款优秀的作品。</p>\n  <p>这个优秀，既来源于游戏本身的质量呈现，也来源于它能在不甚明朗的开局前提下，仍能说服大量玩家，逆转大众对其的第一印象。甚至我亲眼见证了同事从最初对其的各种不满，到最后折服于整段沐小葵的Boss战体验。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_fec0dabfbdbb4171a5c7dd525937231e@6202862_oswg592182oswg1080oswg657_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">沐小葵</p>\n  <p>但其中更重要的，或许是《影之刃零》在整个产品身上体现的「成长感」。毕竟市面上已经不乏对其的各类褒赞，我反而想从不足处再聊两嘴这款产品。</p>\n  <p>可能于不少玩家而言，《影之刃零》的通关体验是一个充满和解、接受或是逐步认可的过程。</p>\n  <p>一个明显的特征是，几乎没人会觉得第一二章的内容存在可圈可点之处。相反，更多人的高评价都来源于后续内容足够惊艳，让他们能够「原谅」前期章节的不足。当然，随着玩家逐步上手、熟悉，诸如打击感、战斗节奏等问题也正逐步被适应，对应都负面反馈也就自然而然被削弱。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_cb93fe0b73964b0a828ea96d86f3f2e4@6202862_oswg535234oswg1080oswg609_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Boss舞狮尊主</p>\n  <p>以及一些足够惊艳的传统文化设计</p>\n  <p>但个人来看，许多问题在《影之刃零》身上并没有得以解决，更值得认可的是团队创作者们在整个过程中付诸的思考。</p>\n  <p>毕竟如果每个产品都要追求极致，那么不论是《影之刃零》，还是更早的《明末：渊虚之羽》《黑神话：悟空》，最终都只会变成遥遥无期的空谈。</p>\n  <p>最明显的就是整套动作内容设计。</p>\n  <p>在早期的反馈中，动作内容是存在最多问题的模块，比如大量玩家吐槽「打击感不足」「反馈差」。一方面，这个问题主要受游戏整体内容完成度的影响，像音效、动作，以及各类细微处的技术画面表现，都可能对打击感带来破坏性的影响。更何况，《影之刃零》本身强调高速战斗与博弈，打击感在此间的重要性又要退而求次，完成度并不高。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_2bca1dd570584a5c989cdd3670256d77@6202862_oswg1066534oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏里的醉剑可以喝酒</p>\n  <p>说白了，单论动作内容，《浪人崛起》《鬼武者：剑之道》都足够成为《影之刃零》的老师，而《影之刃零》在质感、特色方面则更胜几筹。</p>\n  <p>另一方面，打击感问题一定程度上也是整个武侠题材的锅。</p>\n  <p>不少业内人士在讨论中，更倾向于用《战神4》对标《影之刃零》，核心原因就是《战神4》在题材与沉浸感间达到了绝佳的设计平衡——说白了就是，做出了让玩家认可的「西方神仙大战」。而当年《黑神话：悟空》的各路预告能够惊艳众人，也是因为它做出了足够扎实的东方神话质感。</p>\n  <p>但放在武侠打斗上，这些又是另一回事。</p>\n  <p>在强调动作的游戏里，卡肉、顿帧这种常规设计可以用以突出重量感，高速连段则能够强调速度感和连段体验，但在武侠背景里，《影之刃零》既要确保招式独特、博弈在线，又得让每套攻击都有其专属的技术表现，这显然并不现实——更何况，在传统武侠题材作品里，可能很多东西直接体现起来就是「轻飘飘」，或者说飘逸的，如果想要硬凹，更容易就会把杀人术变成了舞台表演。</p>\n  <p>因此，《影之刃零》最终处理的思路是，把招式「藏」起来，把武器、对抗博弈的重要性提起来。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_daa67e485cad425685ae132295149750@6202862_oswg501057oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">白山风雷剑</p>\n  <p>像一些基础性的招式，比如横扫、蹬腿等，会在特殊境地下，随攻击自然触发，这使得不同情境的战斗能展现不同的武学表达，同时也是丰富游戏的特殊交互内容，增加惊喜感。</p>\n  <p>而更加复杂的体系化内容，他们就会针对性做成武器，或是Boss战的的QTE交互。比如在游戏里，每一件武器都有各自的连段特性，并且都配套了数种处决动画，而作为「技能」的影之武装，则会更强调各路武学的表现形式。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_44ed2c8e40ab4837a825fc44b692692e@6202862_img_gif?x-oss-process=image/quality,q_80\" /></p>\n  <p class=\"img-desc\">处决技</p>\n  <p>随着内容广度拓宽，玩家也自然就接受了深度不足的遗憾。更何况，恐怕现今还没有几款游戏，能像《影之刃零》一样把各类武学招数的交互自然地融入到各类战斗之中。哪怕是背靠《流星蝴蝶剑》后出身的《永劫无间》，基本也还是遵循了技能演出的逻辑，没有那么强的交互感。</p>\n  <p>其次则是游戏的心流设计。</p>\n  <p>说句不好听的，《影之刃零》的心流设计存在一定的节奏问题。从地图设计看，它做的是类银河恶魔城式的箱庭地图，但地图各个板块之间的衔接与过渡，基本都是围绕高密度的铃铛（坐火点）来构筑。而一切高密度且无意义的铃铛，恰恰又最容易阻断玩家的沉浸感。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_c9a21bd25261414e972a95a0c4bb6dfc@6202862_oswg962491oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏里的幻境地图（里武林）</p>\n  <p>至于铃铛的密度有多高……最夸张的情况莫过于，当你第一章首个Boss战结束后，只需走两步路看一段对话，就会立马发现又有一个铃铛。</p>\n  <p>于是，每个地图中带给玩家推进感的既不是景色变幻，也不是山重水复的惊喜感，而是「下一个铃铛在哪里」。</p>\n  <p>诚然，高密度的铃铛大量减少了玩家的跑图认路成本，但也是在地图设计层面给出了一个相对粗暴的解法。比如《影之刃零》最为重要的地图「庞镇」，其底层的跑路逻辑反而并不如前一章「陆家村」来得精妙，基本只是用铃铛连接了多个重要建筑板块。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_4328b99264044ef0870fa59a0636d96c@6202862_oswg885448oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏最重要的区域庞镇</p>\n  <p>也就是说，在这游戏里玩家的认路逻辑只有两种：一是判断自己有没有开启铃铛，破除地图迷雾；二是看相应地方的收集品、小怪有没有清除。</p>\n  <p>单从设计层面来看，比起纯粹的环境引导，这种设计肯定会更加破坏心流，也比较取巧。但从玩家的角度来看，如果可以，我个人其实更希望80%的游戏选择这一设计方法，毕竟它难度不高也好用，而且……也比较现实。</p>\n  <p>这才是《影之刃零》的可贵之处。</p>\n  <p>《影之刃零》无疑是有野心的，不论是从商业还是IP的角度而言。但过去很多年里，玩家吃过的细糠太多，很多人都忽略了游戏设计究竟有多难。直到近几年，随着国外惊艳全球的大作减少，许多开发者也才渐渐意识到这事。</p>\n  <p>直接游戏本身举例说明的话，这就好比想要击败Boss，80%玩家更轻松的选择都是找一套比较轮椅的战斗套路，而不是像UP主纯黑的视频一样兼顾表演、无伤和Boss交互。一套并不优秀的隐性引导，并不比直接干脆的显性引导好上多少。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_aed5e850d2924761966d17bfea6fcdaa@6202862_oswg417233oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏中的饰品，可以提供各类数值加成</p>\n  <p>就像这个饰品，低手惜之如命，高手嗤之以鼻</p>\n  <p>从这点来看，《影之刃零》，或者说如今有所成就的国单，都有一个难得的品质——克制。</p>\n  <p>这不单指设计层面不要好高骛远，或者说完成比完美重要，还强调给自己、给玩家能够呼吸的空间。无疑，在单机领域层面，国内开发者单论能力，其实并不比国外差多少，更多时候，他们只是没有国外那么好的市场土壤和积累足够深厚的项目管理经验，甚至许多东西（像国产题材的3A设计）还处在一个起步探索的阶段。</p>\n  <p>换而言之，《影之刃零》不是一部基于短板效应的游戏，相反，它只要拿出一段长板，就足以收获玩家认可，而剩下的东西，就是尊重玩家，或者说不为难玩家，比如减少游戏的垃圾时间，更为「慷慨」的游戏数值等等。这些东西，甚至受国外单机游戏冲击，曾变成一部分国内开发者心中的「祖宗之法」，不可轻变。</p>\n  <p><strong>结语</strong></p>\n  <p>可实际上，游戏行业何来「祖宗之法」？</p>\n  <p>游戏作为文娱类商品，比抄作业更可怕的是创作者选择放弃思考。继《黑神话：悟空》《明末：渊虚之羽》之后，国内一度掀起大批量的「类魂」产品风，甚至就连《影之刃零》做了类似坐火点的铃铛，都被不少人拿来比对类魂，说它哪里做得够「魂」，哪里又不「魂」。</p>\n  <p>更进一步来看，国产单机和主机游戏在过去两年迎来了快速增长机会，早前还有已经持续了十年的「索尼中国之星」计划，已经扶持并推出了多款优秀作品。然而游戏行业终归是内容行业，即使索尼扶持之下依然有不少国单折戟。因为在这背后，比抄作业更可怕的是创作者选择放弃思考。</p>\n  <p>不可否认，于很多开发者来说，「类魂」的确是一个低成本、高成功率的选择。但游戏行业从来不只有魂，「魂」也只是一种设计风格，而不应该成为一套可供复用的通解——就像不是只要用UE5做了就能算是3A游戏。</p>\n  <p>甚至个人来看，《影之刃零》能够突出长板，哪怕只在其他系统做出基础线之上的设计，就已经比之纯粹的「抄作业」要优秀了不少。</p>\n  <p>更别说，它本身的许多设计都已经有了自己的思考。比如在普通难度中，很多人都忽略了「六十六天」这一设定，但据梁其伟所述，游戏中这一设定与整套游戏系统bulid有着紧密的联系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261112/v2_04fb34476e94415aae36d9c232a2bbd2@6202862_oswg429459oswg880oswg557_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">甄子丹</p>\n  <p>在多周目解锁的「六十六天」难度里，玩家其实也才能真正理解游戏内许多地图设计的小巧思——比如为什么整个游戏里，最「阴间」的只有能够自爆以命换命的爆弹怪；以及为什么，在前往庞镇前游戏会进入回忆扣除天数，在庞镇及后续地图这一设计又不再可见。</p>\n  <p>《影之刃零》当然是不完美的游戏，甚至我迄今都认为它缺点颇多，甚至其中不少Boss设计都多少有点粪怪潜质。但从市场来看，它又是今年最值得尊重、认可的单机游戏，毕竟单凭设计精神，它就已经超越了国内外整个游戏行业太多创作者了。</p>\n  <p>本文首发自<a href=\"https://mp.weixin.qq.com/s/wfp-skIx3AwTBGDtfhECqw\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪游戏”</a>。</p>",
-      "category": "tech",
-      "published_at": "2026-11-12T04:15:28+00:00",
-      "fetched_at": "2026-11-12T05:30:42.792431+00:00",
-      "fingerprint": "cd2ded8c98721a3d"
-    },
-    {
-      "source": "少数派",
-      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
-      "url": "https://sspai.com/post/118175",
-      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？<a href=\"https://sspai.com/post/118175\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-11T06:50:39+00:00",
-      "fetched_at": "2026-11-12T05:30:41.351035+00:00",
-      "fingerprint": "a9581b8688d77475"
-    },
-    {
-      "source": "少数派",
-      "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
-      "url": "https://sspai.com/post/118781",
-      "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...<a href=\"https://sspai.com/post/118781\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-11T09:30:00+00:00",
-      "fetched_at": "2026-11-12T05:30:41.351029+00:00",
-      "fingerprint": "2563ca83df94b601"
-    },
-    {
-      "source": "少数派",
-      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-      "url": "https://sspai.com/post/118935",
-      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。<a href=\"https://sspai.com/post/118935\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-12T00:22:09+00:00",
-      "fetched_at": "2026-11-12T05:30:41.351023+00:00",
-      "fingerprint": "6a0191c5e23865e3"
-    },
-    {
-      "source": "少数派",
-      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
-      "url": "https://sspai.com/post/118921",
-      "summary": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...<a href=\"https://sspai.com/post/118921\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-12T03:12:02+00:00",
-      "fetched_at": "2026-11-12T05:30:41.351012+00:00",
-      "fingerprint": "9ddb156b1d88d2a0"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.5756 CNY ↓-0.63%",
-      "url": "https://www.frankfurter.app/2026-11-11?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-11-11</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.5756 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0292 (-0.63%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-11-12T05:30:40.222251+00:00",
-      "fingerprint": "9b2af8126e282c59"
     }
   ]
 }
