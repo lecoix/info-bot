@@ -1,7 +1,267 @@
 {
-  "updated_at": "2026-11-20T05:29:30.079696+00:00",
-  "count": 181,
+  "updated_at": "2026-11-21T05:22:26.424042+00:00",
+  "count": 183,
   "items": [
+    {
+      "source": "The Guardian - World",
+      "title": "California’s coastal communities on alert as biggest waves in years hit state",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+      "summary": "<p>Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded</p><p>Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years.</p><p>Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California. By Sunday night, more than 100mm (4in) of rain is expected in places, with further snowfall for areas such as Donner Pass across the northern Sierra Nevada mountains.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state\">Continue reading...</a>",
+      "category": "politics",
+      "published_at": "2026-11-20T09:03:20+00:00",
+      "fetched_at": "2026-11-21T05:22:26.419908+00:00",
+      "fingerprint": "69465d17130aefc9"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "category": "politics",
+      "published_at": "2026-11-21T04:34:00+00:00",
+      "fetched_at": "2026-11-21T05:22:26.332631+00:00",
+      "fingerprint": "81231055e0a0be42"
+    },
+    {
+      "source": "BBC World News",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "category": "politics",
+      "published_at": "2026-11-20T22:37:09+00:00",
+      "fetched_at": "2026-11-21T05:22:26.332626+00:00",
+      "fingerprint": "397265b10097e3d9"
+    },
+    {
+      "source": "BBC World News",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "category": "politics",
+      "published_at": "2026-11-20T17:49:48+00:00",
+      "fetched_at": "2026-11-21T05:22:26.332621+00:00",
+      "fingerprint": "b489ac03011e847a"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "category": "politics",
+      "published_at": "2026-11-20T22:42:47+00:00",
+      "fetched_at": "2026-11-21T05:22:26.332612+00:00",
+      "fingerprint": "53ba164e0140f69f"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
+      "url": "https://www.bbc.com/zhongwen/articles/cw7v2zlle4v4o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "備受矚目的Anthropic上市案，預料將讓其晉身美國十大最具價值企業之列，但AI產業前景依然存在變數。",
+      "category": "politics",
+      "published_at": "2026-11-20T07:52:14+00:00",
+      "fetched_at": "2026-11-21T05:22:26.221986+00:00",
+      "fingerprint": "0806164ae968e570"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
+      "url": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "四名男子性侵一名被其丈夫下藥的女子，被裁定性侵罪成。",
+      "category": "politics",
+      "published_at": "2026-11-20T09:24:25+00:00",
+      "fetched_at": "2026-11-21T05:22:26.221978+00:00",
+      "fingerprint": "9c43fea94c64c722"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "緬甸種族滅絕裁決影響深遠的歷史意義",
+      "url": "https://www.bbc.com/zhongwen/articles/c5n4eylmmg8po/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC國際編輯寫道，律師將研究岡比亞如何證明緬甸意圖實施種族滅絕。",
+      "category": "politics",
+      "published_at": "2026-11-20T08:53:00+00:00",
+      "fetched_at": "2026-11-21T05:22:26.221962+00:00",
+      "fingerprint": "c5b0031236adfc93"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "中俄美三方峰會「場面大於實質成果」",
+      "url": "https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC駐北美記者澤克爾：這次高峰唯一讓人留下的持久印象，或許只是歷史性的三方會晤的畫面。",
+      "category": "politics",
+      "published_at": "2026-11-20T05:46:09+00:00",
+      "fetched_at": "2026-11-21T05:22:26.221931+00:00",
+      "fingerprint": "37f97c10ace77692"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-21T05:22:25.790606+00:00",
+      "fingerprint": "c884460ec18c9cae"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-21T05:22:25.790526+00:00",
+      "fingerprint": "e1c97d950edb3018"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-21T05:22:25.790425+00:00",
+      "fingerprint": "89c1b5008b7af961"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-21T05:22:25.790325+00:00",
+      "fingerprint": "3b3270b0917323ae"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-21T05:22:25.790212+00:00",
+      "fingerprint": "cb5e6e91712c9ca4"
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-20T18:50:19+00:00",
+      "fetched_at": "2026-11-21T05:22:25.498867+00:00",
+      "fingerprint": "3afdf5a7b1a6fd8a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-20T19:15:00+00:00",
+      "fetched_at": "2026-11-21T05:22:25.498861+00:00",
+      "fingerprint": "7fb40abee5825fd2"
+    },
+    {
+      "source": "The Verge",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-20T19:35:06+00:00",
+      "fetched_at": "2026-11-21T05:22:25.498856+00:00",
+      "fingerprint": "580903835fa712d8"
+    },
+    {
+      "source": "The Verge",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-20T20:43:52+00:00",
+      "fetched_at": "2026-11-21T05:22:25.498846+00:00",
+      "fingerprint": "28a72b175fa002be"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "Anthropic上市首日涨17%，市值一度冲至2万亿刀，AI热潮还能持续多久？",
+      "url": "https://36kr.com/p/4077873869099904?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_c6a1dc1594024cd28bb63bb580d5c2a6@6314151_oswg1060749oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>Anthropic与科技巨头们唇齿相依</strong></p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_728e7b84a2254c5ab9cc000f76d339b9@6314151_oswg560oswg900oswg30_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>文<strong>&nbsp;|</strong>&nbsp;刘思洁</p>\n  <p>封面来源 |&nbsp;Unsplash</p>\n  <p><br />&nbsp;</p>\n  <p>11月19日，Anthropic（Nasdaq：ANT）<strong>正式登陆纳斯达克</strong>，股票发行价最终定在83美元，开盘价111.50美元，盘中最高涨至115.10美元，按完全稀释口径计算，市值一度约<strong>2.08万亿美元，按已发行股份计算约1.51万亿美元，</strong>收盘报97.17美元，收盘时较发行价高约17%。</p>\n  <p>其募资额也超越SpaceX，为813亿美元，刷新了全球IPO募资纪录。盘中最高时，Anthropic一度成为全球市值第六大的上市公司（<strong>完全稀释市值口径），</strong>位于Apple、Microsoft、Nvidia、Alphabet和Amazon之后。</p>\n  <p><strong>截至2026年9月30日约有5300名员工，按照盘中最高时市值计算，也就是说人均创造了3.925亿美元的市值，约为英伟达的4.7倍。而按照招股书的披露，过去12个月人均创造的营收超过660万美元。按照盘中最高股价计算，其七位联创的身家合计超过1900亿美元。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_eb7558d0d87d46078edcd168870b2746@6314151_oswg99723oswg1080oswg687_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Anthropic、英伟达、SpaceX三家公司人均创造的市值（数据取11月19日各家最高市值计算）</p>\n  <p><strong>此前，业内普遍存在一个担忧，Anthropic的上市，预示着AI行业泡沫要破了。</strong>10月，投资者还在谈论Anthropic上市估值可能达到约2万亿美元，临近上市，市场讨论回落到约1.2万亿至1.4万亿美元。而到上市时市值则又冲高至2万亿美元。</p>\n  <p>市场情绪起伏，在上市首日的股价上也得到了体现，最终收盘回落至97.17美元，而美股三大指数也全部收跌，道指跌2.19%，标普500指数跌2.02%，纳斯达克综合指数跌2.25%。<strong>尽管Anthropic首日收盘仍高于发行价，市场整体却在抛售股票，可见，投资者对高估值科技股和AI相关风险仍保持谨慎。</strong></p>\n  <p>当下，政策环境为AI的发展增加了一层不确定性。美国中期选举后，民主党将在明年1月取得国会多数。其党内近期的政策讨论更强调对AI公司加强问责、保护劳动者和消费者，并关注数据中心对电力、环境和当地社区的影响。</p>\n  <p>翻阅Anthropic的招股书，可以看到AI产业扩张的两个不同切面：收入快速增长的同时，算力和基础设施投入也在急剧扩大。Anthropic已签下大规模的多年算力采购和租赁安排，还使用可转换票据等方式为部分算力租赁提供融资。</p>\n  <p>从商业角度看，<strong>对Anthropic这样AI巨头来说，最大的问题不是继续拿资本、建算力，更应担忧的是：在需求波动、成本高企和政策收紧的夹击下，巨额投入能否持续兑现为商业回报。</strong></p>\n  <p>AI的泡沫破了吗？</p>\n  <p>本文从Anthropic的融资、产业链关系、收入和算力承诺入手，剖析这场AI资本盛宴由什么支撑，又会在哪些环节遇到压力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_2e99a21376b846f7b15b22d27ed64a0f@6314151_oswg1788oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>从1.24亿美元A轮融资，到2万亿美元市值，Anthropic如何一步步变大？</strong></h2>\n  <p>Anthropic最早公开披露的融资是2021年的A轮，由Skype联合创始人、投资人Jaan Tallinn领投，融资1.24亿美元。随着融资规模的扩大，投资者也从早期个人投资人和风投，扩展到大型基金、主权财富基金及科技公司。</p>\n  <p>2025年的E、F轮分别融资约35亿和130亿美元，2026年的G、H轮则分别融资300亿和约650亿美元。H轮后，公司披露的投后估值达到9650亿美元。<strong>融资规模与估值在短时间内同步跃升，是这段融资史最直观的特点。</strong></p>\n  <p>可见，从2025年开始，投资者对其模型能力、客户增长和未来市场规模的预期明显升高。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_a2414bf5d1b04f70b471b1c0919e28ea@6314151_oswg137566oswg1080oswg643_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">融资规模和市值变化图</p>\n  <p><strong>Anthropic的融资跃升，发生在全球资本集中涌向AI的背景下。</strong></p>\n  <p>经济合作与发展组织（OECD）统计，2025年AI企业获得约2587亿美元风投，占全球风投总额的61%，是2022年占比的两倍。</p>\n  <p>到了2026年上半年，世界知识产权组织（WIPO）统计的AI融资占全球风投金额已升至77%，OpenAI、Anthropic和xAI三家就占近43%。</p>\n  <p>融资热潮并未平均惠及整个AI行业，越来越集中在少数头部公司和超级大额交易中。</p>\n  <p>Anthropic的估值上升，正受益于这场资本集中的游戏。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_e60306b4679348548e42e481f37ac911@6314151_oswg2308oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>投钱的公司，也在卖算力、云服务和销售渠道</strong></h2>\n  <p>Anthropic与科技巨头之间，形成了多重交织的关系：它们既可能是投资人，也可能是云服务、算力或芯片供应商。在一些情况下，还可能通过可转债或融资额度提供资金。</p>\n  <p>以亚马逊为例，IPO前，其通过可转债和优先股投资了约180亿美元。</p>\n  <p>它既向Anthropic投资，又是其云服务和训练合作伙伴，AWS还通过Bedrock提供Claude的销售渠道。与此同时，Anthropic承诺未来向AWS采购大量算力。</p>\n  <p><strong>资本流入之后，Anthropic又要把相当一部分资金用于购买同一批巨头提供的云服务和算力。投资关系与供应链关系就这样连在了一起。</strong></p>\n  <p>这张关系网也延伸到其它美国大型科技公司，可以看到，美股“七姐妹”，也就是占据标普500指数总市值近40%的七家企业中，有四家都和Anthropic有投资及合作供应链关系。</p>\n  <p>——Amazon、Google、Microsoft、Nvidia分别以不同方式参与其中，既可能投资，也可能提供云、芯片或销售渠道。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_3d07bba5ed124c05b460ad8a79b349bd@6314151_oswg245885oswg1080oswg749_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">巨头们和Anthropic错综复杂的关系</p>\n  <p>目前，云平台还是Claude重要的销售。通过云服务商marketplace购买Claude产生的收入占比，从2023年的11%升至2025年的47%。2026年前九个月约为44%。对Anthropic来说，通过这些云平台销售Claude，可以借用这些平台已经建立的企业客户关系、采购流程和云上基础设施，让企业客户更容易试用、采购并接入Claude。</p>\n  <p>对Anthropic来说，这些关系有助于获得扩张所需的资金、算力和企业客户入口。对巨头来说，则可能带来股权收益、云服务收入、芯片需求或模型生态中的位置。</p>\n  <p>这种交织关系也延续到了上市阶段。Anthropic在11月10日公布的最新招股书披露，Google、Nvidia、Microsoft等七家公司同意在IPO同时，按发行价合计购买260亿美元的不带投票权的N类股票。</p>\n  <p><strong>Anthropic的增长因此与大型科技公司的资本和基础设施深度相连，巨头们互相依赖，也在这场狂欢中共同获利。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_5b5bf5e81d0f4b57a9c42867feb7fdf8@6314151_oswg2380oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>收入能否证明需求是真的？</strong></h2>\n  <p>据招股书披露，截至2026年9月30日的九个月，Anthropic收入为332.42亿美元。其中，按使用量计费收入263.06亿美元，占约79%。订阅收入69.36亿美元，占约21%。换句话说，它的收入大头是大客户调用Claude、消耗算力后产生的费用。</p>\n  <p>这意味着客户使用得越多，Anthropic收入可能越高，如果客户减少调用、转向更便宜的模型，或者预算收紧，这部分收入也可能波动。</p>\n  <p>Anthropic将过去12个月消费超10万美元的客户，视为衡量企业级市场渗透率的核心指标。截至2026年9月底，这类客户贡献了过去9个月约74%的收入，数量超过11900家。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_741827c7d35148659f44ab12c877aa0d@6314151_oswg85764oswg1080oswg689_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">各类收入占比</p>\n  <p><strong>Anthropic的故事是否能继续，取决于大客户能否持续使用Claude，使得收入能覆盖长期的算力投入。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_800388a865a44c989cf88d8ee802bea7@6314151_oswg2613oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>算力压力，欠未来的账</strong></h2>\n  <p><strong>截至2026年9月的九个月，Anthropic营业亏损约12.6亿美元，净亏损约1040.39亿美元。</strong></p>\n  <p><strong>不过净亏损中有约943.24亿美元来自可转债、衍生品和SAFE等项目的公允价值变动，主要是融资估值上升带来的账面调整，这不等于公司在这九个月里实际花掉了同样多的现金。&nbsp;</strong></p>\n  <p><strong>同期，公司经营活动现金流为正约66亿美元。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_27ef3c8388b84842acee8bc88e717fc4@6314151_oswg86891oswg1080oswg709_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">亏损来源图，与现金流对比</p>\n  <p>更实在的经营压力在算力成本上。<strong>Anthropic披露，2026年前九个月的算力和基础设施费用约188亿美元，相当于同期收入的约57%，并称这项费用预计在可预见时期内仍是最大运营开支。</strong></p>\n  <p>招股书披露，截至2026年9月底及之后，公司已签订的算力、基础设施采购和租赁安排，承诺支出合计约9009亿美元。这些钱分布在多年合同中的未来支出，公司预计约4516亿美元将在2030年底前发生，未来12个月预计到期约707亿美元。</p>\n  <p>这些承诺也把Anthropic与多家供应商长期绑定：公司承诺向Amazon至少支出1100亿美元、向Google Cloud至少支出约1213亿美元、向Microsoft 至少支出472亿美元。另外还向SpaceXAI、Nscale、Lambda等采购GPU算力，并通过 Broadcom等安排租赁计算设备。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_a11e06119eb245858c949d9a9abdcef0@6314151_oswg2374oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>AI泡沫要破了吗？</strong></h2>\n  <p>AI行业的债务在扩张，据CNBC报道，高盛统计，今年超大规模云厂商已发债约2960亿美元，超出年初预测的2500亿美元，并预计明年达到4400亿美元，另有约3000亿美元的项目级融资。太平洋投资管理公司（PIMCO）称，AI相关借款人已占今年美国非金融投资级长期债券发行量的近一半。压力信号出现了：算力云服务商CoreWeave一只2032年到期的债券，收益率升破16%。</p>\n  <p><strong>这种靠举债支撑基建扩张的模式，不得不让人想到2000年前后的电信泡沫。当时的一个典型特征是设备商向客户提供融资，客户再用这笔钱购买设备，最后需求跟不上产能建设的速度，链条断裂。</strong></p>\n  <p>AI产业链里已经出现了类似结构。</p>\n  <p>Anthropic也在这条链条上。招股书披露，它可以向博通或其指定的融资伙伴发行最高420亿美元的可转换票据，专门用于支付租赁基于谷歌TPU的设备的租金，设备由博通向谷歌购入，再租给Anthropic的子公司，租期五年，租金合计约1252亿美元，票据约覆盖其中的三分之一。</p>\n  <p>正常情况下，票据年利率9%，利息计入本金，持有人可按30日均价的90%折价转股。在协议约定的收入条件未达标期间发行的票据，利率为13%，转股折价为15%。</p>\n  <p>截至2026年9月底，票据尚未发行，公司称预计IPO前不会出售。但若一旦动用，风险主要体现为对现有股东的稀释。而博通既是设备出租方，又是潜在债权人，招股书也提示了这种与供应商之间的利益冲突。</p>\n  <p>真正说明融资环境变化的，是评级预期。据《金融时报》报道，Blackstone是Anthropic一笔约630亿美元芯片融资的主要投资者，它此前告诉投资者，Anthropic有望在2027年前获得投资级评级，后来改口，称上市后更可能是BB档的“高级垃圾债”评级；KBRA已在6月给出BB+。评级越低，融资越贵，而Anthropic和它的供应商扩张算力，都离不开这类融资。</p>\n  <p>这条链条上的供应商也是如此。招股书新增的风险因素写明，部分算力提供方和基础设施伙伴依赖第三方融资或信用支持来采购芯片、建设产能，一旦融资不可得或更贵，已约定的算力可能被延迟、重新定价、减少或无法交付。</p>\n  <p>比如Nscale，合同要求它在截止日前尽最大努力，为GPU系统和数据中心取得融资。&nbsp;</p>\n  <p>场地同样是前提。Anthropic与Lambda那份约349亿美元的协议约定，若Lambda没能在约定日期前拿到数据中心的设施租约，任何一方都可以终止。11月10日的招股书修正案披露，Lambda没有按时拿到租约，这份协议目前可由任何一方终止。双方均未发出终止通知，Anthropic称目前不打算终止。</p>\n  <p>Anthropic的招股书没有给出“AI泡沫已经破裂”的确定答案。公司收入仍在快速增长，经营现金流为正，这次的IPO认购热潮也显示其仍有大量资金支持。但另一面，算力和基础设施费用已占前九个月收入约57%，多年期采购和租赁承诺约9009亿美元，融资方也开始重新评估相关风险。</p>\n  <p>对于投资者来说，真正应该关心的风险正是在未来——需求能否追赶上算力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_12d39773d41e45cd996c3e794a166e06@6314151_oswg56928oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_9416eb5a82254baca52a46cf91623da4@6314151_oswg2783oswg900oswg74_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>你觉Anthropic��价后市走向是？</strong></p>\n  <p><strong>欢迎在评论区分享你的看法~</strong></p>",
+      "category": "tech",
+      "published_at": "2026-11-20T09:14:53+00:00",
+      "fetched_at": "2026-11-21T05:22:25.377494+00:00",
+      "fingerprint": "bf0443663fed95c1"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "一届学生60万？外国玩家：想来中国上学了 | 玩点好的",
+      "url": "https://36kr.com/p/4077807099057031?f=rss",
+      "summary": "<p>文丨句号</p>\n  <p>编辑丨果脯</p>\n  <p>“如果我是老师，我肯定不会对学生这么坏。”</p>\n  <p>可能是在被罚站时，也可能是被老师喊来家长后，这样的想法总是会瞬间被唤醒。《我带过的最差一届》（以下简称《最差一届》），一款非对称式派对游戏，给了玩家们一次师生身份转换的机会。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_c8072a67d4634387aee487f5312c5c79@6449318_oswg422961oswg800oswg450_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《我带过的最差一届》官方宣传图</p>\n  <p>由B站up主夜之黄泉带队顽核社开发，《最差一届》在Steam新品节上斩获超过60万下载量，发售首日销量即达成10万份。爆笑的节目效果引得各路主播纷纷加入这场校园乱斗，在中文社区之外，中式校园题材也吸引着越来越多的海外玩家。</p>\n  <h2><strong>01 追我的不只是情怀，还有老师？</strong></h2>\n  <p>在《最差一届》中，玩家分为不对称的两个阵营，与现实相符，老师在游戏中需要以一敌多，而学生阵营更加考验团队协作，搭配默契才有取得胜利的可能。</p>\n  <p>游戏没有剧情，玩家自己的经历就是最好的新手引导。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_5bdd90a1cbb648c8892444fbd8a32e34@6449318_oswg590718oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>蓝白校服配上天然呆的大眼睛，学生们给人带来的第一印象绝对是软萌的，但他们挑衅的动作摆出来，你又会瞬间觉得他们有些欠管教。</p>\n  <p>这是因为有些真人玩家混进了这批NPC的队伍，惹老师生气就是他们来到学校的使命，不要让他们离开你的视线，否则你将想象不到他们会做出怎样的恶作剧。《最差一届》可不是一个和平的游戏。</p>\n  <p>和经典的非对称对抗游戏不同，学生的任务不是狂点QTE修电机，也不需要拉点和砸板，学生与老师的关键博弈点在于课桌底下的小动作。相比于现实的校园，他们做得更加出格，大家的课桌中一本书都不剩，而是被各种各样的“垃圾食品”取代了位置。薯片、可乐、干脆面、泡泡糖，只要不被老师抓住，你甚至可以从头吃到尾。吃掉更多的东西，积累足够的捣蛋值，便可取得阵营胜利。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_bd930c14f7c7462dbf9d70bf1a23969a@6449318_oswg619633oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏内截图</p>\n  <p>作为老师，自然不会允许学生在自己的课堂上胡作非为。老师具有更高大的身材以及充满压迫感的容貌，和现实的教师一样，站在讲台上或者是教室后门，能将整个教室的小动作看得一清二楚。对于违规违纪的坏学生，老师将展示自己惊人的FPS天赋，用粉笔将学生爆头后，再像拎小鸡似的将学生捆在讲台上罚站。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_e26c14c7daf3455fbbf544962aca9b2f@6449318_oswg145588oswg858oswg479_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>面对老师，有时候身法好不如演得像，当你想要干坏事，抓住老师写板书的空档期是最保险的做法。游戏最刺激的点就在于此，你需要一边低头吃东西，一边观察老师的下一步动作。当老师即将写完板书回头，你必须在瞬间完成放下薯片、收起抽屉、拿起课本等一系列操作。</p>\n  <p>当老师巡视到你身边，你还得抽空翻翻课本、用一双大眼睛望向老师，展示一番你的天真无邪。老师站在身边，下一秒是扔出粉笔，还是默默走开，这种提心吊胆的感觉，是游戏能成为笑点制造机的关键。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_e35b004afb314716ac9f761621c836b2@6449318_oswg936481oswg1080oswg579_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>假如只是偷吃零食，这届学生还算得上安分，只有当你进一步清查抽屉，才能够真正理解他们“最差一届”的含金量。学生冷不丁的就会从抽屉掏出闪光弹和烟雾弹对讲台上的老师进行攻击，还能熟练操作无人机进行远程救援，为了与学生对抗，老师也可以启用摄像头与雷达来增加自己的眼线，打学生们一个措手不及。</p>\n  <p>学生们扔扔道具就好了，而老师考虑的就要多了。作为金牌教师，拿粉笔无差别打击学生未免有失风度，于是游戏为老师添加了体力机制。老师奔跑和投掷粉笔都会消耗体力，错抓好学生将会受到扣除体力值的惩罚，只有在讲台上写板书时体力才会得到回复。为了应对精力充沛的学生，老师只有合理运营体力才能打好这场拉锯战。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_b6358f047804474591607363f1a8d739@6449318_oswg429897oswg793oswg404_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>游戏正式上线后具有更加丰富的地图选择，封闭的教室不再是师生大战的唯一场景，从机房到寝室，从厕所到操场，每个地方都可能成为两方对决的“刺激战场”。不同的地图设置了不同的场景交互，玩家能够在其中全方位重温自己的校园记忆。</p>\n  <p>趁着老师下台巡视的机会，从教室后门潜入老师的办公室，将抽屉内的盒饭吃个干净；在微机课上，悄悄切出老师的操作界面，打开角落的黄金矿工玩个痛快。曾经在校园中压抑的天性，在这一刻得以全部释放。</p>\n  <p>当玩家下课来到厕所，你会发现隔间里的人赖着不走，都在争分夺秒地啃食零食。学生们为了争取更高的分数，吃过的零食包装袋也顾不及冲进马桶，吃得太多时，包装袋甚至直接堆成了小山从隔间内溢出。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_4eab99782b4e4f4d8d723f421393ab8d@6449318_oswg864560oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>《最差一届》里，老师再也不会占用学生的体育课，学生可以与NPC一起，畅快地绕圈跑步，也能够假装掉了鞋带，偷偷跑到自动售货机面前大吃一顿。在对局中，广播站成为老师和学生的必争之地，学生想要播放《雨爱》和“哈基米音乐”，要先闯过老师手里的教鞭。</p>\n  <p>游戏正式上线后还加入创意工坊，玩家可以尽情接入mod，用自己喜欢的角色开办一场校园cosplay。曾经连头发长了一寸都要判“死刑”，而现在，一般的奇装异服在猫娘学生和奶龙老师面前已经有点不够看了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_837e8ee11b6d46779272d9985a528311@6449318_oswg371340oswg804oswg543_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Steam创意工坊界面截图</p>\n  <p>《最差一届》有着不同于现实校园的自由，但这种创意并不会使玩家感到陌生。当你邀约自己的旧友加入游戏，你会发现，那些散落在校园每个角落的欢声笑语，仍然还是我们熟悉的温度。</p>\n  <h2><strong>02 中式校园这么大，老外很想来看看</strong></h2>\n  <p>蓝白校服与校园生活，这种搭配并不是第一次在中文社区走红。</p>\n  <p>国产原创动画《茶啊二中》于2014年开播，动画的内容是一群师生最平常最普通的校园故事，但他们一口气将这个故事讲述了十二年，足够陪伴一名中国孩子从小学到大学。动画组于2026年7月开播第六季，剧集中塑造的王强、贾淳、石老师等经典形象，得到全网5000万粉丝的青睐。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_10825b265d204a8aae742f7719382e50@6449318_oswg831536oswg720oswg954_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《茶啊二中》官方宣传海报</p>\n  <p>十二年时间，动画的建模水平有着极大的改良，但人物服装仍然是朴素的蓝白运动服，制作组并没有把校园的象征符美化到脱离现实的地步，而是坚持用最真诚的日常打动每一个观众。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_3a94cf0ec46c4cc9a57203f4e4260932@6449318_oswg847699oswg1080oswg605_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">动画剧集内截图</p>\n  <p>在学生时期看校园作品，我们往往用它们作为自己的嘴替。还记得当初玩《中国式家长》的时候，总是会想让自己的家长去感受一下作品出表达的内核，去体会下当时校园的我们承载着过多的期望，到底过的有多不容易。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_48c4b646b0184f15a0d1561ca38704c0@6449318_oswg67155oswg1080oswg432_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《中国式家长》游戏宣传图</p>\n  <p>而从校园离开后，对于学校里发生的日常，除了共鸣之外，还多了一份“怀念”的味道。</p>\n  <p>上个月，灭霸短剧火遍全网，一句“灭霸的爸爸叫什么”，成为不少人与校园伙伴心照不宣的口头语。跳出漫威原著的框架，在中式校园的背景下，“灭霸父亲”这个身份被赋予了新的名字——灭建国。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_f3828d7e34494b118c2f7ccff00ea0c1@6449318_oswg185287oswg1080oswg1068_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Bilibili平台up主“在酒馆的溟歌”原创漫画</p>\n  <p>在AI短剧中，灭霸与复仇者联盟一笑泯恩仇，在这个平行世界中，大家都是学校中的一分子，各位超能力者也只是能力比较突出的“普通学生”。</p>\n  <p>没吃过海底捞的灭霸，为了与同伴合群而穿上潜水服出门；灭霸暗恋黑寡妇，钢铁侠替他送出超长蛋挞撮合两人；嘲笑深夜emo文案后，灭霸一言不合就要告老师，钢铁侠只能献出辣条充当封口费；被父亲批评后，灭霸下定决心要做一个无情的学习机器……每一个小故事，总能让我们找到自己的影子。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_b64fa2d881a34af6ac8b7e4bd605c96d@6449318_oswg707296oswg1080oswg705_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">社区AI二创图</p>\n  <p>灭霸短剧很滑稽，但有时也很动人。B站up主在“灭建国”梗的基础上接续创作，一部《灭建国的超能力》在站内播放超600万。短片内，灭建国拥有“将任何事物消灭一半”的能力，但一辈子只能够使用一次，灭建国在高考、结婚、创业等人生节点时，都没舍得使用。但在儿子灭霸受伤时，灭建国毫不犹豫地启动了能力，帮助灭霸减少了一半伤痛。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_51d3c22ba5774586bd54c89d93203a27@6449318_oswg1220265oswg1080oswg907_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Bilibili平台up主“抽象生活先生”原创漫画截图</p>\n  <p>同学的友谊、家人的爱、老师的陪伴，中学时期全心投入学习的日子很苦涩，但经历过后才能感受到这些苦涩中的微光更加温暖。与其说是校园生活本就幸福，不如说是时间冲淡了苦，只给记忆存下成长的本味。在规则为主的校园，很多情绪没有表达的窗口，不能明目张胆喜欢一个人，不能抛开学业发展自己的兴趣爱好，面对焦虑不能轻易认输，连接家与校园的，往往只剩下一座四四方方的电话墙。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_cb0204810c264d9ca9efc5454d9fcbe7@6449318_oswg319805oswg627oswg407_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">央美毕业展网络照片</p>\n  <p>这种对校园又爱又恨的情感，除了在中文社区爆火外，同样感染了不少海外玩家。尽管游戏的海外译名并没有像“最差一届”这样的文化符号意义，但玩家们还是对中式校园堪比坐牢的固有印象有所改观。</p>\n  <p>“你们在学校真的可以涮火锅吃吗？”这是我在《最差一届》的英文房中，一位外国朋友对我发出的诚恳疑问。</p>\n  <p>在Steam评论区中，还有一位法语玩家坦言，自己的朋友放弃了高中结业，这款游戏让他怀念起过去的事。青春未结的遗憾，许多人在游戏中得到了补足，或许曾经在学校中偷藏手机被发现的经历很惨痛，但在游戏中，这种“轻惩罚”的机制让你可以更加放心大胆地去突破规制，寻找曾经更活跃且更有想象力的自己。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_6f6aa3435ea9433fa5f6c5527bfa7f0e@6449318_oswg172522oswg1080oswg729_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Steam评论区截图</p>\n  <p>在对局中，一些玩家终于理解了老师的辛苦，因为游戏里“老师体力太少”，“学生太多管不过来”，经常把扮演“老师”的玩家整到力竭，而游戏中的老师往往只是1v5或1v6，现实中的老师需要对付的是十倍于此的学生。</p>\n  <p>而一位老师也在评论区中表示自己的庆幸，自己的学生还好只是会打瞌睡和玩手机，倒不至于向老师扔闪光弹。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_c34ed1e7fa91479d80280af07de27cf6@6449318_oswg122793oswg903oswg294_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Steam评论区截图</p>\n  <p>地图中，不少地方还埋藏了暖心的小彩蛋，例如黑板上总会时不时刷新老师关切的话语，表示即使我们离开校园，老师也坚持用最朴素的情感联系着每一届教过的学生。这种纯粹的师生情，正是维系不同文化背景的玩家一同进行游戏的精神内核，虽然我们的校园环境各异，但在游戏中，你总能联想到在此背景下给你留下深刻印象的那个，或者是那群人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_defb7f4545d5410182f2a5c226af8576@6449318_oswg53331oswg1080oswg600_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《我带过的最差一届》游戏内截图</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_02434da151d94460a41b5bb1310c94d1@6449318_oswg489521oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《我带过的最差一届》游戏内截图</p>\n  <p>据制作人黄泉透露，在游戏demo阶段，《最差一届》的海外玩家占比约15%。这意味着，在武侠与仙侠等经典国风题材之外，中式校园这一叙事场景，正在悄悄成为国产游戏出海的新路径，为了感受这种校园里纯粹的快乐，不少外国玩家甚至愿意在游戏中上一节汉语言课。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_033bb8f2c4954f39a631df9da8f641fa@6449318_oswg703827oswg1080oswg602_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>游戏上线后市场表现亮眼，首周销量突破60万份，但制作组并未松懈，短时间内便上线了新版本的“秋游大巴”地图和更加生动有趣的舞蹈动作，让游戏的欢乐属性更上一层楼。</p>\n  <p>不难注意到，《最差一届》制作组从demo到上线再到第一次版本更新，相隔的时间非常短暂，一方面可能是考虑到游戏的同质化玩法很容易使玩家丢失新鲜感，而丰富的校园场景资源还有很大的开发余地；另一方面，《最差一届》的开发门槛较低，微信小程序上已经出现不少借助AI仿制的同类作品。</p>\n  <p>AI虽然能仿造游戏的外衣，但对于玩法的核心则很难做出实质性改变，让游戏的主要吸引力从情怀转向内容本身，是黄泉带领团队亟待要做的事。</p>\n  <p>本文<a href=\"https://mp.weixin.qq.com/s/662ObvsK8WSbyMkkGJdgyA\" target=\"_blank\">首发自“36氪游戏”。</a></p>",
+      "category": "tech",
+      "published_at": "2026-11-20T10:14:14+00:00",
+      "fetched_at": "2026-11-21T05:22:25.377488+00:00",
+      "fingerprint": "455454e818cb219e"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "9点1氪丨黄仁勋或将创办新公司；水贝金价一度跌破800元/克；纳指100进入技术性熊市",
+      "url": "https://36kr.com/p/4078827757310856?f=rss",
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>上证50ETF尾盘爆量拉升，成交突破215亿创成交额历史天量</p>\n  <p>英伟达市值被谷歌超越</p>\n  <p>12306重磅升级通知服务</p>\n  <p>马斯克试图与MAGA阵营切割</p>\n  <p>段永平：好公司未必要上市，字节6000亿美元估值下我会有兴趣</p>\n  <p>A股三大指数集体收跌，全市场超5200股飘绿</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>黄仁勋或将创办新公司</strong></p>\n  <p>前英伟达首席执行官黄仁勋的去向成为硅谷热议话题。科技媒体Semafor记者预测，黄仁勋休整后或重返AI行业，有可能创办一家新半导体公司，或向业内盟友筹集500亿美元创业资金，但该内容仅为预测，目前并无信息证实其已筹资或成立新公司。该记者表示英伟达董事会做出与黄仁勋切割的决定经过深思熟虑，很难因外部压力更改。另有业内人士认为黄仁勋仍存在回归英伟达的可能性，若其创业，或将对英伟达形成竞争，英伟达短期产品规划已定，长期发展则要看下一任CEO的能力。（财联社）</p>\n  <p><strong>水贝金价一度跌破800元/克</strong></p>\n  <p>在深圳水贝咨询商家了解到，11月20日中午1点多，该市场实时金价一度跌破800元/克，达797元/克，而这一价格在11月19日还为超840元/克，如果不算手工费，同样购买5克的黄金首饰，11月19日买的11月20日已经亏去200多元。不过到下午2点多，水贝金价重回800元/克上方，目前约为806元/克，如果是购买金条，价格更低至每克760多元。金价下跌，位于深圳水贝的水贝金座、金展珠宝广场等人头攒动。据了解目前顾客购金主要出于婚庆、送礼、投资等多种需求，也有顾客在观望，称“先来看看款式，等金价降了再买。”（贝壳财经）</p>\n  <p><strong>美股抹去年内所有涨幅，纳斯达克100指数走入技术性熊市</strong></p>\n  <p>当地时间11月20日，美股三大指数集体大幅收跌，截至收盘，道琼斯指数跌1.93%，连跌第五天，报48147.33点；标普500指数跌3.7%，连跌第七天（创2020年来最长连跌纪录），报6910.39点；纳斯达克综合指数跌5.28%，报22617.73点，抹去了年内所有涨幅。</p>\n  <p>三大指数均录得4月以来最低收盘价，其中道指和标普双双进入回调区间（较高点回落10%），纳指本周早些时候已经率先进入回调区间。</p>\n  <p>科技股纯度更高的纳斯达克100指数周五跌幅更大，达到5.61%，也抹去了年内所有涨幅，并且较高点回落20%，进入技术性熊市。（新浪财经）</p>\n  <h2><strong>AI最前沿</strong></h2>\n  <p><strong>腾讯混元正式开源Hy4</strong></p>\n  <p>36氪获悉，腾讯混元宣布Hy4正式开源，可在GitHub、Hugging Face、ModelScope和GitCode社区下载部署。混元LLM模型已全部开源，包括Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash等。</p>\n  <p><strong>苹果公司研发自己的AI智能体，拟与OpenAI和Anthropic竞争</strong></p>\n  <p>苹果公司正在开发可以代表用户完成任务的自主AI智能体，并希望进入这个已被OpenAI、Anthropic PBC、Meta Platforms Inc.及其他公司占据的快速增长的市场。苹果公司本周在网站上列出的招聘信息揭示了这一计划。其中一则信息称，苹果正在为一款主动式、智能AI助手寻找一位高级工程师经理。根据招聘信息，该系统将代表用户编写代码、浏览网页、控制应用程序和操控设备。（新浪财经）</p>\n  <p><strong>腾讯云：2026年11月18日12时起，DeepSeek原厂服务端联网搜索免费</strong></p>\n  <p>36氪获悉，腾讯云公告，自北京时间2026年11月18日12时起，调用DeepSeek原厂直供模型（即模型名称中带“原厂直供”标识的模型）时触发的服务端搜索（Search）、网页抓取（Fetch）不再计费，仅按模型Token用量计费。对于11月18日12:00:00后产生的服务端联网搜索费用，我们将启动退费，费用将于11月30日23:59:59前统一退还。</p>\n  <h2><strong>大公司/大事件</strong></h2>\n  <p><strong>字节高管辟谣离职</strong></p>\n  <p>11月20日，网传原抖音CEO、剪映和即梦AI负责人张楠，原飞书CEO谢欣将从字节跳动离职。字节跳动相关负责人回应称信息不准确。谢欣本人发文辟谣，称离职消息为假，浪费大量时间回复问询。（第一财经）</p>\n  <p><strong>苹果相机及照片软件业务负责人离职</strong></p>\n  <p>据报道，苹果公司负责相机及照片软件业务的高管已经离职。知名科技记者古尔曼援引知情人士的话称，乔恩·麦考马克（Jon McCormack）已于10月底退休，结束了其在苹果公司超过八年的职业生涯。他此前负责管理iPhone的“相机”和“照片”应用，以及决定用户如何拍摄、查看和编辑照片及视频的底层技术。报道称，苹果尚未任命新的副总裁来直接接替麦考马克的职位，他此前的下属将在其他高管的领导下接手相关职责。（界面新闻）</p>\n  <p><strong>贾国龙切入火锅赛道，新店人均消费102元</strong></p>\n  <p>11月19日，西贝旗下“天边冰煮鲜羊”呼和浩特首店开业，由原天边砂锅焖面门店改造而来，人均102元，标志着天边系列正式切入内蒙古冰煮羊火锅赛道。天边系列今年多次调整业态，从焖面到鲜羊料理再到火锅，扩张后续乏力，门店数量冲高后回落。西贝主品牌门店持续收缩，贾国龙夫妇已将所持西贝餐饮集团全部直接股权质押。此前西贝曾披露大额亏损，通过关店、孵化新品牌自救。（界面新闻）</p>\n  <p><strong>娃哈哈董事长据悉已辞职，商标归属仍悬而未决</strong></p>\n  <p>11月20日，界面新闻获悉，娃哈哈集团董事长许思敏已辞职，该消息公司尚未回应，其辞职或与12月1日即将实施的《食品委托生产监督管理办法》带来的法定责任风险有关。当前娃哈哈商标归属、授权使用问题仍未彻底厘清，商标转让手续尚未办结，娃哈哈集团与宏胜体系之间的权责划分存在不确定性，叠加渠道经销商保证金回款不及预期，企业经营仍面临多重挑战。（界面新闻）</p>\n  <p><strong>英伟达市值被谷歌超越</strong></p>\n  <p>11月20日美股开盘后，英伟达股价跌幅扩大至4.5%，报139.43美元，创下2025年6月以来股价新低，总市值回落至3.36万亿美元，市值被谷歌反超。该股收盘跌14.01%，报125.53美元。（财联社）</p>\n  <p><strong>12306重磅升级通知服务</strong></p>\n  <p>新增候补兑现、列车变动实时推送，多渠道同步提醒旅客出行动态。11月20日起，铁路部门在12306App系统通知新增候补兑现情况、列车运行调整通知服务。旅客办理购票、改签、退票、候补等业务，相关信息将同步通过App通知、微信/支付宝、预留邮箱推送；列车停运、折返、席位调整等变动，也会通过App、短信及时告知。旅客可在首页右上角查看通知消息，也可前往设置开启通知权限。（中国铁路）</p>\n  <p><strong>马斯克试图与MAGA阵营切割</strong></p>\n  <p>美东时间11月18日，马斯克公开表态称自己不属于MAGA阵营，坦言在中期选举中投入巨额资金支持共和党，如今回看感觉相当愚蠢。此前马斯克曾公开支持MAGA运动，累计向共和党捐赠4.45亿美元。11月19日特朗普回应，仍视马斯克为朋友，但同时提醒MAGA有明确内涵，偏离者不会有好结果。本次中期选举民主党拿下参众两院控制权，后续民主党议员计划对马斯克相关事项发起调查，马斯克也在推进太空算力中心布局。（参考消息、界面新闻）</p>\n  <p><strong>台积电子公司斥资5亿美元认购Anthropic股票</strong></p>\n  <p>台积电11月19日公告称，旗下子公司TSMC Partners,Ltd.投资Anthropic，认购其602.41万股N类普通股，每股价格83美元，交易总金额约5亿美元（499999968美元），价格与IPO发行价相同。（界面新闻）</p>\n  <p><strong>GTA6发售首日获得23.6亿美元收入</strong></p>\n  <p>历经13年等待，《GTA 6》正式发售，Sensor Tower估算截至周四晚间销量2458万份，带来约23.6亿美元收入，约为《GTA5》首日销售额三倍。本作Metacritic媒体均分99分，跻身游戏史上最高分作品。业内预计PC版及线上模式或2027年上线，其线上生态的商业化潜力被机构重点看好，游戏发售还将带动主机、外设、外卖等上下游消费。（财联社）</p>\n  <p><strong>华泰证券辟谣：网传市场言论非公司研究所相关人员发表</strong></p>\n  <p>36氪获悉，华泰证券发布声明：我司关注到近期部分网络、境外平台传播的相关市场言论。经核实，该内容并非我司研究所相关人员发表，属于不实信息。我司所有证券研究观点，均严格按照监管要求履行内部审核流程后对外发布。请广大投资者理性甄别网络信息，不要采信、转发该不实内容。对于编造、传播不实信息的行为，我司支持当事人依法维护自身合法权益。</p>\n  <p><strong>段永平：好公司未必要上市，字节6000亿美元估值下我会有兴趣</strong></p>\n  <p>36氪获悉，11月20日，投资人段永平通过其账号“大道无形我有型”回答网友提问时称，字节跳动确实很强，但他们好像没有上市的计划。这是一个很好的例子，好公司未必就一定要上市的。字节目前市场估值大概在6000亿美元，这个价钱我会有兴趣的。</p>\n  <p><strong>A股三大指数集体收跌，全市场超5200股飘绿</strong></p>\n  <p>36氪获悉，A股三大指数集体收跌，沪指跌1.22%，深成指跌3.09%，创业板指跌3.54%；电脑硬件、互联网、工业机械板块领跌，汇成真空跌超14%，品高股份跌超13%，江波龙跌近7%；石油天然气、保险、银行板块涨幅居前，中国石油涨超4%，工商银行涨超3%，中国平安涨超1%；全市场超5200股飘绿。</p>\n  <p><strong>美光：2027年存储芯片供需形势会比今年更加紧张</strong></p>\n  <p>美光科技总裁兼首席技术与产品官Scott DeBoer在接受采访时表示，存储芯片的供需在很长一段时间内都无法达到平衡。他指出，在可预见的未来，供需找不到明确的平衡点，预计2027年供需形势会比2026年更加紧张。（财联社）</p>\n  <p><strong>上证50ETF尾盘爆量拉升，成交突破215亿创成交额历史天量</strong></p>\n  <p>尾盘上证50ETF华夏爆量拉升一度涨1%，早盘一度跌超2%，现成交额突破215亿，较11月19日全天增超7倍，刷新此前在2026年1月28日创下的214.5亿元的历史天量。（财联社）</p>\n  <p><strong>贷款方试图禁止SpaceX将价值400亿美元芯片发射到太空</strong></p>\n  <p>知情人士透露，为SpaceX最新一笔430亿美元债务融资提供支持的贷款方，正试图限制埃隆·马斯克，不允许他把这笔融资的抵押品——高端AI芯片发射到太空，用于其轨道数据中心计划。SpaceX方面称，这笔债务对应的芯片计划在地面使用。但贷款方心存顾虑：如果公司后续决定把这笔作为贷款抵押物的贵重芯片送入太空，一旦发生违约，贷方将无法收回、处置这些半导体资产。（财联社）</p>\n  <p><strong>Anthropic数学家声称借助Claude证明黎曼猜想</strong></p>\n  <p>Anthropic员工、数学家Levent Alpöge对外表示，在大模型Claude协助下完成黎曼猜想证明，还称已经证明范围更广的广义黎曼猜想。该证明已经通过Lean工具做形式化编码校验，不过整个论证的正确性仍有待全球数学界核验。黎曼猜想是千禧年百万美元悬赏的顶级数学难题，距今已有167年历史。若证明最终成立，将对整个数论领域带来变革，也标志AI数学能力实现重大跨越。（财联社）</p>\n  <p><strong>招商银行发布贵金属业务市场风险提示</strong></p>\n  <p>36氪获悉，招商银行发布贵金属业务市场风险提示称，近期贵金属市场的不确定性因素较多，价格波动加剧。请投资者提高贵金属业务的风险防范意识，基于自身财务状况、风险承受能力及投资经验，理性开展贵金属投资活动，合理控制贵金属资产持仓规模，避免短期投机或跟风交易，从长期资产配置视角理性配置贵金属资产，控制投资总量，做好多元布局。</p>\n  <p><strong>韩国驳回特斯拉为FSD提交的车辆安全标准豁免申请，要求补充相关材料</strong></p>\n  <p>韩国国土交通部周五表示，由于申请材料不全，无法受理特斯拉公司提出的豁免当地车辆安全标准的请求，该请求旨在获准在韩提供其“全自动驾驶”（FSD）功能。韩国国土交通部称，韩国交通安全公团已通知特斯拉韩国公司，进行技术评估尚需进一步核实并补充相关材料。（新浪财经）</p>\n  <p><strong>三星任命存储与移动业务独立负责人，联席CEO人选不变</strong></p>\n  <p>根据三星电子发送的一份电子邮件声明，在联席CEO全永铉（Jun Young-hyun）和卢泰文（TM Roh）的领导下，三星电子分别任命了存储和移动业务的新负责人。黄尚俊（Sang Joon Hwang）晋升为总裁，并将出任存储业务负责人。崔元俊（Won-Joon Choi）被任命为移动业务负责人。全永铉将继续负责设备解决方案（DS）部门，卢泰文将继续担任设备体验（DX）部门负责人；两人将继续履行联席CEO的职责。（新浪财经）</p>\n  <p><strong>英伟达接近以逾5亿美元收购扩散式AI初创公司Inception</strong></p>\n  <p>据报道，英伟达接近以逾5亿美元收购扩散式AI初创公司Inception。（界面新闻）</p>\n  <p><strong>SK海力士将成为铠侠第一大股东</strong></p>\n  <p>SK海力士将把所持铠侠控股的债券转换为无投票权股份，从而成为铠侠第一大股东。这家韩国存储芯片公司周五公布转股方案，称转股完成后其在铠侠的持股比例将达到14.1%。(新浪财经)</p>\n  <p><strong>财政部在香港成功发行美元主权债券</strong></p>\n  <p>36氪获悉，据财政部，11月19日，中华人民共和国财政部代表中央政府在香港特别行政区成功发行了20亿美元主权债券，发行期限为3年期，发行利率为4.821%。此次美元主权债券受到市场热烈欢迎，国际投资者认购踊跃，总认购金额723亿美元，是发行金额的36倍。此次美元主权债券投资者类型丰富，地域分布广泛。亚洲、欧洲和中东、美洲投资者分别占比52%、34%、14%，主权类、基金资管、银行和保险、交易商等类型投资者分别占比59%、29%、11%、1%。此次发行的债券将全部在香港联合交易所上市。</p>\n  <p><strong>最新LPR公布</strong></p>\n  <p>中国央行将一年期和五年期贷款市场报价利率（LPR）分别维持在3%和3.5%不变，为连续18个月保持不变。</p>\n  <p><strong>美股恐慌指数VIX升至30，刷新3月底以来盘中最高水平</strong></p>\n  <p>美股恐慌指数VIX升至30，刷新3月底以来盘中最高水平。截至11月20日下午，道琼斯指数期货跌0.24%，标普500指数期货跌0.78%，纳斯达克100指数期货跌1.66%。(财联社)</p>\n  <p><strong>摩尔线程：实控人提议回购5亿至10亿元股份</strong></p>\n  <p>36氪获悉，摩尔线程公告，公司收到实际控制人、董事长、总经理张建中提议回购公司股份的函，拟使用自有资金和/或自筹资金，通过集中竞价交易方式回购部分A股股份，回购资金总额不低于5亿元且不超过10亿元，回购股份拟用于员工持股计划或股权激励。</p>\n  <p><strong>铜价跌至3月份以来最低，AI交易抛售潮殃及金属市场</strong></p>\n  <p>随着全球需求担忧不断加深，市场经历一周动荡后，铜价跌至3月份以来最低水平。伦敦金属交易所（LME）3个月期铜期货一度跌逾3%，本周表现势创近十年来最差单周表现之一。此轮抛售由多重因素推动，其中最迫切的担忧是人工智能支出能否能够持续，以及铜在AI建设中发挥的作用。（新浪财经）</p>\n  <p><strong>继大疆之后，影石部分产品或将涨价</strong></p>\n  <p>存储芯片涨价潮下，继大疆上调Osmo Pocket 4、Osmo Pocket 4P、Osmo Nano多款产品价格后，影石创新线下门店传出消息，旗舰云台相机Luna系列预计12月15日涨价约300元，其余系列暂不调价，目前官方暂未下发正式涨价通知。本次涨价主要源于NAND闪存等上游元器件成本抬升，内置大容量存储的影像产品承压明显，佳能等厂商也已发出涨价预警。（界面新闻）</p>\n  <p><strong>香港家族办公室大举解除39亿美元AI押注，清仓美光、西部数据等股票</strong></p>\n  <p>由对冲基金老将Larry Chen创立的香港家族办公室上季度削减股票持仓，正值投资者更广泛撤离AI相关资产之际。根据在美国提交的13F文件，截至第三季度末，Anther Capital Ltd.已不再持有此前价值约39亿美元的股份，主要集中在与AI相关的硬件和芯片制造商。包括西部数据和美光科技在内的这些投资，曾出现在Anther前一季度提交的13F文件中。（财联社）</p>\n  <h2><strong>上市进行时</strong></h2>\n  <p><strong>袁记食品集团股份有限公司通过港交所上市聆讯</strong></p>\n  <p>36氪获悉，港交所文件显示，袁记食品集团股份有限公司通过港交所上市聆讯。</p>\n  <h2><strong>投融资</strong></h2>\n  <p><strong>“原子矩阵”完成数亿元人民币B轮融资</strong></p>\n  <p>36氪获悉，中性原子量子计算公司“原子矩阵”近日宣布完成数亿元人民币B轮融资。本轮融资由杭州产投集团、杭州高新金投、成都科创投、鸿瑞达投资、博世创投、广州海珠城发、川创投等机构共同参与，集合多地国资平台、产业资本及市场化投资机构。本轮融资将为公司链接区域资源、落地量超融合试点、深化产业生态合作提供支撑。一年内，原子矩阵已连续完成五轮股权融资，累计融资总额突破10亿元。</p>\n  <p><strong>“基元科技”完成数千万元天使轮融资</strong></p>\n  <p>36氪获悉，国内覆盖二维半导体集成电路制造生长—转移—检测全流程的专用产线设备商“基元科技”近日完成数千万元天使轮融资，由朝晖芯华基金领投（朝晖资本与中芯国际创始人张汝京博士联合管理），宁创投、常州高新投、南慧创投等跟投，云岫资本担任后续融资财务顾问。</p>\n  <h2><strong>大公司财报</strong></h2>\n  <p><strong>闲鱼：2027财年Q2日活同比增长23%，订单量同比增长29%</strong></p>\n  <p>36氪获悉，11月19日，阿里巴巴集团发布2027财年Q2财报。财报显示，本季度闲鱼日均活跃用户同比增长23%，订单量同比增长29%。数据显示，过去一年闲鱼服务类订单增长87%，其中AI编程、AI漫剧等AI相关服务订单增长达157%。</p>\n  <p><strong>文远知行：第三季度收入同比增长88%，Robotaxi收入首次突破亿元</strong></p>\n  <p>36氪获悉，文远知行公布2026年第三季度未经审计业绩，期内实现收入3.215亿元人民币，同比增长88%，环比增长38.8%;毛利1.381亿元，同比增长约145%，毛利率升至43%，同比提升10.1个百分点。其中，海外业务收入1.469亿元，同比增长171.5%，占总收入45.7%；Robotaxi业务收入首次突破1亿元，同比增长204%，其中海外收入占比超过90%。第三季度公司净亏损3.10亿元，上年同期为3.073亿元；非国际财务报告准则经调整净亏损3.365亿元。</p>\n  <h2><strong>酷产品</strong></h2>\n  <p><strong>比亚迪发布可10秒折叠的方向盘</strong></p>\n  <p>11月19日，比亚迪发布折叠智舱，推出可10秒收纳的折叠方向盘，将搭载于方程豹钛9，面向L3、L4高阶自动驾驶场景。该方向盘具备双状态气囊保护、防夹功能，启停寿命可达8万次。新车折叠智舱版售价32.99万元，这套方案攻克了气囊、结构可靠性等行业量产难点。业内认为该技术属于面向自动驾驶的前置布局，但受国内L3落地节奏影响，短期内日常使用频次有限。（界面新闻）</p>\n  <p><strong>整理丨李琪</strong></p>",
+      "category": "tech",
+      "published_at": "2026-11-21T01:19:00+00:00",
+      "fetched_at": "2026-11-21T05:22:25.377481+00:00",
+      "fingerprint": "37bd676214a5ed25"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "最前线｜半导体业务成主线，TCL中环增持中环领先股权至98.52%",
+      "url": "https://36kr.com/p/4078863230800768?f=rss",
+      "summary": "<p>近日，&nbsp;TCL中环（002129.SZ）公告称，拟向50名交易对方发行股份，购买中环领先65.80%的股份。交易完成后，其持股比例将由32.72%升至98.52%。</p>\n  <p>同时，本次购买资产的股份发行价为7.59元/股，交易对价尚待审计评估后协商确定。公司还拟募集配套资金，主要用于中环领先项目建设。目前交易处于预案阶段，尚需履行后续审议及监管程序。</p>\n  <p>11 月 16 日，TCL 中环也召开了媒体沟通会。36 氪从沟通会获悉，这笔交易发生在两项主业的不同周期位置：光伏业务仍在修复，半导体硅片业务已出现盈利改善。</p>\n  <p>TCL中环希望在AI需求向上游材料传导的过程中，提高半导体业务的权益贡献，同时提升公司的资源配置与管理效率。</p>\n  <h3>增持背后考量</h3>\n  <p>据公司披露，2026年前三季度，中环领先实现营收49亿元，同比增长15%，整体实现盈亏平衡。其中，第三季度营收18.58亿元，同比增长23%；净利润8000万元，并实现单季度经营性盈利。</p>\n  <p>从一季度亏损、二季度微利，到三季度盈利改善，中环领先的经营变化，是此次增持的重要背景。管理层表示，今年二季度以来，公司在业务端感受到AI及泛工业需求复苏带来的增长，部分业务陆续进入量价齐升阶段。</p>\n  <p>中环领先此前已纳入TCL中环合并报表，截至今年9月30日，TCL中环净资产规模超过320亿元，其中半导体材料业务净资产217亿元，约占公司净资产总额的70%。此次增持将提高上市公司对其未来利润及净资产的权益比例。</p>\n  <p>36氪也在会上进行了追问：除了增加利润份额，这次收购能解决哪些现有股权结构下难以推进的问题？</p>\n  <p>管理层解释，中环领先的外部股东众多，各类主体均有相应的治理要求，重大经营事项需要履行多方审议流程。持股比例提高后，有助于提升决策和管理效率，加快其全球领先战略，</p>\n  <p>使研发投入、产能扩建等需求能够快速形成决策并匹配资源，同时从上市公司层面统筹人才激励。</p>\n  <p>这给出了财务收益之外的另一层逻辑：在需求增长的窗口期，产线何时扩建、资金如何到位，会影响企业承接订单的节奏。股权进一步集中，为缩短内部决策链条提供了条件。</p>\n  <h3>AI需求如何转化为硅片利润</h3>\n  <p>半导体硅片是制造芯片的基础材料。管理层判断，AI正拉动逻辑和存储芯片需求，并有望进一步带动功率、电源管理等产品需求，这轮增长的持续时间可能超过以往传统周期。</p>\n  <p>公司披露，前三季度中环领先12英寸产品出货同比增长24%，8英寸及以下产品同比增长18%。不同尺寸的产品均有增长，但盈利表现存在差异。</p>\n  <p>管理层解释，部分特色工艺产品一直保持盈利，主要承压的是12英寸轻掺产品。这部分业务仍处于产能爬坡阶段，折旧摊销负担较重，国内竞争也较激烈。随着产量提升，固定成本得到摊薄，再叠加价格修复，公司的整体盈利能力逐步改善。</p>\n  <p>这意味着，需求增长能为硅片企业带来多少利润，取决于产能利用率、良率和产品结构。即使处于上行阶段，企业也需要把新增订单转化为稳定生产，才能消化前期投入。</p>\n  <p>全产品布局则给中环领先提供了更多客户切入口。管理层提到，不少客户同时拥有不同尺寸的晶圆厂，或经历了从8英寸向12英寸的发展过程。覆盖多个产品门类，有助于公司持续服务同一客户的不同产线需求。</p>\n  <p>按照公司规划，宜兴、徐州两个基地的12英寸产能将在2026年底合计达到100万片/月，2027年上半年接近130万片/月。同时，公司将推进高端逻辑、存储及高端封装用硅片的研发和验证。管理层强调，需要结合客户导入节奏和产能排产，将通过验证的产品转化为稳定供货。</p>\n  <p>这些投入，也体现出两项主业在当前阶段的不同任务。公司表示，将继续保持新能源光伏与半导体材料双主业经营。光伏业务侧重改善经营和现金流，通过现有产能技改、BC技术转化及全球化开拓提高竞争力，暂时没有其他大规模新增硅片产能规划；半导体业务则重点支持12英寸产能建设和高端产品研发。</p>",
+      "category": "tech",
+      "published_at": "2026-11-21T01:55:14+00:00",
+      "fetched_at": "2026-11-21T05:22:25.377466+00:00",
+      "fingerprint": "780e7f4c4c224da6"
+    },
+    {
+      "source": "少数派",
+      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+      "url": "https://sspai.com/post/119327",
+      "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...<a href=\"https://sspai.com/post/119327\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-20T07:34:26+00:00",
+      "fetched_at": "2026-11-21T05:22:23.851824+00:00",
+      "fingerprint": "48521dbb3304a699"
+    },
+    {
+      "source": "少数派",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/119337",
+      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...<a href=\"https://sspai.com/post/119337\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-20T09:54:01+00:00",
+      "fetched_at": "2026-11-21T05:22:23.851819+00:00",
+      "fingerprint": "8e3c5051b370a23c"
+    },
+    {
+      "source": "少数派",
+      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+      "url": "https://sspai.com/post/119291",
+      "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...<a href=\"https://sspai.com/post/119291\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-21T04:00:00+00:00",
+      "fetched_at": "2026-11-21T05:22:23.851808+00:00",
+      "fingerprint": "b526d9a8781f22d3"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.4513 CNY ↓-0.51%",
+      "url": "https://www.frankfurter.app/2026-11-20?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-11-20</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.4513 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0230 (-0.51%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-11-21T05:22:22.858775+00:00",
+      "fingerprint": "c1648c567f588852"
+    },
     {
       "source": "The Guardian - World",
       "title": "Race to replant five South African baobabs after export blocked",
@@ -1571,246 +1831,6 @@
       "published_at": "2026-11-14T07:40:21+00:00",
       "fetched_at": "2026-11-15T04:32:28.281858+00:00",
       "fingerprint": "329c911efb7519c2"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "category": "politics",
-      "published_at": "2026-11-13T11:43:27+00:00",
-      "fetched_at": "2026-11-14T04:42:03.436644+00:00",
-      "fingerprint": "82c7a02c82378a75"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "category": "politics",
-      "published_at": "2026-11-13T18:36:57+00:00",
-      "fetched_at": "2026-11-14T04:42:03.436640+00:00",
-      "fingerprint": "f83f812563eb29b6"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "category": "politics",
-      "published_at": "2026-11-13T21:14:22+00:00",
-      "fetched_at": "2026-11-14T04:42:03.436634+00:00",
-      "fingerprint": "334ebcca23065263"
-    },
-    {
-      "source": "BBC World News",
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-      "category": "politics",
-      "published_at": "2026-11-13T23:40:45+00:00",
-      "fetched_at": "2026-11-14T04:42:03.436625+00:00",
-      "fingerprint": "2eafa4b1bb39d8eb"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "BBC調查揭英國「全球人才簽證」造假產業：中介助移民冒充藝術家及科技專才",
-      "url": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC臥底調查揭露一場精心策劃的騙局，協助富裕移民透過快速通道取得英國永久居留權。",
-      "category": "politics",
-      "published_at": "2026-11-13T08:27:53+00:00",
-      "fetched_at": "2026-11-14T04:42:03.407873+00:00",
-      "fingerprint": "04598e34d87a1f2d"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
-      "category": "politics",
-      "published_at": "2026-11-13T10:39:06+00:00",
-      "fetched_at": "2026-11-14T04:42:03.407863+00:00",
-      "fingerprint": "7bd3a1bacef657b0"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
-      "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "接連被揭發兩段婚外情後，黃仁勳於週四（11月12日）辭職。事件曝光後的一個禮拜內，全球媒體、社交軟體全部捲入這次事件，民眾對於「中國間諜」展開討論，股民亦為黃仁勳事件買單，輿論依然持續發酵，且沒有停下的趨勢。",
-      "category": "politics",
-      "published_at": "2026-11-13T09:39:38+00:00",
-      "fetched_at": "2026-11-14T04:42:03.407857+00:00",
-      "fingerprint": "b78ad0275bf1f1b1"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？",
-      "url": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "黃仁勳光速跌落神壇的事件，讓台灣社會對他的崇拜、政治對他的政績綁定，以及產業對他個人的依賴重新校準。",
-      "category": "politics",
-      "published_at": "2026-11-13T09:51:11+00:00",
-      "fetched_at": "2026-11-14T04:42:03.407848+00:00",
-      "fingerprint": "d4f113586173f1ca"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "What Happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-14T04:42:03.331269+00:00",
-      "fingerprint": "a926608655a30efb"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-14T04:42:03.331181+00:00",
-      "fingerprint": "7d971f83e5d67b77"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-14T04:42:03.331077+00:00",
-      "fingerprint": "8f4b2632f43363d7"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-14T04:42:03.330983+00:00",
-      "fingerprint": "13ce7dccaab394f0"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-14T04:42:03.330869+00:00",
-      "fingerprint": "22f7de6935dc23ea"
-    },
-    {
-      "source": "The Verge",
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-13T20:30:00+00:00",
-      "fetched_at": "2026-11-14T04:42:03.098541+00:00",
-      "fingerprint": "ee22b1ac26912462"
-    },
-    {
-      "source": "The Verge",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-13T20:45:10+00:00",
-      "fetched_at": "2026-11-14T04:42:03.098535+00:00",
-      "fingerprint": "754f24889ed9e00a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-13T23:49:11+00:00",
-      "fetched_at": "2026-11-14T04:42:03.098530+00:00",
-      "fingerprint": "96048276e5de0ccf"
-    },
-    {
-      "source": "The Verge",
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-14T01:53:04+00:00",
-      "fetched_at": "2026-11-14T04:42:03.098519+00:00",
-      "fingerprint": "15ee692dbf097aa2"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "万亿消费，奔向山海",
-      "url": "https://36kr.com/p/4067852789372033?f=rss",
-      "summary": "<p><strong>沿着广东G228滨海公路从汕尾驶向深圳，晨洲蚝乡的生蚝刚出水，盐田山海间的落日正铺满车窗。撒贝宁在节目里感慨：“一脚油门踩下去，整个世界都是你的。”</strong></p>\n  <p><strong>这声感叹，来自神州租车联合央视频打造的中国首档自驾文化探索节目《出发吧！神州山海》。随着六期节目走过戈壁、雨林与江南古村，一种正在成型的中国自驾文化也随之清晰起来：以公路为脉络、车轮为媒介，深度融合国土山河风貌、地域民俗人文、家庭亲友陪伴与松弛生活态度；依托国内立体交通网络，“长途快进、短途慢游”正成为越来越多人探索远方的独特范式，并成为带动沿线公路经济与县域文旅发展的核心载体。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_78a8586fde0641c2938292df9a941f0a@5679941_oswg212821oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>过去很长一段时间里，旅游消费集中在目的地景区，公路只是一段用来赶路的通道。如今，越来越多人愿意为了深山里的一座烤茶馆、雨林公路旁的一间咖啡驿站随时停靠，餐饮、住宿、补能与在地体验开始沿着公路铺开。公路的经济属性随之改变，从单纯的通行通道转向在途消费走廊。</strong></p>\n  <p><strong>不过，公路消费与传统城市商圈有着本质区别。商圈的业态高度聚集，而公路沿线的充电桩、驿站、餐馆与民宿分布在数百公里的路网上，彼此分散且缺乏联动。对自驾游客而言，中途去哪补能、在哪停靠、沿途有哪些值得探访的村落小店，往往需要跨平台搜寻、临时拼凑。这意味着，仅有修通的公路和散落的业态还不够，市场还需要一个能把分散的在途服务整合起来的入口。</strong></p>\n  <p><strong>在人、车、路、景、网构成的出行链条中，路桥、油站与景区都只触达旅途的单一环节，唯独租车贯穿行程始终，天然具备串联全程消费的入口属性。这也解释了神州租车为何要跳出传统的代步工具定位：当租一辆车变成解锁小众远方、一站式接入沿途“车生活”的消费通行证，这家深耕行业十九年的直营租车企业，正在车轮之上打开一幅怎样的未来消费图景？</strong></p>\n  <h2><strong>当“路通了”遇上方向盘，激活小众远方与一站式“车生活”</strong></h2>\n  <p><strong>公路向消费走廊演变，首先得益于国家路网与沿途配套的同步延伸。</strong></p>\n  <p><strong>随着汽车租赁与精品自驾旅游公路同时进入交通强国与扩大内需的相关部署，一张规划约6万公里的“三环、四横、五纵”国家精品自驾旅游公路网正加速铺开；自然资源与文旅等部门也放宽了用地限制，允许远离城镇的加油站、驿站与简易营地在城镇开发边界外布局。</strong></p>\n  <p><strong>这些宏观规划翻译到普通人身上，是“上路”不再折腾，“出去玩”不再需要提前很久下大决心。在西北戈壁，随着甘肃与新疆交界的新路贯通，中断千年的古丝绸之路“大海道”重新走通；在海南，环岛与环热带雨林两条旅游公路把山海串联起来，曾经只能匆匆路过的荒野与海湾，如今长出了观海驿站和雨林咖啡馆。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_c7fb519f6306468ba76d49c0870a911c@5679941_oswg342479oswg1080oswg1203_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>路好走了，沿途能停靠了，庞大的出行客流随之转化为实实在在的消费。据交通运输部统计，2026年国庆假期，全国19.6亿人次的公路流动中自驾占近八成，租车出行增长超25%，单日租车高峰突破95万辆；国家税务总局增值税发票数据也显示，假期旅游游览和娱乐服务日均销售收入增长23.6%。正如粤开证券首席经济学家罗志恒所分析的，假期数据说明居民并不缺乏消费意愿，关键在于把旺盛的出游需求更充分、更持续地转化为消费，让文旅消费贯通交通、住宿、餐饮与娱乐等多个环节。</strong></p>\n  <p><strong>当消费场景从封闭的传统景区围墙外溢到开放的公路沿线，汽车租赁恰好处在关键的连接位置上。当下，汽车租赁正从单一交通服务向多元化、品质化、场景化服务延伸，串联起人、车、路、景、网，成为消费扩容的重要入口。</strong></p>\n  <p><strong>当人们在机场或车站落地拿车、手握方向盘，率先浮现的商业变化，便是过去固定路线难以触达的小众目的地，因“可自驾抵达”而被真正激活。过去几年，不少县域与古村虽有优质风物，却常受制于干线交通与旅行团大巴只能将客流输送至成熟大景区，难以形成稳定的消费留存。而租车自驾的普及，相当于在干线交通末端补上了一道灵活的连接器——游客自己掌握方向盘和停靠节奏，消费半径得以向更深处的山海扩散。神州租车发布的《2026中秋国庆自驾出行大数据》显示，假期9天以上的长租订单增长55%，阿坝、中卫、伊春、哈密、石嘴山等小众城市热度高涨。</strong></p>\n  <p><strong>在《出发吧！神州山海》的镜头里，能够直观看到这种向纵深延展的消费活力。车队驶入浙江桐庐深澳古村，入乡创业青年老麻在老宅里支起茶炉，滚水冲进烤热的普洱陶罐激起一声“雷响”，吸引嘉宾们围炉夜话；行至广东滨海与海南雨林公路，汕尾晨洲蚝乡刚出水的生蚝、环热带雨林旅游公路零号桩旁的母山咖啡大丰驿站，成了旅途真正的主角。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_343b5eca9a5341b9bf7bb9f5a1226b0c@5679941_oswg93006oswg1080oswg598_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>嘉宾王宁在节目中感慨，自驾文化的意义在于走得有多深。随着公路修进县域腹地，越来越多像老麻这样的年轻人选择入乡创业，在古村与山海间开起农家乐、民宿和有艺术气息的烤茶馆。因为“可自驾抵达”，这些散落山海的农家乐、民宿与烤茶馆迎来了稳定的客流，变成了实实在在的消费现场，租车行为由此成为消费、能源、文旅与人文双向流动的纽带。</strong></p>\n  <p><strong>车轮越开越远，人在路上的停留时间变长，围绕在途衍生需求的一站式“车生活”，也随之打开了另一重商业空间。</strong></p>\n  <p><strong>神州租车统计显示，2026年国庆跨城新能源订单增长超228%，车队里的新能源车占比也已接近一半。从行业演进来看，当自驾者开着车深入戈壁、林海与跨省公路，租车企业的服务边界便不再局限于交付钥匙的那一刻——用户在路上会持续遇到加油充电、高速停靠、路线查询与食宿预订等跨场景需求。过去这些服务分散在不同平台，标准和价格各不相同，自驾者的诉求早已不止于租到一辆代步车。</strong></p>\n  <p><strong>针对这一变化，神州租车于2026年6月发布了“车生活”一站式自驾出行服务体系。在行车保障上，“车生活”打通了沿途加油充电、交通枢纽代泊与“AI小州”智能伴行，帮助自驾者随时查询补给站点、解答续航与停靠问题。在沿途消费上，神州租车顺应政策鼓励的“租赁＋门票”“租赁＋酒店”一站式产品方向，正陆续接入尊享候机、文旅优惠、景点门票与酒店预订等服务，并联合十省市自驾游协会开发“渤海湾海鲜美食之旅”等主题路线，在不同场景推进“租车＋民俗／美食／住宿”的模块化自由拼装。</strong></p>\n  <p><strong>公路的延伸，正在打开一条万亿级的产业新脉络——一辆租来的车，正从单纯的交通工具变成串联沿途商业烟火的消费通行证。</strong></p>\n  <h2><strong>十九年“做重”的选择，支撑旅人出发的自由与“行业基建”</strong></h2>\n  <p><strong>国家持续织密的立体交通与旅游公路网，让“物理上的路”先通了。但要让跨区域自驾的游客在落地后顺畅接驳、往山海深处走得更远，还需要一张覆盖广泛的地面租车网络与之配合。</strong></p>\n  <p><strong>十九年前神州租车刚起步时，大多数人还把租车理解为“临时用车的权宜之计”。在轻资产撮合与重资产直营的分岔路口，神州租车选择了一条更重、更慢的路——自建直营网点、自购车队，由总部统一管理，做到服务标准规范、规则及价格清晰透明。</strong></p>\n  <p><strong>在高度分散的汽车租赁市场，重资产直营意味着高昂的资金投入与漫长的培育周期，但也筑起了跨区域稳定履约的壁垒。放到今天来看，这张覆盖全国360+城市的直营网络，恰好成了承接跨城自驾浪潮的基础设施。这不是运气，是十九年“做重”的选择，等到了一个“路通了”的时代。</strong></p>\n  <p><strong>当直营网络与国家路网衔接在一起，自驾者直观的感受，是出行方式从“人迁就车”转向“车配合人”带来的自由。</strong></p>\n  <p><strong>以往长途自驾，出发要找门店排队交涉，走远了还要顾虑怎么把车开回原地。如今在出发环节，携老人孩子同行、行李繁多或深夜抵达时，预约“上门取送”服务即可将车准时送到手边；全国约九成车辆支持24小时全程自助取还，游客落地后在手机上操作几分钟即可拿车出发。从神州租车2026年国庆假期的统计来看，夜间22时至次日6时的取车订单同比增长58%，越来越多旅人不必再迁就门店的营业时间。</strong></p>\n  <p><strong>当行程跨越多座城市，依托全国直营网点布局的“异地畅还”服务，则让长途漫游不必再走回头路。沿着广东G228从汕尾驶向深圳，或是穿行在大理至丽江、成都至拉萨、哈尔滨至伊春等跨区域线路上，游客都可以单程向前，在终点城市就近交还车辆。也是在这个国庆假期，神州租车跨城订单增长52%，近四分之一的用户首次使用了异地畅还服务。</strong></p>\n  <p><strong>与此同时，神州租车自2025年以来新采购上线车辆约10万台，提供260余款可选车型，并配备“AI小州”随车智能答疑。在跨城自驾中，旅人在台前的行程越自由、决策越轻盈，越依赖后台履约体系的重投入。从出发前的车辆整备、途中的续航管理到异地网点的交接，繁琐的运营环节由直营体系在后台承担，才换来用户在前端“落地即走、单程向前”的顺畅。</strong></p>\n  <p><strong>更进一步看，随着在途消费市场持续扩容，单靠单一企业的车队规模，很难独自承接全行业的跨区域服务需求。交通部门在“十五五”相关专项规划中也明确提出，要加快汽车租赁标准供给，发挥头部企业的示范引领作用。当自驾成为常态化的生活方式，行业面临的新考题，在于如何让分散的市场建立起统一的服务规范与底层协同机制。</strong></p>\n  <p><strong>在成熟的商业生态中，头部企业的长期价值往往体现在制定标准与开放基础设施上。在这一行业转折点上，神州租车开始扮演起行业“推动者”的角色：在标准层面，它把十九年摸索出的六项标杆服务梳理为可感知、可追溯的系统化规范，并作为主要起草单位之一，参与制定了国家标准GB/T 29911-2025《汽车租赁服务规范》；在生态协同层面，神州租车于2026年6月主办租车行业生态大会，率先向同行开放维修管理、二手车流通等底层模块。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_7853690b09084db5a59a5773471b1a52@5679941_oswg101243oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">神州租车“车生活”新生态正式启航</p>\n  <p><strong>从单纯的市场竞争者，走向行业标准的输出者、国家政策的落地伙伴与产业生态的共建者，神州租车输出的一整套公路出行服务标准，正在从“企业选项”升格为整个公路经济产业的“行业基建”。</strong></p>\n  <h2><strong>从“租一次车”到“长期出行伙伴”，车轮上的生态与商业闭环</strong></h2>\n  <p><strong>当国家路网向远方延伸、沿途消费场景日渐丰富，站在投资人与产业演进的视角看，更深一层的问题随之浮现：在这场公路经济的扩容中，一个租车品牌如何突破传统租赁业务的增长边界，将自驾热潮转化为长期的商业价值？</strong></p>\n  <p><strong>在传统的商业认知里，汽车租赁常被归为一门低频、偶发的单次生意。多数消费者只有在异地应急或一年一度的长假远行时才会想起租车，用完即走，平台与用户之间很难建立持续的粘性。</strong></p>\n  <p><strong>造成这种低频属性的根源，在于过去远途自驾往往是一项门槛较高的大工程，需要提前筹备、攒够七八天长假才能成行。而随着立体交通与精品旅游公路网向县域和山海延伸，沿途配套日趋完善，“长途快进、短途慢游”让出行的决策成本大幅降低——利用周末或三天小长假，落地租一辆车走一段滨海公路、探访一座山间古村，自驾由此从一年一度的长假远行，变成随时可以成行的日常出行。</strong></p>\n  <p><strong>这也解释了神州租车为何把&nbsp;2026&nbsp;年视作“中国自驾文化元年”，并在行业内首次系统性提出“中国自驾文化”概念。在传统的租赁逻辑里，企业往往只能被动等待用户产生用车需求；而倡导一种自驾文化，则是将租车与探索山海、陪伴亲友的生活方式紧密关联，从源头上重塑用户的出游习惯与消费频次。</strong></p>\n  <p><strong>当自驾变成一种常态化的生活方式，用户与平台的关系便发生了质变，从“租一次车”转向“长期出行伙伴”。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_1ce31a3a2b054d928f0531d6eb5f7870@5679941_oswg162241oswg1080oswg607_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>从消费与出行行业的演进看，衡量一家品牌长期价值的标尺，除了持续吸引新用户，更在于老用户的复购频次与全生命周期价值。神州租车的经营数据印证了这一趋势：2026年暑期，以“05后”为主力的新用户增长约160%，年内租车7次以上的老用户也增长超30%，机场与火车站等交通枢纽门店的订单增长超过45%；到了中秋国庆假期，平台订单量与用户规模同比均增长50%。当一位用户一年租车超过7次，意味着他几乎每隔一两个月就会握起神州租车的方向盘。对于拥有2.1亿注册会员数的神州租车而言，庞大的用户群正由此转化为高信任、高复购的长期用户资产。</strong></p>\n  <p><strong>进一步从创投视角审视，能够承接并放大这份“用户资产”的，必然是具备深厚资产运营与生态整合壁垒的企业。中汽协智库特聘专家孙晓红指出，汽车租赁企业的经营本质，是重资产经营下的资产周转效率与残值管理。交通与发展政策研究所（ITDP）东亚区首席代表刘岱宗也认为，租赁行业未来的竞争将超越单纯的车辆规模和价格比拼，转向生态组织能力、服务协同能力和资源配置能力的综合较量。</strong></p>\n  <p><strong>这恰恰构成了神州租车的核心护城河。在资产端，神州租车建立起从新车采购、租赁运营、维保整备到二手车直营销售的“买—租—修—卖”全生命周期体系，并在全国52个主要城市建成二手车销售交付网络。前端高频稳定的老用户复购，保障了6500+直营服务网点与约22万辆车队的周转效率；后端成熟的二手车残值消化能力，又让大规模车队能够顺畅完成更新迭代，从而支撑起2026年百亿级的新车采购投入，持续以新车、好车吸引用户留存。</strong></p>\n  <p><strong>当高频复购的长期用户群与全生命周期的车辆周转相互配合，神州租车的商业空间也跳出了单一的租金模式。每一位高频复购的用户，在驶上公路的同时，都自然进入“车生活”所连接的补能、停靠、食宿与文旅消费网络。</strong></p>\n  <p><strong>由此，一个环环相扣的商业闭环得以确立——当自驾文化定义带来人群信任、租车体验创新带来更多订单、以人为本的服务质量巩固长期信任，“车生活”的生态延伸与全链条资产周转，便将在未来持续转化为更多复购与利润。</strong></p>\n  <h2><strong>结语</strong></h2>\n  <p><strong>20世纪50年代美国兴建州际公路网时，曾带来一个超出交通范畴的商业结果：公路原本是为了提高跨州通行效率而修的，最终却孵化出假日酒店（Holiday Inn）、美国汽车协会（AAA）等一批消费与服务品牌。当延伸的路面打开了地理边界，人们在路上的停留时间变长，一套可靠、标准化的在途服务网络，便成了将通行流量转化为消费增量的关键一环。</strong></p>\n  <p><strong>今天的中国，正在经历一场体量更大的消费空间重构。过去二十年，商业的繁荣主要集中在高密度的城市商圈与线上屏幕里；而随着国家精品自驾旅游公路网伸向戈壁、雨林、海湾与古村，消费的新增量开始越过城市边界，沿着公路向广袤的县域、乡村与山海纵深流动。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_8a9eb52b37ab46c1944f8b3311e53d4b@5679941_oswg156251oswg1080oswg716_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p><strong>放在这一时代坐标下看，神州租车的商业想象力，早已不止于车队规模的扩张或单一租赁业务的增长。当自驾成为普通人随时出发的生活方式，神州租车十九年构筑的直营网络、向全行业输出的服务标准与开放的“车生活”接口，实际上是在为这场向远方生长的消费浪潮提供底层支撑。</strong></p>\n  <p><strong>车轮之上，承载的是消费、能源、文旅与生活方式；路网之下，连接的是城市、乡村与被激活的在地产业。作为中国公路经济生态的服务组织者、自驾文化的见证者与推动者，神州租车正以车连接人与远方，以路激活经济与人文，让美好生活沿着公路到来。</strong></p>",
-      "category": "tech",
-      "published_at": "2026-11-13T07:24:03+00:00",
-      "fetched_at": "2026-11-14T04:42:02.985731+00:00",
-      "fingerprint": "47fce37a2a47af9f"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "近百家企业带着真实场景，直接在WISE现场聊合作",
-      "url": "https://36kr.com/p/4068039737987969?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_284f411bbd014095af452161b2cf6151@6301044_oswg29845oswg750oswg352_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <h2><strong>对接的桌子已摆好，先来看合作方向</strong></h2>\n  <p>WISE2026「产业对接」报名持续进行中。这次，我们将报名企业，以及他们想合作的方向、能够提供的产品、技术和服务整理公布。看看其中有没有你能帮上忙的事，也有没有能帮助你的伙伴。</p>\n  <p>如果有，欢迎报名。</p>\n  <p>本轮「产业对接」面向<strong>各行各业的企业和团队</strong>开放。<strong>无论是采购供应、研发生产、渠道合作，还是其他具体的业务需求，只要你想寻找合作伙伴，或能为其他企业提供帮助，都欢迎报名。</strong>我们会协助梳理双方需求与能力，让有可能合作的伙伴有机会面对面交流。</p>\n  <p><strong>截止目前，共有70+家企业报名产业对接，覆盖8大领域，6类合作需求，涉及生产作业、产品研发、空间运营、文旅体验、渠道出海及供应链合作。</strong></p>\n  <p><strong>本次公布的是部分报名企业，并非完整到场企业名单。</strong>现场的合作机会不止于此！</p>\n  <h2><strong>WISE现场等你对接</strong></h2>\n  <h3><strong>部分已报名的技术方企业</strong></h3>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_a0ea6ed62ab74a9ba8fcebf0857e8f84@6301044_oswg194832oswg568oswg1384_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_0a5d1808c40b42d7a6a7a3a1d3ad1eb6@6301044_oswg47057oswg568oswg328_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>这些企业能集中<strong>解决以下方向的问题</strong>。你可以对照自己的业务，看看能不能帮助到你。</p>\n  <p><strong>机器人作业与系统集成方向</strong></p>\n  <ul>\n   <li>搬运、分拣、装卸、上下料、精密装配等机器人作业方案。</li>\n   <li>园区、酒店等场所的巡检、配送、清洁，以及软件、设备和机器人之间的连接。</li>\n   <li>机器人感知与操作控制、训练数据、模拟训练、应用适配及测试验证。</li>\n  </ul>\n  <p><strong>商业空间、酒店与文旅服务方向</strong></p>\n  <ul>\n   <li>涉及配送、清洁、消杀、巡检，以及迎宾导览、多语种交互、饮品制作、机器人零售和互动演出等应用，并提供部署、维护及联合运营支持。</li>\n  </ul>\n  <p><strong>企业办公、专业服务与出海支持方向</strong></p>\n  <ul>\n   <li>会议记录、资料查询、内容生成、任务协作、演示文稿和标书制作等办公支持。</li>\n   <li>合同与业务材料的辅助核对、法律资料检索及专业人员协作工具。</li>\n   <li>海外市场准入、跨境合同及持续经营相关信息的梳理与跟踪。</li>\n  </ul>\n  <p><strong>商业经营与品牌营销方向</strong></p>\n  <ul>\n   <li>门店选址、客流与经营分析，为开店及经营决策提供支持。</li>\n   <li>品牌内容、原创短片、广告传播及营销材料制作等服务。</li>\n   <li>家居搭配、产品效果展示等辅助销售与客户沟通的应用。</li>\n  </ul>\n  <p><strong>数据、算力与AI应用开发方向</strong></p>\n  <ul>\n   <li>文字、图片、语音、视频等数据的采集、清洗、整理与标注。</li>\n   <li>算力资源调度、模型开发与部署、企业数据治理等支持。</li>\n   <li>数据加密处理、隐私保护及相关安全技术。</li>\n  </ul>\n  <p><strong>材料研发与技术服务方向</strong></p>\n  <ul>\n   <li>材料设计、配方与合成相关的研发支持。</li>\n   <li>材料性能测试与分析、自动化实验及生产工艺改进。</li>\n  </ul>\n  <p><strong>智能硬件与健康感知方向</strong></p>\n  <ul>\n   <li>部署在设备端的离线语音识别、翻译、语音合成及图像识别等算法。</li>\n   <li>基于摄像头的生理状态感知、健康监测相关技术与应用支持。</li>\n  </ul>\n  <p><strong>数据、模型、算力与安全方向</strong></p>\n  <ul>\n   <li>提供文字、图像、语音、视频及机器人操作数据的采集、清洗和标注。</li>\n   <li>开展模拟训练、模型开发、能力评测及部署适配，并提供算力调度、数据治理与安全保护支持。</li>\n  </ul>\n  <p><strong>法务、出海与专业服务方</strong></p>\n  <ul>\n   <li>提供合同和业务材料辅助核对、法律资料检索及专业人员协作工具。</li>\n   <li>提供海外市场准入、跨境合同与持续经营相关信息的梳理和跟踪。</li>\n  </ul>\n  <h3><strong>部分已报名的需求方企业</strong></h3>\n  <p>报名的需求方企业涉及<strong>酒店与文旅、商业地产与园区运营、机器人与制造业、新材料、服装及消费品牌、算力与云服务、数字文娱</strong>等领域。包括万达酒店、珠海万达商管、瑞安新天地、珞石机器人、大学城科技园、执惠、英博数科、缝觅物联、伊莱黛丝、知行具身、闰年、高安双杨服饰、沉浸科技、沽河国际等企业。</p>\n  <p>结合目前征集到的合作意向，我们整理了以下对接方向，以下内容为方向性汇总。</p>\n  <p><strong>生产作业与机器人应用方向</strong></p>\n  <ul>\n   <li>希望将机器人用于生产、农业及服务等实际场景。</li>\n   <li>寻找整机、算法和配套伙伴，推进设备适配、远程操作及现场应用验证。</li>\n  </ul>\n  <p><strong>设备协同与空间运营方向</strong></p>\n  <ul>\n   <li>希望开展多品牌设备统一接入、监控和调度，以及机器人与空间设施、管理系统的连接合作。</li>\n   <li>共同探索日常服务、人机配合和持续运维方案。</li>\n  </ul>\n  <p><strong>产品研发与产业链协作方向</strong></p>\n  <ul>\n   <li>寻找材料、部件、算法、整机及终端产品伙伴，开展联合开发。</li>\n   <li>验证产品之间是否适配，以及实际使用中的稳定性与可靠性。</li>\n   <li>加强技术平台、基础资源与应用端之间的合作，完善配套与交付能力。</li>\n  </ul>\n  <p><strong>商业增长与海外合作方向</strong></p>\n  <ul>\n   <li>拓展销售渠道和合作伙伴，改善品牌传播到产品销售的转化。</li>\n   <li>围绕海外业务的产品、定价、商业模式和本地运营，寻找合作机会。</li>\n   <li>对接渠道、运营及营销服务伙伴，推进市场拓展。</li>\n  </ul>\n  <p><strong>企业服务与经营分析方向</strong></p>\n  <ul>\n   <li>借助AI和数字化工具，提高企业服务、信息整理、研究分析及风险识别效率。</li>\n   <li>连接技术、平台和产业资源，提升服务质量，拓展业务与合作机会。</li>\n  </ul>\n  <p><strong>运营采购与供应链合作方向</strong></p>\n  <ul>\n   <li>寻找食品供应、冷链仓储配送、运营物资采购及相关服务伙伴。</li>\n   <li>围绕酒店、商业和文旅空间的日常经营，开展稳定供货与持续服务合作。</li>\n  </ul>\n  <h2><strong>名单之外，还有位置</strong></h2>\n  <p>上面公布的是部分已报名企业和合作信息，招募还在继续。即使名单里暂时没有你的行业，也欢迎报名。告诉我们你需要什么、能提供什么、希望找谁合作，我们会结合双方的需求与能力，协助寻找和匹配合适的伙伴，坐下来把合作聊得更具体。</p>\n  <p>WISE2026「产业对接」面向各行各业，无论你有采购、供应、生产、研发、渠道、营销等具体合作需求，还是能为其他企业提供产品、技术、服务或配套支持，都可以加入。</p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_93f8ba19a50f4b1d883f53fd0f55f033@6301044_oswg126914oswg1024oswg1024_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_3acb7c156eeb4d5d84faa7320740cfb5@6301044_oswg122562oswg1023oswg1023_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>",
-      "category": "tech",
-      "published_at": "2026-11-13T10:37:37+00:00",
-      "fetched_at": "2026-11-14T04:42:02.985725+00:00",
-      "fingerprint": "2a53703431aea48d"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "科氪 | 家庭影院一步到位，一文读懂什么是激光电视",
-      "url": "https://36kr.com/p/4067744401020041?f=rss",
-      "summary": "<p>激光电视是电视，不是投影仪。按国标 SJ/T 11791—2021，它必须配备专用投影幕，亮度以尼特计量而非流明。</p>\n  <p>它由激光光源、DMD 显示芯片、超短焦镜头和专用抗光幕四部分构成，贴墙几十厘米即可投出百吋画面。</p>\n  <p>与液晶电视的核心差异在成像方式：一个是背光直出，一个是投射到幕面后反射成像。</p>\n  <p>它更适合大客厅、大尺寸需求；前提是接受抗光幕为必需件，并提前规划主机位置与走线。</p>\n  <p>中国是全球激光显示的主要供给方，2026 年上半年全球激光显示产品出货量 115.8 万台。</p>\n  <p>随着大屏需求日益旺盛，越来越多的人在选电视时把激光电视纳入考虑范围。那么，激光电视究竟是不是电视？它和液晶电视有什么不同？它真的会成为未来主流吗？</p>\n  <p><strong>一、先说结论：它是电视，不是投影仪</strong></p>\n  <p>激光电视是电视的一种。按照工业和信息化部发布的《电视接收设备 激光投影显示规范》（SJ/T 11791—2021，2022 年 4 月 1 日起实施），激光电视是采用激光投影显示技术、配备专用投影幕、可显示广播电视节目或互联网电视节目的显示设备。业内常把激光显示称为继黑白电视、彩色电视、数字电视之后的第四代电视显示技术。</p>\n  <p>它和投影仪的分界，国标里写得很清楚，有两条。第一，激光电视必须配备与主机匹配的专用投影幕，不是投在白墙或普通幕布上；第二，它的亮度指标以尼特（nit）计量，而不是投影仪常用的流明。这两条既是标准层面的分野，也是选购时的实操判据——一台只标流明、不带专用幕的机器，按标准不能称为激光电视。</p>\n  <p>一句话讲清原理：主机内的激光光源发光，显示芯片调制画面，超短焦镜头把光投射到专用抗光幕，幕面反射光线进入人眼成像。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_18fb8b9b7afe47b680d13dcea7006106@517825446_oswg1719722oswg3840oswg2160_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p><strong>二、四个部件，各自解决一个问题</strong></p>\n  <p>激光光源，解决\"光够不够纯\"。激光具有亮度高、能耗低、色彩纯、体积小、寿命长五个特点，是家用显示设备中单色性最好的光源类型之一。光源纯度直接决定色彩能还原到什么程度。</p>\n  <p>显示芯片，解决\"光怎么变成画面\"。主流激光电视采用与影院数字放映机同源的 DLP 成像技术，核心是由数百万枚微镜组成的 DMD 芯片。每一枚微镜根据画面信号高速翻转，控制光线是否进入投射光路，从而形成明暗与色彩。</p>\n  <p>超短焦镜头，解决\"距离不够怎么办\"。它不像传统投影那样正对屏幕直射，而是先用透镜组聚焦光束，再通过曲面反射镜把光路折叠后斜射向幕面。因此贴墙几十厘米就能投出百吋画面，主机可以放进电视柜。</p>\n  <p>专用抗光幕，解决\"白天能不能看\"。与主机匹配的抗光幕是激光电视在明亮客厅可用的关键。当前常用的菲涅尔抗光幕依托表面微米级同心圆棱镜结构，定向收光、阻隔环境杂光，让画面在开灯环境下仍保持可读的对比度。这也是它与普通投影最容易被忽略的差别。</p>\n  <p><strong>三、和液晶电视比，激光电视有什么不同</strong></p>\n  <p>两者是两条不同的技术路线，差异集中在四个方面。</p>\n  <p>成像方式不同，观感更接近看实物。液晶电视是背光直出成像，激光电视是投射到幕面后经漫反射进入人眼。漫反射会让光线分布更均匀、更柔和，观感上更接近看纸张和景物。屏幕端不通电、不主动发光，长时间观看的视觉舒适度通常更好；具体护眼表现以产品检测与认证结论为准。</p>\n  <p>色彩上限不同。色彩表现很大程度取决于光源纯度。激光单色性优于其他光源，可覆盖更广色域，三色激光机型可达到 110% BT.2020。广色域的意义不是把颜色调艳，而是在呈现自然风光与人物肤色时有更丰富的层次和更细腻的过渡，这也是激光电视常被用于家庭影院的原因。</p>\n  <p>入户与安装条件不同。100 吋级液晶电视是一整块面板，入户要过电梯和门框，对墙体承重也有要求。激光电视采用主机与屏幕分体设计，主机体积较小，部分屏幕还做了可折叠结构以降低入户难度；屏幕本身较轻，对墙体条件的要求相对宽松。相应地，它需要提前规划主机位置、走线和幕面平整度。</p>\n  <p>能耗结构不同。液晶电视的背光需覆盖整个面板，尺寸越大能耗越高；激光电视只有主机耗电，屏幕不主动发光。在同尺寸、同亮度模式的第三方实测条件下，激光电视耗电量约为液晶电视的三分之一到二分之一。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261113/v2_0e4d356c175d4dc6933db2410f5f5796@517825446_oswg1923145oswg1920oswg1080_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">官方图片</p>\n  <p><strong>四、它也有前提条件</strong></p>\n  <p>把边界说清楚，比只讲优势更有用。</p>\n  <p>抗光幕是必需件，不是可选配件。没有匹配的抗光幕，白天画面会明显发灰。幕面属于系统的一部分，选购时应按整套评估。</p>\n  <p>环境光越强，对幕的要求越高。客厅采光特别好、常年开灯观看的场景，需要更高增益的幕面；纯暗房使用则不必追求高增益。</p>\n  <p>安装需要前置规划。主机要放在幕面正下方或专用电视柜内，走线、插座位置、幕面与墙面的贴合度都需在装修阶段确定，后装改造会更麻烦。</p>\n  <p>尺寸越大，相对优势越明显。在 80 吋以下，激光电视与液晶电视的价格与体验差距不明显；进入百吋级后，入户、重量和成本的差异才真正拉开。</p>\n  <p><strong>五、怎么判断自己该不该选</strong></p>\n  <p>三个问题可以快速判断：客厅开间是否支持 3 米左右观看距离、是否以百吋级大屏为目标、是否愿意在装修阶段就把主机与幕面位置定下来。三条都成立，激光电视是合适选项；追求即买即挂、或主要在明亮环境看新闻类内容，液晶电视更省事。</p>\n  <p><strong>六、市场与产业：大屏化是确定的方向</strong></p>\n  <p>大户型、大客厅愈发流行，大屏化已是电视市场的大趋势。据洛图科技（RUNTO）数据，2026 年上半年全球激光显示产品（含激光投影、激光电视）出货量达 115.8 万台，同比增长 9.8%，我国出货量占比超五成。</p>\n  <p>在激光显示赛道上，中国企业布局更早。据公开报道，中国激光显示相关专利超过 7000 项，居全球前列；依托国内供应链优势，国内家用市场以国产品牌为主导。其中，海信是国内率先将激光显示技术落地家庭并推动普及的企业之一，Omdia 数据显示，2025 年海信激光电视全球出货量份额达 70.3%，连续 7 年位居全球第一。</p>\n  <p>作为新一代自主可控的显示技术，激光显示仍有较大空间，激光电视也正在加速进入普通家庭的客厅。</p>\n  <p><strong>七、六个常见问题</strong></p>\n  <p>1. 激光电视是投影仪吗？</p>\n  <p>不是。按国标，激光电视必须配备专用投影幕、亮度以尼特计量，且能接收广播电视或互联网电视节目；普通投影不具备这些条件。</p>\n  <p>2. 白天开灯能看清吗？</p>\n  <p>取决于幕面增益与环境光强度。配专用抗光幕的机型在常规客厅照度下可以正常观看；采光极强的房间建议选择高增益幕面。它不适合在强光直射的幕面上观看。</p>\n  <p>3. 看久了伤眼吗？</p>\n  <p>激光电视为反射成像，屏幕不主动发光，光线分布相对均匀柔和。具体护眼效果应以产品的检测报告与认证结论为准，不建议以主观感受替代检测数据。</p>\n  <p>4. 需要换灯泡吗？</p>\n  <p>不需要。激光光源属半导体固态光源，没有传统投影的灯泡耗材，正常使用下光衰较慢，日常维护主要是清洁幕面与主机进风口。</p>\n  <p>5. 一定要配幕布吗？</p>\n  <p>是。专用抗光幕是系统的组成部分，直接投白墙会损失对比度与色彩表现，也会失去国标意义上的\"激光电视\"属性。</p>\n  <p>6. 多大尺寸合适？</p>\n  <p>家用主流集中在 80 至 100 吋。具体按客厅开间与观看距离确定，同时预留主机摆放与幕面贴墙的空间。</p>\n  <p>&nbsp;</p>\n  <p>数据来源与时效</p>\n  <p>行业标准：《电视接收设备 激光投影显示规范》SJ/T 11791—2021，工业和信息化部，2022 年 4 月 1 日实施。</p>\n  <p>出货量：洛图科技（RUNTO），2026 年上半年，口径含激光投影与激光电视。</p>\n  <p>品牌份额：Omdia，2025 年全年，出货量份额口径。</p>\n  <p>色域参数：产品公开参数，110% BT.2020 为三色激光机型指标。</p>\n  <p>能耗对比：第三方实验室同尺寸实测，测试条件含亮度模式，具体数值以检测报告为准</p>\n  <p>&nbsp;</p>",
-      "category": "tech",
-      "published_at": "2026-11-13T11:35:08+00:00",
-      "fetched_at": "2026-11-14T04:42:02.985718+00:00",
-      "fingerprint": "05561797061913eb"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "9点1氪丨马斯克在X平台公开表态，将参与要求黄仁勋重返英伟达的请愿活动",
-      "url": "https://36kr.com/p/4068905666859912?f=rss",
-      "summary": "<h2>今日热点导览</h2>\n  <p>微软：初步迹象显示系统已趋于稳定，复原工作仍在进行中</p>\n  <p>Anthropic与OpenAI被控抄袭神经网络专利</p>\n  <p>金价再迎暴跌专家劝别抄底，国际金价失守3900美元</p>\n  <p>段永平：目前不会卖出英伟达，当天卖出不少看跌期权</p>\n  <p>华硕前三季度营收7424亿元新台币，归母净利润505亿元新台币</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>英伟达市值重返美股第二，马斯克宣布将签名支持黄仁勋职</strong></p>\n  <p>据《连线》查阅的内部通信，一位英伟达资深工程师在黄仁勋辞职前通过公司内网「建议箱」发帖，要求董事会先听取员工意见。报道发布时，帖子已有逾1600条评论，多数支持黄仁勋复职。还有员工向全公司发邮件，要求董事会解释他的离职经过。《连线》就员工的呼吁向英伟达和琼斯求证，报道刊发时尚未收到回应。与此同时，马斯克在X平台公开表态，将参与要求黄仁勋重返英伟达的请愿活动。他在回复一则讨论英伟达员工如何争取黄仁勋复职的帖子时写道：“目前正在进行要求黄仁勋复职的请愿活动，我也会签名。”</p>\n  <p>美东时间11月13日，英伟达收报每股162.85美元，下跌2.01%，盘中一度跌至158.39美元。公司市值约为3.92万亿美元，收盘时重新超越微软，位居美股第二，仅次于苹果的约5.18万亿美元。英伟达本周累计下跌12.7%，市值蒸发超过5730亿美元，连续第六周下跌，创下2012年以来最长连跌纪录。（爱范儿）</p>\n  <p><strong>大疆：11月18日起调整部分产品的建议零售价</strong></p>\n  <p>36氪获悉，大疆官网今日发布关于DJI大疆部分产品建议零售价调整的说明，受全球半导体及存储等多项关键零部件成本持续大幅上涨的影响，经审慎评估，大疆将于2026年11月18日00:00起，对部分产品的建议零售价进行调整。</p>\n  <p><strong>Claude最严封号措施正式生效</strong></p>\n  <p>11月12日，AI公司Anthropic被称为“Claude史上最严封号机制”正式生效，明确地区准入的穿透式审查标准，目的是封堵壳公司、代理中转等绕开地区限制的方式。当地时间10月8日，Anthropic发布2026版Claude使用政策更新公告，对可接受使用条款（AUP）与支持地区规则作出细化澄清。本次新规覆盖全部Claude相关产品与服务：包括Claude.ai、Claude Code、Cowork等官方应用，API与开发者平台，以及经由云服务商、授权经销商渠道提供的Claude模型服务，所有渠道统一适用这套地区准入与使用约束规则。新规划定三类使用主体准入限制：使用者物理位置落在非支持地区，即便供职于合规区域企业，也无法接入；经营主体注册地或总部设在受限区域，员工身处合规地区也不具备使用资格；企业若受到受限地区主体直接、间接持股或实质控制，无论注册地点、使用者所在地，均被限制访问。（界面新闻）</p>\n  <h2>AI最前沿</h2>\n  <p><strong>腾讯混元：发布全新实时语音模型Hy Realtime</strong></p>\n  <p>36氪获悉，腾讯混元发文称，发布全新实时语音模型Hy Realtime。模型新增Agentic工具调用与唱歌能力。Hy Realtime已在元宝语音通话、腾讯客服等产品上线，近期也将上线腾讯云，对外提供API服务。除了基础对话功能，Hy Realtime还具备工具调用能力，它能根据对话上下文、用户意图准确判断是否执行联网搜索，统一搜索决策、调用工具与生成回答。</p>\n  <p><strong>Anthropic与OpenAI被控抄袭神经网络专利</strong></p>\n  <p>周四，一家由计算机科学家创立的人工智能公司提起诉讼，指控Anthropic PBC和OpenAI OpCo涉嫌侵犯专利权。Flinn人工智能技术有限责任公司（Flinn AI）向美国特拉华州地区法院提交了两份诉状，指控Anthropic和OpenAI均侵犯了由联合发明人史蒂文·弗林和娜奥米·曼尼佩尼获得的五项专利。诉状称，这些发明可追溯至2015年末和2016年初，当时弗林与联合发明人曼尼佩尼提交了专利申请，其“旨在保护这一代全新的基于注意力机制的神经网络技术，而该技术如今构成了现代生成式人工智能系统的重要功能基础”。（新浪财经）</p>\n  <p><strong>机构：随着生成式AI快速发展，2026年AI软件收入将突破2000亿美元</strong></p>\n  <p>36氪获悉，据Omdia最新的《AI软件市场预测》报告，2026年全球AI软件收入将超过2000亿美元，达到2024年水平的两倍。Omdia的最新预测显示，生成式AI（Generative AI）和代理式AI（Agentic AI）的需求均呈加速增长态势。</p>\n  <h2>大公司/大事件</h2>\n  <p><strong>金价再迎暴跌专家劝别抄底，国际金价失守3900美元</strong></p>\n  <p>由于美国通胀持续，市场预期美联储或将进一步收紧货币政策，推动美元走强、美债收益率走高，黄金、白银期价当日大幅下跌。纽约商品交易所12月黄金期价再次跌破每盎司3900美元，早盘跌幅一度超过3.5%；12月白银期价跌破每盎司50美元，跌幅超过4%。</p>\n  <p>面对金价急速回调，专家明确提示不宜急于抄底。据报道，广东省黄金协会副会长朱志刚亦表示，黄金投资应有长线概念，“短线炒作容易亏损”，建议在长期看好的前提下分批买入以拉低配置成本，而非试图精准抄底。(新华社、封面新闻)</p>\n  <p><strong>蚂蚁集团首席市场官陈亮卸任，转任资深顾问</strong></p>\n  <p>11月13日，蚂蚁集团发布内部邮件，宣布集团资深副总裁陈亮因个人生活规划原因，选择卸任首席市场官和公众与客户沟通部总裁一职，转任蚂蚁集团资深顾问。2008年3月陈亮加入了蚂蚁集团的前身支付宝，多年来一直负责集团品牌与公众沟通事务，一手搭建了蚂蚁的品牌与公关体系。（界面新闻、金十数据APP)</p>\n  <p><strong>可达智灵发布织灵Coda Loom 2.5，升级企业级AI原生研发平台</strong></p>\n  <p>11月13日，可达智灵发布织灵Coda Loom 2.5。该平台以ADF数智研发工厂为核心，为企业提供7*24小时不间断的ADE数字研发团队。本次升级围绕自主推进、组织沉淀、持续进化、跨越多端四个方向，强化项目级任务推进、企业知识与技能复用、基于真实任务反馈的能力改进及跨终端多智能体协同。核心变化是AI研发从个人提效走向组织能力沉淀。</p>\n  <p><strong>散户逆势疯狂抄底英伟达</strong></p>\n  <p>据Vanda Analytics数据，散户在开盘后半小时内买入了约1.11亿美元的英伟达股票，创下该股有记录以来开盘阶段的最大散户买入规模。（界面新闻）</p>\n  <p><strong>字节跳动据悉拟以约4000亿美元估值回购至多60亿美元股份</strong></p>\n  <p>据知情人士称，字节跳动计划以约4000亿美元估值，从现有投资者手中回购不超过60亿美元的股份。字节跳动提出的回购价格为每股241.35美元，高于去年11月上一轮回购时的每股200.41美元。外部股东有权要求字节跳动在特定日期前回购其全部持股。字节跳动在最新股东信中还提议，将这一期限从今年12月11日再次延长至2030年12月11日。字节跳动还表示，计划向从事AI业务的员工提供合计3亿股与公司AI业务价值挂钩的股份，以奖励并留住AI人才。（新浪财经）</p>\n  <p><strong>财政部拟第一次续发行2026年记账式附息（二十一期）国债，招标面值总额250亿元</strong></p>\n  <p>36氪获悉，财政部拟第一次续发行2026年记账式附息（二十一期）国债。本次续发行国债为30年期固定利率附息债。本次续发行国债竞争性招标面值总额250亿元，不进行甲类成员追加投标。本次续发行国债票面利率与之前发行的同期国债相同，为2.06%。本次续发行国债的起息日、兑付安排与之前发行的同期国债相同。自2026年10月25日开始计息，按半年付息，每年4月25日（节假日顺延，下同）、10月25日支付利息，2056年10月25日偿还本金并支付最后一次利息。招标时间为2026年11月20日上午10:35至11:35。</p>\n  <p><strong>茶百道：成立独立特别委员会及继续暂停买卖</strong></p>\n  <p>36氪获悉，茶百道港交所公告，董事会决议成立独立特别委员会，初步由本公司所有现任独立非执行董事组成，独立特别委员会获授权行使所有必要的权力、职权及权利以履行其职责，包括但不限于委任合适的独立专业顾问，如独立法证调查机构、独立法律顾问等，以协助独立特别委员会进行独立调查。本公司将在适当时候就独立调查的进展及结果另行刊发进一步公告。根据证监会的指令，联交所已自2026年10月13日上午九时正起暂停股份的所有买卖，并将继续暂停直至另行通知为止。本公司股东及潜在投资者于买卖本公司证券时务请审慎行事。</p>\n  <p><strong>《汽车改装管理办法》公开征求意见</strong></p>\n  <p>今天从工业和信息化部获悉，多部门联合编制的《汽车改装管理办法》，开始公开征求意见。这是国家层面将出台的首个系统性推进汽车改装管理的政策规范性文件，也是培育汽车后市场消费新增长点的关键举措。据了解，《汽车改装管理办法》当前主要面向量大面广的非营运乘用车改装，实施一类、二类改装管理。其中，一类改装是指对车身颜色、内外饰等不涉及安全、环保等性能的改装。二类改装是指对制动系统、悬架等涉及车辆安全、环保等性能的改装。记者了解到，工业和信息化部已制定第一批改装项目清单共43项，其中一类改装29项，二类改装14项。在管理上，要求汽车企业建立“一车一档”车辆改装档案。（央视新闻）</p>\n  <p><strong>比特币跌破68000美元</strong></p>\n  <p>11月13日电，比特币跌破68000美元，创8月20日以来新低，日内跌超5%。(财联社)</p>\n  <p><strong>美股收盘：三大股指涨跌不一AMD跌近9%</strong></p>\n  <p>美股周五收盘，道指初步收涨0.1%，标普500指数跌0.4%，纳指跌0.91%。AMD(AMD.O)跌8.75%，戴尔(DELL.N)跌7.24%，Coreweave(CRWV.O)跌6.13%，闪迪(SNDK.O)跌5.59%，博通(AVGO.O)跌4.76%，SK海力士ADR(SKHY.O)跌4.3%，英伟达(NVDA.O)跌2.01%；Meta Platforms(META.O)涨2.9%，微软(MSFT.O)涨0.17%。纳斯达克中国金龙指数涨0.84%，百度(BIDU.O)涨0.66%，阿里巴巴(BABA.N)跌0.02%。(金十数据)</p>\n  <p><strong>微软：初步迹象显示系统已趋于稳定，复原工作仍在进行中</strong></p>\n  <p>微软就系统故障表示，初步迹象显示系统已趋于稳定，复原工作仍在进行中。据此前报道，周五，全球用户都报告了Outlook、Teams和Copilot人工智能工具出现故障。此前一天，美国地区的许多用户无法使用这些服务。在追踪平台Downdetector上有约20万份与此次服务中断相关的用户问题报告，这是该公司最严重的服务故障之一，此前的服务中断很少超过几个小时。（财联社）</p>\n  <p><strong>央行：前十个月人民币贷款增加11.42万亿元</strong></p>\n  <p>36氪获悉，央行数据显示，10月末，本外币贷款余额287.25万亿元，同比增长4.6%。月末人民币贷款余额283.33万亿元，同比增长4.7%。前十个月人民币贷款增加11.42万亿元。分部门看，住户贷款减少1.46万亿元，其中，短期贷款减少1.41万亿元，中长期贷款减少501亿元；企（事）业单位贷款增加12.39万亿元，其中，短期贷款增加4.65万亿元，中长期贷款增加6.69万亿元，票据融资增加9283亿元；非银行业金融机构贷款减少2395亿元。10月末，外币贷款余额5831亿美元，同比增长5.2%。前十个月外币贷款增加381亿美元。</p>\n  <p><strong>央行：11月16日将开展2000亿元买断式逆回购操作，期限为6个月</strong></p>\n  <p>36氪获悉，中国人民银行公告2026年11月16日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展2000亿元买断式逆回购操作，期限为6个月（180天），到期日为2027年5月15日（遇节假日顺延）。</p>\n  <p><strong>泡泡玛特以4990万港元回购股份</strong></p>\n  <p>36氪获悉，泡泡玛特于11月13日以4990万港元回购股份。</p>\n  <p><strong>财政部官网发布离岸信托个人所得税政策口径问答</strong></p>\n  <p>36氪获悉，财政部发布离岸信托个人所得税政策口径问答。就居民个人在装入环节未缴纳个人所得税的，财产原值如何调整；政策发布前，居民个人离岸信托已终止、装入财产的居民个人已死亡的，是否追征离岸信托个人所得税；计算离岸信托个人所得税时，汇率换算应遵循什么具体规则；离岸信托仅变更受托人，是否视为离岸信托���止并重新装入新信托，计算缴纳个人所得税；离岸信托存续期间收益的纳税年度如何确定；香港的强制性公积金是否属于《公告》所称离岸信托等问题进行回答。</p>\n  <p><strong>贵州茅台下调多款经销商代售产品线下售价，对齐i茅台平台价格</strong></p>\n  <p>从渠道人士处获悉，贵州茅台近日对多款经销商代售产品线下售价进行小幅下调，调整后的价格对齐i茅台平台售价。其中，精品茅台经销商代售价由2410元/瓶下调至2359元/瓶；马年茅台生肖酒由1951元/瓶下调至1899元/瓶。此前经销商代售茅台产品价格多高于i茅台同款产品售价，而最近贵州茅台官方表态将推动渠道协同。（财联社）</p>\n  <p><strong>段永平：目前不会卖出英伟达，当天卖出不少看跌期权</strong></p>\n  <p>11月13日，知名投资人段永平在回复网友提问时称，目前不会卖出英伟达，实际上当天还卖出了不少看跌期权。（界面新闻）</p>\n  <p><strong>黄仁勋将失去超1亿美元未归属股权奖励</strong></p>\n  <p>当地时间11月12日，据外媒报道，黄仁勋离任后将失去价值约1.08亿美元的英伟达未归属股权奖励。按彭博亿万富豪指数估算，这笔奖励约占其个人净资产的0.07%。根据英伟达的股权薪酬政策，高管离任时，尚未归属的限制性股票单位将失效。外媒称，黄仁勋持有约34.6万个此类单位。（界面新闻）</p>\n  <p><strong>13.35亿欧元，京东完成收购CECONOMY</strong></p>\n  <p>京东集团11月12日宣布完成收购要约，以总对价13.35亿欧元收购CECONOMY59.8%的股本及投票权。随着本次收购完成，CECONOMY成为京东集团子公司。连同京东集团合作伙伴Convergenta保留的25.3%股权，此项收购使双方在CECONOMY的合计持股比例达85.2%。（界面新闻）</p>\n  <p><strong>苹果一年内第七次调整以旧换新价格，新增回收三星折叠屏手机</strong></p>\n  <p>苹果再次提高了多款iPhone和几款Apple Watch的以旧换新价格，而Mac和iPad的估价保持不变。这是苹果在过去一年中第七次调整以旧换新政策。其中，iPhone Air和iPhone 17是本次调价幅度最大的产品，均从原本的585美元上调至615美元，涨幅超过5%。而Pro Max和Pro机型的价格则普遍下跌，17 Pro Max和17 Pro分别从885美元和785美元下调至855美元和740美元。与此同时，苹果还将几款三星折叠屏手机也加入了以旧换新名单。（财联社）</p>\n  <p><strong>Vera Wang中国代理商暴雷，货没有、钱难退</strong></p>\n  <p>全球女孩的梦想婚纱Vera Wang，在中国收押金容易、退款难。（界面新闻）</p>\n  <p><strong>日元持续贬值，日官员称将采取措施应对</strong></p>\n  <p>当地时间11月13日，日本财务大臣片山皋月就近期外汇市场日元持续贬值、美元持续走强的走势表示，近期汇率出现了“单边快速波动”，将继续与美国财政部保持密切沟通，并采取适当措施应对。12日，纽约外汇市场日元汇率一度跌至1美元兑160日元区间，创下近两个半月新低。（央视新闻）</p>\n  <p><strong>梅赛德斯奔驰暂停德国投资并考虑关闭部分工厂</strong></p>\n  <p>一份发给员工的备忘录显示，德国豪华汽车制造商梅赛德斯-奔驰正暂停其在德国工厂的所有投资，并考虑关闭部分工厂，以应对在德国境内高昂的汽车制造成本。（新浪财经）</p>\n  <p><strong>台积电称部分员工资料外泄，未发现公司系统遭入侵迹象</strong></p>\n  <p>台积电公告称，部分现任及离职员工的相关资料被发现出现在外部网站，目前没有证据显示公司自身系统遭到入侵。公司表示，相关资料看来与一家云端服务商有关，与生产或客户信息无关。（财联社）</p>\n  <h2>上市进行时</h2>\n  <p><strong>Sigmastar据悉计划在香港上市，融资3亿美元</strong></p>\n  <p>中国芯片制造商Sigmastar（星宸科技）据悉计划在香港上市，融资3亿美元。（新浪财经）</p>\n  <p><strong>海康威视：海康机器人已完成股份制改制及上市辅导备案</strong></p>\n  <p>36氪获悉，海康威视在互动平台表示，海康机器人已完成股份制改制及上市辅导备案，IPO相关进展请以官方披露信息为准。</p>\n  <p><strong>超聚变IPO过会拟募资80亿，冲刺创业板年内最大IPO</strong></p>\n  <p>11月13日报道，11月12日深交所上市审核委员会审议结果显示，超聚变数字技术股份有限公司首发事项符合发行条件、上市条件和信息披露要求，创业板IPO成功过会。从5月22日申报获受理到过会，超聚变仅用时174天，保荐机构为中信证券。本次拟募资80亿元，将成为2026年创业板年内最大IPO。(21世纪经济报)</p>\n  <h2>大公司财报</h2>\n  <p><strong>科沃斯：预计三季度是公司毛利率低点</strong></p>\n  <p>科沃斯在2026年第三季度业绩说明会上表示，预计三季度是公司毛利率低点，后续预期毛利率会环比持平或改善。但鉴于今年及明年存储芯片价格仍将维持高位，预计接下来2至3个季度同比毛利率仍存在一定的压力。（财联社)</p>\n  <p><strong>华硕前三季度营收7424亿元新台币，归母净利润505亿元新台币</strong></p>\n  <p>华硕11月12日公告，2026年前三季度合并营收为7424.31亿元新台币，营业毛利1206.93亿元新台币，营业利润561.50亿元新台币，税前净利润675.03亿元新台币，净利润547.24亿元新台币。其中，归属于母公司业主的净利润为504.76亿元新台币，基本每股收益67.96元新台币。截至9月底，公司总资产为1.07万亿元新台币，总负债6874.72亿元新台币。（界面新闻）</p>\n  <h2>酷产品</h2>\n  <p><strong>问界新M8上市，售价37.98万元起</strong></p>\n  <p>36氪获悉，问界新M8正式上市，售价区间37.98-46.98万元。</p>\n  <p><strong>华为首个动态血糖仪：维感G1持续葡萄糖监测系统官宣，可搭配手机手表使用</strong></p>\n  <p>11月13日消息，华为首个动态血糖仪正式官宣，定名为——华为维感G1持续葡萄糖监测系统（CGM），承诺将以专业能力为用户提供智能血糖管理体验。华为维感G1需要贴在皮肤表面，并可通过连接到华为智能手机和智能手表查看详情，还支持血糖异常提醒等功能。(IT之家)</p>\n  <h2>投融资</h2>\n  <p><strong>“青葵智造”完成亿元A轮融资</strong></p>\n  <p>36氪获悉，面向科学研发的Physical AI公司“青葵智造”近日宣布完成亿元A轮融资，由创东方投资、飞荣达股份及金辉大数据共同参与。资金将重点用于核心技术研发、重点行业拓展以及云实验室建设，加速自驱动实验室的产业化落地。</p>\n  <h2>AI图谱</h2>\n  <p><strong>AI图谱，带你解读最新最快的AI资讯。</strong>网页版3A大作来了，4399文艺复兴还会远吗？</p>\n  <p><strong>整理丨宋清瑜&nbsp;</strong></p>",
-      "category": "tech",
-      "published_at": "2026-11-14T01:15:03+00:00",
-      "fetched_at": "2026-11-14T04:42:02.985704+00:00",
-      "fingerprint": "344d7c72257a26d4"
-    },
-    {
-      "source": "少数派",
-      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
-      "url": "https://sspai.com/post/118153",
-      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。<a href=\"https://sspai.com/post/118153\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-13T07:00:00+00:00",
-      "fetched_at": "2026-11-14T04:42:01.217695+00:00",
-      "fingerprint": "7d7bfd97682c4604"
-    },
-    {
-      "source": "少数派",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "url": "https://sspai.com/post/118999",
-      "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...<a href=\"https://sspai.com/post/118999\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-13T09:39:22+00:00",
-      "fetched_at": "2026-11-14T04:42:01.217685+00:00",
-      "fingerprint": "b76adb6e1f8d69f4"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.5271 CNY ↓-0.47%",
-      "url": "https://www.frankfurter.app/2026-11-13?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-11-13</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.5271 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0212 (-0.47%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-11-14T04:42:00.010856+00:00",
-      "fingerprint": "2ae4706d4fce97f7"
     }
   ]
 }
