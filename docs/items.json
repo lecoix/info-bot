@@ -1,7 +1,177 @@
 {
-  "updated_at": "2026-11-21T05:22:26.424042+00:00",
-  "count": 183,
+  "updated_at": "2026-11-22T04:48:05.114914+00:00",
+  "count": 185,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "category": "politics",
+      "published_at": "2026-11-22T01:25:03+00:00",
+      "fetched_at": "2026-11-22T04:48:04.858301+00:00",
+      "fingerprint": "d53e011b61eef9a5"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "category": "politics",
+      "published_at": "2026-11-21T22:19:43+00:00",
+      "fetched_at": "2026-11-22T04:48:04.858296+00:00",
+      "fingerprint": "e54ec07f73645f1c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "category": "politics",
+      "published_at": "2026-11-21T19:20:22+00:00",
+      "fetched_at": "2026-11-22T04:48:04.858291+00:00",
+      "fingerprint": "a9bb7c6e29da205c"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "category": "politics",
+      "published_at": "2026-11-21T13:17:38+00:00",
+      "fetched_at": "2026-11-22T04:48:04.858283+00:00",
+      "fingerprint": "714dcc77cc1a9fcd"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "地球迎來新的「迷你月亮」——它並不孤單",
+      "url": "https://www.bbc.com/zhongwen/articles/cqy7rg0yyxxko/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "地球迎來新迷你衛星，體積極小且僅短暫繞行。同時存在準衛星與幽靈衛星等暫時天體，但皆遠不及月球，也無危險。",
+      "category": "politics",
+      "published_at": "2026-11-22T01:30:51+00:00",
+      "fetched_at": "2026-11-22T04:48:04.774488+00:00",
+      "fingerprint": "b0b8e06e974d4435"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "分析：APEC上與習近平、特朗普歷史性會晤，對普京是一場重大勝利",
+      "url": "https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "週四美國、中國和俄羅斯領導人的會晤將為普京（普丁）提供一個重要的舞台——但這並不會讓他離贏得烏克蘭戰爭更近一步。",
+      "category": "politics",
+      "published_at": "2026-11-22T03:46:29+00:00",
+      "fetched_at": "2026-11-22T04:48:04.774474+00:00",
+      "fingerprint": "12120a5a45a8490e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-22T04:48:04.293372+00:00",
+      "fingerprint": "e87c04860704351e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-22T04:48:04.293292+00:00",
+      "fingerprint": "6c69e97c5257c80c"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-22T04:48:04.293199+00:00",
+      "fingerprint": "bf485886c9d7da81"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-22T04:48:04.293110+00:00",
+      "fingerprint": "312324520679159f"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-22T04:48:04.293004+00:00",
+      "fingerprint": "e2495912c5fa2d7d"
+    },
+    {
+      "source": "The Verge",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-21T16:00:00+00:00",
+      "fetched_at": "2026-11-22T04:48:04.124780+00:00",
+      "fingerprint": "e9b596cd9deb4e8a"
+    },
+    {
+      "source": "The Verge",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-21T17:42:27+00:00",
+      "fetched_at": "2026-11-22T04:48:04.124775+00:00",
+      "fingerprint": "f057758653af9e08"
+    },
+    {
+      "source": "The Verge",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-21T20:03:37+00:00",
+      "fetched_at": "2026-11-22T04:48:04.124771+00:00",
+      "fingerprint": "ec8e761e0eb8542f"
+    },
+    {
+      "source": "The Verge",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-21T21:59:31+00:00",
+      "fetched_at": "2026-11-22T04:48:04.124761+00:00",
+      "fingerprint": "69dbf907dcbbc0b6"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去",
+      "url": "https://36kr.com/p/4079476599772038?f=rss",
+      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261121/v2_d3d2a6d006524a1eafcadc15e4cccbe0@5889148_oswg246709oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>“在行动和言说中，人们表明了他们是谁。”</p>\n  <p>汉娜·阿伦特在《人的境况》中讨论人的独特性，而商业世界习惯以浪潮辨认一代人。人工智能、具身智能、硬科技，几个词便能勾勒当下创业的轮廓。</p>\n  <p><strong>2026年，这些词正在落到具体的人身上。</strong>创业者带着各自的技术积累走到台前，在算力、芯片、机器人乃至更长周期的科研方向上寻找机会。商业版图沿着技术的边界重新划分，判断一家公司的潜力，也越来越需要理解创业者究竟选中了什么问题。</p>\n  <p>但趋势解释不了全部。同一个时代提供相似的机会，人们带着不同的知识与经验进入其中，选中的问题，也逐渐成为各自生命的一部分。</p>\n  <p>今年，WISE年度名册新设“年度人物·产业攻坚者”，寻找在产业深水区攻克关键环节、完成产业化关键一跃的实干型创业者。参评者选择的，大多是产业里最难的那部分问题，这些问题很少有可以直接借用的答案。创业者必须在答案尚不完整时作出决定。<strong>攻坚，就是在这样的时刻，用行动去作答。</strong></p>\n  <p>一个回答往往要经过多次修正，有时要推翻此前的判断，有时要换一种方法重新开始。而这样的回答也很少只属于一个人。毕竟，一家公司给出的回答，常常成为另一家公司继续行进的前提。评价一位攻坚者，既要看他回答了什么，也要看这个回答为其他人创造了怎样的条件。</p>\n  <p>“回答”，是理解这份名册的一条线索。沿着它看下去，能看到这些人从哪里出发，又在哪些方向上给出了各自的回答。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261121/v2_803a0d908b534662b925ebf0dba1545d@5889148_oswg6453oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h3><strong>胜负手在模型之下</strong></h3>\n  <p>AI的密集出现，容易制造一种整齐的错觉。深入其中，有人试图让机器理解世界，有人先去解决机器学习所需的经验从何而来。算力调度、存算一体、具身数据与机器人本体，各自对应着不同的技术门槛和客户需求。<strong>一些人追求通用能力，一些人把主要精力放在一个环节的成本或效率上。</strong>最热闹的方向，容纳着越来越细的分工。</p>\n  <p>分工的底层，是一场关于成本的攻坚。国家数据局披露，今年3月，我国日均词元调用量已突破140万亿，两年增长超过千倍。每一次调用，最终都要落到芯片、电力与散热上；2025年，国产AI加速卡的国内市场份额首次突破四成。</p>\n  <p>名册中，算力调度、存算一体芯片与大模型记忆的创业者，都在模型之下的那一层寻找降低智能成本的办法：有的团队把来自不同厂商的芯片纳入同一套调度体系，新芯片的适配缩短到两个工作日；有的让计算直接发生在数据存放的地方；还有人把为卫星做热控的经验，带进了数据中心的液冷系统。</p>\n  <p>出海营销、创新教育等领域，同样置身于这场变化之中。有人把十余年服务出海企业的经验写进营销智能体，也有人把大模型带进课堂。新技术进入既有的生意，经验的价值需要重新辨认。内容生成得更快，仍需理解不同市场中的人；知识变得更易获取，学习也依然包含理解与判断的过程。</p>\n  <p>分工越细，对协作的要求也越高。一家企业的进步，可能受制于另一家企业尚未解决的难题。<strong>让算力更便于调用，让关键部件能够稳定供应，让经验在新工具里重新被运用，这些工作未必站在聚光灯下，却关系着整个产业的推进。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261121/v2_95823bfc30554f8dae556b0d784bb133@5889148_oswg10273oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h3><strong>步入真实世界的门槛</strong></h3>\n  <p><strong>具身智能是名册中人数最多的方向，近一半入围者在这里。</strong>这一年，人形机器人开始规模化出货。IDC统计，2026年上半年全球人形机器人出货约2.5万台，中国市场出货量占全球的77.9%；同期国内具身智能赛道融资935亿元，超过2025年全年。</p>\n  <p>出货量增长之后，机器人能否在不同环境中稳定完成任务，仍待验证。应对真实世界的复杂变化，需要足够的训练数据。行业普遍认为，通用的具身大模型至少需要千万小时级的高质量真实交互数据，这类数据大多沉淀在企业各自的场景里。</p>\n  <p>数据采集、合成数据、端侧算力、跨本体大模型与世界模型的创业者，分别从不同环节尝试作答。有的团队启动了百万小时真实数据计划，有的让机器人先在仿真中学会动作，再走进电池工厂全天候作业。另一些人从场景出发，先回答机器人究竟去哪里干活。城市环卫、充电服务、酒店清洁与家庭服务，是他们选中的起点。</p>\n  <p><strong>这群人的来处，本身说明了问题的难度。</strong>华为与腾讯的机器人实验室，清华、北大与浙大的课题组，自动驾驶公司的工程团队……不同角色，均有人下场。他们在原来的领域已经站上高处，转身之后面对的，是一道需要从头求解的题。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261121/v2_67711d05d13d4547ae2832a6b3b1583a@5889148_oswg10802oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h3><strong>耐心本身就是壁垒</strong></h3>\n  <p>商业航天、量子计算等领域，则把时间拉长。名册中，低轨卫星星座、卫星通信与航天热控的创业者都在这一列；还有创业者带领团队逐步实现量子模拟整机交付，同时继续研发通用量子计算机，攻关连续运行等工程难题。</p>\n  <p>不同方向有各自的节奏。有的已经开始回应具体订单，有的仍在验证基础能力。今年前三季度，我国实施火箭发射70次，创历史同期新高。热度之下，缺口同样醒目，三大低轨星座规划的卫星总数超过3.7万颗，其中两大星座截至去年底累计组网的仅200余颗，“星等箭，箭等厂”仍是行业常态。</p>\n  <p>市场按年度讲述增长，技术自有它的成熟周期。用同一张增长报表衡量这些探索，容易忽略它们各自面对的问题。<strong>对这些创业者而言，耐心包含反复修正判断的能力。投入得久，并不天然意味着正确；继续走下去，需要有比最初的热情更充分的理由。</strong></p>\n  <p>能源与交通的攻坚同样漫长。钙钛矿光伏从实验室走到百兆瓦级产线，无人驾驶集卡开进港口堆场，都用了比预想更久的时间。这些方向离聚光灯最远，一旦走通，改写的往往是一整条产业链的成本曲线。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261121/v2_bd13903d228b4f2c91279b6c3ee60520@5889148_oswg8047oswg1080oswg144_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h3><strong>攻坚，终究是人的选择</strong></h3>\n  <p>年龄也难以为创业者划出整齐的边界。名册之中，不乏95后乃至00后的身影。有人在大学宿舍里用自己组装的3D打印机起步，拥抱4D世界模型；有人选择博士休学，已经实现双臂机器人的商业应用。</p>\n  <p>从这些探索中，我们也能看见技术创业更深的一层处境：<strong>越是试图改变世界，越要进入具体的人与事。</strong>一个人的知识和意志，会逐渐成为一群人的工作，影响合作伙伴的投入，也改变使用者的生活。</p>\n  <p>技术由此获得了社会的分量，个人也被置于更广泛的关系之中。商业故事可以由一个人开始，往后的每一步，都有他人的参与。</p>\n  <p>我们可以看到，这份名册里的入围者们，已经在路上。从算力的成本，到机器人能否离开演示视频走进工厂，再到卫星和量子这类需要十年验证的方向，每一处都卡着整个产业向前的速度。这些问题难在技术，也难在时间，回报常常出现在很远的地方。</p>\n  <p><strong>“请以我的名字呼唤我。”今年WISE以此为题，尝试把赛道标签背后的个人重新带回视野。</strong>我们记录他们的技术与生意，也记录一种无法由趋势代劳的责任：在众多可能之中，选择一条路，并承担它的后果。在世界尚未完成的地方，在关键产业的深水区，人们通过行动留下各自的回答。一个人的名字，由此有了属于他自己的分量。</p>\n  <p><strong>值此时刻，36氪WISE2026 商业之王 年度人物·产业攻坚者名册正式发布。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261121/v2_2d8b43e6dd7646729da497ad1c47c0a4@5889148_oswg714173oswg1080oswg9162_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/R2irEPFalZA_VHqbMDkKNQ\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪”</a>，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-11-21T12:44:52+00:00",
+      "fetched_at": "2026-11-22T04:48:04.007829+00:00",
+      "fingerprint": "3761ed48a16d6a4d"
+    },
+    {
+      "source": "少数派",
+      "title": "从深圳到上海，少数派的共创故事还在继续",
+      "url": "https://sspai.com/post/119318",
+      "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...<a href=\"https://sspai.com/post/119318\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-22T01:05:44+00:00",
+      "fetched_at": "2026-11-22T04:48:01.614302+00:00",
+      "fingerprint": "072ec36586bf3d08"
+    },
     {
       "source": "The Guardian - World",
       "title": "California’s coastal communities on alert as biggest waves in years hit state",
@@ -1681,156 +1851,6 @@
       "published_at": "2026-11-16T02:52:11+00:00",
       "fetched_at": "2026-11-16T04:29:14.905365+00:00",
       "fingerprint": "e519397402c61f48"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-      "category": "politics",
-      "published_at": "2026-11-15T03:21:04+00:00",
-      "fetched_at": "2026-11-15T04:32:30.916481+00:00",
-      "fingerprint": "3ec5f05a65866a7c"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
-      "category": "politics",
-      "published_at": "2026-11-15T02:49:45+00:00",
-      "fetched_at": "2026-11-15T04:32:30.916478+00:00",
-      "fingerprint": "c718f0631c936bbe"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "category": "politics",
-      "published_at": "2026-11-14T19:12:25+00:00",
-      "fetched_at": "2026-11-15T04:32:30.916474+00:00",
-      "fingerprint": "1e4c1fc5abc49ad2"
-    },
-    {
-      "source": "BBC World News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "category": "politics",
-      "published_at": "2026-11-14T22:37:25+00:00",
-      "fetched_at": "2026-11-15T04:32:30.916465+00:00",
-      "fingerprint": "4d3f357daa8cc28f"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "美國人如何背棄特朗普——2026中期大選結果覆盤",
-      "url": "https://www.bbc.com/zhongwen/resources/idt-eb5702ee-a7ac-4445-8942-456df0e95f0f?at_medium=RSS&at_campaign=rss",
-      "summary": "九張圖表解釋民主黨在美國中期選舉中的壓倒性勝利，以及這對總統意味著甚麼。",
-      "category": "politics",
-      "published_at": "2026-11-13T00:00:00+00:00",
-      "fetched_at": "2026-11-15T04:32:30.806817+00:00",
-      "fingerprint": "393d86e5dbaa9396"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "A family tree of software job titles",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-15T04:32:30.301783+00:00",
-      "fingerprint": "a21cc815013d30aa"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-15T04:32:30.301714+00:00",
-      "fingerprint": "888e2f103cc4b000"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-15T04:32:30.301632+00:00",
-      "fingerprint": "04d059df669879a5"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-15T04:32:30.301559+00:00",
-      "fingerprint": "94aa6d9b525a12a4"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-15T04:32:30.301464+00:00",
-      "fingerprint": "79b046481bd48da6"
-    },
-    {
-      "source": "The Verge",
-      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-14T15:00:00+00:00",
-      "fetched_at": "2026-11-15T04:32:29.986971+00:00",
-      "fingerprint": "74ce09572bbce703"
-    },
-    {
-      "source": "The Verge",
-      "title": "Work to replace old copper wire led to the FAA’s ground stop",
-      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-      "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-14T17:44:28+00:00",
-      "fetched_at": "2026-11-15T04:32:29.986966+00:00",
-      "fingerprint": "6ace89370b208df4"
-    },
-    {
-      "source": "The Verge",
-      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-      "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-14T19:47:40+00:00",
-      "fetched_at": "2026-11-15T04:32:29.986961+00:00",
-      "fingerprint": "5ff08b1ef3e37111"
-    },
-    {
-      "source": "The Verge",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-14T21:44:44+00:00",
-      "fetched_at": "2026-11-15T04:32:29.986951+00:00",
-      "fingerprint": "c319b12e1cc2fac3"
-    },
-    {
-      "source": "少数派",
-      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-      "url": "https://sspai.com/post/118276",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118276\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-14T07:40:21+00:00",
-      "fetched_at": "2026-11-15T04:32:28.281858+00:00",
-      "fingerprint": "329c911efb7519c2"
     }
   ]
 }
