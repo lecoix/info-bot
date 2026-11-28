@@ -1,7 +1,247 @@
 {
-  "updated_at": "2026-11-27T06:25:31.422522+00:00",
-  "count": 183,
+  "updated_at": "2026-11-28T06:01:15.503830+00:00",
+  "count": 181,
   "items": [
+    {
+      "source": "BBC World News",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "category": "politics",
+      "published_at": "2026-11-28T00:56:55+00:00",
+      "fetched_at": "2026-11-28T06:01:15.407263+00:00",
+      "fingerprint": "6ccc7c31dee7390a"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "category": "politics",
+      "published_at": "2026-11-28T04:19:16+00:00",
+      "fetched_at": "2026-11-28T06:01:15.407259+00:00",
+      "fingerprint": "0b2a52c951b978bc"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "category": "politics",
+      "published_at": "2026-11-28T04:13:45+00:00",
+      "fetched_at": "2026-11-28T06:01:15.407254+00:00",
+      "fingerprint": "58b7ceb1a51005c1"
+    },
+    {
+      "source": "BBC World News",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "category": "politics",
+      "published_at": "2026-11-27T21:55:53+00:00",
+      "fetched_at": "2026-11-28T06:01:15.407246+00:00",
+      "fingerprint": "65e067513a05324a"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
+      "url": "https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "黃仁勳戲劇性地重返英偉達執行長職位，引發亞洲股市劇烈波動，也暴露出區內經濟體高度依賴AI產業及英偉達所帶來的風險。",
+      "category": "politics",
+      "published_at": "2026-11-27T07:40:38+00:00",
+      "fetched_at": "2026-11-28T06:01:15.233748+00:00",
+      "fingerprint": "544c1e02b358d4d1"
+    },
+    {
+      "source": "BBC 中文 - 头条",
+      "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+      "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
+      "summary": "台灣1965萬選民將票選縣市長、地方議員、鄉鎮村里長等將近1.11萬名公職人員，同時公投決定日後能源政策。",
+      "category": "politics",
+      "published_at": "2026-11-28T00:00:00+00:00",
+      "fetched_at": "2026-11-28T06:01:15.233734+00:00",
+      "fingerprint": "36cdf18e0217af7e"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-28T06:01:14.652477+00:00",
+      "fingerprint": "ffbfe873b32cbcec"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-28T06:01:14.652399+00:00",
+      "fingerprint": "fb8bde07edc4fdf0"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-28T06:01:14.652307+00:00",
+      "fingerprint": "b9e86c3e54743156"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-28T06:01:14.652217+00:00",
+      "fingerprint": "990f58ceeb055fd1"
+    },
+    {
+      "source": "Hacker News Front Page",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "summary": "",
+      "category": "tech",
+      "published_at": null,
+      "fetched_at": "2026-11-28T06:01:14.652095+00:00",
+      "fingerprint": "a8ed389cf242212b"
+    },
+    {
+      "source": "The Verge",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-28T00:02:49+00:00",
+      "fetched_at": "2026-11-28T06:01:14.336320+00:00",
+      "fingerprint": "ac0ee698ab46bb9b"
+    },
+    {
+      "source": "The Verge",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-28T01:30:00+00:00",
+      "fetched_at": "2026-11-28T06:01:14.336315+00:00",
+      "fingerprint": "117a0da82d3c2270"
+    },
+    {
+      "source": "The Verge",
+      "title": "The absolute best Black Friday deals you can still get",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-28T03:28:32+00:00",
+      "fetched_at": "2026-11-28T06:01:14.336310+00:00",
+      "fingerprint": "328423d917a01424"
+    },
+    {
+      "source": "The Verge",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest [&#8230;]",
+      "category": "tech",
+      "published_at": "2026-11-28T03:30:00+00:00",
+      "fetched_at": "2026-11-28T06:01:14.336301+00:00",
+      "fingerprint": "8ac90c21a0303d22"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "问界入局换电，已立项换电版问界M6｜36氪独家",
+      "url": "https://36kr.com/p/4087730299894153?f=rss",
+      "summary": "<p>36氪从多位产业人士处了解到，高端自主品牌问界将入局换电，已经立项了换电版问界M6。另有接近问界的行业人士表示，赛力斯的初步想法是，依托宁德时代的换电体系开发换电车型，双方正在洽谈更具体的合作模式。</p>\n  <p>问界是华为与赛力斯，依托鸿蒙智行模式打造的高端自主汽车品牌，也是鸿蒙智行品牌的销量支柱。如今它入局换电，可能产生多重影响。</p>\n  <p>通过换电，问界M6的起售价将大幅下探，从而有望冲击更高销量。</p>\n  <p>于宁德时代的换电业务主体——时代电服而言，换电版问界如果能大卖，将推动时代电服实现重要突破。</p>\n  <p>过去，时代电服更多是面向网约车提供换电服务。今年以来，时代电服的合作方中多了奕境、赛豆等品牌，但这些品牌的定位偏向中低端市场。</p>\n  <p>问界是第一个与时代电服合作的高端品牌。今年9月底，赛力斯与华为的合作关系升级后，赛力斯对问界产品和研发体系有了更多主导权。</p>\n  <p>36氪从知情人士处了解到，问界可以不依托巨鲸电池，独立向宁德时代采购电池，这在某种程度上为问界换电车型的立项奠定了基础。</p>\n  <h3><strong>入局换电，问界渴望销量增长</strong></h3>\n  <p>押注换电路线，是问界寻找销量增长引擎的一种尝试。</p>\n  <p>2026年汽车行业大盘萎缩，车企间的竞争更加激烈，即便是如问界这样的曾经的优等生，在今年亦感乏力。</p>\n  <p>根据赛力斯产销快报，2025年全年，问界品牌累计交付超40万台新车，而今年前10个月，问界品牌的累计交付量约为24.93万辆。</p>\n  <p>问界长期盘踞的40万元以上高端市场，正涌入蔚来ES9、三代蔚来ES8、全新理想L9等有力竞品。今年4月，问界推出问界M6杀入20万元级的中端市场，但其效果不及预期。</p>\n  <p>为了提振问界M6的销量，赛力斯与华为采取了一系列降本举措。其中最主要的一项，就是引入动力电池二供。36氪此前曾报道过，同样电量的磷酸铁锂电池包，中创新航、国轩高科和欣旺达对鸿蒙智行的报价，“比宁德时代低了3%-10%左右”。</p>\n  <p>因此，采用二线电池厂的问界M6 Max纯电后驱81度、Max+纯电后驱81度两个车型版本，起售价分别降至22.98万元和24.98万元，而今年4月发布的、搭载宁德时代电池的问界M6起售价为25.98万元。也就是说，引入二供后，问界M6的起售价比小米YU7低了数千元，比理想i6低了约2万元。</p>\n  <p>但这依然未能有效刺激销量。11月24日，也就是问界M6上市近7个月时，赛力斯副总裁康波在社交媒体平台公开称，问界M6上市累计交付突破7万台。也就是说，平均每个月交付量约为1万台。而它的竞品理想i6，曾连续数月交付超过2万台。</p>\n  <p>而加入换电，进一步拉低车型售价，不仅是问界，也是其他车企想要破局的举措。</p>\n  <p>在某种程度上，全新ES8乃至蔚来公司在今年的销量势能，正是得益于提早布局换电，从而将购车门槛降低了约10万元。而问界M6如果推出换电版本，不仅整车起售价能进一步下探至15万元左右，用户的补能体验也有望提升。据问界官方披露，在常温下，问界M6的电量从30%充到80%，需要15分钟。而换电版问界M6，则有望将补能时间缩短至宁德时代所说的99秒</p>\n  <p>有行业人士告诉36氪，去年全新ES8热销之时，其他一些定位高端市场的新能源品牌，都曾讨论过做换电的可行性。如今问界决定入局换电，无论对其自身，还是对合作伙伴宁德时代、乃至整个行业，都有着较为关键的意义。</p>\n  <h3><strong>宁德时代，推广换电、向服务转型</strong></h3>\n  <p>于宁德时代而言，推广换电、建立与车企的生态黏性，是它正着重布局的大棋。而问界，这一公认的高端品牌入局换电，可在相当程度上起到示范效应。</p>\n  <p>在极致的竞争和成本压力下，车企越来越强调对动力电池技术和成本的掌控。于是，理想在今年9月宣布，在全系车型上搭载自研的连山电池，小米自研的龙甲电池也已上车澎程品牌车型，鸿蒙智行则依托巨鲸电池的标准体系，引入欣旺达、国轩高科、中创新航等多家二线动力电池厂。</p>\n  <p>多元电池采购、自研电池上车，叠加宁德时代激进的商务策略，这些都使车企与宁德时代的合作关系日益复杂。</p>\n  <p>在这样的背景下，通过换电定义车企的动力电池和底盘，同时将卖电池这项一锤子买卖，升级为卖电池+换电这一更为长期的服务性合作，是宁德时代保住市场份额的重要策略。</p>\n  <p>为了推广换电，宁德时代可谓不惜财力。</p>\n  <p>2022年，宁德时代发布巧克力换电品牌，截至2025年底，企业累计建成超1000座巧克力换电站。</p>\n  <p>而截至今年年6月底，巧克力换电站数量已达到2000座。也就是说，在半年内，宁德时代新建了约1000座巧克力换电站。</p>\n  <p>宁德时代的计划是，到今年年底，在全国140多座城市累计建设超3000座换电站。如果这一目标达成，意味着宁德时代在今年一年内铺设的换电站数量，超过了过去数年的总和。</p>\n  <p>除了加速建站，宁德时代还围绕换电业务做了新的人事任命。</p>\n  <p>36氪上个月报道过，宁德时代换电业务负责人杨峻将接替韩伟，兼任市场体系联席总裁。而杨峻不仅是宁德时代换电业务总经理，也是宁德时代旗下分别主攻乘用车、商用车换电业务的子公司时代电服、时代骐骥的CEO。宁德时代委任杨峻以更高的职位，从中也足可窥见宁德时代的战略方向。</p>\n  <p>但宁德时代要想跑通换电的商业闭环，还需车企的协同。目前，一汽、长安、北汽、奇瑞、广汽等央国企已参与巧克力换电生态，东风旗下的奕境、赛力斯旗下的赛豆品牌，也都在规划换电车型。</p>\n  <p>可无论奕境还是赛豆，其市场表现终究还有待验证，而且这些品牌自身尚处在建设品牌知名度的阶段，因而它们的入局，对宁德时代换电业务的加成终究有限。而问界作为高端自主品牌，它的技术和产品策略，更具市场号召力，因而它无疑将是宁德时代换电业务的更重要客户。</p>\n  <p>过去，换电是只有蔚来一家车企在玩的小众游戏。而如果问界和宁德时代能够合作跑通换电模式，或将使更多主流汽车品牌，考虑加入宁德时代的能源服务体系。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261127/v2_8cd0b8d8a24e4d8d865f892f27fac890@6215398_oswg41960oswg1080oswg335_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">作者微信：luckg17305264638</p>",
+      "category": "tech",
+      "published_at": "2026-11-27T08:15:09+00:00",
+      "fetched_at": "2026-11-28T06:01:14.148257+00:00",
+      "fingerprint": "1a587f2bc7593b43"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "中泰聚能CTO彭小舟：一台机器人，两班倒价值 | 36氪 2026WISE商业之王大会",
+      "url": "https://36kr.com/p/4087739263072896?f=rss",
+      "summary": "<p>机器人跨过演示、走向场景的这一年，落地的问题换了一副面孔：过去问「能不能做到」，现在问「敢不敢用、值不值、怎么合作」。11月26日，WISE2026商业之王大会「具身智能&amp;文商旅」分会场在北京亦庄举行——商场、乐园、酒店的运营方与具身智能企业、投资机构、律所和银行代表坐进同一个会场，把技术趋势放进最具体的消费场景里讨论。</p>\n  <p>这场分会场的与众不同之处，在于它聊的不是技术有多强，而是生意怎么成：机器人进商场，是替人还是加岗；成本能不能扛住，出了问题谁负责；当规则与资金的服务体系先于机器人到位，落地才有了前提。</p>\n  <p>接下来，36氪将以现场忠实的记录者身份，完整刻录这一天的呼唤与回应——每一个参与产业的角色，都值得被逐字记下。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261127/v2_cf2e7499e1764fdc85fcdd963333bd1f@6301044_oswg753557oswg1265oswg843_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261127/v2_4e367af7a684464dae1be6c65c158571@6301044_oswg956458oswg1265oswg843_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p><strong>演讲者：中泰聚能CTO &nbsp;彭小舟</strong></p>\n  <p>现场的各位嘉宾，还有线上的朋友们，大家下午好！我来自北京中泰聚能。我们公司是源于能源还有仓储场景的巡检，但这两年来，我们在探索的物理场景、真实场景的价值实现上，做了很多有价值的探索。</p>\n  <p>今天我分享的主题就是一台机器人，两班倒的价值：我们从电力运维到文商旅场景，机器人是怎么做的，如何做到运维跟运营双模式结合。</p>\n  <p>在分享之前，我想跟大家提一个灵魂的问题：我们现在的机器人很多在比拼极限性能和数据，并且更多是聚焦在工业化产线的场景，尤其是人形机器人，还有四足的、轮足的机器人。但是把目光投向文商旅线下实体空间，比如今天展会这种人流密集的场景，我们的机器人到底应该是什么？是一台展览跟打卡互动的机器，还是真正能够持续产生效益、解决客户痛点的生产工具？</p>\n  <p>接下来我的分享分为四个部分：第一，行业目前的特点；第二，我们的解决方案，以及为什么我们源于电力级的技术底座来文商旅的现场；第三，目前落地的一些真实案例分享；第四，客户价值和未来方向。</p>\n  <p>首先，作为文商旅的场景，大家都很熟悉，目前主要面临的是实体运维跟运营两套体系之间的双重挑战。</p>\n  <p>运维端，大型场馆，比如我们今天所在的园区空间、商场、酒店，在建筑物的内部，机房、设备，各种消防点都很分散，夜间人工巡检成本很高，漏检多，隐患很难提前发现。</p>\n  <p>前端运营端，目前大家知道红利见顶，获客成本攀升，传统营销审美疲劳。如何降低成本，如何有一个自带传播属性、并且能留住客流的新载体——今年人形机器人显然是作为一个科技的明星出现的。</p>\n  <p>但怎么运营？行业目前最大的一个困境，就是两个部门、两套预算、两套设备，各干各的。硬件的大部分时间闲置，投入高、利用率低。就目前来讲，机器人尤其是人形机器人走入实体场景，这是我们面对的共性问题。</p>\n  <p>我们的解决方案，就是差异化解法：合二为一，同一台机器人日间运营、夜间运维，按时间自动切换双模式。白天机器人作为互动空间的载体，承担游客导览、打卡、引流、活动播放功能；到了夜间，会自动切换到巡检模式，完成红外测温、缺陷识别、消防排查，实现7x24小时无人化巡检。所以我们方案的本质，就是一台硬件、两套业务独立运行，并且由一台人形机器人来完成市场部门与工程部门的双KPI——这就是我们所说的一台机器人，两班倒价值。</p>\n  <p>说到这里，我也被很多业内朋友问，我们的底座从哪里来。底座是源于电网严苛的实践，我们跟电科院在联合研发相应的产品，目前积累了多项的专利与知识产权，已经在电力场景的巡检取得了批量化的认证。包括现在我们参加南方电网的具身智能的比赛，我们也作为唯一双足的人形机器人，在决赛现场做相应的训练，解决实际的操作问题。</p>\n  <p>在这个基础上，我们抽取出了五层。做技术的朋友们可能不陌生，我们的特点：第一，通用移动本体，对于场内复杂环境，机器人可以适应坡度，包括不是很高的楼梯，以及跟电梯的联动、地毯的环境，都可以正常运行；第二，多传感器融合，有红外热成像加高清视觉，可以做测温和环境感知。</p>\n  <p>第三，工业级AI识别模型，我们针对文商旅做了小模型，对于现场环境需要处理的各种情况做相应的处理，并且我们的机器人不需要遥控器——今年年初，当时在跟大悦城包括几个商场部署的时候，需要两个人甚至多个人测试一台机器，现在的场景就是我们的机器人可以完全自主地来完成这个功能；第四，我们搭建了开放式的数据能力，因为说到产生生产力，如何跟现在客户的智慧商业系统、智慧物业系统来对接，这个我们做了相应的数据层的整理；第五层，全场景合规体系——刚才说到电梯里面机器人怎么去避让的问题，我们机器人在与多人的场景，怎么样能够保障人机安全，做了专业的优化。</p>\n  <p>所以我们的主旨，就是用电力级的硬核安全底座，来托举文商旅柔性的商业空间。</p>\n  <p>我跟大家分享几个我们这两年的实际案例。</p>\n  <p>首先是大家都不陌生的商场环境。在商场里面我们经常能看到自动扫地的机器人，也能看到人形来活跃气氛的机器人。我们的机器人不仅仅白天来做导览商户、播报活动、自动传播流量的功能，到夜间的话，机器人可以自动切换到巡检模式，走进商场的机房、配电房，以及相应的消防点，做隐患识别，包括缺陷的自动报警——引流跟巡检，一台设备。</p>\n  <p>这是我们在更广阔的文旅空间做的案例部署。在酒吧，大家都知道灯光复杂、人员密集，消防合规是底线性要求。那我们的差异化特征，就是机器人首先给它引流，给它配备相应的主题，并且相应的灯光效果，在酒吧营业时段可以跟顾客深度互动，还能够做相应的酒水优惠播报。但同时，这个机器人本身就会承担巡检的功能，在互动的同时它也会识别有没有通道堵塞，有没有一些温度异常报警——比如说抽烟之类的，还有设备有没有异常的报警，做到秒级响应。</p>\n  <p>这是我们在酒店的场景。对于酒店与会场的双业态空间，机器人也能干很多活。白天，我们在锦江集团福建大厦，做迎宾，做客户协助性的工作；到晚上，也会代替夜间巡检的工人，去酒店的相应机房、消防点做巡检工作。会展也是，在会展现场，我们可以做机器人的导览、机器人的问答功能；在策展的窗口期，机器人可以作为策展巡检安全员，来巡检相应的消防点，做设备安全检查。</p>\n  <p>对于更广阔的公共空间，包括公园——我们在温榆河公园；学校——在北京实验二小；以及交通枢纽——我们在大兴机场、在地铁站、在一些高铁站，我们同样来做相应的一机多用的功能的实践，包括消防知识、安全知识的讲解，以及科普宣教。我们的目的也是同一台机器人同时承担巡检安防、科普宣教和游客服务功能，并且可以对接多部门的预算，可复制性很强，形成更广阔的商用空间。</p>\n  <p>这些场景之下，我们要真正实现商业价值，也分享四点核心的、能够标准化落地的机制。首先，我们有统一的勘测标准，配置流程标准，并且有可量化的验收质量；第二，机器人在不同时段会自动切换，对于运营运维的报表可以独立拆分；第三，我们也推出了标准化的商业场景实施指南，根据我们之前的案例，基本上四周时间、一个月，机器人就可以上岗工作。所以目前我们的案例已经覆盖了商场、酒店、文娱场所、会展场馆、公共园区与交通枢纽五大类场景，目前基本具备批量复制的基础。</p>\n  <p>我们给客户带来的价值——虽然我们是从巡检，从机器人、机器狗、巡检深耕这个市场多年出发——但我们的价值定位是远不止巡检，不止7x24小时的巡检这么简单，更多的是如何形成运营增收：低成本制造传播点，引发社交引流；并且提出预算复用，一个硬件多部门分摊投入，来解决多头采购、设备闲置浪费的问题。</p>\n  <p>最终我们的定位，就是实体空间的移动智能的运营伙伴。首先，我们现在持续在把这个双模式标准化，希望下一次类似的展会，我们的机器人可以到现场来为大家提供服务。第二，我们会叠加轻量的作业能力——大家知道，现在机器人不仅仅让它发现问题、上报问题，明年我们的重点就是在做简单的现场处置。这个我们也在电网完成了相应的测试，我们是首例在国内110千伏变电站实现人形机器人做相应操作的公司。</p>\n  <p>复制到文商旅场景，我们有信心能做简单的现场复制，并且机器人这个案例，它是现场的分布式感知节点，我们会输出人流、设备、环境的实时数据，来支持真正的数据孪生，以及与我们现在业内比较火的物理模型之间怎么打通，真正做到机器人智慧运营。</p>\n  <p>回到我们刚开始分享提出的问题：现在的赛道机器人都在比拼性能，但是商业的本质一定是算清楚账，创造真实收入，不然没法长久发展。所以市场不需要昂贵闲置的展示机器人，真正需要的是白天创造运营收益、夜间守住安全，特别是ROI可以清晰地给我们的客户算出来的落地方案，这个我们正在这些场景实践。</p>\n  <p>我们从电力的严苛场景出发，跨界扎根文商旅，我们始终坚信场景价值优先，让具身智能能够真正在不远的将来服务于实体经济。</p>\n  <p>以上就是我的分享，谢谢大家！</p>",
+      "category": "tech",
+      "published_at": "2026-11-27T08:27:23+00:00",
+      "fetched_at": "2026-11-28T06:01:14.148253+00:00",
+      "fingerprint": "8e4ccbc5b86de97b"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "科氪 | 安顿两产品获第二类医疗器械注册证 研发与质量管理取得新进展",
+      "url": "https://36kr.com/p/4087822319860353?f=rss",
+      "summary": "<p>近日，安顿旗下子公司北京雪扬科技有限公司的相关产品——腕式脉搏血氧仪、可穿戴式心电记录仪，经北京市药品监督管理局批准，正式取得第二类医疗器械注册证。两项产品于2026年11月21日获批，注册证编号分别为京械注准20262070457、京械注准20262070458。</p>\n  <p>此次双证获批，意味着安顿在脉搏血氧监测、心电数据采集方向的相关产品通过了医疗器械注册审评，也是其专业研发能力、产品工程化能力与质量控制能力建设的阶段性成果。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261127/v2_31a36ce479674fff89d304332e42cbca@517825446_oswg682409oswg1048oswg786_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">安顿相关产品取得的两项医疗器械注册证</p>\n  <p><strong>严格审评，验证底层研发与质控硬实力</strong></p>\n  <p>医疗器械注册并非单一功能的验证，而是围绕产品预期用途，对其安全性、有效性及质量可控性进行综合审评。相关研发工作需要将技术方案、产品设计、性能验证、风险管理与质量控制等全链路环节有效衔接。</p>\n  <p>对智能穿戴设备而言，如何在有限的硬件空间内兼顾传感器布局、硬件设计与信号处理，并将底层技术研究转化为符合预期用途与注册要求、兼具性能稳定性与质量一致性的规范化产品，是行业研发中的核心课题。</p>\n  <p>此次两项产品通过注册审评，直接验证了安顿的底层研发功底与质量控制硬实力，表明安顿已具备扎实的专业研发与质控实力，也为后续医疗器械产品研发积累了规范化实践经验。</p>\n  <p>&nbsp;</p>\n  <p><strong>十一年技术积累，推动硬科技研发成果转化</strong></p>\n  <p>扎实资质的取得，源于长期的技术沉淀与体系化建设。据了解，安顿已深耕“人工智能+预防医学”领域十一年，持续围绕智能传感、人工智能算法、健康大数据等底层方向开展技术攻关，锻造了一支专业化的技术研发团队。就在今年10月，企业凭借持续的技术创新与细分领域深耕能力，荣获专精特新“小巨人”企业称号。</p>\n  <p>从底层技术研究到产品工程化，从研发创新到质量管理，此次获证是安顿长期技术积累向医疗器械产品研发转化的一项具体成果。相比单纯拓展产品功能，建立与产品预期用途相匹配的研发验证流程和严格质量管理体系，同样是健康科技企业稳健发展的核心基础。</p>\n  <p>据安顿介绍，未来将继续保持核心技术研发投入，坚持以高标准持续完善医疗器械产品研发与质量管理体系，推动人工智能与预防医学的深度融合与规范发展。</p>\n  <p>&nbsp;</p>",
+      "category": "tech",
+      "published_at": "2026-11-27T10:02:32+00:00",
+      "fetched_at": "2026-11-28T06:01:14.148248+00:00",
+      "fingerprint": "a6b0225c3163d903"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "9点1氪丨DeepSeek或将推出付费模式；广电正式禁播电视开机广告；李斌：“速成车”是对国产车的污名化",
+      "url": "https://36kr.com/p/4088718976268932?f=rss",
+      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>晒与LVMH老板合影引发“谈收购”猜测，山下有松创始人回应</p>\n  <p>丰田汽车全球销量连续第九个月下滑，中国市场跌势加剧</p>\n  <p>爱马仕部分二手包价格暴跌</p>\n  <p>韩国高考作弊查处量激增，涉智能设备案件增至去年3.6倍</p>\n  <p>取消大小周后调整日工作时长、降薪，遭员工抵制？海康威视回应</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <h4><strong>DeepSeek或将推出付费模式</strong></h4>\n  <p>近日，DeepSeek安卓端App更新2.10.0版本后，新增了功能按钮，用户可查看每轮对话消耗额度对应的具体资费，其计费模式和API的官方文档计费模式相同。</p>\n  <p>此举或为后续推出App付费模式做进一步铺垫。 就在本月，DeepSeek已经对长对话、单日调用额度做出限制——将单次输入文字上限缩短至4万字左右，且不再支持超过7天不活跃的长对话。（科创板日报）</p>\n  <h4><strong>广电正式禁播电视开机广告</strong></h4>\n  <p>11月27日起，国家广播电视总局第17号令《有线广播电视运营服务管理规定》与第18号令《交互式网络电视运营服务管理暂行规定》正式施行。《有线广播电视运营服务管理规定》第十二条明确，有线广播电视运营服务提供者应当坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。智能电视机应支持优先呈现直播频道功能，提供便捷设置入口。（界面新闻）</p>\n  <h4><strong>李斌：“速成车”是对国产车的污名化</strong></h4>\n  <p>11月27日，蔚来汽车CEO李斌在广州车展期间接受��面新闻等媒体采访时表示，中国绝大部分的汽车产品经过了非常完善的测试以及有关认证。进入智能电动汽车时代，产品迭代速度更快，与发动机需要长期标定和台架试验的开发方式有所不同。在他看来，“速成车”这三个字是对中国智能电动汽车产业多年创新的污名化。（界面新闻）</p>\n  <h2><strong>AI最前沿</strong></h2>\n  <h4><strong>豆包工作独家接入剪映官方插件，支持一句话剪辑视频</strong></h4>\n  <p>36氪获悉，豆包工作宣布独家接入剪映官方插件，支持一句话剪辑与多轨编辑。用户可将视频素材交给豆包工作，用一句话描述需求并调用剪映完成剪辑，还可继续通过对话修改，或打开多轨草稿进行细调。</p>\n  <h4><strong>腾讯混元发布3D大模型Hy3D 3.6</strong></h4>\n  <p>36氪获悉，腾讯混元发布最新一代3D大模型Hy3D 3.6。新版本面向专业3D创作，重点优化了高模和PBR材质贴图的生成能力。目前，Hy3D 3.6已经上线腾讯云Token Hub，对外提供API服务。腾讯AI创意智能体Miora、腾讯游戏旗下专业资产生成平台LAP、专业影视AI平台WorkRally等已接入。</p>\n  <h4><strong>Anthropic团队主管称，AI正在改变工程师的晋升方式</strong></h4>\n  <p>随着Claude‑Code这类AI编码工具极大压缩软件开发周期，Anthropic正在调整软件工程师的晋升评判标准：相比投入的工时，项目实际影响力被放到更核心位置，例如系统延迟降低、规避线上故障等实际业务成果。平台工程负责人凯特琳・莱斯在一期播客节目中表示，对于她团队内的软件工程师，完成项目所耗费的时间，已经越来越不适合作为判断是否具备晋升资格的指标。莱斯表示。衡量影响力看的是系统延迟下降、成功规避事故这类指标，而不是做完这件事花了多久。（新浪财经）</p>\n  <p><strong>月之暗面宣布Kimi科研支持计划开放申请</strong></p>\n  <p>11月27日，月之暗面宣布，Kimi科研支持计划开放申请，首期将面向自然科学、工程学及相关交叉学科的科研人员，入选申请者将获得Kimi API额度、Kimi团队的技术支持等。（财联社）</p>\n  <h2><strong>大公司/大事件</strong></h2>\n  <h4><strong>千问：网传“Qwen后训练负责人离职”纯属造谣，将起诉追究法律责任</strong></h4>\n  <p>36氪获悉，11月27日，有自媒体报道称，Qwen后训练负责人周浩离职，千问大模型官方回应称：内容纯属造谣，并将起诉追究其法律责任。千问称，近期针对Qwen大模型团队的不实信息持续出现，公司将依法追究相关主体的法律责任。</p>\n  <h4><strong>15家电动自行车企业被点名，市场监管总局集中约谈</strong></h4>\n  <p>今天了解到，市场监管总局对雅迪、台铃、爱玛、新日、小刀、绿源、金箭、九号、小牛、绿佳、绿驹、立马、极跃、赛鸽、极核等15家电动自行车企业进行集中约谈。约谈指出，近期市场监管总局组织对电动自行车企业开展强制性产品认证（CCC认证）全覆盖飞行检查，发现有关企业质量主体责任落实不到位，质量保证能力欠缺，产品一致性管控不严，部分企业存在违反强制性国家标准出厂销售不合格产品的情况，扰乱市场秩序，侵害消费者合法权益，给人民群众生命财产安全带来风险隐患。（央视新闻）</p>\n  <h4><strong>三星推进半导体工厂无人化，组建机器人专项团队</strong></h4>\n  <p>三星电子设备解决方案（DS）部门在全球制造与基础设施总管之下，已经新设并启动机器人团队，任命李锡元副社长担任团队负责人。该机器人团队负责研发适配半导体工厂的机器人技术，并落地导入实际产线。据悉，三星将以该机器人团队为核心，和外部专业机器人企业合作推进技术验证与现场落地。规划路线图：年内选定合作厂商，明年开展技术评估，2028年起正式在产线投入机器人；多家韩国本土机器人企业正在筹备竞标合作。三星新设独立团队，目的是把半导体工厂里剩余的人工手工作业尽可能减少。半导体工厂里晶圆传送等核心制程自动化程度很高，但设备维保、零部件补给、设施管理等环节仍然依靠人力。（新浪财经）</p>\n  <p><strong>宁德时代：香港时代拟认缴不超2.99亿美元参与投资境外基金</strong></p>\n  <p>36氪获悉，宁德时代公告，公司拟通过境外全资子公司香港时代作为有限合伙人参与投资境外私募股权投资基金Lochpine Lush Limited Partnership，并于同日与相关方签署合伙协议。香港时代拟认缴出资额不超过2.99亿美元，占基金认缴总额的99.90%。该基金总认缴出资额为2.99亿美元，主要围绕储能、矿山微电网、零碳项目及相关产业链开展投资布局。本次投资无需提交董事会及股东会审批，不构成关联交易及重大资产重组。</p>\n  <p><strong>字节跳动澄清“三人行成为A股首家与其达成AI深度合作的公司”报道：相关合作被夸大</strong></p>\n  <p>11月27日，有报道称，三人行成为A股首家与字节跳动达成AI深度合作的公司，获全线可售卖产品代理权。对此，字节跳动相关负责人回应称：相关合作被夸大报道。事实上，字节旗下火山引擎与三人行子公司近日签署了常规的渠道代理合作协议，目前在MaaS代理代售上还未开始实质合作。此类合作也并非首例，同级别渠道伙伴还有很多。（证券时报）</p>\n  <h4><strong>丰田汽车全球销量连续第九个月下滑，中国市场跌势加剧</strong></h4>\n  <p>丰田汽车全球销量连续第九个月下滑，中国市场跌势加剧，盖过了混合动力汽车需求强劲带来的提振。丰田周五在一份声明中表示，10月全球销量（包括子公司大发汽车）同比下降6.3%至940809辆，产量下降9.4%至953989辆。汽油价格飙升、中国市场对非电动汽车的需求下降，以及中东地区供应受阻，导致这家日本汽车制造商今年大部分时间的产销量均出现下滑。（新浪财经）</p>\n  <h4><strong>晒与LVMH老板合影引发“谈收购”猜测，山下有松创始人回应</strong></h4>\n  <p>11月26日晚，山下有松创始人付崧在社交媒体发布与奢侈品路威酩轩集团（LVMH）董事长兼首席执行官贝尔纳·阿尔诺的合照，并配文“一次愉快的聊天”，同时写道：“与阿尔诺先生和Antoine聊品牌和生活。”合影中也出现了阿尔诺的长子安托万·阿尔诺。这次会面引发了网友热议，评论区不少网友称“是不是阿诺看上了山下有松，想来谈收购？”对此付崧回复道：“行业同行朋友交流”。2025年9月，LVMH董事长贝尔纳·阿尔诺现身上海前滩太古里，他去了两家店，一个是老铺黄金，另一个就是山下有松。（界面新闻）</p>\n  <h4><strong>周鸿祎回应近况：膝盖植入两块钛合金板、六根钛钉</strong></h4>\n  <p>11月27日，360集团创始人周鸿祎更新朋友圈，披露膝盖手术后的恢复情况。他表示，近期接受了膝盖修复手术，植入两块钛合金板、六根钛钉，手术顺利，目前术后三周，正在加紧锻炼康复。 周鸿祎在朋友圈中感谢朋友、伙伴和领导的惦念与祝福，并称此次手术把我从残疾的边缘拉了回来，感谢医者精心诊治。他表示，康复期间正好闭关修炼纳米work，待养好筋骨，继续赶路。（界面新闻）</p>\n  <h4><strong>上汽MG企宣布停产燃油车</strong></h4>\n  <p>11月27日，据上汽MG消息，自2027年1月1日起，将面向中国大陆市场停产在售版本纯燃油车型。对既有燃油汽车用户，MG将继续提供完善的维保服务与全周期零部件供给，保障用户正常用车与售后权益。（界面新闻）</p>\n  <h4><strong>爱马仕部分二手包价格暴跌</strong></h4>\n  <p>爱马仕奢侈品手袋的二手溢价正在收窄。据每日经济新闻报道，伯恩斯坦11月23日发布的最新报告显示，2026年第四季度，其追踪的12款爱马仕铂金包与凯莉包的二手转售价较参考零售价已从2022年第二季度的2.4倍高点回落至约1.3倍，照此计算，溢价率已从140%跌至30%。同时，伯恩斯坦将爱马仕2026年第四季度直营店销售额增长预期下调至3.2%。稀缺神话的松动也反映在股价上。截至最新收盘，爱马仕股价已跌至1272.5欧元/股，较2025年2月14日的历史高点2847欧元/股累计下跌约56%，市值也从当时的2980亿欧元左右缩水至目前的约1310亿欧元，蒸发约1670亿欧元（约合人民币1.2万亿元）。（21世纪经济报道）</p>\n  <h4><strong>韩国高考作弊查处量激增，涉智能设备案件增至去年3.6倍</strong></h4>\n  <p>韩国教育部11月27日公布的数据显示，截至11月25日，在2027学年度大学修学能力考试（高考）中已查处作弊行为474起，较去年同期的279起增加69.9%。其中，涉及智能设备的作弊行为达到112起，是去年的3.6倍，接近全部作弊案例的四分之一。（央视新闻）</p>\n  <h4><strong>香港城市售票网被黑客入侵，约130万使用者资料或泄露</strong></h4>\n  <p>日前，香港城市售票网被黑客入侵，约130万使用者的个人资料可能遭泄露，引发关注。11月27日，记者注意到，自10月以来，香港多家机构接连发生大规模个人资料外泄事件，涉及大型连锁健身中心、崇光（香港）百货有限公司、国泰航空、香港航空等，香港个人资料私隐专员公署已就上述事件展开调查，并提醒市民及时核实来电商户身份，谨防泄露个人信息。（第一财经）</p>\n  <h4><strong>取消大小周后调整日工作时长、降薪，遭员工抵制？海康威视回应</strong></h4>\n  <p>11月27日，有报道称海康威视近日下发全员通知，将取消原有的“996”（大小周）工作模式，试行新的“965”工作新规，此新规遭到抵制。该消息一度冲上热搜。对此，海康威视回应记者称，此报道不属实。海康威视持续努力营造良好的职场环境，反对以在岗时间替代价值贡献的无效“内卷”。（第一财经）</p>\n  <p><strong>金价银价，集体大涨</strong></p>\n  <p>11月27日，部分投资者赶在国际金价和银价震荡回调之际，选择逢低买入，推动国际金银价格上涨。截至当天收盘，纽商所明年2月交割的黄金期货价格报每盎司3668.50美元，涨幅为2.91%；明年3月交割的白银期价报每盎司43.702美元，涨幅为7.81%。（央视财经）</p>\n  <p><strong>美股大型科技股盘前普涨，闪迪涨超10%</strong></p>\n  <p>36氪获悉，美股大型科技股盘前普涨，截至发稿，闪迪涨超10%，英特尔涨超4%，Meta涨超3%，英伟达、特斯拉、谷歌、亚马逊涨超2%，微软涨超1%，苹果涨0.78%。</p>\n  <p><strong>技术面临瓶颈，三星SK海力士找长江存储要技术授权</strong></p>\n  <p>韩国两大存储芯片巨头，开始向中国企业寻求技术授权。三星电子和SK海力士正采用长江存储部分晶栈（Xtacking）技术，以推进各自的3D NAND闪存堆叠工艺。三名知情人士透露，三星电子和SK海力士一直在探索3D NAND闪存的堆叠技术，最终决定通过交叉授权的方式引入长江存储部分相关技术。这意味着，成立仅十年的长江存储，已经能够凭借自身专利积累，在闪存堆叠这一关键技术领域与全球存储芯片巨头展开专利博弈。（观察者网）</p>\n  <p><strong>标普将法国主权信用评级展望下调至“负面”</strong></p>\n  <p>据央视新闻报道，当地时间11月27日晚，国际评级机构标普全球评级将法国主权信用评级展望由“稳定”下调至“负面”，同时维持法国长期主权信用评级为A+、短期评级为A-1。标普表示，法国经济增长乏力，政府债务持续上升，各方在如何削减财政赤字上缺乏共识。标普预计，如果不采取额外措施，2027年法国财政赤字将占国内生产总值的5.3%，高于法国政府预算草案设定的5%目标。标普表示，如果未来两年法国财政赤字未能明显收窄，或经济增速持续低于其预期，可能下调法国主权信用评级。（蓝鲸新闻）</p>\n  <h4><strong>A股三大指数集体收涨，创指大涨超11%</strong></h4>\n  <p>36氪获悉，A股三大指数集体收涨，沪指涨3.73%，深成指涨7.24%，创业板指涨11.61%；算力、半导体、机器人大涨，源杰科技、新易盛、华虹宏力涨停，宇树科技、中际旭创、天孚通信逼近涨停；煤炭、银行板块跌幅居前，中国神华跌超4%，交通银行、建设银行跌超2%；个股呈现普涨态势，全市场近5400股飘红。</p>\n  <h2><strong>投融资</strong></h2>\n  <h4><strong>“零次方机器人”完成新一轮数亿元融资</strong></h4>\n  <p>36氪获悉，具身智能公司“零次方机器人”近日完成新一轮数亿元融资。本轮投资方包括清科产投、锡洲国际、卓源亚洲、粤民溯锋、无锡滨湖、合肥建投、合肥产投国正、杰克集团以及多家产业战略投资方。老股东同创伟业、力合基金、接力天使继续超额加注。资金将主要用于两方向：一是扩充已跑通场景的落地规模，二是为年底开放的 Picking API 储备算力调度能力。</p>\n  <h4><strong>“大衍科技”完成数千万元Pre-A轮融资</strong></h4>\n  <p>36氪获悉，触觉数据与具身智能基础设施公司“大衍科技”近期已完成数千万元Pre-A轮融资，由赛智伯乐领投，普华、浙商创投、浙里信等跟投，老股东浙江省科创母基金追投。本轮资金将主要用于数据中心建设与触觉手套产线搭建。</p>\n  <h2><strong>上市进行时</strong></h2>\n  <h4><strong>袁记食品：拟全球发售1631.23万股H股，最高发售价28港元</strong></h4>\n  <p>36氪获悉，袁记食品在港交所公告，公司拟全球发售1631.23万股H股，香港发售股份163.13万股H股，国际发售股份1468.1万股H股；最高发售价为每股28.00港元；预期股份将于2026年12月7日开始在香港联交所买卖。</p>\n  <h2><strong>大公司财报</strong></h2>\n  <h4><strong>滴滴：第三季度国际业务GTV同比增长55.9%，巴西外卖覆盖超150城</strong></h4>\n  <p>36氪获悉，11月27日，滴滴在其官网发布第三季度业绩报告。第三季度滴滴核心平台总交易额（GTV）同比增长21.5%至1408亿元，中国出行GTV同比增长9.7%，国际业务GTV同比增长55.9%。国际出行业务持续发挥生态锚点作用，连续三个季度实现盈利。巴西外卖服务已覆盖超过150个城市，进一步丰富了当地用户的日常生活服务选择。作为国内较早“走出去”的互联网企业之一，滴滴国际业务已覆盖拉美、亚太和非洲的14个国家和地区，服务用户总数超过1亿。</p>\n  <h4><strong>美团：第三季度营收同比增长21.6%，AI经营工作台“妙手”已服务200万商家</strong></h4>\n  <p>36氪获悉，，美团发布2026年第三季度业绩报告。三季度，美团实现收入1156亿元，同比增长21.6%，净利润同比由负转正。随着外卖行业趋于理性，叠加三季度暑期旺季效应，公司各项业务经营质量进一步提升，核心本地商业和新业务均保持稳健增长。三季度，美团继续加强AI能力建设，公司季度研发投入77亿元，同比增长11.3%，AI经营工作台“妙手”（CatPaw）已服务超过200万商家。</p>\n  <p><strong>整理丨几何鱼</strong></p>\n  <p class=\"editor-note\">本文来自微信公众号<a href=\"https://mp.weixin.qq.com/s/2_cpfTs3VH2HEYFixMSbFQ\" rel=\"noopener noreferrer\" target=\"_blank\">“36氪”</a>，36氪经授权发布。</p>",
+      "category": "tech",
+      "published_at": "2026-11-28T01:07:21+00:00",
+      "fetched_at": "2026-11-28T06:01:14.148241+00:00",
+      "fingerprint": "df73124726d47ae7"
+    },
+    {
+      "source": "36氪 - 最新文章",
+      "title": "水面智能驾驶公司获数千万融资，加速近海无人作业平台落地｜硬氪首发",
+      "url": "https://36kr.com/p/4081887385817988?f=rss",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，水面智能驾驶公司「仓潮科技」近日完成数千万元天使++轮融资，由兴业证券旗下兴证资本、上市公司高华科技联合投资，这是公司2026年完成的第三轮融资。资金将重点投向近海运维场景的数据化与产品落地、海洋物理AI技术研发、船级社认证及行业标准建设，同时推进近海世界模型的前沿探索。</p>\n  <p>本轮融资完成后，叠加此前种子轮、天使轮及天使+轮系列融资，仓潮科技累计融资规模近亿元。其中种子轮由连云港海洋基金出资，天使轮投资方包含云港集团、天汇资本、连云港金控集团，天使+轮投资方为海州湾发展集团。</p>\n  <p>仓潮科技2023年底成立，总部位于连云港，公司聚焦近海具身智能赛道，以“海洋物理AI”为技术底座，搭建了从底层算法到整船产品再到岸基控制的三层产品架构。最底层是自研的海洋物理AI体系，以智能航行AI大脑“海枢OceanHub”为核心；在此之上，衍生出澜、御、曜三大无人船整船系列，以及海枢船端智驾方案。这套架构让水上智驾能力可以适配不同船型、海域与作业场景。</p>\n  <p>团队由船舶工程、水下机器人、商业航天等前沿技术领域人士组成，核心成员兼具船舶设计与水上自动驾驶的交叉专业背景。创始人兼CEO程晨为河海大学博士，曾担任多地海事局外部技术顾问，深度参与多项国家重点研发项目。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261125/v2_f672ce6e185743a4b4c96be02a84ed53@6022551_oswg2252891oswg6400oswg3600_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">仓潮科技船舶智能化改造（图源/企业）</p>\n  <p>海洋智能驾驶，长期横亘着一道难以绕开的实海验证瓶颈。</p>\n  <p>近海海域水文、风浪、洋流、能见度条件动态多变，工况离散且不可复现，想要持续开展稳定、可控的海上实测并不容易。真实海洋工况下的有效样本获取成本高、采集周期长，缺少足量、覆盖各类极端工况的现场数据，模型很难持续迭代优化；而脱离常态化的海上实地验证，算法面对复杂海况的可靠性、容错能力也难以充分打磨。</p>\n  <p>“想要找到合适的海域，持续开展标准化实地测试，本身就是一件难度很高的事。”仓潮科技CEO程晨告诉硬氪。仓潮科技的探索，正是从破解这一行业痛点切入。种子轮阶段，依托连云港海洋基金的支持，公司进入初期测试海域开展多工况、长周期的实海试验，完成了早期的算法与系统验证工作。</p>\n  <p>程晨指出，海上智能算法的核心门槛，远不止是海域环境本身。更深层的考验，在于团队能否搭建起完整的“数据—模型—场景”闭环验证体系，持续沉淀海洋场景的专属数据；同时基于系统工程能力，在风浪、扰动等复杂多变的海洋工况里，保障无人航行装备稳定、可靠作业。</p>\n  <p>具体到底层算法的设计上，团队将船舶动力学模型与深度学习进行了深度融合，提出了“物理驱动神经网络控制算法”。通过将船舶的物理运动规律作为神经网络的“前置约束”，让模型在汲取数据的同时，进一步学习并理解船体在风浪、水流中该如何受力与响应。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261125/v2_fb6abfb99d6f4069827cb7fafaa9eb7e@6022551_oswg1801936oswg3508oswg2480_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">水面智能化全栈能力（图源/企业）</p>\n  <p>这种“物理+数据”双轮驱动的模式，让仓潮科技的无人船即使面对复杂海况，也具备了更高精度的机动控制与轨迹追踪能力。</p>\n  <p>在此基础上，仓潮科技同步搭建面向近海的领域世界模型。和陆地道路环境不同，海面没有固定车道、标志物会随潮汐和水流持续变化，浮标、通航船舶、水下障碍物的位置都具备动态属性，静态电子海图已经不足以支撑实时航行决策。</p>\n  <p>近海世界模型的价值，就是把静态海图升级为能够感知、推演环境变化的动态环境底座。硬氪了解到，依托连云港周边数百公里水域的全域环境重建及常态化实海测试，仓潮科技已将实时海况数据、动态障碍物信息与电子海图融合，训练出面向垂直场景的端到端模型。该模型能够预判水流、风浪对船体运动的影响，推演周边船舶的航行意图，并在决策链路前端识别潜在风险。</p>\n  <p>进入产业化环节，海洋经济版图中，海上执法、海洋测绘与海上新能源运维是三个具备明确需求增量的场景。以海上光伏与风电为例，随着大规模基础设施建设逐步铺开，日常运维、海缆监测、海床勘测、无人机清洗等作业需求正在快速增长。传统有人船作业模式面临人力成本高、作业窗口受海况限制、人员安全风险大等痛点，无人化与自主化的替代空间正在打开。</p>\n  <p>在仓潮科技团队看来，如果智能无人船仅停留在“能在水面上按预定路线跑起来”，它依然只是一个运载工具，无法真正切入上述场景的核心痛点。</p>\n  <p>海上具身智能的真正门槛，在于解决具体的作业问题。为此，仓潮科技构建了一套异构协同作业系统，无人船作为中枢平台，负责自动驾驶与任务规划；无人机作为空中视角与轻量化载荷载体；水下机器人则承担水下作业任务。三者协同，覆盖从海面到水下的全维度监控与运维需求。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261125/v2_433315528e674355a11cc8b4c2de1342@6022551_oswg1879669oswg6400oswg3600_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">全域海洋立体智联体系（图源/企业）</p>\n  <p>落到商业模式上，仓潮科技形成了两条并行的产品线。一条是标准化智驾盒子，面向存量船舶的智能化改造，可适配冲锋舟、救援艇、水上靶船等场景，安装过程控制在半小时到一小时，目前已实现批量化交付；另一条是自持无人船产品线，聚焦海上巡逻、光伏运维、风电运维等场景，提供从船体到智驾系统的完整解决方案。</p>\n  <p>目前，仓潮科技累计交付客户近百家，覆盖海事系统、海警系统、边防系统等政府单位，以及涉港单位和多家海上风电开发商，并与中国船级社、河海大学、江苏科技大学、上海大学等高校及科研机构合作，产品逐步进入稳定化使用阶段。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261125/v2_1b86d4df7ab44b3c96a826616fc5c487@6022551_oswg4049991oswg2496oswg1664_img_png?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">仓潮科技解决方案在海上场景中应用（图源/企业）</p>\n  <p><strong>以下为硬氪与仓潮科技创始人兼CEO程晨的访谈节选（略经编辑）：</strong></p>\n  <p><strong>硬氪：如果单看航行避障算法，海上场景的复杂度确实低于城市道路的车载自动驾驶。目前，制约海上智驾大规模产业化的核心工程瓶颈主要在哪些环节？</strong></p>\n  <p><strong>程晨：</strong>如果把问题仅仅局限在“船舶能不能在水面上按预定路线避障航行”，那它的算法复杂度和算力需求，确实低于车载自动驾驶。船舶的运动自由度有限，水面障碍物的种类和城市道路里突发的人车混流相比，也相对可控。但这是一个剥离了真实作业环境的理想视角。</p>\n  <p>真正要把这套系统推向产业化，最大的工程瓶颈其实在两层。</p>\n  <p>第一层，是实海数据闭环的获取门槛。在陆地，车企可以大规模铺测试车上路，通过高频次的路测快速驱动算法迭代。但在近海和内河，由于海事监管极其严格，你不仅需要合规的船舶，还需要获批的专属海域才能进行实海测试。风浪、潮汐、涌流、泥沙、能见度这些动态工况，其样本获取成本极高。如果没有稳定的测试海域做支撑，你就很难积累出完备的极端工况数据集。这不是纯写代码能解决的问题，而是海洋场景特有的工程前置条件。</p>\n  <p>第二层，也是真正拉开差距的地方，航行智能与行业深层业务逻辑的耦合。 海事巡逻执法、海上光伏风电运维、海床测绘，每一个垂直领域背后，都有几十年沉淀下来的作业规范、处置流程和行业标准。真正的难点是把这些非标的行业知识图谱，与智驾决策层深度融合，把船长、专家的作业经验，转化为机器能听懂、能执行的任务逻辑。</p>\n  <p>让船在海上跑起来，行业内不少团队都能实现。但让船真正理解风电运维的作业逻辑、懂海事执法的处置规范，这需要团队不仅得懂船舶动力学和AI模型，还得深度浸泡在一线的海洋工程现场。这是一种典型的跨学科系统工程，也是我们一直死磕的底层壁垒。</p>\n  <p><strong>硬氪：从产业现实来看，高阶水面智驾的商业化节奏会如何演进？仓潮为何采取L2标准化改造与L3/L4高阶系统并行的产品路线，背后逻辑是什么？</strong></p>\n  <p><strong>程晨：</strong>技术研发可以适度走在产业需求之前，但商业化落地必须匹配行业的政策、合规与客户的真实付费意愿。</p>\n  <p>当前内河水上智驾赛道参与者众多，市场竞争趋于饱和。在我们看来，行业真正的增量，并非仅仅实现船舶自主航行，而是来源于海上新能源基建催生的运维市场。海上风电、海上光伏的建设属于一次性资本投入，而设施长达十至二十年的全周期运维，才是空间更大的长期赛道。基于这一判断，仓潮的定位并非单纯的无人船硬件厂商，而是面向近海场景的无人作业平台服务商。</p>\n  <p>由此我们确立分层落地的产品策略。海枢船端智驾系列&nbsp;L2级智驾盒子，瞄准国内存量船舶智能化改造市场。产品实现模块化即插即用，单船改装部署仅需半小时至一小时，可适配救援艇、靶船、渔业作业艇等多类船体，覆盖G端、B端和C端等不同用户需求。一方面依靠标准化硬件快速完成市场渗透与产品验证；另一方面，在批量改造项目中持续沉淀近海真实工况数据，反哺高阶算法迭代。</p>\n  <p>而L3/L4级高阶智驾系统与大中型无人船，现阶段以试点项目为载体打磨系统能力，不追求盲目放量。</p>",
+      "category": "tech",
+      "published_at": "2026-11-28T02:00:00+00:00",
+      "fetched_at": "2026-11-28T06:01:14.148228+00:00",
+      "fingerprint": "bee3b05d9b247a8d"
+    },
+    {
+      "source": "少数派",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "url": "https://sspai.com/post/119658",
+      "summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...<a href=\"https://sspai.com/post/119658\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-27T08:32:46+00:00",
+      "fetched_at": "2026-11-28T06:01:12.798933+00:00",
+      "fingerprint": "c2ca67497c23e101"
+    },
+    {
+      "source": "少数派",
+      "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+      "url": "https://sspai.com/post/119686",
+      "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ...<a href=\"https://sspai.com/post/119686\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-28T00:47:47+00:00",
+      "fetched_at": "2026-11-28T06:01:12.798927+00:00",
+      "fingerprint": "bb77e3fa072b3d50"
+    },
+    {
+      "source": "少数派",
+      "title": "「黑五」值得买：不容错过的数码硬件优惠",
+      "url": "https://sspai.com/post/119651",
+      "summary": "除了软件服务，这个黑五还有这些硬件值得一看。<a href=\"https://sspai.com/post/119651\" target=\"_blank\">查看全文</a>",
+      "category": "tech",
+      "published_at": "2026-11-28T03:30:00+00:00",
+      "fetched_at": "2026-11-28T06:01:12.798917+00:00",
+      "fingerprint": "58ffcf9cc360d41a"
+    },
+    {
+      "source": "澳元兑人民币 (AUD/CNY)",
+      "title": "1 AUD = 4.4375 CNY ↑+0.41%",
+      "url": "https://www.frankfurter.app/2026-11-27?from=AUD&to=CNY",
+      "summary": "<div>参考日期: <b>2026-11-27</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.4375 CNY</b> <span style=\"color:#d9534f;font-size:14px;\">↑ +0.0182 (+0.41%) 升值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
+      "category": "rate",
+      "published_at": null,
+      "fetched_at": "2026-11-28T06:01:11.829148+00:00",
+      "fingerprint": "21cab3a49bfd63d9"
+    },
     {
       "source": "The Guardian - World",
       "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
@@ -1571,266 +1811,6 @@
       "published_at": "2026-11-22T01:05:44+00:00",
       "fetched_at": "2026-11-22T04:48:01.614302+00:00",
       "fingerprint": "072ec36586bf3d08"
-    },
-    {
-      "source": "The Guardian - World",
-      "title": "California’s coastal communities on alert as biggest waves in years hit state",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "summary": "<p>Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded</p><p>Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years.</p><p>Coastal warnings extended from last weekend through this week, with alerts extending until Friday night. Waves of 10-18ft are expected, with local sets of 18-22ft for San Luis Obispo county beaches and Santa Barbara county central coast beaches. These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days. Already, record-breaking rainfall affected San Fransisco on Wednesday, with heavy rain also causing 32,000 customers to lose power in Sacramento. Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California. By Sunday night, more than 100mm (4in) of rain is expected in places, with further snowfall for areas such as Donner Pass across the northern Sierra Nevada mountains.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state\">Continue reading...</a>",
-      "category": "politics",
-      "published_at": "2026-11-20T09:03:20+00:00",
-      "fetched_at": "2026-11-21T05:22:26.419908+00:00",
-      "fingerprint": "69465d17130aefc9"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "category": "politics",
-      "published_at": "2026-11-21T04:34:00+00:00",
-      "fetched_at": "2026-11-21T05:22:26.332631+00:00",
-      "fingerprint": "81231055e0a0be42"
-    },
-    {
-      "source": "BBC World News",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "category": "politics",
-      "published_at": "2026-11-20T22:37:09+00:00",
-      "fetched_at": "2026-11-21T05:22:26.332626+00:00",
-      "fingerprint": "397265b10097e3d9"
-    },
-    {
-      "source": "BBC World News",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "category": "politics",
-      "published_at": "2026-11-20T17:49:48+00:00",
-      "fetched_at": "2026-11-21T05:22:26.332621+00:00",
-      "fingerprint": "b489ac03011e847a"
-    },
-    {
-      "source": "BBC World News",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "category": "politics",
-      "published_at": "2026-11-20T22:42:47+00:00",
-      "fetched_at": "2026-11-21T05:22:26.332612+00:00",
-      "fingerprint": "53ba164e0140f69f"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
-      "url": "https://www.bbc.com/zhongwen/articles/cw7v2zlle4v4o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "備受矚目的Anthropic上市案，預料將讓其晉身美國十大最具價值企業之列，但AI產業前景依然存在變數。",
-      "category": "politics",
-      "published_at": "2026-11-20T07:52:14+00:00",
-      "fetched_at": "2026-11-21T05:22:26.221986+00:00",
-      "fingerprint": "0806164ae968e570"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
-      "url": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "四名男子性侵一名被其丈夫下藥的女子，被裁定性侵罪成。",
-      "category": "politics",
-      "published_at": "2026-11-20T09:24:25+00:00",
-      "fetched_at": "2026-11-21T05:22:26.221978+00:00",
-      "fingerprint": "9c43fea94c64c722"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "緬甸種族滅絕裁決影響深遠的歷史意義",
-      "url": "https://www.bbc.com/zhongwen/articles/c5n4eylmmg8po/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC國際編輯寫道，律師將研究岡比亞如何證明緬甸意圖實施種族滅絕。",
-      "category": "politics",
-      "published_at": "2026-11-20T08:53:00+00:00",
-      "fetched_at": "2026-11-21T05:22:26.221962+00:00",
-      "fingerprint": "c5b0031236adfc93"
-    },
-    {
-      "source": "BBC 中文 - 头条",
-      "title": "中俄美三方峰會「場面大於實質成果」",
-      "url": "https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC駐北美記者澤克爾：這次高峰唯一讓人留下的持久印象，或許只是歷史性的三方會晤的畫面。",
-      "category": "politics",
-      "published_at": "2026-11-20T05:46:09+00:00",
-      "fetched_at": "2026-11-21T05:22:26.221931+00:00",
-      "fingerprint": "37f97c10ace77692"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "We promoted developers into architects without informing them",
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-21T05:22:25.790606+00:00",
-      "fingerprint": "c884460ec18c9cae"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-21T05:22:25.790526+00:00",
-      "fingerprint": "e1c97d950edb3018"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-21T05:22:25.790425+00:00",
-      "fingerprint": "89c1b5008b7af961"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-21T05:22:25.790325+00:00",
-      "fingerprint": "3b3270b0917323ae"
-    },
-    {
-      "source": "Hacker News Front Page",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "",
-      "category": "tech",
-      "published_at": null,
-      "fetched_at": "2026-11-21T05:22:25.790212+00:00",
-      "fingerprint": "cb5e6e91712c9ca4"
-    },
-    {
-      "source": "The Verge",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-20T18:50:19+00:00",
-      "fetched_at": "2026-11-21T05:22:25.498867+00:00",
-      "fingerprint": "3afdf5a7b1a6fd8a"
-    },
-    {
-      "source": "The Verge",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-20T19:15:00+00:00",
-      "fetched_at": "2026-11-21T05:22:25.498861+00:00",
-      "fingerprint": "7fb40abee5825fd2"
-    },
-    {
-      "source": "The Verge",
-      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-20T19:35:06+00:00",
-      "fetched_at": "2026-11-21T05:22:25.498856+00:00",
-      "fingerprint": "580903835fa712d8"
-    },
-    {
-      "source": "The Verge",
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave [&#8230;]",
-      "category": "tech",
-      "published_at": "2026-11-20T20:43:52+00:00",
-      "fetched_at": "2026-11-21T05:22:25.498846+00:00",
-      "fingerprint": "28a72b175fa002be"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "Anthropic上市首日涨17%，市值一度冲至2万亿刀，AI热潮还能持续多久？",
-      "url": "https://36kr.com/p/4077873869099904?f=rss",
-      "summary": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_c6a1dc1594024cd28bb63bb580d5c2a6@6314151_oswg1060749oswg900oswg1030_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>Anthropic与科技巨头们唇齿相依</strong></p>\n  <p>&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_728e7b84a2254c5ab9cc000f76d339b9@6314151_oswg560oswg900oswg30_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>文<strong>&nbsp;|</strong>&nbsp;刘思洁</p>\n  <p>封面来源 |&nbsp;Unsplash</p>\n  <p><br />&nbsp;</p>\n  <p>11月19日，Anthropic（Nasdaq：ANT）<strong>正式登陆纳斯达克</strong>，股票发行价最终定在83美元，开盘价111.50美元，盘中最高涨至115.10美元，按完全稀释口径计算，市值一度约<strong>2.08万亿美元，按已发行股份计算约1.51万亿美元，</strong>收盘报97.17美元，收盘时较发行价高约17%。</p>\n  <p>其募资额也超越SpaceX，为813亿美元，刷新了全球IPO募资纪录。盘中最高时，Anthropic一度成为全球市值第六大的上市公司（<strong>完全稀释市值口径），</strong>位于Apple、Microsoft、Nvidia、Alphabet和Amazon之后。</p>\n  <p><strong>截至2026年9月30日约有5300名员工，按照盘中最高时市值计算，也就是说人均创造了3.925亿美元的市值，约为英伟达的4.7倍。而按照招股书的披露，过去12个月人均创造的营收超过660万美元。按照盘中最高股价计算，其七位联创的身家合计超过1900亿美元。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_eb7558d0d87d46078edcd168870b2746@6314151_oswg99723oswg1080oswg687_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Anthropic、英伟达、SpaceX三家公司人均创造的市值（数据取11月19日各家最高市值计算）</p>\n  <p><strong>此前，业内普遍存在一个担忧，Anthropic的上市，预示着AI行业泡沫要破了。</strong>10月，投资者还在谈论Anthropic上市估值可能达到约2万亿美元，临近上市，市场讨论回落到约1.2万亿至1.4万亿美元。而到上市时市值则又冲高至2万亿美元。</p>\n  <p>市场情绪起伏，在上市首日的股价上也得到了体现，最终收盘回落至97.17美元，而美股三大指数也全部收跌，道指跌2.19%，标普500指数跌2.02%，纳斯达克综合指数跌2.25%。<strong>尽管Anthropic首日收盘仍高于发行价，市场整体却在抛售股票，可见，投资者对高估值科技股和AI相关风险仍保持谨慎。</strong></p>\n  <p>当下，政策环境为AI的发展增加了一层不确定性。美国中期选举后，民主党将在明年1月取得国会多数。其党内近期的政策讨论更强调对AI公司加强问责、保护劳动者和消费者，并关注数据中心对电力、环境和当地社区的影响。</p>\n  <p>翻阅Anthropic的招股书，可以看到AI产业扩张的两个不同切面：收入快速增长的同时，算力和基础设施投入也在急剧扩大。Anthropic已签下大规模的多年算力采购和租赁安排，还使用可转换票据等方式为部分算力租赁提供融资。</p>\n  <p>从商业角度看，<strong>对Anthropic这样AI巨头来说，最大的问题不是继续拿资本、建算力，更应担忧的是：在需求波动、成本高企和政策收紧的夹击下，巨额投入能否持续兑现为商业回报。</strong></p>\n  <p>AI的泡沫破了吗？</p>\n  <p>本文从Anthropic的融资、产业链关系、收入和算力承诺入手，剖析这场AI资本盛宴由什么支撑，又会在哪些环节遇到压力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_2e99a21376b846f7b15b22d27ed64a0f@6314151_oswg1788oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>从1.24亿美元A轮融资，到2万亿美元市值，Anthropic如何一步步变大？</strong></h2>\n  <p>Anthropic最早公开披露的融资是2021年的A轮，由Skype联合创始人、投资人Jaan Tallinn领投，融资1.24亿美元。随着融资规模的扩大，投资者也从早期个人投资人和风投，扩展到大型基金、主权财富基金及科技公司。</p>\n  <p>2025年的E、F轮分别融资约35亿和130亿美元，2026年的G、H轮则分别融资300亿和约650亿美元。H轮后，公司披露的投后估值达到9650亿美元。<strong>融资规模与估值在短时间内同步跃升，是这段融资史最直观的特点。</strong></p>\n  <p>可见，从2025年开始，投资者对其模型能力、客户增长和未来市场规模的预期明显升高。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_a2414bf5d1b04f70b471b1c0919e28ea@6314151_oswg137566oswg1080oswg643_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">融资规模和市值变化图</p>\n  <p><strong>Anthropic的融资跃升，发生在全球资本集中涌向AI的背景下。</strong></p>\n  <p>经济合作与发展组织（OECD）统计，2025年AI企业获得约2587亿美元风投，占全球风投总额的61%，是2022年占比的两倍。</p>\n  <p>到了2026年上半年，世界知识产权组织（WIPO）统计的AI融资占全球风投金额已升至77%，OpenAI、Anthropic和xAI三家就占近43%。</p>\n  <p>融资热潮并未平均惠及整个AI行业，越来越集中在少数头部公司和超级大额交易中。</p>\n  <p>Anthropic的估值上升，正受益于这场资本集中的游戏。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_e60306b4679348548e42e481f37ac911@6314151_oswg2308oswg430oswg430_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>投钱的公司，也在卖算力、云服务和销售渠道</strong></h2>\n  <p>Anthropic与科技巨头之间，形成了多重交织的关系：它们既可能是投资人，也可能是云服务、算力或芯片供应商。在一些情况下，还可能通过可转债或融资额度提供资金。</p>\n  <p>以亚马逊为例，IPO前，其通过可转债和优先股投资了约180亿美元。</p>\n  <p>它既向Anthropic投资，又是其云服务和训练合作伙伴，AWS还通过Bedrock提供Claude的销售渠道。与此同时，Anthropic承诺未来向AWS采购大量算力。</p>\n  <p><strong>资本流入之后，Anthropic又要把相当一部分资金用于购买同一批巨头提供的云服务和算力。投资关系与供应链关系就这样连在了一起。</strong></p>\n  <p>这张关系网也延伸到其它美国大型科技公司，可以看到，美股“七姐妹”，也就是占据标普500指数总市值近40%的七家企业中，有四家都和Anthropic有投资及合作供应链关系。</p>\n  <p>——Amazon、Google、Microsoft、Nvidia分别以不同方式参与其中，既可能投资，也可能提供云、芯片或销售渠道。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_3d07bba5ed124c05b460ad8a79b349bd@6314151_oswg245885oswg1080oswg749_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">巨头们和Anthropic错综复杂的关系</p>\n  <p>目前，云平台还是Claude重要的销售。通过云服务商marketplace购买Claude产生的收入占比，从2023年的11%升至2025年的47%。2026年前九个月约为44%。对Anthropic来说，通过这些云平台销售Claude，可以借用这些平台已经建立的企业客户关系、采购流程和云上基础设施，让企业客户更容易试用、采购并接入Claude。</p>\n  <p>对Anthropic来说，这些关系有助于获得扩张所需的资金、算力和企业客户入口。对巨头来说，则可能带来股权收益、云服务收入、芯片需求或模型生态中的位置。</p>\n  <p>这种交织关系也延续到了上市阶段。Anthropic在11月10日公布的最新招股书披露，Google、Nvidia、Microsoft等七家公司同意在IPO同时，按发行价合计购买260亿美元的不带投票权的N类股票。</p>\n  <p><strong>Anthropic的增长因此与大型科技公司的资本和基础设施深度相连，巨头们互相依赖，也在这场狂欢中共同获利。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_5b5bf5e81d0f4b57a9c42867feb7fdf8@6314151_oswg2380oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>收入能否证明需求是真的？</strong></h2>\n  <p>据招股书披露，截至2026年9月30日的九个月，Anthropic收入为332.42亿美元。其中，按使用量计费收入263.06亿美元，占约79%。订阅收入69.36亿美元，占约21%。换句话说，它的收入大头是大客户调用Claude、消耗算力后产生的费用。</p>\n  <p>这意味着客户使用得越多，Anthropic收入可能越高，如果客户减少调用、转向更便宜的模型，或者预算收紧，这部分收入也可能波动。</p>\n  <p>Anthropic将过去12个月消费超10万美元的客户，视为衡量企业级市场渗透率的核心指标。截至2026年9月底，这类客户贡献了过去9个月约74%的收入，数量超过11900家。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_741827c7d35148659f44ab12c877aa0d@6314151_oswg85764oswg1080oswg689_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">各类收入占比</p>\n  <p><strong>Anthropic的故事是否能继续，取决于大客户能否持续使用Claude，使得收入能覆盖长期的算力投入。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_800388a865a44c989cf88d8ee802bea7@6314151_oswg2613oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>算力压力，欠未来的账</strong></h2>\n  <p><strong>截至2026年9月的九个月，Anthropic营业亏损约12.6亿美元，净亏损约1040.39亿美元。</strong></p>\n  <p><strong>不过净亏损中有约943.24亿美元来自可转债、衍生品和SAFE等项目的公允价值变动，主要是融资估值上升带来的账面调整，这不等于公司在这九个月里实际花掉了同样多的现金。&nbsp;</strong></p>\n  <p><strong>同期，公司经营活动现金流为正约66亿美元。</strong></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_27ef3c8388b84842acee8bc88e717fc4@6314151_oswg86891oswg1080oswg709_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">亏损来源图，与现金流对比</p>\n  <p>更实在的经营压力在算力成本上。<strong>Anthropic披露，2026年前九个月的算力和基础设施费用约188亿美元，相当于同期收入的约57%，并称这项费用预计在可预见时期内仍是最大运营开支。</strong></p>\n  <p>招股书披露，截至2026年9月底及之后，公司已签订的算力、基础设施采购和租赁安排，承诺支出合计约9009亿美元。这些钱分布在多年合同中的未来支出，公司预计约4516亿美元将在2030年底前发生，未来12个月预计到期约707亿美元。</p>\n  <p>这些承诺也把Anthropic与多家供应商长期绑定：公司承诺向Amazon至少支出1100亿美元、向Google Cloud至少支出约1213亿美元、向Microsoft 至少支出472亿美元。另外还向SpaceXAI、Nscale、Lambda等采购GPU算力，并通过 Broadcom等安排租赁计算设备。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_a11e06119eb245858c949d9a9abdcef0@6314151_oswg2374oswg900oswg181_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <h2><strong>AI泡沫要破了吗？</strong></h2>\n  <p>AI行业的债务在扩张，据CNBC报道，高盛统计，今年超大规模云厂商已发债约2960亿美元，超出年初预测的2500亿美元，并预计明年达到4400亿美元，另有约3000亿美元的项目级融资。太平洋投资管理公司（PIMCO）称，AI相关借款人已占今年美国非金融投资级长期债券发行量的近一半。压力信号出现了：算力云服务商CoreWeave一只2032年到期的债券，收益率升破16%。</p>\n  <p><strong>这种靠举债支撑基建扩张的模式，不得不让人想到2000年前后的电信泡沫。当时的一个典型特征是设备商向客户提供融资，客户再用这笔钱购买设备，最后需求跟不上产能建设的速度，链条断裂。</strong></p>\n  <p>AI产业链里已经出现了类似结构。</p>\n  <p>Anthropic也在这条链条上。招股书披露，它可以向博通或其指定的融资伙伴发行最高420亿美元的可转换票据，专门用于支付租赁基于谷歌TPU的设备的租金，设备由博通向谷歌购入，再租给Anthropic的子公司，租期五年，租金合计约1252亿美元，票据约覆盖其中的三分之一。</p>\n  <p>正常情况下，票据年利率9%，利息计入本金，持有人可按30日均价的90%折价转股。在协议约定的收入条件未达标期间发行的票据，利率为13%，转股折价为15%。</p>\n  <p>截至2026年9月底，票据尚未发行，公司称预计IPO前不会出售。但若一旦动用，风险主要体现为对现有股东的稀释。而博通既是设备出租方，又是潜在债权人，招股书也提示了这种与供应商之间的利益冲突。</p>\n  <p>真正说明融资环境变化的，是评级预期。据《金融时报》报道，Blackstone是Anthropic一笔约630亿美元芯片融资的主要投资者，它此前告诉投资者，Anthropic有望在2027年前获得投资级评级，后来改口，称上市后更可能是BB档的“高级垃圾债”评级；KBRA已在6月给出BB+。评级越低，融资越贵，而Anthropic和它的供应商扩张算力，都离不开这类融资。</p>\n  <p>这条链条上的供应商也是如此。招股书新增的风险因素写明，部分算力提供方和基础设施伙伴依赖第三方融资或信用支持来采购芯片、建设产能，一旦融资不可得或更贵，已约定的算力可能被延迟、重新定价、减少或无法交付。</p>\n  <p>比如Nscale，合同要求它在截止日前尽最大努力，为GPU系统和数据中心取得融资。&nbsp;</p>\n  <p>场地同样是前提。Anthropic与Lambda那份约349亿美元的协议约定，若Lambda没能在约定日期前拿到数据中心的设施租约，任何一方都可以终止。11月10日的招股书修正案披露，Lambda没有按时拿到租约，这份协议目前可由任何一方终止。双方均未发出终止通知，Anthropic称目前不打算终止。</p>\n  <p>Anthropic的招股书没有给出“AI泡沫已经破裂”的确定答案。公司收入仍在快速增长，经营现金流为正，这次的IPO认购热潮也显示其仍有大量资金支持。但另一面，算力和基础设施费用已占前九个月收入约57%，多年期采购和租赁承诺约9009亿美元，融资方也开始重新评估相关风险。</p>\n  <p>对于投资者来说，真正应该关心的风险正是在未来——需求能否追赶上算力。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_12d39773d41e45cd996c3e794a166e06@6314151_oswg56928oswg883oswg240_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_9416eb5a82254baca52a46cf91623da4@6314151_oswg2783oswg900oswg74_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p><strong>你觉Anthropic��价后市走向是？</strong></p>\n  <p><strong>欢迎在评论区分享你的看法~</strong></p>",
-      "category": "tech",
-      "published_at": "2026-11-20T09:14:53+00:00",
-      "fetched_at": "2026-11-21T05:22:25.377494+00:00",
-      "fingerprint": "bf0443663fed95c1"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "一届学生60万？外国玩家：想来中国上学了 | 玩点好的",
-      "url": "https://36kr.com/p/4077807099057031?f=rss",
-      "summary": "<p>文丨句号</p>\n  <p>编辑丨果脯</p>\n  <p>“如果我是老师，我肯定不会对学生这么坏。”</p>\n  <p>可能是在被罚站时，也可能是被老师喊来家长后，这样的想法总是会瞬间被唤醒。《我带过的最差一届》（以下简称《最差一届》），一款非对称式派对游戏，给了玩家们一次师生身份转换的机会。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_c8072a67d4634387aee487f5312c5c79@6449318_oswg422961oswg800oswg450_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《我带过的最差一届》官方宣传图</p>\n  <p>由B站up主夜之黄泉带队顽核社开发，《最差一届》在Steam新品节上斩获超过60万下载量，发售首日销量即达成10万份。爆笑的节目效果引得各路主播纷纷加入这场校园乱斗，在中文社区之外，中式校园题材也吸引着越来越多的海外玩家。</p>\n  <h2><strong>01 追我的不只是情怀，还有老师？</strong></h2>\n  <p>在《最差一届》中，玩家分为不对称的两个阵营，与现实相符，老师在游戏中需要以一敌多，而学生阵营更加考验团队协作，搭配默契才有取得胜利的可能。</p>\n  <p>游戏没有剧情，玩家自己的经历就是最好的新手引导。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_5bdd90a1cbb648c8892444fbd8a32e34@6449318_oswg590718oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>蓝白校服配上天然呆的大眼睛，学生们给人带来的第一印象绝对是软萌的，但他们挑衅的动作摆出来，你又会瞬间觉得他们有些欠管教。</p>\n  <p>这是因为有些真人玩家混进了这批NPC的队伍，惹老师生气就是他们来到学校的使命，不要让他们离开你的视线，否则你将想象不到他们会做出怎样的恶作剧。《最差一届》可不是一个和平的游戏。</p>\n  <p>和经典的非对称对抗游戏不同，学生的任务不是狂点QTE修电机，也不需要拉点和砸板，学生与老师的关键博弈点在于课桌底下的小动作。相比于现实的校园，他们做得更加出格，大家的课桌中一本书都不剩，而是被各种各样的“垃圾食品”取代了位置。薯片、可乐、干脆面、泡泡糖，只要不被老师抓住，你甚至可以从头吃到尾。吃掉更多的东西，积累足够的捣蛋值，便可取得阵营胜利。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_bd930c14f7c7462dbf9d70bf1a23969a@6449318_oswg619633oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">游戏内截图</p>\n  <p>作为老师，自然不会允许学生在自己的课堂上胡作非为。老师具有更高大的身材以及充满压迫感的容貌，和现实的教师一样，站在讲台上或者是教室后门，能将整个教室的小动作看得一清二楚。对于违规违纪的坏学生，老师将展示自己惊人的FPS天赋，用粉笔将学生爆头后，再像拎小鸡似的将学生捆在讲台上罚站。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_e26c14c7daf3455fbbf544962aca9b2f@6449318_oswg145588oswg858oswg479_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>面对老师，有时候身法好不如演得像，当你想要干坏事，抓住老师写板书的空档期是最保险的做法。游戏最刺激的点就在于此，你需要一边低头吃东西，一边观察老师的下一步动作。当老师即将写完板书回头，你必须在瞬间完成放下薯片、收起抽屉、拿起课本等一系列操作。</p>\n  <p>当老师巡视到你身边，你还得抽空翻翻课本、用一双大眼睛望向老师，展示一番你的天真无邪。老师站在身边，下一秒是扔出粉笔，还是默默走开，这种提心吊胆的感觉，是游戏能成为笑点制造机的关键。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_e35b004afb314716ac9f761621c836b2@6449318_oswg936481oswg1080oswg579_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>假如只是偷吃零食，这届学生还算得上安分，只有当你进一步清查抽屉，才能够真正理解他们“最差一届”的含金量。学生冷不丁的就会从抽屉掏出闪光弹和烟雾弹对讲台上的老师进行攻击，还能熟练操作无人机进行远程救援，为了与学生对抗，老师也可以启用摄像头与雷达来增加自己的眼线，打学生们一个措手不及。</p>\n  <p>学生们扔扔道具就好了，而老师考虑的就要多了。作为金牌教师，拿粉笔无差别打击学生未免有失风度，于是游戏为老师添加了体力机制。老师奔跑和投掷粉笔都会消耗体力，错抓好学生将会受到扣除体力值的惩罚，只有在讲台上写板书时体力才会得到回复。为了应对精力充沛的学生，老师只有合理运营体力才能打好这场拉锯战。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_b6358f047804474591607363f1a8d739@6449318_oswg429897oswg793oswg404_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>游戏正式上线后具有更加丰富的地图选择，封闭的教室不再是师生大战的唯一场景，从机房到寝室，从厕所到操场，每个地方都可能成为两方对决的“刺激战场”。不同的地图设置了不同的场景交互，玩家能够在其中全方位重温自己的校园记忆。</p>\n  <p>趁着老师下台巡视的机会，从教室后门潜入老师的办公室，将抽屉内的盒饭吃个干净；在微机课上，悄悄切出老师的操作界面，打开角落的黄金矿工玩个痛快。曾经在校园中压抑的天性，在这一刻得以全部释放。</p>\n  <p>当玩家下课来到厕所，你会发现隔间里的人赖着不走，都在争分夺秒地啃食零食。学生们为了争取更高的分数，吃过的零食包装袋也顾不及冲进马桶，吃得太多时，包装袋甚至直接堆成了小山从隔间内溢出。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_4eab99782b4e4f4d8d723f421393ab8d@6449318_oswg864560oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>《最差一届》里，老师再也不会占用学生的体育课，学生可以与NPC一起，畅快地绕圈跑步，也能够假装掉了鞋带，偷偷跑到自动售货机面前大吃一顿。在对局中，广播站成为老师和学生的必争之地，学生想要播放《雨爱》和“哈基米音乐”，要先闯过老师手里的教鞭。</p>\n  <p>游戏正式上线后还加入创意工坊，玩家可以尽情接入mod，用自己喜欢的角色开办一场校园cosplay。曾经连头发长了一寸都要判“死刑”，而现在，一般的奇装异服在猫娘学生和奶龙老师面前已经有点不够看了。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_837e8ee11b6d46779272d9985a528311@6449318_oswg371340oswg804oswg543_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Steam创意工坊界面截图</p>\n  <p>《最差一届》有着不同于现实校园的自由，但这种创意并不会使玩家感到陌生。当你邀约自己的旧友加入游戏，你会发现，那些散落在校园每个角落的欢声笑语，仍然还是我们熟悉的温度。</p>\n  <h2><strong>02 中式校园这么大，老外很想来看看</strong></h2>\n  <p>蓝白校服与校园生活，这种搭配并不是第一次在中文社区走红。</p>\n  <p>国产原创动画《茶啊二中》于2014年开播，动画的内容是一群师生最平常最普通的校园故事，但他们一口气将这个故事讲述了十二年，足够陪伴一名中国孩子从小学到大学。动画组于2026年7月开播第六季，剧集中塑造的王强、贾淳、石老师等经典形象，得到全网5000万粉丝的青睐。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_10825b265d204a8aae742f7719382e50@6449318_oswg831536oswg720oswg954_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《茶啊二中》官方宣传海报</p>\n  <p>十二年时间，动画的建模水平有着极大的改良，但人物服装仍然是朴素的蓝白运动服，制作组并没有把校园的象征符美化到脱离现实的地步，而是坚持用最真诚的日常打动每一个观众。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_3a94cf0ec46c4cc9a57203f4e4260932@6449318_oswg847699oswg1080oswg605_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">动画剧集内截图</p>\n  <p>在学生时期看校园作品，我们往往用它们作为自己的嘴替。还记得当初玩《中国式家长》的时候，总是会想让自己的家长去感受一下作品出表达的内核，去体会下当时校园的我们承载着过多的期望，到底过的有多不容易。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_48c4b646b0184f15a0d1561ca38704c0@6449318_oswg67155oswg1080oswg432_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《中国式家长》游戏宣传图</p>\n  <p>而从校园离开后，对于学校里发生的日常，除了共鸣之外，还多了一份“怀念”的味道。</p>\n  <p>上个月，灭霸短剧火遍全网，一句“灭霸的爸爸叫什么”，成为不少人与校园伙伴心照不宣的口头语。跳出漫威原著的框架，在中式校园的背景下，“灭霸父亲”这个身份被赋予了新的名字——灭建国。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_f3828d7e34494b118c2f7ccff00ea0c1@6449318_oswg185287oswg1080oswg1068_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Bilibili平台up主“在酒馆的溟歌”原创漫画</p>\n  <p>在AI短剧中，灭霸与复仇者联盟一笑泯恩仇，在这个平行世界中，大家都是学校中的一分子，各位超能力者也只是能力比较突出的“普通学生”。</p>\n  <p>没吃过海底捞的灭霸，为了与同伴合群而穿上潜水服出门；灭霸暗恋黑寡妇，钢铁侠替他送出超长蛋挞撮合两人；嘲笑深夜emo文案后，灭霸一言不合就要告老师，钢铁侠只能献出辣条充当封口费；被父亲批评后，灭霸下定决心要做一个无情的学习机器……每一个小故事，总能让我们找到自己的影子。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_b64fa2d881a34af6ac8b7e4bd605c96d@6449318_oswg707296oswg1080oswg705_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">社区AI二创图</p>\n  <p>灭霸短剧很滑稽，但有时也很动人。B站up主在“灭建国”梗的基础上接续创作，一部《灭建国的超能力》在站内播放超600万。短片内，灭建国拥有“将任何事物消灭一半”的能力，但一辈子只能够使用一次，灭建国在高考、结婚、创业等人生节点时，都没舍得使用。但在儿子灭霸受伤时，灭建国毫不犹豫地启动了能力，帮助灭霸减少了一半伤痛。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_51d3c22ba5774586bd54c89d93203a27@6449318_oswg1220265oswg1080oswg907_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Bilibili平台up主“抽象生活先生”原创漫画截图</p>\n  <p>同学的友谊、家人的爱、老师的陪伴，中学时期全心投入学习的日子很苦涩，但经历过后才能感受到这些苦涩中的微光更加温暖。与其说是校园生活本就幸福，不如说是时间冲淡了苦，只给记忆存下成长的本味。在规则为主的校园，很多情绪没有表达的窗口，不能明目张胆喜欢一个人，不能抛开学业发展自己的兴趣爱好，面对焦虑不能轻易认输，连接家与校园的，往往只剩下一座四四方方的电话墙。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_cb0204810c264d9ca9efc5454d9fcbe7@6449318_oswg319805oswg627oswg407_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">央美毕业展网络照片</p>\n  <p>这种对校园又爱又恨的情感，除了在中文社区爆火外，同样感染了不少海外玩家。尽管游戏的海外译名并没有像“最差一届”这样的文化符号意义，但玩家们还是对中式校园堪比坐牢的固有印象有所改观。</p>\n  <p>“你们在学校真的可以涮火锅吃吗？”这是我在《最差一届》的英文房中，一位外国朋友对我发出的诚恳疑问。</p>\n  <p>在Steam评论区中，还有一位法语玩家坦言，自己的朋友放弃了高中结业，这款游戏让他怀念起过去的事。青春未结的遗憾，许多人在游戏中得到了补足，或许曾经在学校中偷藏手机被发现的经历很惨痛，但在游戏中，这种“轻惩罚”的机制让你可以更加放心大胆地去突破规制，寻找曾经更活跃且更有想象力的自己。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_6f6aa3435ea9433fa5f6c5527bfa7f0e@6449318_oswg172522oswg1080oswg729_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Steam评论区截图</p>\n  <p>在对局中，一些玩家终于理解了老师的辛苦，因为游戏里“老师体力太少”，“学生太多管不过来”，经常把扮演“老师”的玩家整到力竭，而游戏中的老师往往只是1v5或1v6，现实中的老师需要对付的是十倍于此的学生。</p>\n  <p>而一位老师也在评论区中表示自己的庆幸，自己的学生还好只是会打瞌睡和玩手机，倒不至于向老师扔闪光弹。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_c34ed1e7fa91479d80280af07de27cf6@6449318_oswg122793oswg903oswg294_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">Steam评论区截图</p>\n  <p>地图中，不少地方还埋藏了暖心的小彩蛋，例如黑板上总会时不时刷新老师关切的话语，表示即使我们离开校园，老师也坚持用最朴素的情感联系着每一届教过的学生。这种纯粹的师生情，正是维系不同文化背景的玩家一同进行游戏的精神内核，虽然我们的校园环境各异，但在游戏中，你总能联想到在此背景下给你留下深刻印象的那个，或者是那群人。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_defb7f4545d5410182f2a5c226af8576@6449318_oswg53331oswg1080oswg600_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《我带过的最差一届》游戏内截图</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_02434da151d94460a41b5bb1310c94d1@6449318_oswg489521oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">《我带过的最差一届》游戏内截图</p>\n  <p>据制作人黄泉透露，在游戏demo阶段，《最差一届》的海外玩家占比约15%。这意味着，在武侠与仙侠等经典国风题材之外，中式校园这一叙事场景，正在悄悄成为国产游戏出海的新路径，为了感受这种校园里纯粹的快乐，不少外国玩家甚至愿意在游戏中上一节汉语言课。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20261120/v2_033bb8f2c4954f39a631df9da8f641fa@6449318_oswg703827oswg1080oswg602_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">小黑盒社区截图</p>\n  <p>游戏上线后市场表现亮眼，首周销量突破60万份，但制作组并未松懈，短时间内便上线了新版本的“秋游大巴”地图和更加生动有趣的舞蹈动作，让游戏的欢乐属性更上一层楼。</p>\n  <p>不难注意到，《最差一届》制作组从demo到上线再到第一次版本更新，相隔的时间非常短暂，一方面可能是考虑到游戏的同质化玩法很容易使玩家丢失新鲜感，而丰富的校园场景资源还有很大的开发余地；另一方面，《最差一届》的开发门槛较低，微信小程序上已经出现不少借助AI仿制的同类作品。</p>\n  <p>AI虽然能仿造游戏的外衣，但对于玩法的核心则很难做出实质性改变，让游戏的主要吸引力从情怀转向内容本身，是黄泉带领团队亟待要做的事。</p>\n  <p>本文<a href=\"https://mp.weixin.qq.com/s/662ObvsK8WSbyMkkGJdgyA\" target=\"_blank\">首发自“36氪游戏”。</a></p>",
-      "category": "tech",
-      "published_at": "2026-11-20T10:14:14+00:00",
-      "fetched_at": "2026-11-21T05:22:25.377488+00:00",
-      "fingerprint": "455454e818cb219e"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "9点1氪丨黄仁勋或将创办新公司；水贝金价一度跌破800元/克；纳指100进入技术性熊市",
-      "url": "https://36kr.com/p/4078827757310856?f=rss",
-      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>上证50ETF尾盘爆量拉升，成交突破215亿创成交额历史天量</p>\n  <p>英伟达市值被谷歌超越</p>\n  <p>12306重磅升级通知服务</p>\n  <p>马斯克试图与MAGA阵营切割</p>\n  <p>段永平：好公司未必要上市，字节6000亿美元估值下我会有兴趣</p>\n  <p>A股三大指数集体收跌，全市场超5200股飘绿</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>黄仁勋或将创办新公司</strong></p>\n  <p>前英伟达首席执行官黄仁勋的去向成为硅谷热议话题。科技媒体Semafor记者预测，黄仁勋休整后或重返AI行业，有可能创办一家新半导体公司，或向业内盟友筹集500亿美元创业资金，但该内容仅为预测，目前并无信息证实其已筹资或成立新公司。该记者表示英伟达董事会做出与黄仁勋切割的决定经过深思熟虑，很难因外部压力更改。另有业内人士认为黄仁勋仍存在回归英伟达的可能性，若其创业，或将对英伟达形成竞争，英伟达短期产品规划已定，长期发展则要看下一任CEO的能力。（财联社）</p>\n  <p><strong>水贝金价一度跌破800元/克</strong></p>\n  <p>在深圳水贝咨询商家了解到，11月20日中午1点多，该市场实时金价一度跌破800元/克，达797元/克，而这一价格在11月19日还为超840元/克，如果不算手工费，同样购买5克的黄金首饰，11月19日买的11月20日已经亏去200多元。不过到下午2点多，水贝金价重回800元/克上方，目前约为806元/克，如果是购买金条，价格更低至每克760多元。金价下跌，位于深圳水贝的水贝金座、金展珠宝广场等人头攒动。据了解目前顾客购金主要出于婚庆、送礼、投资等多种需求，也有顾客在观望，称“先来看看款式，等金价降了再买。”（贝壳财经）</p>\n  <p><strong>美股抹去年内所有涨幅，纳斯达克100指数走入技术性熊市</strong></p>\n  <p>当地时间11月20日，美股三大指数集体大幅收跌，截至收盘，道琼斯指数跌1.93%，连跌第五天，报48147.33点；标普500指数跌3.7%，连跌第七天（创2020年来最长连跌纪录），报6910.39点；纳斯达克综合指数跌5.28%，报22617.73点，抹去了年内所有涨幅。</p>\n  <p>三大指数均录得4月以来最低收盘价，其中道指和标普双双进入回调区间（较高点回落10%），纳指本周早些时候已经率先进入回调区间。</p>\n  <p>科技股纯度更高的纳斯达克100指数周五跌幅更大，达到5.61%，也抹去了年内所有涨幅，并且较高点回落20%，进入技术性熊市。（新浪财经）</p>\n  <h2><strong>AI最前沿</strong></h2>\n  <p><strong>腾讯混元正式开源Hy4</strong></p>\n  <p>36氪获悉，腾讯混元宣布Hy4正式开源，可在GitHub、Hugging Face、ModelScope和GitCode社区下载部署。混元LLM模型已全部开源，包括Hy3 preview、Hy3、Hy4 preview、Hy4、Hy4 flash等。</p>\n  <p><strong>苹果公司研发自己的AI智能体，拟与OpenAI和Anthropic竞争</strong></p>\n  <p>苹果公司正在开发可以代表用户完成任务的自主AI智能体，并希望进入这个已被OpenAI、Anthropic PBC、Meta Platforms Inc.及其他公司占据的快速增长的市场。苹果公司本周在网站上列出的招聘信息揭示了这一计划。其中一则信息称，苹果正在为一款主动式、智能AI助手寻找一位高级工程师经理。根据招聘信息，该系统将代表用户编写代码、浏览网页、控制应用程序和操控设备。（新浪财经）</p>\n  <p><strong>腾讯云：2026年11月18日12时起，DeepSeek原厂服务端联网搜索免费</strong></p>\n  <p>36氪获悉，腾讯云公告，自北京时间2026年11月18日12时起，调用DeepSeek原厂直供模型（即模型名称中带“原厂直供”标识的模型）时触发的服务端搜索（Search）、网页抓取（Fetch）不再计费，仅按模型Token用量计费。对于11月18日12:00:00后产生的服务端联网搜索费用，我们将启动退费，费用将于11月30日23:59:59前统一退还。</p>\n  <h2><strong>大公司/大事件</strong></h2>\n  <p><strong>字节高管辟谣离职</strong></p>\n  <p>11月20日，网传原抖音CEO、剪映和即梦AI负责人张楠，原飞书CEO谢欣将从字节跳动离职。字节跳动相关负责人回应称信息不准确。谢欣本人发文辟谣，称离职消息为假，浪费大量时间回复问询。（第一财经）</p>\n  <p><strong>苹果相机及照片软件业务负责人离职</strong></p>\n  <p>据报道，苹果公司负责相机及照片软件业务的高管已经离职。知名科技记者古尔曼援引知情人士的话称，乔恩·麦考马克（Jon McCormack）已于10月底退休，结束了其在苹果公司超过八年的职业生涯。他此前负责管理iPhone的“相机”和“照片”应用，以及决定用户如何拍摄、查看和编辑照片及视频的底层技术。报道称，苹果尚未任命新的副总裁来直接接替麦考马克的职位，他此前的下属将在其他高管的领导下接手相关职责。（界面新闻）</p>\n  <p><strong>贾国龙切入火锅赛道，新店人均消费102元</strong></p>\n  <p>11月19日，西贝旗下“天边冰煮鲜羊”呼和浩特首店开业，由原天边砂锅焖面门店改造而来，人均102元，标志着天边系列正式切入内蒙古冰煮羊火锅赛道。天边系列今年多次调整业态，从焖面到鲜羊料理再到火锅，扩张后续乏力，门店数量冲高后回落。西贝主品牌门店持续收缩，贾国龙夫妇已将所持西贝餐饮集团全部直接股权质押。此前西贝曾披露大额亏损，通过关店、孵化新品牌自救。（界面新闻）</p>\n  <p><strong>娃哈哈董事长据悉已辞职，商标归属仍悬而未决</strong></p>\n  <p>11月20日，界面新闻获悉，娃哈哈集团董事长许思敏已辞职，该消息公司尚未回应，其辞职或与12月1日即将实施的《食品委托生产监督管理办法》带来的法定责任风险有关。当前娃哈哈商标归属、授权使用问题仍未彻底厘清，商标转让手续尚未办结，娃哈哈集团与宏胜体系之间的权责划分存在不确定性，叠加渠道经销商保证金回款不及预期，企业经营仍面临多重挑战。（界面新闻）</p>\n  <p><strong>英伟达市值被谷歌超越</strong></p>\n  <p>11月20日美股开盘后，英伟达股价跌幅扩大至4.5%，报139.43美元，创下2025年6月以来股价新低，总市值回落至3.36万亿美元，市值被谷歌反超。该股收盘跌14.01%，报125.53美元。（财联社）</p>\n  <p><strong>12306重磅升级通知服务</strong></p>\n  <p>新增候补兑现、列车变动实时推送，多渠道同步提醒旅客出行动态。11月20日起，铁路部门在12306App系统通知新增候补兑现情况、列车运行调整通知服务。旅客办理购票、改签、退票、候补等业务，相关信息将同步通过App通知、微信/支付宝、预留邮箱推送；列车停运、折返、席位调整等变动，也会通过App、短信及时告知。旅客可在首页右上角查看通知消息，也可前往设置开启通知权限。（中国铁路）</p>\n  <p><strong>马斯克试图与MAGA阵营切割</strong></p>\n  <p>美东时间11月18日，马斯克公开表态称自己不属于MAGA阵营，坦言在中期选举中投入巨额资金支持共和党，如今回看感觉相当愚蠢。此前马斯克曾公开支持MAGA运动，累计向共和党捐赠4.45亿美元。11月19日特朗普回应，仍视马斯克为朋友，但同时提醒MAGA有明确内涵，偏离者不会有好结果。本次中期选举民主党拿下参众两院控制权，后续民主党议员计划对马斯克相关事项发起调查，马斯克也在推进太空算力中心布局。（参考消息、界面新闻）</p>\n  <p><strong>台积电子公司斥资5亿美元认购Anthropic股票</strong></p>\n  <p>台积电11月19日公告称，旗下子公司TSMC Partners,Ltd.投资Anthropic，认购其602.41万股N类普通股，每股价格83美元，交易总金额约5亿美元（499999968美元），价格与IPO发行价相同。（界面新闻）</p>\n  <p><strong>GTA6发售首日获得23.6亿美元收入</strong></p>\n  <p>历经13年等待，《GTA 6》正式发售，Sensor Tower估算截至周四晚间销量2458万份，带来约23.6亿美元收入，约为《GTA5》首日销售额三倍。本作Metacritic媒体均分99分，跻身游戏史上最高分作品。业内预计PC版及线上模式或2027年上线，其线上生态的商业化潜力被机构重点看好，游戏发售还将带动主机、外设、外卖等上下游消费。（财联社）</p>\n  <p><strong>华泰证券辟谣：网传市场言论非公司研究所相关人员发表</strong></p>\n  <p>36氪获悉，华泰证券发布声明：我司关注到近期部分网络、境外平台传播的相关市场言论。经核实，该内容并非我司研究所相关人员发表，属于不实信息。我司所有证券研究观点，均严格按照监管要求履行内部审核流程后对外发布。请广大投资者理性甄别网络信息，不要采信、转发该不实内容。对于编造、传播不实信息的行为，我司支持当事人依法维护自身合法权益。</p>\n  <p><strong>段永平：好公司未必要上市，字节6000亿美元估值下我会有兴趣</strong></p>\n  <p>36氪获悉，11月20日，投资人段永平通过其账号“大道无形我有型”回答网友提问时称，字节跳动确实很强，但他们好像没有上市的计划。这是一个很好的例子，好公司未必就一定要上市的。字节目前市场估值大概在6000亿美元，这个价钱我会有兴趣的。</p>\n  <p><strong>A股三大指数集体收跌，全市场超5200股飘绿</strong></p>\n  <p>36氪获悉，A股三大指数集体收跌，沪指跌1.22%，深成指跌3.09%，创业板指跌3.54%；电脑硬件、互联网、工业机械板块领跌，汇成真空跌超14%，品高股份跌超13%，江波龙跌近7%；石油天然气、保险、银行板块涨幅居前，中国石油涨超4%，工商银行涨超3%，中国平安涨超1%；全市场超5200股飘绿。</p>\n  <p><strong>美光：2027年存储芯片供需形势会比今年更加紧张</strong></p>\n  <p>美光科技总裁兼首席技术与产品官Scott DeBoer在接受采访时表示，存储芯片的供需在很长一段时间内都无法达到平衡。他指出，在可预见的未来，供需找不到明确的平衡点，预计2027年供需形势会比2026年更加紧张。（财联社）</p>\n  <p><strong>上证50ETF尾盘爆量拉升，成交突破215亿创成交额历史天量</strong></p>\n  <p>尾盘上证50ETF华夏爆量拉升一度涨1%，早盘一度跌超2%，现成交额突破215亿，较11月19日全天增超7倍，刷新此前在2026年1月28日创下的214.5亿元的历史天量。（财联社）</p>\n  <p><strong>贷款方试图禁止SpaceX将价值400亿美元芯片发射到太空</strong></p>\n  <p>知情人士透露，为SpaceX最新一笔430亿美元债务融资提供支持的贷款方，正试图限制埃隆·马斯克，不允许他把这笔融资的抵押品——高端AI芯片发射到太空，用于其轨道数据中心计划。SpaceX方面称，这笔债务对应的芯片计划在地面使用。但贷款方心存顾虑：如果公司后续决定把这笔作为贷款抵押物的贵重芯片送入太空，一旦发生违约，贷方将无法收回、处置这些半导体资产。（财联社）</p>\n  <p><strong>Anthropic数学家声称借助Claude证明黎曼猜想</strong></p>\n  <p>Anthropic员工、数学家Levent Alpöge对外表示，在大模型Claude协助下完成黎曼猜想证明，还称已经证明范围更广的广义黎曼猜想。该证明已经通过Lean工具做形式化编码校验，不过整个论证的正确性仍有待全球数学界核验。黎曼猜想是千禧年百万美元悬赏的顶级数学难题，距今已有167年历史。若证明最终成立，将对整个数论领域带来变革，也标志AI数学能力实现重大跨越。（财联社）</p>\n  <p><strong>招商银行发布贵金属业务市场风险提示</strong></p>\n  <p>36氪获悉，招商银行发布贵金属业务市场风险提示称，近期贵金属市场的不确定性因素较多，价格波动加剧。请投资者提高贵金属业务的风险防范意识，基于自身财务状况、风险承受能力及投资经验，理性开展贵金属投资活动，合理控制贵金属资产持仓规模，避免短期投机或跟风交易，从长期资产配置视角理性配置贵金属资产，控制投资总量，做好多元布局。</p>\n  <p><strong>韩国驳回特斯拉为FSD提交的车辆安全标准豁免申请，要求补充相关材料</strong></p>\n  <p>韩国国土交通部周五表示，由于申请材料不全，无法受理特斯拉公司提出的豁免当地车辆安全标准的请求，该请求旨在获准在韩提供其“全自动驾驶”（FSD）功能。韩国国土交通部称，韩国交通安全公团已通知特斯拉韩国公司，进行技术评估尚需进一步核实并补充相关材料。（新浪财经）</p>\n  <p><strong>三星任命存储与移动业务独立负责人，联席CEO人选不变</strong></p>\n  <p>根据三星电子发送的一份电子邮件声明，在联席CEO全永铉（Jun Young-hyun）和卢泰文（TM Roh）的领导下，三星电子分别任命了存储和移动业务的新负责人。黄尚俊（Sang Joon Hwang）晋升为总裁，并将出任存储业务负责人。崔元俊（Won-Joon Choi）被任命为移动业务负责人。全永铉将继续负责设备解决方案（DS）部门，卢泰文将继续担任设备体验（DX）部门负责人；两人将继续履行联席CEO的职责。（新浪财经）</p>\n  <p><strong>英伟达接近以逾5亿美元收购扩散式AI初创公司Inception</strong></p>\n  <p>据报道，英伟达接近以逾5亿美元收购扩散式AI初创公司Inception。（界面新闻）</p>\n  <p><strong>SK海力士将成为铠侠第一大股东</strong></p>\n  <p>SK海力士将把所持铠侠控股的债券转换为无投票权股份，从而成为铠侠第一大股东。这家韩国存储芯片公司周五公布转股方案，称转股完成后其在铠侠的持股比例将达到14.1%。(新浪财经)</p>\n  <p><strong>财政部在香港成功发行美元主权债券</strong></p>\n  <p>36氪获悉，据财政部，11月19日，中华人民共和国财政部代表中央政府在香港特别行政区成功发行了20亿美元主权债券，发行期限为3年期，发行利率为4.821%。此次美元主权债券受到市场热烈欢迎，国际投资者认购踊跃，总认购金额723亿美元，是发行金额的36倍。此次美元主权债券投资者类型丰富，地域分布广泛。亚洲、欧洲和中东、美洲投资者分别占比52%、34%、14%，主权类、基金资管、银行和保险、交易商等类型投资者分别占比59%、29%、11%、1%。此次发行的债券将全部在香港联合交易所上市。</p>\n  <p><strong>最新LPR公布</strong></p>\n  <p>中国央行将一年期和五年期贷款市场报价利率（LPR）分别维持在3%和3.5%不变，为连续18个月保持不变。</p>\n  <p><strong>美股恐慌指数VIX升至30，刷新3月底以来盘中最高水平</strong></p>\n  <p>美股恐慌指数VIX升至30，刷新3月底以来盘中最高水平。截至11月20日下午，道琼斯指数期货跌0.24%，标普500指数期货跌0.78%，纳斯达克100指数期货跌1.66%。(财联社)</p>\n  <p><strong>摩尔线程：实控人提议回购5亿至10亿元股份</strong></p>\n  <p>36氪获悉，摩尔线程公告，公司收到实际控制人、董事长、总经理张建中提议回购公司股份的函，拟使用自有资金和/或自筹资金，通过集中竞价交易方式回购部分A股股份，回购资金总额不低于5亿元且不超过10亿元，回购股份拟用于员工持股计划或股权激励。</p>\n  <p><strong>铜价跌至3月份以来最低，AI交易抛售潮殃及金属市场</strong></p>\n  <p>随着全球需求担忧不断加深，市场经历一周动荡后，铜价跌至3月份以来最低水平。伦敦金属交易所（LME）3个月期铜期货一度跌逾3%，本周表现势创近十年来最差单周表现之一。此轮抛售由多重因素推动，其中最迫切的担忧是人工智能支出能否能够持续，以及铜在AI建设中发挥的作用。（新浪财经）</p>\n  <p><strong>继大疆之后，影石部分产品或将涨价</strong></p>\n  <p>存储芯片涨价潮下，继大疆上调Osmo Pocket 4、Osmo Pocket 4P、Osmo Nano多款产品价格后，影石创新线下门店传出消息，旗舰云台相机Luna系列预计12月15日涨价约300元，其余系列暂不调价，目前官方暂未下发正式涨价通知。本次涨价主要源于NAND闪存等上游元器件成本抬升，内置大容量存储的影像产品承压明显，佳能等厂商也已发出涨价预警。（界面新闻）</p>\n  <p><strong>香港家族办公室大举解除39亿美元AI押注，清仓美光、西部数据等股票</strong></p>\n  <p>由对冲基金老将Larry Chen创立的香港家族办公室上季度削减股票持仓，正值投资者更广泛撤离AI相关资产之际。根据在美国提交的13F文件，截至第三季度末，Anther Capital Ltd.已不再持有此前价值约39亿美元的股份，主要集中在与AI相关的硬件和芯片制造商。包括西部数据和美光科技在内的这些投资，曾出现在Anther前一季度提交的13F文件中。（财联社）</p>\n  <h2><strong>上市进行时</strong></h2>\n  <p><strong>袁记食品集团股份有限公司通过港交所上市聆讯</strong></p>\n  <p>36氪获悉，港交所文件显示，袁记食品集团股份有限公司通过港交所上市聆讯。</p>\n  <h2><strong>投融资</strong></h2>\n  <p><strong>“原子矩阵”完成数亿元人民币B轮融资</strong></p>\n  <p>36氪获悉，中性原子量子计算公司“原子矩阵”近日宣布完成数亿元人民币B轮融资。本轮融资由杭州产投集团、杭州高新金投、成都科创投、鸿瑞达投资、博世创投、广州海珠城发、川创投等机构共同参与，集合多地国资平台、产业资本及市场化投资机构。本轮融资将为公司链接区域资源、落地量超融合试点、深化产业生态合作提供支撑。一年内，原子矩阵已连续完成五轮股权融资，累计融资总额突破10亿元。</p>\n  <p><strong>“基元科技”完成数千万元天使轮融资</strong></p>\n  <p>36氪获悉，国内覆盖二维半导体集成电路制造生长—转移—检测全流程的专用产线设备商“基元科技”近日完成数千万元天使轮融资，由朝晖芯华基金领投（朝晖资本与中芯国际创始人张汝京博士联合管理），宁创投、常州高新投、南慧创投等跟投，云岫资本担任后续融资财务顾问。</p>\n  <h2><strong>大公司财报</strong></h2>\n  <p><strong>闲鱼：2027财年Q2日活同比增长23%，订单量同比增长29%</strong></p>\n  <p>36氪获悉，11月19日，阿里巴巴集团发布2027财年Q2财报。财报显示，本季度闲鱼日均活跃用户同比增长23%，订单量同比增长29%。数据显示，过去一年闲鱼服务类订单增长87%，其中AI编程、AI漫剧等AI相关服务订单增长达157%。</p>\n  <p><strong>文远知行：第三季度收入同比增长88%，Robotaxi收入首次突破亿元</strong></p>\n  <p>36氪获悉，文远知行公布2026年第三季度未经审计业绩，期内实现收入3.215亿元人民币，同比增长88%，环比增长38.8%;毛利1.381亿元，同比增长约145%，毛利率升至43%，同比提升10.1个百分点。其中，海外业务收入1.469亿元，同比增长171.5%，占总收入45.7%；Robotaxi业务收入首次突破1亿元，同比增长204%，其中海外收入占比超过90%。第三季度公司净亏损3.10亿元，上年同期为3.073亿元；非国际财务报告准则经调整净亏损3.365亿元。</p>\n  <h2><strong>酷产品</strong></h2>\n  <p><strong>比亚迪发布可10秒折叠的方向盘</strong></p>\n  <p>11月19日，比亚迪发布折叠智舱，推出可10秒收纳的折叠方向盘，将搭载于方程豹钛9，面向L3、L4高阶自动驾驶场景。该方向盘具备双状态气囊保护、防夹功能，启停寿命可达8万次。新车折叠智舱版售价32.99万元，这套方案攻克了气囊、结构可靠性等行业量产难点。业内认为该技术属于面向自动驾驶的前置布局，但受国内L3落地节奏影响，短期内日常使用频次有限。（界面新闻）</p>\n  <p><strong>整理丨李琪</strong></p>",
-      "category": "tech",
-      "published_at": "2026-11-21T01:19:00+00:00",
-      "fetched_at": "2026-11-21T05:22:25.377481+00:00",
-      "fingerprint": "37bd676214a5ed25"
-    },
-    {
-      "source": "36氪 - 最新文章",
-      "title": "最前线｜半导体业务成主线，TCL中环增持中环领先股权至98.52%",
-      "url": "https://36kr.com/p/4078863230800768?f=rss",
-      "summary": "<p>近日，&nbsp;TCL中环（002129.SZ）公告称，拟向50名交易对方发行股份，购买中环领先65.80%的股份。交易完成后，其持股比例将由32.72%升至98.52%。</p>\n  <p>同时，本次购买资产的股份发行价为7.59元/股，交易对价尚待审计评估后协商确定。公司还拟募集配套资金，主要用于中环领先项目建设。目前交易处于预案阶段，尚需履行后续审议及监管程序。</p>\n  <p>11 月 16 日，TCL 中环也召开了媒体沟通会。36 氪从沟通会获悉，这笔交易发生在两项主业的不同周期位置：光伏业务仍在修复，半导体硅片业务已出现盈利改善。</p>\n  <p>TCL中环希望在AI需求向上游材料传导的过程中，提高半导体业务的权益贡献，同时提升公司的资源配置与管理效率。</p>\n  <h3>增持背后考量</h3>\n  <p>据公司披露，2026年前三季度，中环领先实现营收49亿元，同比增长15%，整体实现盈亏平衡。其中，第三季度营收18.58亿元，同比增长23%；净利润8000万元，并实现单季度经营性盈利。</p>\n  <p>从一季度亏损、二季度微利，到三季度盈利改善，中环领先的经营变化，是此次增持的重要背景。管理层表示，今年二季度以来，公司在业务端感受到AI及泛工业需求复苏带来的增长，部分业务陆续进入量价齐升阶段。</p>\n  <p>中环领先此前已纳入TCL中环合并报表，截至今年9月30日，TCL中环净资产规模超过320亿元，其中半导体材料业务净资产217亿元，约占公司净资产总额的70%。此次增持将提高上市公司对其未来利润及净资产的权益比例。</p>\n  <p>36氪也在会上进行了追问：除了增加利润份额，这次收购能解决哪些现有股权结构下难以推进的问题？</p>\n  <p>管理层解释，中环领先的外部股东众多，各类主体均有相应的治理要求，重大经营事项需要履行多方审议流程。持股比例提高后，有助于提升决策和管理效率，加快其全球领先战略，</p>\n  <p>使研发投入、产能扩建等需求能够快速形成决策并匹配资源，同时从上市公司层面统筹人才激励。</p>\n  <p>这给出了财务收益之外的另一层逻辑：在需求增长的窗口期，产线何时扩建、资金如何到位，会影响企业承接订单的节奏。股权进一步集中，为缩短内部决策链条提供了条件。</p>\n  <h3>AI需求如何转化为硅片利润</h3>\n  <p>半导体硅片是制造芯片的基础材料。管理层判断，AI正拉动逻辑和存储芯片需求，并有望进一步带动功率、电源管理等产品需求，这轮增长的持续时间可能超过以往传统周期。</p>\n  <p>公司披露，前三季度中环领先12英寸产品出货同比增长24%，8英寸及以下产品同比增长18%。不同尺寸的产品均有增长，但盈利表现存在差异。</p>\n  <p>管理层解释，部分特色工艺产品一直保持盈利，主要承压的是12英寸轻掺产品。这部分业务仍处于产能爬坡阶段，折旧摊销负担较重，国内竞争也较激烈。随着产量提升，固定成本得到摊薄，再叠加价格修复，公司的整体盈利能力逐步改善。</p>\n  <p>这意味着，需求增长能为硅片企业带来多少利润，取决于产能利用率、良率和产品结构。即使处于上行阶段，企业也需要把新增订单转化为稳定生产，才能消化前期投入。</p>\n  <p>全产品布局则给中环领先提供了更多客户切入口。管理层提到，不少客户同时拥有不同尺寸的晶圆厂，或经历了从8英寸向12英寸的发展过程。覆盖多个产品门类，有助于公司持续服务同一客户的不同产线需求。</p>\n  <p>按照公司规划，宜兴、徐州两个基地的12英寸产能将在2026年底合计达到100万片/月，2027年上半年接近130万片/月。同时，公司将推进高端逻辑、存储及高端封装用硅片的研发和验证。管理层强调，需要结合客户导入节奏和产能排产，将通过验证的产品转化为稳定供货。</p>\n  <p>这些投入，也体现出两项主业在当前阶段的不同任务。公司表示，将继续保持新能源光伏与半导体材料双主业经营。光伏业务侧重改善经营和现金流，通过现有产能技改、BC技术转化及全球化开拓提高竞争力，暂时没有其他大规模新增硅片产能规划；半导体业务则重点支持12英寸产能建设和高端产品研发。</p>",
-      "category": "tech",
-      "published_at": "2026-11-21T01:55:14+00:00",
-      "fetched_at": "2026-11-21T05:22:25.377466+00:00",
-      "fingerprint": "780e7f4c4c224da6"
-    },
-    {
-      "source": "少数派",
-      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
-      "url": "https://sspai.com/post/119327",
-      "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...<a href=\"https://sspai.com/post/119327\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-20T07:34:26+00:00",
-      "fetched_at": "2026-11-21T05:22:23.851824+00:00",
-      "fingerprint": "48521dbb3304a699"
-    },
-    {
-      "source": "少数派",
-      "title": "本周看什么 | 最近值得一看的 10 部作品",
-      "url": "https://sspai.com/post/119337",
-      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...<a href=\"https://sspai.com/post/119337\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-20T09:54:01+00:00",
-      "fetched_at": "2026-11-21T05:22:23.851819+00:00",
-      "fingerprint": "8e3c5051b370a23c"
-    },
-    {
-      "source": "少数派",
-      "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
-      "url": "https://sspai.com/post/119291",
-      "summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...<a href=\"https://sspai.com/post/119291\" target=\"_blank\">查看全文</a>",
-      "category": "tech",
-      "published_at": "2026-11-21T04:00:00+00:00",
-      "fetched_at": "2026-11-21T05:22:23.851808+00:00",
-      "fingerprint": "b526d9a8781f22d3"
-    },
-    {
-      "source": "澳元兑人民币 (AUD/CNY)",
-      "title": "1 AUD = 4.4513 CNY ↓-0.51%",
-      "url": "https://www.frankfurter.app/2026-11-20?from=AUD&to=CNY",
-      "summary": "<div>参考日期: <b>2026-11-20</b></div><div style=\"font-size:24px;margin:6px 0;\"><b>1 AUD = 4.4513 CNY</b> <span style=\"color:#5cb85c;font-size:14px;\">↓ -0.0230 (-0.51%) 贬值</span></div><div style=\"color:#888;font-size:12px;\">数据源: 欧洲央行 (frankfurter.app)</div>",
-      "category": "rate",
-      "published_at": null,
-      "fetched_at": "2026-11-21T05:22:22.858775+00:00",
-      "fingerprint": "c1648c567f588852"
     }
   ]
 }
